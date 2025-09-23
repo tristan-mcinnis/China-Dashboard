@@ -289,7 +289,7 @@ body {
 }
 
 /* Bilingual text container */
-.bilingual-text {
+a.bilingual-text {
   display: flex;
   flex-direction: column;
   gap: 1px;
@@ -316,11 +316,11 @@ body {
 }
 
 /* Hover states for bilingual text */
-.data-list a:hover .bilingual-text .chinese-text {
+.data-list a.bilingual-text:hover .chinese-text {
   color: var(--color-text-accent);
 }
 
-.data-list a:hover .bilingual-text .english-text {
+.data-list a.bilingual-text:hover .english-text {
   color: var(--color-text-accent);
   opacity: 1;
 }

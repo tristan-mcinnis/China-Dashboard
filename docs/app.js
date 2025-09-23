@@ -69,12 +69,12 @@ async function render() {
         const translation = item.extra?.translation || '';
 
         if (translation) {
-          li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">
-            <div class="bilingual-text">
+          li.innerHTML = `
+            <a href="${item.url}" target="_blank" rel="noopener" class="bilingual-text">
               <div class="chinese-text">${cleanTitle}</div>
               <div class="english-text">${translation}</div>
-            </div>
-          </a> <span class="muted">${item.value || ""}</span>`;
+            </a>
+            <span class="muted">${item.value || ""}</span>`;
         } else {
           li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
             item.value || ""
@@ -93,12 +93,12 @@ async function render() {
         const translation = item.extra?.translation || '';
 
         if (translation) {
-          li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">
-            <div class="bilingual-text">
+          li.innerHTML = `
+            <a href="${item.url}" target="_blank" rel="noopener" class="bilingual-text">
               <div class="chinese-text">${cleanTitle}</div>
               <div class="english-text">${translation}</div>
-            </div>
-          </a> <span class="muted">${item.value || ""}</span>`;
+            </a>
+            <span class="muted">${item.value || ""}</span>`;
         } else {
           li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
             item.value || ""
