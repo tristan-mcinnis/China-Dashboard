@@ -1,4 +1,4 @@
-# PRD: China Snapshot Dashboard
+# PRD: CHINA SNAPSHOT Dashboard
 
 ## 1. Objective
 
