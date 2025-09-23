@@ -90,7 +90,7 @@ def translate_text(text: str) -> str:
             ]
         )
 
-        translation = response.text.content.strip()
+        translation = response.output_text.strip()
         # Ensure it's not too long and add ellipsis if needed
         if len(translation) > 60:
             translation = translation[:57] + "..."
