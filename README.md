@@ -2,17 +2,28 @@
 
 Serverless dashboard for real-time China signals. **Collectors → JSON → GitHub Pages.** No backend servers.
 
-## Quick start (macOS & cross-platform)
+## Quick start (100% on GitHub)
 
-1. **Clone** the repository on macOS or your preferred OS.
-2. **Create** a Python 3.11 virtual environment (e.g. `python3 -m venv .venv && source .venv/bin/activate` on macOS).
-3. **Install** dependencies: `pip install -r requirements.txt`.
-4. **Enable GitHub Pages:** Settings → Pages → Branch = `main`, Folder = `/site`.
-5. **Set optional secrets:**
+1. **Create the repository** with this scaffold (import or fork).
+2. **Enable GitHub Pages:** `Settings → Pages → Build and deployment → Source = Deploy from a branch`, then select `main` and `/site`.
+3. **Add Actions secrets (optional but recommended):** `Settings → Secrets and variables → Actions`.
    - `WEIBO_COOKIE`
    - `FX_API_KEY`
-6. **Run the workflow:** Actions → `collect` → `Run workflow` (or wait for cron).
-7. Open the GitHub Pages URL to see the dashboard.
+4. **Trigger the workflow:** `Actions → collect → Run workflow` (or wait for the cron job).
+5. Visit the GitHub Pages URL; the dashboard and JSON feeds are served directly from the repo.
+
+### Optional local validation (macOS or any OS)
+
+If you want to test collectors locally before committing, you can still clone the repo and run:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python collectors/baidu_top.py
+```
+
+All automation is GitHub-native—the local step is only for confidence checks.
 
 ## Data files
 
