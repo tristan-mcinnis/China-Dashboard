@@ -35,6 +35,6 @@ jobs:
         run: |
           git config user.name "china-snapshot-bot"
           git config user.email "bot@example.com"
-          git add data/*.json || true
+          git add docs/data/*.json || true
           git commit -m "data: update $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"
           git push
