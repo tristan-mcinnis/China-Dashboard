@@ -4,60 +4,108 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>China Snapshot Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header>
-    <h1>China Snapshot</h1>
-    <div id="meta">
-      <span id="last-refresh">Loading…</span>
-    </div>
-  </header>
-
-  <main>
-    <section id="narrative">
-      <h2>Narrative (Headlines)</h2>
-      <div class="cards" id="cards-narrative">
-      </div>
-    </section>
-
-    <section id="markets">
-      <h2>Markets &amp; FX</h2>
-      <div class="cards two-col">
-        <div class="card">
-          <h3>Indices</h3>
-          <ul id="indices"></ul>
+  <div class="container">
+    <header class="header">
+      <div class="header-content">
+        <div class="brand">
+          <h1 class="brand-title">China Snapshot</h1>
+          <div class="brand-subtitle">Real-time China signals dashboard</div>
         </div>
-        <div class="card">
-          <h3>FX</h3>
-          <ul id="fx"></ul>
+        <div class="status">
+          <div class="status-indicator">
+            <div class="status-dot"></div>
+            <span id="last-refresh" class="status-text">Loading...</span>
+          </div>
         </div>
       </div>
-    </section>
+    </header>
 
-    <section id="social">
-      <h2>Social &amp; Search</h2>
-      <div class="cards two-col">
-        <div class="card">
-          <h3>Baidu Top</h3>
-          <ol id="baidu"></ol>
+    <main class="main">
+      <section class="section">
+        <div class="section-header">
+          <h2 class="section-title">Markets & FX</h2>
+          <div class="section-subtitle">Real-time financial indicators</div>
         </div>
-        <div class="card">
-          <h3>Weibo Hot</h3>
-          <ol id="weibo"></ol>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">Indices</h3>
+              <div class="card-subtitle">Shanghai & Shenzhen markets</div>
+            </div>
+            <div class="card-content">
+              <ul id="indices" class="data-list"></ul>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">FX</h3>
+              <div class="card-subtitle">Currency exchange rates</div>
+            </div>
+            <div class="card-content">
+              <ul id="fx" class="data-list"></ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-header">
+          <h2 class="section-title">Social & Search</h2>
+          <div class="section-subtitle">Trending topics and discussions</div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">Baidu Top</h3>
+              <div class="card-subtitle">Most searched topics</div>
+            </div>
+            <div class="card-content">
+              <ol id="baidu" class="data-list numbered"></ol>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">Weibo Hot</h3>
+              <div class="card-subtitle">Trending social discussions</div>
+            </div>
+            <div class="card-content">
+              <ol id="weibo" class="data-list numbered"></ol>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-header">
+          <h2 class="section-title">Policy & Risk</h2>
+          <div class="section-subtitle">Government and environmental alerts</div>
+        </div>
+        <div class="placeholder-card">
+          <div class="placeholder-content">
+            <div class="placeholder-icon">📊</div>
+            <div class="placeholder-text">Coming soon: Policy ticker, AQI, weather alerts</div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-left">
+          <span class="footer-text">Powered by GitHub Actions + Pages</span>
+        </div>
+        <div class="footer-right">
+          <span class="footer-text">Auto-refreshing every 60s</span>
         </div>
       </div>
-    </section>
-
-    <section id="policy-risk">
-      <h2>Policy &amp; Risk</h2>
-      <div class="muted">Coming next: policy ticker, AQI, weather alerts.</div>
-    </section>
-  </main>
-
-  <footer>
-    <small>Auto-refreshing. Data files live under /data. Built with GitHub Actions + Pages.</small>
-  </footer>
+    </footer>
+  </div>
 
   <script src="app.js"></script>
 </body>

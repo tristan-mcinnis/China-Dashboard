@@ -16,7 +16,14 @@ function fmtPct(value) {
 function setLastRefresh() {
   const el = document.getElementById("last-refresh");
   if (el) {
-    el.textContent = `Last refresh: ${new Date().toLocaleString("zh-CN", { hour12: false })}`;
+    const now = new Date();
+    const timeString = now.toLocaleTimeString("en-US", {
+      hour12: false,
+      hour: '2-digit',
+      minute: '2-digit',
+      second: '2-digit'
+    });
+    el.textContent = `Updated ${timeString}`;
   }
 }
 
