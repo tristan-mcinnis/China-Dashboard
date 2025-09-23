@@ -5,6 +5,8 @@ from __future__ import annotations
 import os
 import sys
 from pathlib import Path
+from typing import Any
+from urllib.parse import quote_plus
 
 if __name__ == "__main__" and __package__ is None:
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -18,6 +20,50 @@ from collectors.common import base_headers, backoff_sleep, schema, write_json, t
 load_dotenv()
 
 OUT = "docs/data/tencent_wechat_hot.json"
+
+
+def _extract_item_list(payload: Any) -> list[Any]:
+    """Return the first list of items found in a TianAPI response payload."""
+
+    seen: set[int] = set()
+
+    def _inner(value: Any) -> list[Any] | None:
+        obj_id = id(value)
+        if obj_id in seen:
+            return None
+        seen.add(obj_id)
+
+        if isinstance(value, list):
+            return value
+
+        if isinstance(value, dict):
+            preferred_keys = (
+                "list",
+                "newslist",
+                "newsList",
+                "items",
+                "item",
+                "data",
+                "datas",
+                "detail",
+                "details",
+            )
+
+            for key in preferred_keys:
+                if key in value:
+                    found = _inner(value[key])
+                    if isinstance(found, list):
+                        return found
+
+            for nested in value.values():
+                found = _inner(nested)
+                if isinstance(found, list):
+                    return found
+
+        return None
+
+    found_list = _inner(payload)
+    return found_list if isinstance(found_list, list) else []
 
 
 def fetch_wechat_hot(max_items: int = 10):
@@ -35,9 +81,10 @@ def fetch_wechat_hot(max_items: int = 10):
             if resp.status_code == 200:
                 data = resp.json()
 
-                if data.get("code") == 200 and isinstance(data.get("result"), dict):
-                    raw_list = data["result"].get("list", [])
-                    if not isinstance(raw_list, list):
+                if data.get("code") == 200 and "result" in data:
+                    raw_list = _extract_item_list(data.get("result"))
+                    if not isinstance(raw_list, list) or not raw_list:
+                        print("TianAPI wxhottopic response missing expected list of items")
                         return []
 
                     items = []
@@ -45,25 +92,63 @@ def fetch_wechat_hot(max_items: int = 10):
                         if not isinstance(item, dict):
                             continue
 
-                        topic = (item.get("word") or item.get("title") or "").strip()
-                        heat_index = item.get("index") or item.get("hot") or item.get("heat") or item.get("hotvalue")
+                        topic = ""
+                        for key in ("word", "title", "name", "keyword", "topic", "hotword"):
+                            raw_topic = item.get(key)
+                            if isinstance(raw_topic, str) and raw_topic.strip():
+                                topic = raw_topic.strip()
+                                break
 
                         if not topic:
                             continue
 
+                        heat_index = None
+                        for score_key in (
+                            "index",
+                            "hot",
+                            "heat",
+                            "hotvalue",
+                            "hot_value",
+                            "hotindex",
+                            "num",
+                            "score",
+                        ):
+                            value = item.get(score_key)
+                            if value is None:
+                                continue
+                            if isinstance(value, (int, float)):
+                                heat_index = value
+                                break
+                            if isinstance(value, str) and value.strip():
+                                heat_index = value.strip()
+                                break
+
                         score_display = ""
                         if isinstance(heat_index, (int, float)):
                             score_display = f"指数 {heat_index}"
-                        elif isinstance(heat_index, str) and heat_index.strip():
-                            score_display = f"指数 {heat_index.strip()}"
+                        elif isinstance(heat_index, str) and heat_index:
+                            if any(token in heat_index for token in ("指数", "热度")):
+                                score_display = heat_index
+                            else:
+                                score_display = f"指数 {heat_index}"
 
-                        search_url = f"https://weixin.sogou.com/weixin?type=2&query={topic}"
+                        url = ""
+                        for url_key in ("url", "link", "source_url", "newsurl"):
+                            raw_url = item.get(url_key)
+                            if isinstance(raw_url, str) and raw_url.strip():
+                                url = raw_url.strip()
+                                break
+
+                        if not url:
+                            encoded_query = quote_plus(topic)
+                            url = f"https://weixin.sogou.com/weixin?type=2&query={encoded_query}"
+
                         translation = translate_text(topic)
 
                         items.append({
                             "title": f"{i}. {topic}",
                             "value": score_display,
-                            "url": search_url,
+                            "url": url,
                             "extra": {
                                 "rank": i,
                                 "raw_score": heat_index,
