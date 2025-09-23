@@ -12,7 +12,7 @@ import requests
 
 from collectors.common import backoff_sleep, schema, write_json
 
-OUT = "data/fx.json"
+OUT = "docs/data/fx.json"
 
 PAIRS = {
     "USD/CNY": "CNY=X",

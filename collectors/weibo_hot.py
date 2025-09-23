@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 from collectors.common import base_headers, backoff_sleep, schema, write_json
 
-OUT = "data/weibo_hot.json"
+OUT = "docs/data/weibo_hot.json"
 
 
 def fetch_weibo_hot(max_items: int = 10):

@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 from collectors.common import base_headers, backoff_sleep, schema, write_json
 
-OUT = "data/baidu_top.json"
+OUT = "docs/data/baidu_top.json"
 
 
 def fetch_baidu_top(max_items: int = 10):

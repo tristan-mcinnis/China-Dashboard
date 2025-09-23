@@ -12,7 +12,7 @@ import requests
 
 from collectors.common import backoff_sleep, schema, write_json
 
-OUT = "data/indices.json"
+OUT = "docs/data/indices.json"
 
 SYMBOLS = {
     "SSE Composite": "000001.SS",

@@ -1,6 +1,6 @@
 async function loadJSON(path) {
   const bust = `?t=${Date.now()}`;
-  const res = await fetch(`../${path}${bust}`);
+  const res = await fetch(`${path}${bust}`);
   if (!res.ok) throw new Error(`fetch ${path} ${res.status}`);
   return res.json();
 }
