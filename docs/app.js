@@ -69,13 +69,11 @@ async function render() {
         const translation = item.extra?.translation || '';
 
         li.innerHTML = `
-          <div style="flex: 1;">
-            <div>
-              <a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a>
-              <span class="muted">${item.value || ""}</span>
-            </div>
+          <a href="${item.url}" target="_blank" rel="noopener">
+            <div>${cleanTitle}</div>
             ${translation ? `<div class="translation">${translation}</div>` : ''}
-          </div>
+          </a>
+          <span class="muted">${item.value || ""}</span>
         `;
         olBaidu.appendChild(li);
       });
@@ -90,13 +88,11 @@ async function render() {
         const translation = item.extra?.translation || '';
 
         li.innerHTML = `
-          <div style="flex: 1;">
-            <div>
-              <a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a>
-              <span class="muted">${item.value || ""}</span>
-            </div>
+          <a href="${item.url}" target="_blank" rel="noopener">
+            <div>${cleanTitle}</div>
             ${translation ? `<div class="translation">${translation}</div>` : ''}
-          </div>
+          </a>
+          <span class="muted">${item.value || ""}</span>
         `;
         olWeibo.appendChild(li);
       });
