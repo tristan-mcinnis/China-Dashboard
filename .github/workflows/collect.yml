@@ -1,7 +1,14 @@
 name: collect
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # Run 5 times per day to stay within TianAPI free tier limits
+    # Times: 06:00, 10:30, 14:00, 18:30, 22:00 Beijing time (UTC+8)
+    # Converted to UTC: 22:00, 02:30, 06:00, 10:30, 14:00
+    - cron: "0 22 * * *"    # 06:00 Beijing time
+    - cron: "30 2 * * *"    # 10:30 Beijing time
+    - cron: "0 6 * * *"     # 14:00 Beijing time
+    - cron: "30 10 * * *"   # 18:30 Beijing time
+    - cron: "0 14 * * *"    # 22:00 Beijing time
   workflow_dispatch:
 
 permissions:
@@ -22,6 +29,7 @@ jobs:
 
       - name: Run collectors
         env:
+          TIANAPI_API_KEY: ${{ secrets.TIANAPI_API_KEY }}
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
           FX_API_KEY: ${{ secrets.FX_API_KEY }}
           TZ: Asia/Shanghai
