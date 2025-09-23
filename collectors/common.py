@@ -67,16 +67,7 @@ def translate_text(text: str) -> str:
                     "content": [
                         {
                             "type": "input_text",
-                            "text": "You are a Chinese to English translator. Translate Chinese text to English concisely in one line (max 60 characters). Add ellipsis if needed."
-                        }
-                    ]
-                },
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "input_text",
-                            "text": f"Translate this Chinese text to English: {text}"
+                            "text": f"Translate this Chinese text to English in one concise line (max 60 characters, add ellipsis if needed): {text}"
                         }
                     ]
                 }
@@ -85,13 +76,18 @@ def translate_text(text: str) -> str:
                 "format": {
                     "type": "text"
                 },
-                "verbosity": "medium"
+                "verbosity": "low"
             },
             reasoning={
-                "effort": "medium"
+                "effort": "low",
+                "summary": "auto"
             },
             tools=[],
-            store=False
+            store=False,
+            include=[
+                "reasoning.encrypted_content",
+                "web_search_call.action.sources"
+            ]
         )
 
         translation = response.text.content.strip()
