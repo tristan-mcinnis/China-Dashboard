@@ -20,7 +20,7 @@ The dashboard should run fully serverless using GitHub Actions (for data collect
 ### In Scope
 - **Data modules** (JSON outputs, refreshed every 15–30 minutes):
   - News: Xinhua, People’s Daily, Caixin, Yicai (headlines only).
-  - Social/Search: Weibo Hot Search/Posts, Baidu Top 10, Zhihu hot questions.
+  - Social/Search: Weibo Hot Search/Posts, Baidu Top 10, WeChat Hot Topics, Zhihu hot questions.
   - Markets: SSE Composite, Shenzhen, ChiNext, STAR Market + sector gainers/losers.
   - FX & Flows: CNY/CNH vs USD/EUR/JPY, Stock Connect (north/south).
   - Commodities: coal, rare earths, pork.
@@ -164,7 +164,7 @@ china-snapshot/
 ## 9. Roadmap
 
 ### V1 (MVP)
-- Collectors: Weibo Hot, Baidu Top, SSE index, FX.
+- Collectors: Weibo Hot, WeChat Hot, Baidu Top, SSE index, FX.
 - Static dashboard with auto-refresh.
 - GitHub Actions every 30 min.
 

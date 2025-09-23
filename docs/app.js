@@ -29,11 +29,12 @@ function setLastRefresh() {
 
 async function render() {
   try {
-    const [indices, fx, baidu, weibo] = await Promise.all([
+    const [indices, fx, baidu, weibo, wechat] = await Promise.all([
       loadJSON("data/indices.json"),
       loadJSON("data/fx.json"),
       loadJSON("data/baidu_top.json"),
       loadJSON("data/weibo_hot.json"),
+      loadJSON("data/tencent_wechat_hot.json"),
     ]);
 
     const ulIdx = document.getElementById("indices");
@@ -107,6 +108,31 @@ async function render() {
           }</span>`;
         }
         olWeibo.appendChild(li);
+      });
+    }
+
+    const olWechat = document.getElementById("wechat");
+    if (olWechat) {
+      olWechat.innerHTML = "";
+      wechat.items.slice(0, 10).forEach((item) => {
+        const li = document.createElement("li");
+        const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
+        const translation = item.extra?.translation || '';
+
+        if (translation) {
+          li.innerHTML = `
+            <a href="${item.url}" target="_blank" rel="noopener" class="bilingual-text">
+              <div class="chinese-text">${cleanTitle}</div>
+              <div class="english-text">${translation}</div>
+            </a>
+            <span class="muted">${item.value || ""}</span>`;
+          li.classList.add("has-translation");
+        } else {
+          li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
+            item.value || ""
+          }</span>`;
+        }
+        olWechat.appendChild(li);
       });
     }
 
