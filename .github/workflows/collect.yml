@@ -1,0 +1,40 @@
+name: collect
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run collectors
+        env:
+          WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
+          FX_API_KEY: ${{ secrets.FX_API_KEY }}
+          TZ: Asia/Shanghai
+        run: |
+          python collectors/baidu_top.py
+          python collectors/weibo_hot.py
+          python collectors/indices_cn.py
+          python collectors/fx_cny.py
+
+      - name: Commit data
+        run: |
+          git config user.name "china-snapshot-bot"
+          git config user.email "bot@example.com"
+          git add data/*.json || true
+          git commit -m "data: update $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"
+          git push
