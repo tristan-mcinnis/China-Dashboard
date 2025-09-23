@@ -32,6 +32,7 @@ jobs:
           TIANAPI_API_KEY: ${{ secrets.TIANAPI_API_KEY }}
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
           FX_API_KEY: ${{ secrets.FX_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TZ: Asia/Shanghai
         run: |
           python collectors/baidu_top.py

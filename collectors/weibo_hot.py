@@ -12,7 +12,7 @@ if __name__ == "__main__" and __package__ is None:
 import requests
 from dotenv import load_dotenv
 
-from collectors.common import base_headers, backoff_sleep, schema, write_json
+from collectors.common import base_headers, backoff_sleep, schema, write_json, translate_text
 
 # Load environment variables from .env file
 load_dotenv()
@@ -60,6 +60,9 @@ def fetch_weibo_hot(max_items: int = 10):
                                     if hottag and hottag.strip():
                                         title_with_tag += f" [{hottag.strip()}]"
 
+                                    # Get translation for the hotword (without numbering and tags)
+                                    translation = translate_text(hotword)
+
                                     items.append({
                                         "title": title_with_tag,
                                         "value": hot_display,
@@ -68,7 +71,8 @@ def fetch_weibo_hot(max_items: int = 10):
                                             "rank": i,
                                             "raw_score": hotwordnum,
                                             "tag": hottag,
-                                            "api_source": "tianapi"
+                                            "api_source": "tianapi",
+                                            "translation": translation
                                         }
                                     })
 

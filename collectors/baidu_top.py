@@ -9,8 +9,12 @@ if __name__ == "__main__" and __package__ is None:
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import requests
+from dotenv import load_dotenv
 
-from collectors.common import base_headers, backoff_sleep, schema, write_json
+# Load environment variables from .env file
+load_dotenv()
+
+from collectors.common import base_headers, backoff_sleep, schema, write_json, translate_text
 
 OUT = "docs/data/baidu_top.json"
 
@@ -25,6 +29,7 @@ def fetch_baidu_top(max_items: int = 10):
 
     items = []
     for i, topic in enumerate(topics[:max_items], 1):
+        translation = translate_text(topic)
         items.append({
             "title": f"{i}. {topic}",
             "value": f"热度 {1000000 - i * 50000}",
@@ -33,7 +38,8 @@ def fetch_baidu_top(max_items: int = 10):
                 "rank": i,
                 "raw_score": 1000000 - i * 50000,
                 "description": "当前热门话题",
-                "api_source": "placeholder"
+                "api_source": "placeholder",
+                "translation": translation
             }
         })
 

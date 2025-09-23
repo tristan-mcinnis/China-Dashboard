@@ -288,6 +288,16 @@ body {
   margin-left: var(--space-2);
 }
 
+/* Translation text */
+.translation {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--color-text-tertiary);
+  font-style: italic;
+  margin-top: 2px;
+  line-height: 1.2;
+}
+
 /* Percentage indicators */
 .data-list .muted:has-text("▲") {
   color: var(--color-success);

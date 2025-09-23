@@ -66,9 +66,17 @@ async function render() {
       baidu.items.slice(0, 10).forEach((item) => {
         const li = document.createElement("li");
         const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
-          item.value || ""
-        }</span>`;
+        const translation = item.extra?.translation || '';
+
+        li.innerHTML = `
+          <div style="flex: 1;">
+            <div>
+              <a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a>
+              <span class="muted">${item.value || ""}</span>
+            </div>
+            ${translation ? `<div class="translation">${translation}</div>` : ''}
+          </div>
+        `;
         olBaidu.appendChild(li);
       });
     }
@@ -79,9 +87,17 @@ async function render() {
       weibo.items.slice(0, 10).forEach((item) => {
         const li = document.createElement("li");
         const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
-          item.value || ""
-        }</span>`;
+        const translation = item.extra?.translation || '';
+
+        li.innerHTML = `
+          <div style="flex: 1;">
+            <div>
+              <a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a>
+              <span class="muted">${item.value || ""}</span>
+            </div>
+            ${translation ? `<div class="translation">${translation}</div>` : ''}
+          </div>
+        `;
         olWeibo.appendChild(li);
       });
     }

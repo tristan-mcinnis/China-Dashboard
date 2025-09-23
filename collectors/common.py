@@ -3,6 +3,7 @@ import os
 import random
 import time
 from datetime import datetime, timedelta, timezone
+from openai import OpenAI
 
 USER_AGENTS = [
     "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
@@ -47,3 +48,58 @@ def safe_get(d, key, default=""):
 
 def backoff_sleep(attempt: int) -> None:
     time.sleep(min(8, 1.5 ** attempt + random.random()))
+
+
+def translate_text(text: str) -> str:
+    """Translate Chinese text to English using OpenAI GPT-5-nano API."""
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        return ""
+
+    try:
+        client = OpenAI(api_key=api_key)
+
+        response = client.responses.create(
+            model="gpt-5-nano",
+            input=[
+                {
+                    "role": "developer",
+                    "content": [
+                        {
+                            "type": "input_text",
+                            "text": "You are a Chinese to English translator. Translate Chinese text to English concisely in one line (max 60 characters). Add ellipsis if needed."
+                        }
+                    ]
+                },
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "input_text",
+                            "text": f"Translate this Chinese text to English: {text}"
+                        }
+                    ]
+                }
+            ],
+            text={
+                "format": {
+                    "type": "text"
+                },
+                "verbosity": "medium"
+            },
+            reasoning={
+                "effort": "medium"
+            },
+            tools=[],
+            store=False
+        )
+
+        translation = response.text.content.strip()
+        # Ensure it's not too long and add ellipsis if needed
+        if len(translation) > 60:
+            translation = translation[:57] + "..."
+        return translation
+
+    except Exception as e:
+        print(f"Translation error: {e}")
+        return ""
