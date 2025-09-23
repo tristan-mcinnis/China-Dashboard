@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>China Snapshot Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>China Snapshot</h1>
+    <div id="meta">
+      <span id="last-refresh">Loading…</span>
+    </div>
+  </header>
+
+  <main>
+    <section id="narrative">
+      <h2>Narrative (Headlines)</h2>
+      <div class="cards" id="cards-narrative">
+      </div>
+    </section>
+
+    <section id="markets">
+      <h2>Markets &amp; FX</h2>
+      <div class="cards two-col">
+        <div class="card">
+          <h3>Indices</h3>
+          <ul id="indices"></ul>
+        </div>
+        <div class="card">
+          <h3>FX</h3>
+          <ul id="fx"></ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="social">
+      <h2>Social &amp; Search</h2>
+      <div class="cards two-col">
+        <div class="card">
+          <h3>Baidu Top</h3>
+          <ol id="baidu"></ol>
+        </div>
+        <div class="card">
+          <h3>Weibo Hot</h3>
+          <ol id="weibo"></ol>
+        </div>
+      </div>
+    </section>
+
+    <section id="policy-risk">
+      <h2>Policy &amp; Risk</h2>
+      <div class="muted">Coming next: policy ticker, AQI, weather alerts.</div>
+    </section>
+  </main>
+
+  <footer>
+    <small>Auto-refreshing. Data files live under /data. Built with GitHub Actions + Pages.</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
