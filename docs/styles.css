@@ -288,14 +288,41 @@ body {
   margin-left: var(--space-2);
 }
 
-/* Translation text */
-.translation {
-  font-family: var(--font-sans);
-  font-size: 0.7rem;
-  color: var(--color-text-tertiary);
-  font-style: italic;
-  margin-top: 2px;
+/* Bilingual text container */
+.bilingual-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  flex: 1;
   line-height: 1.2;
+}
+
+/* Chinese text (first line) */
+.chinese-text {
+  color: var(--color-text-primary);
+  font-weight: 500;
+  margin: 0;
+}
+
+/* English translation (second line) */
+.english-text {
+  font-family: var(--font-sans);
+  font-size: 0.9em;
+  color: var(--color-text-secondary);
+  font-weight: 400;
+  margin: 0;
+  line-height: 1.1;
+  opacity: 0.85;
+}
+
+/* Hover states for bilingual text */
+.data-list a:hover .bilingual-text .chinese-text {
+  color: var(--color-text-accent);
+}
+
+.data-list a:hover .bilingual-text .english-text {
+  color: var(--color-text-accent);
+  opacity: 1;
 }
 
 /* Percentage indicators */

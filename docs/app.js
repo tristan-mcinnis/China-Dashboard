@@ -68,9 +68,18 @@ async function render() {
         const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
         const translation = item.extra?.translation || '';
 
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
-          item.value || ""
-        }</span>${translation ? `<div class="translation">${translation}</div>` : ''}`;
+        if (translation) {
+          li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">
+            <div class="bilingual-text">
+              <div class="chinese-text">${cleanTitle}</div>
+              <div class="english-text">${translation}</div>
+            </div>
+          </a> <span class="muted">${item.value || ""}</span>`;
+        } else {
+          li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
+            item.value || ""
+          }</span>`;
+        }
         olBaidu.appendChild(li);
       });
     }
@@ -83,9 +92,18 @@ async function render() {
         const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
         const translation = item.extra?.translation || '';
 
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
-          item.value || ""
-        }</span>${translation ? `<div class="translation">${translation}</div>` : ''}`;
+        if (translation) {
+          li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">
+            <div class="bilingual-text">
+              <div class="chinese-text">${cleanTitle}</div>
+              <div class="english-text">${translation}</div>
+            </div>
+          </a> <span class="muted">${item.value || ""}</span>`;
+        } else {
+          li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
+            item.value || ""
+          }</span>`;
+        }
         olWeibo.appendChild(li);
       });
     }
