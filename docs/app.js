@@ -68,13 +68,9 @@ async function render() {
         const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
         const translation = item.extra?.translation || '';
 
-        li.innerHTML = `
-          <a href="${item.url}" target="_blank" rel="noopener">
-            <div>${cleanTitle}</div>
-            ${translation ? `<div class="translation">${translation}</div>` : ''}
-          </a>
-          <span class="muted">${item.value || ""}</span>
-        `;
+        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
+          item.value || ""
+        }</span>${translation ? `<div class="translation">${translation}</div>` : ''}`;
         olBaidu.appendChild(li);
       });
     }
@@ -87,13 +83,9 @@ async function render() {
         const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
         const translation = item.extra?.translation || '';
 
-        li.innerHTML = `
-          <a href="${item.url}" target="_blank" rel="noopener">
-            <div>${cleanTitle}</div>
-            ${translation ? `<div class="translation">${translation}</div>` : ''}
-          </a>
-          <span class="muted">${item.value || ""}</span>
-        `;
+        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
+          item.value || ""
+        }</span>${translation ? `<div class="translation">${translation}</div>` : ''}`;
         olWeibo.appendChild(li);
       });
     }
