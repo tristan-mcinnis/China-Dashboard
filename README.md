@@ -1,4 +1,4 @@
-# China Snapshot Dashboard
+# CHINA SNAPSHOT Dashboard
 
 Serverless dashboard for real-time China signals. **Collectors → JSON → GitHub Pages.** No backend servers.
 
