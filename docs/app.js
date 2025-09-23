@@ -75,6 +75,7 @@ async function render() {
               <div class="english-text">${translation}</div>
             </a>
             <span class="muted">${item.value || ""}</span>`;
+          li.classList.add("has-translation");
         } else {
           li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
             item.value || ""
@@ -99,6 +100,7 @@ async function render() {
               <div class="english-text">${translation}</div>
             </a>
             <span class="muted">${item.value || ""}</span>`;
+          li.classList.add("has-translation");
         } else {
           li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
             item.value || ""

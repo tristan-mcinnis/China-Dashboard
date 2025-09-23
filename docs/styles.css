@@ -297,6 +297,38 @@ a.bilingual-text {
   line-height: 1.2;
 }
 
+/* Layout adjustments for list items that include translations */
+.data-list.numbered li.has-translation {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr) auto;
+  column-gap: var(--space-2);
+  row-gap: 0.35rem;
+  align-items: start;
+}
+
+.data-list.numbered li.has-translation::before {
+  grid-column: 1;
+  justify-self: end;
+  margin-right: 0;
+  min-width: auto;
+}
+
+.data-list.numbered li.has-translation a.bilingual-text {
+  grid-column: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+  flex: initial;
+  width: 100%;
+}
+
+.data-list.numbered li.has-translation .muted {
+  grid-column: 3;
+  align-self: start;
+  margin-left: 0;
+}
+
 /* Chinese text (first line) */
 .chinese-text {
   color: var(--color-text-primary);
