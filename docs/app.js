@@ -65,7 +65,8 @@ async function render() {
       olBaidu.innerHTML = "";
       baidu.items.slice(0, 10).forEach((item) => {
         const li = document.createElement("li");
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> <span class="muted">${
+        const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
+        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
           item.value || ""
         }</span>`;
         olBaidu.appendChild(li);
@@ -77,7 +78,8 @@ async function render() {
       olWeibo.innerHTML = "";
       weibo.items.slice(0, 10).forEach((item) => {
         const li = document.createElement("li");
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> <span class="muted">${
+        const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
+        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
           item.value || ""
         }</span>`;
         olWeibo.appendChild(li);
