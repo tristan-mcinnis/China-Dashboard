@@ -36,6 +36,7 @@ Collectors write JSON to `/data/*.json` using a uniform schema:
 Current modules:
 - `baidu_top.json`
 - `weibo_hot.json`
+- `tencent_wechat_hot.json`
 - `indices.json`
 - `fx.json`
 

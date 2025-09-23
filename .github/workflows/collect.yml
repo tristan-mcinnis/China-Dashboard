@@ -37,6 +37,7 @@ jobs:
         run: |
           python collectors/baidu_top.py
           python collectors/weibo_hot.py
+          python collectors/tencent_wechat_hot.py
           python collectors/indices_cn.py
           python collectors/fx_cny.py
 
