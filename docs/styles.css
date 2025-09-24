@@ -125,9 +125,11 @@ body {
 }
 
 .logo {
-  height: 6rem;
-  width: auto;
+  height: 6rem !important;
+  width: auto !important;
   object-fit: contain;
+  min-height: 6rem;
+  max-height: 6rem;
 }
 
 .theme-toggle {
