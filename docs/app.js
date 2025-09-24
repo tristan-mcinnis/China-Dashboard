@@ -13,6 +13,53 @@ function fmtPct(value) {
   return ` ${sign} ${number.toFixed(2)}%`;
 }
 
+function renderWeatherStrip(container, payload) {
+  const items = Array.isArray(payload?.items) ? payload.items : [];
+  container.innerHTML = "";
+
+  if (items.length === 0) {
+    container.textContent = "Weather unavailable";
+    return;
+  }
+
+  items.forEach((item, index) => {
+    const wrapper = document.createElement("span");
+    wrapper.className = "weather-item";
+
+    const code = (item.code || item.name || "").toString().toUpperCase();
+    const temperature =
+      typeof item.temperature === "number" && Number.isFinite(item.temperature)
+        ? `${Math.round(item.temperature)}°C`
+        : "—";
+    const label = document.createElement("span");
+    label.className = "weather-label";
+    label.textContent = `${code}: ${temperature}`;
+
+    const icon = document.createElement("span");
+    icon.className = "weather-icon";
+    icon.textContent = item.icon || "•";
+    if (item.condition) {
+      icon.title = item.condition;
+      wrapper.setAttribute("aria-label", `${code}: ${temperature} ${item.condition}`);
+    } else {
+      icon.setAttribute("aria-hidden", "true");
+    }
+
+    wrapper.appendChild(label);
+    wrapper.appendChild(document.createTextNode(" "));
+    wrapper.appendChild(icon);
+
+    container.appendChild(wrapper);
+
+    if (index < items.length - 1) {
+      const divider = document.createElement("span");
+      divider.className = "weather-divider";
+      divider.textContent = "/";
+      container.appendChild(divider);
+    }
+  });
+}
+
 function setLastRefresh() {
   const el = document.getElementById("last-refresh");
   if (el) {
@@ -29,12 +76,13 @@ function setLastRefresh() {
 
 async function render() {
   try {
-    const [indices, fx, baidu, weibo, wechat] = await Promise.all([
+    const [indices, fx, baidu, weibo, wechat, weather] = await Promise.all([
       loadJSON("data/indices.json"),
       loadJSON("data/fx.json"),
       loadJSON("data/baidu_top.json"),
       loadJSON("data/weibo_hot.json"),
       loadJSON("data/tencent_wechat_hot.json"),
+      loadJSON("data/weather.json").catch(() => ({ items: [] })),
     ]);
 
     const ulIdx = document.getElementById("indices");
@@ -134,6 +182,11 @@ async function render() {
         }
         olWechat.appendChild(li);
       });
+    }
+
+    const weatherStrip = document.getElementById("weather-strip");
+    if (weatherStrip) {
+      renderWeatherStrip(weatherStrip, weather);
     }
 
     setLastRefresh();
