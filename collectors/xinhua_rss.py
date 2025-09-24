@@ -6,7 +6,7 @@ import sys
 import time
 from html import unescape
 from pathlib import Path
-from typing import Dict, Iterable, List
+from typing import Dict, Iterable, List, Sequence
 from datetime import datetime, timezone
 import re
 
@@ -14,6 +14,7 @@ if __name__ == "__main__" and __package__ is None:
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import feedparser  # type: ignore
+import requests
 
 from collectors.common import (
     base_headers,
@@ -25,14 +26,35 @@ from collectors.common import (
 OUT = "docs/data/xinhua_news.json"
 HISTORY_OUT = "docs/data/history/xinhua_news.json"
 MAX_ITEMS_PER_FEED = 5
+REQUEST_TIMEOUT = 15
 
 # Official RSS feeds published by Xinhua News Agency. These URLs have been
 # stable for years and are mirrored globally. Adjust or extend as needed.
-FEEDS: Dict[str, str] = {
-    "要闻": "http://www.news.cn/politicspro/rss_politics.xml",
-    "国内": "http://www.news.cn/gnpro/rss_gn.xml",
-    "财经": "http://www.news.cn/fortunepro/rss_fortune.xml",
-    "科技": "http://www.news.cn/techpro/rss_tech.xml",
+FEEDS: Dict[str, Sequence[str]] = {
+    # International headlines (世界/国际)
+    "国际": (
+        "https://rss.news.cn/world/index.xml",
+        "https://www.news.cn/english/rss/worldrss.xml",
+        "http://www.news.cn/worldpro/rss_world.xml",
+    ),
+    # Mainland China / domestic politics
+    "国内": (
+        "https://rss.news.cn/china/index.xml",
+        "https://www.news.cn/english/rss/domestic.xml",
+        "http://www.news.cn/gnpro/rss_gn.xml",
+    ),
+    # Economy and finance coverage
+    "财经": (
+        "https://rss.news.cn/finance/index.xml",
+        "https://www.news.cn/english/rss/fortune.xml",
+        "http://www.news.cn/fortunepro/rss_fortune.xml",
+    ),
+    # Science and technology developments
+    "科技": (
+        "https://rss.news.cn/tech/index.xml",
+        "https://www.news.cn/english/rss/tech.xml",
+        "http://www.news.cn/techpro/rss_tech.xml",
+    ),
 }
 
 
@@ -63,6 +85,70 @@ def _strip_html(text: str) -> str:
     return cleaned[:500]
 
 
+def _expand_variants(url: str) -> List[str]:
+    """Return candidate URLs for a feed, including HTTPS/HTTP and proxy fallbacks."""
+
+    candidates: List[str] = []
+
+    def _add(candidate: str) -> None:
+        if candidate not in candidates:
+            candidates.append(candidate)
+
+    _add(url)
+
+    if url.startswith("http://"):
+        _add("https://" + url[len("http://") :])
+    elif url.startswith("https://"):
+        _add("http://" + url[len("https://") :])
+
+    for candidate in list(candidates):
+        if "://" not in candidate:
+            continue
+        scheme, rest = candidate.split("://", 1)
+        if not rest:
+            continue
+        _add(f"https://r.jina.ai/{scheme}://{rest}")
+
+    return candidates
+
+
+def _download_feed(urls: Sequence[str], headers: dict) -> tuple[bytes, str] | None:
+    """Download a feed trying multiple mirrors and proxy fallbacks."""
+
+    for original_url in urls:
+        for candidate_url in _expand_variants(original_url):
+            try:
+                response = requests.get(
+                    candidate_url,
+                    headers=headers,
+                    timeout=REQUEST_TIMEOUT,
+                )
+            except Exception as exc:  # pragma: no cover - network error handling
+                print(f"Failed to fetch {candidate_url}: {exc}")
+                continue
+
+            if response.status_code >= 400:
+                print(
+                    f"Feed {candidate_url} returned HTTP {response.status_code}"
+                )
+                continue
+
+            content = response.content
+            if candidate_url.startswith("https://r.jina.ai/"):
+                content = response.text.encode(response.encoding or "utf-8")
+
+            if not content.strip():
+                print(f"Feed {candidate_url} returned an empty body")
+                continue
+
+            canonical_url = (
+                original_url if candidate_url != original_url else candidate_url
+            )
+            return content, canonical_url
+
+    return None
+
+
 def fetch_xinhua_news(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
     """Fetch and translate top stories from configured Xinhua RSS feeds."""
 
@@ -74,21 +160,23 @@ def fetch_xinhua_news(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
 
     all_items: List[dict] = []
 
-    for category, url in FEEDS.items():
+    for category, urls in FEEDS.items():
+        downloaded = _download_feed(urls, dict(headers))
+        if not downloaded:
+            continue
+
+        content, source_url = downloaded
+
         try:
-            feed = feedparser.parse(url, request_headers=dict(headers))
-        except Exception as exc:  # pragma: no cover - network error handling
-            print(f"Failed to fetch {url}: {exc}")
+            feed = feedparser.parse(content)
+        except Exception as exc:  # pragma: no cover - defensive logging only
+            print(f"Feed {source_url} parse error: {exc}")
             continue
 
         if getattr(feed, "bozo", False):  # pragma: no cover - logging only
             exc = getattr(feed, "bozo_exception", None)
             if exc:
-                print(f"Feed {url} parse warning: {exc}")
-
-        if getattr(feed, "status", 200) >= 400:
-            print(f"Feed {url} returned HTTP {feed.status}")
-            continue
+                print(f"Feed {source_url} parse warning: {exc}")
 
         entries: Iterable[feedparser.FeedParserDict] = getattr(feed, "entries", [])
 
@@ -117,7 +205,7 @@ def fetch_xinhua_news(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
                         "category": category,
                         "published": _entry_timestamp(entry),
                         "summary": summary,
-                        "source_feed": url,
+                        "source_feed": source_url,
                         "translation": translation,
                     },
                 }
