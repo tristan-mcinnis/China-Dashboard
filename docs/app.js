@@ -692,5 +692,42 @@ async function render() {
   }
 }
 
+// Theme switching functionality
+function initTheme() {
+  const themeToggle = document.getElementById('theme-toggle');
+  const logoImage = document.getElementById('logo-image');
+  const themeIcon = themeToggle.querySelector('.theme-icon');
+
+  // Check for saved theme preference or default to 'dark'
+  const currentTheme = localStorage.getItem('theme') || 'dark';
+  document.documentElement.setAttribute('data-theme', currentTheme);
+
+  // Update logo and icon based on current theme
+  updateThemeElements(currentTheme, logoImage, themeIcon);
+
+  // Theme toggle click handler
+  themeToggle.addEventListener('click', () => {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    updateThemeElements(newTheme, logoImage, themeIcon);
+  });
+}
+
+function updateThemeElements(theme, logoImage, themeIcon) {
+  if (theme === 'light') {
+    logoImage.src = 'logo/white_logo.png';
+    themeIcon.textContent = '☀️';
+  } else {
+    logoImage.src = 'logo/black_logo.jpeg';
+    themeIcon.textContent = '🌙';
+  }
+}
+
+// Initialize theme when DOM is loaded
+document.addEventListener('DOMContentLoaded', initTheme);
+
 render();
 setInterval(render, 60_000);

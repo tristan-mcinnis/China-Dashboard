@@ -4,7 +4,7 @@
   --font-mono: 'JetBrains Mono', 'Consolas', 'Monaco', monospace;
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 
-  /* Colors - inspired by reference design */
+  /* Colors - Dark theme (default) */
   --color-bg-primary: #0a0a0a;
   --color-bg-secondary: #111111;
   --color-bg-tertiary: #1a1a1a;
@@ -45,6 +45,29 @@
   --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
   --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+/* Light theme */
+[data-theme="light"] {
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #f8f9fa;
+  --color-bg-tertiary: #f1f3f4;
+  --color-bg-card: #ffffff;
+  --color-border: #e5e7eb;
+  --color-border-subtle: #f3f4f6;
+
+  --color-text-primary: #1f2937;
+  --color-text-secondary: #6b7280;
+  --color-text-tertiary: #9ca3af;
+  --color-text-accent: #3b82f6;
+  --color-text-brand: #2563eb;
+
+  --color-success: #059669;
+  --color-warning: #d97706;
+  --color-error: #dc2626;
+
+  /* Status indicator */
+  --color-status-dot: #059669;
 }
 
 /* Reset and base styles */
@@ -90,12 +113,54 @@ body {
   gap: var(--space-6);
 }
 
-.brand-title {
-  font-family: var(--font-mono);
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: var(--color-text-primary);
-  letter-spacing: -0.02em;
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.brand-logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 3rem;
+  width: auto;
+  object-fit: contain;
+}
+
+.theme-toggle {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-2);
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle:hover {
+  border-color: var(--color-text-tertiary);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+[data-theme="light"] .theme-toggle:hover {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--color-text-accent);
+  outline-offset: 2px;
+}
+
+.theme-icon {
+  font-size: 1rem;
+  line-height: 1;
 }
 
 .brand-subtitle {
