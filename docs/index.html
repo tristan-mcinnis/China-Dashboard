@@ -68,6 +68,11 @@
             </div>
             <div class="card-content">
               <ol id="baidu" class="data-list numbered"></ol>
+              <div class="history-bar" aria-live="polite">
+                <button type="button" class="history-button" id="baidu-prev" aria-label="Previous Baidu snapshot">‹</button>
+                <span class="history-meta" id="baidu-timestamp">No snapshots</span>
+                <button type="button" class="history-button" id="baidu-next" aria-label="Next Baidu snapshot">›</button>
+              </div>
             </div>
           </div>
           <div class="card">
@@ -77,6 +82,11 @@
             </div>
             <div class="card-content">
               <ol id="weibo" class="data-list numbered"></ol>
+              <div class="history-bar" aria-live="polite">
+                <button type="button" class="history-button" id="weibo-prev" aria-label="Previous Weibo snapshot">‹</button>
+                <span class="history-meta" id="weibo-timestamp">No snapshots</span>
+                <button type="button" class="history-button" id="weibo-next" aria-label="Next Weibo snapshot">›</button>
+              </div>
             </div>
           </div>
           <div class="card">
@@ -86,6 +96,11 @@
             </div>
             <div class="card-content">
               <ol id="wechat" class="data-list numbered"></ol>
+              <div class="history-bar" aria-live="polite">
+                <button type="button" class="history-button" id="wechat-prev" aria-label="Previous WeChat snapshot">‹</button>
+                <span class="history-meta" id="wechat-timestamp">No snapshots</span>
+                <button type="button" class="history-button" id="wechat-next" aria-label="Next WeChat snapshot">›</button>
+              </div>
             </div>
           </div>
         </div>
@@ -93,8 +108,15 @@
 
       <section class="section">
         <div class="section-header">
-          <h2 class="section-title">Xinhua News RSS</h2>
-          <div class="section-subtitle">Up to five headlines per category with bilingual titles</div>
+          <div class="section-header-text">
+            <h2 class="section-title">Xinhua News RSS</h2>
+            <div class="section-subtitle">Up to five headlines per category with bilingual titles</div>
+          </div>
+          <div class="history-bar history-bar-inline" aria-live="polite">
+            <button type="button" class="history-button" id="xinhua-prev" aria-label="Previous Xinhua snapshot">‹</button>
+            <span class="history-meta" id="xinhua-timestamp">No snapshots</span>
+            <button type="button" class="history-button" id="xinhua-next" aria-label="Next Xinhua snapshot">›</button>
+          </div>
         </div>
         <div id="xinhua-news" class="grid-3" aria-live="polite"></div>
       </section>

@@ -14,9 +14,16 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-from collectors.common import base_headers, backoff_sleep, schema, write_json, translate_text
+from collectors.common import (
+    base_headers,
+    backoff_sleep,
+    schema,
+    translate_text,
+    write_with_history,
+)
 
 OUT = "docs/data/baidu_top.json"
+HISTORY_OUT = "docs/data/history/baidu_top.json"
 
 
 def fetch_baidu_top(max_items: int = 10):
@@ -49,7 +56,7 @@ def fetch_baidu_top(max_items: int = 10):
 def main() -> None:
     items = fetch_baidu_top()
     payload = schema(source="Baidu Top Realtime", items=items)
-    write_json(OUT, payload)
+    write_with_history(OUT, HISTORY_OUT, payload)
 
 
 if __name__ == "__main__":

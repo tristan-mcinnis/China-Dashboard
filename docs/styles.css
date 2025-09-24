@@ -193,6 +193,12 @@ body {
   gap: var(--space-1);
 }
 
+.section-header-text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
 .section-title {
   font-family: var(--font-mono);
   font-size: 1.125rem;
@@ -283,6 +289,67 @@ body {
 
 .card-content {
   min-height: 80px;
+}
+
+.history-bar {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin-top: var(--space-3);
+  font-size: 0.75rem;
+  color: var(--color-text-tertiary);
+}
+
+.card-content .history-bar {
+  width: 100%;
+  justify-content: center;
+}
+
+.history-bar-inline {
+  align-self: flex-start;
+  margin-top: var(--space-2);
+}
+
+.history-button {
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: transparent;
+  color: var(--color-text-secondary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.history-button:hover {
+  color: var(--color-text-primary);
+  border-color: var(--color-text-tertiary);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.history-button:focus-visible {
+  outline: 2px solid var(--color-text-accent);
+  outline-offset: 2px;
+}
+
+.history-button.is-disabled,
+.history-button:disabled {
+  opacity: 0.35;
+  cursor: default;
+  background: transparent;
+}
+
+.history-meta {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--color-text-tertiary);
+  min-width: 9rem;
+  text-align: center;
+  white-space: nowrap;
 }
 
 /* Data lists */
