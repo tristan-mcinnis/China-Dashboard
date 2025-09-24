@@ -1,0 +1,126 @@
+{
+  "as_of": "2025-09-24T12:00:00+08:00",
+  "source": "Xinhua News Agency RSS",
+  "items": [
+    {
+      "title": "要闻：高质量发展调度会在京召开",
+      "value": "",
+      "url": "https://www.news.cn/20250924/1001a12345.htm",
+      "extra": {
+        "category": "要闻",
+        "published": "2025-09-24T03:15:00Z",
+        "summary": "国务院召开高质量发展专题调度会，部署新一轮重点工程推进。",
+        "source_feed": "http://www.news.cn/politicspro/rss_politics.xml",
+        "translation": "Beijing meeting focuses on high-quality development"
+      }
+    },
+    {
+      "title": "要闻：秋季农业生产稳步推进",
+      "value": "",
+      "url": "https://www.news.cn/20250924/1001b67890.htm",
+      "extra": {
+        "category": "要闻",
+        "published": "2025-09-24T01:40:00Z",
+        "summary": "多地秋收秋种同步开展，农业生产保持平稳态势。",
+        "source_feed": "http://www.news.cn/politicspro/rss_politics.xml",
+        "translation": "Autumn farm work advances steadily nationwide"
+      }
+    },
+    {
+      "title": "国内：京津冀推出协同创新新举措",
+      "value": "",
+      "url": "https://www.news.cn/20250924/2001c11223.htm",
+      "extra": {
+        "category": "国内",
+        "published": "2025-09-24T04:05:00Z",
+        "summary": "京津冀发布协同创新专项计划，支持重点实验室建设。",
+        "source_feed": "http://www.news.cn/gnpro/rss_gn.xml",
+        "translation": "Beijing-Tianjin-Hebei unveils new coordinated innovation plan"
+      }
+    },
+    {
+      "title": "国内：长江中游水运枢纽扩容工程启动",
+      "value": "",
+      "url": "https://www.news.cn/20250924/2001d44556.htm",
+      "extra": {
+        "category": "国内",
+        "published": "2025-09-24T00:55:00Z",
+        "summary": "长江中游枢纽港口扩容工程开工，年吞吐量将显著提升。",
+        "source_feed": "http://www.news.cn/gnpro/rss_gn.xml",
+        "translation": "Yangtze River hub expansion breaks ground"
+      }
+    },
+    {
+      "title": "国际：联合国大会聚焦气候议题",
+      "value": "",
+      "url": "https://www.news.cn/20250924/3001e77889.htm",
+      "extra": {
+        "category": "国际",
+        "published": "2025-09-24T05:20:00Z",
+        "summary": "多国领导人在联合国大会上呼吁加强气候行动合作。",
+        "source_feed": "http://www.news.cn/worldpro/rss_world.xml",
+        "translation": "UN General Assembly spotlights climate cooperation"
+      }
+    },
+    {
+      "title": "国际：区域全面经济伙伴关系生效效应显现",
+      "value": "",
+      "url": "https://www.news.cn/20250924/3001f33447.htm",
+      "extra": {
+        "category": "国际",
+        "published": "2025-09-24T02:30:00Z",
+        "summary": "区域全面经济伙伴关系协定实施推动成员国贸易增长。",
+        "source_feed": "http://www.news.cn/worldpro/rss_world.xml",
+        "translation": "RCEP implementation boosts member trade"
+      }
+    },
+    {
+      "title": "财经：制造业利润连续三月回升",
+      "value": "",
+      "url": "https://www.news.cn/20250924/4001g55667.htm",
+      "extra": {
+        "category": "财经",
+        "published": "2025-09-24T03:45:00Z",
+        "summary": "统计数据显示制造业企业利润连续三个月保持增长。",
+        "source_feed": "http://www.news.cn/fortunepro/rss_fortune.xml",
+        "translation": "Manufacturing profits rise for third straight month"
+      }
+    },
+    {
+      "title": "财经：绿色金融支持力度持续扩大",
+      "value": "",
+      "url": "https://www.news.cn/20250924/4001h88990.htm",
+      "extra": {
+        "category": "财经",
+        "published": "2025-09-24T01:10:00Z",
+        "summary": "绿色信贷和绿色债券发行规模稳步增加，助力转型发展。",
+        "source_feed": "http://www.news.cn/fortunepro/rss_fortune.xml",
+        "translation": "Green finance expands to back low-carbon transition"
+      }
+    },
+    {
+      "title": "科技：国产大模型发布最新版本",
+      "value": "",
+      "url": "https://www.news.cn/20250924/5001i22334.htm",
+      "extra": {
+        "category": "科技",
+        "published": "2025-09-24T04:40:00Z",
+        "summary": "国内科研团队发布新一代通用人工智能大模型，性能再升级。",
+        "source_feed": "http://www.news.cn/techpro/rss_tech.xml",
+        "translation": "Chinese AI foundation model debuts upgraded release"
+      }
+    },
+    {
+      "title": "科技：空间站应用实验取得新成果",
+      "value": "",
+      "url": "https://www.news.cn/20250924/5001j66778.htm",
+      "extra": {
+        "category": "科技",
+        "published": "2025-09-24T02:05:00Z",
+        "summary": "中国空间站应用载荷完成材料科学实验，相关成果发表。",
+        "source_feed": "http://www.news.cn/techpro/rss_tech.xml",
+        "translation": "China space station experiment yields new findings"
+      }
+    }
+  ]
+}

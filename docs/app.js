@@ -39,6 +39,20 @@ function toMobileWeiboUrl(url) {
   }
 }
 
+function formatNewsDate(value) {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+  return date.toLocaleString("zh-CN", {
+    hour12: false,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
+
 function renderWeatherStrip(container, payload) {
   const items = Array.isArray(payload?.items) ? payload.items : [];
   container.innerHTML = "";
@@ -102,13 +116,14 @@ function setLastRefresh() {
 
 async function render() {
   try {
-    const [indices, fx, baidu, weibo, wechat, weather] = await Promise.all([
+    const [indices, fx, baidu, weibo, wechat, weather, xinhua] = await Promise.all([
       loadJSON("data/indices.json"),
       loadJSON("data/fx.json"),
       loadJSON("data/baidu_top.json"),
       loadJSON("data/weibo_hot.json"),
       loadJSON("data/tencent_wechat_hot.json"),
       loadJSON("data/weather.json").catch(() => ({ items: [] })),
+      loadJSON("data/xinhua_news.json").catch(() => ({ items: [] })),
     ]);
 
     const ulIdx = document.getElementById("indices");
@@ -214,6 +229,140 @@ async function render() {
     const weatherStrip = document.getElementById("weather-strip");
     if (weatherStrip) {
       renderWeatherStrip(weatherStrip, weather);
+    }
+
+    const xinhuaGrid = document.getElementById("xinhua-news");
+    if (xinhuaGrid) {
+      xinhuaGrid.innerHTML = "";
+
+      const categories = new Map();
+      const items = Array.isArray(xinhua?.items) ? xinhua.items : [];
+
+      items.forEach((item) => {
+        const category = item?.extra?.category || "综合";
+        if (!categories.has(category)) {
+          categories.set(category, []);
+        }
+        categories.get(category).push(item);
+      });
+
+      if (categories.size === 0) {
+        const card = document.createElement("div");
+        card.className = "card";
+        card.innerHTML = `
+          <div class="card-header">
+            <h3 class="card-title">Xinhua RSS</h3>
+            <div class="card-subtitle">Feed unavailable</div>
+          </div>
+          <div class="card-content">
+            <p class="muted">No recent items fetched.</p>
+          </div>
+        `;
+        xinhuaGrid.appendChild(card);
+      } else {
+        categories.forEach((categoryItems, category) => {
+          categoryItems.sort((a, b) => {
+            const aTime = new Date(a?.extra?.published ?? 0).getTime();
+            const bTime = new Date(b?.extra?.published ?? 0).getTime();
+            return bTime - aTime;
+          });
+
+          const card = document.createElement("div");
+          card.className = "card";
+
+          const header = document.createElement("div");
+          header.className = "card-header";
+
+          const title = document.createElement("h3");
+          title.className = "card-title";
+          title.textContent = category;
+
+          const subtitle = document.createElement("div");
+          subtitle.className = "card-subtitle";
+          subtitle.textContent = "Top 5 headlines";
+
+          header.appendChild(title);
+          header.appendChild(subtitle);
+          card.appendChild(header);
+
+          const content = document.createElement("div");
+          content.className = "card-content";
+
+          if (categoryItems.length === 0) {
+            const empty = document.createElement("p");
+            empty.className = "muted";
+            empty.textContent = "No stories available.";
+            content.appendChild(empty);
+          } else {
+            const ul = document.createElement("ul");
+            ul.className = "data-list";
+
+            categoryItems.forEach((item) => {
+              const li = document.createElement("li");
+              li.classList.add("news-item");
+
+              const link = document.createElement("a");
+              const href = (item?.url || "").trim();
+              if (href) {
+                link.href = href;
+                link.target = "_blank";
+                link.rel = "noopener";
+              } else {
+                link.href = "#";
+                link.setAttribute("aria-disabled", "true");
+              }
+
+              const rawTitle = (item?.title || "").trim() || "(无标题)";
+              const translation = item?.extra?.translation || "";
+
+              if (translation) {
+                link.className = "bilingual-text";
+
+                const zh = document.createElement("div");
+                zh.className = "chinese-text";
+                zh.textContent = rawTitle;
+
+                const en = document.createElement("div");
+                en.className = "english-text";
+                en.textContent = translation;
+
+                link.appendChild(zh);
+                link.appendChild(en);
+              } else {
+                link.textContent = rawTitle;
+              }
+
+              li.appendChild(link);
+
+              const published = formatNewsDate(item?.extra?.published);
+              if (published) {
+                const meta = document.createElement("div");
+                meta.className = "news-meta";
+                meta.textContent = `发布时间 ${published}`;
+                if (item?.extra?.source_feed) {
+                  meta.setAttribute("title", item.extra.source_feed);
+                }
+                li.appendChild(meta);
+              }
+
+              const summary = (item?.extra?.summary || "").trim();
+              if (summary) {
+                const summaryEl = document.createElement("div");
+                summaryEl.className = "news-summary";
+                summaryEl.textContent = summary;
+                li.appendChild(summaryEl);
+              }
+
+              ul.appendChild(li);
+            });
+
+            content.appendChild(ul);
+          }
+
+          card.appendChild(content);
+          xinhuaGrid.appendChild(card);
+        });
+      }
     }
 
     setLastRefresh();
