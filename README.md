@@ -1,4 +1,5 @@
-# China Snapshot Dashboard
+<img width="1024" height="256" alt="Generated Image September 24, 2025 - 4_18PM" src="https://github.com/user-attachments/assets/af59cbb5-42a1-4230-bd48-30a6ccb2e370" />
+
 
 China Snapshot is a lightweight, serverless dashboard that highlights real-time signals from across mainland China. Automated collectors gather structured JSON data and the frontend served from GitHub Pages displays the latest snapshot whenever you load the site.
 
@@ -14,4 +15,4 @@ China Snapshot is a lightweight, serverless dashboard that highlights real-time 
 
 ## Live dashboard
 
-View the site on GitHub Pages: https://YOUR-USERNAME.github.io/China-Dashboard/
+View the site on GitHub Pages: [https://YOUR-USERNAME.github.io/China-Dashboard/](https://tristan-mcinnis.github.io/China-Dashboard/)
