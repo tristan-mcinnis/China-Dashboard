@@ -42,6 +42,31 @@ Current modules:
 - `fx.json`
 - `xinhua_news.json`
 
+### Snapshot history
+
+Non-financial feeds (Baidu, Weibo, WeChat and Xinhua) also maintain short rolling
+histories under `docs/data/history/`. Each history file stores the most recent
+snapshots in chronological order:
+
+```json
+{
+  "source": "Baidu Top Realtime",
+  "generated_at": "2025-09-23T11:15:00+08:00",
+  "entries": [
+    {
+      "as_of": "2025-09-23T11:15:00+08:00",
+      "source": "Baidu Top Realtime",
+      "items": [
+        { "title": "…", "value": "…", "url": "…", "extra": { } }
+      ]
+    }
+  ]
+}
+```
+
+The dashboard UI exposes lightweight navigation controls to flip through these
+snapshots while keeping Markets/FX and weather focused on the latest readings.
+
 ## Ops notes
 
 - **Throttle & headers:** collectors use mobile UA + backoff.

@@ -14,12 +14,19 @@ if __name__ == "__main__" and __package__ is None:
 import requests
 from dotenv import load_dotenv
 
-from collectors.common import base_headers, backoff_sleep, schema, write_json, translate_text
+from collectors.common import (
+    base_headers,
+    backoff_sleep,
+    schema,
+    translate_text,
+    write_with_history,
+)
 
 # Load environment variables from .env file
 load_dotenv()
 
 OUT = "docs/data/tencent_wechat_hot.json"
+HISTORY_OUT = "docs/data/history/tencent_wechat_hot.json"
 
 
 def _extract_item_list(payload: Any) -> list[Any]:
@@ -173,7 +180,7 @@ def fetch_wechat_hot(max_items: int = 10):
 
 def main() -> None:
     items = fetch_wechat_hot()
-    write_json(OUT, schema("Tencent WeChat Hot Topics", items))
+    write_with_history(OUT, HISTORY_OUT, schema("Tencent WeChat Hot Topics", items))
 
 
 if __name__ == "__main__":

@@ -13,12 +13,19 @@ if __name__ == "__main__" and __package__ is None:
 import requests
 from dotenv import load_dotenv
 
-from collectors.common import base_headers, backoff_sleep, schema, write_json, translate_text
+from collectors.common import (
+    base_headers,
+    backoff_sleep,
+    schema,
+    translate_text,
+    write_with_history,
+)
 
 # Load environment variables from .env file
 load_dotenv()
 
 OUT = "docs/data/weibo_hot.json"
+HISTORY_OUT = "docs/data/history/weibo_hot.json"
 
 
 def _build_mobile_weibo_search_url(query: str) -> str:
@@ -98,7 +105,7 @@ def fetch_weibo_hot(max_items: int = 10):
 
 def main() -> None:
     items = fetch_weibo_hot()
-    write_json(OUT, schema("Weibo Hot Search", items))
+    write_with_history(OUT, HISTORY_OUT, schema("Weibo Hot Search", items))
 
 
 if __name__ == "__main__":

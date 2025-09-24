@@ -16,10 +16,10 @@ def now_iso_tz8() -> str:
     return datetime.now(tz).isoformat(timespec="seconds")
 
 
-def write_json(path: str, payload: dict) -> None:
+def write_json(path: str, payload: dict, *, indent: int | None = None) -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False)
+        json.dump(payload, f, ensure_ascii=False, indent=indent)
 
 
 def base_headers() -> dict:
@@ -37,6 +37,76 @@ def schema(source, items):
         "source": source,
         "items": items,
     }
+
+
+def _load_history_entries(path: str) -> list[dict]:
+    if not os.path.exists(path):
+        return []
+
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as exc:  # pragma: no cover - defensive logging only
+        print(f"History read error for {path}: {exc}")
+        return []
+
+    entries = data.get("entries", []) if isinstance(data, dict) else []
+    cleaned: list[dict] = []
+
+    if not isinstance(entries, list):
+        return cleaned
+
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        cleaned.append(
+            {
+                "as_of": entry.get("as_of"),
+                "source": entry.get("source"),
+                "items": entry.get("items", []),
+            }
+        )
+
+    return cleaned
+
+
+def write_with_history(
+    latest_path: str,
+    history_path: str,
+    payload: dict,
+    *,
+    max_entries: int = 30,
+) -> None:
+    """Persist the latest payload and append it to a bounded history file."""
+
+    write_json(latest_path, payload)
+
+    os.makedirs(os.path.dirname(history_path), exist_ok=True)
+
+    entries = _load_history_entries(history_path)
+
+    snapshot = {
+        "as_of": payload.get("as_of"),
+        "source": payload.get("source"),
+        "items": payload.get("items", []),
+    }
+
+    if snapshot.get("as_of"):
+        entries = [entry for entry in entries if entry.get("as_of") != snapshot["as_of"]]
+
+    entries.insert(0, snapshot)
+
+    entries.sort(key=lambda entry: entry.get("as_of") or "", reverse=True)
+    if max_entries > 0:
+        entries = entries[:max_entries]
+
+    history_payload = {
+        "source": payload.get("source"),
+        "generated_at": now_iso_tz8(),
+        "entries": entries,
+    }
+
+    write_json(history_path, history_payload, indent=2)
 
 
 def safe_get(d, key, default=""):

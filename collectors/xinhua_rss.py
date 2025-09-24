@@ -19,10 +19,11 @@ from collectors.common import (
     base_headers,
     schema,
     translate_text,
-    write_json,
+    write_with_history,
 )
 
 OUT = "docs/data/xinhua_news.json"
+HISTORY_OUT = "docs/data/history/xinhua_news.json"
 MAX_ITEMS_PER_FEED = 5
 
 # Official RSS feeds published by Xinhua News Agency. These URLs have been
@@ -129,7 +130,7 @@ def fetch_xinhua_news(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
 def main() -> None:
     items = fetch_xinhua_news()
     payload = schema("Xinhua News Agency RSS", items)
-    write_json(OUT, payload)
+    write_with_history(OUT, HISTORY_OUT, payload)
 
 
 if __name__ == "__main__":
