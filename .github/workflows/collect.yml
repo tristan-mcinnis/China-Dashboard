@@ -40,6 +40,7 @@ jobs:
           python collectors/tencent_wechat_hot.py
           python collectors/indices_cn.py
           python collectors/fx_cny.py
+          python collectors/weather_cn.py
 
       - name: Commit data
         run: |
