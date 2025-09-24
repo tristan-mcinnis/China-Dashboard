@@ -13,6 +13,40 @@ function fmtPct(value) {
   return ` ${sign} ${number.toFixed(2)}%`;
 }
 
+const HEADLINE_LIMIT = 5;
+
+const XINHUA_CATEGORY_LABELS = new Map([
+  ["要闻", { zh: "要闻", en: "Top News" }],
+  ["国内", { zh: "国内", en: "Domestic" }],
+  ["国际", { zh: "国际", en: "International" }],
+  ["财经", { zh: "财经", en: "Finance" }],
+  ["科技", { zh: "科技", en: "Technology" }],
+]);
+
+function getCategoryLabels(category) {
+  const key = (category || "").trim();
+  if (!key) {
+    return { zh: "综合", en: "News" };
+  }
+
+  const mapping = XINHUA_CATEGORY_LABELS.get(key);
+  if (mapping) {
+    return mapping;
+  }
+
+  return { zh: key, en: "News" };
+}
+
+function formatHeadlineSubtitle(count) {
+  if (count <= 0) {
+    return "No headlines available";
+  }
+  if (count === 1) {
+    return "Top headline";
+  }
+  return `Top ${count} headlines`;
+}
+
 function toMobileWeiboUrl(url) {
   if (!url || typeof url !== "string") return url;
   if (url.startsWith("https://m.weibo.cn/")) return url;
@@ -267,6 +301,9 @@ async function render() {
             return bTime - aTime;
           });
 
+          const labels = getCategoryLabels(category);
+          const limitedItems = categoryItems.slice(0, HEADLINE_LIMIT);
+
           const card = document.createElement("div");
           card.className = "card";
 
@@ -274,12 +311,22 @@ async function render() {
           header.className = "card-header";
 
           const title = document.createElement("h3");
-          title.className = "card-title";
-          title.textContent = category;
+          title.className = "card-title card-title-bilingual";
+
+          const titleZh = document.createElement("span");
+          titleZh.className = "card-title-zh";
+          titleZh.textContent = labels.zh;
+
+          const titleEn = document.createElement("span");
+          titleEn.className = "card-title-en";
+          titleEn.textContent = labels.en;
+
+          title.appendChild(titleZh);
+          title.appendChild(titleEn);
 
           const subtitle = document.createElement("div");
           subtitle.className = "card-subtitle";
-          subtitle.textContent = "Top 5 headlines";
+          subtitle.textContent = formatHeadlineSubtitle(limitedItems.length);
 
           header.appendChild(title);
           header.appendChild(subtitle);
@@ -288,7 +335,7 @@ async function render() {
           const content = document.createElement("div");
           content.className = "card-content";
 
-          if (categoryItems.length === 0) {
+          if (limitedItems.length === 0) {
             const empty = document.createElement("p");
             empty.className = "muted";
             empty.textContent = "No stories available.";
@@ -297,7 +344,7 @@ async function render() {
             const ul = document.createElement("ul");
             ul.className = "data-list";
 
-            categoryItems.forEach((item) => {
+            limitedItems.forEach((item) => {
               const li = document.createElement("li");
               li.classList.add("news-item");
 
