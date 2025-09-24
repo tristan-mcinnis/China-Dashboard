@@ -13,6 +13,32 @@ function fmtPct(value) {
   return ` ${sign} ${number.toFixed(2)}%`;
 }
 
+function toMobileWeiboUrl(url) {
+  if (!url || typeof url !== "string") return url;
+  if (url.startsWith("https://m.weibo.cn/")) return url;
+
+  try {
+    const parsed = new URL(url);
+    const host = parsed.hostname.toLowerCase();
+    const isWeiboSearch =
+      (host === "s.weibo.com" || host === "weibo.com") && parsed.pathname.startsWith("/weibo");
+
+    if (!isWeiboSearch) {
+      return url;
+    }
+
+    const query = parsed.searchParams.get("q");
+    if (!query) {
+      return url;
+    }
+
+    const encoded = encodeURIComponent(`100103type=1&q=${query}`);
+    return `https://m.weibo.cn/search?containerid=${encoded}&v_p=42`;
+  } catch (error) {
+    return url;
+  }
+}
+
 function renderWeatherStrip(container, payload) {
   const items = Array.isArray(payload?.items) ? payload.items : [];
   container.innerHTML = "";
@@ -141,17 +167,18 @@ async function render() {
         const li = document.createElement("li");
         const cleanTitle = item.title.replace(/^\d+\.\s*/, '');
         const translation = item.extra?.translation || '';
+        const link = toMobileWeiboUrl(item.url);
 
         if (translation) {
           li.innerHTML = `
-            <a href="${item.url}" target="_blank" rel="noopener" class="bilingual-text">
+            <a href="${link}" target="_blank" rel="noopener" class="bilingual-text">
               <div class="chinese-text">${cleanTitle}</div>
               <div class="english-text">${translation}</div>
             </a>
             <span class="muted">${item.value || ""}</span>`;
           li.classList.add("has-translation");
         } else {
-          li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
+          li.innerHTML = `<a href="${link}" target="_blank" rel="noopener">${cleanTitle}</a> <span class="muted">${
             item.value || ""
           }</span>`;
         }

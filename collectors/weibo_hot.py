@@ -5,6 +5,7 @@ from __future__ import annotations
 import os
 import sys
 from pathlib import Path
+from urllib.parse import quote
 
 if __name__ == "__main__" and __package__ is None:
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -18,6 +19,13 @@ from collectors.common import base_headers, backoff_sleep, schema, write_json, t
 load_dotenv()
 
 OUT = "docs/data/weibo_hot.json"
+
+
+def _build_mobile_weibo_search_url(query: str) -> str:
+    """Return the mobile-friendly Weibo search URL for a given query."""
+
+    encoded_container = quote(f"100103type=1&q={query or ''}", safe="")
+    return f"https://m.weibo.cn/search?containerid={encoded_container}&v_p=42"
 
 
 def fetch_weibo_hot(max_items: int = 10):
@@ -41,7 +49,7 @@ def fetch_weibo_hot(max_items: int = 10):
                         items = []
                         for i, item in enumerate(result["list"][:max_items], 1):
                             if isinstance(item, dict):
-                                hotword = item.get("hotword", "")
+                                hotword = (item.get("hotword") or "").strip()
                                 hotwordnum = item.get("hotwordnum", "")
                                 hottag = item.get("hottag", "")
 
@@ -52,8 +60,8 @@ def fetch_weibo_hot(max_items: int = 10):
                                     else:
                                         hot_display = ""
 
-                                    # Build search URL
-                                    search_url = f"https://s.weibo.com/weibo?q={hotword}"
+                                    # Build mobile-friendly search URL
+                                    search_url = _build_mobile_weibo_search_url(hotword)
 
                                     # Add tag to title if present
                                     title_with_tag = f"{i}. {hotword}"
