@@ -21,6 +21,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python collectors/baidu_top.py
+python collectors/xinhua_rss.py
 ```
 
 All automation is GitHub-native—the local step is only for confidence checks.
@@ -39,6 +40,7 @@ Current modules:
 - `tencent_wechat_hot.json`
 - `indices.json`
 - `fx.json`
+- `xinhua_news.json`
 
 ## Ops notes
 
