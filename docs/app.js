@@ -719,10 +719,10 @@ function initTheme() {
 function updateThemeElements(theme, logoImage, themeIcon) {
   if (theme === 'light') {
     logoImage.src = 'logo/white_logo.png';
-    themeIcon.textContent = '☀️';
+    themeIcon.textContent = '◐';
   } else {
     logoImage.src = 'logo/black_logo.jpeg';
-    themeIcon.textContent = '🌙';
+    themeIcon.textContent = '◑';
   }
 }
 
