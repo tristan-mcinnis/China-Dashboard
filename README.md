@@ -15,4 +15,4 @@ China Snapshot is a lightweight, serverless dashboard that highlights real-time 
 
 ## Live dashboard
 
-View the site on GitHub Pages: [https://YOUR-USERNAME.github.io/China-Dashboard/](https://tristan-mcinnis.github.io/China-Dashboard/)
+View the site on GitHub Pages: https://tristan-mcinnis.github.io/China-Dashboard/
