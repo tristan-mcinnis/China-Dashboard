@@ -31,7 +31,6 @@ MAX_ITEMS_PER_FEED = 5
 FEEDS: Dict[str, str] = {
     "要闻": "http://www.news.cn/politicspro/rss_politics.xml",
     "国内": "http://www.news.cn/gnpro/rss_gn.xml",
-    "国际": "http://www.news.cn/worldpro/rss_world.xml",
     "财经": "http://www.news.cn/fortunepro/rss_fortune.xml",
     "科技": "http://www.news.cn/techpro/rss_tech.xml",
 }
