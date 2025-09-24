@@ -428,7 +428,7 @@ a.bilingual-text {
 }
 
 /* Footer */
-.footer {
+.footer { 
   border-top: 1px solid var(--color-border-subtle);
   padding: var(--space-6) 0;
   margin-top: auto;
@@ -447,6 +447,14 @@ a.bilingual-text {
   color: var(--color-text-tertiary);
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+.footer-disclaimer {
+  margin-top: var(--space-4);
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--color-text-tertiary);
+  line-height: 1.4;
 }
 
 /* Responsive design */
