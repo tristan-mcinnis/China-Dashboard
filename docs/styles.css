@@ -252,6 +252,29 @@ body {
   letter-spacing: 0.05em;
 }
 
+.card-title.card-title-bilingual {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.card-title-bilingual .card-title-zh {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.card-title-bilingual .card-title-en {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--color-text-tertiary);
+  text-transform: none;
+  letter-spacing: 0.05em;
+}
+
 .card-subtitle {
   font-size: 0.75rem;
   color: var(--color-text-tertiary);
