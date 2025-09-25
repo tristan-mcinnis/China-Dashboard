@@ -96,14 +96,17 @@ def fetch_baidu_top(max_items: int = 10):
 
     url = "https://apis.tianapi.com/baiduhot/index"
     headers = base_headers()
-    headers.setdefault("Accept", "application/json")
+    # Force JSON responses from TianAPI – ``setdefault`` would keep the
+    # broader ``Accept`` header provided by ``base_headers``.
+    headers["Accept"] = "application/json"
 
     # TianAPI recently switched a number of endpoints to POST-only.  We
     # optimistically try a POST first and gracefully fall back to GET so the
     # collector keeps working even if the API flips between the two modes.
+    request_payload = {"key": api_key}
     request_strategies = (
-        ("post", {"data": {"key": api_key, "num": max(1, min(max_items, 50))}}),
-        ("get", {"params": {"key": api_key, "num": max(1, min(max_items, 50))}}),
+        ("post", {"data": request_payload.copy()}),
+        ("get", {"params": request_payload.copy()}),
     )
 
     for attempt in range(3):
