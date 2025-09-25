@@ -99,6 +99,7 @@ def fetch_baidu_top(max_items: int = 10):
     # broader ``Accept`` header provided by ``base_headers``.
     headers["Accept"] = "application/json"
 
+        
     # TianAPI recently switched a number of endpoints to POST-only.  We
     # optimistically try a POST first and gracefully fall back to GET so the
     # collector keeps working even if the API flips between the two modes.
