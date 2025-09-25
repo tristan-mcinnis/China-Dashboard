@@ -41,11 +41,13 @@ jobs:
           python collectors/indices_cn.py
           python collectors/fx_cny.py
           python collectors/weather_cn.py
+          python collectors/xinhua_rss.py
 
       - name: Commit data
         run: |
           git config user.name "china-snapshot-bot"
           git config user.email "bot@example.com"
           git add docs/data/*.json || true
+          git add docs/data/history/*.json || true
           git commit -m "data: update $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"
           git push
