@@ -51,7 +51,10 @@ class BaiduCollectorTests(unittest.TestCase):
         }
 
         with patch.dict(os.environ, {"TIANAPI_API_KEY": "test"}, clear=False):
-            with patch("collectors.baidu_top.requests.get", return_value=DummyResponse(payload)):
+            with patch(
+                "collectors.baidu_top.requests.request",
+                return_value=DummyResponse(payload),
+            ):
                 with patch("collectors.baidu_top.translate_text", return_value="AI"):
                     items = baidu_top.fetch_baidu_top(max_items=5)
 

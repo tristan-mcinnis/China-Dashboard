@@ -95,20 +95,46 @@ def fetch_baidu_top(max_items: int = 10):
         return []
 
     url = "https://apis.tianapi.com/baiduhot/index"
-    params = {"key": api_key}
+    headers = base_headers()
+    headers.setdefault("Accept", "application/json")
+
+    # TianAPI recently switched a number of endpoints to POST-only.  We
+    # optimistically try a POST first and gracefully fall back to GET so the
+    # collector keeps working even if the API flips between the two modes.
+    request_strategies = (
+        ("post", {"data": {"key": api_key, "num": max(1, min(max_items, 50))}}),
+        ("get", {"params": {"key": api_key, "num": max(1, min(max_items, 50))}}),
+    )
 
     for attempt in range(3):
-        try:
-            response = requests.get(url, params=params, headers=base_headers(), timeout=15)
-            if response.status_code != 200:
-                print(f"Unexpected status {response.status_code} from TianAPI baiduhot endpoint")
-                backoff_sleep(attempt)
+        for method, kwargs in request_strategies:
+            try:
+                response = requests.request(
+                    method,
+                    url,
+                    headers=headers,
+                    timeout=15,
+                    **kwargs,
+                )
+            except Exception as exc:  # pragma: no cover - defensive logging
+                print(f"Attempt {attempt + 1} {method.upper()} failed: {exc}")
                 continue
 
-            data = response.json()
+            if response.status_code != 200:
+                print(
+                    "Unexpected status "
+                    f"{response.status_code} from TianAPI baiduhot endpoint"
+                )
+                continue
+
+            try:
+                data = response.json()
+            except Exception as exc:  # pragma: no cover - defensive logging
+                print(f"Unable to decode TianAPI response as JSON: {exc}")
+                continue
+
             if data.get("code") != 200:
                 print(f"TianAPI error: {data.get('msg', 'Unknown error')}")
-                backoff_sleep(attempt)
                 continue
 
             result_payload = data.get("result")
@@ -120,7 +146,16 @@ def fetch_baidu_top(max_items: int = 10):
             items = []
             for idx, item in enumerate(raw_items[:max_items], 1):
                 topic = ""
-                for key in ("word", "keyword", "title", "name", "hotword"):
+                for key in (
+                    "word",
+                    "keyword",
+                    "title",
+                    "name",
+                    "hotword",
+                    "hotWord",
+                    "query",
+                    "showword",
+                ):
                     raw_topic = item.get(key)
                     if isinstance(raw_topic, str) and raw_topic.strip():
                         topic = raw_topic.strip()
@@ -130,7 +165,18 @@ def fetch_baidu_top(max_items: int = 10):
                     continue
 
                 heat_value = None
-                for score_key in ("hot", "heat", "hotnum", "num", "hot_index", "index", "hotvalue"):
+                for score_key in (
+                    "hot",
+                    "heat",
+                    "hotnum",
+                    "num",
+                    "hot_index",
+                    "index",
+                    "hotvalue",
+                    "hot_value",
+                    "hotValue",
+                    "hotScore",
+                ):
                     value = item.get(score_key)
                     if value is None:
                         continue
@@ -152,7 +198,13 @@ def fetch_baidu_top(max_items: int = 10):
                     heat_display = ""
 
                 link = ""
-                for url_key in ("url", "link", "source_url", "newsurl"):
+                for url_key in (
+                    "url",
+                    "link",
+                    "source_url",
+                    "newsurl",
+                    "m_url",
+                ):
                     raw_url = item.get(url_key)
                     if isinstance(raw_url, str) and raw_url.strip():
                         link = raw_url.strip()
@@ -162,7 +214,15 @@ def fetch_baidu_top(max_items: int = 10):
                     link = _build_baidu_search_url(topic)
 
                 description = ""
-                for desc_key in ("desc", "description", "digest", "brief", "summary"):
+                for desc_key in (
+                    "desc",
+                    "description",
+                    "digest",
+                    "brief",
+                    "summary",
+                    "intro",
+                    "content",
+                ):
                     raw_desc = item.get(desc_key)
                     if isinstance(raw_desc, str) and raw_desc.strip():
                         description = raw_desc.strip()
@@ -186,9 +246,6 @@ def fetch_baidu_top(max_items: int = 10):
                 )
 
             return items
-
-        except Exception as exc:
-            print(f"Attempt {attempt + 1} failed: {exc}")
 
         backoff_sleep(attempt)
 
