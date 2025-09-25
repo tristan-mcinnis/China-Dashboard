@@ -35,19 +35,57 @@ def _build_baidu_search_url(query: str) -> str:
     return f"https://www.baidu.com/s?wd={encoded_query}"
 
 
-def _extract_item_list(result: object) -> list[dict]:
-    """Return the list of items from the TianAPI response result payload."""
+def _extract_item_list(payload: object) -> list[dict]:
+    """Return the first list of dictionaries discovered inside ``payload``.
 
-    if isinstance(result, list):
-        return [item for item in result if isinstance(item, dict)]
+    TianAPI occasionally surfaces the hot list under different keys (``list``,
+    ``newslist`` or ``items``) and sometimes omits the ``result`` wrapper.  The
+    recursion below mirrors the WeChat collector so we can parse whichever shape
+    the API returns without relying on a single key path.
+    """
 
-    if isinstance(result, dict):
-        for key in ("list", "newslist", "items", "data"):
-            value = result.get(key)
-            if isinstance(value, list):
-                return [item for item in value if isinstance(item, dict)]
+    seen: set[int] = set()
 
-    return []
+    def _inner(value: object) -> list[dict] | None:
+        obj_id = id(value)
+        if obj_id in seen:
+            return None
+        seen.add(obj_id)
+
+        if isinstance(value, list):
+            dict_items = [item for item in value if isinstance(item, dict)]
+            if dict_items:
+                return dict_items
+            return None
+
+        if isinstance(value, dict):
+            preferred_keys = (
+                "list",
+                "newslist",
+                "newsList",
+                "items",
+                "item",
+                "data",
+                "datas",
+                "detail",
+                "details",
+            )
+
+            for key in preferred_keys:
+                if key in value:
+                    found = _inner(value[key])
+                    if found:
+                        return found
+
+            for nested in value.values():
+                found = _inner(nested)
+                if found:
+                    return found
+
+        return None
+
+    found_list = _inner(payload)
+    return found_list if isinstance(found_list, list) else []
 
 
 def fetch_baidu_top(max_items: int = 10):
@@ -73,8 +111,8 @@ def fetch_baidu_top(max_items: int = 10):
                 backoff_sleep(attempt)
                 continue
 
-            result = data.get("result", {})
-            raw_items = _extract_item_list(result)
+            result_payload = data.get("result")
+            raw_items = _extract_item_list(result_payload if result_payload else data)
             if not raw_items:
                 print("TianAPI baiduhot response missing expected list of items")
                 return []
@@ -123,6 +161,13 @@ def fetch_baidu_top(max_items: int = 10):
                 if not link:
                     link = _build_baidu_search_url(topic)
 
+                description = ""
+                for desc_key in ("desc", "description", "digest", "brief", "summary"):
+                    raw_desc = item.get(desc_key)
+                    if isinstance(raw_desc, str) and raw_desc.strip():
+                        description = raw_desc.strip()
+                        break
+
                 translation = translate_text(topic)
 
                 items.append(
@@ -134,6 +179,7 @@ def fetch_baidu_top(max_items: int = 10):
                             "rank": idx,
                             "raw_score": heat_value,
                             "api_source": "tianapi",
+                            "description": description,
                             "translation": translation,
                         },
                     }
