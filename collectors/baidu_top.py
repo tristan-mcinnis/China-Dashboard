@@ -94,8 +94,7 @@ def fetch_baidu_top(max_items: int = 10):
         print("Warning: TIANAPI_API_KEY not found in environment variables")
         return []
 
-    url = "https://apis.tianapi.com/baiduhot/index"
-    headers = base_headers()
+    url = "https://apis.tianapi.com/hotword/index"    headers = base_headers()
     # Force JSON responses from TianAPI – ``setdefault`` would keep the
     # broader ``Accept`` header provided by ``base_headers``.
     headers["Accept"] = "application/json"
