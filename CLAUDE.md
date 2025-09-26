@@ -33,6 +33,7 @@ python collectors/weibo_hot.py
 python collectors/tencent_wechat_hot.py
 python collectors/xinhua_rss.py
 python collectors/thepaper_rss.py
+python collectors/ladymax.py
 python collectors/indices_cn.py
 python collectors/fx_cny.py
 python collectors/weather_cn.py
@@ -75,6 +76,7 @@ Current collectors:
 - `tencent_wechat_hot.py`: Tencent/WeChat hot topics via TianAPI (requires TIANAPI_API_KEY)
 - `xinhua_rss.py`: Xinhua News Agency RSS feeds (no International section) with gpt-5-nano translations
 - `thepaper_rss.py`: The Paper (澎湃新闻) RSS feed with gpt-5-nano translations
+- `ladymax.py`: LadyMax mobile headlines with gpt-5-nano translations
 - `indices_cn.py`: Chinese stock market indices
 - `fx_cny.py`: Currency exchange rates (optional FX_API_KEY)
 - `weather_cn.py`: Beijing weather data
