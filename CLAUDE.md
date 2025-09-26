@@ -6,6 +6,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Serverless dashboard for real-time China signals using **Collectors → JSON → GitHub Pages** architecture. No backend servers required.
 
+## Important Requirements
+
+- **MUST use gpt-5-nano for translations** - This is our internal name for gpt-4o-mini, OpenAI's fastest and most cost-effective model
+- All RSS feed headlines must be translated using this model for optimal performance
+
 ## Key Architecture
 
 - **Data Collection**: Python collectors (`collectors/*.py`) scrape various Chinese sources and output standardized JSON
@@ -25,8 +30,12 @@ pip install -r requirements.txt
 # Run individual collectors (for testing)
 python collectors/baidu_top.py
 python collectors/weibo_hot.py
+python collectors/tencent_wechat_hot.py
+python collectors/xinhua_rss.py
+python collectors/thepaper_rss.py
 python collectors/indices_cn.py
 python collectors/fx_cny.py
+python collectors/weather_cn.py
 ```
 
 ### GitHub Pages Setup
@@ -53,6 +62,7 @@ All collectors output JSON following this uniform schema:
 ## Collector Architecture
 
 - **Common utilities**: `collectors/common.py` provides shared functions like `schema()`, `write_json()`, `base_headers()`, `backoff_sleep()`
+- **Translation**: MUST use gpt-5-nano (implemented as gpt-4o-mini) for fast, cost-effective translations
 - **Output path**: All collectors write to `docs/data/[name].json` (not `data/[name].json`)
 - **Error handling**: Collectors use retry logic with exponential backoff
 - **Headers**: Mobile user agents and anti-bot measures
@@ -60,16 +70,20 @@ All collectors output JSON following this uniform schema:
 ## Data Sources
 
 Current collectors:
-- `baidu_top.py`: Baidu real-time hot searches
-- `weibo_hot.py`: Weibo trending topics (requires WEIBO_COOKIE secret)
+- `baidu_top.py`: Baidu/Chinese trending topics via TianAPI (requires TIANAPI_API_KEY)
+- `weibo_hot.py`: Weibo trending topics via TianAPI (requires TIANAPI_API_KEY)
+- `tencent_wechat_hot.py`: Tencent/WeChat hot topics via TianAPI (requires TIANAPI_API_KEY)
+- `xinhua_rss.py`: Xinhua News Agency RSS feeds (no International section) with gpt-5-nano translations
+- `thepaper_rss.py`: The Paper (澎湃新闻) RSS feed with gpt-5-nano translations
 - `indices_cn.py`: Chinese stock market indices
-- `fx_cny.py`: Currency exchange rates (requires FX_API_KEY secret)
+- `fx_cny.py`: Currency exchange rates (optional FX_API_KEY)
+- `weather_cn.py`: Beijing weather data
 
 ## GitHub Actions
 
 - **Trigger**: Every 30 minutes via cron or manual dispatch
 - **Environment**: Runs on ubuntu-latest with Python 3.11
-- **Secrets**: WEIBO_COOKIE, FX_API_KEY (optional but recommended)
+- **Secrets**: TIANAPI_API_KEY, OPENAI_API_KEY (required), FX_API_KEY (optional)
 - **Timezone**: Asia/Shanghai
 - **Commit**: Auto-commits data updates to `docs/data/*.json`
 

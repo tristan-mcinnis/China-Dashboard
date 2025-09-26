@@ -94,7 +94,7 @@ def fetch_baidu_top(max_items: int = 10):
         print("Warning: TIANAPI_API_KEY not found in environment variables")
         return []
 
-    url = "https://apis.tianapi.com/hotword/index"
+    url = "https://apis.tianapi.com/nethot/index"
     headers = base_headers()
     # Force JSON responses from TianAPI – ``setdefault`` would keep the
     # broader ``Accept`` header provided by ``base_headers``.
@@ -151,8 +151,8 @@ def fetch_baidu_top(max_items: int = 10):
             for idx, item in enumerate(raw_items[:max_items], 1):
                 topic = ""
                 for key in (
+                    "keyword",  # This is the main field for nethot
                     "word",
-                    "keyword",
                     "title",
                     "name",
                     "hotword",
@@ -170,12 +170,12 @@ def fetch_baidu_top(max_items: int = 10):
 
                 heat_value = None
                 for score_key in (
+                    "index",  # This is the main field for nethot
                     "hot",
                     "heat",
                     "hotnum",
                     "num",
                     "hot_index",
-                    "index",
                     "hotvalue",
                     "hot_value",
                     "hotValue",
@@ -219,10 +219,10 @@ def fetch_baidu_top(max_items: int = 10):
 
                 description = ""
                 for desc_key in (
+                    "brief",  # This is the main field for nethot
                     "desc",
                     "description",
                     "digest",
-                    "brief",
                     "summary",
                     "intro",
                     "content",

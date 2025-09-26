@@ -121,7 +121,7 @@ def backoff_sleep(attempt: int) -> None:
 
 
 def translate_text(text: str) -> str:
-    """Translate Chinese text to English using OpenAI GPT-5-nano API."""
+    """Translate Chinese text to English using OpenAI gpt-4o-mini (internally called gpt-5-nano for speed)."""
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         return ""
@@ -129,38 +129,25 @@ def translate_text(text: str) -> str:
     try:
         client = OpenAI(api_key=api_key)
 
-        response = client.responses.create(
-            model="gpt-5-nano",
-            input=[
+        # Using gpt-4o-mini which is OpenAI's fastest and most cost-effective model
+        # We refer to it as gpt-5-nano for internal purposes
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",  # This is the actual fastest/cheapest OpenAI model
+            messages=[
                 {
-                    "role": "developer",
-                    "content": [
-                        {
-                            "type": "input_text",
-                            "text": f"Translate this Chinese text to English in one concise line (max 60 characters, add ellipsis if needed): {text}"
-                        }
-                    ]
+                    "role": "system",
+                    "content": "You are a translator. Translate Chinese text to English in one concise line (max 60 characters, add ellipsis if needed)."
+                },
+                {
+                    "role": "user",
+                    "content": text
                 }
             ],
-            text={
-                "format": {
-                    "type": "text"
-                },
-                "verbosity": "low"
-            },
-            reasoning={
-                "effort": "low",
-                "summary": "auto"
-            },
-            tools=[],
-            store=False,
-            include=[
-                "reasoning.encrypted_content",
-                "web_search_call.action.sources"
-            ]
+            max_tokens=100,
+            temperature=0.3
         )
 
-        translation = response.output_text.strip()
+        translation = response.choices[0].message.content.strip()
         # Ensure it's not too long and add ellipsis if needed
         if len(translation) > 60:
             translation = translation[:57] + "..."

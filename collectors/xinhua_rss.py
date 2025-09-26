@@ -15,6 +15,10 @@ if __name__ == "__main__" and __package__ is None:
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import feedparser  # type: ignore
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 from collectors.common import (
     base_headers,
@@ -40,7 +44,6 @@ GOOGLE_COMMON_PARAMS = {
 FEEDS: Dict[str, str] = {
     "要闻": "site:xinhuanet.com when:1d",
     "国内": "site:xinhuanet.com 国内 when:1d",
-    "国际": "site:xinhuanet.com 国际 when:1d",
     "财经": "site:xinhuanet.com 财经 when:1d",
     "科技": "site:xinhuanet.com 科技 when:1d",
 }

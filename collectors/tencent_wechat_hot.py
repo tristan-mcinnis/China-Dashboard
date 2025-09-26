@@ -79,7 +79,7 @@ def fetch_wechat_hot(max_items: int = 10):
         print("Warning: TIANAPI_API_KEY not found in environment variables")
         return []
 
-    url = "https://apis.nethot.com/wxhottopic/index"
+    url = "https://apis.tianapi.com/nethot/index"
     params = {"key": api_key}
 
     for attempt in range(3):

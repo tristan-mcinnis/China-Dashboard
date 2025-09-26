@@ -539,6 +539,145 @@ function normaliseEntry(entry, fallbackSource) {
   };
 }
 
+function renderThepaperSnapshot(entry, container) {
+  if (!container) {
+    return;
+  }
+
+  container.innerHTML = "";
+
+  const items = Array.isArray(entry?.items) ? entry.items : [];
+
+  if (items.length === 0) {
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="card-header">
+        <h3 class="card-title">The Paper RSS</h3>
+        <div class="card-subtitle">Feed unavailable</div>
+      </div>
+      <div class="card-content">
+        <p class="muted">No recent items fetched.</p>
+      </div>
+    `;
+    container.appendChild(card);
+    return;
+  }
+
+  // Group items into three cards like Xinhua does
+  const itemsPerCard = 7;
+  const categories = [
+    { name: "最新要闻", en: "Latest News", items: items.slice(0, itemsPerCard) },
+    { name: "热点聚焦", en: "Hot Topics", items: items.slice(itemsPerCard, itemsPerCard * 2) },
+    { name: "深度报道", en: "In-Depth", items: items.slice(itemsPerCard * 2, itemsPerCard * 3) }
+  ];
+
+  categories.forEach((category) => {
+    if (category.items.length === 0) return;
+
+    const card = document.createElement("div");
+    card.className = "card";
+
+    const header = document.createElement("div");
+    header.className = "card-header";
+
+    const title = document.createElement("h3");
+    title.className = "card-title card-title-bilingual";
+
+    const titleZh = document.createElement("span");
+    titleZh.className = "card-title-zh";
+    titleZh.textContent = category.name;
+
+    const titleEn = document.createElement("span");
+    titleEn.className = "card-title-en";
+    titleEn.textContent = category.en;
+
+    title.appendChild(titleZh);
+    title.appendChild(titleEn);
+
+    const subtitle = document.createElement("div");
+    subtitle.className = "card-subtitle";
+    subtitle.textContent = formatHeadlineSubtitle(category.items.length);
+
+    header.appendChild(title);
+    header.appendChild(subtitle);
+    card.appendChild(header);
+
+    const content = document.createElement("div");
+    content.className = "card-content";
+
+    const ul = document.createElement("ul");
+    ul.className = "data-list";
+
+    category.items.forEach((item) => {
+      const li = document.createElement("li");
+      li.className = "news-item";
+
+      const link = document.createElement("a");
+      const href = (item?.url || "").trim();
+      if (href) {
+        link.href = href;
+        link.target = "_blank";
+        link.rel = "noopener";
+      } else {
+        link.href = "#";
+        link.setAttribute("aria-disabled", "true");
+      }
+
+      const rawTitle = (item?.title || "").trim() || "(无标题)";
+      const translation = item?.extra?.translation || "";
+
+      if (translation) {
+        link.className = "bilingual-text";
+
+        const zh = document.createElement("div");
+        zh.className = "chinese-text";
+        zh.textContent = rawTitle;
+
+        const en = document.createElement("div");
+        en.className = "english-text";
+        en.textContent = translation;
+
+        link.appendChild(zh);
+        link.appendChild(en);
+      } else {
+        link.textContent = rawTitle;
+      }
+
+      li.appendChild(link);
+
+      const published = formatNewsDate(item?.extra?.published);
+      if (published) {
+        const meta = document.createElement("div");
+        meta.className = "news-meta";
+        meta.textContent = `发布时间 ${published}`;
+        if (item?.extra?.source_feed) {
+          meta.setAttribute("title", item.extra.source_feed);
+        }
+        li.appendChild(meta);
+      }
+
+      const summary = (item?.extra?.summary || "").trim();
+      if (summary && summary.length > 0) {
+        const summaryEl = document.createElement("div");
+        summaryEl.className = "news-summary";
+        // Truncate summary if too long
+        const maxLength = 150;
+        summaryEl.textContent = summary.length > maxLength
+          ? summary.substring(0, maxLength) + "..."
+          : summary;
+        li.appendChild(summaryEl);
+      }
+
+      ul.appendChild(li);
+    });
+
+    content.appendChild(ul);
+    card.appendChild(content);
+    container.appendChild(card);
+  });
+}
+
 async function loadHistoryEntries(latestPath, historyPath) {
   try {
     const historyPromise = loadJSON(historyPath).catch(() => null);
@@ -620,6 +759,15 @@ function createHistoryControllers() {
     render: (entry) => renderXinhuaSnapshot(entry, xinhuaGrid),
   });
 
+  const thepaperGrid = document.getElementById("thepaper-news");
+  controllers.thepaper = new HistoryController({
+    container: thepaperGrid,
+    prevButton: document.getElementById("thepaper-prev"),
+    nextButton: document.getElementById("thepaper-next"),
+    timestampElement: document.getElementById("thepaper-timestamp"),
+    render: (entry) => renderThepaperSnapshot(entry, thepaperGrid),
+  });
+
   return controllers;
 }
 
@@ -627,7 +775,7 @@ const historyControllers = createHistoryControllers();
 
 async function render() {
   try {
-    const [indices, fx, weather, baiduHistory, weiboHistory, wechatHistory, xinhuaHistory] =
+    const [indices, fx, weather, baiduHistory, weiboHistory, wechatHistory, xinhuaHistory, thepaperHistory] =
       await Promise.all([
         loadJSON("data/indices.json"),
         loadJSON("data/fx.json"),
@@ -639,6 +787,7 @@ async function render() {
           "data/history/tencent_wechat_hot.json",
         ),
         loadHistoryEntries("data/xinhua_news.json", "data/history/xinhua_news.json"),
+        loadHistoryEntries("data/thepaper_news.json", "data/history/thepaper_news.json"),
       ]);
 
     const ulIdx = document.getElementById("indices");
@@ -684,6 +833,10 @@ async function render() {
 
     if (historyControllers.xinhua) {
       historyControllers.xinhua.setEntries(xinhuaHistory);
+    }
+
+    if (historyControllers.thepaper) {
+      historyControllers.thepaper.setEntries(thepaperHistory);
     }
 
     setLastRefresh();
