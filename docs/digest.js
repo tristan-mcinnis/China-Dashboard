@@ -40,8 +40,14 @@ function renderDailyDigest(digest) {
   digest.top_stories.slice(0, 5).forEach((story, index) => {
     const summary = isEnglish ? story.summary : (story.summary_zh || story.summary);
 
-    // Show only first 3 lines initially, expand on click
-    const summaryPreview = summary ? summary.split('\n')[0] : '';
+    // Get meaningful preview - get first paragraph or sentence
+    let summaryPreview = '';
+    if (summary) {
+      // Split by paragraphs (double newline) or single newlines
+      const paragraphs = summary.split(/\n\n|\n/).filter(p => p.trim().length > 10);
+      // Use first paragraph as preview
+      summaryPreview = paragraphs[0] || summary.substring(0, 200);
+    }
 
     html += `
       <div class="digest-card" id="story-${index}">
@@ -61,7 +67,7 @@ function renderDailyDigest(digest) {
         </h3>
 
         <div class="digest-card-summary">
-          ${summaryPreview}
+          ${summaryPreview || (isEnglish ? story.english_title : story.primary_title)}
         </div>
 
         ${summary && summary.split('\n').length > 1 ? `
@@ -99,8 +105,10 @@ function toggleStory(index) {
 
       const summaryElement = card.querySelector('.digest-card-summary');
       if (summaryElement && summary) {
-        summaryElement.innerHTML = summary.split('\n').map(para =>
-          para.trim() ? `<p>${para}</p>` : ''
+        // Split by paragraphs and display as separate <p> elements
+        const paragraphs = summary.split(/\n\n/).filter(p => p.trim());
+        summaryElement.innerHTML = paragraphs.map(para =>
+          `<p>${para.trim()}</p>`
         ).join('');
       }
 
