@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-09-28T18:35:04+08:00",
+  "generated_at": "2025-09-28T22:06:37+08:00",
   "entries": [
+    {
+      "as_of": "2025-09-28T22:06:37+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 湾区升明月",
+          "value": "演出 7482629 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "演出 7482629",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The bright moon rises over the Bay Area..."
+          }
+        },
+        {
+          "title": "2. 月饼名字是把配料表抄上去了吧",
+          "value": "544632 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%88%E9%A5%BC%E5%90%8D%E5%AD%97%E6%98%AF%E6%8A%8A%E9%85%8D%E6%96%99%E8%A1%A8%E6%8A%84%E4%B8%8A%E5%8E%BB%E4%BA%86%E5%90%A7&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 544632",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The mooncake's name seems to be just the ingredient list..."
+          }
+        },
+        {
+          "title": "3. 行走大美中国",
+          "value": "542704 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A1%8C%E8%B5%B0%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 542704",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Traveling through beautiful China..."
+          }
+        },
+        {
+          "title": "4. 长城汽车的破局之道",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E7%9A%84%E7%A0%B4%E5%B1%80%E4%B9%8B%E9%81%93&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The breakthrough strategy of Great Wall Motors..."
+          }
+        },
+        {
+          "title": "5. 肖战容祖儿成龙坐一起",
+          "value": "演出 536656 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E5%AE%B9%E7%A5%96%E5%84%BF%E6%88%90%E9%BE%99%E5%9D%90%E4%B8%80%E8%B5%B7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "演出 536656",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Xiao Zhan, Joey Yung, and Jackie Chan sit together..."
+          }
+        },
+        {
+          "title": "6. 男子欠5000被催债后说每分钟还50 [重磅]",
+          "value": "530315 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E6%AC%A05000%E8%A2%AB%E5%82%AC%E5%80%BA%E5%90%8E%E8%AF%B4%E6%AF%8F%E5%88%86%E9%92%9F%E8%BF%9850&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 530315",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Man owes 5000 and says he'll repay 50 per minute..."
+          }
+        },
+        {
+          "title": "7. 华南理工大学校内发生车祸有人被撞",
+          "value": "523258 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%86%85%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%92%9E&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 523258",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A traffic accident occurred on the campus of South China ..."
+          }
+        },
+        {
+          "title": "8. 禺你同行乐游潜江 [沸]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A6%BA%E4%BD%A0%E5%90%8C%E8%A1%8C%E4%B9%90%E6%B8%B8%E6%BD%9C%E6%B1%9F&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Traveling happily with you in Qianjiang..."
+          }
+        },
+        {
+          "title": "9. 苏醒回应跑调",
+          "value": "演出 521332 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E8%B7%91%E8%B0%83&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "演出 521332",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Suxing responds to off-key singing..."
+          }
+        },
+        {
+          "title": "10. 卖女孩的红烧肉 店名争议",
+          "value": "511356 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%96%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%BA%A2%E7%83%A7%E8%82%89%20%E5%BA%97%E5%90%8D%E4%BA%89%E8%AE%AE&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 511356",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Controversy over the restaurant name \"Selling Girl's Brai..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-09-28T18:35:04+08:00",
       "source": "Weibo Hot Search",
