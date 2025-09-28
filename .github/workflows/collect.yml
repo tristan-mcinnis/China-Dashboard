@@ -43,11 +43,20 @@ jobs:
           python collectors/weather_cn.py
           python collectors/xinhua_rss.py
 
+      - name: Generate daily digest
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TZ: Asia/Shanghai
+        run: |
+          echo "Attempting to generate digest..."
+          python collectors/daily_digest.py || echo "Not a scheduled digest time or digest failed"
+
       - name: Commit data
         run: |
           git config user.name "china-snapshot-bot"
           git config user.email "bot@example.com"
           git add docs/data/*.json || true
           git add docs/data/history/*.json || true
+          git add docs/data/digest_archive/ || true
           git commit -m "data: update $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"
           git push

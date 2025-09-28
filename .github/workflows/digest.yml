@@ -1,0 +1,43 @@
+name: daily-digest
+on:
+  schedule:
+    # Generate digest at: 7:00, 12:00, 19:00, 23:00 Beijing time
+    # Converted to UTC: 23:00 (prev day), 04:00, 11:00, 15:00
+    - cron: "0 23 * * *"    # 07:00 Beijing (morning)
+    - cron: "0 4 * * *"     # 12:00 Beijing (noon)
+    - cron: "0 11 * * *"    # 19:00 Beijing (evening)
+    - cron: "0 15 * * *"    # 23:00 Beijing (final)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate digest
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TZ: Asia/Shanghai
+        run: |
+          echo "Generating daily digest at $(date +'%H:%M %Z')"
+          python collectors/daily_digest.py
+
+      - name: Commit digest
+        run: |
+          git config user.name "china-snapshot-bot"
+          git config user.email "bot@example.com"
+          git add docs/data/daily_digest.json || true
+          git add docs/data/digest_archive/ || true
+          git commit -m "digest: $(date +'%Y-%m-%d %H:%M') Beijing" || echo "no changes"
+          git push

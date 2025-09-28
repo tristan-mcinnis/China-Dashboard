@@ -58,3 +58,6 @@ logs/
 *.tmp
 *.temp
 .cache/
+# Test files
+test_*.py
+test_*.json

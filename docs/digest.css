@@ -1,0 +1,312 @@
+/* Daily Digest Styles - Matching Site Design */
+
+.digest-section {
+  margin-bottom: 24px;
+  padding: 0;
+}
+
+body.dark .digest-section {
+  color: #e5e5e5;
+}
+
+.digest-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.digest-title {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0;
+  color: var(--text-secondary);
+}
+
+.digest-subtitle {
+  font-size: 10px;
+  opacity: 0.5;
+  margin-top: 2px;
+}
+
+/* Language Toggle - Minimal */
+.language-toggle {
+  display: flex;
+  gap: 0;
+  font-size: 10px;
+}
+
+.language-toggle button {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  padding: 2px 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+}
+
+.language-toggle button:first-child {
+  border-radius: 3px 0 0 3px;
+  border-right: none;
+}
+
+.language-toggle button:last-child {
+  border-radius: 0 3px 3px 0;
+}
+
+.language-toggle button:hover {
+  color: var(--text-primary);
+}
+
+.language-toggle button.active {
+  background: var(--text-secondary);
+  color: var(--background);
+  border-color: var(--text-secondary);
+}
+
+/* Digest Grid - Compact Cards */
+.digest-grid {
+  display: grid;
+  gap: 8px;
+}
+
+.digest-card {
+  background: transparent;
+  border: none;
+  border-left: 2px solid var(--border-color);
+  border-radius: 4px;
+  padding: 8px 12px;
+  transition: all 0.2s;
+}
+
+.digest-card:hover {
+  border-left-color: var(--text-secondary);
+}
+
+body.dark .digest-card {
+  background: #0F0F0F !important;
+  border-left-color: #333 !important;
+}
+
+body.dark .digest-card:hover {
+  background: #1A1A1A !important;
+  border-left-color: #555 !important;
+}
+
+.digest-card-header {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 4px;
+  font-size: 10px;
+}
+
+.story-rank {
+  color: var(--text-secondary);
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  opacity: 0.4;
+  font-size: 9px;
+}
+
+.story-weight {
+  color: var(--text-secondary);
+  font-family: 'JetBrains Mono', monospace;
+  padding: 1px 4px;
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+  font-size: 9px;
+}
+
+.story-platforms {
+  display: flex;
+  gap: 3px;
+  margin-left: auto;
+}
+
+.platform-badge {
+  padding: 1px 4px;
+  border-radius: 2px;
+  font-size: 9px;
+  font-weight: 500;
+  font-family: 'JetBrains Mono', monospace;
+  opacity: 0.8;
+  border: 1px solid;
+}
+
+/* Platform colors - minimal with borders */
+.platform-badge.baidu_top {
+  background: transparent;
+  color: var(--text-secondary);
+  border-color: var(--border-color);
+}
+
+.platform-badge.weibo_hot {
+  background: transparent;
+  color: var(--text-secondary);
+  border-color: var(--border-color);
+}
+
+.platform-badge.tencent_wechat_hot {
+  background: transparent;
+  color: var(--text-secondary);
+  border-color: var(--border-color);
+}
+
+.story-category {
+  padding: 1px 4px;
+  border-radius: 2px;
+  font-size: 9px;
+  text-transform: uppercase;
+  font-weight: 500;
+  opacity: 0.5;
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+}
+
+.digest-card-title {
+  font-size: 11px;
+  font-weight: 500;
+  margin: 0 0 4px 0;
+  line-height: 1.3;
+  color: var(--text-primary);
+}
+
+.digest-card-summary {
+  font-size: 10px;
+  line-height: 1.4;
+  color: var(--text-secondary);
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  opacity: 0.8;
+}
+
+.digest-card-footer {
+  margin-top: 4px;
+}
+
+.expand-summary {
+  font-size: 9px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-family: 'JetBrains Mono', monospace;
+  background: none;
+  border: none;
+  padding: 0;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+
+.expand-summary:hover {
+  opacity: 0.8;
+}
+
+/* Expanded state */
+.digest-card.expanded .digest-card-summary {
+  -webkit-line-clamp: unset;
+  display: block;
+}
+
+.digest-card.expanded .digest-card-summary p {
+  margin: 0 0 4px 0;
+  font-size: 10px;
+  line-height: 1.4;
+}
+
+.digest-card.expanded .digest-card-summary p:last-child {
+  margin-bottom: 0;
+}
+
+/* Dark mode enhancements */
+body.dark .digest-title {
+  color: #aaa;
+}
+
+body.dark .digest-subtitle {
+  color: #666;
+}
+
+body.dark .digest-card-title {
+  color: #e5e5e5;
+}
+
+body.dark .digest-card-summary {
+  color: #999;
+}
+
+body.dark .story-rank,
+body.dark .story-weight,
+body.dark .story-category {
+  color: #777;
+}
+
+body.dark .platform-badge {
+  border-color: #333;
+  color: #888;
+}
+
+body.dark .expand-summary {
+  color: #777;
+}
+
+body.dark .expand-summary:hover {
+  color: #999;
+}
+
+/* Dark mode variables (matching your site) */
+body.dark {
+  --card-background: #111;
+  --border-color: #333;
+  --text-primary: #e5e5e5;
+  --text-secondary: #999;
+  --background: #000;
+}
+
+/* Light mode variables */
+body:not(.dark) {
+  --card-background: #fff;
+  --border-color: #e5e7eb;
+  --text-primary: #000;
+  --text-secondary: #6b7280;
+  --background: #fff;
+}
+
+/* Responsive - More compact on mobile */
+@media (max-width: 640px) {
+  .digest-card {
+    padding: 6px 0 6px 10px;
+  }
+
+  .digest-card-title {
+    font-size: 10px;
+  }
+
+  .digest-card-summary {
+    font-size: 9px;
+  }
+
+  .digest-header {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .digest-card-header {
+    font-size: 9px;
+  }
+
+  .story-rank,
+  .story-weight,
+  .platform-badge,
+  .story-category {
+    font-size: 8px;
+  }
+}
