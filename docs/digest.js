@@ -19,10 +19,10 @@ function renderDailyDigest(digest) {
 
   // Build HTML - matching site's section style
   let html = `
-    <section class="digest-section">
+    <section class="section digest-section">
       <div class="digest-header">
-        <div>
-          <h2 class="digest-title">${isEnglish ? 'Daily Digest' : '今日要闻'}</h2>
+        <div class="digest-header-text">
+          <h2 class="digest-title">${isEnglish ? 'DAILY DIGEST' : '今日要闻'}</h2>
           <div class="digest-subtitle">${isEnglish ?
             `${digest.time_label} • ${digest.metrics.cross_platform_stories} cross-platform stories` :
             `${digest.beijing_time} 北京 • ${digest.metrics.cross_platform_stories} 个跨平台热点`}
