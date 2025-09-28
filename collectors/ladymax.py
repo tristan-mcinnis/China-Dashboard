@@ -30,7 +30,7 @@ from collectors.common import (
 
 OUT = "docs/data/ladymax_news.json"
 HISTORY_OUT = "docs/data/history/ladymax_news.json"
-BASE_URL = "http://m.ladymax.cn/"
+BASE_URL = "http://www.ladymax.cn/"
 MAX_ITEMS = 21
 REQUEST_TIMEOUT = 15
 MAX_RETRIES = 3
@@ -162,21 +162,34 @@ def _parse_articles(html: str, max_items: int) -> List[dict]:
     results: List[dict] = []
     seen_urls: set[str] = set()
 
-    selectors = [
-        "div.list-article a",
-        "div.list_article a",
-        "div.article-list a",
-        "div.news-list a",
-        "div.list_news a",
-        "ul.list li a",
-        "article a",
-        "a[href]",
-    ]
+    # Look for news items in the main list div
+    list_div = soup.find("div", {"id": "list"})
+    if list_div:
+        # Find all news items within div.i elements
+        for item in list_div.find_all("div", class_="i"):
+            # Get the link from the title link (class="tt")
+            title_link = item.find("a", class_="tt")
+            if not title_link:
+                continue
 
-    for selector in selectors:
-        for link in soup.select(selector):
-            href = (link.get("href") or "").strip()
-            title = link.get_text(" ", strip=True)
+            href = (title_link.get("href") or "").strip()
+
+            # Extract title text (removing the metadata)
+            full_text = title_link.get_text(" ", strip=True)
+            # Split by the date pattern to get just the title
+            if " / " in full_text:
+                parts = full_text.split(" / ")
+                if len(parts) >= 2:
+                    title = " ".join(parts[1:]).strip()
+                    # Extract date from the span.pubdate if it exists
+                    date_span = title_link.find("span", class_="pubdate")
+                    published = _normalise_datetime(date_span.get_text(strip=True)) if date_span else ""
+                else:
+                    title = full_text
+                    published = ""
+            else:
+                title = full_text
+                published = ""
 
             if not href or not title:
                 continue
@@ -189,16 +202,19 @@ def _parse_articles(html: str, max_items: int) -> List[dict]:
 
             seen_urls.add(absolute_url)
 
-            parent = link.find_parent(["li", "article", "div"]) or link
-            summary = _extract_summary(parent, title)
-            published = _extract_datetime(parent)
-            category = _guess_category_from_url(absolute_url)
+            # Try to get category from the span in the image link
+            category = "资讯"
+            img_link = item.find("a", class_="p")
+            if img_link:
+                cat_span = img_link.find("span")
+                if cat_span:
+                    category = cat_span.get_text(strip=True)
 
             results.append(
                 {
                     "title": title.strip(),
                     "url": absolute_url,
-                    "summary": summary,
+                    "summary": "",  # No summary in this format
                     "published": published,
                     "category": category,
                 }
@@ -206,6 +222,38 @@ def _parse_articles(html: str, max_items: int) -> List[dict]:
 
             if len(results) >= max_items:
                 return results
+
+    # Fallback to hotlink box for additional items if needed
+    if len(results) < max_items:
+        hotlink_div = soup.find("div", {"id": "hotlinkbox"})
+        if hotlink_div:
+            for link in hotlink_div.find_all("a", href=True):
+                href = link.get("href", "").strip()
+                title = link.get_text(" ", strip=True)
+
+                if not href or not title:
+                    continue
+                if href.startswith("javascript") or href.startswith("#"):
+                    continue
+
+                absolute_url = urljoin(BASE_URL, href)
+                if absolute_url in seen_urls:
+                    continue
+
+                seen_urls.add(absolute_url)
+
+                results.append(
+                    {
+                        "title": title.strip(),
+                        "url": absolute_url,
+                        "summary": "",
+                        "published": "",
+                        "category": _guess_category_from_url(absolute_url),
+                    }
+                )
+
+                if len(results) >= max_items:
+                    break
 
     return results
 
