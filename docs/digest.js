@@ -38,7 +38,17 @@ function renderDailyDigest(digest) {
 
   // Render only first 5 stories as compact cards
   digest.top_stories.slice(0, 5).forEach((story, index) => {
-    const summary = isEnglish ? story.summary : (story.summary_zh || story.summary);
+    let summary = isEnglish ? story.summary : (story.summary_zh || story.summary);
+
+    // Parse JSON string if summary is in JSON format
+    if (summary && typeof summary === 'string' && summary.trim().startsWith('{')) {
+      try {
+        const parsed = JSON.parse(summary);
+        summary = isEnglish ? parsed.en : (parsed.zh || parsed.en);
+      } catch (e) {
+        console.warn('Failed to parse summary JSON:', e);
+      }
+    }
 
     // Get meaningful preview - get first paragraph or sentence
     let summaryPreview = '';
@@ -101,7 +111,17 @@ function toggleStory(index) {
     if (digest && digest.top_stories[index]) {
       const story = digest.top_stories[index];
       const isEnglish = currentDigestLanguage === 'en';
-      const summary = isEnglish ? story.summary : (story.summary_zh || story.summary);
+      let summary = isEnglish ? story.summary : (story.summary_zh || story.summary);
+
+      // Parse JSON string if summary is in JSON format
+      if (summary && typeof summary === 'string' && summary.trim().startsWith('{')) {
+        try {
+          const parsed = JSON.parse(summary);
+          summary = isEnglish ? parsed.en : (parsed.zh || parsed.en);
+        } catch (e) {
+          console.warn('Failed to parse summary JSON:', e);
+        }
+      }
 
       const summaryElement = card.querySelector('.digest-card-summary');
       if (summaryElement && summary) {
