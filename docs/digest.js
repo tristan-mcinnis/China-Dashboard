@@ -24,8 +24,8 @@ function renderDailyDigest(digest) {
         <div class="digest-header-text">
           <h2 class="digest-title">${isEnglish ? 'DAILY DIGEST' : '今日要闻'}</h2>
           <div class="digest-subtitle">${isEnglish ?
-            `${digest.time_label} • ${digest.metrics.cross_platform_stories} cross-platform stories` :
-            `${digest.beijing_time} 北京 • ${digest.metrics.cross_platform_stories} 个跨平台热点`}
+            `${digest.time_label} • 5 cross-platform stories` :
+            `${digest.beijing_time} 北京 • 5 个跨平台热点`}
           </div>
         </div>
         <div class="language-toggle">
