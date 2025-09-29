@@ -1011,7 +1011,14 @@ function initTheme() {
   const themeIcon = themeToggle.querySelector('.theme-icon');
 
   // Check for saved theme preference or default to 'dark'
-  const currentTheme = localStorage.getItem('theme') || 'dark';
+  let currentTheme = 'dark';
+  try {
+    currentTheme = localStorage.getItem('theme') || 'dark';
+  } catch (e) {
+    // localStorage may be blocked or quota exceeded
+    console.warn('Unable to read theme from localStorage:', e);
+  }
+
   document.documentElement.setAttribute('data-theme', currentTheme);
 
   // Update logo and icon based on current theme
@@ -1023,7 +1030,15 @@ function initTheme() {
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
 
     document.documentElement.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
+
+    // Try to save theme preference
+    try {
+      localStorage.setItem('theme', newTheme);
+    } catch (e) {
+      // localStorage may be blocked or quota exceeded
+      console.warn('Unable to save theme to localStorage:', e);
+    }
+
     updateThemeElements(newTheme, logoImage, themeIcon);
   });
 }
@@ -1041,5 +1056,55 @@ function updateThemeElements(theme, logoImage, themeIcon) {
 // Initialize theme when DOM is loaded
 document.addEventListener('DOMContentLoaded', initTheme);
 
-render();
-setInterval(render, 60_000);
+// Track last update times to enable incremental updates
+const lastUpdateTimes = {};
+
+async function checkForUpdates() {
+  try {
+    // Check if any data files have been updated
+    const checks = [
+      { key: 'indices', path: 'data/indices.json' },
+      { key: 'fx', path: 'data/fx.json' },
+      { key: 'weather', path: 'data/weather.json' },
+      { key: 'baidu', path: 'data/baidu_top.json' },
+      { key: 'weibo', path: 'data/weibo_hot.json' },
+      { key: 'wechat', path: 'data/tencent_wechat_hot.json' },
+      { key: 'xinhua', path: 'data/xinhua_news.json' },
+      { key: 'thepaper', path: 'data/thepaper_news.json' },
+      { key: 'ladymax', path: 'data/ladymax_news.json' }
+    ];
+
+    let hasUpdates = false;
+
+    for (const check of checks) {
+      try {
+        const response = await fetch(check.path, { method: 'HEAD' });
+        const lastModified = response.headers.get('last-modified');
+
+        if (lastModified && lastUpdateTimes[check.key] !== lastModified) {
+          lastUpdateTimes[check.key] = lastModified;
+          hasUpdates = true;
+        }
+      } catch (e) {
+        // If HEAD fails, assume update needed
+        hasUpdates = true;
+      }
+    }
+
+    if (hasUpdates || Object.keys(lastUpdateTimes).length === 0) {
+      await render();
+    }
+
+    setLastRefresh();
+  } catch (error) {
+    console.error('Update check failed:', error);
+    // Fall back to full render on error
+    await render();
+  }
+}
+
+// Initial render
+render().then(() => {
+  // After initial render, switch to incremental update checks
+  setInterval(checkForUpdates, 30_000); // Check every 30 seconds instead of 60
+});

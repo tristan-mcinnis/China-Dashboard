@@ -72,12 +72,12 @@ function renderDailyDigest(digest) {
           <span class="story-category">${story.category}</span>
         </div>
 
-        <h3 class="digest-card-title">
-          ${isEnglish ? story.english_title : story.primary_title}
+        <h3 class="digest-card-title" data-title-index="${index}">
+          <!-- Title will be safely added via textContent -->
         </h3>
 
-        <div class="digest-card-summary">
-          ${summaryPreview || (isEnglish ? story.english_title : story.primary_title)}
+        <div class="digest-card-summary" data-story-index="${index}">
+          <!-- Content will be safely added via textContent -->
         </div>
 
         ${summary && summary.split('\n').length > 1 ? `
@@ -92,6 +92,44 @@ function renderDailyDigest(digest) {
   html += `
       </div>
     </section>`;
+
+  // After building HTML, we need to safely set text content
+  setTimeout(() => {
+    digest.top_stories.slice(0, 5).forEach((story, index) => {
+      // Safely set title
+      const titleEl = document.querySelector(`[data-title-index="${index}"]`);
+      if (titleEl) {
+        const isEnglish = currentDigestLanguage === 'en';
+        titleEl.textContent = isEnglish ? story.english_title : story.primary_title;
+      }
+
+      // Safely set summary
+      const summaryEl = document.querySelector(`[data-story-index="${index}"]`);
+      if (summaryEl) {
+        const isEnglish = currentDigestLanguage === 'en';
+        let summary = isEnglish ? story.summary : (story.summary_zh || story.summary);
+
+        // Parse JSON string if summary is in JSON format
+        if (summary && typeof summary === 'string' && summary.trim().startsWith('{')) {
+          try {
+            const parsed = JSON.parse(summary);
+            summary = isEnglish ? parsed.en : (parsed.zh || parsed.en);
+          } catch (e) {
+            console.warn('Failed to parse summary JSON:', e);
+          }
+        }
+
+        let summaryPreview = '';
+        if (summary) {
+          const paragraphs = summary.split(/\n\n|\n/).filter(p => p.trim().length > 10);
+          summaryPreview = paragraphs[0] || summary.substring(0, 200);
+        }
+
+        // Safely set text content to prevent XSS
+        summaryEl.textContent = summaryPreview || (isEnglish ? story.english_title : story.primary_title);
+      }
+    });
+  }, 0);
 
   return html;
 }

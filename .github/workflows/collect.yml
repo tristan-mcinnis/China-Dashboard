@@ -35,13 +35,28 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TZ: Asia/Shanghai
         run: |
-          python collectors/baidu_top.py
-          python collectors/weibo_hot.py
-          python collectors/tencent_wechat_hot.py
-          python collectors/indices_cn.py
-          python collectors/fx_cny.py
-          python collectors/weather_cn.py
-          python collectors/xinhua_rss.py
+          # Run each collector and track failures
+          failed_collectors=""
+
+          python collectors/baidu_top.py || failed_collectors="$failed_collectors baidu_top"
+          python collectors/weibo_hot.py || failed_collectors="$failed_collectors weibo_hot"
+          python collectors/tencent_wechat_hot.py || failed_collectors="$failed_collectors tencent_wechat_hot"
+          python collectors/indices_cn.py || failed_collectors="$failed_collectors indices_cn"
+          python collectors/fx_cny.py || failed_collectors="$failed_collectors fx_cny"
+          python collectors/weather_cn.py || failed_collectors="$failed_collectors weather_cn"
+          python collectors/xinhua_rss.py || failed_collectors="$failed_collectors xinhua_rss"
+          python collectors/thepaper_rss.py || failed_collectors="$failed_collectors thepaper_rss"
+          python collectors/ladymax.py || failed_collectors="$failed_collectors ladymax"
+
+          # Report failures but don't fail the workflow
+          if [ -n "$failed_collectors" ]; then
+            echo "::warning::Failed collectors:$failed_collectors"
+            echo "Failed collectors:$failed_collectors" >> docs/data/collector_status.txt
+            echo "Last check: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> docs/data/collector_status.txt
+          else
+            echo "All collectors ran successfully" > docs/data/collector_status.txt
+            echo "Last check: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> docs/data/collector_status.txt
+          fi
 
       - name: Generate daily digest
         env:
@@ -55,7 +70,7 @@ jobs:
         run: |
           git config user.name "china-snapshot-bot"
           git config user.email "bot@example.com"
-          git add docs/data/*.json || true
+          git add docs/data/*.json docs/data/*.txt || true
           git add docs/data/history/*.json || true
           git add docs/data/digest_archive/ || true
           git commit -m "data: update $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"

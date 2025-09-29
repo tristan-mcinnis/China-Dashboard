@@ -2,6 +2,8 @@ import json
 import os
 import random
 import time
+import fcntl
+import tempfile
 from datetime import datetime, timedelta, timezone
 from openai import OpenAI
 
@@ -17,9 +19,25 @@ def now_iso_tz8() -> str:
 
 
 def write_json(path: str, payload: dict, *, indent: int | None = None) -> None:
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=indent)
+    # Security: Validate path is within expected directory
+    abs_path = os.path.abspath(path)
+    allowed_dirs = [
+        os.path.abspath("docs/data"),
+        os.path.abspath("docs/data/history"),
+        os.path.abspath("docs/data/digest_archive")
+    ]
+
+    if not any(abs_path.startswith(allowed_dir) for allowed_dir in allowed_dirs):
+        raise ValueError(f"Security: Path {path} is outside allowed directories")
+
+    # Limit file size to prevent DoS (10MB max)
+    json_str = json.dumps(payload, ensure_ascii=False, indent=indent)
+    if len(json_str.encode('utf-8')) > 10 * 1024 * 1024:
+        raise ValueError(f"File size exceeds 10MB limit")
+
+    os.makedirs(os.path.dirname(abs_path), exist_ok=True)
+    with open(abs_path, "w", encoding="utf-8") as f:
+        f.write(json_str)
 
 
 def base_headers() -> dict:
@@ -77,12 +95,14 @@ def write_with_history(
     *,
     max_entries: int = 30,
 ) -> None:
-    """Persist the latest payload and append it to a bounded history file."""
+    """Persist the latest payload and append it to a bounded history file using atomic writes."""
 
+    # Write latest data first
     write_json(latest_path, payload)
 
     os.makedirs(os.path.dirname(history_path), exist_ok=True)
 
+    # Use atomic write for history to prevent race conditions
     entries = _load_history_entries(history_path)
 
     snapshot = {
@@ -106,7 +126,20 @@ def write_with_history(
         "entries": entries,
     }
 
-    write_json(history_path, history_payload, indent=2)
+    # Atomic write using temp file and rename
+    abs_history_path = os.path.abspath(history_path)
+    temp_fd, temp_path = tempfile.mkstemp(dir=os.path.dirname(abs_history_path),
+                                           prefix='.history_tmp_', suffix='.json')
+    try:
+        with os.fdopen(temp_fd, 'w', encoding='utf-8') as f:
+            json.dump(history_payload, f, ensure_ascii=False, indent=2)
+        # Atomic rename (on POSIX systems)
+        os.replace(temp_path, abs_history_path)
+    except Exception:
+        # Clean up temp file on error
+        if os.path.exists(temp_path):
+            os.unlink(temp_path)
+        raise
 
 
 def safe_get(d, key, default=""):
@@ -120,39 +153,49 @@ def backoff_sleep(attempt: int) -> None:
     time.sleep(min(8, 1.5 ** attempt + random.random()))
 
 
-def translate_text(text: str) -> str:
+def translate_text(text: str, max_retries: int = 3) -> str:
     """Translate Chinese text to English using OpenAI gpt-4o-mini (internally called gpt-5-nano for speed)."""
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         return ""
 
-    try:
-        client = OpenAI(api_key=api_key)
+    for attempt in range(max_retries):
+        try:
+            client = OpenAI(api_key=api_key)
 
-        # Using gpt-4o-mini which is OpenAI's fastest and most cost-effective model
-        # We refer to it as gpt-5-nano for internal purposes
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",  # This is the actual fastest/cheapest OpenAI model
-            messages=[
-                {
-                    "role": "system",
-                    "content": "You are a translator. Translate Chinese text to English in one concise line (max 60 characters, add ellipsis if needed)."
-                },
-                {
-                    "role": "user",
-                    "content": text
-                }
-            ],
-            max_tokens=100,
-            temperature=0.3
-        )
+            # Using gpt-4o-mini which is OpenAI's fastest and most cost-effective model
+            # We refer to it as gpt-5-nano for internal purposes
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",  # This is the actual fastest/cheapest OpenAI model
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "You are a translator. Translate Chinese text to English in one concise line (max 60 characters, add ellipsis if needed)."
+                    },
+                    {
+                        "role": "user",
+                        "content": text
+                    }
+                ],
+                max_tokens=100,
+                temperature=0.3,
+                timeout=10  # Add 10 second timeout
+            )
 
-        translation = response.choices[0].message.content.strip()
-        # Ensure it's not too long and add ellipsis if needed
-        if len(translation) > 60:
-            translation = translation[:57] + "..."
-        return translation
+            translation = response.choices[0].message.content.strip()
+            # Ensure it's not too long and add ellipsis if needed
+            if len(translation) > 60:
+                translation = translation[:57] + "..."
+            return translation
 
-    except Exception as e:
-        print(f"Translation error: {e}")
-        return ""
+        except Exception as e:
+            # Don't log API key or sensitive data
+            error_msg = str(e).replace(api_key, "***") if api_key in str(e) else str(e)
+
+            if attempt < max_retries - 1:
+                print(f"Translation attempt {attempt + 1} failed: {error_msg[:100]}, retrying...")
+                backoff_sleep(attempt)
+            else:
+                print(f"Translation failed after {max_retries} attempts: {error_msg[:100]}")
+
+    return ""

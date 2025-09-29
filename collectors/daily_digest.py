@@ -99,6 +99,9 @@ def load_all_current_data():
 
 def extract_keywords(title):
     """Extract key terms from Chinese title for matching"""
+    if not title or not isinstance(title, str):
+        return ""
+
     # Remove ranking numbers like "1. " or "1、"
     clean = re.sub(r'^\d+[\.\、]\s*', '', title)
     # Remove brackets and quotes
@@ -113,42 +116,64 @@ def find_similar_stories(all_items):
     clusters = []
     processed = set()
 
+    # Limit items to prevent O(n²) performance issues
+    MAX_ITEMS = 500
+    if len(all_items) > MAX_ITEMS:
+        print(f"Warning: Limiting clustering to {MAX_ITEMS} items for performance")
+        all_items = all_items[:MAX_ITEMS]
+
     for i, item in enumerate(all_items):
-        if i in processed:
+        if i in processed or not item:
             continue
+
+        # Defensive null checks
+        item_title = item.get('title', '')
+        item_platform = item.get('platform', 'unknown')
 
         cluster = {
             'items': [item],
-            'platforms': {item['platform']},
-            'keywords': extract_keywords(item['title']),
-            'titles': [item['title']]
+            'platforms': {item_platform},
+            'keywords': extract_keywords(item_title),
+            'titles': [item_title] if item_title else []
         }
 
         # Find similar stories
         for j, other in enumerate(all_items):
-            if j <= i or j in processed:
+            if j <= i or j in processed or not other:
                 continue
 
+            # Defensive null checks
+            other_title = other.get('title', '')
+            other_platform = other.get('platform', 'unknown')
+
             # Extract keywords for comparison
-            other_keywords = extract_keywords(other['title'])
+            other_keywords = extract_keywords(other_title)
+
+            # Skip if either has no keywords
+            if not cluster['keywords'] or not other_keywords:
+                continue
 
             # Calculate similarity
-            similarity = SequenceMatcher(None,
-                cluster['keywords'],
-                other_keywords
-            ).ratio()
+            try:
+                similarity = SequenceMatcher(None,
+                    cluster['keywords'],
+                    other_keywords
+                ).ratio()
+            except Exception:
+                similarity = 0
 
             # Check for key term overlap
-            key_terms_1 = set(cluster['keywords'].split())
-            key_terms_2 = set(other_keywords.split())
+            key_terms_1 = set(cluster['keywords'].split()) if cluster['keywords'] else set()
+            key_terms_2 = set(other_keywords.split()) if other_keywords else set()
 
             # Need at least 2 common terms or high similarity
             common_terms = len(key_terms_1 & key_terms_2)
 
             if similarity > 0.5 or common_terms >= 2:
                 cluster['items'].append(other)
-                cluster['platforms'].add(other['platform'])
-                cluster['titles'].append(other['title'])
+                cluster['platforms'].add(other_platform)
+                if other_title:
+                    cluster['titles'].append(other_title)
                 processed.add(j)
 
         clusters.append(cluster)
@@ -175,7 +200,12 @@ def calculate_cluster_weight(cluster):
 
 def categorize_story(cluster):
     """Determine story category based on keywords"""
-    title_text = ' '.join(cluster['titles']).lower()
+    if not cluster or not cluster.get('titles'):
+        return 'general'
+
+    # Safely join titles
+    titles = cluster.get('titles', [])
+    title_text = ' '.join(str(t) for t in titles if t).lower()
 
     categories = [
         ('business', ['经济', '金融', '公司', '集团', '股', '市场', '消费', '债务', '银行']),
