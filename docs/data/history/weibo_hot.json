@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-02T14:02:04+08:00",
+  "generated_at": "2025-10-02T18:36:09+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-02T18:36:09+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 社保补贴",
+          "value": "1363623 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A4%BE%E4%BF%9D%E8%A1%A5%E8%B4%B4&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1363623",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Social security subsidy..."
+          }
+        },
+        {
+          "title": "2. 微信时间能切换显示方式",
+          "value": "372590 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E6%97%B6%E9%97%B4%E8%83%BD%E5%88%87%E6%8D%A2%E6%98%BE%E7%A4%BA%E6%96%B9%E5%BC%8F&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 372590",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "WeChat time can switch display modes..."
+          }
+        },
+        {
+          "title": "3. 打卡快乐十一",
+          "value": "308522 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%89%93%E5%8D%A1%E5%BF%AB%E4%B9%90%E5%8D%81%E4%B8%80&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 308522",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Happy National Day!"
+          }
+        },
+        {
+          "title": "4. 女幼师遇害案凶手已被执行死刑",
+          "value": "247700 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%B9%BC%E5%B8%88%E9%81%87%E5%AE%B3%E6%A1%88%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 247700",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The murderer in the female kindergarten teacher's case ha..."
+          }
+        },
+        {
+          "title": "5. 冒牌鸡排哥连人带车被劝返",
+          "value": "196209 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%92%E7%89%8C%E9%B8%A1%E6%8E%92%E5%93%A5%E8%BF%9E%E4%BA%BA%E5%B8%A6%E8%BD%A6%E8%A2%AB%E5%8A%9D%E8%BF%94&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 196209",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Imposter fried chicken vendor and vehicle sent back..."
+          }
+        },
+        {
+          "title": "6. 有人出发2天还没到目的地",
+          "value": "172965 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E4%BA%BA%E5%87%BA%E5%8F%912%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%88%B0%E7%9B%AE%E7%9A%84%E5%9C%B0&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 172965",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Someone has been on the road for two days and hasn't arri..."
+          }
+        },
+        {
+          "title": "7. BV2026夏季时装秀",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBV2026%E5%A4%8F%E5%AD%A3%E6%97%B6%E8%A3%85%E7%A7%80&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "BV2026 Summer Fashion Show..."
+          }
+        },
+        {
+          "title": "8. 女子称登泰山是被人潮传送上去的 [新]",
+          "value": "166612 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%99%BB%E6%B3%B0%E5%B1%B1%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%BD%AE%E4%BC%A0%E9%80%81%E4%B8%8A%E5%8E%BB%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 166612",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "A woman claims she was transported to the top of Tai Moun..."
+          }
+        },
+        {
+          "title": "9. 酒店一天办11场婚宴拱门快摆不下了",
+          "value": "163086 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%85%92%E5%BA%97%E4%B8%80%E5%A4%A9%E5%8A%9E11%E5%9C%BA%E5%A9%9A%E5%AE%B4%E6%8B%B1%E9%97%A8%E5%BF%AB%E6%91%86%E4%B8%8D%E4%B8%8B%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 163086",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The hotel held 11 wedding banquets in one day, running ou..."
+          }
+        },
+        {
+          "title": "10. 年轻人旅游基础打卡就不基础",
+          "value": "148233 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%97%85%E6%B8%B8%E5%9F%BA%E7%A1%80%E6%89%93%E5%8D%A1%E5%B0%B1%E4%B8%8D%E5%9F%BA%E7%A1%80&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 148233",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Young people's travel basics are no longer basic..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-02T14:02:04+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Xu Yiyang, you just want me to recommend Huang Zitao..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-09-26T18:37:06+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 健康码行程码记得解绑",
-          "value": "1138024 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%81%A5%E5%BA%B7%E7%A0%81%E8%A1%8C%E7%A8%8B%E7%A0%81%E8%AE%B0%E5%BE%97%E8%A7%A3%E7%BB%91&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1138024",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Remember to unbind your health and travel codes..."
-          }
-        },
-        {
-          "title": "2. 段奥娟提名大爆冷 [新]",
-          "value": "电影 842175 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AE%B5%E5%A5%A5%E5%A8%9F%E6%8F%90%E5%90%8D%E5%A4%A7%E7%88%86%E5%86%B7&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "电影 842175",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Duan Aojuan's nomination comes as a big surprise..."
-          }
-        },
-        {
-          "title": "3. 神20航天员圆满完成第4次出舱",
-          "value": "704433 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E20%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%86%E6%BB%A1%E5%AE%8C%E6%88%90%E7%AC%AC4%E6%AC%A1%E5%87%BA%E8%88%B1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 704433",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Shenzhou 20 astronauts successfully completed their 4th s..."
-          }
-        },
-        {
-          "title": "4. 小米17系列首发评测",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%B1%B317%E7%B3%BB%E5%88%97%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "First review of the Xiaomi 17 series..."
-          }
-        },
-        {
-          "title": "5. 辛芷蕾这一身王菲来了都得愣两秒",
-          "value": "综艺 667860 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%BF%99%E4%B8%80%E8%BA%AB%E7%8E%8B%E8%8F%B2%E6%9D%A5%E4%BA%86%E9%83%BD%E5%BE%97%E6%84%A3%E4%B8%A4%E7%A7%92&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "综艺 667860",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Xin Zhilei's outfit would leave even Faye Wong stunned..."
-          }
-        },
-        {
-          "title": "6. 中方向日方已提出严正交涉 [首发]",
-          "value": "576202 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E5%90%91%E6%97%A5%E6%96%B9%E5%B7%B2%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 576202",
-            "tag": "首发",
-            "api_source": "tianapi",
-            "translation": "China has made solemn representations to Japan..."
-          }
-        },
-        {
-          "title": "7. 好利来门店回应月饼27元一块",
-          "value": "554723 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%BD%E5%88%A9%E6%9D%A5%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E6%9C%88%E9%A5%BC27%E5%85%83%E4%B8%80%E5%9D%97&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 554723",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Hao Li Lai store responds: mooncakes priced at 27 yuan ea..."
-          }
-        },
-        {
-          "title": "8. FENDI2026春夏男女时装秀 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DFENDI2026%E6%98%A5%E5%A4%8F%E7%94%B7%E5%A5%B3%E6%97%B6%E8%A3%85%E7%A7%80&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "FENDI Spring/Summer 2026 Men's and Women's Fashion Show..."
-          }
-        },
-        {
-          "title": "9. 美国男子追杀恋童癖老人",
-          "value": "403872 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E8%BF%BD%E6%9D%80%E6%81%8B%E7%AB%A5%E7%99%96%E8%80%81%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 403872",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "American man chases after a pedophile elder..."
-          }
-        },
-        {
-          "title": "10. 五字哥哥和四字弟弟合影了",
-          "value": "318947 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E5%AD%97%E5%93%A5%E5%93%A5%E5%92%8C%E5%9B%9B%E5%AD%97%E5%BC%9F%E5%BC%9F%E5%90%88%E5%BD%B1%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 318947",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The five-character brother and four-character brother too..."
           }
         }
       ]
