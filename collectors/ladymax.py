@@ -32,7 +32,7 @@ OUT = "docs/data/ladymax_news.json"
 HISTORY_OUT = "docs/data/history/ladymax_news.json"
 BASE_URL = "http://www.ladymax.cn/"
 MAX_ITEMS = 21
-REQUEST_TIMEOUT = 15
+REQUEST_TIMEOUT = 20
 MAX_RETRIES = 3
 
 
@@ -128,19 +128,22 @@ def _extract_datetime(node: BeautifulSoup) -> str:
 
 
 def _fetch_homepage() -> str:
-    headers = base_headers()
-    headers.update(
-        {
-            "Referer": BASE_URL,
-            "Connection": "keep-alive",
-        }
-    )
+    # Try with better headers to avoid anti-scraping blocks
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Cache-Control": "max-age=0",
+    }
 
     session = requests.Session()
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            response = session.get(BASE_URL, headers=headers, timeout=REQUEST_TIMEOUT)
+            response = session.get(BASE_URL, headers=headers, timeout=REQUEST_TIMEOUT, allow_redirects=True)
             if response.status_code != 200:
                 print(f"LadyMax homepage returned HTTP {response.status_code}")
                 backoff_sleep(attempt)

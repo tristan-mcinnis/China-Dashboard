@@ -683,25 +683,23 @@ function renderLadymaxSnapshot(entry, container) {
     return;
   }
 
-  container.innerHTML = "";
-
   const items = Array.isArray(entry?.items) ? entry.items : [];
 
+  // Hide entire section if no data available
+  const section = container.closest('.section');
   if (items.length === 0) {
-    const card = document.createElement("div");
-    card.className = "card";
-    card.innerHTML = `
-      <div class="card-header">
-        <h3 class="card-title">LadyMax 时尚头条网</h3>
-        <div class="card-subtitle">Feed unavailable</div>
-      </div>
-      <div class="card-content">
-        <p class="muted">No recent items fetched.</p>
-      </div>
-    `;
-    container.appendChild(card);
+    if (section) {
+      section.style.display = 'none';
+    }
     return;
   }
+
+  // Show section if it was hidden
+  if (section) {
+    section.style.display = '';
+  }
+
+  container.innerHTML = "";
 
   const itemsPerCard = 7;
   const categories = [

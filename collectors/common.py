@@ -183,9 +183,15 @@ def translate_text(text: str, max_retries: int = 3) -> str:
             )
 
             translation = response.choices[0].message.content.strip()
-            # Ensure it's not too long and add ellipsis if needed
+            # Ensure it's not too long and add ellipsis if needed, breaking at word boundaries
             if len(translation) > 60:
-                translation = translation[:57] + "..."
+                # Find the last space before character 57
+                truncated = translation[:57]
+                last_space = truncated.rfind(' ')
+                if last_space > 40:  # Only break at word if there's a reasonable break point
+                    translation = translation[:last_space] + "..."
+                else:
+                    translation = translation[:57] + "..."
             return translation
 
         except Exception as e:
