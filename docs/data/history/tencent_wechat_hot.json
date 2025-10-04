@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2025-10-04T06:04:13+08:00",
+  "generated_at": "2025-10-04T10:48:22+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-04T10:48:22+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 习近平同新加坡总统互致贺电",
+          "value": "指数 7904701",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904701",
+            "api_source": "tianapi",
+            "translation": "Xi Jinping and Singapore President exchanged..."
+          }
+        },
+        {
+          "title": "2. 中国已用上“地面空间站”",
+          "value": "指数 7808299",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%94%A8%E4%B8%8A%E2%80%9C%E5%9C%B0%E9%9D%A2%E7%A9%BA%E9%97%B4%E7%AB%99%E2%80%9D",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808299",
+            "api_source": "tianapi",
+            "translation": "China has begun using the \"ground space station\"..."
+          }
+        },
+        {
+          "title": "3. “毛孩子”或成商场新流量密码",
+          "value": "指数 7711984",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E6%AF%9B%E5%AD%A9%E5%AD%90%E2%80%9D%E6%88%96%E6%88%90%E5%95%86%E5%9C%BA%E6%96%B0%E6%B5%81%E9%87%8F%E5%AF%86%E7%A0%81",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7711984",
+            "api_source": "tianapi",
+            "translation": "\"Furry kids\" may become the new traffic secret for malls..."
+          }
+        },
+        {
+          "title": "4. “一箭穿云”链动星辰大海",
+          "value": "指数 7618505",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E4%B8%80%E7%AE%AD%E7%A9%BF%E4%BA%91%E2%80%9D%E9%93%BE%E5%8A%A8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7618505",
+            "api_source": "tianapi",
+            "translation": "\"A single arrow pierces the clouds, linking stars and..."
+          }
+        },
+        {
+          "title": "5. 墨西哥出现UFO舰队？视频曝光",
+          "value": "指数 7520646",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%87%BA%E7%8E%B0UFO%E8%88%B0%E9%98%9F%EF%BC%9F%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7520646",
+            "api_source": "tianapi",
+            "translation": "UFO fleet spotted in Mexico? Video revealed..."
+          }
+        },
+        {
+          "title": "6. 停运、停航！台风“麦德姆”逼近",
+          "value": "指数 7426102",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%81%9C%E8%BF%90%E3%80%81%E5%81%9C%E8%88%AA%EF%BC%81%E5%8F%B0%E9%A3%8E%E2%80%9C%E9%BA%A6%E5%BE%B7%E5%A7%86%E2%80%9D%E9%80%BC%E8%BF%91",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7426102",
+            "api_source": "tianapi",
+            "translation": "Suspensions of services and flights! Typhoon \"Maidum\"..."
+          }
+        },
+        {
+          "title": "7. 巴西全球最大“蚊子工厂”准备投产",
+          "value": "指数 7332230",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B7%B4%E8%A5%BF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E2%80%9C%E8%9A%8A%E5%AD%90%E5%B7%A5%E5%8E%82%E2%80%9D%E5%87%86%E5%A4%87%E6%8A%95%E4%BA%A7",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7332230",
+            "api_source": "tianapi",
+            "translation": "Brazil's largest \"mosquito factory\" is set to start..."
+          }
+        },
+        {
+          "title": "8. 又一个美军四星上将辞职",
+          "value": "指数 7236336",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8F%88%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%86%9B%E5%9B%9B%E6%98%9F%E4%B8%8A%E5%B0%86%E8%BE%9E%E8%81%8C",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7236336",
+            "api_source": "tianapi",
+            "translation": "Another U.S. four-star general resigns..."
+          }
+        },
+        {
+          "title": "9. 东北虎“二埋汰”更脏了 园方回应",
+          "value": "指数 7136338",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%9C%E5%8C%97%E8%99%8E%E2%80%9C%E4%BA%8C%E5%9F%8B%E6%B1%B0%E2%80%9D%E6%9B%B4%E8%84%8F%E4%BA%86+%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7136338",
+            "api_source": "tianapi",
+            "translation": "Northeast tiger \"Ermaitai\" has become dirtier; park..."
+          }
+        },
+        {
+          "title": "10. “飞行的硫酸”活跃 遇到千万别拍",
+          "value": "指数 7045137",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E9%A3%9E%E8%A1%8C%E7%9A%84%E7%A1%AB%E9%85%B8%E2%80%9D%E6%B4%BB%E8%B7%83+%E9%81%87%E5%88%B0%E5%8D%83%E4%B8%87%E5%88%AB%E6%8B%8D",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7045137",
+            "api_source": "tianapi",
+            "translation": "\"Flying sulfuric acid\" is active; don't take photos..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-04T06:04:13+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7047034",
             "api_source": "tianapi",
             "translation": "Trump rare publicly pressures Netanyahu..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-09-28T10:58:31+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 石榴籽，习近平为何一再强调",
-          "value": "指数 7904828",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%9F%B3%E6%A6%B4%E7%B1%BD%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904828",
-            "api_source": "tianapi",
-            "translation": "Pomegranate seeds: Why does Xi Jinping emphasize them rep..."
-          }
-        },
-        {
-          "title": "2. 王健林被限制高消费",
-          "value": "指数 7809691",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E5%81%A5%E6%9E%97%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7809691",
-            "api_source": "tianapi",
-            "translation": "Wang Jianlin is restricted from high spending..."
-          }
-        },
-        {
-          "title": "3. 全球首例！中国航母福建舰创纪录",
-          "value": "指数 7713161",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%88%9B%E7%BA%AA%E5%BD%95",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713161",
-            "api_source": "tianapi",
-            "translation": "World's first! China's aircraft carrier Fujian sets recor..."
-          }
-        },
-        {
-          "title": "4. 献给新疆维吾尔自治区成立70周年",
-          "value": "指数 7618073",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8C%AE%E7%BB%99%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618073",
-            "api_source": "tianapi",
-            "translation": "Dedicated to the 70th anniversary of Xinjiang Uygur Auton..."
-          }
-        },
-        {
-          "title": "5. 朝鲜宣布将对被判有罪人员实施大赦",
-          "value": "指数 7521337",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7521337",
-            "api_source": "tianapi",
-            "translation": "North Korea announces amnesty for convicted individuals..."
-          }
-        },
-        {
-          "title": "6. 事关你我 10月起一批新规即将施行",
-          "value": "指数 7428875",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%8B%E5%85%B3%E4%BD%A0%E6%88%91+10%E6%9C%88%E8%B5%B7%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%8D%B3%E5%B0%86%E6%96%BD%E8%A1%8C",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7428875",
-            "api_source": "tianapi",
-            "translation": "New regulations affecting us will take effect in October..."
-          }
-        },
-        {
-          "title": "7. 航班突然提前15小时起飞 乘客傻眼",
-          "value": "指数 7332993",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%88%AA%E7%8F%AD%E7%AA%81%E7%84%B6%E6%8F%90%E5%89%8D15%E5%B0%8F%E6%97%B6%E8%B5%B7%E9%A3%9E+%E4%B9%98%E5%AE%A2%E5%82%BB%E7%9C%BC",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7332993",
-            "api_source": "tianapi",
-            "translation": "Flight suddenly departs 15 hours early, passengers stunne..."
-          }
-        },
-        {
-          "title": "8. 中国发现百万年前“龙人”",
-          "value": "指数 7233082",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E7%99%BE%E4%B8%87%E5%B9%B4%E5%89%8D%E2%80%9C%E9%BE%99%E4%BA%BA%E2%80%9D",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7233082",
-            "api_source": "tianapi",
-            "translation": "China discovers \"Dragon Man\" from a million years ago..."
-          }
-        },
-        {
-          "title": "9. 全球最大5000平方米空中捕风伞启运",
-          "value": "指数 7141507",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A75000%E5%B9%B3%E6%96%B9%E7%B1%B3%E7%A9%BA%E4%B8%AD%E6%8D%95%E9%A3%8E%E4%BC%9E%E5%90%AF%E8%BF%90",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7141507",
-            "api_source": "tianapi",
-            "translation": "The world's largest 5,000 square meter air-catching umbre..."
-          }
-        },
-        {
-          "title": "10. 台风博罗依将带来大暴雨、特大暴雨",
-          "value": "指数 7047935",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8F%B0%E9%A3%8E%E5%8D%9A%E7%BD%97%E4%BE%9D%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%A4%A7%E6%9A%B4%E9%9B%A8%E3%80%81%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7047935",
-            "api_source": "tianapi",
-            "translation": "Typhoon Bolaven will bring heavy and torrential rain..."
           }
         }
       ]
