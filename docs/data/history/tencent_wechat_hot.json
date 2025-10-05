@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2025-10-05T10:57:50+08:00",
+  "generated_at": "2025-10-05T14:02:21+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-05T14:02:21+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 总书记这样阐释爱国情怀",
+          "value": "指数 7904853",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E9%98%90%E9%87%8A%E7%88%B1%E5%9B%BD%E6%83%85%E6%80%80",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904853",
+            "api_source": "tianapi",
+            "translation": "The General Secretary explains patriotism..."
+          }
+        },
+        {
+          "title": "2. 海南文昌发生海水倒灌 有街道被淹",
+          "value": "指数 7807873",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B5%B7%E5%8D%97%E6%96%87%E6%98%8C%E5%8F%91%E7%94%9F%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C+%E6%9C%89%E8%A1%97%E9%81%93%E8%A2%AB%E6%B7%B9",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7807873",
+            "api_source": "tianapi",
+            "translation": "Sea water inundates streets in Wenchang, Hainan..."
+          }
+        },
+        {
+          "title": "3. 大聪明已经提前到5号返程了",
+          "value": "指数 7714028",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%A7%E8%81%AA%E6%98%8E%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E5%88%B05%E5%8F%B7%E8%BF%94%E7%A8%8B%E4%BA%86",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7714028",
+            "api_source": "tianapi",
+            "translation": "Big Smart has already returned on the 5th..."
+          }
+        },
+        {
+          "title": "4. 零距离感受“大国重器”",
+          "value": "指数 7617326",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%9B%B6%E8%B7%9D%E7%A6%BB%E6%84%9F%E5%8F%97%E2%80%9C%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E2%80%9D",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617326",
+            "api_source": "tianapi",
+            "translation": "Experience the \"heavyweights of a great nation\" up close..."
+          }
+        },
+        {
+          "title": "5. 被悟空带火的小西天：游客暴增百倍",
+          "value": "指数 7520328",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%A2%AB%E6%82%9F%E7%A9%BA%E5%B8%A6%E7%81%AB%E7%9A%84%E5%B0%8F%E8%A5%BF%E5%A4%A9%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%9A%B4%E5%A2%9E%E7%99%BE%E5%80%8D",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7520328",
+            "api_source": "tianapi",
+            "translation": "Little Western Heaven ignited by Wukong: Tourist surge..."
+          }
+        },
+        {
+          "title": "6. 男子接270单上门喂养 最高1单8100元",
+          "value": "指数 7425294",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B7%E5%AD%90%E6%8E%A5270%E5%8D%95%E4%B8%8A%E9%97%A8%E5%96%82%E5%85%BB+%E6%9C%80%E9%AB%981%E5%8D%958100%E5%85%83",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7425294",
+            "api_source": "tianapi",
+            "translation": "Man delivers 270 orders, earning up to 8,100 yuan per..."
+          }
+        },
+        {
+          "title": "7. “老顽童爷爷”赵克明因病去世",
+          "value": "指数 7329286",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E8%80%81%E9%A1%BD%E7%AB%A5%E7%88%B7%E7%88%B7%E2%80%9D%E8%B5%B5%E5%85%8B%E6%98%8E%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7329286",
+            "api_source": "tianapi",
+            "translation": "\"Old Rascal Grandpa\" Zhao Keming has passed away..."
+          }
+        },
+        {
+          "title": "8. 60岁老人离退休仅23天跳水救人溺亡",
+          "value": "指数 7236402",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=60%E5%B2%81%E8%80%81%E4%BA%BA%E7%A6%BB%E9%80%80%E4%BC%91%E4%BB%8523%E5%A4%A9%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E6%BA%BA%E4%BA%A1",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7236402",
+            "api_source": "tianapi",
+            "translation": "60-year-old man drowned while saving someone just 23..."
+          }
+        },
+        {
+          "title": "9. 歼-35与歼-35A机库首度公开",
+          "value": "指数 7137914",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%AD%BC-35%E4%B8%8E%E6%AD%BC-35A%E6%9C%BA%E5%BA%93%E9%A6%96%E5%BA%A6%E5%85%AC%E5%BC%80",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7137914",
+            "api_source": "tianapi",
+            "translation": "J-35 and J-35A hangars revealed for the first time..."
+          }
+        },
+        {
+          "title": "10. 海口一塔吊被台风吹得直打转",
+          "value": "指数 7039905",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B5%B7%E5%8F%A3%E4%B8%80%E5%A1%94%E5%90%8A%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%BE%97%E7%9B%B4%E6%89%93%E8%BD%AC",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7039905",
+            "api_source": "tianapi",
+            "translation": "A tower crane in Haikou spins wildly in the typhoon..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-05T10:57:50+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7046011",
             "api_source": "tianapi",
             "translation": "Two missing 15-year-old girls have been intercepted by Vi..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-09-29T14:02:15+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. “开创新疆更加美好的明天”",
-          "value": "指数 7904087",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E5%BC%80%E5%88%9B%E6%96%B0%E7%96%86%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%98%8E%E5%A4%A9%E2%80%9D",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904087",
-            "api_source": "tianapi",
-            "translation": "\"Creating a better tomorrow for Xinjiang...\""
-          }
-        },
-        {
-          "title": "2. 你以为毒贩长这样？实际上毒贩长这样",
-          "value": "指数 7808681",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BD%A0%E4%BB%A5%E4%B8%BA%E6%AF%92%E8%B4%A9%E9%95%BF%E8%BF%99%E6%A0%B7%EF%BC%9F%E5%AE%9E%E9%99%85%E4%B8%8A%E6%AF%92%E8%B4%A9%E9%95%BF%E8%BF%99%E6%A0%B7",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808681",
-            "api_source": "tianapi",
-            "translation": "You think drug dealers look like this? They actually look..."
-          }
-        },
-        {
-          "title": "3. 小孩姐扛着“东风-5C”走进幼儿园",
-          "value": "指数 7714193",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B0%8F%E5%AD%A9%E5%A7%90%E6%89%9B%E7%9D%80%E2%80%9C%E4%B8%9C%E9%A3%8E-5C%E2%80%9D%E8%B5%B0%E8%BF%9B%E5%B9%BC%E5%84%BF%E5%9B%AD",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7714193",
-            "api_source": "tianapi",
-            "translation": "A child carries a \"Dongfeng-5C\" into kindergarten..."
-          }
-        },
-        {
-          "title": "4. 国庆中秋假期各地天气最新预报",
-          "value": "指数 7618979",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E5%BA%86%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E5%90%84%E5%9C%B0%E5%A4%A9%E6%B0%94%E6%9C%80%E6%96%B0%E9%A2%84%E6%8A%A5",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618979",
-            "api_source": "tianapi",
-            "translation": "Latest weather forecast for National Day and Mid-Autumn h..."
-          }
-        },
-        {
-          "title": "5. 小沈阳发文回应自己被“抬走”",
-          "value": "指数 7521540",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E8%A2%AB%E2%80%9C%E6%8A%AC%E8%B5%B0%E2%80%9D",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7521540",
-            "api_source": "tianapi",
-            "translation": "Xiao Shenyang responds to being \"carried away\"..."
-          }
-        },
-        {
-          "title": "6. 女子称子宫被装监听器起诉医院",
-          "value": "指数 7425544",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%AD%90%E5%AE%AB%E8%A2%AB%E8%A3%85%E7%9B%91%E5%90%AC%E5%99%A8%E8%B5%B7%E8%AF%89%E5%8C%BB%E9%99%A2",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7425544",
-            "api_source": "tianapi",
-            "translation": "Woman sues hospital, claims uterus was implanted with a t..."
-          }
-        },
-        {
-          "title": "7. 女子被骗百万卖家里3套房 父母崩溃",
-          "value": "指数 7332583",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AA%97%E7%99%BE%E4%B8%87%E5%8D%96%E5%AE%B6%E9%87%8C3%E5%A5%97%E6%88%BF+%E7%88%B6%E6%AF%8D%E5%B4%A9%E6%BA%83",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7332583",
-            "api_source": "tianapi",
-            "translation": "Woman scammed out of millions, sells three homes; parents..."
-          }
-        },
-        {
-          "title": "8. 清华两教职工当“黄牛”被拘",
-          "value": "指数 7234326",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B8%85%E5%8D%8E%E4%B8%A4%E6%95%99%E8%81%8C%E5%B7%A5%E5%BD%93%E2%80%9C%E9%BB%84%E7%89%9B%E2%80%9D%E8%A2%AB%E6%8B%98",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7234326",
-            "api_source": "tianapi",
-            "translation": "Two Tsinghua staff arrested for scalping..."
-          }
-        },
-        {
-          "title": "9. “6元鸡排讲出了6亿项目的气魄”",
-          "value": "指数 7142929",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C6%E5%85%83%E9%B8%A1%E6%8E%92%E8%AE%B2%E5%87%BA%E4%BA%866%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%B0%94%E9%AD%84%E2%80%9D",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7142929",
-            "api_source": "tianapi",
-            "translation": "\"6 yuan chicken steak embodies the spirit of a 600 millio..."
-          }
-        },
-        {
-          "title": "10. 靠诈骗过富二代生活 18岁女孩获刑",
-          "value": "指数 7046506",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%9D%A0%E8%AF%88%E9%AA%97%E8%BF%87%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%94%9F%E6%B4%BB+18%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%8E%B7%E5%88%91",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7046506",
-            "api_source": "tianapi",
-            "translation": "18-year-old girl sentenced for living off scams targeting..."
           }
         }
       ]
