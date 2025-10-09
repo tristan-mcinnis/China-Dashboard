@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-09T18:37:57+08:00",
+  "generated_at": "2025-10-09T22:08:50+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-09T22:08:50+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 乌兰被查",
+          "value": "1153752 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%8C%E5%85%B0%E8%A2%AB%E6%9F%A5&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1153752",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Ulan is under investigation..."
+          }
+        },
+        {
+          "title": "2. 南昌遭误会被打扇子哥已离职 [新]",
+          "value": "374917 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%97%E6%98%8C%E9%81%AD%E8%AF%AF%E4%BC%9A%E8%A2%AB%E6%89%93%E6%89%87%E5%AD%90%E5%93%A5%E5%B7%B2%E7%A6%BB%E8%81%8C&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 374917",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Nanchang's misunderstood \"fan guy\" has left his job..."
+          }
+        },
+        {
+          "title": "3. 8天国内出游8.88亿人次",
+          "value": "300374 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D8%E5%A4%A9%E5%9B%BD%E5%86%85%E5%87%BA%E6%B8%B88.88%E4%BA%BF%E4%BA%BA%E6%AC%A1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 300374",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "8-day domestic travel saw 888 million trips..."
+          }
+        },
+        {
+          "title": "4. 京东买药双11明星天天送免单",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF%E5%8F%8C11%E6%98%8E%E6%98%9F%E5%A4%A9%E5%A4%A9%E9%80%81%E5%85%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "JD.com offers free medicine on Double 11 with celebrity..."
+          }
+        },
+        {
+          "title": "5. 腾讯视频账号6次超限或面临封号",
+          "value": "267518 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E8%B4%A6%E5%8F%B76%E6%AC%A1%E8%B6%85%E9%99%90%E6%88%96%E9%9D%A2%E4%B8%B4%E5%B0%81%E5%8F%B7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 267518",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Tencent Video accounts may face bans after 6 limit..."
+          }
+        },
+        {
+          "title": "6. 鸡排哥休息日变饭撒日 [火热]",
+          "value": "264159 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%A1%E6%8E%92%E5%93%A5%E4%BC%91%E6%81%AF%E6%97%A5%E5%8F%98%E9%A5%AD%E6%92%92%E6%97%A5&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 264159",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Chicken fillet guy turns his day off into a food fest..."
+          }
+        },
+        {
+          "title": "7. 一人食被歧视韩国网友怒了",
+          "value": "263571 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E4%BA%BA%E9%A3%9F%E8%A2%AB%E6%AD%A7%E8%A7%86%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 263571",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Single diners face discrimination, Korean netizens are..."
+          }
+        },
+        {
+          "title": "8. 汇师上海",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%87%E5%B8%88%E4%B8%8A%E6%B5%B7&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gathering troops in Shanghai..."
+          }
+        },
+        {
+          "title": "9. 男子中959万大奖狂欢8周险丧命",
+          "value": "262218 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E4%B8%AD959%E4%B8%87%E5%A4%A7%E5%A5%96%E7%8B%82%E6%AC%A28%E5%91%A8%E9%99%A9%E4%B8%A7%E5%91%BD&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 262218",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Man celebrates $9.59 million win for 8 weeks, nearly dies..."
+          }
+        },
+        {
+          "title": "10. 购置税 [新]",
+          "value": "260050 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%AD%E7%BD%AE%E7%A8%8E&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 260050",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Purchase tax..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-09T18:37:57+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "US embassies in China announce suspension of updates..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-03T22:07:57+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 肯德基保密54年的炸鸡配方将被公开",
-          "value": "1762112 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BF%9D%E5%AF%8654%E5%B9%B4%E7%9A%84%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9%E5%B0%86%E8%A2%AB%E5%85%AC%E5%BC%80&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1762112",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "KFC's secret fried chicken recipe will be revealed..."
-          }
-        },
-        {
-          "title": "2. 肯德基总部未回应公开炸鸡配方",
-          "value": "812551 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%AF%E5%BE%B7%E5%9F%BA%E6%80%BB%E9%83%A8%E6%9C%AA%E5%9B%9E%E5%BA%94%E5%85%AC%E5%BC%80%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 812551",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "KFC headquarters hasn't responded about the secret chicke..."
-          }
-        },
-        {
-          "title": "3. 十四五万千气象看四川",
-          "value": "621115 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E5%9B%9B%E4%BA%94%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%9B%9B%E5%B7%9D&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 621115",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "\"14th Five-Year Plan: A New Outlook for Sichuan...\""
-          }
-        },
-        {
-          "title": "4. 王楚钦孙颖莎vs黄友政陈熠",
-          "value": "592194 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%BB%84%E5%8F%8B%E6%94%BF%E9%99%88%E7%86%A0&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 592194",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin/Sun Yingsha vs Huang Youzheng/Chen Yi..."
-          }
-        },
-        {
-          "title": "5. 王楚钦孙颖莎混双冠军",
-          "value": "537652 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 537652",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin and Sun Yingsha win mixed doubles championshi..."
-          }
-        },
-        {
-          "title": "6. 混双",
-          "value": "520416 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B7%B7%E5%8F%8C&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 520416",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Mixed doubles..."
-          }
-        },
-        {
-          "title": "7. 罗意威2026春夏女装秀",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%97%E6%84%8F%E5%A8%812026%E6%98%A5%E5%A4%8F%E5%A5%B3%E8%A3%85%E7%A7%80&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Loewe Spring/Summer 2026 Women's Fashion Show..."
-          }
-        },
-        {
-          "title": "8. 731毒气实验室玩具已下架 [新]",
-          "value": "503408 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D731%E6%AF%92%E6%B0%94%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%8E%A9%E5%85%B7%E5%B7%B2%E4%B8%8B%E6%9E%B6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 503408",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "731 gas chamber toy has been removed from shelves..."
-          }
-        },
-        {
-          "title": "9. 威廉王子说3个孩子都没有配手机",
-          "value": "461263 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E8%AF%B43%E4%B8%AA%E5%AD%A9%E5%AD%90%E9%83%BD%E6%B2%A1%E6%9C%89%E9%85%8D%E6%89%8B%E6%9C%BA&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 461263",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Prince William said none of the three kids have phones..."
-          }
-        },
-        {
-          "title": "10. 普京称某国准备进行核试验 [新]",
-          "value": "277428 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%9F%90%E5%9B%BD%E5%87%86%E5%A4%87%E8%BF%9B%E8%A1%8C%E6%A0%B8%E8%AF%95%E9%AA%8C&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 277428",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Putin claims a certain country is ready for nuclear tests..."
           }
         }
       ]
