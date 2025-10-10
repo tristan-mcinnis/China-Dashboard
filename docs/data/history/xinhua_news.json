@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-10-10T22:09:30+08:00",
+  "generated_at": "2025-10-11T06:04:50+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-11T06:04:50+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息丨非车险“报行合一”落地",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVY3N0o5MUpXUmVIel85WTU1eWZhcGxQSDQ2ZTF1amNmTUR1cS1xcjdMaGtKZy0xU1ZUd28yZ2FVRGRHYlBRbURlX0l5ZERsYlJHd2lWWDR5b3lKNnJuMVJXZVhzbWJkajFjSWtDVldsc1Y0V0RDZVNKRXJwNlBFWTlLT3Axb3U4?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-10T04:13:10Z",
+            "summary": "新华社消息丨非车险“报行合一”落地 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua News: Non-auto insurance \"report and act as one\"..."
+          }
+        },
+        {
+          "title": "第二届中亚-俄罗斯峰会在塔吉克斯坦举行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUlBIRFFjSTlnV3drYjI4cUVfVnRlc1VneTU5NUhUNWJEb2FDY3o5UEJqRDhhbVl0T0YwUmhqYlFiSC1PbEY1N25vYVRiNlZRSEktUENLMXJrdTVvb2hXOEJrMHVURkFRSHNqdXBybzFhX1lmdjVreG1XM2RjeFo0V2p2MlNrUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-10T00:23:43Z",
+            "summary": "第二届中亚-俄罗斯峰会在塔吉克斯坦举行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 2nd Central Asia-Russia Summit held in Tajikistan..."
+          }
+        },
+        {
+          "title": "黎巴嫩北部城市民众庆祝加沙停火协议生效",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWZPanNJTE1xQXFWeVN4RkZrWmxIZlpZZ1ljNzAyU05pazNmMlRRWHB2bWs5S3BhWi0zUUN3T25lUHotdklKMDE4U2NPajlGbHVETGlodDdZc3BwWm1pNzk1dVJjNThnTnpGSjkwX2loR0xrWjRPYXJjVHdwSWhLaVgzY2lTdw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-10T10:58:04Z",
+            "summary": "黎巴嫩北部城市民众庆祝加沙停火协议生效 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Residents in northern Lebanon celebrate Gaza ceasefire..."
+          }
+        },
+        {
+          "title": "秘鲁总统博鲁阿尔特遭国会弹劾",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2lnV09EcjlGRW9uak1KeHo3QnJpZVVHN2VBdkRJTzJKODR6a2oyTS1XbXV6NFJWaGNick9WYTE1X3A3Vjh0XzFyUDQxM0oyOFhvdUtXNlh5b0diaUREaEREbXNEMTNTb1RILXpjbTdCMTVCdFVEaUVtOGIybDZmVFJKMW1vZw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-09T22:18:19Z",
+            "summary": "秘鲁总统博鲁阿尔特遭国会弹劾 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Peru's President Boluarte impeached by Congress..."
+          }
+        },
+        {
+          "title": "斐济庆祝独立55周年",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON1Z2b2lIVmFra2FNS1lwMTVORnJlSXRuUU0yeVpDSzYyUjVyc1dISm5Ub2NrR3BUOVZTeXZWbHMzQXZkMnd1WE8zTnJCQ2VCODNvaXZOU1FZcXNXOS0tTkUxaXJLTnR1TnJ3YjhGbmxDUG9jUzQ0a2dKdUZldTBZSmk2UTRyZw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-10T07:45:10Z",
+            "summary": "斐济庆祝独立55周年 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Fiji celebrates 55th anniversary of independence..."
+          }
+        },
+        {
+          "title": "消费市场人气旺亮点多",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3hLMGU2a0J6V0pnNXZiNGxqVTM3OFhsS2NTSUdoOFNDWldaREc4azg4c0tGMkJhQUR5X051VzRyN0I0TlBBOG5WWDg4WGJ1ZzcyWlh1RUx0bDZoRXlNRkhNTjc3ZE1VbXhLd3RLRE5CeW9YX1dOcU1MUW1RNS1iMk9rS1RoMGNT?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-09T15:48:07Z",
+            "summary": "消费市场人气旺亮点多 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The consumer market is vibrant with many highlights..."
+          }
+        },
+        {
+          "title": "新华鲜报|“双节”同辉！国庆中秋假期交出活力满满“成绩单”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzFyckJsdTRKYXF2R0kyZTBJQUhBR0NUNTVwMktYVlV3M3owaW5XUGFCYy1RRkktRENQYjBKZVpxdWliS1lOci1VcEozSjZKdUFyMWJ5YW9zcG1ZNjZfcmM3VXlxQ01kLTlxOHJaa3VqUlZDOF9pTTExdGIzV3plOWNn?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-09T17:28:11Z",
+            "summary": "新华鲜报|“双节”同辉！国庆中秋假期交出活力满满“成绩单” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua News: \"Double Festival\" shines! National Day and..."
+          }
+        },
+        {
+          "title": "聚焦研发投入 加速国际化布局 创新药企获机构密集调研",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BZUpuNmpKX0txVV9HbVZmd2xUS2RWZEJWZWZaODkyTm1xYWNVcDIxMEtmUFUybWJDbWFaOU44cmZ6SkY5NG96ZnhLSThweHZFZW15YjZXNEg1a3NER3VjQjFxc0p6Z1N6WVh1SXAtekRuSlNjXzFwR0pZeDN0Zw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-09T18:14:22Z",
+            "summary": "聚焦研发投入 加速国际化布局 创新药企获机构密集调研 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Focusing on R&D investment, innovative pharma attracts..."
+          }
+        },
+        {
+          "title": "“双节”期间数据显示 消费市场增势较好",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12RnkydVFoYmZDd0xHLVVLalQzNlJKYktlUTZkOVcxSkVGakNNbE1zNS1TeC1oS2Rkd1dKRHp4MWVrY050TUx1eWVJVENac1dHWWRSLXM5R0hxeThjOG5FaGNOSF90WDBxaTBXTFhYLTJfSEY0dkxLMXhkRjVXZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-09T17:15:42Z",
+            "summary": "“双节”期间数据显示 消费市场增势较好 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Data shows strong growth in the consumer market during..."
+          }
+        },
+        {
+          "title": "海亮，天天向上！",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qeTZXb0RqQ3ZvZWVUSDBRS2xkTEo2V2o4Vk40T1pWRXFacUFyY3poSEgydGVPdlNtZ01nLXpuRlpFTE44STJBNWVPU1RSMmR3MjRhZ2JDeDJvWWdWd215UkJPdnFZOWU3WjBHbEpNWHQ4ZjlmNUREbHJydlZtdw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-09T20:16:02Z",
+            "summary": "海亮，天天向上！ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hailiang, striving for progress every day!"
+          }
+        },
+        {
+          "title": "财经聚焦丨年内涨约50%！金价为何一路高歌？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFdoWlpFdndFdDU0YmtTVU83azByVUllMVNzWU5MWjRQZHpWaUFhZktEZlZneUJzS3JaN21jVzVpSzRIeWtOc3N5a3BiQ195bDNuRHp6ZDZEeEJONUJtUHJPWG10T3V1S3JlZnJiVzNmVFBLUmFYa0l2YUh4Q3lha2RnTUwweF9L?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-10T02:00:42Z",
+            "summary": "财经聚焦丨年内涨约50%！金价为何一路高歌？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Financial Focus: Gold prices soar nearly 50% this year..."
+          }
+        },
+        {
+          "title": "消费市场人气旺亮点多",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3hLMGU2a0J6V0pnNXZiNGxqVTM3OFhsS2NTSUdoOFNDWldaREc4azg4c0tGMkJhQUR5X051VzRyN0I0TlBBOG5WWDg4WGJ1ZzcyWlh1RUx0bDZoRXlNRkhNTjc3ZE1VbXhLd3RLRE5CeW9YX1dOcU1MUW1RNS1iMk9rS1RoMGNT?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-09T15:48:07Z",
+            "summary": "消费市场人气旺亮点多 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The consumer market is vibrant with many highlights..."
+          }
+        },
+        {
+          "title": "大学新旅程如何不失方向地自主探索",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnlZVU90VmVqaENSX0NqLVU5azQ1c1pTSzJVSE1hWnRMTnhTeEJabDdkN1drRjVPbE54STBqbWM5ZUpCbGN3MXJ1aUJVdWgzMDdVVm53VC1laS01TmRmNjh5R2NKUFRZM2Y2bUk4QWtBX28za0tETHB2bDhpLUhjVVJ3NA?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-09T21:13:07Z",
+            "summary": "大学新旅程如何不失方向地自主探索 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "How to explore independently in a new university journey..."
+          }
+        },
+        {
+          "title": "中国残联举办世界精神卫生日主题宣传活动",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX1I0T05DQ3hXM3I4eTBWNEJ1TFIxVUt2NlhqT2RHUGpCMTZXU1YycnBVWXg3YkFwYlEtNWNNNzhXbXZJUkY2SWI5cWNTYlBSdG5Dd3RRZS0zampBYUQzemVZSnlOckpkSE5VbHI3bjdDTFR5ZzdLR2gxRjk2UFllX0lyUVlVdw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-10T03:52:12Z",
+            "summary": "中国残联举办世界精神卫生日主题宣传活动 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China Disabled Persons' Federation holds World Mental..."
+          }
+        },
+        {
+          "title": "菲律宾群岛地区发生7.4级地震",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNjE2VWFfMFVIVENvSHVjbHI0ZGlrSnBaZ1V2bEdBX3l5elNRNjFKdHlYZTJ1MnZoWWJkVHZJRFlySkh5UnJTTmx0cWU3R2I1WmN0VjlZVFRMdjlPVGNXQkl3Q1hPUHc1QXBGV0oxMU83WkpYaXh1R3NSYmotbkp0Rnl1ZTFFdw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-09T20:28:10Z",
+            "summary": "菲律宾群岛地区发生7.4级地震 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "A 7.4 magnitude earthquake struck the Philippines..."
+          }
+        },
+        {
+          "title": "科技强国：从夯实根基到勇攀高峰",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2t0ZWRVSEtlZ2dEcmVUZnZEYWgtYkZwaXdyZWpTbEtZa01UTERGOHlPVmNxVGxkUUVYTjVSeXplTUZ2SzAybnlHU3B2b2FCVU5iT3FTSmllbXc5dW00c2RiX3kzQ3ZiZW9UYlc5bnJ1STVGT0x4S2NqTU56ZmUtY05qSG1Ba1pq?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-09T15:41:20Z",
+            "summary": "科技强国：从夯实根基到勇攀高峰 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "A strong technological nation: from solid foundations to..."
+          }
+        },
+        {
+          "title": "走进高校场馆，上一堂科学课",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVBKODk3Y3pyMzVhTjh5LWxIYVNCcUtOWTZZLU9EYW1aN2VQUzlSRFhLdl80cDBDbUhwQmV1R1QxZ0p2UWlXdWx4bm03czh1RDJJM1JfSjZULTlXZjVST3dYZnFMNnJPWjJmRkJ0YVl4UlR3YWY1QjRjNVVfdFFoRlMzcw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-09T17:04:49Z",
+            "summary": "走进高校场馆，上一堂科学课 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Step into a university venue for a science class..."
+          }
+        },
+        {
+          "title": "中国经济样本观察·县域样本篇丨在这座闽南小城，最传统的茶业正发生最新锐的变化！",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3RISWxwR29DMU1lM1MxUXNoWUh6RHROUmZYTE54RTJxYi13NU9CUExXaDFlbkNhd1NxQTVJUnV4UGV0WDZXUG1kblRhNUt6ZEpDclA5MG9IMFUtY0xZUlc2NWhYQlpCaHZTR0tDN3R4M3hic3FJaW1MaS1ITnYyUGNwRUdFbXh0?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-09T19:25:42Z",
+            "summary": "中国经济样本观察·县域样本篇丨在这座闽南小城，最传统的茶业正发生最新锐的变化！ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "In this Minnan town, traditional tea industry is..."
+          }
+        },
+        {
+          "title": "上市公司引领“双节”消费热潮 多元业态激发市场新活力",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81bUZPdWJNTzdndGJ5bzB1LVVlbTg1Q0x5VXNhSWd4T0NMZzhJeEtUNHNHT0RhWFNyd3MwX00ycTZ0TFFSeXlvOWRKWDF5aEN2cnZSMzZsdW9odS1PbVBrNXUwd29KNzd5T3JyQWY2VExhU1A3SDdJUXhscmpLUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-09T18:14:50Z",
+            "summary": "上市公司引领“双节”消费热潮 多元业态激发市场新活力 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Listed companies drive consumption surge during \"Double..."
+          }
+        },
+        {
+          "title": "海亮，天天向上！",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qeTZXb0RqQ3ZvZWVUSDBRS2xkTEo2V2o4Vk40T1pWRXFacUFyY3poSEgydGVPdlNtZ01nLXpuRlpFTE44STJBNWVPU1RSMmR3MjRhZ2JDeDJvWWdWd215UkJPdnFZOWU3WjBHbEpNWHQ4ZjlmNUREbHJydlZtdw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-09T20:16:02Z",
+            "summary": "海亮，天天向上！ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hailiang, keep striving for progress every day!"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-10T22:09:30+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "\"Attractive,\" \"must-see,\" and \"enduringly..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-05T06:04:11+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "山城重庆引客来",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTBxVWU0ZndXY0dIa0wzMlF5LWpHLWl4a1M5SEZnQVFnSWxwS3lvcFZCMG1WNENzd0xGOXhFTGE1dkpkdWpMUVpucHllR2czWHF4WENtU1RDMFpoU3B3QXZRLVpIbElBMTM4Z19XS3lRVUEwN1ZiOEhpU0h6WUVkaGZ3U1VuSGRLZGRUQlkwYw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-03T18:57:55Z",
-            "summary": "山城重庆引客来 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Mountain city Chongqing attracts visitors..."
-          }
-        },
-        {
-          "title": "三峡大坝如诗画",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0lPWUoxc2swVjliajRSVm5BU1FocjRtTlhiVnZBUlJlcjEwV2pKd3lyODhxZHlLbXRyMjFqeGd2WWxXMmZOb2RlcmFjR2NjYUJtNEtKVWl5WWd5LU1TYkl5Sms4UEhoOGNDZkhfWGVLOTBYT2pVUXlDcHlOX08xc25pSi1nUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-04T00:42:29Z",
-            "summary": "三峡大坝如诗画 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The Three Gorges Dam is like a poetic painting..."
-          }
-        },
-        {
-          "title": "以媒：美国特使将加入加沙停火放人谈判",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LSUdUTnFLS1dtcGVfeVloUWNmbU0tblU0Nms2RTMtLXNIR0xvYUJISkRGcHdzYTNCT0VZelNUQS1TbWZCdXZTU01JNDZxaGY4am03akM3UEpnZHFHMm90Z19fNkJRM1JkQ29HY2plOXdFellBbktweEF2ZlR5dw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-04T12:24:45Z",
-            "summary": "以媒：美国特使将加入加沙停火放人谈判 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "US envoy to join Gaza ceasefire and prisoner talks..."
-          }
-        },
-        {
-          "title": "乌克兰苏梅州一客运列车遭袭击",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MMW1tY3NZTzZ1cklVNVluMFI5b050MWdTeEs0UW1rdjdCRXN3MmRqUnJvTWxFSms5MWxhbUI5QUNEeS15cFBNWFE3aXJ3UlMtejAxTTVGTkFJS3YwQ1RDSmxOTHE0TUJPSVlWTWRrUzBWSXNjY3E4cnp5QmlYUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-04T03:23:45Z",
-            "summary": "乌克兰苏梅州一客运列车遭袭击 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "A passenger train in Sumy, Ukraine was attacked..."
-          }
-        },
-        {
-          "title": "新华社快讯：习近平同孟加拉国总统楚普就中孟建交50周年互致贺电",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWM3SHF3ZjMtZWFra1hncFNQZzYxUVY4aDRrWlowS0dMa1BER0M1c3NSejl6bk1Jb2VyN2xELVRsMk54U1RIMVg3RS1rX0VEejNmMFpEZzRrTDQwNkMtM3lwWTZmQzBxajIxbFFVYjFZZC1fWVg3dlVreGdnQzd1bzFicHFYbGt2d3VYNVJjSV9pX3NJ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-03T18:14:27Z",
-            "summary": "新华社快讯：习近平同孟加拉国总统楚普就中孟建交50周年互致贺电 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xi Jinping and Bangladesh President exchanged..."
-          }
-        },
-        {
-          "title": "镜观中国·新华社国内新闻照片一周精选",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHhNSFdCOTlTOXBMNTlyYjZoMzdFLXJiaVRiNG03dUsyRUV3djFsQkJZQXJid2FieVp1NkZ1SlNLc1B3UUtqTXFzZ3dlcW92NGN6S3lHQXJkV1dwQ241ZEo3ZHVEQ251TFhuQkc5OERNWklxbGw4Z3NqVzNYMXgxa2I4Z2JoUQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-03T21:53:31Z",
-            "summary": "镜观中国·新华社国内新闻照片一周精选 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China in Focus: Weekly Selection of Xinhua Domestic News..."
-          }
-        },
-        {
-          "title": "报告显示：我国银行业贸易金融业务稳步增长",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXRhdkk0bld0YUFReU9xWWxJMDJxU1p0WE5GRnFua3VybkpZMmR2RW82cTRzY00yVVZQS05Od052b1FJNDJVSkl0b0ZQTUFDM25NZDh4Q3NSbFpkMFk4dVRsYWcwbkkxSGxNU3NwUlJ2b29pTlJ0Snp6LTJqT0ZvX2x1LTlfN0lE?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-03T19:35:35Z",
-            "summary": "报告显示：我国银行业贸易金融业务稳步增长 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The report shows steady growth in trade finance in..."
-          }
-        },
-        {
-          "title": "银发消费品质升级——假期市场热点见闻③",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWRZSEVCYnpnSGtfRmxtMFFGVmhpUDVRU3paRzViRHI3Wjljai1yODhWWVdDMVllRHRTVTJOYlJhMmhBUmx0RGNZMlJfWGs4ZUJQVmZXdnlMZGRIeDdyV1FsdFdtb2NnODd2OWRTcjctcVRheldmT2EwUGFvSDIyNWJ6cmRjTlJm?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-03T16:49:03Z",
-            "summary": "银发消费品质升级——假期市场热点见闻③ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Silver-haired consumers upgrade quality—holiday market..."
-          }
-        },
-        {
-          "title": "古老遇年轻：在传统藏装中绣入青春",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczJOaE9LZDY0Rm1wMzZIbXVaTEJxcTJJZkNuWFJ2V0dCMmdlMzhEeFRfeFVkYWNXV2RXSVE1eE1QY1pUN3J5elNFZU1ueGg1VXNRclEyUUJfclE3YjNveFJsT3ZITXVOc2N6WjNnMUtnYU5IODZTV3FpRGRORlJhc19MWFZlQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-03T22:58:06Z",
-            "summary": "古老遇年轻：在传统藏装中绣入青春 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Old meets young: Embroidering youth into traditional..."
-          }
-        },
-        {
-          "title": "追光丨这场国际比赛，中国新能源汽车表现亮眼",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUZKZlRfeW5RM2dkbFZyU3c5RTU2M1BvbjktRHBRNmY3b3BuM1JoODhTVy1ScjdMWTNEWWtkVnE2Sm5raVBNeFRYOVRHRmdFQVdRRUhqdWUtYzZoTE9jQk92X0NHN0VwUy1tdDNQcGFoVEpzQUlna0ZocTdHT2pEMFptU012amc?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-03T23:30:52Z",
-            "summary": "追光丨这场国际比赛，中国新能源汽车表现亮眼 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Chasing Light: China's EVs shine in international..."
-          }
-        },
-        {
-          "title": "哈马斯就美国“20点计划”提交正式回应",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hQnhDVC1IM1dDR0NmcV9ISTJfdHFuSWJqeFZZY3FuZ1JlUEw3aVhqa0FzeTNHTG9vX0d4OVF1emR2bHZUcTJZaC0tYm5xOHpWNk5KMEdPNlJsYU16eTZiYkVsUGhycWFudUhnNkxKVDNyUmx3aWF3emo4OGJiQQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-03T14:46:32Z",
-            "summary": "哈马斯就美国“20点计划”提交正式回应 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Hamas formally responds to the U.S. \"20-point plan\"..."
-          }
-        },
-        {
-          "title": "以媒：美国特使将加入加沙停火放人谈判",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LSUdUTnFLS1dtcGVfeVloUWNmbU0tblU0Nms2RTMtLXNIR0xvYUJISkRGcHdzYTNCT0VZelNUQS1TbWZCdXZTU01JNDZxaGY4am03akM3UEpnZHFHMm90Z19fNkJRM1JkQ29HY2plOXdFellBbktweEF2ZlR5dw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-04T12:24:45Z",
-            "summary": "以媒：美国特使将加入加沙停火放人谈判 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "U.S. envoy to join Gaza ceasefire and prisoner talks..."
-          }
-        },
-        {
-          "title": "山城重庆引客来",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTBxVWU0ZndXY0dIa0wzMlF5LWpHLWl4a1M5SEZnQVFnSWxwS3lvcFZCMG1WNENzd0xGOXhFTGE1dkpkdWpMUVpucHllR2czWHF4WENtU1RDMFpoU3B3QXZRLVpIbElBMTM4Z19XS3lRVUEwN1ZiOEhpU0h6WUVkaGZ3U1VuSGRLZGRUQlkwYw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-03T18:57:55Z",
-            "summary": "山城重庆引客来 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Mountain city Chongqing attracts visitors..."
-          }
-        },
-        {
-          "title": "中网：谢淑薇/奥斯塔彭科晋级女双四强",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjR6RFNOQ05JTlN3dXJHT1VzQkNCSDlrUHQ5dFdaT281OWpqdktKWGFqZ0R3VmlGYjdDRTNkdHBKcVF1LWxrLXFJaFpxbXMySE9MSld6VFEweTktRGV6cDdHLUVzT2s3Z2stZ3lxcXYyTmk0bnRiYnMzSGxia0NoejJMbVFRN0U?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-03T18:26:56Z",
-            "summary": "中网：谢淑薇/奥斯塔彭科晋级女双四强 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Zhongwen: Hsieh Su-wei/Ostapenko reach women's doubles..."
-          }
-        },
-        {
-          "title": "乌克兰苏梅州一客运列车遭袭击",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MMW1tY3NZTzZ1cklVNVluMFI5b050MWdTeEs0UW1rdjdCRXN3MmRqUnJvTWxFSms5MWxhbUI5QUNEeS15cFBNWFE3aXJ3UlMtejAxTTVGTkFJS3YwQ1RDSmxOTHE0TUJPSVlWTWRrUzBWSXNjY3E4cnp5QmlYUQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-04T03:23:45Z",
-            "summary": "乌克兰苏梅州一客运列车遭袭击 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "A passenger train in Ukraine's Sumy region was attacked..."
-          }
-        },
-        {
-          "title": "银发消费品质升级——假期市场热点见闻③",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWRZSEVCYnpnSGtfRmxtMFFGVmhpUDVRU3paRzViRHI3Wjljai1yODhWWVdDMVllRHRTVTJOYlJhMmhBUmx0RGNZMlJfWGs4ZUJQVmZXdnlMZGRIeDdyV1FsdFdtb2NnODd2OWRTcjctcVRheldmT2EwUGFvSDIyNWJ6cmRjTlJm?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-03T16:49:03Z",
-            "summary": "银发消费品质升级——假期市场热点见闻③ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Silver-haired consumers upgrade quality—holiday market..."
-          }
-        },
-        {
-          "title": "一代航天人的担当——嫦娥六号任务团队获颁世界航天奖",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNE5KZ1lCUlJpWWVCbkZSdW1IMHM4SFhsSVBLRlViVzI2Umw5RHpFRTlENzRLY0Y0VHB3bGdQbFA1NTZYUU1uYlN1MUY4T052R2F5TVZ1NVl0dTluS01MYzZQYmhQSy1QREJRb1c1Qkt1ejFsNll5aF9teWtpTlVadTZlcjFGdw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-03T18:20:48Z",
-            "summary": "一代航天人的担当——嫦娥六号任务团队获颁世界航天奖 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "A generation of space pioneers: Chang'e 6 team wins..."
-          }
-        },
-        {
-          "title": "全面认识把握中国经济高质量发展的确定性",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVRkbG9WaGw3bFlBUTNJSHA1c1VZeDhtQ3FwSlBHeG03WkFqNVZhMmRhdnpIanRCdVlaYUpkcWtzdGZVOGtyVWg0MU83WVVFaTFjd21kMEw4R29maDlmRHVyM3o0cWxtVkFRRmwySlNXTEs2MDRuYjBQM0Z1Q0RMRUNIUnFhVkIt?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-03T15:33:42Z",
-            "summary": "全面认识把握中国经济高质量发展的确定性 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Comprehensively understand the certainty of China's..."
-          }
-        },
-        {
-          "title": "追光丨这场国际比赛，中国新能源汽车表现亮眼",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUZKZlRfeW5RM2dkbFZyU3c5RTU2M1BvbjktRHBRNmY3b3BuM1JoODhTVy1ScjdMWTNEWWtkVnE2Sm5raVBNeFRYOVRHRmdFQVdRRUhqdWUtYzZoTE9jQk92X0NHN0VwUy1tdDNQcGFoVEpzQUlna0ZocTdHT2pEMFptU012amc?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-03T23:30:52Z",
-            "summary": "追光丨这场国际比赛，中国新能源汽车表现亮眼 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Chasing Light: China's EVs shine in international..."
-          }
-        },
-        {
-          "title": "“非遗＋旅游”，消费新动能",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3p3RFhjcnNDeEZsY0pEbTNaNm9QYmJHV01MT0NTS25oWnVqbW1Xb250cGR1aWx0QjN6Y3F5a2lvSy1RaTN1bEE3QzJJVGFyVzdOcU43ZnE3cml2emo4ckJ3am1CRjNaVk5ZM1NIM050Y0JJSlFwM05FM1dsUU1BVm1MdlVOZF8y?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-03T15:53:01Z",
-            "summary": "“非遗＋旅游”，消费新动能 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"Intangible heritage + tourism,\" a new consumption driver..."
           }
         }
       ]
