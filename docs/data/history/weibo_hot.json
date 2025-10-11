@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-11T14:01:57+08:00",
+  "generated_at": "2025-10-11T18:34:57+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-11T18:34:57+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 充电器一直不拔有多可怕",
+          "value": "1141842 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%85%E7%94%B5%E5%99%A8%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%94%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1141842",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "How scary is it to leave the charger plugged in?"
+          }
+        },
+        {
+          "title": "2. 婴儿12克金手镯被偷已找回",
+          "value": "602705 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A9%B4%E5%84%BF12%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E5%81%B7%E5%B7%B2%E6%89%BE%E5%9B%9E&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 602705",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The stolen 12g gold bracelet of the baby has been recovered."
+          }
+        },
+        {
+          "title": "3. 我国海上发射一箭三星",
+          "value": "538332 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E4%B8%89%E6%98%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 538332",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "China successfully launched three satellites at sea..."
+          }
+        },
+        {
+          "title": "4. 比亚迪汉上新245公里长续航",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B1%89%E4%B8%8A%E6%96%B0245%E5%85%AC%E9%87%8C%E9%95%BF%E7%BB%AD%E8%88%AA&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "BYD Han launches with a long range of 245 km..."
+          }
+        },
+        {
+          "title": "5. 特朗普",
+          "value": "535757 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 535757",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Trump..."
+          }
+        },
+        {
+          "title": "6. 中奖1000万男子回应打赏主播 [上新]",
+          "value": "519139 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%A5%961000%E4%B8%87%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 519139",
+            "tag": "上新",
+            "api_source": "tianapi",
+            "translation": "Man wins 10 million and responds to gifting streamers..."
+          }
+        },
+        {
+          "title": "7. 叙利亚前总统阿萨德现沉迷电子游戏",
+          "value": "456025 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%99%E5%88%A9%E4%BA%9A%E5%89%8D%E6%80%BB%E7%BB%9F%E9%98%BF%E8%90%A8%E5%BE%B7%E7%8E%B0%E6%B2%89%E8%BF%B7%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 456025",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Former Syrian President Assad is now obsessed with video..."
+          }
+        },
+        {
+          "title": "8. 京东买药双11秦岚送百万免单",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF%E5%8F%8C11%E7%A7%A6%E5%B2%9A%E9%80%81%E7%99%BE%E4%B8%87%E5%85%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "JD.com offers free medicine worth millions for Double 11..."
+          }
+        },
+        {
+          "title": "9. 王者十周年三星堆皮肤首曝",
+          "value": "301337 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%80%85%E5%8D%81%E5%91%A8%E5%B9%B4%E4%B8%89%E6%98%9F%E5%A0%86%E7%9A%AE%E8%82%A4%E9%A6%96%E6%9B%9D&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 301337",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "King's Anniversary: First Reveal of Sanxingdui Skin..."
+          }
+        },
+        {
+          "title": "10. 官方通报男孩幼儿园被戳伤失明",
+          "value": "257104 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%A9%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 257104",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Official report: Boy blinded after being injured in..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-11T14:01:57+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Changsha traffic police enforce strict rules on..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-05T18:34:48+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 孙颖莎vs王曼昱",
-          "value": "2097002 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 2097002",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Sun Yingsha vs Wang Manyu..."
-          }
-        },
-        {
-          "title": "2. 王曼昱4比2战胜孙颖莎 [新]",
-          "value": "1649058 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%942%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1649058",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Wang Manyu defeated Sun Yingsha 4-2."
-          }
-        },
-        {
-          "title": "3. 明天中秋你准备怎么过",
-          "value": "947241 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%8E%E5%A4%A9%E4%B8%AD%E7%A7%8B%E4%BD%A0%E5%87%86%E5%A4%87%E6%80%8E%E4%B9%88%E8%BF%87&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 947241",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "How do you plan to celebrate the Mid-Autumn Festival..."
-          }
-        },
-        {
-          "title": "4. 环保少女被曝遭虐待强迫亲吻以国旗 [新]",
-          "value": "838536 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E8%A2%AB%E6%9B%9D%E9%81%AD%E8%99%90%E5%BE%85%E5%BC%BA%E8%BF%AB%E4%BA%B2%E5%90%BB%E4%BB%A5%E5%9B%BD%E6%97%97&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 838536",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Environmental activist exposed for abuse and forced to..."
-          }
-        },
-        {
-          "title": "5. 孙颖莎中国大满贯亚军",
-          "value": "326735 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%BA%9A%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 326735",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Sun Yingsha is the runner-up of the China Grand Slam..."
-          }
-        },
-        {
-          "title": "6. 没接到骑手电话500元外卖不翼而飞 [新]",
-          "value": "291250 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%A1%E6%8E%A5%E5%88%B0%E9%AA%91%E6%89%8B%E7%94%B5%E8%AF%9D500%E5%85%83%E5%A4%96%E5%8D%96%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9E&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 291250",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Didn’t receive a call from the rider; 500 yuan delivery..."
-          }
-        },
-        {
-          "title": "7. 网民编造兴山东隧道突爆瓦斯被罚",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E6%B0%91%E7%BC%96%E9%80%A0%E5%85%B4%E5%B1%B1%E4%B8%9C%E9%9A%A7%E9%81%93%E7%AA%81%E7%88%86%E7%93%A6%E6%96%AF%E8%A2%AB%E7%BD%9A&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Netizen fined for fabricating gas explosion in Shandong..."
-          }
-        },
-        {
-          "title": "8. 明代石刻 禁止早婚 [新]",
-          "value": "243115 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%8E%E4%BB%A3%E7%9F%B3%E5%88%BB%20%E7%A6%81%E6%AD%A2%E6%97%A9%E5%A9%9A&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 243115",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Ming Dynasty stone inscription against early marriage..."
-          }
-        },
-        {
-          "title": "9. 王楚钦决胜局3比7大逆转",
-          "value": "232756 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%B3%E8%83%9C%E5%B1%803%E6%AF%947%E5%A4%A7%E9%80%86%E8%BD%AC&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 232756",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin's stunning comeback, winning 3-7 in the..."
-          }
-        },
-        {
-          "title": "10. 中国人的种菜技能太全面了",
-          "value": "224395 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%A7%8D%E8%8F%9C%E6%8A%80%E8%83%BD%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 224395",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese people's vegetable-growing skills are very..."
           }
         }
       ]
