@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-12T18:35:01+08:00",
+  "generated_at": "2025-10-12T22:06:42+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-12T22:06:42+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 晋A99999劳斯莱斯1544000元起拍",
+          "value": "1100331 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%8BA99999%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF1544000%E5%85%83%E8%B5%B7%E6%8B%8D&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1100331",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Jin A99999 Rolls Royce starts bidding at 1,544,000 yuan..."
+          }
+        },
+        {
+          "title": "2. 获1300万拆迁款被判刑男子发声",
+          "value": "561667 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8E%B71300%E4%B8%87%E6%8B%86%E8%BF%81%E6%AC%BE%E8%A2%AB%E5%88%A4%E5%88%91%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 561667",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Man sentenced after receiving 13 million in demolition..."
+          }
+        },
+        {
+          "title": "3. 这里是中国",
+          "value": "473175 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 473175",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "This is China..."
+          }
+        },
+        {
+          "title": "4. 中国已确立11颗金钉子 [新]",
+          "value": "466513 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%A1%AE%E7%AB%8B11%E9%A2%97%E9%87%91%E9%92%89%E5%AD%90&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 466513",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "China has established 11 golden nails..."
+          }
+        },
+        {
+          "title": "5. 法国第一夫人被迫证明自己不是男人",
+          "value": "451247 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%95%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E7%94%B7%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 451247",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The French First Lady forced to prove she's not a man..."
+          }
+        },
+        {
+          "title": "6. 冰箱贴已经比冰箱贵了 [热]",
+          "value": "388244 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%86%B0%E7%AE%B1%E8%B4%B5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 388244",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Fridge magnets are now more expensive than fridges..."
+          }
+        },
+        {
+          "title": "7. 吃不吃麻辣烫的都沉默了",
+          "value": "338830 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%83%E4%B8%8D%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 338830",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Everyone fell silent about whether to eat spicy hot pot..."
+          }
+        },
+        {
+          "title": "8. 员工拉桌子碰碎近50个和田玉镯",
+          "value": "204441 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%98%E5%B7%A5%E6%8B%89%E6%A1%8C%E5%AD%90%E7%A2%B0%E7%A2%8E%E8%BF%9150%E4%B8%AA%E5%92%8C%E7%94%B0%E7%8E%89%E9%95%AF&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 204441",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "An employee broke nearly 50 Hetian jade bracelets..."
+          }
+        },
+        {
+          "title": "9. 菲律宾恶意擦碰中国海警船现场视频",
+          "value": "203406 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%81%B6%E6%84%8F%E6%93%A6%E7%A2%B0%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 203406",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Video of the Philippines maliciously bumping into..."
+          }
+        },
+        {
+          "title": "10. 四川芦山4.7级地震",
+          "value": "201107 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%9B%E5%B7%9D%E8%8A%A6%E5%B1%B14.7%E7%BA%A7%E5%9C%B0%E9%9C%87&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 201107",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "4.7 magnitude earthquake in Lushan, Sichuan..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-12T18:35:01+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Trump claims the U.S. could have easily won the Vietnam..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-06T22:08:43+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 央视中秋晚会",
-          "value": "晚会 1736467 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "晚会 1736467",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "CCTV Mid-Autumn Festival Gala..."
-          }
-        },
-        {
-          "title": "2. 月亮 [沸]",
-          "value": "584012 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%88%E4%BA%AE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 584012",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "The moon..."
-          }
-        },
-        {
-          "title": "3. 航天员晒中秋大餐",
-          "value": "519401 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%88%AA%E5%A4%A9%E5%91%98%E6%99%92%E4%B8%AD%E7%A7%8B%E5%A4%A7%E9%A4%90&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 519401",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Astronauts share their Mid-Autumn Festival feast..."
-          }
-        },
-        {
-          "title": "4. MiuMiu巴黎时装秀",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DMiuMiu%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E7%A7%80&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "MiuMiu Paris Fashion Show..."
-          }
-        },
-        {
-          "title": "5. 王楚钦中国大满贯后发文",
-          "value": "470378 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%90%8E%E5%8F%91%E6%96%87&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 470378",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin posts after winning the Grand Slam in China..."
-          }
-        },
-        {
-          "title": "6. 高铁上男子亲陌生女娃称太可爱 [预约]",
-          "value": "448225 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%B7%E5%AD%90%E4%BA%B2%E9%99%8C%E7%94%9F%E5%A5%B3%E5%A8%83%E7%A7%B0%E5%A4%AA%E5%8F%AF%E7%88%B1&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 448225",
-            "tag": "预约",
-            "api_source": "tianapi",
-            "translation": "A man on the high-speed train kisses a stranger's girl,..."
-          }
-        },
-        {
-          "title": "7. 挪威2万人口小岛因中国游客堵车",
-          "value": "395782 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8C%AA%E5%A8%812%E4%B8%87%E4%BA%BA%E5%8F%A3%E5%B0%8F%E5%B2%9B%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%A0%B5%E8%BD%A6&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 395782",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Norwegian island with 20,000 residents faces traffic..."
-          }
-        },
-        {
-          "title": "8. 央视中秋晚会节目单 [新]",
-          "value": "晚会 342825 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "晚会 342825",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "CCTV Mid-Autumn Festival Gala program list..."
-          }
-        },
-        {
-          "title": "9. 中秋",
-          "value": "341502 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E7%A7%8B&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 341502",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Mid-Autumn Festival..."
-          }
-        },
-        {
-          "title": "10. 南京地铁鸡鸣寺事件当事人发声 [新]",
-          "value": "319030 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E9%B8%A1%E9%B8%A3%E5%AF%BA%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 319030",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Nanjing Metro Jiming Temple incident parties speak out..."
           }
         }
       ]
