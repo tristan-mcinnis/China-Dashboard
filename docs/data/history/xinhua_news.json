@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-10-13T14:02:39+08:00",
+  "generated_at": "2025-10-13T18:38:49+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-13T18:38:49+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息丨习近平在全球妇女峰会开幕式上发表主旨讲话",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOclZub2ZNWldDUHM1UDdmb3FZQ2pmMDZMSHNIV2lhY0ZNVW5MbmNwS3lGLXdkRE51R0pWRVBBVWVWdEdzTWlKU3hqWFJDUlFaRW9fLTdtMlVUbHVnazY1WnlEbV9VMWJoUS0zWGRSclZnVTVYdHpRWmJCdG4zNGkwaElyVmRsazdESTBIenpDTGZDVUVT?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-12T18:40:28Z",
+            "summary": "新华社消息丨习近平在全球妇女峰会开幕式上发表主旨讲话 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xi Jinping delivers keynote speech at Global Women's..."
+          }
+        },
+        {
+          "title": "新华社消息丨4%！前三季度我国货物贸易平稳增长",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkthS0VXTTlIaEdSc0RPMzVjR0J4SzBOY1dpd2NtS1k5ZXlMRFVKVlpzUVhTMkhHZjRidF9xZU5PeEZZM1doSEgyUnRGa0RqNE8zZ3hOYmVQTmJXTVAyWnFWcy01UTkwbU95NDhlalpTbVllbUQ5R1BMZE1sNmFZTHFYTC1ONG5j?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-12T19:16:11Z",
+            "summary": "新华社消息丨4%！前三季度我国货物贸易平稳增长 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: 4%! Steady growth in China's trade in..."
+          }
+        },
+        {
+          "title": "甘肃敦煌：大漠秋景",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMENkTjBVQlk4cTNqZy1RMlJ1X2VmWmhhM3JjeFNOaUZpQ1QxQmhRMVdLNy1xby1BRVBjQVVRZUM0MHdRclVlSUprVjh4dmVuNzlYOXFFYXFDRnM1RDF6eEVLeEVwTVhMS2twZWtmTkdha2N2WVN1UllPbzByajU0UW9Ibk1Yd190aFBoV3ZfZw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-12T16:14:33Z",
+            "summary": "甘肃敦煌：大漠秋景 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Dunhuang, Gansu: Autumn scenery of the desert..."
+          }
+        },
+        {
+          "title": "喀麦隆总统选举开始计票",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZjNkem1uelN1WVFEamlSbmoyT3J4aENiRE5KSDJJQVZXMlVHV2ZkRFcxYndIRko2ajBxVXBScW5maVhwaTZLNjRva0ZFRHVJRnVXVGlBdXZmRmFXTGxFLXNNRHJrQ1lUTjJSR0tvbkhTWUZJTUIzakJ1ZVRjRmZZem9oT0kzUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-12T17:29:28Z",
+            "summary": "喀麦隆总统选举开始计票 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Counting begins in the Cameroon presidential election..."
+          }
+        },
+        {
+          "title": "西班牙马德里举行国庆阅兵式",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkptWERxQmxuRWdNcG9YQklFSDhHemN4Wm9zcVBSZFIxY0RNTkt6TUZRbkFrSzIzRS1pZDlVNE4yWVhTU1VuV0tKTzVzMUJ2ODRfM0ZzMDRCTDRnNENiY2lqQlRqQmk4UjdrQVRqTnRQQld5Uk9wVURBMjFMWjBJZkVYbXhIZw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-12T18:17:51Z",
+            "summary": "西班牙马德里举行国庆阅兵式 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "National Day parade held in Madrid, Spain..."
+          }
+        },
+        {
+          "title": "2025年10月13日国内成品油价格按机制调整",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkthQlNaMWItdXI1d0ZmMW5wUVBZSzgtR2NGcTVTaW0tazQxdG0xYl9XSGpCalpuREdERE84THFSMjlZQU54Ml9RQmhxV0VReGhnQXlnQ2pyV19UV3FuQUFKc21TVEhaQTRhT3oya0RSM2ZYQU5KV3ZsTGR0am13dzFMTEVlUnc2?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-13T01:05:57Z",
+            "summary": "2025年10月13日国内成品油价格按机制调整 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Domestic refined oil prices will adjust on October 13,..."
+          }
+        },
+        {
+          "title": "新华鲜报·“十四五”亮点丨预计约140万亿元！中国经济总量接连突破新关口",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEVFR2ktbFY0NWtNeGl4dzVOTVhOd1hLNjhBNEYza1N1anptVWRsWjlMQ0k0UXNQQXh1amcteGdjNFZmblc5THdscDJaeGREQ1dRQU9YakNtcHdVOUJWRFhRVU00REg1aDJUU3djS0JpeFZqOXdkazU3dkZubjl5c1oxdjdHZVBp?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-13T02:30:57Z",
+            "summary": "新华鲜报·“十四五”亮点丨预计约140万亿元！中国经济总量接连突破新关口 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua Fresh Report: China's economy to exceed 140..."
+          }
+        },
+        {
+          "title": "2025中国职工足球超级联赛即将启幕",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnZYYTBGM0NiRkU1a0lBMHpOZFNtemJYcVBxUkU1cVJKdDdIRGpwempNSVdBekk0YWRvbkZqa1pSRW5OSEZMZFRieVFCQkdNZFhka25hUG9fdXM5Q1dqOU82bEpsZkNKeEdmYVBqV0RsUFQ2Qm9XRUZTemxfcjlScldWdVkwWnc?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-12T05:29:11Z",
+            "summary": "2025中国职工足球超级联赛即将启幕 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 2025 China Employee Football Super League is about..."
+          }
+        },
+        {
+          "title": "汽油、柴油价格下调",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmhwejQ0SGZpYkg0bDZLbnJLdEFtVi0zNEozU05sT1lKclpfeFlpZkRuM3Rfd0g0eXNDX2k3dEd3cU9HdjVka09aZWxoNVRXNWpGdEdrelh3SUNTeE9mZ3V3X1AyUzFseWVwM1BUSHBwdXZnY1I2cWtIZG9pUjhReEpoeEFtVGd6?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-13T02:09:12Z",
+            "summary": "汽油、柴油价格下调 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Gasoline and diesel prices reduced..."
+          }
+        },
+        {
+          "title": "宠物消费“拟人化” 多家公司跨界布局新赛道",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94M1k3SkppV1oxQVlhT2N0QzFvWTVIUnZINVE5bUExNVU0RHFkTjVETFhrZGJxT3lrYWdQbE9vTDAxa29uaWhqeWxMcVN0cXAxeVNoM1AzTzctSmcwVVUwVjcwLVNiUEpxWm1rNzc5SzZTVVpaeUlpNkdfV1QtUQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-12T18:15:05Z",
+            "summary": "宠物消费“拟人化” 多家公司跨界布局新赛道 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Pet consumption \"humanization\": companies explore new..."
+          }
+        },
+        {
+          "title": "“辣椒一人高”“花生能上树”？“常识造假”源何屡得手",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vUzAyVlpPZlJlbzJpQm9RTXh0d1NHS3JDUG5MYzBvVzlNOFEzRzdVOFp6QmtHMUFlVUNONzF2NVU5Q0czSkdkUjV5Y1I4QkhQSzJvTktva28tWEdfaDRFRUVaSWVCa2llQlB0NGctNm55eWlrY2xLNkN5RlpDZw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-12T18:43:08Z",
+            "summary": "“辣椒一人高”“花生能上树”？“常识造假”源何屡得手 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"Chili as tall as a person\" and \"peanuts can grow on..."
+          }
+        },
+        {
+          "title": "科学家首次拍摄到双黑洞“共舞”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQWFEV181NXBYbEQtNlBfLU42d2VTaHhDdGdZdWFpZmdxU0QyZm1jV3BScDU2d05HQ0VfZFNJVVpCQTVTanRKMTlCNGVEclBSb1BfOE5nWWFuSHF6ZnlGeDI2aVJHbXFadEdoRjJVQTVXcWlvY3hURDZUaEdQaFk3MDBOOUtsdw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-12T16:24:53Z",
+            "summary": "科学家首次拍摄到双黑洞“共舞” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Scientists capture first images of twin black holes..."
+          }
+        },
+        {
+          "title": "秦山答卷——我国首座核电站纪行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kMEFJd25hWDl3Q3BTRzhCdzJpN2wwcnh4S3dCVmpid3hfc1FvdzI5Z1RNbkhINk0xSThkRmtCT01NVFhKMl9BSVdveDZUVE5GQkRfVjhrcTZ5NVY1ZWxQaUVuSENnZlJpbVNGRjl4Ukx2RE9mZ3F4OWJweWR1Zw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-12T18:08:27Z",
+            "summary": "秦山答卷——我国首座核电站纪行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Qinshan's Answer Sheet: Journey to China's First Nuclear..."
+          }
+        },
+        {
+          "title": "武网：亨特/斯尼亚科娃获女双冠军",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDRKNGpNZkxCdGZkaXBYcmM3U2F5YXlZNEU3eGxuRy0xZ292WHNubWxwdmZrNlZVd2tyS0sxVWZXOU9qMkYxMHZhLTl6Y1AwQnQ4MkZyYTV6dGs1M2oyQklLY29ldzN5ak9oWnJlYk05eTRsOFlwMHpLeUdxRksxbW1OcGRtaTA?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-12T08:52:03Z",
+            "summary": "武网：亨特/斯尼亚科娃获女双冠军 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "WTA Wuhan: Hunter/Sinyakova win women's doubles title..."
+          }
+        },
+        {
+          "title": "以色列媒体称哈马斯开始释放以方被扣押人员",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMMHQ4dm5tdi02Q2hEakVLd0lhajlsTVdiWEpuMmlocjhJTndXcEdUNHRRSTdma2dmakVKSWYySjJGd0ZVQ0dUZFB2bHpZcl9fTjZNOHFvYVlJMFU2WGh6cFo4M1ZjT3doNndrQVdmODQwZ0hjNXg3VkdTSE16UQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-12T21:48:13Z",
+            "summary": "以色列媒体称哈马斯开始释放以方被扣押人员 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Israeli media reports Hamas has begun releasing captives..."
+          }
+        },
+        {
+          "title": "科技绘新景：国庆中秋假期里的文旅“智”变",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ3EtQ1Y3UXRDaG9xR3F2dkJWc0JocmF5Z083OFJxak5PQUpwc2xoVjdJNndkVXlERFU0bGdUZmZxYi1PMzdGdDdoR1d2LTJBZE5JZS1vUUgwMTNuUGZkQ05rQldTQ1ZoUHN0Tk1pX2M1OEw2NXpfeUljZTdOUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-12T18:08:50Z",
+            "summary": "科技绘新景：国庆中秋假期里的文旅“智”变 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Tech paints a new landscape: Smart changes in cultural..."
+          }
+        },
+        {
+          "title": "中国经济样本观察·企业样本篇丨勇闯智能眼镜“无人区”——透视杭州灵伴科技的科创之道",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUJqVVduaXRKdVBrSkVObGF0bVNJUnc5Z1ZTWDdNRWVQY01mNkI4R3oyR29SYUU5QWhpUzZDUUN5RDJGZWo0WEt5MFFlRl81SUNqa09naEZEVDdjZUpTX1hzRURBWWR0Z0VObmgwTmNMU0l3X3FxcDBCaExTak9sRnVwVkd4dVlR?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-12T23:40:07Z",
+            "summary": "中国经济样本观察·企业样本篇丨勇闯智能眼镜“无人区”——透视杭州灵伴科技的科创之道 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China's Economic Sample: Exploring Smart Glasses with..."
+          }
+        },
+        {
+          "title": "张永建：化妆品监管迈入全链条风险管理新时代",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbnBSVWl1N3pIY1JMakNNa21XV0xPSmxEYWdBSDQ5ZlUyanVXWmxaRmJibWY1Ml9BLUhwVUo1Vjl4aFdTUmlGdWxrN1VtaGZKQzJZdHBQMExJZ0VLcWZnQ2lnMVNVUTdjczNKM2hXOWxlMjdNV0dwZklQYnkyMTI2cTZ2QTdzZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-12T19:27:55Z",
+            "summary": "张永建：化妆品监管迈入全链条风险管理新时代 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zhang Yongjian: Cosmetics regulation enters a new era of..."
+          }
+        },
+        {
+          "title": "科学家首次拍摄到双黑洞“共舞”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQWFEV181NXBYbEQtNlBfLU42d2VTaHhDdGdZdWFpZmdxU0QyZm1jV3BScDU2d05HQ0VfZFNJVVpCQTVTanRKMTlCNGVEclBSb1BfOE5nWWFuSHF6ZnlGeDI2aVJHbXFadEdoRjJVQTVXcWlvY3hURDZUaEdQaFk3MDBOOUtsdw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-12T16:24:53Z",
+            "summary": "科学家首次拍摄到双黑洞“共舞” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Scientists capture the first footage of twin black holes..."
+          }
+        },
+        {
+          "title": "以技能培训赋能人才成长",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWVmVU5pYVJXNl9rb2Mwa0Y3Mjg5aEJVRWdqRTNlQ2lTckZ6NjlvNTNRTy1nWE84US1pcndQV2xOWTdrdmp5UE9iSVEtcmt2ODlseFBPLWp5aWI1emFDWk82dFYteXVFM21PMGZ1dWZneENvMU5ESW55MmxsVUMtejZpaFJTbFFTc0E?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-12T17:00:54Z",
+            "summary": "以技能培训赋能人才成长 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Empowering talent growth through skill training..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-13T14:02:39+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "The 2025 World Intelligent Connected Vehicle Conference..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-07T18:37:54+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "新华社消息丨9月末我国外汇储备规模为33387亿美元",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWU4Vk4tRFdHcUdaZzhwZXlrbnhCODFyNUNuMVRxYlFfb2Q4bVNaeTdpdThzQXh4UjVkeVgxeE4xOWZtY2FQZEJ0dE5xb0xIN1pXOGJJdGxaamU0RzVpSzVBYzRUVmotZ09jdEpnVmdTSE43ODhRQUNxNmE0ZVU1NURqTzNyalN0?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-06T20:59:39Z",
-            "summary": "新华社消息丨9月末我国外汇储备规模为33387亿美元 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "As of the end of September, China's foreign reserves..."
-          }
-        },
-        {
-          "title": "阿拉木图秋日",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbU82amdNSHZsNE1Cc3BQLXpnU2Vwdy1saldDa0tWS2dxMEx4Nml3ZHlHWC05cUpPRlFEMWtwMklCTlFnSnZGZlZqbXBLSE8zQXlJT0FUa0ZvbGI3U2hRR0VzRGRZYjdNNWlPRGVrNUdvUFpkaVZSaVJKX0ZWYi16alBwbFctQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-07T00:31:37Z",
-            "summary": "阿拉木图秋日 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Autumn in Almaty..."
-          }
-        },
-        {
-          "title": "正当时：2025年10月7日",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmlvQUM4cUNJWjdOUzI4YnFEVGVQZXlBM2dqUjJpLTA4clN6SXcxXzRLR0pPWE1HSTlESHJsU195SFpOOWFCZHFLOWxUYTRSZHR3dzkyd3ZrYUUtaUtyMmU4STcyejV4NjlZNFJ3ejlQWGFxdGxNWjVyRlRCY2tfMDlBZGszNG4xLThiVQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-06T15:49:47Z",
-            "summary": "正当时：2025年10月7日 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Just in time: October 7, 2025..."
-          }
-        },
-        {
-          "title": "也门萨那举行农业产品展",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXlwLWxHSnJMX2c4NlA4Z0xIdTdzTF90RHkwT3VRSjBRdEc4b1lrU1RfOFpxTHNYMHVYUlNYa0QtMjlwSnJ1V1RGYXlaRE9fV3N6cVdrX3FEa3NkcTlJWWE2NXBaOE9Ed19IZ25iaVVTTVN1Zmp0VkNpU3lGYmFDWEQtN1Vndw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-06T10:41:45Z",
-            "summary": "也门萨那举行农业产品展 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Agricultural product exhibition held in Sana'a, Yemen..."
-          }
-        },
-        {
-          "title": "巴黎时装周——香奈儿发布春夏新品成衣",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkkwQTgtRmZKRGVCSzctVW1aWFRYaGo0Y1ozdm9CNUd4b3YtX1pGMm5lWG04ZnVnczBMU2ZzRkZjMG12X0N4RGtyUm9hZmFMc1l6b1kxZXhCbFVDSnl1VVRaQ1JQVUxXUFgzT3MxRm1lZGJvMnAwSnN1eVZPdkM1M1F6ZU4tUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-06T18:01:18Z",
-            "summary": "巴黎时装周——香奈儿发布春夏新品成衣 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Paris Fashion Week - Chanel unveils spring/summer..."
-          }
-        },
-        {
-          "title": "2025世界智能网联汽车大会召开在即，这些亮点值得关注",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0hUeGJFT0E4OTJJZE9xbkZNNGNfbFZYSXF2RG0tQWhBYVVtYWQ1b185ZUJNX3ZlT01qSFpWeHNMV01Ub2tURzY1WUZlb1FUU3ViVzc3Sk1iQ0FKSXZxMi05cGZmeERGeW9oQ0JrRVFSUjQ0eVJnODBWSTFTUmkzRTAzUlFSTWdi?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-06T20:06:06Z",
-            "summary": "2025世界智能网联汽车大会召开在即，这些亮点值得关注 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The 2025 World Intelligent Connected Vehicle Conference..."
-          }
-        },
-        {
-          "title": "中国妇女奋斗建功新时代丨勇立潮头敢为先——中国妇女在科技创新浪潮中激荡智慧",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnJpc1MxZ2dQcm9zMFRwWnJ6TTE4LUNmNDVPRjFacDZGUG80MG4yRXB4RjFjOXhVNk01cWprZnBEMkE5SGo5X2xadDlYbGp1MzY5NGJjVDVLVm11WXZOUDFjR2E3M3NGTDRmWm90RU9rMERzcVlaYXJ3VVI0N21EQk5objM?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-06T23:09:37Z",
-            "summary": "中国妇女奋斗建功新时代丨勇立潮头敢为先——中国妇女在科技创新浪潮中激荡智慧 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Chinese women strive in the new era, leading in tech..."
-          }
-        },
-        {
-          "title": "“开放江苏”何以赢得外资“加码”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0RRY08yaUVPRHlweXR3QUtod2hDMV9STmZ2b3ExdERjQUoyRDdBRmNQYjJvU2gxQ1gtZnExR2hGcTRwNEUzdmtnQmpGSktaVHB4b29vMVhrNFV3d0l2VzNTZVNETUxmNzZkZVZOVnpTSDAxbndYLVgyeTRjSEtPRm5B?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-06T18:33:13Z",
-            "summary": "“开放江苏”何以赢得外资“加码” 新华网江苏",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网江苏",
-            "translation": "How \"Open Jiangsu\" attracts increased foreign investment..."
-          }
-        },
-        {
-          "title": "野三关大桥建成通车",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVlNSnI4UWNoUmJCQUFxbHlnT29iYTdyMEVVZEc1MEhwZkJZVW1RWHg2TXplc3lmVXd3QUJ1Rld6TzhMaXVrcVF5RlB2ajZyaHZNQ3Y5YmNzb3o4clRxaDMyVUJRTzdYcDBSSVE3OEstbG9DZUp5Yk1aTGhZT1d1RUxB?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-06T17:46:11Z",
-            "summary": "野三关大桥建成通车 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The Yasan Pass Bridge has been completed and opened to..."
-          }
-        },
-        {
-          "title": "吴晓军在调研国庆中秋长假期间工作时强调保持假日期间安全稳定态势做好促消费稳增长各项工作",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnlITkhPVmtfaV8ycUNzMlo0S3E1TEZmS1J6NmRySGZlTWpETDJkZnUyMmlXNWZXcldQeDV3N1BtUjlkdFhnZlBuNFRWUmhKWWFfX0lReGpDNU1lMHE2U0NSblpENnVuSHhTMmpDVlRYTkpwMHpDLWxNVHl1TFJpZGln?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-06T18:03:32Z",
-            "summary": "吴晓军在调研国庆中秋长假期间工作时强调保持假日期间安全稳定态势做好促消费稳增长各项工作 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Wu Xiaojun emphasized maintaining safety and stability..."
-          }
-        },
-        {
-          "title": "已辞职的法国总理受命与各政党展开“最后谈判”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1haXotdkp4NG5DOUVRMnlFbHRlMmtQc1FWT256d0VxYUxYSXZoUXJTck9ISHpHUVRVbmNrOWNWVHc0UlNlX2RZWko3RWFGTW1FM1BkNjVfeUVVN21SMmwxR3RUUW1PbTFQZXRjUjlhdEFUUV9aOENta2ZZQ3dWUQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-06T14:08:54Z",
-            "summary": "已辞职的法国总理受命与各政党展开“最后谈判” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Resigned French PM tasked with \"final negotiations\" with..."
-          }
-        },
-        {
-          "title": "外交部发言人就李强总理访朝答记者问",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xTzJkdFIxRTZERkpac05mRFJNMGFtSGU5QVFXbC1HeDU3UmxhLXluS2N6TEFjM2VPM1IwdVBxQjhZR0hOeGs4UWZtVUVPUk1sREE1dFRIODBHd1lOaWZiX3A5NERLcVhhRVZGSVhvQnJhV21BemlCeXAxdFFZUQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-06T18:29:08Z",
-            "summary": "外交部发言人就李强总理访朝答记者问 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Foreign Ministry spokesperson answers questions on..."
-          }
-        },
-        {
-          "title": "也门萨那举行农业产品展",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXlwLWxHSnJMX2c4NlA4Z0xIdTdzTF90RHkwT3VRSjBRdEc4b1lrU1RfOFpxTHNYMHVYUlNYa0QtMjlwSnJ1V1RGYXlaRE9fV3N6cVdrX3FEa3NkcTlJWWE2NXBaOE9Ed19IZ25iaVVTTVN1Zmp0VkNpU3lGYmFDWEQtN1Vndw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-06T10:41:45Z",
-            "summary": "也门萨那举行农业产品展 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Agricultural products exhibition held in Sana'a, Yemen..."
-          }
-        },
-        {
-          "title": "巴黎时装周——香奈儿发布春夏新品成衣",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkkwQTgtRmZKRGVCSzctVW1aWFRYaGo0Y1ozdm9CNUd4b3YtX1pGMm5lWG04ZnVnczBMU2ZzRkZjMG12X0N4RGtyUm9hZmFMc1l6b1kxZXhCbFVDSnl1VVRaQ1JQVUxXUFgzT3MxRm1lZGJvMnAwSnN1eVZPdkM1M1F6ZU4tUQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-06T18:01:18Z",
-            "summary": "巴黎时装周——香奈儿发布春夏新品成衣 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Paris Fashion Week - Chanel unveils spring/summer..."
-          }
-        },
-        {
-          "title": "台风过后抢修忙",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmU2R0JlckVfaFJDbVkydDJtam5zcm9JOTBmVFZDVDduRE5SakJfNEZwU3BFUU1mRFk0VTZ2cUF0bGYzdXBJUVFOWnVkMkZrRXNPZ2VqcEEtV2dvYzlPbEMzRS1oT0NfZWlfY2phODQ0a2w3c3JZWkZrVk9PcnJxeWV2OHJkZw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-07T00:57:11Z",
-            "summary": "台风过后抢修忙 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Busy with repairs after the typhoon..."
-          }
-        },
-        {
-          "title": "中国妇女奋斗建功新时代丨勇立潮头敢为先——中国妇女在科技创新浪潮中激荡智慧",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnJpc1MxZ2dQcm9zMFRwWnJ6TTE4LUNmNDVPRjFacDZGUG80MG4yRXB4RjFjOXhVNk01cWprZnBEMkE5SGo5X2xadDlYbGp1MzY5NGJjVDVLVm11WXZOUDFjR2E3M3NGTDRmWm90RU9rMERzcVlaYXJ3VVI0N21EQk5objM?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-06T23:09:37Z",
-            "summary": "中国妇女奋斗建功新时代丨勇立潮头敢为先——中国妇女在科技创新浪潮中激荡智慧 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Chinese women strive in the new era, leading in tech..."
-          }
-        },
-        {
-          "title": "“中国创造”，勇立潮头",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW9xNUtBZnMtOUtkOThLeS1yWmctMW43cnQydGdfbXV3UzBOempkbWRpQVNmZ3JuMGVUWHIyajdDZ3pyMTBKVWRtNjJLbjdrVU85QkVodGVnOE5CcmZGcWliZC1GaWlmR0RUcEhZeFo3Wmg0b1NOUWdUZjlCUTV4dzR5ZmJ6U0RP?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-06T15:24:22Z",
-            "summary": "“中国创造”，勇立潮头 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"China's creation,\" bravely standing at the forefront..."
-          }
-        },
-        {
-          "title": "一江共治，三省同巡：守护长江的江西答卷",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyQVBJZWFvYVFkSERIOW8xbkdhNFUwckpnRjd4NmxRRjgxSTVmOFJPd1dlZWFnYlhHaG45SHlNY28wd2tJSDZ5Y29remFROExhd3RRYlNPa3pGUnFrTHlBeVN2MHpxcmVjdnBkbGFHYmhmcW1XSjctM0dkR3Y1dw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-06T18:28:23Z",
-            "summary": "一江共治，三省同巡：守护长江的江西答卷 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Joint governance of the river, three provinces united:..."
-          }
-        },
-        {
-          "title": "港股6日跌0.67% 收报26957.77点",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlRHMkV5QzVrV09QLUF5cGlVejhZNlNseldRdjdoOFg5UG1UYnRxby1rQ3NKUlZOTEJOQ2lZUXFzSDBYTl9SX3dJX1M5TGlKdVpaTS0zMVU5Z3ltV3BPS1k5ZXBYM09oM2Y4Q0NyVFl4cUsxMURfZEZCTDlkNGotRHVhWDN6Zmc?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-06T03:38:47Z",
-            "summary": "港股6日跌0.67% 收报26957.77点 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Hong Kong stocks fell 0.67% to close at 26,957.77 points..."
-          }
-        },
-        {
-          "title": "列车长李文灵：用行动绘就高铁服务新图景",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQi1VT1NaUjZQcWxobWtsLU50Q1NtUnMxYTFremV0d3UwV3VvVloxQmN3aVE4WmkzTW5KOHU0c1lld3BMamdiWEZuTkJnMW5tRXZIN01DOHhSNzhqcHBQRFdXM2QzeER5c1l0c3hYeXN0LVNrdElUUUNvVXZGRTVoUmc1bDJ0Ync?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-06T17:52:04Z",
-            "summary": "列车长李文灵：用行动绘就高铁服务新图景 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Train conductor Li Wenling: Redefining high-speed rail..."
           }
         }
       ]
