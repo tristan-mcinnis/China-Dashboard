@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-13T06:04:01+08:00",
+  "generated_at": "2025-10-13T10:59:31+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-13T10:59:31+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 男女平等不是要一种特权",
+          "value": "1088808 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E4%B8%8D%E6%98%AF%E8%A6%81%E4%B8%80%E7%A7%8D%E7%89%B9%E6%9D%83&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1088808",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Gender equality is not about seeking privilege..."
+          }
+        },
+        {
+          "title": "2. 黄金 [新]",
+          "value": "418627 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E9%87%91&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 418627",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Gold..."
+          }
+        },
+        {
+          "title": "3. 这里是中国",
+          "value": "412948 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 412948",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "This is China..."
+          }
+        },
+        {
+          "title": "4. vivo X300系列",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dvivo%20X300%E7%B3%BB%E5%88%97&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "vivo X300 series"
+          }
+        },
+        {
+          "title": "5. 父母多次嘱咐走红大学生要低调",
+          "value": "412513 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E5%98%B1%E5%92%90%E8%B5%B0%E7%BA%A2%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E4%BD%8E%E8%B0%83&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 412513",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Parents repeatedly advised the rising star to stay..."
+          }
+        },
+        {
+          "title": "6. A股 [首发]",
+          "value": "395404 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DA%E8%82%A1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 395404",
+            "tag": "首发",
+            "api_source": "tianapi",
+            "translation": "A-shares"
+          }
+        },
+        {
+          "title": "7. 130万美军欠薪特朗普阅兵狂欢",
+          "value": "312735 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 312735",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "1.3 million US troops unpaid during Trump's parade..."
+          }
+        },
+        {
+          "title": "8. 京东买药双11成毅送百万免单 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF%E5%8F%8C11%E6%88%90%E6%AF%85%E9%80%81%E7%99%BE%E4%B8%87%E5%85%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "JD.com offers a million free orders for Double 11..."
+          }
+        },
+        {
+          "title": "9. 特朗普",
+          "value": "305325 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 305325",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Trump..."
+          }
+        },
+        {
+          "title": "10. 为什么贷款骚扰电话变少了 [新]",
+          "value": "262984 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B4%B7%E6%AC%BE%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E5%8F%98%E5%B0%91%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 262984",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Why have loan harassment calls decreased?"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-13T06:04:01+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Wang Chuqin and Sun Yingsha ranked 3rd in mixed doubles."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-07T10:50:19+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 景区回应仙女散的是假花",
-          "value": "1161625 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%BB%99%E5%A5%B3%E6%95%A3%E7%9A%84%E6%98%AF%E5%81%87%E8%8A%B1&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1161625",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The scenic area responds that the fairy flowers are fake."
-          }
-        },
-        {
-          "title": "2. 北京市民家中发现日军细菌战罪证",
-          "value": "447338 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E5%AE%B6%E4%B8%AD%E5%8F%91%E7%8E%B0%E6%97%A5%E5%86%9B%E7%BB%86%E8%8F%8C%E6%88%98%E7%BD%AA%E8%AF%81&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 447338",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Evidence of Japanese germ warfare found in Beijing homes..."
-          }
-        },
-        {
-          "title": "3. 圆圆圆圆中秋圆圆圆圆",
-          "value": "435250 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%86%E5%9C%86%E5%9C%86%E5%9C%86%E4%B8%AD%E7%A7%8B%E5%9C%86%E5%9C%86%E5%9C%86%E5%9C%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 435250",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Round, round, round, round, Mid-Autumn round, round,..."
-          }
-        },
-        {
-          "title": "4. 我国在固态锂电池领域取得突破",
-          "value": "423444 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E5%9C%A8%E5%9B%BA%E6%80%81%E9%94%82%E7%94%B5%E6%B1%A0%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 423444",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China has made breakthroughs in solid-state lithium..."
-          }
-        },
-        {
-          "title": "5. 医生说加沙医院惨状像屠宰场",
-          "value": "348907 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E7%94%9F%E8%AF%B4%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E6%83%A8%E7%8A%B6%E5%83%8F%E5%B1%A0%E5%AE%B0%E5%9C%BA&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 348907",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The doctor said the Gaza hospital's condition is like a..."
-          }
-        },
-        {
-          "title": "6. 金价 [新]",
-          "value": "305975 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E4%BB%B7&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 305975",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Gold price..."
-          }
-        },
-        {
-          "title": "7. 詹姆斯将宣布重大决策",
-          "value": "283166 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B0%86%E5%AE%A3%E5%B8%83%E9%87%8D%E5%A4%A7%E5%86%B3%E7%AD%96&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 283166",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "James will announce a major decision..."
-          }
-        },
-        {
-          "title": "8. 王楚钦孙颖莎混双世排第3",
-          "value": "248394 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B7%B7%E5%8F%8C%E4%B8%96%E6%8E%92%E7%AC%AC3&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 248394",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin and Sun Yingsha ranked 3rd in mixed doubles."
-          }
-        },
-        {
-          "title": "9. 国庆假期返程天气",
-          "value": "231966 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E5%A4%A9%E6%B0%94&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 231966",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "National Day holiday return trip weather..."
-          }
-        },
-        {
-          "title": "10. 假期还有最后2天 [新]",
-          "value": "185194 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%81%87%E6%9C%9F%E8%BF%98%E6%9C%89%E6%9C%80%E5%90%8E2%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 185194",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "There are only 2 days left of the holiday..."
           }
         }
       ]
