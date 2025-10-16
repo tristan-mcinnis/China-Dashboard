@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-16T14:02:15+08:00",
+  "generated_at": "2025-10-16T18:38:30+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-16T18:38:30+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. CFO爆冷战胜T1",
+          "value": "1117001 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DCFO%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CT1&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1117001",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "CFO unexpectedly defeats T1..."
+          }
+        },
+        {
+          "title": "2. 缅北刘家强迫女性吸毒",
+          "value": "340006 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BC%85%E5%8C%97%E5%88%98%E5%AE%B6%E5%BC%BA%E8%BF%AB%E5%A5%B3%E6%80%A7%E5%90%B8%E6%AF%92&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 340006",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liu family in northern Myanmar forces women to use drugs..."
+          }
+        },
+        {
+          "title": "3. 红星照耀中国",
+          "value": "289711 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 289711",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Red Star Shines on China..."
+          }
+        },
+        {
+          "title": "4. 启境首款车已完成设计定型",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%AF%E5%A2%83%E9%A6%96%E6%AC%BE%E8%BD%A6%E5%B7%B2%E5%AE%8C%E6%88%90%E8%AE%BE%E8%AE%A1%E5%AE%9A%E5%9E%8B&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Qijing's first car design has been finalized..."
+          }
+        },
+        {
+          "title": "5. CFO 全华班",
+          "value": "288984 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DCFO%20%E5%85%A8%E5%8D%8E%E7%8F%AD&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 288984",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "CFO All-China Class..."
+          }
+        },
+        {
+          "title": "6. 湖南一女主播收到炸弹包裹被炸伤 [重磅]",
+          "value": "279392 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%94%B6%E5%88%B0%E7%82%B8%E5%BC%B9%E5%8C%85%E8%A3%B9%E8%A2%AB%E7%82%B8%E4%BC%A4&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 279392",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "A female streamer in Hunan was injured by a bomb package."
+          }
+        },
+        {
+          "title": "7. 缅北电诈首富",
+          "value": "222686 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%A6%96%E5%AF%8C&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 222686",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The richest in Myanmar's northern electric fraud..."
+          }
+        },
+        {
+          "title": "8. 今日辟谣 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Today's rumor debunked..."
+          }
+        },
+        {
+          "title": "9. 一笑随歌",
+          "value": "剧集 191703 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 191703",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A smile follows the song..."
+          }
+        },
+        {
+          "title": "10. 刘家电诈园区统一建炮楼",
+          "value": "172455 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E5%AE%B6%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E7%BB%9F%E4%B8%80%E5%BB%BA%E7%82%AE%E6%A5%BC&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 172455",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liu family's scam park builds a watchtower..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-16T14:02:15+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Xinhua comments on Xiaomi's competition with Apple..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-10T18:37:24+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 美方限制中国航班飞越俄罗斯领空",
-          "value": "1128187 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E6%96%B9%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%B6%8A%E4%BF%84%E7%BD%97%E6%96%AF%E9%A2%86%E7%A9%BA&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1128187",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The US restricts Chinese flights over Russian airspace..."
-          }
-        },
-        {
-          "title": "2. 高通涉嫌违反反垄断法 [新]",
-          "value": "564214 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E9%80%9A%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 564214",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Qualcomm accused of violating antitrust laws..."
-          }
-        },
-        {
-          "title": "3. 故宫博物院建院100年",
-          "value": "543720 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%BB%BA%E9%99%A2100%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 543720",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The Palace Museum celebrates its 100th anniversary..."
-          }
-        },
-        {
-          "title": "4. 和N7一起告别通勤焦虑",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8CN7%E4%B8%80%E8%B5%B7%E5%91%8A%E5%88%AB%E9%80%9A%E5%8B%A4%E7%84%A6%E8%99%91&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Say goodbye to commuting anxiety with N7..."
-          }
-        },
-        {
-          "title": "5. 北方暴雨冷到破纪录",
-          "value": "536563 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%86%B7%E5%88%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 536563",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Northern regions face record-breaking cold rain..."
-          }
-        },
-        {
-          "title": "6. 老人被干儿子骗走失联直至离世 [火热]",
-          "value": "329867 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E4%BA%BA%E8%A2%AB%E5%B9%B2%E5%84%BF%E5%AD%90%E9%AA%97%E8%B5%B0%E5%A4%B1%E8%81%94%E7%9B%B4%E8%87%B3%E7%A6%BB%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 329867",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Elderly man deceived by adopted son, missing until death..."
-          }
-        },
-        {
-          "title": "7. 王者荣耀投票",
-          "value": "242322 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8A%95%E7%A5%A8&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 242322",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Honor of Kings voting..."
-          }
-        },
-        {
-          "title": "8. CELINE26夏季时装秀",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DCELINE26%E5%A4%8F%E5%AD%A3%E6%97%B6%E8%A3%85%E7%A7%80&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "CELINE 26 Summer Fashion Show..."
-          }
-        },
-        {
-          "title": "9. NS战胜WBG",
-          "value": "215509 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DNS%E6%88%98%E8%83%9CWBG&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 215509",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "NS defeats WBG..."
-          }
-        },
-        {
-          "title": "10. 小谢称王暖暖用4年血泪换来重生",
-          "value": "206302 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E8%B0%A2%E7%A7%B0%E7%8E%8B%E6%9A%96%E6%9A%96%E7%94%A84%E5%B9%B4%E8%A1%80%E6%B3%AA%E6%8D%A2%E6%9D%A5%E9%87%8D%E7%94%9F&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 206302",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Xiao Xie claims the throne; Nuan Nuan's rebirth took 4..."
           }
         }
       ]
