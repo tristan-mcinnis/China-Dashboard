@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-17T10:53:24+08:00",
+  "generated_at": "2025-10-17T14:02:00+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-17T14:02:00+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 美国一储藏约816吨大豆粮仓倒塌",
+          "value": "1138696 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%82%A8%E8%97%8F%E7%BA%A6816%E5%90%A8%E5%A4%A7%E8%B1%86%E7%B2%AE%E4%BB%93%E5%80%92%E5%A1%8C&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1138696",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A grain silo in the U.S. collapsed, storing about 816..."
+          }
+        },
+        {
+          "title": "2. 辽宁失联4岁女童已找到",
+          "value": "851054 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BE%BD%E5%AE%81%E5%A4%B1%E8%81%944%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 851054",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The missing 4-year-old girl from Liaoning has been found..."
+          }
+        },
+        {
+          "title": "3. 红星照耀中国",
+          "value": "762197 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 762197",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Red Star Shines on China..."
+          }
+        },
+        {
+          "title": "4. 费翔代言零跑旗舰D19",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%B9%E7%BF%94%E4%BB%A3%E8%A8%80%E9%9B%B6%E8%B7%91%E6%97%97%E8%88%B0D19&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Fei Xiang endorses Leap Motor's flagship D19..."
+          }
+        },
+        {
+          "title": "5. 金价一夜暴涨有投资者彻夜难眠",
+          "value": "742949 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E5%BD%BB%E5%A4%9C%E9%9A%BE%E7%9C%A0&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 742949",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Gold prices soar overnight, leaving investors sleepless..."
+          }
+        },
+        {
+          "title": "6. 王腾宣传K90ProMax [官宣]",
+          "value": "733824 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%85%BE%E5%AE%A3%E4%BC%A0K90ProMax&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 733824",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "Wang Teng promotes the K90 Pro Max..."
+          }
+        },
+        {
+          "title": "7. 杭州有人600元时囤150万黄金",
+          "value": "705743 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E6%97%B6%E5%9B%A4150%E4%B8%87%E9%BB%84%E9%87%91&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 705743",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "In Hangzhou, someone hoarded 1.5 million in gold for 600..."
+          }
+        },
+        {
+          "title": "8. 北京热力辟谣代缴采暖费可打折 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E7%83%AD%E5%8A%9B%E8%BE%9F%E8%B0%A3%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%E5%8F%AF%E6%89%93%E6%8A%98&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Beijing heat authority denies discounts on heating fees..."
+          }
+        },
+        {
+          "title": "9. 陆虎新歌烂人",
+          "value": "音乐 666158 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%86%E8%99%8E%E6%96%B0%E6%AD%8C%E7%83%82%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "音乐 666158",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Land Rover's new song \"Bad Person\"..."
+          }
+        },
+        {
+          "title": "10. 日本前首相村山富市去世 [新]",
+          "value": "655992 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E6%9D%91%E5%B1%B1%E5%AF%8C%E5%B8%82%E5%8E%BB%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 655992",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Former Japanese Prime Minister Tomiichi Murayama has died..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-17T10:53:24+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Official report: Boy blinded after being injured in..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-11T14:01:57+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 张继科说凭啥不知情时换教练",
-          "value": "1165559 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E5%87%AD%E5%95%A5%E4%B8%8D%E7%9F%A5%E6%83%85%E6%97%B6%E6%8D%A2%E6%95%99%E7%BB%83&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1165559",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Zhang Jike questions why he changed coaches without..."
-          }
-        },
-        {
-          "title": "2. 杨瀚森大爆发 [新]",
-          "value": "732877 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%A4%A7%E7%88%86%E5%8F%91&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 732877",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Yang Hansen's explosive performance..."
-          }
-        },
-        {
-          "title": "3. 十四五成就",
-          "value": "552983 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E5%9B%9B%E4%BA%94%E6%88%90%E5%B0%B1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 552983",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Achievements of the 14th Five-Year Plan..."
-          }
-        },
-        {
-          "title": "4. NBA澳门之约",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DNBA%E6%BE%B3%E9%97%A8%E4%B9%8B%E7%BA%A6&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "NBA Macau Appointment..."
-          }
-        },
-        {
-          "title": "5. 失温女生母亲要确认女儿是否被抛弃",
-          "value": "428961 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%B1%E6%B8%A9%E5%A5%B3%E7%94%9F%E6%AF%8D%E4%BA%B2%E8%A6%81%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%84%BF%E6%98%AF%E5%90%A6%E8%A2%AB%E6%8A%9B%E5%BC%83&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 428961",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Mother of hypothermic girl wants to confirm if daughter..."
-          }
-        },
-        {
-          "title": "6. 苹果闹钟没响 [商]",
-          "value": "424078 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B9%E6%9E%9C%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 424078",
-            "tag": "商",
-            "api_source": "tianapi",
-            "translation": "The Apple alarm didn't go off..."
-          }
-        },
-        {
-          "title": "7. 许家印车牌粤A98888劳斯莱斯被接管",
-          "value": "381050 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BD%A6%E7%89%8C%E7%B2%A4A98888%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%A2%AB%E6%8E%A5%E7%AE%A1&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 381050",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Xu Jiayin's license plate粤A98888 Rolls-Royce was seized..."
-          }
-        },
-        {
-          "title": "8. 焕新极氪001猎装豪华新标杆",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%84%95%E6%96%B0%E6%9E%81%E6%B0%AA001%E7%8C%8E%E8%A3%85%E8%B1%AA%E5%8D%8E%E6%96%B0%E6%A0%87%E6%9D%86&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Revamped Zeekr 001 sets a new luxury benchmark..."
-          }
-        },
-        {
-          "title": "9. 特朗普对华关税恐吓把美股吓出心脏病了",
-          "value": "336709 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%90%93%E5%87%BA%E5%BF%83%E8%84%8F%E7%97%85%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 336709",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Trump's tariffs on China scare US stocks into a panic..."
-          }
-        },
-        {
-          "title": "10. 娃哈哈任命许思敏为总经理",
-          "value": "317198 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A8%83%E5%93%88%E5%93%88%E4%BB%BB%E5%91%BD%E8%AE%B8%E6%80%9D%E6%95%8F%E4%B8%BA%E6%80%BB%E7%BB%8F%E7%90%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 317198",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wahaha appoints Xu Simin as general manager..."
           }
         }
       ]
