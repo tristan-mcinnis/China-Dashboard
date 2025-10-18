@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-18T14:01:58+08:00",
+  "generated_at": "2025-10-18T18:35:50+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-18T18:35:50+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. GEN战胜T1",
+          "value": "1087096 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DGEN%E6%88%98%E8%83%9CT1&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1087096",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "GEN defeats T1..."
+          }
+        },
+        {
+          "title": "2. 飞韩国的航班行李架起火",
+          "value": "388794 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A3%9E%E9%9F%A9%E5%9B%BD%E7%9A%84%E8%88%AA%E7%8F%AD%E8%A1%8C%E6%9D%8E%E6%9E%B6%E8%B5%B7%E7%81%AB&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 388794",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Flight to South Korea has luggage rack on fire..."
+          }
+        },
+        {
+          "title": "3. 红星照耀中国",
+          "value": "295328 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 295328",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Red Star Shines on China..."
+          }
+        },
+        {
+          "title": "4. 红山动物园放弃抵抗采用野菜F4",
+          "value": "294996 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%94%BE%E5%BC%83%E6%8A%B5%E6%8A%97%E9%87%87%E7%94%A8%E9%87%8E%E8%8F%9CF4&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 294996",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hongshan Zoo surrenders and adopts wild vegetable F4..."
+          }
+        },
+        {
+          "title": "5. 李在明女翻译因高颜值走红",
+          "value": "278614 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A5%B3%E7%BF%BB%E8%AF%91%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E8%B5%B0%E7%BA%A2&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 278614",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Lee Jae-myung's female translator gains fame for her..."
+          }
+        },
+        {
+          "title": "6. 杨振宁逝世 [新]",
+          "value": "278267 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 278267",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yang Zhenning has passed away..."
+          }
+        },
+        {
+          "title": "7. 京东健康11.11送免单 倪妮同款阿胶糕",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E5%81%A5%E5%BA%B711.11%E9%80%81%E5%85%8D%E5%8D%95%20%E5%80%AA%E5%A6%AE%E5%90%8C%E6%AC%BE%E9%98%BF%E8%83%B6%E7%B3%95&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "JD Health's 11.11 offers free orders of Ni Ni's favorite..."
+          }
+        },
+        {
+          "title": "8. 西南联大五才子仅剩一人",
+          "value": "278014 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A5%BF%E5%8D%97%E8%81%94%E5%A4%A7%E4%BA%94%E6%89%8D%E5%AD%90%E4%BB%85%E5%89%A9%E4%B8%80%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 278014",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Only one of the five talents from Southwest Associated..."
+          }
+        },
+        {
+          "title": "9. GEN对战T1",
+          "value": "277345 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DGEN%E5%AF%B9%E6%88%98T1&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 277345",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "GEN vs T1 match"
+          }
+        },
+        {
+          "title": "10. 曝iG多位选手已续约 [沸]",
+          "value": "276624 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9B%9DiG%E5%A4%9A%E4%BD%8D%E9%80%89%E6%89%8B%E5%B7%B2%E7%BB%AD%E7%BA%A6&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 276624",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "iG multiple players have renewed their contracts..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-18T14:01:58+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "4.7 magnitude earthquake in Lushan, Sichuan..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-12T18:35:01+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 美国女子在迪士尼鬼屋被吓死",
-          "value": "1154136 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%AC%BC%E5%B1%8B%E8%A2%AB%E5%90%93%E6%AD%BB&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1154136",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "American woman dies of fright at Disney haunted house..."
-          }
-        },
-        {
-          "title": "2. 冰箱贴已经比冰箱贵了 [热]",
-          "value": "728505 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%86%B0%E7%AE%B1%E8%B4%B5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 728505",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Fridge magnets are now more expensive than fridges..."
-          }
-        },
-        {
-          "title": "3. 中国天眼已发现1152颗脉冲星",
-          "value": "519876 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%B7%B2%E5%8F%91%E7%8E%B01152%E9%A2%97%E8%84%89%E5%86%B2%E6%98%9F&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 519876",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China's Tianyan has discovered 1,152 pulsars..."
-          }
-        },
-        {
-          "title": "4. 中国已确立11颗金钉子",
-          "value": "489461 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%A1%AE%E7%AB%8B11%E9%A2%97%E9%87%91%E9%92%89%E5%AD%90&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 489461",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China has established 11 golden nails..."
-          }
-        },
-        {
-          "title": "5. 海鲜价格暴跌了",
-          "value": "459095 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E9%B2%9C%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 459095",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Seafood prices have plummeted..."
-          }
-        },
-        {
-          "title": "6. 雷军被8000元小刀价格惊呆了 [热]",
-          "value": "314778 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%B7%E5%86%9B%E8%A2%AB8000%E5%85%83%E5%B0%8F%E5%88%80%E4%BB%B7%E6%A0%BC%E6%83%8A%E5%91%86%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 314778",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Lei Jun was shocked by the 8000 yuan knife price..."
-          }
-        },
-        {
-          "title": "7. 解清帅婚宴每桌30个菜2499元",
-          "value": "225683 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E6%B8%85%E5%B8%85%E5%A9%9A%E5%AE%B4%E6%AF%8F%E6%A1%8C30%E4%B8%AA%E8%8F%9C2499%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 225683",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Each table at the wedding banquet has 30 dishes for 2499..."
-          }
-        },
-        {
-          "title": "8. 巴基斯坦 [新]",
-          "value": "212015 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 212015",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Pakistan..."
-          }
-        },
-        {
-          "title": "9. 四川芦山4.7级地震",
-          "value": "199820 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%9B%E5%B7%9D%E8%8A%A6%E5%B1%B14.7%E7%BA%A7%E5%9C%B0%E9%9C%87&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 199820",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "4.7 magnitude earthquake in Lu Shan, Sichuan..."
-          }
-        },
-        {
-          "title": "10. 高通公司承认了相关事实",
-          "value": "196235 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E9%80%9A%E5%85%AC%E5%8F%B8%E6%89%BF%E8%AE%A4%E4%BA%86%E7%9B%B8%E5%85%B3%E4%BA%8B%E5%AE%9E&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 196235",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Qualcomm has acknowledged the relevant facts..."
           }
         }
       ]
