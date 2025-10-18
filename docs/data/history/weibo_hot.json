@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-18T18:35:50+08:00",
+  "generated_at": "2025-10-18T22:06:47+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-18T22:06:47+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 北京今天就下雪了",
+          "value": "1117158 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%A4%A9%E5%B0%B1%E4%B8%8B%E9%9B%AA%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1117158",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "It snowed in Beijing today..."
+          }
+        },
+        {
+          "title": "2. G2战胜BLG",
+          "value": "368156 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DG2%E6%88%98%E8%83%9CBLG&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 368156",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "G2 defeats BLG..."
+          }
+        },
+        {
+          "title": "3. 非凡十四五",
+          "value": "325014 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%9E%E5%87%A1%E5%8D%81%E5%9B%9B%E4%BA%94&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 325014",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Extraordinary 14th Five-Year Plan..."
+          }
+        },
+        {
+          "title": "4. 用视频在场",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%A8%E8%A7%86%E9%A2%91%E5%9C%A8%E5%9C%BA&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Present via video..."
+          }
+        },
+        {
+          "title": "5. 南京vs泰州",
+          "value": "320564 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%97%E4%BA%ACvs%E6%B3%B0%E5%B7%9E&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 320564",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Nanjing vs. Taizhou"
+          }
+        },
+        {
+          "title": "6. gemini 毒奶 [荐]",
+          "value": "309498 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dgemini%20%E6%AF%92%E5%A5%B6&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 309498",
+            "tag": "荐",
+            "api_source": "tianapi",
+            "translation": "Gemini's toxic milk..."
+          }
+        },
+        {
+          "title": "7. 杨振宁逝世",
+          "value": "306531 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 306531",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Yang Zhenning has passed away..."
+          }
+        },
+        {
+          "title": "8. 三人造谣新郎跳河事件被立案 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%89%E4%BA%BA%E9%80%A0%E8%B0%A3%E6%96%B0%E9%83%8E%E8%B7%B3%E6%B2%B3%E4%BA%8B%E4%BB%B6%E8%A2%AB%E7%AB%8B%E6%A1%88&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Three people spreading rumors about the groom's river..."
+          }
+        },
+        {
+          "title": "9. 新任中国国民党主席郑丽文",
+          "value": "304086 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E4%BB%BB%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 304086",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "New KMT Chairperson Zheng Liwen..."
+          }
+        },
+        {
+          "title": "10. 杨振宁曾在百岁生日宴后摔倒 [新]",
+          "value": "302985 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E6%8C%AF%E5%AE%81%E6%9B%BE%E5%9C%A8%E7%99%BE%E5%B2%81%E7%94%9F%E6%97%A5%E5%AE%B4%E5%90%8E%E6%91%94%E5%80%92&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 302985",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yang Zhenning fell after his centenary birthday banquet..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-18T18:35:50+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Fridge magnets are now more expensive than fridges..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-12T22:06:42+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 晋A99999劳斯莱斯1544000元起拍",
-          "value": "1100331 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%8BA99999%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF1544000%E5%85%83%E8%B5%B7%E6%8B%8D&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1100331",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Jin A99999 Rolls Royce starts bidding at 1,544,000 yuan..."
-          }
-        },
-        {
-          "title": "2. 获1300万拆迁款被判刑男子发声",
-          "value": "561667 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8E%B71300%E4%B8%87%E6%8B%86%E8%BF%81%E6%AC%BE%E8%A2%AB%E5%88%A4%E5%88%91%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 561667",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Man sentenced after receiving 13 million in demolition..."
-          }
-        },
-        {
-          "title": "3. 这里是中国",
-          "value": "473175 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%AD%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 473175",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "This is China..."
-          }
-        },
-        {
-          "title": "4. 中国已确立11颗金钉子 [新]",
-          "value": "466513 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%A1%AE%E7%AB%8B11%E9%A2%97%E9%87%91%E9%92%89%E5%AD%90&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 466513",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "China has established 11 golden nails..."
-          }
-        },
-        {
-          "title": "5. 法国第一夫人被迫证明自己不是男人",
-          "value": "451247 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%95%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E7%94%B7%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 451247",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The French First Lady forced to prove she's not a man..."
-          }
-        },
-        {
-          "title": "6. 冰箱贴已经比冰箱贵了 [热]",
-          "value": "388244 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%86%B0%E7%AE%B1%E8%B4%B5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 388244",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Fridge magnets are now more expensive than fridges..."
-          }
-        },
-        {
-          "title": "7. 吃不吃麻辣烫的都沉默了",
-          "value": "338830 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%83%E4%B8%8D%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 338830",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Everyone fell silent about whether to eat spicy hot pot..."
-          }
-        },
-        {
-          "title": "8. 员工拉桌子碰碎近50个和田玉镯",
-          "value": "204441 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%98%E5%B7%A5%E6%8B%89%E6%A1%8C%E5%AD%90%E7%A2%B0%E7%A2%8E%E8%BF%9150%E4%B8%AA%E5%92%8C%E7%94%B0%E7%8E%89%E9%95%AF&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 204441",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "An employee broke nearly 50 Hetian jade bracelets..."
-          }
-        },
-        {
-          "title": "9. 菲律宾恶意擦碰中国海警船现场视频",
-          "value": "203406 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%81%B6%E6%84%8F%E6%93%A6%E7%A2%B0%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 203406",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Video of the Philippines maliciously bumping into..."
-          }
-        },
-        {
-          "title": "10. 四川芦山4.7级地震",
-          "value": "201107 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%9B%E5%B7%9D%E8%8A%A6%E5%B1%B14.7%E7%BA%A7%E5%9C%B0%E9%9C%87&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 201107",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "4.7 magnitude earthquake in Lushan, Sichuan..."
           }
         }
       ]
