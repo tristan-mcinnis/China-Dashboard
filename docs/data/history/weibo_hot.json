@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-19T06:03:55+08:00",
+  "generated_at": "2025-10-19T11:02:13+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-19T11:02:13+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 固态电池突破",
+          "value": "1111065 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%AA%81%E7%A0%B4&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1111065",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Solid-state battery breakthrough..."
+          }
+        },
+        {
+          "title": "2. 特朗普称美军摧毁一大型潜艇 [新]",
+          "value": "489982 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E6%91%A7%E6%AF%81%E4%B8%80%E5%A4%A7%E5%9E%8B%E6%BD%9C%E8%89%87&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 489982",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Trump claims U.S. military destroyed a large submarine..."
+          }
+        },
+        {
+          "title": "3. 红星照耀中国",
+          "value": "449272 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 449272",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Red Star Shines on China..."
+          }
+        },
+        {
+          "title": "4. 水龙吟",
+          "value": "剧集 420845 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E9%BE%99%E5%90%9F&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 420845",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Water Dragon Chant..."
+          }
+        },
+        {
+          "title": "5. 美国网络攻击我国",
+          "value": "418307 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%88%91%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 418307",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The U.S. cyberattacks on our country..."
+          }
+        },
+        {
+          "title": "6. 北京下雪了 [新]",
+          "value": "278583 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 278583",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "It snowed in Beijing..."
+          }
+        },
+        {
+          "title": "7. 高市早苗首相稳了",
+          "value": "219547 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%A6%96%E7%9B%B8%E7%A8%B3%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 219547",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Prime Minister Sanna Marin is stable..."
+          }
+        },
+        {
+          "title": "8. 中国粉碎美方网攻图谋",
+          "value": "216676 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%B2%89%E7%A2%8E%E7%BE%8E%E6%96%B9%E7%BD%91%E6%94%BB%E5%9B%BE%E8%B0%8B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 216676",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China crushes US cyber attack schemes..."
+          }
+        },
+        {
+          "title": "9. 凌晨三点叫你出来玩你不出来",
+          "value": "216456 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E5%8F%AB%E4%BD%A0%E5%87%BA%E6%9D%A5%E7%8E%A9%E4%BD%A0%E4%B8%8D%E5%87%BA%E6%9D%A5&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 216456",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "You won't come out to play at three in the morning..."
+          }
+        },
+        {
+          "title": "10. 75年前的今天志愿军跨过鸭绿江",
+          "value": "211256 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D75%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%BF%97%E6%84%BF%E5%86%9B%E8%B7%A8%E8%BF%87%E9%B8%AD%E7%BB%BF%E6%B1%9F&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 211256",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "75 years ago today, the Volunteer Army crossed the Yalu..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-19T06:03:55+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Temperature drop in the south..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-13T10:59:31+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 男女平等不是要一种特权",
-          "value": "1088808 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E4%B8%8D%E6%98%AF%E8%A6%81%E4%B8%80%E7%A7%8D%E7%89%B9%E6%9D%83&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1088808",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Gender equality is not about seeking privilege..."
-          }
-        },
-        {
-          "title": "2. 黄金 [新]",
-          "value": "418627 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E9%87%91&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 418627",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Gold..."
-          }
-        },
-        {
-          "title": "3. 这里是中国",
-          "value": "412948 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%AD%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 412948",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "This is China..."
-          }
-        },
-        {
-          "title": "4. vivo X300系列",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dvivo%20X300%E7%B3%BB%E5%88%97&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "vivo X300 series"
-          }
-        },
-        {
-          "title": "5. 父母多次嘱咐走红大学生要低调",
-          "value": "412513 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E5%98%B1%E5%92%90%E8%B5%B0%E7%BA%A2%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E4%BD%8E%E8%B0%83&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 412513",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Parents repeatedly advised the rising star to stay..."
-          }
-        },
-        {
-          "title": "6. A股 [首发]",
-          "value": "395404 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DA%E8%82%A1&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 395404",
-            "tag": "首发",
-            "api_source": "tianapi",
-            "translation": "A-shares"
-          }
-        },
-        {
-          "title": "7. 130万美军欠薪特朗普阅兵狂欢",
-          "value": "312735 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 312735",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "1.3 million US troops unpaid during Trump's parade..."
-          }
-        },
-        {
-          "title": "8. 京东买药双11成毅送百万免单 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF%E5%8F%8C11%E6%88%90%E6%AF%85%E9%80%81%E7%99%BE%E4%B8%87%E5%85%8D%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "JD.com offers a million free orders for Double 11..."
-          }
-        },
-        {
-          "title": "9. 特朗普",
-          "value": "305325 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 305325",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Trump..."
-          }
-        },
-        {
-          "title": "10. 为什么贷款骚扰电话变少了 [新]",
-          "value": "262984 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B4%B7%E6%AC%BE%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E5%8F%98%E5%B0%91%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 262984",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Why have loan harassment calls decreased?"
           }
         }
       ]
