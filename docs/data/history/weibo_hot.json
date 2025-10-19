@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-19T11:02:13+08:00",
+  "generated_at": "2025-10-19T14:02:00+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-19T14:02:00+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 固态电池突破",
+          "value": "1047070 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%AA%81%E7%A0%B4&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1047070",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Breakthrough in solid-state batteries..."
+          }
+        },
+        {
+          "title": "2. 西安城墙已变成巨型生态缸了 [新]",
+          "value": "277429 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99%E5%B7%B2%E5%8F%98%E6%88%90%E5%B7%A8%E5%9E%8B%E7%94%9F%E6%80%81%E7%BC%B8%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 277429",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The Xi'an city wall has turned into a giant ecological..."
+          }
+        },
+        {
+          "title": "3. 红星照耀中国",
+          "value": "275995 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 275995",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Red Star Shines on China..."
+          }
+        },
+        {
+          "title": "4. 张若昀登第六座艾格巅峰",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E8%8B%A5%E6%98%80%E7%99%BB%E7%AC%AC%E5%85%AD%E5%BA%A7%E8%89%BE%E6%A0%BC%E5%B7%85%E5%B3%B0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zhang Ruoyun reaches the sixth peak of Aiguille..."
+          }
+        },
+        {
+          "title": "5. 我家那闺女",
+          "value": "综艺 270775 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "综艺 270775",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "My daughter at home..."
+          }
+        },
+        {
+          "title": "6. 切莫用黑公关污名化公众安全关切 [亮相]",
+          "value": "264124 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%87%E8%8E%AB%E7%94%A8%E9%BB%91%E5%85%AC%E5%85%B3%E6%B1%A1%E5%90%8D%E5%8C%96%E5%85%AC%E4%BC%97%E5%AE%89%E5%85%A8%E5%85%B3%E5%88%87&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 264124",
+            "tag": "亮相",
+            "api_source": "tianapi",
+            "translation": "Do not use black PR to stigmatize public safety concerns..."
+          }
+        },
+        {
+          "title": "7. 翁帆发文纪念杨振宁",
+          "value": "259661 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BF%81%E5%B8%86%E5%8F%91%E6%96%87%E7%BA%AA%E5%BF%B5%E6%9D%A8%E6%8C%AF%E5%AE%81&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 259661",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Weng Fan commemorates Yang Zhenning in a post..."
+          }
+        },
+        {
+          "title": "8. 又被领克03炸裂到了 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%88%E8%A2%AB%E9%A2%86%E5%85%8B03%E7%82%B8%E8%A3%82%E5%88%B0%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Once again, the Lynk & Co 03 blew me away..."
+          }
+        },
+        {
+          "title": "9. 天地剑心",
+          "value": "259048 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 259048",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Sword Heart of Heaven and Earth..."
+          }
+        },
+        {
+          "title": "10. 入青云",
+          "value": "剧集 223330 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A5%E9%9D%92%E4%BA%91&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 223330",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Entering the azure clouds..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-19T11:02:13+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Famous American psychiatrist commits suicide..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-13T14:02:05+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 小红书崩了",
-          "value": "1173041 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B4%A9%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1173041",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Xiaohongshu is down..."
-          }
-        },
-        {
-          "title": "2. 研二女生车祸致高位截瘫练出麒麟臂 [新]",
-          "value": "511887 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A0%94%E4%BA%8C%E5%A5%B3%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%87%B4%E9%AB%98%E4%BD%8D%E6%88%AA%E7%98%AB%E7%BB%83%E5%87%BA%E9%BA%92%E9%BA%9F%E8%87%82&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 511887",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Second-year female student paralyzed in accident..."
-          }
-        },
-        {
-          "title": "3. 这是她她她她她她她她的手",
-          "value": "408229 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E6%98%AF%E5%A5%B9%E5%A5%B9%E5%A5%B9%E5%A5%B9%E5%A5%B9%E5%A5%B9%E5%A5%B9%E5%A5%B9%E7%9A%84%E6%89%8B&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 408229",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "This is her hand..."
-          }
-        },
-        {
-          "title": "4. vivo X300系列",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dvivo%20X300%E7%B3%BB%E5%88%97&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "vivo X300 series..."
-          }
-        },
-        {
-          "title": "5. 相恋两年要88.8万彩礼才肯结婚",
-          "value": "332101 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%B8%E6%81%8B%E4%B8%A4%E5%B9%B4%E8%A6%8188.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%89%8D%E8%82%AF%E7%BB%93%E5%A9%9A&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 332101",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "After two years of dating, demands 888,000 for dowry..."
-          }
-        },
-        {
-          "title": "6. 老板说第一次短袖生意做了7个月 [首发]",
-          "value": "294428 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E6%9D%BF%E8%AF%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9F%AD%E8%A2%96%E7%94%9F%E6%84%8F%E5%81%9A%E4%BA%867%E4%B8%AA%E6%9C%88&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 294428",
-            "tag": "首发",
-            "api_source": "tianapi",
-            "translation": "The boss said the first short-sleeve business lasted 7..."
-          }
-        },
-        {
-          "title": "7. 挨家通报停火的巴勒斯坦记者被枪杀",
-          "value": "293455 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8C%A8%E5%AE%B6%E9%80%9A%E6%8A%A5%E5%81%9C%E7%81%AB%E7%9A%84%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%AE%B0%E8%80%85%E8%A2%AB%E6%9E%AA%E6%9D%80&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 293455",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "A Palestinian journalist reporting on the ceasefire was..."
-          }
-        },
-        {
-          "title": "8. 王嘉尔韩束品牌全球代言人 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%98%89%E5%B0%94%E9%9F%A9%E6%9D%9F%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Jackson Wang is the global ambassador for Han Shu brand."
-          }
-        },
-        {
-          "title": "9. 洗脸巾残留化学纤维存在安全风险",
-          "value": "227652 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%97%E8%84%B8%E5%B7%BE%E6%AE%8B%E7%95%99%E5%8C%96%E5%AD%A6%E7%BA%A4%E7%BB%B4%E5%AD%98%E5%9C%A8%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 227652",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Face towels may pose safety risks due to chemical fibers..."
-          }
-        },
-        {
-          "title": "10. 南方降温 [新]",
-          "value": "198971 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%97%E6%96%B9%E9%99%8D%E6%B8%A9&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 198971",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Temperature drop in the south..."
           }
         }
       ]
