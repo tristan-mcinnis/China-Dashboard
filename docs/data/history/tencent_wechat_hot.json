@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2025-10-20T06:04:10+08:00",
+  "generated_at": "2025-10-20T11:02:10+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-20T11:02:10+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 总书记擘画中国式现代化新篇章",
+          "value": "指数 7904609",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%93%98%E7%94%BB%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E7%AF%87%E7%AB%A0",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904609",
+            "api_source": "tianapi",
+            "translation": "The General Secretary outlines a new chapter in Chinese..."
+          }
+        },
+        {
+          "title": "2. 火车免费坐？12306今起又上新功能",
+          "value": "指数 7809342",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%81%AB%E8%BD%A6%E5%85%8D%E8%B4%B9%E5%9D%90%EF%BC%9F12306%E4%BB%8A%E8%B5%B7%E5%8F%88%E4%B8%8A%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809342",
+            "api_source": "tianapi",
+            "translation": "Free train rides? 12306 launches new feature today..."
+          }
+        },
+        {
+          "title": "3. 银行清理沉睡账户 卡里的钱怎么办",
+          "value": "指数 7713212",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%93%B6%E8%A1%8C%E6%B8%85%E7%90%86%E6%B2%89%E7%9D%A1%E8%B4%A6%E6%88%B7+%E5%8D%A1%E9%87%8C%E7%9A%84%E9%92%B1%E6%80%8E%E4%B9%88%E5%8A%9E",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713212",
+            "api_source": "tianapi",
+            "translation": "Banks are clearing dormant accounts; what happens to the..."
+          }
+        },
+        {
+          "title": "4. 六个“新”字看成绩",
+          "value": "指数 7617092",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%AD%E4%B8%AA%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E7%9C%8B%E6%88%90%E7%BB%A9",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617092",
+            "api_source": "tianapi",
+            "translation": "Six \"new\" words to evaluate achievements..."
+          }
+        },
+        {
+          "title": "5. 煎饼摊走红：顾客排队5小时舍不得吃",
+          "value": "指数 7520390",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%85%8E%E9%A5%BC%E6%91%8A%E8%B5%B0%E7%BA%A2%EF%BC%9A%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E8%88%8D%E4%B8%8D%E5%BE%97%E5%90%83",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7520390",
+            "api_source": "tianapi",
+            "translation": "Pancake stall goes viral: customers queue 5 hours but..."
+          }
+        },
+        {
+          "title": "6. 谁在利用1068号段发送诈骗短信",
+          "value": "指数 7429304",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%B0%81%E5%9C%A8%E5%88%A9%E7%94%A81068%E5%8F%B7%E6%AE%B5%E5%8F%91%E9%80%81%E8%AF%88%E9%AA%97%E7%9F%AD%E4%BF%A1",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7429304",
+            "api_source": "tianapi",
+            "translation": "Who is using the 1068 number segment to send scam texts?"
+          }
+        },
+        {
+          "title": "7. 网警侦破非法售卖艺人个人信息案",
+          "value": "指数 7327957",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E9%9D%9E%E6%B3%95%E5%94%AE%E5%8D%96%E8%89%BA%E4%BA%BA%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%A1%88",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7327957",
+            "api_source": "tianapi",
+            "translation": "Cyber police crack case of illegal sale of artists'..."
+          }
+        },
+        {
+          "title": "8. 前三季度中国GDP同比增长5.2%",
+          "value": "指数 7231911",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5.2%25",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7231911",
+            "api_source": "tianapi",
+            "translation": "China's GDP grew by 5.2% year-on-year in Q1-Q3..."
+          }
+        },
+        {
+          "title": "9. 北京气温立秋后首次跌破冰点",
+          "value": "指数 7136279",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8C%97%E4%BA%AC%E6%B0%94%E6%B8%A9%E7%AB%8B%E7%A7%8B%E5%90%8E%E9%A6%96%E6%AC%A1%E8%B7%8C%E7%A0%B4%E5%86%B0%E7%82%B9",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7136279",
+            "api_source": "tianapi",
+            "translation": "Beijing's temperature drops below freezing for the first..."
+          }
+        },
+        {
+          "title": "10. 卢浮宫失窃藏品清单公布",
+          "value": "指数 7043296",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%A4%B1%E7%AA%83%E8%97%8F%E5%93%81%E6%B8%85%E5%8D%95%E5%85%AC%E5%B8%83",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7043296",
+            "api_source": "tianapi",
+            "translation": "The list of stolen items from the Louvre is released..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-20T06:04:10+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7041162",
             "api_source": "tianapi",
             "translation": "South Korea may not be able to grow apples in decades..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-14T10:53:09+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 习近平在全球妇女峰会提出四点建议",
-          "value": "指数 7904789",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%87%BA%E5%9B%9B%E7%82%B9%E5%BB%BA%E8%AE%AE",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904789",
-            "api_source": "tianapi",
-            "translation": "Xi Jinping提出四点建议于全球妇女峰会…"
-          }
-        },
-        {
-          "title": "2. 业主私挖300平地下室致32户开裂",
-          "value": "指数 7809397",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%87%B432%E6%88%B7%E5%BC%80%E8%A3%82",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7809397",
-            "api_source": "tianapi",
-            "translation": "Homeowner's illegal excavation of 300 sqm basement..."
-          }
-        },
-        {
-          "title": "3. eSIM手机来了 移动联通电信均开通",
-          "value": "指数 7712910",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=eSIM%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86+%E7%A7%BB%E5%8A%A8%E8%81%94%E9%80%9A%E7%94%B5%E4%BF%A1%E5%9D%87%E5%BC%80%E9%80%9A",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7712910",
-            "api_source": "tianapi",
-            "translation": "eSIM phones are here; China Mobile, Unicom, and Telecom..."
-          }
-        },
-        {
-          "title": "4. 逆势向上！中国外贸增速逐季加快",
-          "value": "指数 7618177",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%80%86%E5%8A%BF%E5%90%91%E4%B8%8A%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%80%9F%E9%80%90%E5%AD%A3%E5%8A%A0%E5%BF%AB",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618177",
-            "api_source": "tianapi",
-            "translation": "Against the odds! China's foreign trade growth..."
-          }
-        },
-        {
-          "title": "5. 国考年龄放宽了",
-          "value": "指数 7521212",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E8%80%83%E5%B9%B4%E9%BE%84%E6%94%BE%E5%AE%BD%E4%BA%86",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7521212",
-            "api_source": "tianapi",
-            "translation": "The age limit for the national exam has been relaxed..."
-          }
-        },
-        {
-          "title": "6. 男子10年上班路免费搭1156名乘客",
-          "value": "指数 7423643",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B7%E5%AD%9010%E5%B9%B4%E4%B8%8A%E7%8F%AD%E8%B7%AF%E5%85%8D%E8%B4%B9%E6%90%AD1156%E5%90%8D%E4%B9%98%E5%AE%A2",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7423643",
-            "api_source": "tianapi",
-            "translation": "Man gives free rides to 1,156 passengers over 10 years..."
-          }
-        },
-        {
-          "title": "7. 净网：网警带你看“网恋女友”杀熟局",
-          "value": "指数 7327662",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E8%AD%A6%E5%B8%A6%E4%BD%A0%E7%9C%8B%E2%80%9C%E7%BD%91%E6%81%8B%E5%A5%B3%E5%8F%8B%E2%80%9D%E6%9D%80%E7%86%9F%E5%B1%80",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7327662",
-            "api_source": "tianapi",
-            "translation": "Clean Internet: Cyber police expose \"online girlfriend\"..."
-          }
-        },
-        {
-          "title": "8. 商务部：中美昨天进行了工作层会谈",
-          "value": "指数 7235984",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E4%B8%AD%E7%BE%8E%E6%98%A8%E5%A4%A9%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%B7%A5%E4%BD%9C%E5%B1%82%E4%BC%9A%E8%B0%88",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7235984",
-            "api_source": "tianapi",
-            "translation": "Ministry of Commerce: China and the U.S. held talks..."
-          }
-        },
-        {
-          "title": "9. 林诗栋比赛时无人机飞过整懵解说",
-          "value": "指数 7139750",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9E%97%E8%AF%97%E6%A0%8B%E6%AF%94%E8%B5%9B%E6%97%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E8%BF%87%E6%95%B4%E6%87%B5%E8%A7%A3%E8%AF%B4",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7139750",
-            "api_source": "tianapi",
-            "translation": "During Lin Shidong's match, a drone flew by, confusing..."
-          }
-        },
-        {
-          "title": "10. 王楚钦在印度真的很小心",
-          "value": "指数 7048172",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%9C%9F%E7%9A%84%E5%BE%88%E5%B0%8F%E5%BF%83",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7048172",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin is really cautious in India..."
           }
         }
       ]
