@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-21T10:56:29+08:00",
+  "generated_at": "2025-10-21T14:02:13+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-21T14:02:13+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 卢浮宫劫案可能是粉红豹所为",
+          "value": "1082684 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%8A%AB%E6%A1%88%E5%8F%AF%E8%83%BD%E6%98%AF%E7%B2%89%E7%BA%A2%E8%B1%B9%E6%89%80%E4%B8%BA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1082684",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Louvre heist may be the work of the Pink Panthers..."
+          }
+        },
+        {
+          "title": "2. 东北网友拍下不少燕子滞留没南飞",
+          "value": "408995 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E5%8C%97%E7%BD%91%E5%8F%8B%E6%8B%8D%E4%B8%8B%E4%B8%8D%E5%B0%91%E7%87%95%E5%AD%90%E6%BB%9E%E7%95%99%E6%B2%A1%E5%8D%97%E9%A3%9E&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 408995",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Northeast netizens capture swallows stranded, not..."
+          }
+        },
+        {
+          "title": "3. 前三季度中国GDP同比增长5.2%",
+          "value": "294670 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5.2%25&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 294670",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "China's GDP grew 5.2% year-on-year in the first three..."
+          }
+        },
+        {
+          "title": "4. 女性健康关爱行动",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E6%80%A7%E5%81%A5%E5%BA%B7%E5%85%B3%E7%88%B1%E8%A1%8C%E5%8A%A8&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Women's Health Care Initiative..."
+          }
+        },
+        {
+          "title": "5. 日本迎来首位女首相",
+          "value": "286057 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 286057",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Japan welcomes its first female Prime Minister..."
+          }
+        },
+        {
+          "title": "6. 冷冷冷冷冷如何正确保暖 [重磅]",
+          "value": "284630 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BF%9D%E6%9A%96&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 284630",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "How to keep warm in the cold..."
+          }
+        },
+        {
+          "title": "7. 高市早苗当选首相",
+          "value": "283300 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E9%A6%96%E7%9B%B8&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 283300",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Sanae Takaichi elected as Prime Minister..."
+          }
+        },
+        {
+          "title": "8. 梭子蟹里都是寄生虫不能吃是谣言 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%AD%E5%AD%90%E8%9F%B9%E9%87%8C%E9%83%BD%E6%98%AF%E5%AF%84%E7%94%9F%E8%99%AB%E4%B8%8D%E8%83%BD%E5%90%83%E6%98%AF%E8%B0%A3%E8%A8%80&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The claim that crabs are full of parasites and inedible..."
+          }
+        },
+        {
+          "title": "9. 交换人生官宣",
+          "value": "281443 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%A4%E6%8D%A2%E4%BA%BA%E7%94%9F%E5%AE%98%E5%AE%A3&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 281443",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Life Swap officially announced..."
+          }
+        },
+        {
+          "title": "10. 印度人全球爆买白银",
+          "value": "279699 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%85%A8%E7%90%83%E7%88%86%E4%B9%B0%E7%99%BD%E9%93%B6&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 279699",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Indians are buying silver globally in large quantities..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-21T10:56:29+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Into the scene, film adaptation..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-15T14:02:11+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 洞洞鞋下岗勃肯鞋上岗",
-          "value": "1097046 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%9E%E6%B4%9E%E9%9E%8B%E4%B8%8B%E5%B2%97%E5%8B%83%E8%82%AF%E9%9E%8B%E4%B8%8A%E5%B2%97&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1097046",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Crocs are out, Birkenstocks are in..."
-          }
-        },
-        {
-          "title": "2. 缅北果敢魏家犯罪集团专案细节曝光 [新]",
-          "value": "347738 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BC%85%E5%8C%97%E6%9E%9C%E6%95%A2%E9%AD%8F%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E4%B8%93%E6%A1%88%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 347738",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Details of the Weijia crime group case in northern..."
-          }
-        },
-        {
-          "title": "3. 万千气象看天津",
-          "value": "333987 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%A4%A9%E6%B4%A5&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 333987",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Tianjin: A myriad of landscapes..."
-          }
-        },
-        {
-          "title": "4. 丁禹兮千仞岗羽绒服品牌代言人",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8D%83%E4%BB%9E%E5%B2%97%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Ding Yuxi is the brand ambassador for Qianren Gang down..."
-          }
-        },
-        {
-          "title": "5. 全运会乒乓球决赛参赛运动员名单",
-          "value": "327419 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E5%86%B3%E8%B5%9B%E5%8F%82%E8%B5%9B%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%8D%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 327419",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "List of athletes for the table tennis finals at the..."
-          }
-        },
-        {
-          "title": "6. Doinb怒喷TheShy [官宣]",
-          "value": "310250 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DDoinb%E6%80%92%E5%96%B7TheShy&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 310250",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Doinb angrily criticizes TheShy..."
-          }
-        },
-        {
-          "title": "7. 短剧折腰",
-          "value": "剧集 306075 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9F%AD%E5%89%A7%E6%8A%98%E8%85%B0&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 306075",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Short play \"Bowing Down\"..."
-          }
-        },
-        {
-          "title": "8. HBN万人抗老挑战 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DHBN%E4%B8%87%E4%BA%BA%E6%8A%97%E8%80%81%E6%8C%91%E6%88%98&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "HBN's 10,000 People Anti-Aging Challenge..."
-          }
-        },
-        {
-          "title": "9. 杨瀚森库里互飙三分",
-          "value": "261847 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%BA%93%E9%87%8C%E4%BA%92%E9%A3%99%E4%B8%89%E5%88%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 261847",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Yang Hansi and Curry exchange three-pointers..."
-          }
-        },
-        {
-          "title": "10. 央视梳理缅北魏家覆灭之路",
-          "value": "261832 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E6%A2%B3%E7%90%86%E7%BC%85%E5%8C%97%E9%AD%8F%E5%AE%B6%E8%A6%86%E7%81%AD%E4%B9%8B%E8%B7%AF&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 261832",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "CCTV analyzes the downfall of the Wei family in northern..."
           }
         }
       ]
