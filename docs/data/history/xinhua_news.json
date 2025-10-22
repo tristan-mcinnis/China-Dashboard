@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-10-22T06:05:24+08:00",
+  "generated_at": "2025-10-22T11:01:18+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-22T11:01:18+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息丨2025年前三季度国内49.98亿人次出游",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlxOFcxRlE5TVcyblV0cGpfWFYzMmg0VmgxVE1ONXhoNTY3Z2k0STdUbmg0QXhrNjJfME1Bb09rWU1IV1F1TGIzNnJjMmxFZXFBUmRhcFNzY3E2MjRLNEtqODRFN1AzdDQxcDloaUhaRnhXNkhVdzFDTWZ4S0RQNWpmZTM5RHdX?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-21T05:39:34Z",
+            "summary": "新华社消息丨2025年前三季度国内49.98亿人次出游 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: 4.998 billion domestic trips by Q3 2025..."
+          }
+        },
+        {
+          "title": "思想之光照亮奋进之路——以习近平同志为核心的党中央引领中国经济社会高质量发展迈向新境界",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUFxdURGMGMtQXdXSnZTZVVENUhuTGVMZThBT1FmZXE4cXg4OVFwNGVaeGpSd3RHS282OHg2elpXb3hvaHVzekNMc3RvNDRUVDQ0WDJ0S0t2OVItSXVIRFhYNjc0NUloV3MxUi1rNDRrTmp1Z29HSzF0cDBrbkJuRFRsWjJuLV82?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-21T05:43:20Z",
+            "summary": "思想之光照亮奋进之路——以习近平同志为核心的党中央引领中国经济社会高质量发展迈向新境界 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The light of thought illuminates the path of progress..."
+          }
+        },
+        {
+          "title": "韩正会见美国俄勒冈州参议长瓦格纳",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFJ0SUJ0RWRJSExvZHJPUnF1OXEwLVFvUnFRcWNkeDlFSG0yc1hOSklhdWF5QUF6cU1SdWItLXRJd2htLU94cmxSZ0dlb1RLYU9CMklxTk9YY3hVRGUzREtzV3RVU0JlODB6T0h5X2hLd2hURXQ0a2JQRkJURFNpWmxUZFlGQQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-21T01:59:27Z",
+            "summary": "韩正会见美国俄勒冈州参议长瓦格纳 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Han Zheng meets Oregon Senate President Wagner..."
+          }
+        },
+        {
+          "title": "4名科学家获颁2025年度邵逸夫奖",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDRkOHBFeHc0NThEVjBETk9URExtLXBMOF9td0p3UENyZ3ZGSUg4bEJRMmpZWFdKWERqYUF4c29iSDFGVTNEU2I4bjUxNTRQWjhZXzFadklBS1c4SkoteFBzSzBtSGo3ZnoyekNjTS13QklHbkVHQnNpeV80a0lUQzBNZmdPQXM?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-21T07:03:06Z",
+            "summary": "4名科学家获颁2025年度邵逸夫奖 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Four scientists awarded the 2025 Shaw Prize..."
+          }
+        },
+        {
+          "title": "海峡两岸书画名家纪念抗战胜利暨台湾光复80周年主题创作展在京开幕",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3FhZWNGYVJXMm9yeWxPY1FQWlN2dk1lTzlGTHFQVUhDaEVVWnExMXNCLWk2VEcycDIzUVp2dzlVcXVqeDdocWt4aHlwNkVvd2VMOVV6ZHlRVTBVaHBNWEFaSXF2NkZIVXVLUmw0a0ZQNnpvaWc0ZXFrejd3TlZyeWxvYVU?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-20T19:23:20Z",
+            "summary": "海峡两岸书画名家纪念抗战胜利暨台湾光复80周年主题创作展在京开幕 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Exhibition on Anti-Japanese War victory opens in Beijing..."
+          }
+        },
+        {
+          "title": "新华社消息｜2025年前三季度国内49.98亿人次出游",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR291c1JNQVk0UkdNUWdxWGJqV01DbGZ6Zy1xVi1RSFBGOEpyek1rRkdPdTFHb3N5ZVJfeV95cWQ5WXFuVTVoUm5BQ1pubFR1VTZzV1RmNjZsMWhqRWVuWGh0aVN5VmhtbE1aNGloYUNlcl9xenlpWEdVSlNYaFVqUnFn?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-21T17:01:31Z",
+            "summary": "新华社消息｜2025年前三季度国内49.98亿人次出游 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: 4.998 billion domestic trips by Q3 2025..."
+          }
+        },
+        {
+          "title": "2025年前三季度国内49.98亿人次出游",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYzZmNUUxQ2MzWExqNkZxRW54cGg4VzJoRENoZWJJbngtY3RGN1NkbVpxNWdHWE5lMjI1Z2toNnFtdG5BV1A2NE05RHg1em5rODQ1Y2kwRHJnbmo4Mm9kLWd6cDNpdjd2VUY5XzBOS0FaelZ1UlNrZVRPbjFpSG5jT1lGRVZkVUF2?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-21T02:26:31Z",
+            "summary": "2025年前三季度国内49.98亿人次出游 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "49.98 billion domestic trips taken in the first three..."
+          }
+        },
+        {
+          "title": "权威解读丨从前三季度成绩单看中国经济发力点",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFloYkZGN0did1RSSXBNcWY3Y01ReWhOS0RZdnRQcEpZb3lJcjYwVHVESGozNVJUSEhteXFzMk1OdjY0ejF2U2NFOGR3TFh3NnBhVGZ3ajM1eUtjRkp1dGxwUHhwa2x1cm5jUldWc0NpV0FWQWFIYnFBckpocm8yekdjblVpMUtR?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-21T01:41:49Z",
+            "summary": "权威解读丨从前三季度成绩单看中国经济发力点 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Authoritative interpretation: Insights on China's..."
+          }
+        },
+        {
+          "title": "苏丹喀土穆国际机场等地遭无人机袭击",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jUUpsckdxSFJtUGpDNlk5S2FjWTh1RkhQSDIwaG9qRWFXYlBFeUJ1aDdCV09VVXhoN3owVVRYUkdQUUREdVJUcU4wcV9NWWZEUFVZY2ZUTTFVTFNwTjlNTGxNWWRjdlZzS2xYVWJUVXgzRVNjS0VLbHhYTjFVUQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-21T05:23:08Z",
+            "summary": "苏丹喀土穆国际机场等地遭无人机袭击 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Khartoum International Airport in Sudan hit by drone..."
+          }
+        },
+        {
+          "title": "赛晶科技3家子公司新晋国家级专精特新“小巨人”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDNic2ZEOTJVY2ZpTEx3TWhrLWVOX1UtN25HVXVJd0Q4OWxqU0tZWUN5YkNJV0RHNFlEbDZqT3J1cVh5eGV3ei1kOHRMa0ozOUNWV2IwWHBiZVpaMnVTZWZIT3c1SG9JQU9nVTBJbDN2WmhKVkQtVVRWVUVGSzFkNTByWjBGZ1dj?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-20T23:31:46Z",
+            "summary": "赛晶科技3家子公司新晋国家级专精特新“小巨人” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Saijing Technology's 3 subsidiaries recognized as..."
+          }
+        },
+        {
+          "title": "赛晶科技3家子公司新晋国家级专精特新“小巨人”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDNic2ZEOTJVY2ZpTEx3TWhrLWVOX1UtN25HVXVJd0Q4OWxqU0tZWUN5YkNJV0RHNFlEbDZqT3J1cVh5eGV3ei1kOHRMa0ozOUNWV2IwWHBiZVpaMnVTZWZIT3c1SG9JQU9nVTBJbDN2WmhKVkQtVVRWVUVGSzFkNTByWjBGZ1dj?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-20T23:31:46Z",
+            "summary": "赛晶科技3家子公司新晋国家级专精特新“小巨人” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Three subsidiaries of Saijing Technology become national..."
+          }
+        },
+        {
+          "title": "“小物件”闯出“大市场”——从一位浙商的生意版图看“十四五”外贸发展",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84SG1KejVMY1VnUm5sWFd5TXVRem0xQkZoMVNBTFBTRGs5ZF9UOFh5aUgwYnViTzVGWllya3h5VmQxNlBqb0hWaGptVjdSTDhYRlpYcHVVSC10Z01YeTRpNGhqb2pLejN2a3BybzhfaXFJS2t0SFEtU3c5ZThjdw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-21T18:08:24Z",
+            "summary": "“小物件”闯出“大市场”——从一位浙商的生意版图看“十四五”外贸发展 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"Small items\" break into \"big markets\" - Zhejiang..."
+          }
+        },
+        {
+          "title": "用新的伟大奋斗创造出新的历史伟业——从“十四五”看中国力量",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckFTYnUwTkw5ZHhqcFVHY1FLR3FuNGExYkVBYi1ZQjQzUkVMbGFGNzNTZ3JuSmUwRTFmVWxiVUFiTGtwN0ZGQnpSRGRBcGVVYWJtU2hWWV9HRmhCR1R4S19yamI1cUlkRUJITTl1d2VibE5uMEo0S1Jia0FkSmpyWDd6Y244SEFG?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-21T07:08:38Z",
+            "summary": "用新的伟大奋斗创造出新的历史伟业——从“十四五”看中国力量 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Creating new historical achievements through great..."
+          }
+        },
+        {
+          "title": "思想之光照亮奋进之路——以习近平同志为核心的党中央引领中国经济社会高质量发展迈向新境界",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUFxdURGMGMtQXdXSnZTZVVENUhuTGVMZThBT1FmZXE4cXg4OVFwNGVaeGpSd3RHS282OHg2elpXb3hvaHVzekNMc3RvNDRUVDQ0WDJ0S0t2OVItSXVIRFhYNjc0NUloV3MxUi1rNDRrTmp1Z29HSzF0cDBrbkJuRFRsWjJuLV82?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-21T05:43:20Z",
+            "summary": "思想之光照亮奋进之路——以习近平同志为核心的党中央引领中国经济社会高质量发展迈向新境界 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The light of thought illuminates the path of progress..."
+          }
+        },
+        {
+          "title": "4名科学家获颁2025年度邵逸夫奖",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDRkOHBFeHc0NThEVjBETk9URExtLXBMOF9td0p3UENyZ3ZGSUg4bEJRMmpZWFdKWERqYUF4c29iSDFGVTNEU2I4bjUxNTRQWjhZXzFadklBS1c4SkoteFBzSzBtSGo3ZnoyekNjTS13QklHbkVHQnNpeV80a0lUQzBNZmdPQXM?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-21T07:03:06Z",
+            "summary": "4名科学家获颁2025年度邵逸夫奖 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Four scientists awarded the 2025 Shaw Prize..."
+          }
+        },
+        {
+          "title": "赛晶科技3家子公司新晋国家级专精特新“小巨人”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDNic2ZEOTJVY2ZpTEx3TWhrLWVOX1UtN25HVXVJd0Q4OWxqU0tZWUN5YkNJV0RHNFlEbDZqT3J1cVh5eGV3ei1kOHRMa0ozOUNWV2IwWHBiZVpaMnVTZWZIT3c1SG9JQU9nVTBJbDN2WmhKVkQtVVRWVUVGSzFkNTByWjBGZ1dj?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-20T23:31:46Z",
+            "summary": "赛晶科技3家子公司新晋国家级专精特新“小巨人” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Saijing Technology's 3 subsidiaries recognized as..."
+          }
+        },
+        {
+          "title": "科技筑起防灾减灾“智慧防线”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CTWJQNUNsMEFpS0t2emFYOHpTOVNfbEJ1dWpRY2hfVl93UXROa2U2WThrT1ZrVDVzeHB0MDlLTlQ4allJNjZCVnh1cktOYktEZnNJX01jV2UtdzFDaVppTVUxb1VZSDdHMHA0aWpyYk1ORFRRWlMzY2NXald5Zw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-20T22:59:18Z",
+            "summary": "科技筑起防灾减灾“智慧防线” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Technology builds a smart defense line for disaster..."
+          }
+        },
+        {
+          "title": "吃得更健康 科技范更强——展会里的乡村产业发展新动向",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15d18xQ1hBYVZBcUpEa1UzZ1RydmV5d3hUWXltalVYeExIUjM1eHdDVXduMzd3TXpkelVXUDdFdjgwRXVySTdZUzNUX2J0S2xvVzdLMWoySmpHQWF5RWtLa3daTjBaeGc3M0dxdUZBN0VqTWduUF9aSDlLa0tWUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-21T06:01:26Z",
+            "summary": "吃得更健康 科技范更强——展会里的乡村产业发展新动向 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Eating healthier with stronger tech vibes—new trends in..."
+          }
+        },
+        {
+          "title": "香港江苏科创中心启用",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdlk5UVB3dkt2R0VaSEtmdGdsb1pSeEI1UE1ENjdIczFpQmUwV25lSkNPRjdEUXVZVThqX0RNbUdHcktHNS1nMWREUDM4WUJ4WXk4djU1OVB6OFNuQlVqVUI3OFNCOTRya0NpVnM4bUFwZFBnNkVBbTgxUlM5SDZ5WExrZUE0ekU?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-21T06:34:08Z",
+            "summary": "香港江苏科创中心启用 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hong Kong Jiangsu Innovation Center is now operational..."
+          }
+        },
+        {
+          "title": "海尔联合央视发起《挑战新可能》",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXJLdlAtYU1oWVpraUQ5RjhXLVQxalhqSTVOQ0t0UHJYb0c5RkJfN0tZT1RNZlpPM3BKNWZOOVI1WEJrMTZvWUJxenFfWFRDT2xucG5ybUJ2Q1M0Z3k3d3h4UWxsMC10R2hRYkRjd2tNV19QekN6QWRxRDhNMThrQjB4Tjk?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-21T01:02:02Z",
+            "summary": "海尔联合央视发起《挑战新可能》 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Haier partners with CCTV to launch \"Challenge New..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-22T06:05:24+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7673,272 +7939,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "Stable performance and strong momentum—Star Market..."
-          }
-        },
-        {
-          "title": "习近平：推动落实全球发展倡议、全球安全倡议、全球文明倡议、全球治理倡议",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3BGcmFxM2RsOVhOOXp1LUgyN2NwUy1EODFpZ0JJWDFEQ1YycktJekxJRTdHd3FJLXFsRnl6U0t4Yks5ZnJMbG1Hc0tCTVNrcmpLeTRVWkJDUndJUU1NM3RGeE5SVFBycElzdTl2MnhlczNXZkdwbVRhaXJzcVVodm5fWndwTlVyZ0FmVF9mTTBubGZH?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-14T23:23:47Z",
-            "summary": "习近平：推动落实全球发展倡议、全球安全倡议、全球文明倡议、全球治理倡议 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xi Jinping: Promote global development, security,..."
-          }
-        },
-        {
-          "title": "创新开路 破局而立——安徽自贸试验区五周年观察",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRERjSkdBalBKYWlwbEhnbDA2VjAyRkd3bDMtazRFcUlYNHJQc0Fvbm9LX19OVWdBelJKY1NsSXpMTkI3VXFSMGFqMXB0bWZLblhZeWNBbVh4ZHp3blpGOEw3N2JDbmwwblV3VHRma1VNdDgyTXY2SW84ZmphVzRPTldTT3lpaUd1?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-15T06:06:01Z",
-            "summary": "创新开路 破局而立——安徽自贸试验区五周年观察 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Innovating to pave the way: Observations on Anhui FTZ's..."
-          }
-        },
-        {
-          "title": "2025中国钢结构大会在南宁召开",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkIwdjQ4ajdpcjBnLWRWVjhlQng5MENvdWhya0taQWtUc08tRFduRlB6d3hGOVJpUmZYMGROTlpzaVNQTmc2R3JkTzFoQzlORlFsYkt6dGh5TVd2a3h0YkdWVDBpYlYyZDJTRWk5N3hwSzNiTkQ0Q3ZaREdIcFIwN3dTYUo?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-15T01:16:29Z",
-            "summary": "2025中国钢结构大会在南宁召开 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The 2025 China Steel Structure Conference will be held..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-16T10:54:59+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "新华社消息｜第138届广交会开幕 参展企业超3.2万家创历史新高",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzJzWjJ2SzlrMmJMbUtrRDVKdWdNbVJ5bzRLLWUzbWJ0Rm9odnYyN0ZZMUQ3eHJXcUsxLUdUeFRVLUNLMmlJZDhVdDFxcmYyQ1NJaHdlTXdUX211V0JiT19SODJCeDZxdFV6Q2tJVTE2WjVyOEZpUWg3Yi1talA2SUJuRlFxajV3?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-14T23:27:04Z",
-            "summary": "新华社消息｜第138届广交会开幕 参展企业超3.2万家创历史新高 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The 138th Canton Fair opens with over 32,000 exhibitors..."
-          }
-        },
-        {
-          "title": "山东济南：群泉奔涌",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWhkcl9YaW11ZkVodWFMNkhTZWRhWjFZRGtnVTdsZ2lMYU45N1R1ZFNFTkFUMnpvZzJRV0ZWRnZYdFEzSzBYeENnQmdtUmRiQk1CdHhlMktDTUpfYi1FalkzekxkUk9qRzhLZUY5N2JTamU1bDhwNE9PaEFxVnBscThiX2JJY3ljSkNQZWxtTQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-15T01:35:14Z",
-            "summary": "山东济南：群泉奔涌 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Shandong Jinan: Springs Gushing Forth..."
-          }
-        },
-        {
-          "title": "正当时：2025年10月16日",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVYzZ2pYT3NBbU5PWm9IalZCRk1IaWJOazJvOF9OU2RpNWRuUktZd1BUcjBkcExocll4WGNlbEFmWENRcm5zdTB6Vm96Y0ltbXB2a1dMUG5NZEc0bFlsaDFrLWpXZGNDUnFBU1UzSHM5OExBM2VEUkQ1MFZldzJ4am5acUd4YkZOU0JFQw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-15T16:43:02Z",
-            "summary": "正当时：2025年10月16日 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Just in time: October 16, 2025..."
-          }
-        },
-        {
-          "title": "甘肃敦煌：金秋大漠胡杨醉游人",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeDFuTEI4ZkxBcUNKc0FIaTZuZl9IWXZ0YzJ4SFlJZVRuaDlJcGp2eU40OFZaRTh3SDJOdEdqaUFZTFdMYTlSMVhCeWxSWmtJVllZanpGNEFkQUxQWVZPVFN1T0NyLTNzMXlaRjhlLXVucFhJM3RpRFk4cVluMXJGQUVCTlItUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-15T04:49:48Z",
-            "summary": "甘肃敦煌：金秋大漠胡杨醉游人 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Dunhuang, Gansu: Autumn desert poplars enchant visitors..."
-          }
-        },
-        {
-          "title": "“对话中国”国际研讨会在贝尔格莱德举行",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX2R1WjRJZlVvOExCZE45UWdEYldYbnFjXy1wWEVMbWQ0eTZkc2xhU2RreTNBNi1YOUNBTGpPcTNuWjlwTVp3YmhXb0NVLTVScU9WVjYxWmlFUHM2Rng2TmVLd2hYNlNId0F6ZklzVzhjdXp1cDI0OGkwOUdSbDZpc3ZMSDcwQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-15T11:54:50Z",
-            "summary": "“对话中国”国际研讨会在贝尔格莱德举行 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The \"Dialogue with China\" international seminar held in..."
-          }
-        },
-        {
-          "title": "中国生物制药乳腺癌领域重磅产品临床数据将在ESMO年会公布",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb01lZFBLeU9LNk1xWGdBZ1FldTFzRHNqZkMtOHRCWkZpZTU2SWR4d3ptZGZPUTVqNGVQbUNIdDJMUmNyb3E3bHNuVUsxQzVuSW8xRHo3VHNfZVQ4OWE1ZzRXS09TSDR6WmxMbTB4VlR3cnNETEFiWWJzWHVqNnlQZzBQYnJza1lq?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-15T01:33:17Z",
-            "summary": "中国生物制药乳腺癌领域重磅产品临床数据将在ESMO年会公布 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China's biopharmaceuticals to unveil breast cancer data..."
-          }
-        },
-        {
-          "title": "2025中国国际矿业大会将创设矿业权转让大市场",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yTkF4dWlGeVNHamZRTTZuekladC16dlNNNURES0VmMmZzYWZ6M1czMy15SU5tajJvaHkyM0UwU3o3VFA5b1ZJQ0staVJ0dWN3cGZwMXFvWU5DckRSOUhGdFpBUHh2YnNVSEpiUkZyaWxWZW55Ui1hSlJ6TGF3Zw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-15T05:37:26Z",
-            "summary": "2025中国国际矿业大会将创设矿业权转让大市场 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The 2025 China International Mining Conference will..."
-          }
-        },
-        {
-          "title": "黄金类上市公司业绩大增",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40WUhiaGZpbEc3VC00ekU2QVJqaFpXSGlMQmE3Q1d1RGVtenRob2kyc2NBNmxJTHFxcWxCS1VFTDZIZGhBOS03NnR6WVBzZmpYRkxrRVlHLXJrVDg5ZzhqWDZpRDNnNjloUjZ6US0wUlNjYUN2c3AxUEtiVUV4QQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-15T18:07:03Z",
-            "summary": "黄金类上市公司业绩大增 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Gold companies see significant performance increase..."
-          }
-        },
-        {
-          "title": "中国国际大学生创新大赛（2025）在河南收官",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSV9PYlRsTlA5RjltVXRFYnpiWkx5NXRJOFdydXpMNVU3dE9RclJMYjQyOFRWek5fRmdQZWxUNWNIci14UDFoRkJaSFhNakFqYUlHb0lLd3ZhWTk0RTJJQzVSRU0xS3JIY0VUZ28ta3luM095YXgtdkw5c1Bkck1DYmROQWNEdw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-15T16:24:58Z",
-            "summary": "中国国际大学生创新大赛（2025）在河南收官 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The China International College Students Innovation..."
-          }
-        },
-        {
-          "title": "东京股市明显反弹",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd19OUk1ySEJ0ekppaWNiYkZlX0VGS2JrUmZaN1lMSVByRHRGaW1hTlVYRTRPRGUyWGhwSUNUZjJOaGUzbmU4ZDJ4TVZiX3JES01yaUtrODBESWVraTRsd3VPcHd6SmZZR2x0SGtWMGdEaWoyYVozN1dUdUp1dzhTbl8tLXFtQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-15T00:43:19Z",
-            "summary": "东京股市明显反弹 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Tokyo stock market shows significant rebound..."
-          }
-        },
-        {
-          "title": "上海财经大学工商管理硕士构建商学教育新生态",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObTdNdVdqNXNzOUV5V0VxNnhJenVjZ3N2Ql9Vb3lNUS01cm1rcTAwUnRwc1NFNzdWOGdRb1ZOaE5CZ093WUtlZXp4MndRbnRKdG51LUJ3MUpRZTJlMmVieElRekxPSUl1aWdyWHpUSUVibEc4R0VEWkVvaWlSRU1CeTloTQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-14T18:57:32Z",
-            "summary": "上海财经大学工商管理硕士构建商学教育新生态 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Shanghai University of Finance and Economics builds a..."
-          }
-        },
-        {
-          "title": "财经聚焦丨金融支持稳固有力 折射经济发展亮点——解读前三季度金融数据",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVhqWXVOUnpaQmlEdEE3a1BQcURpZy1JLWpxV3FHT1FnSzVSUW1WS2VyR3Rpa3hZakxDOUtLMGdTV09ZeEo1QVdzZ09zZ1dweWNZQWdaT2ppMFV4ZWhsSWZReHdsWjFfb2w1cl9UejNPZ2FsY21xXzdGSmNISVVINTNKQ3RlSTdu?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-15T05:23:51Z",
-            "summary": "财经聚焦丨金融支持稳固有力 折射经济发展亮点——解读前三季度金融数据 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Financial support strengthens stability, reflecting..."
-          }
-        },
-        {
-          "title": "财经聚焦丨核心CPI重回1%，9月物价数据透出哪些信号？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFRrNGZkNDBHbzY4QnlZWE9scGxJTFlfYkh0RzdnQURSd0FrMTRVd0VYRUFXOGdoLVRkZ3hFUndxMjZEek96V25tS2ZlaW45WUQ4ZkFTX2ZOXzFMUXVPZG1mcjVzRXBDRWI4QzZDQm14UXNwVlVIOFZhZHRuNkJEX2tyalQ1TnZP?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-15T04:59:27Z",
-            "summary": "财经聚焦丨核心CPI重回1%，9月物价数据透出哪些信号？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Economic Focus: Core CPI returns to 1%, what signals..."
-          }
-        },
-        {
-          "title": "更具吸引力和包容性——用数据丈量资本市场的量质升级",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2Uwa1hoeUptR1dnVVlSZjVnb2dLRTR5QlNkVFJCWVBxZFNadm1TS3NhSlFwQXUtR0VkTEdBZzdHT2ZmYjVTTFV1UE5ERFhSYVZrUTlRclJiblEzZTBQeGlRQjJhZjZSQ0pnaHZodktGcDVFalhTS1VvelE3NjlhY3Z4SU93Njhs?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-15T18:00:56Z",
-            "summary": "更具吸引力和包容性——用数据丈量资本市场的量质升级 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "More attractive and inclusive—measuring capital market..."
-          }
-        },
-        {
-          "title": "德雷克海峡发生6.3级地震",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vYXY0Zjc5bk1yblRxYlV2dHhmYy1zcjJTUVJaMHNNM2w4RU9XOU9nQm9GeW1vQ1pRVjZiaUlWWWJMTWNSbzJOVkpZYWNqU2J1UWlWR21ieVBHS0p3aUVXWFB2Vi1aVHNOZktaZEpLQmpBcFZqZnlNTkFKYlpUZw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-15T18:18:50Z",
-            "summary": "德雷克海峡发生6.3级地震 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "A 6.3 magnitude earthquake struck the Drake Passage..."
-          }
-        },
-        {
-          "title": "习近平总书记关切事｜沃野“攀高”记",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWE5SllOVjJNa0RTbXhrLTdVYzhHQ25IcGNCUFE5TXhDOUZySFJ3THBlU1dKakMtdzhXUF91Rmwybzc0QTBSSW1KWnlLblR0Ymh6X2t0SmIzVUtiazZtV3VlZlZGU1hHUUZ1Z2VpcEs5aGY3NkdUVWFYWTA5N2hfSjNjWTlOYzc2anE2YXJ0cTJNUVBM?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-15T03:49:14Z",
-            "summary": "习近平总书记关切事｜沃野“攀高”记 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "General Secretary Xi Jinping's concerns: A record of..."
-          }
-        },
-        {
-          "title": "业绩稳、动能强——上半年科创板公司表现亮眼",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmVjYzNDRnFWNXdWTGcxREpvVHozYlB4YlFaeGo0MHRSNTJScWJRSTA2WE1HUkJ3NkFOTjUweHpldFBVU2xUYzQzZXNOSXJrYUhMMURpbFRXbzMzcmt0Y19TZG5rQzVQWlJTQy10YU80WlU0VmdsazRGdmZKakE0V0UyaS1JN3cw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-15T00:14:07Z",
-            "summary": "业绩稳、动能强——上半年科创板公司表现亮眼 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Strong performance and momentum in the sci-tech board..."
           }
         },
         {
