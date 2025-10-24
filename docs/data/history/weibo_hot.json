@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-24T22:08:50+08:00",
+  "generated_at": "2025-10-25T06:04:18+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-25T06:04:18+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 台湾重回中国版图80年了",
+          "value": "274971 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E9%87%8D%E5%9B%9E%E4%B8%AD%E5%9B%BD%E7%89%88%E5%9B%BE80%E5%B9%B4%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 274971",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Taiwan has been back under China's rule for 80 years..."
+          }
+        },
+        {
+          "title": "2. 科学家称外星人或已懒得理我们 [热]",
+          "value": "87471 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%B7%B2%E6%87%92%E5%BE%97%E7%90%86%E6%88%91%E4%BB%AC&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 87471",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Scientists say aliens may have grown tired of us..."
+          }
+        },
+        {
+          "title": "3. 世界市长对话郑州",
+          "value": "52809 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E9%83%91%E5%B7%9E&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 52809",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "World Mayors Dialogue in Zhengzhou..."
+          }
+        },
+        {
+          "title": "4. 花儿与少年在京东11.11直播",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E5%9C%A8%E4%BA%AC%E4%B8%9C11.11%E7%9B%B4%E6%92%AD&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Flowers and Youth live on JD's 11.11 event..."
+          }
+        },
+        {
+          "title": "5. 设台湾光复纪念日",
+          "value": "51386 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AE%BE%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 51386",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Establish Taiwan's Restoration Day..."
+          }
+        },
+        {
+          "title": "6. KK园区上千人趁乱逃离 [好物]",
+          "value": "41414 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKK%E5%9B%AD%E5%8C%BA%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B6%81%E4%B9%B1%E9%80%83%E7%A6%BB&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 41414",
+            "tag": "好物",
+            "api_source": "tianapi",
+            "translation": "Over a thousand people fled in chaos from KK Park..."
+          }
+        },
+        {
+          "title": "7. 邱莹莹我开始理解你了",
+          "value": "剧集 40459 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%82%B1%E8%8E%B9%E8%8E%B9%E6%88%91%E5%BC%80%E5%A7%8B%E7%90%86%E8%A7%A3%E4%BD%A0%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 40459",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Qiu Yingying, I am starting to understand you..."
+          }
+        },
+        {
+          "title": "8. 王者荣耀崩了",
+          "value": "38838 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 38838",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Honor of Kings is down..."
+          }
+        },
+        {
+          "title": "9. 水龙吟",
+          "value": "剧集 38746 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E9%BE%99%E5%90%9F&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 38746",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Water Dragon Chant..."
+          }
+        },
+        {
+          "title": "10. 抗美援朝纪念日",
+          "value": "33201 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E7%BA%AA%E5%BF%B5%E6%97%A5&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 33201",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Korean War Memorial Day..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-24T22:08:50+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "75 years ago today, the Volunteer Army crossed the Yalu..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-19T06:03:55+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 北京下雪了",
-          "value": "224954 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 224954",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "It snowed in Beijing..."
-          }
-        },
-        {
-          "title": "2. 今年秋冬或形成一次弱拉尼娜事件",
-          "value": "67142 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%86%AC%E6%88%96%E5%BD%A2%E6%88%90%E4%B8%80%E6%AC%A1%E5%BC%B1%E6%8B%89%E5%B0%BC%E5%A8%9C%E4%BA%8B%E4%BB%B6&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 67142",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "This autumn and winter may see a weak La Niña event..."
-          }
-        },
-        {
-          "title": "3. 非凡十四五",
-          "value": "39510 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%9E%E5%87%A1%E5%8D%81%E5%9B%9B%E4%BA%94&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 39510",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Extraordinary 14th Five-Year Plan..."
-          }
-        },
-        {
-          "title": "4. 凌晨三点叫你出来玩你不出来",
-          "value": "38641 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E5%8F%AB%E4%BD%A0%E5%87%BA%E6%9D%A5%E7%8E%A9%E4%BD%A0%E4%B8%8D%E5%87%BA%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 38641",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "You won't come out to play at three in the morning..."
-          }
-        },
-        {
-          "title": "5. 猴哥已在南宁小区住5天了",
-          "value": "31398 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8C%B4%E5%93%A5%E5%B7%B2%E5%9C%A8%E5%8D%97%E5%AE%81%E5%B0%8F%E5%8C%BA%E4%BD%8F5%E5%A4%A9%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 31398",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Monkey King has been living in a Nanning community for 5..."
-          }
-        },
-        {
-          "title": "6. 杨振宁在美办公室有人凌晨献花 [热]",
-          "value": "31384 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9C%A8%E7%BE%8E%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%9C%89%E4%BA%BA%E5%87%8C%E6%99%A8%E7%8C%AE%E8%8A%B1&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 31384",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Yang Zhenning received flowers in his US office at dawn..."
-          }
-        },
-        {
-          "title": "7. 杨振宁逝世",
-          "value": "31371 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 31371",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Yang Zhenning has passed away..."
-          }
-        },
-        {
-          "title": "8. 月亮姐姐官宣离开少儿频道",
-          "value": "31369 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%88%E4%BA%AE%E5%A7%90%E5%A7%90%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%BC%80%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 31369",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Sister Moon officially leaves the children's channel..."
-          }
-        },
-        {
-          "title": "9. 入青云",
-          "value": "剧集 31347 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A5%E9%9D%92%E4%BA%91&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 31347",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Enter the azure clouds..."
-          }
-        },
-        {
-          "title": "10. G2战胜BLG",
-          "value": "31337 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DG2%E6%88%98%E8%83%9CBLG&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 31337",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "G2 defeats BLG..."
           }
         }
       ]
