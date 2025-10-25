@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-25T06:04:18+08:00",
+  "generated_at": "2025-10-25T10:53:51+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-25T10:53:51+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 台湾",
+          "value": "3762805 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 3762805",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Taiwan..."
+          }
+        },
+        {
+          "title": "2. iPhone18系列迎史上最大革新 [热]",
+          "value": "602992 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhone18%E7%B3%BB%E5%88%97%E8%BF%8E%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%9D%A9%E6%96%B0&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 602992",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "The iPhone 18 series ushers in the biggest innovation..."
+          }
+        },
+        {
+          "title": "3. 世界市长对话郑州",
+          "value": "570250 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E9%83%91%E5%B7%9E&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 570250",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "World Mayors Dialogue in Zhengzhou..."
+          }
+        },
+        {
+          "title": "4. 泰国诗丽吉王太后去世",
+          "value": "539161 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%B0%E5%9B%BD%E8%AF%97%E4%B8%BD%E5%90%89%E7%8E%8B%E5%A4%AA%E5%90%8E%E5%8E%BB%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 539161",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Queen Sirikit of Thailand has passed away..."
+          }
+        },
+        {
+          "title": "5. 台湾光复全岛狂欢3天",
+          "value": "305177 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E5%85%A8%E5%B2%9B%E7%8B%82%E6%AC%A23%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 305177",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Taiwan celebrates its liberation with three days of..."
+          }
+        },
+        {
+          "title": "6. 1万多衣服被88岁老人9块卖了 [新]",
+          "value": "298031 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D1%E4%B8%87%E5%A4%9A%E8%A1%A3%E6%9C%8D%E8%A2%AB88%E5%B2%81%E8%80%81%E4%BA%BA9%E5%9D%97%E5%8D%96%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 298031",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "An 88-year-old sold over 10,000 clothes for 9 yuan..."
+          }
+        },
+        {
+          "title": "7. 披哥大合唱的杀伤力还是太大了",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8A%AB%E5%93%A5%E5%A4%A7%E5%90%88%E5%94%B1%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%E8%BF%98%E6%98%AF%E5%A4%AA%E5%A4%A7%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The impact of the choir's performance is still too strong..."
+          }
+        },
+        {
+          "title": "8. 台湾重回中国版图80年了",
+          "value": "161062 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E9%87%8D%E5%9B%9E%E4%B8%AD%E5%9B%BD%E7%89%88%E5%9B%BE80%E5%B9%B4%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 161062",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Taiwan has returned to China's territory for 80 years..."
+          }
+        },
+        {
+          "title": "9. 有史以来再见最快的爱人",
+          "value": "综艺 160973 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E5%86%8D%E8%A7%81%E6%9C%80%E5%BF%AB%E7%9A%84%E7%88%B1%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "综艺 160973",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The fastest goodbye to a lover in history..."
+          }
+        },
+        {
+          "title": "10. 抗美援朝纪念日",
+          "value": "160566 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E7%BA%AA%E5%BF%B5%E6%97%A5&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 160566",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Korean War Memorial Day..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-25T06:04:18+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Entering the azure clouds..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-19T11:02:13+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 固态电池突破",
-          "value": "1111065 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%AA%81%E7%A0%B4&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1111065",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Solid-state battery breakthrough..."
-          }
-        },
-        {
-          "title": "2. 特朗普称美军摧毁一大型潜艇 [新]",
-          "value": "489982 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E6%91%A7%E6%AF%81%E4%B8%80%E5%A4%A7%E5%9E%8B%E6%BD%9C%E8%89%87&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 489982",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Trump claims U.S. military destroyed a large submarine..."
-          }
-        },
-        {
-          "title": "3. 红星照耀中国",
-          "value": "449272 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 449272",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The Red Star Shines on China..."
-          }
-        },
-        {
-          "title": "4. 水龙吟",
-          "value": "剧集 420845 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E9%BE%99%E5%90%9F&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "剧集 420845",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Water Dragon Chant..."
-          }
-        },
-        {
-          "title": "5. 美国网络攻击我国",
-          "value": "418307 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%88%91%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 418307",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The U.S. cyberattacks on our country..."
-          }
-        },
-        {
-          "title": "6. 北京下雪了 [新]",
-          "value": "278583 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 278583",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "It snowed in Beijing..."
-          }
-        },
-        {
-          "title": "7. 高市早苗首相稳了",
-          "value": "219547 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%A6%96%E7%9B%B8%E7%A8%B3%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 219547",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Prime Minister Sanna Marin is stable..."
-          }
-        },
-        {
-          "title": "8. 中国粉碎美方网攻图谋",
-          "value": "216676 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%B2%89%E7%A2%8E%E7%BE%8E%E6%96%B9%E7%BD%91%E6%94%BB%E5%9B%BE%E8%B0%8B&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 216676",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China crushes US cyber attack schemes..."
-          }
-        },
-        {
-          "title": "9. 凌晨三点叫你出来玩你不出来",
-          "value": "216456 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E5%8F%AB%E4%BD%A0%E5%87%BA%E6%9D%A5%E7%8E%A9%E4%BD%A0%E4%B8%8D%E5%87%BA%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 216456",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "You won't come out to play at three in the morning..."
-          }
-        },
-        {
-          "title": "10. 75年前的今天志愿军跨过鸭绿江",
-          "value": "211256 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D75%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%BF%97%E6%84%BF%E5%86%9B%E8%B7%A8%E8%BF%87%E9%B8%AD%E7%BB%BF%E6%B1%9F&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 211256",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "75 years ago today, the Volunteer Army crossed the Yalu..."
           }
         }
       ]

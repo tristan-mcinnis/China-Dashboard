@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-10-25T06:04:49+08:00",
+  "generated_at": "2025-10-25T10:54:21+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-25T10:54:21+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "广州的 “恰如其汾”是什么？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc29MWDJMSjhuOTRQdEdpRmRPWFF3UlJEN2ozd2c3ZDMxcnF4Y1Nfbm1IVjl2V19HblZQdkg3aFhuN1hxd2JlWnoySEtzdEtjbE1XdGVEOWI4TF9acWVIajhvS2N1NmxfS3dhSUl1cWVnd2ZfUmpIeVNGaVVZTGdMNEdkQXN5Um1VQjR6eQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-24T01:26:47Z",
+            "summary": "广州的 “恰如其汾”是什么？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "What is \"Qia Ru Qi Fen\" in Guangzhou?"
+          }
+        },
+        {
+          "title": "五粮液：演绎700余年“活”窖之美 书写文化传承“和美”新篇",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakdoN05seFV2c0pkMHYzQmJGaDJiS2Nhcy1LdHRldGY5TW9vQTJfSmd4cjRVamZlcndBNldYVUVVLUM1SUo4aFdCV01fNUNYRGVXTzAzSmNFaGc1cks4NVRYZ3JMRy1DZTZSM3Jpa0Nnbm91Qkk0d09pNUFTVmFrMGhfeFhvMzMxWkdqOQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-24T00:39:49Z",
+            "summary": "五粮液：演绎700余年“活”窖之美 书写文化传承“和美”新篇 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Wuliangye: 700 years of \"living\" cellar beauty and..."
+          }
+        },
+        {
+          "title": "新华社消息丨习近平致电祝贺帕斯当选玻利维亚总统",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXNKWE5xbDlrZmZtbEkxbHJ5WlZQLXVzdFNVNVhBUmZGd1ZXel9BOFJsY0RBaVZqby15MTQ3YmxoSGFLUTQ0Q3QzanpqWENqRUVfNlIyeGhHT3d5dFNoNnFVV3pGSHpQU3JMcnFfWk5QVWpmZ0pPZ3E1MEc2eWIzSkZuSEcwLTdKeHdfSzlYNXd5YTA5?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-24T01:48:57Z",
+            "summary": "新华社消息丨习近平致电祝贺帕斯当选玻利维亚总统 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xi Jinping congratulates Arce on his election as..."
+          }
+        },
+        {
+          "title": "烟花绽放浏阳河畔",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDJ1U3pPckU1UlpDUTZ1ZTV0TVE3RDMxSVBaUldZMjhzZkJOOFlobHQ5dWJycllDZmpHM2VUY25Ed2FfdjBlbk5fTVBVMFlpc1FiTmZKQ3JSdXdYWnoxSFJqV3J6cVJoOWVqREg3QWt5S2k1T21vZms2cFJlSzhKZENCeEVwUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-24T18:06:54Z",
+            "summary": "烟花绽放浏阳河畔 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Fireworks bloom by the Liuyang River..."
+          }
+        },
+        {
+          "title": "国务院任免国家工作人员",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSjRncW9GMnpIU1JvV0VibEtuOVNiZWdONkNXQ2dSZVhoR01jcl95OXIxWGkxdHp5QXVZeTAyRTFVbk5fX1RDZ0tBSlY3dEs5cURXNW85TGluX05DSm1TeEt6aWtkcG9GOE9DVDJna1BrYlhXdm5WdVJqb05xdw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-24T03:28:53Z",
+            "summary": "国务院任免国家工作人员 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The State Council appoints and removes national officials..."
+          }
+        },
+        {
+          "title": "首都机场10月26日起执行冬航季航班计划：国内通航航点及航站楼均有调整",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdV9wUjh4dDNIRm91RExrelYtLUxpdHZsRmlXVE5zVFdlV0ppdmNac3NhNExHNndNYWt0bi1nZkN6RUJEQWFObmI0RG56dUtjajhpS2dVX2RDREoyYmpBY2E3SXFwaG1tYjdaeDRHVjFyR3A2ek04N2NOQU9lWkw5QnlkbUM1emRz?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-23T20:32:25Z",
+            "summary": "首都机场10月26日起执行冬航季航班计划：国内通航航点及航站楼均有调整 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Beijing Capital Airport adjusts winter flight schedule..."
+          }
+        },
+        {
+          "title": "全国民航10月26日起执行冬春航季航班计划",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZC15ZWNZZnFtcUVUZVVqOGlZWXJQVW1SZXh3cFZBdkY1RXdWOFY5eGI5b3BDREJEMTdxYVNSakYtWHBGeHBfRlNPTHJMNGxRclF0ZENQY3dfek5YZ2E5TXVoRHF6bkV6TFg5MkF5aGpsS0VSLW1uekZfbWFhdk1NSWRhMl9hMHpX?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-24T02:08:22Z",
+            "summary": "全国民航10月26日起执行冬春航季航班计划 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "National civil aviation to implement winter-spring..."
+          }
+        },
+        {
+          "title": "权威数读丨一周“靓”数",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODFlZkFNdVJKNTRQN3ZoWkVnTnZVLW8ybTBrVXlSSGl0Y3BMRGZOU2swdGxHc1NyLWZOaFV6Nkt1TC15X20tOEdBSTVCQ2h5UmRXdk1JOXVuUWdMSmRNbmpzYm5lc1Q0aHAyNk9jQ0hhZ3JXZVZTdGdwVl9najVnOG9pNG81V0V6?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-24T17:19:05Z",
+            "summary": "权威数读丨一周“靓”数 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Authoritative Data Review | This Week's Highlights..."
+          }
+        },
+        {
+          "title": "“世界市长对话·郑州”举行 共议文化遗产保护与城市更新",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xMnhpaHlUeHBGR1lGbFNfTnZnUkFuZVRLWnh4dXZWZGFmc1VsUGxqNDVIMGRtYi1qNGo5dG9hWTRuRXlOeHJHODBRMGVYLThjZV9yMi1RWnlhM0JDZWlKSGRxTEtXUjYtNnN6dVJneFp5eHBiNU43VHBuc1I1dw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-24T04:08:36Z",
+            "summary": "“世界市长对话·郑州”举行 共议文化遗产保护与城市更新 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"World Mayors Dialogue in Zhengzhou\" discusses heritage..."
+          }
+        },
+        {
+          "title": "中汽芯（深圳）科技有限公司将建成车规芯片“质量试炼场” 成就高质量芯片产品",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnZfTURSR0NkZGNYRVhPaXZvMVFGLWZSUVB4RDhfNE1sbFRWVS1kVnB4MUxySFp5azF0YjZpOHFuM3pmUzZXcDdBX1ZDVjhabG5kOXI0eXhVaVFMVkhGN1psLV9lQnNfVVM3NC15dlo4T1NRUlRyUk1PVFM0Tkk2YTR3akpPdw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-23T22:39:07Z",
+            "summary": "中汽芯（深圳）科技有限公司将建成车规芯片“质量试炼场” 成就高质量芯片产品 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zhongqi Chip (Shenzhen) will establish a quality testing..."
+          }
+        },
+        {
+          "title": "广州的 “恰如其汾”是什么？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc29MWDJMSjhuOTRQdEdpRmRPWFF3UlJEN2ozd2c3ZDMxcnF4Y1Nfbm1IVjl2V19HblZQdkg3aFhuN1hxd2JlWnoySEtzdEtjbE1XdGVEOWI4TF9acWVIajhvS2N1NmxfS3dhSUl1cWVnd2ZfUmpIeVNGaVVZTGdMNEdkQXN5Um1VQjR6eQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-24T01:26:47Z",
+            "summary": "广州的 “恰如其汾”是什么？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "What is Guangzhou's \"Qiaruqifen\"?"
+          }
+        },
+        {
+          "title": "五粮液：演绎700余年“活”窖之美 书写文化传承“和美”新篇",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakdoN05seFV2c0pkMHYzQmJGaDJiS2Nhcy1LdHRldGY5TW9vQTJfSmd4cjRVamZlcndBNldYVUVVLUM1SUo4aFdCV01fNUNYRGVXTzAzSmNFaGc1cks4NVRYZ3JMRy1DZTZSM3Jpa0Nnbm91Qkk0d09pNUFTVmFrMGhfeFhvMzMxWkdqOQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-24T00:39:49Z",
+            "summary": "五粮液：演绎700余年“活”窖之美 书写文化传承“和美”新篇 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Wuliangye: Showcasing 700 years of \"living\" cellar beauty..."
+          }
+        },
+        {
+          "title": "2025世界NCAP大会：共筑汽车技术新生态 共商产业发展新路径",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUZvTHNxdWVHUzhSeHdtNEU0dGl6QnlWWkMxdHJqbFFvNkg1akw4LVhkNDl2X00yX2lnY3FOTUcwSjRoRjByU0I5dzFkc0w3dFRrNi14UTZ5bFdTRW5mbnJkZjBrcUhZZmpUNjRnTHAtdW94UHJ5QVV6MzQxVkZvRFZVNkFvZw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-23T22:40:08Z",
+            "summary": "2025世界NCAP大会：共筑汽车技术新生态 共商产业发展新路径 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "2025 World NCAP Conference: Building a new automotive..."
+          }
+        },
+        {
+          "title": "全运会｜水球——男子小组赛：湖南胜重庆",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkkzcVlNblFRN0FhUjRwdkVJT3BVZUJNVlU1bWdwT05oWHZockxTYlZYck5GaWtDMm5oOW4yTkNCWnVXQnFHUE5VQWpwZ0tGYVl5VktXN19sME5KMG9zQzJqZ0dBam5aRVYwbGRRNmh6Y291MTRSd1ROclkySlJwVlh1T2NJdU0?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-24T09:26:35Z",
+            "summary": "全运会｜水球——男子小组赛：湖南胜重庆 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "National Games: Water Polo - Hunan beats Chongqing in..."
+          }
+        },
+        {
+          "title": "纪念台湾光复80周年档案史料亮相广东省档案馆",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHliSkFxUHlqOXRlNl9nSGVrLU56NU83T212Z1MyMFI3ZzNGZUdkaUNtNDhMaWIzN2NKT2cweHRxbWZpYkhSbDg2SDBfcFl1SHhBVl95R1Q4Y3JMX0h2MGdxT2hYeTZJa0x3SmZncDBIQ2NzTEcyZ1p1b3BDM2hLWjBNaw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-24T04:56:39Z",
+            "summary": "纪念台湾光复80周年档案史料亮相广东省档案馆 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Archives commemorating Taiwan's liberation 80th..."
+          }
+        },
+        {
+          "title": "中国人民银行：三季度末我国科技型中小企业获贷率为50.3%",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1MEw4U0xfems5cUdibGFnVHZKdG1aSUstM2JncVRya2FuMjVFSnZEcFMtV19OYkZxajlhREpSdG9EeWZ2UHBrVTRBSmJGMjlBQmZFUUllZ2NBa09DV2tlN0lVdjh2R0dQbnpNVVUyUDY3ejFobDZsdGxjQU9jQQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-24T02:59:32Z",
+            "summary": "中国人民银行：三季度末我国科技型中小企业获贷率为50.3% 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "People's Bank of China: 50.3% of tech SMEs secured loans..."
+          }
+        },
+        {
+          "title": "珠科现代农业在国家级展会上诠释农业科技新范式",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVc5MXdrVlQ1c3B6cnBVbXFTZldVMDk2UXBXcjBEa2o4ZlAxd1o3Q0ctTlJLem1pNnVsb29kVHRuWTB6MnZLQkZsZllIN2p4dWt2NGg1Y1JySnpOYU91S2xlRldtYi1ZbWd1VDZLWGdCLURiaEx6Zlpvc2dvUmRPcE1YdG8?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-24T01:22:55Z",
+            "summary": "珠科现代农业在国家级展会上诠释农业科技新范式 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zhu Ke Modern Agriculture showcases new agri-tech..."
+          }
+        },
+        {
+          "title": "中汽芯（深圳）科技有限公司将建成车规芯片“质量试炼场” 成就高质量芯片产品",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnZfTURSR0NkZGNYRVhPaXZvMVFGLWZSUVB4RDhfNE1sbFRWVS1kVnB4MUxySFp5azF0YjZpOHFuM3pmUzZXcDdBX1ZDVjhabG5kOXI0eXhVaVFMVkhGN1psLV9lQnNfVVM3NC15dlo4T1NRUlRyUk1PVFM0Tkk2YTR3akpPdw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-23T22:39:07Z",
+            "summary": "中汽芯（深圳）科技有限公司将建成车规芯片“质量试炼场” 成就高质量芯片产品 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zhongqi Chip (Shenzhen) Tech to establish a quality..."
+          }
+        },
+        {
+          "title": "告别单一补充 Jmoon极萌以DNA胶原激活科技，重塑胶原补充新方式",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUgzN1pxV1UwUkwwTFFkLVFiU2hYcEZFc254eXJzZ3JjcnFrQVZ1aHl1SVRXN3FRWUdZQl91RzR0UUZVQlZtWnNXQzVYaVFrSnNaWUd0ejZWSzItaF85WENnU3YzRzI5Q0tPYUlveDl4ZDNCZ0kwTVo1QUE2RUMzZGowb2hwQk5h?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-23T19:01:31Z",
+            "summary": "告别单一补充 Jmoon极萌以DNA胶原激活科技，重塑胶原补充新方式 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Bid farewell to single supplementation; Jmoon uses DNA..."
+          }
+        },
+        {
+          "title": "2025年滨江区“数智赋能白马湖”中小学科技节举行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODNSZlp0ZC10WGp4UTAyUVd2d3p4SF81WkFfUE41N1UyZFBhREFscUJ5NUZQaXZIbEpibno3RFAyeFN5VVRCdktERjhXWnU0TnRiTThFQ21ycUZXUTRoUWVaYkpvd2pLeWVtSTE5b3VJZ0RsMHpYWDZ5TEREaXFsX1UxZXAzMWc?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-23T20:40:29Z",
+            "summary": "2025年滨江区“数智赋能白马湖”中小学科技节举行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "2025 Binjiang District \"Smart Empowerment\" Tech Festival..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-25T06:04:49+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "Shaping new advantages, energizing new momentum..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-19T11:02:42+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "新华社消息丨杨振宁逝世",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdEctR0swM0hGenAwa0lfazZCaWkzcmZ2S2tCOHJ6VG51MXMxbzVnUFhrUVNtbklpeVp1U01FcjFxZ1NzMGRiUTJ3WXQxUzF6Z19hWGtyNVNKcTMyZFRrOVl2S3dCcHpRQndUcmliTWVBWXJNdUdIMWpXUWJsMGp3eC0zSldzdEIyQlE?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-17T21:19:35Z",
-            "summary": "新华社消息丨杨振宁逝世 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua News: Yang Zhenning has passed away..."
-          }
-        },
-        {
-          "title": "新华社消息｜我国生成式人工智能用户规模超5亿",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGFfeXhsYV8zdk1pbTE5NEItUlFVejJFQmdUOV9Md0t0dlU0UXRjcllGUWl6WVVsSUlQdndCY1R3UW11dC1IS1Y0WHpiV2RVZHVIZU9hUXEzeFpnU2Y1bzgtNC1ZXzA0UEczdEkxUUkwMnpwbDlHRzlJYjEtbmgyZ1NHSXM3U2VP?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-17T19:05:55Z",
-            "summary": "新华社消息｜我国生成式人工智能用户规模超5亿 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua reports: China's generative AI user base exceeds..."
-          }
-        },
-        {
-          "title": "青岛：“南瓜王国”吸引游客",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORVJEUUYtYzNlM1p5c082cHpQMGNxZHA4cnBsbkRlc0YzSXpfb3BKMXlWUEtGYVJjazVUckthajRHOWlBVGtqM2FOSWJ5MlBvX3Z5Q2pMT0RKdTZ3c0tSV3psR2NzTWxlREczUzZQTi1yaWcwcVVxaWlEd2ZNclVLcnlmS3R3dw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-18T18:11:27Z",
-            "summary": "青岛：“南瓜王国”吸引游客 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Qingdao: \"Pumpkin Kingdom\" attracts tourists..."
-          }
-        },
-        {
-          "title": "“海洋科学技术工程与国防科技”人才贯通培养高峰论坛在福州举办",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWFCalhYcjFsQW5ONUtETHlXbk51VmdzazZwUmwyWEREem5tN0ZaNE15YnBoRzd0TUVCd2JmbmRKcExtbDNJbEdXN1BKQ3pNQWoza3BSdE9qRnJpcEU5NWpRM2xIS0VhYjZqTWNWVlN6WVRPVlY2QVRrVnRmanEwTDBCRUZuQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-18T06:22:28Z",
-            "summary": "“海洋科学技术工程与国防科技”人才贯通培养高峰论坛在福州举办 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"Marine Science and Technology Talent Forum held in..."
-          }
-        },
-        {
-          "title": "柬埔寨遣返64名韩国网络诈骗嫌疑人",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlRZQk5wMWFySWh5MkZ6LTZDUnJEa0Q0ZTNsSjY1UGNkbWpEQ0FsX00xZm5rbnpKTEt0WU1odS15NzBqaXI1VEpmdERadmNwUkp4UEJBUVhicFJqUDJXdEFoOER0RDVLSDcwOE5kMm9OeVhwc0ZENWpaeDBRQ0J5alhNdVNyZw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-18T05:50:05Z",
-            "summary": "柬埔寨遣返64名韩国网络诈骗嫌疑人 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Cambodia repatriates 64 South Korean online scam suspects..."
-          }
-        },
-        {
-          "title": "美国总统军事施压委内瑞拉 美国议员强调战争须经国会授权",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xQkYteHJuZFNjQklsYmc0dHd2VUUwazdWbDFTejdWa2M2N09VYUpyRFV1YktuUFpmU0NmOW5FUDNyeDRldzRMUTU3Q2hvQktnalVvUU1XOV80eGx3STdiWXc5S2tUVDJsV1NGWDhpM2xxRmYycU9hMDF0SHdaZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-17T20:03:51Z",
-            "summary": "美国总统军事施压委内瑞拉 美国议员强调战争须经国会授权 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "U.S. president pressures Venezuela; lawmakers stress war..."
-          }
-        },
-        {
-          "title": "科学的星空，他已归航——追忆杨振宁先生",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jcHV5ZUdnY2kxNldkU2ZfeG1IMDkwWW1pV3MtNXA1R3NpbmswS2RISXFpdnlpQ1ZEZEMxUGlscTFMVUd1OGZTRmgwRXp5RllwWHU3Ty03Q0JQV2NOeS1lM1BSZUluVzZualdSdDhvbHlwbmNLalBvcEhrTlJtZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-17T22:48:28Z",
-            "summary": "科学的星空，他已归航——追忆杨振宁先生 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The scientific starry sky, he has returned—In memory of..."
-          }
-        },
-        {
-          "title": "聚焦联大第2758号决议 联合国成立80周年国际学术研讨会在武汉开幕",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XcXQ4V3lpOHVoU3k1dnJHdWlWU2gyc2luUXNETWItZmYwa25temk4eDZPeUh1UU1QN0NWajRYc3RpNGFhbm0wN3NBU3Iwclg4VlFnTzlvZS1Tb3hIRGVITW80dnJLMTdKaThwTkc1bm9xYTN0XzI5aGZrcklxZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-18T00:39:14Z",
-            "summary": "聚焦联大第2758号决议 联合国成立80周年国际学术研讨会在武汉开幕 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "International seminar on UN's 80th anniversary opens in..."
-          }
-        },
-        {
-          "title": "塑造新优势 澎湃新动能——“活力中国调研行”感受高水平对外开放新活力",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnFhNkFxckNncHlDS0FpUmpYcFc5UGVaVVQtbFBjVy1GY1pNYVBjTG84aE4tLWU5OUhEYXRhR3NDUGlVa0xiclQ2VUN4UVNQaVZEZGVOSGY1d3hxU0J3VUdLeGw3dlBmYUVCMVlUQUxuYm1HQkJScEtmeFFyZTlVWWVxaTBxQlRn?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-18T02:38:20Z",
-            "summary": "塑造新优势 澎湃新动能——“活力中国调研行”感受高水平对外开放新活力 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Shaping new advantages, energizing new momentum..."
-          }
-        },
-        {
-          "title": "专访丨长远规划在推动中国各领域发展方面发挥重要作用——访埃及《消息报》副总编辑阿米尔·塔马姆",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40dlI3ZnJzQUNQcVNNYkVjOTIzYm5PMktxZ0NVRjdYUHFBWGs2OTdIZ25mUkZ1X1lOVGNHY2pWMXY2dkozZElGUlhKUnEzRC1IRUNXd0NMVFNQVmFmUEYxNUx5TUNrZDZlbmNxTEd0aVd2elZZakFMY1pBU1Q4dw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-17T21:22:04Z",
-            "summary": "专访丨长远规划在推动中国各领域发展方面发挥重要作用——访埃及《消息报》副总编辑阿米尔·塔马姆 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Interview: Long-term planning crucial for China's..."
-          }
-        },
-        {
-          "title": "比亚迪再次召回安全隐患汽车超10万辆",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVFVUTZHc2wxeVQ1QmdLLWhkSHNJaXA2ckVWWGl1TWNOYlA1UFlJRDFrVTdPbEFWcE5rN1FoZVdBQ3BJNmM1M3lWT3lWTVZwalR2b1FUbF94R0d4eUMzMk9RWHE2N09jUk1JNUlzVURUV2l0bnNPTXhONEJtUDVsVElyNGdmUXpR?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-18T06:00:55Z",
-            "summary": "比亚迪再次召回安全隐患汽车超10万辆 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "BYD recalls over 100,000 cars due to safety issues..."
-          }
-        },
-        {
-          "title": "国家管网集团首个地面集中式大型光伏发电项目在新疆并网",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10dDBzNnpDazB2d0pKSXVOLTJ1N3Z6b1ZGNnoyempUQnJyS3FMaGZLOVhad0djY2E5VUV1b01rT21CV1l4OXR4YTBLUWVNMHZlQ1N3ZEFfeF9udFFBQzBFYm9mbXBlblFtN0IweEp1ZmdoLWhSNThBNDBxUXhEdw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-17T23:45:58Z",
-            "summary": "国家管网集团首个地面集中式大型光伏发电项目在新疆并网 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The first large-scale ground-based solar project by the..."
-          }
-        },
-        {
-          "title": "“海洋科学技术工程与国防科技”人才贯通培养高峰论坛在福州举办",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWFCalhYcjFsQW5ONUtETHlXbk51VmdzazZwUmwyWEREem5tN0ZaNE15YnBoRzd0TUVCd2JmbmRKcExtbDNJbEdXN1BKQ3pNQWoza3BSdE9qRnJpcEU5NWpRM2xIS0VhYjZqTWNWVlN6WVRPVlY2QVRrVnRmanEwTDBCRUZuQQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-18T06:22:28Z",
-            "summary": "“海洋科学技术工程与国防科技”人才贯通培养高峰论坛在福州举办 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"Marine Science and Technology Engineering and National..."
-          }
-        },
-        {
-          "title": "柬埔寨遣返64名韩国网络诈骗嫌疑人",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlRZQk5wMWFySWh5MkZ6LTZDUnJEa0Q0ZTNsSjY1UGNkbWpEQ0FsX00xZm5rbnpKTEt0WU1odS15NzBqaXI1VEpmdERadmNwUkp4UEJBUVhicFJqUDJXdEFoOER0RDVLSDcwOE5kMm9OeVhwc0ZENWpaeDBRQ0J5alhNdVNyZw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-18T05:50:05Z",
-            "summary": "柬埔寨遣返64名韩国网络诈骗嫌疑人 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Cambodia repatriates 64 South Korean online scam suspects..."
-          }
-        },
-        {
-          "title": "U17女足世界杯：中国队首战大胜挪威队",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nX0tMMV83QXFCMHZRaF8xam41cWp6eHFLSm55NkROV24wbk1vNl9adEx1dTlRcHh3WG5ja0tmMHI4N0g1OUdyeEltNXhaenhJajVxREFyT09Yc0o3dVRfWkVWelNsSGtkcVVYQXd6eGdwanVINFpFbk1LcUxBdw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-18T11:53:14Z",
-            "summary": "U17女足世界杯：中国队首战大胜挪威队 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "U17 Women's World Cup: China defeats Norway in opener."
-          }
-        },
-        {
-          "title": "“海洋科学技术工程与国防科技”人才贯通培养高峰论坛在福州举办",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWFCalhYcjFsQW5ONUtETHlXbk51VmdzazZwUmwyWEREem5tN0ZaNE15YnBoRzd0TUVCd2JmbmRKcExtbDNJbEdXN1BKQ3pNQWoza3BSdE9qRnJpcEU5NWpRM2xIS0VhYjZqTWNWVlN6WVRPVlY2QVRrVnRmanEwTDBCRUZuQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-18T06:22:28Z",
-            "summary": "“海洋科学技术工程与国防科技”人才贯通培养高峰论坛在福州举办 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"Marine Science and Technology Talent Forum held in..."
-          }
-        },
-        {
-          "title": "山东重工：“科技赋能 装备美好”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObEM1X0NBamxuNFVYRzF3eUE5SEMwX0RnS3NvQmF0T09jaExkMElsa1NVZ01DRVBnajF5ajQwZV84V2RQc1BEazB5UEhzSGJxMEhuaHZBZ29oVHZqdmoxMWdGc214V1pfUDZkbW13WUJEcWRTUGx1SFpEdFlFM0pFWjlncVhCZw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-18T00:16:01Z",
-            "summary": "山东重工：“科技赋能 装备美好” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Shandong Heavy Industry: \"Empowering with Technology,..."
-          }
-        },
-        {
-          "title": "综述｜在海湾信息技术展感受中国“智”造魅力",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWtoZHFQMmkxczQ4RkV5REt2aWZ0RkRlckthRFBXVm9JLWxPTlJtY1NHMUFRMEhHRzB1ZGU1MG0wOXRfckhoVkt6cGNoUmEySzJFdy1BWktNWFZOLXFzZnpVZHNhQ25BRWxIQ09GdWFELWZZVWJNMU9RVVRDUWpVQk10M3g?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-17T21:17:09Z",
-            "summary": "综述｜在海湾信息技术展感受中国“智”造魅力 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Overview: Experience the charm of China's \"smart\"..."
-          }
-        },
-        {
-          "title": "好看好逛又好玩！第十九届杭州文博会开幕",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdVVPb19XbUh4eE5OakVqY3p6Tng0QklnZFE0ZFBteTR2SVpHWFp2Sm9OWDNyX0xWRUhWSm5SZVdOX0llZFJtV3N1aHZmbXhMN2hOMlA2eXpFOGRBdzRwOEpDYWtzWFBNTXBtaU50dFF2cmh5Nmd4OXpySy1veG9QalhR?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-17T19:47:14Z",
-            "summary": "好看好逛又好玩！第十九届杭州文博会开幕 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Beautiful, fun, and exciting! The 19th Hangzhou Cultural..."
-          }
-        },
-        {
-          "title": "新华鲜报·“十四五”亮点丨新增170万亿元！金融“活水”激发实体经济活力",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0JqRE5pWEI3SUh5SUFBczdTVG1mUkFIbDg3cFVNWG1jM2VSQ1ZTSEZtdW9Zb0pmajZNWWdRSzhHUlE4S01ibktPUlFXdXRNUF9ZR0RKZkxtdXZLZEFHUDFwVVp2dUpuUWVnamQ1N1NIQTZ5Mm5GTEdhTHFwWE5qM3NTRVYxTnBz?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-18T16:37:01Z",
-            "summary": "新华鲜报·“十四五”亮点丨新增170万亿元！金融“活水”激发实体经济活力 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua Fresh Report: 17 trillion yuan added! Finance..."
           }
         }
       ]
