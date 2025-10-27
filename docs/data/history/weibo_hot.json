@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-27T11:03:26+08:00",
+  "generated_at": "2025-10-27T14:02:38+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-27T14:02:38+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 赵一鸣 用糖找零",
+          "value": "1627607 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E4%B8%80%E9%B8%A3%20%E7%94%A8%E7%B3%96%E6%89%BE%E9%9B%B6&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1627607",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Zhao Yiming gives change with candy..."
+          }
+        },
+        {
+          "title": "2. 郑智化致歉 [新]",
+          "value": "942402 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E6%99%BA%E5%8C%96%E8%87%B4%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 942402",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Zheng Zhihua apologizes..."
+          }
+        },
+        {
+          "title": "3. 广电精品创作大会来了",
+          "value": "909838 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%BF%E7%94%B5%E7%B2%BE%E5%93%81%E5%88%9B%E4%BD%9C%E5%A4%A7%E4%BC%9A%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 909838",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Grand Radio and Television Creative Conference is..."
+          }
+        },
+        {
+          "title": "4. 陈数秋日出行松弛感 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E6%95%B0%E7%A7%8B%E6%97%A5%E5%87%BA%E8%A1%8C%E6%9D%BE%E5%BC%9B%E6%84%9F&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Chen Shu's relaxed vibe during autumn outings..."
+          }
+        },
+        {
+          "title": "5. 缅甸KK园区上千人跳河出逃",
+          "value": "907688 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BC%85%E7%94%B8KK%E5%9B%AD%E5%8C%BA%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B7%B3%E6%B2%B3%E5%87%BA%E9%80%83&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 907688",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Thousands flee by jumping into the river in Myanmar's KK..."
+          }
+        },
+        {
+          "title": "6. 蔡磊研发药物对病友起效自己没用 [重磅]",
+          "value": "643965 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%94%A1%E7%A3%8A%E7%A0%94%E5%8F%91%E8%8D%AF%E7%89%A9%E5%AF%B9%E7%97%85%E5%8F%8B%E8%B5%B7%E6%95%88%E8%87%AA%E5%B7%B1%E6%B2%A1%E7%94%A8&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 643965",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Cai Lei developed a drug effective for patients but not..."
+          }
+        },
+        {
+          "title": "7. 当地就招聘岗位疑似萝卜岗致歉",
+          "value": "534368 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%93%E5%9C%B0%E5%B0%B1%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D%E7%96%91%E4%BC%BC%E8%90%9D%E5%8D%9C%E5%B2%97%E8%87%B4%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 534368",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Local recruitment for suspected \"job-for-the-boys\"..."
+          }
+        },
+        {
+          "title": "8. 京东买药11.11柳岩送百万免单 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF11.11%E6%9F%B3%E5%B2%A9%E9%80%81%E7%99%BE%E4%B8%87%E5%85%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "JD.com offers free orders worth a million on 11.11 with..."
+          }
+        },
+        {
+          "title": "9. 2架美军机在南海相继坠毁",
+          "value": "339503 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8D%97%E6%B5%B7%E7%9B%B8%E7%BB%A7%E5%9D%A0%E6%AF%81&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 339503",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Two US military aircraft crashed in the South China Sea..."
+          }
+        },
+        {
+          "title": "10. 世界第一美少年去世 [新]",
+          "value": "336351 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E7%BE%8E%E5%B0%91%E5%B9%B4%E5%8E%BB%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 336351",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The world's most beautiful boy has passed away..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-27T11:03:26+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Sanae Takaichi elected as Prime Minister..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-21T14:02:13+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 卢浮宫劫案可能是粉红豹所为",
-          "value": "1082684 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%8A%AB%E6%A1%88%E5%8F%AF%E8%83%BD%E6%98%AF%E7%B2%89%E7%BA%A2%E8%B1%B9%E6%89%80%E4%B8%BA&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1082684",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The Louvre heist may be the work of the Pink Panthers..."
-          }
-        },
-        {
-          "title": "2. 东北网友拍下不少燕子滞留没南飞",
-          "value": "408995 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E5%8C%97%E7%BD%91%E5%8F%8B%E6%8B%8D%E4%B8%8B%E4%B8%8D%E5%B0%91%E7%87%95%E5%AD%90%E6%BB%9E%E7%95%99%E6%B2%A1%E5%8D%97%E9%A3%9E&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 408995",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Northeast netizens capture swallows stranded, not..."
-          }
-        },
-        {
-          "title": "3. 前三季度中国GDP同比增长5.2%",
-          "value": "294670 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5.2%25&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 294670",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China's GDP grew 5.2% year-on-year in the first three..."
-          }
-        },
-        {
-          "title": "4. 女性健康关爱行动",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E6%80%A7%E5%81%A5%E5%BA%B7%E5%85%B3%E7%88%B1%E8%A1%8C%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Women's Health Care Initiative..."
-          }
-        },
-        {
-          "title": "5. 日本迎来首位女首相",
-          "value": "286057 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 286057",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Japan welcomes its first female Prime Minister..."
-          }
-        },
-        {
-          "title": "6. 冷冷冷冷冷如何正确保暖 [重磅]",
-          "value": "284630 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BF%9D%E6%9A%96&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 284630",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "How to keep warm in the cold..."
-          }
-        },
-        {
-          "title": "7. 高市早苗当选首相",
-          "value": "283300 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E9%A6%96%E7%9B%B8&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 283300",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Sanae Takaichi elected as Prime Minister..."
-          }
-        },
-        {
-          "title": "8. 梭子蟹里都是寄生虫不能吃是谣言 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%AD%E5%AD%90%E8%9F%B9%E9%87%8C%E9%83%BD%E6%98%AF%E5%AF%84%E7%94%9F%E8%99%AB%E4%B8%8D%E8%83%BD%E5%90%83%E6%98%AF%E8%B0%A3%E8%A8%80&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The claim that crabs are full of parasites and inedible..."
-          }
-        },
-        {
-          "title": "9. 交换人生官宣",
-          "value": "281443 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%A4%E6%8D%A2%E4%BA%BA%E7%94%9F%E5%AE%98%E5%AE%A3&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 281443",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Life Swap officially announced..."
-          }
-        },
-        {
-          "title": "10. 印度人全球爆买白银",
-          "value": "279699 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%85%A8%E7%90%83%E7%88%86%E4%B9%B0%E7%99%BD%E9%93%B6&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 279699",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Indians are buying silver globally in large quantities..."
           }
         }
       ]
