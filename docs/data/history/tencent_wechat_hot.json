@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2025-10-27T22:09:13+08:00",
+  "generated_at": "2025-10-28T06:04:16+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-28T06:04:16+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 习近平参观故宫博物院展览",
+          "value": "指数 7904045",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E8%A7%82%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%B1%95%E8%A7%88",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904045",
+            "api_source": "tianapi",
+            "translation": "Xi Jinping visits the Palace Museum exhibition..."
+          }
+        },
+        {
+          "title": "2. 王毅同美国国务卿鲁比奥通电话",
+          "value": "指数 7808877",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E6%AF%85%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808877",
+            "api_source": "tianapi",
+            "translation": "Wang Yi spoke on the phone with U.S. Secretary Rubio..."
+          }
+        },
+        {
+          "title": "3. 国家卫健委：别买直播带货的网红神药",
+          "value": "指数 7712916",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E5%88%AB%E4%B9%B0%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E7%9A%84%E7%BD%91%E7%BA%A2%E7%A5%9E%E8%8D%AF",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7712916",
+            "api_source": "tianapi",
+            "translation": "National Health Commission: Don't buy influencer miracle..."
+          }
+        },
+        {
+          "title": "4. 一揽子增量政策实施效果如何",
+          "value": "指数 7616351",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E6%8F%BD%E5%AD%90%E5%A2%9E%E9%87%8F%E6%94%BF%E7%AD%96%E5%AE%9E%E6%96%BD%E6%95%88%E6%9E%9C%E5%A6%82%E4%BD%95",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616351",
+            "api_source": "tianapi",
+            "translation": "What are the effects of the comprehensive incremental..."
+          }
+        },
+        {
+          "title": "5. 大量用户举报违规直播 微信：严打！",
+          "value": "指数 7524101",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E8%BF%9D%E8%A7%84%E7%9B%B4%E6%92%AD+%E5%BE%AE%E4%BF%A1%EF%BC%9A%E4%B8%A5%E6%89%93%EF%BC%81",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7524101",
+            "api_source": "tianapi",
+            "translation": "Many users report illegal live streams; WeChat: strict..."
+          }
+        },
+        {
+          "title": "6. 从空姐到空嫂不只是一字之差",
+          "value": "指数 7429407",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BB%8E%E7%A9%BA%E5%A7%90%E5%88%B0%E7%A9%BA%E5%AB%82%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%80%E5%AD%97%E4%B9%8B%E5%B7%AE",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7429407",
+            "api_source": "tianapi",
+            "translation": "From flight attendant to flight sister is more than just..."
+          }
+        },
+        {
+          "title": "7. 31省份去年婚姻数据公布",
+          "value": "指数 7328867",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=31%E7%9C%81%E4%BB%BD%E5%8E%BB%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7328867",
+            "api_source": "tianapi",
+            "translation": "Marriage data from 31 provinces released last year..."
+          }
+        },
+        {
+          "title": "8. 深圳地铁回应印度人在车上吃手抓饭",
+          "value": "指数 7234558",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%9C%A8%E8%BD%A6%E4%B8%8A%E5%90%83%E6%89%8B%E6%8A%93%E9%A5%AD",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7234558",
+            "api_source": "tianapi",
+            "translation": "Shenzhen Metro responds to Indian man eating biryani on..."
+          }
+        },
+        {
+          "title": "9. 特朗普：很长时间内不想和加总理见面",
+          "value": "指数 7135775",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%95%BF%E6%97%B6%E9%97%B4%E5%86%85%E4%B8%8D%E6%83%B3%E5%92%8C%E5%8A%A0%E6%80%BB%E7%90%86%E8%A7%81%E9%9D%A2",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7135775",
+            "api_source": "tianapi",
+            "translation": "Trump: Doesn't want to meet with Canadian PM for a long..."
+          }
+        },
+        {
+          "title": "10. 中方回应美军两架战机坠入南海",
+          "value": "指数 7040066",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%86%9B%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E5%9D%A0%E5%85%A5%E5%8D%97%E6%B5%B7",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7040066",
+            "api_source": "tianapi",
+            "translation": "China responds to two US military jets crashing in the..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-27T22:09:13+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3360,122 +3476,6 @@
           "extra": {
             "rank": 10,
             "raw_score": "7040766",
-            "api_source": "tianapi",
-            "translation": "What piece completes your happiness puzzle?"
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-22T06:04:58+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 奋斗 为了人民的向往",
-          "value": "指数 7904738",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%8B%E6%96%97+%E4%B8%BA%E4%BA%86%E4%BA%BA%E6%B0%91%E7%9A%84%E5%90%91%E5%BE%80",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904738",
-            "api_source": "tianapi",
-            "translation": "Striving for the people's aspirations..."
-          }
-        },
-        {
-          "title": "2. 00后女生拍摄75岁老会计同事走红",
-          "value": "指数 7808723",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=00%E5%90%8E%E5%A5%B3%E7%94%9F%E6%8B%8D%E6%91%8475%E5%B2%81%E8%80%81%E4%BC%9A%E8%AE%A1%E5%90%8C%E4%BA%8B%E8%B5%B0%E7%BA%A2",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808723",
-            "api_source": "tianapi",
-            "translation": "Post-00s girl gains fame for shooting 75-year-old..."
-          }
-        },
-        {
-          "title": "3. 微信三大更新放出",
-          "value": "指数 7712707",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%94%BE%E5%87%BA",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7712707",
-            "api_source": "tianapi",
-            "translation": "WeChat releases three major updates..."
-          }
-        },
-        {
-          "title": "4. 国产医疗装备“利器”层出",
-          "value": "指数 7616120",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E4%BA%A7%E5%8C%BB%E7%96%97%E8%A3%85%E5%A4%87%E2%80%9C%E5%88%A9%E5%99%A8%E2%80%9D%E5%B1%82%E5%87%BA",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7616120",
-            "api_source": "tianapi",
-            "translation": "Domestic medical equipment \"sharp tools\" emerge one..."
-          }
-        },
-        {
-          "title": "5. 张伯礼院士严正声明",
-          "value": "指数 7523499",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%A0%E4%BC%AF%E7%A4%BC%E9%99%A2%E5%A3%AB%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7523499",
-            "api_source": "tianapi",
-            "translation": "Academician Zhang Boli's solemn statement..."
-          }
-        },
-        {
-          "title": "6. “下地干活式旅游”火了",
-          "value": "指数 7425219",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E4%B8%8B%E5%9C%B0%E5%B9%B2%E6%B4%BB%E5%BC%8F%E6%97%85%E6%B8%B8%E2%80%9D%E7%81%AB%E4%BA%86",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7425219",
-            "api_source": "tianapi",
-            "translation": "\"Farm work tourism\" has become popular..."
-          }
-        },
-        {
-          "title": "7. 不用中考 十二年贯通式学校来了",
-          "value": "指数 7328114",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%8D%E7%94%A8%E4%B8%AD%E8%80%83+%E5%8D%81%E4%BA%8C%E5%B9%B4%E8%B4%AF%E9%80%9A%E5%BC%8F%E5%AD%A6%E6%A0%A1%E6%9D%A5%E4%BA%86",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7328114",
-            "api_source": "tianapi",
-            "translation": "No more high school entrance exam, a 12-year integrated..."
-          }
-        },
-        {
-          "title": "8. 女装店主不建议买300元以下羽绒服",
-          "value": "指数 7235035",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E8%A3%85%E5%BA%97%E4%B8%BB%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B9%B0300%E5%85%83%E4%BB%A5%E4%B8%8B%E7%BE%BD%E7%BB%92%E6%9C%8D",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7235035",
-            "api_source": "tianapi",
-            "translation": "The store owner advises against buying down jackets..."
-          }
-        },
-        {
-          "title": "9. 酒席为小朋友准备两桌肯德基",
-          "value": "指数 7142041",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%85%92%E5%B8%AD%E4%B8%BA%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%87%86%E5%A4%87%E4%B8%A4%E6%A1%8C%E8%82%AF%E5%BE%B7%E5%9F%BA",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7142041",
-            "api_source": "tianapi",
-            "translation": "Two tables of KFC prepared for the kids' banquet..."
-          }
-        },
-        {
-          "title": "10. 你的幸福拼图是哪一块",
-          "value": "指数 7048591",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BD%A0%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%8B%BC%E5%9B%BE%E6%98%AF%E5%93%AA%E4%B8%80%E5%9D%97",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7048591",
             "api_source": "tianapi",
             "translation": "What piece completes your happiness puzzle?"
           }
