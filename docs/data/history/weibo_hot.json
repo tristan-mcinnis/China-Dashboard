@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-30T14:01:52+08:00",
+  "generated_at": "2025-10-30T18:38:22+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-30T18:38:22+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 微信三大新功能",
+          "value": "1157275 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1157275",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Three new features of WeChat..."
+          }
+        },
+        {
+          "title": "2. 美方加征24%关税继续暂停一年 [热]",
+          "value": "820679 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E6%96%B9%E5%8A%A0%E5%BE%8124%25%E5%85%B3%E7%A8%8E%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B8%80%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 820679",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "The U.S. will continue to suspend the 24% tariff for..."
+          }
+        },
+        {
+          "title": "3. 2025APEC",
+          "value": "768415 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025APEC&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 768415",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "2025 APEC"
+          }
+        },
+        {
+          "title": "4. 今晚8点京东补贴买3C数码更便宜",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%99%9A8%E7%82%B9%E4%BA%AC%E4%B8%9C%E8%A1%A5%E8%B4%B4%E4%B9%B03C%E6%95%B0%E7%A0%81%E6%9B%B4%E4%BE%BF%E5%AE%9C&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Buy 3C digital products cheaper with JD subsidies at 8 PM..."
+          }
+        },
+        {
+          "title": "5. 电竞奥运会暂停举办",
+          "value": "751492 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E7%AB%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9A%82%E5%81%9C%E4%B8%BE%E5%8A%9E&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 751492",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The esports Olympics are suspended."
+          }
+        },
+        {
+          "title": "6. 孙颖莎王曼昱被清华免试录取 [大促]",
+          "value": "471084 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%85%8D%E8%AF%95%E5%BD%95%E5%8F%96&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 471084",
+            "tag": "大促",
+            "api_source": "tianapi",
+            "translation": "Sun Yingsha and Wang Manyu admitted to Tsinghua without..."
+          }
+        },
+        {
+          "title": "7. 一起看全运会",
+          "value": "453662 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 453662",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Let's watch the National Games together..."
+          }
+        },
+        {
+          "title": "8. 张凌赫的理想型泡面 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E7%90%86%E6%83%B3%E5%9E%8B%E6%B3%A1%E9%9D%A2&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Zhang Linghe's ideal type is instant noodles..."
+          }
+        },
+        {
+          "title": "9. TES对战G2",
+          "value": "437741 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%AF%B9%E6%88%98G2&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 437741",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "TES vs G2"
+          }
+        },
+        {
+          "title": "10. 满13岁女生免费接种HPV疫苗 [新]",
+          "value": "396453 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BB%A113%E5%B2%81%E5%A5%B3%E7%94%9F%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 396453",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Girls aged 13 and above can receive free HPV vaccinations..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-30T14:01:52+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Zhang Bichir's eldest son is very strict with me..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-24T18:38:22+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. VOGUE",
-          "value": "1130394 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DVOGUE&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1130394",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "VOGUE"
-          }
-        },
-        {
-          "title": "2. BLG战胜VKS [新]",
-          "value": "656435 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBLG%E6%88%98%E8%83%9CVKS&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 656435",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "BLG defeats VKS..."
-          }
-        },
-        {
-          "title": "3. 重视中国经济也重视中国人经济",
-          "value": "448557 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%9F%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%8F%E6%B5%8E&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 448557",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Value China's economy and the economy of the Chinese..."
-          }
-        },
-        {
-          "title": "4. 普京宣布提高全日制女学生孕产津贴",
-          "value": "415427 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%8F%90%E9%AB%98%E5%85%A8%E6%97%A5%E5%88%B6%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%AD%95%E4%BA%A7%E6%B4%A5%E8%B4%B4&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 415427",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Putin announces increased maternity benefits for..."
-          }
-        },
-        {
-          "title": "5. BLG越塔",
-          "value": "237377 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBLG%E8%B6%8A%E5%A1%94&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 237377",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "BLG dives the tower..."
-          }
-        },
-        {
-          "title": "6. 杨振宁病危时神智非常清楚 [新]",
-          "value": "237071 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E6%8C%AF%E5%AE%81%E7%97%85%E5%8D%B1%E6%97%B6%E7%A5%9E%E6%99%BA%E9%9D%9E%E5%B8%B8%E6%B8%85%E6%A5%9A&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 237071",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Yang Zhenning was very clear-minded when critically ill..."
-          }
-        },
-        {
-          "title": "7. MG回应MG4换宁德时代",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DMG%E5%9B%9E%E5%BA%94MG4%E6%8D%A2%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "MG responds to MG4 switching to CATL..."
-          }
-        },
-        {
-          "title": "8. 山西一公园裸体雕塑看了太尴尬",
-          "value": "236687 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%85%AC%E5%9B%AD%E8%A3%B8%E4%BD%93%E9%9B%95%E5%A1%91%E7%9C%8B%E4%BA%86%E5%A4%AA%E5%B0%B4%E5%B0%AC&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 236687",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A park in Shanxi has awkward nude sculptures..."
-          }
-        },
-        {
-          "title": "9. 水龙吟",
-          "value": "剧集 233054 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E9%BE%99%E5%90%9F&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 233054",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Water Dragon Chant..."
-          }
-        },
-        {
-          "title": "10. BLG对战VKS [新]",
-          "value": "225127 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBLG%E5%AF%B9%E6%88%98VKS&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 225127",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "BLG vs VKS"
           }
         }
       ]
