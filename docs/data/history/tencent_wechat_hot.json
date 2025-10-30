@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2025-10-30T11:00:59+08:00",
+  "generated_at": "2025-10-30T14:02:03+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-30T14:02:03+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 共创共享亚太美好未来",
+          "value": "指数 7904083",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%B1%E5%88%9B%E5%85%B1%E4%BA%AB%E4%BA%9A%E5%A4%AA%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904083",
+            "api_source": "tianapi",
+            "translation": "Co-create and share a bright future for the Asia-Pacific..."
+          }
+        },
+        {
+          "title": "2. 习近平同特朗普握手合影",
+          "value": "指数 7808548",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808548",
+            "api_source": "tianapi",
+            "translation": "Xi Jinping and Trump shake hands for a photo..."
+          }
+        },
+        {
+          "title": "3. 习近平同美国总统特朗普会晤",
+          "value": "指数 7714370",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7714370",
+            "api_source": "tianapi",
+            "translation": "Xi Jinping meets with U.S. President Trump..."
+          }
+        },
+        {
+          "title": "4. 9图带你了解什么是APEC",
+          "value": "指数 7618317",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=9%E5%9B%BE%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3%E4%BB%80%E4%B9%88%E6%98%AFAPEC",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7618317",
+            "api_source": "tianapi",
+            "translation": "9 images to help you understand what APEC is..."
+          }
+        },
+        {
+          "title": "5. 习近平：让中美关系这艘大船平稳前行",
+          "value": "指数 7519742",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%AE%A9%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%BF%99%E8%89%98%E5%A4%A7%E8%88%B9%E5%B9%B3%E7%A8%B3%E5%89%8D%E8%A1%8C",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7519742",
+            "api_source": "tianapi",
+            "translation": "Xi Jinping: Steer the China-US relationship steadily..."
+          }
+        },
+        {
+          "title": "6. 特朗普：相信我们将建立长期良好关系",
+          "value": "指数 7429128",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E5%B0%86%E5%BB%BA%E7%AB%8B%E9%95%BF%E6%9C%9F%E8%89%AF%E5%A5%BD%E5%85%B3%E7%B3%BB",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7429128",
+            "api_source": "tianapi",
+            "translation": "Trump: I believe we will establish a long-term good..."
+          }
+        },
+        {
+          "title": "7. 净网：网民编造有人跳桥失踪被查处",
+          "value": "指数 7332639",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E6%B0%91%E7%BC%96%E9%80%A0%E6%9C%89%E4%BA%BA%E8%B7%B3%E6%A1%A5%E5%A4%B1%E8%B8%AA%E8%A2%AB%E6%9F%A5%E5%A4%84",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7332639",
+            "api_source": "tianapi",
+            "translation": "Clean Internet: Netizens investigated for fabricating..."
+          }
+        },
+        {
+          "title": "8. 中美元首开场白传递哪些重磅信息",
+          "value": "指数 7231434",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%BC%80%E5%9C%BA%E7%99%BD%E4%BC%A0%E9%80%92%E5%93%AA%E4%BA%9B%E9%87%8D%E7%A3%85%E4%BF%A1%E6%81%AF",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7231434",
+            "api_source": "tianapi",
+            "translation": "What key messages were conveyed in the opening remarks..."
+          }
+        },
+        {
+          "title": "9. 茶位费终于要被立法整治了",
+          "value": "指数 7135787",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%8C%B6%E4%BD%8D%E8%B4%B9%E7%BB%88%E4%BA%8E%E8%A6%81%E8%A2%AB%E7%AB%8B%E6%B3%95%E6%95%B4%E6%B2%BB%E4%BA%86",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7135787",
+            "api_source": "tianapi",
+            "translation": "Tea service fees will finally be regulated by law..."
+          }
+        },
+        {
+          "title": "10. “十五五”时期将推出这些重大举措",
+          "value": "指数 7040151",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E6%97%B6%E6%9C%9F%E5%B0%86%E6%8E%A8%E5%87%BA%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E4%B8%BE%E6%8E%AA",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7040151",
+            "api_source": "tianapi",
+            "translation": "Major initiatives will be launched during the 14th..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-30T11:00:59+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7045851",
             "api_source": "tianapi",
             "translation": "51-year-old DINK in Shanghai makes will, leaving assets..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-24T14:02:22+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 党的二十届四中全会擘画发展蓝图",
-          "value": "指数 7904283",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E6%93%98%E7%94%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904283",
-            "api_source": "tianapi",
-            "translation": "The 20th Central Committee's Fourth Plenary Session..."
-          }
-        },
-        {
-          "title": "2. 教育部：不得以考试成绩对学生排名",
-          "value": "指数 7808389",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%BB%A5%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E5%AF%B9%E5%AD%A6%E7%94%9F%E6%8E%92%E5%90%8D",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808389",
-            "api_source": "tianapi",
-            "translation": "Ministry of Education: No ranking students by exam scores..."
-          }
-        },
-        {
-          "title": "3. “最严重丑闻” NBA多人被卷入",
-          "value": "指数 7713993",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E6%9C%80%E4%B8%A5%E9%87%8D%E4%B8%91%E9%97%BB%E2%80%9D+NBA%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%8D%B7%E5%85%A5",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713993",
-            "api_source": "tianapi",
-            "translation": "\"Most serious scandal\" involves multiple NBA players..."
-          }
-        },
-        {
-          "title": "4. 关键词看党的二十届四中全会公报",
-          "value": "指数 7617151",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7617151",
-            "api_source": "tianapi",
-            "translation": "Key points from the report of the 20th Central Committee..."
-          }
-        },
-        {
-          "title": "5. 健身房3个月减重100斤送帕拉梅拉",
-          "value": "指数 7521547",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%81%A5%E8%BA%AB%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%87%8F%E9%87%8D100%E6%96%A4%E9%80%81%E5%B8%95%E6%8B%89%E6%A2%85%E6%8B%89",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7521547",
-            "api_source": "tianapi",
-            "translation": "Lose 100 pounds in 3 months at the gym, get a Palamera..."
-          }
-        },
-        {
-          "title": "6. 可偷甘蔗地成打卡点 网友深夜体验",
-          "value": "指数 7427406",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8F%AF%E5%81%B7%E7%94%98%E8%94%97%E5%9C%B0%E6%88%90%E6%89%93%E5%8D%A1%E7%82%B9+%E7%BD%91%E5%8F%8B%E6%B7%B1%E5%A4%9C%E4%BD%93%E9%AA%8C",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7427406",
-            "api_source": "tianapi",
-            "translation": "Stealing sugarcane becomes a trendy check-in spot..."
-          }
-        },
-        {
-          "title": "7. 网警起底无底线博流量网络乱象",
-          "value": "指数 7333029",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BD%91%E8%AD%A6%E8%B5%B7%E5%BA%95%E6%97%A0%E5%BA%95%E7%BA%BF%E5%8D%9A%E6%B5%81%E9%87%8F%E7%BD%91%E7%BB%9C%E4%B9%B1%E8%B1%A1",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7333029",
-            "api_source": "tianapi",
-            "translation": "Cyber police expose the limitless chaos for traffic..."
-          }
-        },
-        {
-          "title": "8. 缅甸军方突袭KK园区",
-          "value": "指数 7235916",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BC%85%E7%94%B8%E5%86%9B%E6%96%B9%E7%AA%81%E8%A2%ADKK%E5%9B%AD%E5%8C%BA",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7235916",
-            "api_source": "tianapi",
-            "translation": "Myanmar military raids KK industrial zone..."
-          }
-        },
-        {
-          "title": "9. 未来10年将再造一个中国高技术产业",
-          "value": "指数 7141244",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9C%AA%E6%9D%A510%E5%B9%B4%E5%B0%86%E5%86%8D%E9%80%A0%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%8A%80%E6%9C%AF%E4%BA%A7%E4%B8%9A",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7141244",
-            "api_source": "tianapi",
-            "translation": "In the next decade, a new high-tech industry in China..."
-          }
-        },
-        {
-          "title": "10. 感冒不是冻出来的 这些误区要注意",
-          "value": "指数 7045970",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%84%9F%E5%86%92%E4%B8%8D%E6%98%AF%E5%86%BB%E5%87%BA%E6%9D%A5%E7%9A%84+%E8%BF%99%E4%BA%9B%E8%AF%AF%E5%8C%BA%E8%A6%81%E6%B3%A8%E6%84%8F",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7045970",
-            "api_source": "tianapi",
-            "translation": "Colds aren't caused by the cold; beware of these..."
           }
         }
       ]
