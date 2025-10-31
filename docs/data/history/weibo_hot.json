@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-10-31T14:01:55+08:00",
+  "generated_at": "2025-10-31T18:37:54+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-31T18:37:54+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 理想就车辆起火道歉",
+          "value": "1156889 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%90%86%E6%83%B3%E5%B0%B1%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E9%81%93%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1156889",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Li Auto apologizes for vehicle fire incident..."
+          }
+        },
+        {
+          "title": "2. AL对战T1 [热]",
+          "value": "803121 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAL%E5%AF%B9%E6%88%98T1&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 803121",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "AL vs T1 match"
+          }
+        },
+        {
+          "title": "3. 中国人的太空美学",
+          "value": "671528 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A4%AA%E7%A9%BA%E7%BE%8E%E5%AD%A6&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 671528",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The aesthetic of space for the Chinese people..."
+          }
+        },
+        {
+          "title": "4. 和王鹤棣一起吃乐事有乐事",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%80%E8%B5%B7%E5%90%83%E4%B9%90%E4%BA%8B%E6%9C%89%E4%B9%90%E4%BA%8B&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Eating Lays with Wang Hedi is a joy..."
+          }
+        },
+        {
+          "title": "5. 婚内强奸遭羁押285天男子获国赔",
+          "value": "601401 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E9%81%AD%E7%BE%81%E6%8A%BC285%E5%A4%A9%E7%94%B7%E5%AD%90%E8%8E%B7%E5%9B%BD%E8%B5%94&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 601401",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Man wrongfully detained for 285 days over marital rape..."
+          }
+        },
+        {
+          "title": "6. 湘潭大学投毒案周立人已执行死刑 [官宣]",
+          "value": "318277 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A6%E6%8A%95%E6%AF%92%E6%A1%88%E5%91%A8%E7%AB%8B%E4%BA%BA%E5%B7%B2%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 318277",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "Zhou Liren in the Xiangtan University poisoning case..."
+          }
+        },
+        {
+          "title": "7. 央视曝光盗版剧APP",
+          "value": "269614 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%97%E7%89%88%E5%89%A7APP&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 269614",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "CCTV exposes pirated drama apps..."
+          }
+        },
+        {
+          "title": "8. 今日辟谣 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Today's debunking of rumors..."
+          }
+        },
+        {
+          "title": "9. AL拿到赛点",
+          "value": "262370 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAL%E6%8B%BF%E5%88%B0%E8%B5%9B%E7%82%B9&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 262370",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "AL has reached match point..."
+          }
+        },
+        {
+          "title": "10. 杨紫梅婷生命树合照 [新]",
+          "value": "剧集 258030 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E7%B4%AB%E6%A2%85%E5%A9%B7%E7%94%9F%E5%91%BD%E6%A0%91%E5%90%88%E7%85%A7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 258030",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yang Zi and Mei Ting's photo at the Tree of Life..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-31T14:01:55+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Six male artists drool over food in the variety show..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-25T18:35:20+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. TES战胜BLG",
-          "value": "4524018 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E6%88%98%E8%83%9CBLG&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 4524018",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "TES defeats BLG..."
-          }
-        },
-        {
-          "title": "2. Bin 16强退役 [新]",
-          "value": "4009660 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBin%2016%E5%BC%BA%E9%80%80%E5%BD%B9&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 4009660",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Bin eliminated in the top 16..."
-          }
-        },
-        {
-          "title": "3. 志愿军出国作战75周年",
-          "value": "1679899 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%97%E6%84%BF%E5%86%9B%E5%87%BA%E5%9B%BD%E4%BD%9C%E6%88%9875%E5%91%A8%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1679899",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "75th Anniversary of Volunteer Army's Overseas Combat"
-          }
-        },
-        {
-          "title": "4. 京东11.11花少姐姐送百万免单 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C11.11%E8%8A%B1%E5%B0%91%E5%A7%90%E5%A7%90%E9%80%81%E7%99%BE%E4%B8%87%E5%85%8D%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "JD's 11.11 event: Sister Hua Shao gives away million..."
-          }
-        },
-        {
-          "title": "5. BLG淘汰",
-          "value": "1081172 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBLG%E6%B7%98%E6%B1%B0&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 1081172",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "BLG eliminated..."
-          }
-        },
-        {
-          "title": "6. 泰国宣布禁娱30天 [火热]",
-          "value": "880231 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%B0%E5%9B%BD%E5%AE%A3%E5%B8%83%E7%A6%81%E5%A8%B130%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 880231",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Thailand announces a 30-day entertainment ban..."
-          }
-        },
-        {
-          "title": "7. 台湾",
-          "value": "835345 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 835345",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Taiwan..."
-          }
-        },
-        {
-          "title": "8. TES对战BLG [新]",
-          "value": "473539 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%AF%B9%E6%88%98BLG&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 473539",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "TES vs BLG"
-          }
-        },
-        {
-          "title": "9. 景区观光小火车疑坠海致多人伤亡",
-          "value": "393299 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AF%E5%8C%BA%E8%A7%82%E5%85%89%E5%B0%8F%E7%81%AB%E8%BD%A6%E7%96%91%E5%9D%A0%E6%B5%B7%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 393299",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Tourist train suspected to have fallen into the sea,..."
-          }
-        },
-        {
-          "title": "10. TES晋级八强 [热]",
-          "value": "295068 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 295068",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "TES advances to the top eight..."
           }
         }
       ]

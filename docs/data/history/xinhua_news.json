@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-10-31T14:02:31+08:00",
+  "generated_at": "2025-10-31T18:38:43+08:00",
   "entries": [
+    {
+      "as_of": "2025-10-31T18:38:43+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息丨国家主席习近平出席亚太经合组织第三十二次领导人非正式会议第一阶段会议",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcWptOTlPaGkxSG8wTzdzLTdpT0RBSWt0YXp6ZXpJWVhDNzNRN0NBLVRmSnpIV3RjQkxVcnRrbUctQ2VlMW1EWDNmQzg3SEh4eGx5bV9IbEN0WnFHb3JxRjNRbjdpR0wxUUdhbGxydE5Ob1ZPUXVGZVFlZUVoVXZTVzJ0bmI1b0YxdWYta05rVzdyM1dt?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-30T17:18:33Z",
+            "summary": "新华社消息丨国家主席习近平出席亚太经合组织第三十二次领导人非正式会议第一阶段会议 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xi Jinping attends APEC leaders' informal meeting..."
+          }
+        },
+        {
+          "title": "新华社快讯：习近平会见泰国总理阿努廷",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFROMDdCMUV6dUQ2WTVQY1FjVWRpbnFRc2FRbzR2WEVmclluRlEyMnJ0WnYtaGVqbXU0VWxPZXNFblEzYW15MmNFWk41ZXF6aFVmeVNobnB1OEVtUWJzZ1RBalVYMVlidUdkSUNjRnBnYkFvQUZQWEZ2Y2d0Z3dwUDg0TXhRNGZqY0YtV09UbndhY2M1?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-30T23:40:49Z",
+            "summary": "新华社快讯：习近平会见泰国总理阿努廷 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xi Jinping meets with Thai Prime Minister Anutin..."
+          }
+        },
+        {
+          "title": "北京：五塔寺秋色浓",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVS1iZWJXc1YtY0ZMTk1XWEhlaFRteGdGd3prcmRSZjhjRzhCVGVJb3JIR3J2a3pLeGVhUFJsYmc2cGkzcjF6YXNjQ3Q0SDk3TzJqcVJKaHUtaDFicVM2dFZzM1AxS2ZoSTNlNDJkdlI5NFdNamgwbTNGR0lSSnRNV2NKaFBfdw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-30T23:37:09Z",
+            "summary": "北京：五塔寺秋色浓 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Beijing: The autumn colors at Five Pagoda Temple are rich..."
+          }
+        },
+        {
+          "title": "美丽中国丨额济纳：晚秋胡杨美",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSG1zaGYxNVFkWFktT1QzQVlkYUVYV0hNVEpSczV3d3hGS1l4bWNlNUI1bW5zcFo1QnM3YjR0VXhpTnpYekZwb3FhZTZITndLSHFPVjNkT3paR2Q0LVV2anhIZS1DbV9udzRuellVTXQtUFNJcFFhanlkQUNIMkV4ZlNwaUVOZw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-30T17:07:24Z",
+            "summary": "美丽中国丨额济纳：晚秋胡杨美 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Beautiful China: Ejina's stunning poplar trees in late..."
+          }
+        },
+        {
+          "title": "一汽-大众第3000万辆整车下线 外资企业释放看好中国信心",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NclBsQXFJV0Jmd21sb1dNcUVGTzQ3clY5V2VWekdTcXJnZ1p0WnJlUWY3RzV0Q2cyT3pMeUYzQkh1T3RFcFEtWmVLeUVIemIyZTBrcmdPM01OdjdkcnUwM0lrMWVWV21qMVhCUHdxMVNwem56QjQ0UWtfdGZldw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-10-30T17:26:35Z",
+            "summary": "一汽-大众第3000万辆整车下线 外资企业释放看好中国信心 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "FAW-Volkswagen's 30 millionth vehicle rolls off the line..."
+          }
+        },
+        {
+          "title": "国铁集团郑州局开出铁路线上办理额度最大的国内信用证",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYcWIwVDB5NHlEUVJ3bVF5TXpHYnNBS1QzY3dZbXNtRzRoMThQLVZ6RURVNDRGN3ZYcW9WWVNjYndxeHZpdTFmYVgzaWE0ZUF5MzBPU3loTC1sMkxIb2lhcFl3OU15ajlEb1JGSGxaczJUYlAtSmtHWWZUVXk1dw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-30T03:53:04Z",
+            "summary": "国铁集团郑州局开出铁路线上办理额度最大的国内信用证 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zhengzhou Bureau issued the largest domestic letter of..."
+          }
+        },
+        {
+          "title": "《小城镇 大中国》新书“江村”首发 40年后沿着费孝通先生足迹追访",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzFLWGtlUkJudTVvcE5pajBhQ1BrWXpYbEtwaTB1Vjh2azZCdEhtbzJJaXE2N3JGa1NGX2RsTGlfWHhpWjBYQVlIM3J2M0FZbFVoN1JJbFRYZ2tWSExTYm1mbXFhODdIMGY4X3F3TkhXaGVMd0UxTEVoZ3lYUkFrTnUwMGNOQ3FO?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-30T22:47:18Z",
+            "summary": "《小城镇 大中国》新书“江村”首发 40年后沿着费孝通先生足迹追访 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "New book \"Jiang Village\" launched, tracing Fei..."
+          }
+        },
+        {
+          "title": "新华鲜报丨支持提振消费！免税店政策“升级”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0ZONncwLTJTWDNMWDEzSzU1UkNxcGo1MVp0cERBUVpQdkpVODRheGJHU19iZEpobjFMSnN0TTVLbDR6T3R4by0tNXFaQmdmdE9mT3NUd0RNVlRGM3FJRmRDMWtsVXpXVUFaZHh2a2Q2ZjhyMkVNaFd0aDlfRmNmVDJWdHdmSTQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-30T18:13:40Z",
+            "summary": "新华鲜报丨支持提振消费！免税店政策“升级” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua Fresh Report: Boosting consumption! Duty-free..."
+          }
+        },
+        {
+          "title": "财经聚焦丨关键指标创新高！广交会透出外贸新气象",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdkx0bjdHQm1yajNUNWM4OEZtR2ducmV0R2hlN0hnS2ZfbXBrY18zSVZoeHFsNy04UG9xSDFJWC0wbGpQWllHNC1FQXlMREZWZnFIeVVYZWdVcmxzWEVrbW95WkhKY1RzWi1pNDYtS3NPYVRpcHI5Y1lqNXpUeUNxOGFqV0FPLUF4?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-30T09:41:03Z",
+            "summary": "财经聚焦丨关键指标创新高！广交会透出外贸新气象 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Economic Focus: Key indicators hit new highs! Canton..."
+          }
+        },
+        {
+          "title": "商务部关于拓展绿色贸易的实施意见",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnB2VnloUFBwWHVGR1ViZDJvaXFPN3dJVWM3czBld092WUhEM29McXgzNlM4Wk5aemVfZm9sMXlRUHNSVldMQnQ1Nnp1Wm92V0RhR2pKSDc1S3cwa01RT2hlaXA5Z2FYZUE4WjIxWG5UVUVfUjExbTE0MXhmcDV1QUNTYWRVWl9t?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-10-30T05:49:50Z",
+            "summary": "商务部关于拓展绿色贸易的实施意见 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Implementation Opinions on Expanding Green Trade by the..."
+          }
+        },
+        {
+          "title": "财经聚焦丨关键指标创新高！广交会透出外贸新气象",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdkx0bjdHQm1yajNUNWM4OEZtR2ducmV0R2hlN0hnS2ZfbXBrY18zSVZoeHFsNy04UG9xSDFJWC0wbGpQWllHNC1FQXlMREZWZnFIeVVYZWdVcmxzWEVrbW95WkhKY1RzWi1pNDYtS3NPYVRpcHI5Y1lqNXpUeUNxOGFqV0FPLUF4?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-30T09:41:03Z",
+            "summary": "财经聚焦丨关键指标创新高！广交会透出外贸新气象 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Economic Focus: Key indicators hit new highs! Canton..."
+          }
+        },
+        {
+          "title": "泉州鲤城：“先锋入库”工程为区域产业发展注入“红色动能”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmdPU1UtV0xNenRMUnNPNUFRYVlaR2tYWDJiTk9haXBwY1ZFRGZ0aFFMNHF1d0J3MzBBenZwTWJKcWs5U29sQUJHd21vN2RkX3Y4UldoQTJpUTRfSUZZem8zalFxWTNBQzVVdC1HcFpPNVg1cWJrd001RHd2cm9ZaFByeDY2NnRC?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-30T23:19:43Z",
+            "summary": "泉州鲤城：“先锋入库”工程为区域产业发展注入“红色动能” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Quanzhou Licheng: \"Pioneer Storage\" project boosts..."
+          }
+        },
+        {
+          "title": "泉州银行“爱拼卡”在福州首发",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWxBVlI5WERSa2ZWYUNvLXdkRFBnM0xfWXlXMXl5MmxDdXlMeTBRSk1RNEhYSEJmWkpWVURpbEZCV3FuUzAxbUxJbzloTzlIckxHT1hTc0RwdXlBM0pNN2dQN3J4cnpyWnpzQmlxYXc1MW5mdExqUVhINk5WcV9Hc3c3N2x0WXBh?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-30T23:19:37Z",
+            "summary": "泉州银行“爱拼卡”在福州首发 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Quanzhou Bank's \"Love to Win Card\" launched in Fuzhou..."
+          }
+        },
+        {
+          "title": "中国工商银行泉州分行获福建省分行员工运动会团体“三连冠”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3hTMzV1d3p3NkgwQ0hWQmZJWmRJc25yeWc0aFZmWkJublpMd2l5LXFEYm9YOU1kdjlNRmpsa2U0ZVdoQVVxdHNtOUtYb1A5MnIyM0ROR0x6SGJzNDRfNlh0VHFLUFpZOTkwYUgxbGRZdENtcFpjWW9XbWpoZDJfb2ZoWnYzN1lV?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-30T23:19:29Z",
+            "summary": "中国工商银行泉州分行获福建省分行员工运动会团体“三连冠” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "ICBC Quanzhou branch wins \"three consecutive..."
+          }
+        },
+        {
+          "title": "打击整治金融黑灰产 金融街论坛年会上说了啥？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdy1FZzdhVTl2QXBsOEJSS0RMdFB3OHE4cjdvQkZDamo0dTBDRHJiRWI5V1dmaWxXOHNTMUZYQ1RXaWpNQjFLMmFRa241ZVVhR3ZFMEdFdTJtZVpRNW1KSUFnTlplWXdJVUN4MWkzWUd6RnBjQk5FZ0QtOWowUEN3dzUyT0JvNi1y?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-10-30T04:46:40Z",
+            "summary": "打击整治金融黑灰产 金融街论坛年会上说了啥？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "What was said at the Financial Street Forum on combating..."
+          }
+        },
+        {
+          "title": "河北石家庄：电子科技园区光电创芯园开园",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU1kR05FbkxKcTI1Y0VYbjJtdDVfX1BWVWtnWS1WdFNKVEJONVBPbHg3RHI1bHRmdzhqTGxfTmk0QjIza0pyMnhuSXdleGV4cFR3WXRxN1k1QkNaMndKUFFwWWVCUWxidHF4cWYwUWczNk02a1l6dTNnT1NPUWhfaHBjMDFJdw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-30T23:41:47Z",
+            "summary": "河北石家庄：电子科技园区光电创芯园开园 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hebei Shijiazhuang: Optoelectronic Innovation Park opens..."
+          }
+        },
+        {
+          "title": "牵住科技创新这个“牛鼻子”——新发展理念引领高质量发展一线观察之一",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFlWa1pxUlVVYXNkY2dLdzJBdUxYVVkyczJlNkNCeXROTmRZN1N2NTZFanEySzNOUVRaTkNfSEtTemJhV1FLdVlHT3hhRWZzX0NFSDAwTnpZWWpYbGhPMU54NzhKVGJnUmJYUUtSYmpZd0l2bWlsd0MxZWpmUUF2Vm1hR3Y?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-30T08:47:54Z",
+            "summary": "牵住科技创新这个“牛鼻子”——新发展理念引领高质量发展一线观察之一 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Grasping the \"bull's nose\" of technological innovation..."
+          }
+        },
+        {
+          "title": "河南：科技赋能 助力秋播",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYk9sb3lSck53dm1CM0JjT0QxSEh1OXNmNUpKVmdhMkFiZHJkSWxrYXU0OWw0NUEtaVhQRjRXdnpuWkxLbmJ2RWRSbnJUZ3FRbE9Ed1BkZUhldFByQWFFRF9lQ3BNX2tWbWxpY1BTMFRxYTBCNUtPbFVVWmE1a0pfVk40MXcxUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-30T22:36:49Z",
+            "summary": "河南：科技赋能 助力秋播 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Henan: Technology empowers and supports autumn sowing..."
+          }
+        },
+        {
+          "title": "金融街论坛丨金融如何赋能科技服务业高质量发展？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLVJBOXRNdXVPUmRFdzh0S2lFc28zMEY4S29GV0txVzJLQXYzQ3VELXNOcGt2eVVUczU5OHdhc0tZWllPYy1SYk9oYVZfeUR5WF9zTF9QVEZfMEZHbWxpSm04MWowM0dENjAySDRMdnVCenZxRm4zMzdWd3hzdTgyY0hqY3JJcTBJ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-30T03:16:31Z",
+            "summary": "金融街论坛丨金融如何赋能科技服务业高质量发展？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Financial Street Forum: How can finance empower..."
+          }
+        },
+        {
+          "title": "“双端”改革协同发力 构建资本市场投融资平衡新格局",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa1d1TlE2azN0S1FPNUJHOVFmUnhSUTJuUDc4N3NrMlVXLW1VUEhuSjJtUjE3U2FFVnhIb1V3LXdTeGZDeWthZ0ZpOHplVVJGWm5oTmVQa3hhNkllOTJWcUhjWWQ2NWxFNGNNTmZHM0tadkRaZ0xzREh6c0hDNWh4bVVVQzVKZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-10-30T17:05:17Z",
+            "summary": "“双端”改革协同发力 构建资本市场投融资平衡新格局 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"Dual-end\" reform synergizes to create a new balance in..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-10-31T14:02:31+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "Observing: Making Great Strides in Modern Agriculture..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-25T18:35:52+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "布达拉宫迎来年度“美容”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMkZkMlAwamQzR1Z1U3ZXN19rY094VVJ0ZEhMWW5zZzR4VHIzdk5GaTI3Qi1hWjgyUzF5aS15YmNvMC1FeU5IX0ZORmY4U3JjQUVBVDZ3eU83Y05ZYUFUb2MyYjVZZlBEMzNRY09UVVpONmZVQ1FncktXRG1FNVBmLWhLX3A3MlJOMzFLa0dMcw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-24T22:22:50Z",
-            "summary": "布达拉宫迎来年度“美容” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The Potala Palace undergoes its annual \"beautification\"..."
-          }
-        },
-        {
-          "title": "烟花绽放浏阳河畔",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDJ1U3pPckU1UlpDUTZ1ZTV0TVE3RDMxSVBaUldZMjhzZkJOOFlobHQ5dWJycllDZmpHM2VUY25Ed2FfdjBlbk5fTVBVMFlpc1FiTmZKQ3JSdXdYWnoxSFJqV3J6cVJoOWVqREg3QWt5S2k1T21vZms2cFJlSzhKZENCeEVwUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-24T18:06:54Z",
-            "summary": "烟花绽放浏阳河畔 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Fireworks bloom by the Liuyang River..."
-          }
-        },
-        {
-          "title": "杂技走进蓉城老茶馆",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2tsb3NFbHl5a1ZZRUp2M09oTG1xcEl4ZVBsZ3ZCZTNidEVhR183MlFodGZ4WlNHWllHRTVhRHhIYmRwSWJQZVZBdGxzZEpoZnZkRFJFd1JNaEVwVm8zRURJZFVqOXhZcWVBRmE4dEp6RFhBS0otY05SREQ1Y2k5S09yNHZxQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-25T00:15:34Z",
-            "summary": "杂技走进蓉城老茶馆 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Acrobatics enter the old teahouse in Chengdu..."
-          }
-        },
-        {
-          "title": "中美经贸磋商在马来西亚开始举行",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEJBdnBtS0RHRi04RkdUZlVoUmo1cFN3RTVEQWxjVTF3U2tFalpDSGJsOXZQY0w1QldiUzZIZl9YT29jMjBtcW5FaDVuRkJrVGY4eFgxY3JTN3pERTRmeTR4ZXdvdjB4TEtrQmdNWHBZdE1kNjhMNEFoZ1VFRWtreEN6dnBiUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-24T20:15:11Z",
-            "summary": "中美经贸磋商在马来西亚开始举行 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China-U.S. economic and trade talks begin in Malaysia..."
-          }
-        },
-        {
-          "title": "正当时：2025年10月25日",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmQ3dURtcGdlV2dmMi14ejROX3NkQ2llQzhpWXI0MTc0NW9CLXpXSFRvVWhzQWROemRMNjdsbklYTnFESkZEMkltTkg5Q1pocGNnT1NxUEVLSml2N05tcEp1OF81c3RNYTVvMm9xVWlmdDRvYU1zX2Y4VUVPeTlRVFdDcWprb3R1VmtBcg?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-24T15:41:12Z",
-            "summary": "正当时：2025年10月25日 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Just in time: October 25, 2025..."
-          }
-        },
-        {
-          "title": "镜观中国·新华社国内新闻照片一周精选",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM3oweGhGNjVJTm5nWXBuOGEyT1lxT1lFLXdjY29OTUYyYzJMQzltQnVLNGw1Snk1bHF6NHJuNEhwS0toYThYb0tPVi1Ud3VBY1Y3dHFpQTBmT2VONDJrYlBSUkhzWmoxNzZyb19uYzVEQzBfQzdFcFV1Q0Jna2hFMVhtSDJIQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-24T19:13:38Z",
-            "summary": "镜观中国·新华社国内新闻照片一周精选 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China in Focus: Weekly Selection of Xinhua Domestic News..."
-          }
-        },
-        {
-          "title": "权威数读丨一周“靓”数",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODFlZkFNdVJKNTRQN3ZoWkVnTnZVLW8ybTBrVXlSSGl0Y3BMRGZOU2swdGxHc1NyLWZOaFV6Nkt1TC15X20tOEdBSTVCQ2h5UmRXdk1JOXVuUWdMSmRNbmpzYm5lc1Q0aHAyNk9jQ0hhZ3JXZVZTdGdwVl9najVnOG9pNG81V0V6?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-24T17:19:05Z",
-            "summary": "权威数读丨一周“靓”数 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Authoritative Data Review: This Week's Highlights..."
-          }
-        },
-        {
-          "title": "“世界市长对话·郑州”举行 共议文化遗产保护与城市更新",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xMnhpaHlUeHBGR1lGbFNfTnZnUkFuZVRLWnh4dXZWZGFmc1VsUGxqNDVIMGRtYi1qNGo5dG9hWTRuRXlOeHJHODBRMGVYLThjZV9yMi1RWnlhM0JDZWlKSGRxTEtXUjYtNnN6dVJneFp5eHBiNU43VHBuc1I1dw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-24T04:08:36Z",
-            "summary": "“世界市长对话·郑州”举行 共议文化遗产保护与城市更新 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"World Mayors Dialogue in Zhengzhou\" discusses heritage..."
-          }
-        },
-        {
-          "title": "日本新首相“鹰派”施政方针引担忧",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PV3RCeHg2dmxPaHZsbDdmVUtxb0FlXzZRcVBkQTRRcHhUSVJIbXFOcGYtVFg5SC1CUFhPUi1WcndDam4xNTFoUXdXMTRYQVNQSUVSMWdLRllpcGZIbHRRd2MxSkhuUU10TUpFMktMSVFKaXpjWDJQWlp1WmN6Zw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-24T02:47:39Z",
-            "summary": "日本新首相“鹰派”施政方针引担忧 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "New Japanese PM's \"hawkish\" policies raise concerns..."
-          }
-        },
-        {
-          "title": "李强主持召开国务院“十五五”规划《纲要草案》编制工作领导小组会议强调全面贯彻党的二十届四中全会部署高质量编制“十五五”规划纲要丁薛祥出席",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3VqOFdIS3p6ZTUzQ3dlN1RPQ25ERHJENXVvV1VOVnUzRGNOb2FWcjZiN05vYlNXUGJsN2JjeWpMVl9XbFBzRm9Gd2Jtc2E2clBOaVJobjJ3UmItSlBXVDF3eXI5Z3NNOWV6V3BXMkgzblF5T3Nua2NOZHRGZDdoSXFsZ290NUMzYS1YdW5mcVZldXo3?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-24T05:26:54Z",
-            "summary": "李强主持召开国务院“十五五”规划《纲要草案》编制工作领导小组会议强调全面贯彻党的二十届四中全会部署高质量编制“十五五”规划纲要丁薛祥出席 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Li Qiang chaired a meeting on the 14th Five-Year Plan..."
-          }
-        },
-        {
-          "title": "财经深一度丨增量扩面！债券市场“科技板”加速支持科技创新",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0taRXJTTVE0ZW9PNmdLR3RiY21yQXMwY2lFS1JvQjNNUFl0YzBWdHg1TXVhanNNNGkzS2NXVlFhaVNacjA3WTN2T0VKd0tlc0JwOWJPWmxFc0k3Z2pTd3N6RjVPT2VaeUpKV2I4TE5PQmRHcndPQ2x4QzU0UkJtQVAtQTdTUG90?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-25T00:31:31Z",
-            "summary": "财经深一度丨增量扩面！债券市场“科技板”加速支持科技创新 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Finance Deep Dive: Bond market's \"Tech Board\" boosts..."
-          }
-        },
-        {
-          "title": "新华网财经观察丨“双十一”为什么越来越早了？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRklvSENUeS00VjVlQjNibkJBcVRKVXVUd1pjdjBhYTBxTUZZX2F1YjNtX0JCUndUZmpaSllPczBLN1MxWkxmcFdkOXJmZlU1dVJfLVo4RkNwZlR0cm1BanYyTDMyQVdrSUdhODZSN0xYMWFGTWdPaXBJNGo0cEhHTG9FcWt2eFQz?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-24T19:06:42Z",
-            "summary": "新华网财经观察丨“双十一”为什么越来越早了？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua Finance Observation: Why is \"Double Eleven\"..."
-          }
-        },
-        {
-          "title": "脑机接口技术研讨会成功在京举办 共绘神经调控与人机交互新蓝图",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3NJNjRZZXBNUXI0bmE5UkVQT3gzanMtaWJnMG9Fd05Lbl80dHN0dUtha3Z2N2ZZWXpBSjJtMGdxaFU4dzQ5azY5T196Z0FVVGgtTzc4czNFU0hPaENyTkppSXMxcVRCM20wbUVMdU9Yd256d2pfUmhPd2RFN0tPZHZLWTlQQmF3?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-24T22:54:02Z",
-            "summary": "脑机接口技术研讨会成功在京举办 共绘神经调控与人机交互新蓝图 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Successful brain-computer interface seminar held in..."
-          }
-        },
-        {
-          "title": "全运会｜水球——男子小组赛：湖南胜重庆",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkkzcVlNblFRN0FhUjRwdkVJT3BVZUJNVlU1bWdwT05oWHZockxTYlZYck5GaWtDMm5oOW4yTkNCWnVXQnFHUE5VQWpwZ0tGYVl5VktXN19sME5KMG9zQzJqZ0dBam5aRVYwbGRRNmh6Y291MTRSd1ROclkySlJwVlh1T2NJdU0?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-24T09:26:35Z",
-            "summary": "全运会｜水球——男子小组赛：湖南胜重庆 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "National Games: Water Polo - Hunan defeats Chongqing"
-          }
-        },
-        {
-          "title": "纪念台湾光复80周年档案史料亮相广东省档案馆",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHliSkFxUHlqOXRlNl9nSGVrLU56NU83T212Z1MyMFI3ZzNGZUdkaUNtNDhMaWIzN2NKT2cweHRxbWZpYkhSbDg2SDBfcFl1SHhBVl95R1Q4Y3JMX0h2MGdxT2hYeTZJa0x3SmZncDBIQ2NzTEcyZ1p1b3BDM2hLWjBNaw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-24T04:56:39Z",
-            "summary": "纪念台湾光复80周年档案史料亮相广东省档案馆 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "80th anniversary of Taiwan's liberation showcased in..."
-          }
-        },
-        {
-          "title": "科技点亮“敬老月”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLTUxRUxhMzhQM0p6aVM3aDZaM3VXSnZVWDJYdzhyQUNOdG5KX05nVFRMNFExbEVuNXlXRXY5Snl0MkI1Zzg1TXQzRG96c0xmdVJfcnhIaHdpUEp3YUhkS0VoWmJTXzJPWkdlOC1EeTI4amsxdXRkZFp2S001bk5HWDZtQnJEdw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-24T23:33:48Z",
-            "summary": "科技点亮“敬老月” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Technology illuminates \"Respect for the Elderly Month\"..."
-          }
-        },
-        {
-          "title": "中国人民银行：三季度末我国科技型中小企业获贷率为50.3%",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1MEw4U0xfems5cUdibGFnVHZKdG1aSUstM2JncVRya2FuMjVFSnZEcFMtV19OYkZxajlhREpSdG9EeWZ2UHBrVTRBSmJGMjlBQmZFUUllZ2NBa09DV2tlN0lVdjh2R0dQbnpNVVUyUDY3ejFobDZsdGxjQU9jQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-24T02:59:32Z",
-            "summary": "中国人民银行：三季度末我国科技型中小企业获贷率为50.3% 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "People's Bank of China: 50.3% of tech SMEs secured loans..."
-          }
-        },
-        {
-          "title": "财经深一度丨增量扩面！债券市场“科技板”加速支持科技创新",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0taRXJTTVE0ZW9PNmdLR3RiY21yQXMwY2lFS1JvQjNNUFl0YzBWdHg1TXVhanNNNGkzS2NXVlFhaVNacjA3WTN2T0VKd0tlc0JwOWJPWmxFc0k3Z2pTd3N6RjVPT2VaeUpKV2I4TE5PQmRHcndPQ2x4QzU0UkJtQVAtQTdTUG90?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-25T00:31:31Z",
-            "summary": "财经深一度丨增量扩面！债券市场“科技板”加速支持科技创新 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Finance Deep Dive: Expanding the bond market to support..."
-          }
-        },
-        {
-          "title": "第32届中国杨凌农高会探寻农业新质未来",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkx4NjBaMkhiUDJFOUxZTXptdkhjX0t6V3FtaXhjcmxZb1laXzJaTzMzV25PeG1MNnU0OVAtY3FVMmFVSHFFU2lfcGNZWm1qOS1uN1k4My1adG1tU3VMSzNYcHZ0NWI0QkMyVFZOMlltZWFQQmlvSFg5Q0otakE4VERoRG1NZw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-25T01:01:41Z",
-            "summary": "第32届中国杨凌农高会探寻农业新质未来 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The 32nd Yangling Agricultural High-tech Fair explores..."
-          }
-        },
-        {
-          "title": "确保基本实现社会主义现代化取得决定性进展——与会同志谈贯彻落实党的二十届四中全会精神-新华网",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82RUZuc3ZHTTk0UHlXMjg4OFVMN1hNUXRHY2lUM1FoQm0xWl9KdXMtS04ya0JHd1dBTnkyeFp0QVpXb2ozbUtGeDJydVNIV0ZWVExJYVZKdjBJQmJfa0xfY2syc1F3Vk5VSC1lNEtCODBQdzFCRWUybC1WWlYwdw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-24T05:17:14Z",
-            "summary": "确保基本实现社会主义现代化取得决定性进展——与会同志谈贯彻落实党的二十届四中全会精神-新华网 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Ensure decisive progress in socialist modernization..."
           }
         }
       ]
