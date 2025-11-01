@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-01T11:00:24+08:00",
+  "generated_at": "2025-11-01T14:01:48+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-01T14:01:48+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 十日终焉阵容",
+          "value": "剧集 1092237 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%98%B5%E5%AE%B9&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1092237",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Ten-Day Finale Lineup..."
+          }
+        },
+        {
+          "title": "2. 黄金有关税收政策公告来了",
+          "value": "249971 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 249971",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Announcement on gold-related tax policies is here..."
+          }
+        },
+        {
+          "title": "3. 神二十一发射成功",
+          "value": "249642 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 249642",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Shenzhou 21 launched successfully..."
+          }
+        },
+        {
+          "title": "4. 天猫双11狂欢加码万元大额券",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E7%8B%82%E6%AC%A2%E5%8A%A0%E7%A0%81%E4%B8%87%E5%85%83%E5%A4%A7%E9%A2%9D%E5%88%B8&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Tmall Double 11 frenzy boosts big coupons worth thousands..."
+          }
+        },
+        {
+          "title": "5. 冯淬帆去世",
+          "value": "248088 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%AF%E6%B7%AC%E5%B8%86%E5%8E%BB%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 248088",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Feng Cuifan has passed away..."
+          }
+        },
+        {
+          "title": "6. 小狗疑被毒死女子辞职追凶3年 [重磅]",
+          "value": "246616 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%8B%97%E7%96%91%E8%A2%AB%E6%AF%92%E6%AD%BB%E5%A5%B3%E5%AD%90%E8%BE%9E%E8%81%8C%E8%BF%BD%E5%87%B63%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 246616",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Woman resigns to pursue dog poisoning case for 3 years..."
+          }
+        },
+        {
+          "title": "7. Faker回应打LPL没输过",
+          "value": "245021 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DFaker%E5%9B%9E%E5%BA%94%E6%89%93LPL%E6%B2%A1%E8%BE%93%E8%BF%87&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 245021",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Faker responds that he has never lost in the LPL..."
+          }
+        },
+        {
+          "title": "8. 以快克疾决战回马枪 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A5%E5%BF%AB%E5%85%8B%E7%96%BE%E5%86%B3%E6%88%98%E5%9B%9E%E9%A9%AC%E6%9E%AA&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Swiftly counterattack with a quick decision..."
+          }
+        },
+        {
+          "title": "9. 喜人奇妙夜 再见爱人",
+          "value": "综艺 243443 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%20%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "综艺 243443",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A Delightful and Mysterious Night: Goodbye, Lover..."
+          }
+        },
+        {
+          "title": "10. 年轻人爱上越剧",
+          "value": "242214 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%88%B1%E4%B8%8A%E8%B6%8A%E5%89%A7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 242214",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Young people fall in love with Yue Opera..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-01T11:00:24+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Young people are frantically snatching up bread for 35..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-26T14:02:18+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 3人在深圳一地质公园徒步时遇难",
-          "value": "1120080 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E8%B4%A8%E5%85%AC%E5%9B%AD%E5%BE%92%E6%AD%A5%E6%97%B6%E9%81%87%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1120080",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Three people died while hiking in a geological park in..."
-          }
-        },
-        {
-          "title": "2. 湘潭大学37岁博导刘昊霖去世 [新]",
-          "value": "411749 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E5%8D%9A%E5%AF%BC%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 411749",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Xiangtan University 37-year-old professor Liu Haolin..."
-          }
-        },
-        {
-          "title": "3. 十五五6个坚持原则",
-          "value": "375014 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E4%BA%946%E4%B8%AA%E5%9D%9A%E6%8C%81%E5%8E%9F%E5%88%99&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 375014",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Six principles of the 15th Five-Year Plan..."
-          }
-        },
-        {
-          "title": "4. 李在明称电诈组织碰韩国人必死",
-          "value": "360568 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E7%94%B5%E8%AF%88%E7%BB%84%E7%BB%87%E7%A2%B0%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%BF%85%E6%AD%BB&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 360568",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Lee Jae-myung claims fraudsters targeting Koreans will..."
-          }
-        },
-        {
-          "title": "5. 父亲囤40多件黄金给女儿当嫁妆",
-          "value": "288199 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B6%E4%BA%B2%E5%9B%A440%E5%A4%9A%E4%BB%B6%E9%BB%84%E9%87%91%E7%BB%99%E5%A5%B3%E5%84%BF%E5%BD%93%E5%AB%81%E5%A6%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 288199",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Father hoards over 40 gold pieces as dowry for daughter..."
-          }
-        },
-        {
-          "title": "6. 入青云结局 [新]",
-          "value": "剧集 273751 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A5%E9%9D%92%E4%BA%91%E7%BB%93%E5%B1%80&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "剧集 273751",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The ending of \"Entering the Azure Cloud\"..."
-          }
-        },
-        {
-          "title": "7. 2元维C和98元维C的区别",
-          "value": "240544 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2%E5%85%83%E7%BB%B4C%E5%92%8C98%E5%85%83%E7%BB%B4C%E7%9A%84%E5%8C%BA%E5%88%AB&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 240544",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Difference between 2 yuan and 98 yuan vitamin C..."
-          }
-        },
-        {
-          "title": "8. 郑智化的尊严是我们共同的底线",
-          "value": "187078 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E6%99%BA%E5%8C%96%E7%9A%84%E5%B0%8A%E4%B8%A5%E6%98%AF%E6%88%91%E4%BB%AC%E5%85%B1%E5%90%8C%E7%9A%84%E5%BA%95%E7%BA%BF&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 187078",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zheng Zhihua's dignity is our common bottom line..."
-          }
-        },
-        {
-          "title": "9. 35元1个面包被年轻人疯抢",
-          "value": "166362 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D35%E5%85%831%E4%B8%AA%E9%9D%A2%E5%8C%85%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%96%AF%E6%8A%A2&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 166362",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Young people are frantically buying bread for 35 yuan..."
-          }
-        },
-        {
-          "title": "10. 大梦归离 [新]",
-          "value": "剧集 159488 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "剧集 159488",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Great dreams return to separation..."
           }
         }
       ]
