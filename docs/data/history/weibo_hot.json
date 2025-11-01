@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-01T14:01:48+08:00",
+  "generated_at": "2025-11-01T18:35:45+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-01T18:35:45+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 唐朝诡事录之长安",
+          "value": "剧集 1089934 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1089934",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Strange Tales of the Tang Dynasty: Chang'an..."
+          }
+        },
+        {
+          "title": "2. 这些公务员不能辞职",
+          "value": "310053 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%8D%E8%83%BD%E8%BE%9E%E8%81%8C&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 310053",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "These civil servants cannot resign..."
+          }
+        },
+        {
+          "title": "3. 2026研考冲刺攻略来了",
+          "value": "306709 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E7%A0%94%E8%80%83%E5%86%B2%E5%88%BA%E6%94%BB%E7%95%A5%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 306709",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "2026 exam preparation strategies are here..."
+          }
+        },
+        {
+          "title": "4. chovy状态 [新]",
+          "value": "306508 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dchovy%E7%8A%B6%E6%80%81&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 306508",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Chovy's status..."
+          }
+        },
+        {
+          "title": "5. GEN对战KT",
+          "value": "261963 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DGEN%E5%AF%B9%E6%88%98KT&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 261963",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "GEN vs KT match"
+          }
+        },
+        {
+          "title": "6. 高市早苗主动上前搂住智利总统 [新]",
+          "value": "257739 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%8A%E5%89%8D%E6%90%82%E4%BD%8F%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 257739",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Takaichi Sanae主动 hugged the Chilean president."
+          }
+        },
+        {
+          "title": "7. 天选好面康师傅为中国航天加油",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E9%80%89%E5%A5%BD%E9%9D%A2%E5%BA%B7%E5%B8%88%E5%82%85%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8A%A0%E6%B2%B9&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Master Kong supports China's space endeavors..."
+          }
+        },
+        {
+          "title": "8. Faker预测S15决赛对手",
+          "value": "219898 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DFaker%E9%A2%84%E6%B5%8BS15%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 219898",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Faker predicts the opponent for the S15 finals..."
+          }
+        },
+        {
+          "title": "9. 每片红叶里都有一场盛大的秋天",
+          "value": "219730 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%8F%E7%89%87%E7%BA%A2%E5%8F%B6%E9%87%8C%E9%83%BD%E6%9C%89%E4%B8%80%E5%9C%BA%E7%9B%9B%E5%A4%A7%E7%9A%84%E7%A7%8B%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 219730",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Each red leaf holds a grand autumn..."
+          }
+        },
+        {
+          "title": "10. 中国第42次南极考察队从上海起航",
+          "value": "217569 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%AC%AC42%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E4%BB%8E%E4%B8%8A%E6%B5%B7%E8%B5%B7%E8%88%AA&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 217569",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China's 42nd Antarctic expedition team departs from..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-01T14:01:48+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "China and the US trade teams maintain equal dialogue..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-26T18:35:37+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. AI把薯片误判为枪惊动八辆美国警车",
-          "value": "1105347 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1105347",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "AI mistook chips for a gun, triggering eight police cars."
-          }
-        },
-        {
-          "title": "2. iPhone千万别这样充电了 [新]",
-          "value": "587810 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhone%E5%8D%83%E4%B8%87%E5%88%AB%E8%BF%99%E6%A0%B7%E5%85%85%E7%94%B5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 587810",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Don't charge your iPhone like this..."
-          }
-        },
-        {
-          "title": "3. 靠实体经济走向未来",
-          "value": "451393 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%A0%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%E8%B5%B0%E5%90%91%E6%9C%AA%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 451393",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Rely on the real economy to move towards the future..."
-          }
-        },
-        {
-          "title": "4. 中美双方形成初步共识 [新]",
-          "value": "422783 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%BD%A2%E6%88%90%E5%88%9D%E6%AD%A5%E5%85%B1%E8%AF%86&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 422783",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "China and the U.S. have reached a preliminary consensus..."
-          }
-        },
-        {
-          "title": "5. 警方回应上海金店被抢",
-          "value": "331989 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%87%91%E5%BA%97%E8%A2%AB%E6%8A%A2&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 331989",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Police respond to robbery at Shanghai gold store..."
-          }
-        },
-        {
-          "title": "6. 将门毒后 王鹤棣 [新]",
-          "value": "剧集 326533 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%20%E7%8E%8B%E9%B9%A4%E6%A3%A3&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "剧集 326533",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The Poisonous Heir of the General's Family - Wang Hedi..."
-          }
-        },
-        {
-          "title": "7. KPL年总高能不戒断",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKPL%E5%B9%B4%E6%80%BB%E9%AB%98%E8%83%BD%E4%B8%8D%E6%88%92%E6%96%AD&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "KPL annual high energy, no withdrawal..."
-          }
-        },
-        {
-          "title": "8. 31省份去年人口出生率数据公布 [新]",
-          "value": "311729 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D31%E7%9C%81%E4%BB%BD%E5%8E%BB%E5%B9%B4%E4%BA%BA%E5%8F%A3%E5%87%BA%E7%94%9F%E7%8E%87%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 311729",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Data on last year's birth rates in 31 provinces released..."
-          }
-        },
-        {
-          "title": "9. 将门毒后",
-          "value": "剧集 288405 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 288405",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The Poisonous Heir of the Aristocratic Family..."
-          }
-        },
-        {
-          "title": "10. 35元1个面包被年轻人疯抢 [热]",
-          "value": "246679 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D35%E5%85%831%E4%B8%AA%E9%9D%A2%E5%8C%85%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%96%AF%E6%8A%A2&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 246679",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Young people are frantically snatching up bread for 35..."
           }
         }
       ]
