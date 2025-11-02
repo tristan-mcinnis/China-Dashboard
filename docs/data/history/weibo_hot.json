@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-02T14:01:48+08:00",
+  "generated_at": "2025-11-02T18:35:18+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-02T18:35:18+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. T1战胜TES",
+          "value": "1830196 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%E6%88%98%E8%83%9CTES&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1830196",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "T1 defeats TES..."
+          }
+        },
+        {
+          "title": "2. TES 陀螺 [新]",
+          "value": "1104961 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%20%E9%99%80%E8%9E%BA&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1104961",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "TES Gyroscope..."
+          }
+        },
+        {
+          "title": "3. 全运会观赛日历",
+          "value": "967851 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%97%A5%E5%8E%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 967851",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "National Games Viewing Schedule..."
+          }
+        },
+        {
+          "title": "4. T1对战TES",
+          "value": "919003 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%E5%AF%B9%E6%88%98TES&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 919003",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "T1 vs TES"
+          }
+        },
+        {
+          "title": "5. 女子忍痛踩趾压板脚喷血",
+          "value": "273812 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E5%BF%8D%E7%97%9B%E8%B8%A9%E8%B6%BE%E5%8E%8B%E6%9D%BF%E8%84%9A%E5%96%B7%E8%A1%80&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 273812",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Woman endures pain on toe board, foot bleeds..."
+          }
+        },
+        {
+          "title": "6. 卢浮宫失窃珠宝现身 [热]",
+          "value": "273566 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%A4%B1%E7%AA%83%E7%8F%A0%E5%AE%9D%E7%8E%B0%E8%BA%AB&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 273566",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Stolen jewelry from the Louvre reappears..."
+          }
+        },
+        {
+          "title": "7. 谁能晋级S15决赛",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E8%83%BD%E6%99%8B%E7%BA%A7S15%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Who can advance to the S15 finals..."
+          }
+        },
+        {
+          "title": "8. 湖南警方通报发现疑似贩卖婴儿",
+          "value": "273289 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%96%E5%8D%97%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 273289",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hunan police report discovery of suspected baby..."
+          }
+        },
+        {
+          "title": "9. 糖尿病不是吃糖吃出来的",
+          "value": "230585 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%98%AF%E5%90%83%E7%B3%96%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 230585",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Diabetes isn't caused by eating sugar..."
+          }
+        },
+        {
+          "title": "10. 你未婚我卫韫",
+          "value": "剧集 229850 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A0%E6%9C%AA%E5%A9%9A%E6%88%91%E5%8D%AB%E9%9F%AB&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 229850",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "You are unmarried, I am Wei Yun..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-02T14:01:48+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Wage increases implemented in multiple regions..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-27T18:39:05+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 花少7吃完火锅收拾了吗",
-          "value": "综艺 1153413 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%B1%E5%B0%917%E5%90%83%E5%AE%8C%E7%81%AB%E9%94%85%E6%94%B6%E6%8B%BE%E4%BA%86%E5%90%97&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "综艺 1153413",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Did the Flower Boy 7 clean up after the hot pot?"
-          }
-        },
-        {
-          "title": "2. 东京进入最高警戒态势",
-          "value": "622893 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E4%BA%AC%E8%BF%9B%E5%85%A5%E6%9C%80%E9%AB%98%E8%AD%A6%E6%88%92%E6%80%81%E5%8A%BF&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 622893",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tokyo enters a state of highest alert..."
-          }
-        },
-        {
-          "title": "3. 你好十五五",
-          "value": "553312 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A0%E5%A5%BD%E5%8D%81%E4%BA%94%E4%BA%94&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 553312",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Hello, fifteen five..."
-          }
-        },
-        {
-          "title": "4. 超能小艺轻松搞定",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%85%E8%83%BD%E5%B0%8F%E8%89%BA%E8%BD%BB%E6%9D%BE%E6%90%9E%E5%AE%9A&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Super Ability Xiaoyi handles it easily..."
-          }
-        },
-        {
-          "title": "5. 春秋航空开招已婚已育空嫂",
-          "value": "485715 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%8B%9B%E5%B7%B2%E5%A9%9A%E5%B7%B2%E8%82%B2%E7%A9%BA%E5%AB%82&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 485715",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Spring Airlines is hiring married flight attendants..."
-          }
-        },
-        {
-          "title": "6. 赵一鸣 用糖找零 [官宣]",
-          "value": "363233 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E4%B8%80%E9%B8%A3%20%E7%94%A8%E7%B3%96%E6%89%BE%E9%9B%B6&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 363233",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Zhao Yiming gives change with candy..."
-          }
-        },
-        {
-          "title": "7. 张居正官宣胡歌",
-          "value": "剧集 336382 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E5%B1%85%E6%AD%A3%E5%AE%98%E5%AE%A3%E8%83%A1%E6%AD%8C&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 336382",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Zhang Juzheng officially announces Hu Ge..."
-          }
-        },
-        {
-          "title": "8. 网红慧慧饱饱公开道歉 [热]",
-          "value": "309496 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A2%E6%85%A7%E6%85%A7%E9%A5%B1%E9%A5%B1%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 309496",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Internet celebrity Huihui Baobao publicly apologizes..."
-          }
-        },
-        {
-          "title": "9. 缅甸KK园区上千人跳河出逃",
-          "value": "234246 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BC%85%E7%94%B8KK%E5%9B%AD%E5%8C%BA%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B7%B3%E6%B2%B3%E5%87%BA%E9%80%83&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 234246",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Thousands flee by jumping into the river in Myanmar's KK..."
-          }
-        },
-        {
-          "title": "10. 蔡磊研发药物对病友起效自己没用",
-          "value": "233761 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%94%A1%E7%A3%8A%E7%A0%94%E5%8F%91%E8%8D%AF%E7%89%A9%E5%AF%B9%E7%97%85%E5%8F%8B%E8%B5%B7%E6%95%88%E8%87%AA%E5%B7%B1%E6%B2%A1%E7%94%A8&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 233761",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cai Lei developed a drug effective for patients but not..."
           }
         }
       ]
