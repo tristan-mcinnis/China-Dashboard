@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-03T06:03:41+08:00",
+  "generated_at": "2025-11-03T11:02:20+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-03T11:02:20+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 骗子用l0086冒充10086",
+          "value": "1080128 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AA%97%E5%AD%90%E7%94%A8l0086%E5%86%92%E5%85%8510086&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1080128",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Scammers impersonate 10086 using l0086..."
+          }
+        },
+        {
+          "title": "2. 开拓者召回杨瀚森 [新]",
+          "value": "326990 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%80%E6%8B%93%E8%80%85%E5%8F%AC%E5%9B%9E%E6%9D%A8%E7%80%9A%E6%A3%AE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 326990",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Trail Blazers recall Yang Hanshen..."
+          }
+        },
+        {
+          "title": "3. 关注第八届进博会",
+          "value": "273427 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%B3%E6%B3%A8%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 273427",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Focus on the 8th China International Import Expo..."
+          }
+        },
+        {
+          "title": "4. 全红婵陈芋汐仅差0.9分",
+          "value": "271859 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E4%BB%85%E5%B7%AE0.9%E5%88%86&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 271859",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Quan Hongchan and Chen Yuxi only differ by 0.9 points..."
+          }
+        },
+        {
+          "title": "5. 驻日美军在冲绳街头首次单独巡逻",
+          "value": "230378 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E5%9C%A8%E5%86%B2%E7%BB%B3%E8%A1%97%E5%A4%B4%E9%A6%96%E6%AC%A1%E5%8D%95%E7%8B%AC%E5%B7%A1%E9%80%BB&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 230378",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "U.S. troops in Japan patrol Okinawa streets alone for..."
+          }
+        },
+        {
+          "title": "6. 全体搜救队员静候航天员凯旋",
+          "value": "207183 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E4%BD%93%E6%90%9C%E6%95%91%E9%98%9F%E5%91%98%E9%9D%99%E5%80%99%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%AF%E6%97%8B&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 207183",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "All rescue team members await the astronauts' triumphant..."
+          }
+        },
+        {
+          "title": "7. 厦门中考将自行命题不实",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%A6%E9%97%A8%E4%B8%AD%E8%80%83%E5%B0%86%E8%87%AA%E8%A1%8C%E5%91%BD%E9%A2%98%E4%B8%8D%E5%AE%9E&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Xiamen's middle school entrance exam will not self-design..."
+          }
+        },
+        {
+          "title": "8. 唐朝诡事录",
+          "value": "剧集 201998 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "剧集 201998",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Strange Tales from the Tang Dynasty..."
+          }
+        },
+        {
+          "title": "9. 间谍加大对我国粮食领域渗透",
+          "value": "195211 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%97%B4%E8%B0%8D%E5%8A%A0%E5%A4%A7%E5%AF%B9%E6%88%91%E5%9B%BD%E7%B2%AE%E9%A3%9F%E9%A2%86%E5%9F%9F%E6%B8%97%E9%80%8F&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 195211",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Spies intensify infiltration into our food sector..."
+          }
+        },
+        {
+          "title": "10. 台湾不能再吃战争的苦 [新]",
+          "value": "189750 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E4%B8%8D%E8%83%BD%E5%86%8D%E5%90%83%E6%88%98%E4%BA%89%E7%9A%84%E8%8B%A6&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 189750",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Taiwan cannot suffer the pain of war again..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-03T06:03:41+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "ShowMaker takes teammates to Shanghai for S15..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-28T10:57:44+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 这就是中国台湾省",
-          "value": "1043433 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1043433",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "This is Taiwan Province of China..."
-          }
-        },
-        {
-          "title": "2. 奔跑吧五颜六色的头发",
-          "value": "综艺 224889 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%94%E8%B7%91%E5%90%A7%E4%BA%94%E9%A2%9C%E5%85%AD%E8%89%B2%E7%9A%84%E5%A4%B4%E5%8F%91&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "综艺 224889",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Run, colorful hair..."
-          }
-        },
-        {
-          "title": "3. 2025中国广播电视精品创作大会",
-          "value": "206808 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E4%B8%AD%E5%9B%BD%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E7%B2%BE%E5%93%81%E5%88%9B%E4%BD%9C%E5%A4%A7%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 206808",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "2025 China Radio and Television Quality Creation..."
-          }
-        },
-        {
-          "title": "4. 切尔诺贝利核电站附近出现蓝色狗 [新]",
-          "value": "206794 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E8%93%9D%E8%89%B2%E7%8B%97&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 206794",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Blue dogs spotted near the Chernobyl nuclear power plant..."
-          }
-        },
-        {
-          "title": "5. 00后用打印机造假币",
-          "value": "201078 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D00%E5%90%8E%E7%94%A8%E6%89%93%E5%8D%B0%E6%9C%BA%E9%80%A0%E5%81%87%E5%B8%81&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 201078",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Post-00s use printers to make counterfeit money..."
-          }
-        },
-        {
-          "title": "6. 发现台独线索可举报 [新]",
-          "value": "193761 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%91%E7%8E%B0%E5%8F%B0%E7%8B%AC%E7%BA%BF%E7%B4%A2%E5%8F%AF%E4%B8%BE%E6%8A%A5&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 193761",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Report clues of Taiwan independence..."
-          }
-        },
-        {
-          "title": "7. 打击低俗团播引诱打赏",
-          "value": "190680 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%89%93%E5%87%BB%E4%BD%8E%E4%BF%97%E5%9B%A2%E6%92%AD%E5%BC%95%E8%AF%B1%E6%89%93%E8%B5%8F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 190680",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Crack down on vulgar group broadcasts enticing donations..."
-          }
-        },
-        {
-          "title": "8. 中央网信办将整治验资pk",
-          "value": "174552 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%A4%AE%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%B0%86%E6%95%B4%E6%B2%BB%E9%AA%8C%E8%B5%84pk&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 174552",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Central Cyberspace Administration will regulate..."
-          }
-        },
-        {
-          "title": "9. Bin称输100T和G2我要担责",
-          "value": "138402 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBin%E7%A7%B0%E8%BE%93100T%E5%92%8CG2%E6%88%91%E8%A6%81%E6%8B%85%E8%B4%A3&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 138402",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "I take responsibility for Bin losing 100T and G2..."
-          }
-        },
-        {
-          "title": "10. 多地气温升升升升 [新]",
-          "value": "137358 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E5%8D%87%E5%8D%87%E5%8D%87%E5%8D%87&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 137358",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Many places experiencing rising temperatures..."
           }
         }
       ]
