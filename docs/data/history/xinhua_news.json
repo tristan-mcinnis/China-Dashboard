@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-11-04T18:40:19+08:00",
+  "generated_at": "2025-11-04T22:09:45+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-04T22:09:45+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息丨习近平会见俄罗斯总理米舒斯京",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVM1enk3NWh3eGVyNjN0c3pnckRpb1F3R1Vfa2dSOVVscUNOWFBCTk5JNS0zSXBJV3dmSVJzRXBjRWsxazFtSmVXeFlxOVh1cUJLdUxBc2hnOFZkbzNNVHhlSTFiSWEzMWx4TmFuZ0VuWlBYc09VQTBTWlVBMWFoSFlod2ttaTdQbUpZWUhRVmpXM3ZX?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-03T19:25:15Z",
+            "summary": "新华社消息丨习近平会见俄罗斯总理米舒斯京 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xi Jinping meets with Russian Prime Minister Mishustin..."
+          }
+        },
+        {
+          "title": "以色列空袭黎巴嫩南部致2死7伤",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnl5V0pjVnNacENidkdJTF9fYzlqVmtHazRZVUdseFc1clhVX0RhWDZReERBQnU4eGFZNU9BNHF2ZjYzRl9tbFVrYXZOQ2t5NXB3RlQ2NFRCQnZCdTBlb1ZIWFdLcFB3VGg4bmpCNzR5VWp3UVZNd0Z6elVza3R1a2ctX0hsdw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-03T13:55:51Z",
+            "summary": "以色列空袭黎巴嫩南部致2死7伤 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Israeli airstrike in southern Lebanon kills 2, injures 7..."
+          }
+        },
+        {
+          "title": "流离失所的也门儿童",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDVqVVpsQkp3cm10cFRYU1h0cGhMR0Y4cmpQQnlSZlBCMTVGR21oNDY1c1E5Q1g4ek5iZFJwLUd0MDVraERFd2g5YkFnVjdBbHZkZi0tSnV6d09oV2hraVo0VVZvY3NFOVcyYkE2X0VoRVRRenBNS1NXb3JUTmNiMVRseE5jQQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-03T16:15:12Z",
+            "summary": "流离失所的也门儿童 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Displaced children in Yemen..."
+          }
+        },
+        {
+          "title": "台风“海鸥”袭击菲律宾已致2人死亡",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcjBqbVdLRXZna0FwUkQ3T2VqVG1VbmdYb2dzTG5udzRnVzJDczZxREQ2MnNfRUJQNEcxVTNOemhkNk02OW84MXdTODg0c3U0YVBEOENkNDZ3LUkteHh3dkVadmVveFFZU0M1bjY5SEg0cW9aQVByUXVyZ1g3cEdsT09QUmxoUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-04T01:34:21Z",
+            "summary": "台风“海鸥”袭击菲律宾已致2人死亡 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Typhoon \"Haikui\" hits the Philippines, causing 2 deaths..."
+          }
+        },
+        {
+          "title": "探访沙特历史名城迪里耶",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeFNBTGlMWUpNaEZPVnNPYm5sUWVvajNnbFh4aVJlX1NPc1dPVVJSZmlld0NBQkR0V05rSWYxODZkMUNyZlowRVBIN0RwZEJjWEllRUZVOGJjcUFTWkhUeXBwNHNHeGFiMnFJYVdWN3J4ZWd1UldVQWVPT1Y5ZDNiTk5Md3NzZw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-03T16:16:46Z",
+            "summary": "探访沙特历史名城迪里耶 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Exploring the historic city of Diriyah in Saudi Arabia..."
+          }
+        },
+        {
+          "title": "国内首个汽车芯片标准验证平台投入使用",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWRET3lCZUdsZDhkZFFJaUZISjlRNnZTNzRhdlF6eUNzUGJ5alF1RnQ3NnN6Y3hyR3RmTjNLR0dGcWZ3UHRpZ2pHdWtLRnZFSDc4U1NtRjlGd3hLSFhyYXE4bDhXTVFMMnRVYWE4MGh1V2hHbDlnQWJ6LXQ5cFRtRXRFZ3o?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-03T17:40:25Z",
+            "summary": "国内首个汽车芯片标准验证平台投入使用 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The country's first automotive chip standard..."
+          }
+        },
+        {
+          "title": "安切洛蒂宣布本年度最后两场友谊赛巴西队名单",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeExtVFVEVXNNYWg2c1RUMXllUHlKazhxSG9nSWJzQXVMZmtVYmlQNzg1eGtmQ3plWEVENHJNVWxUYkVqVEt1S2JRY2puTnVzNV9hRm5tVVp0aHY3NTQ4ZnZ4N05uMHd4Q3dFWnBkTDcyUU9CV1dqSGdiRVF6akphZFBIM21XYUk?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-04T01:29:17Z",
+            "summary": "安切洛蒂宣布本年度最后两场友谊赛巴西队名单 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Ancelotti announces Brazil's squad for last two..."
+          }
+        },
+        {
+          "title": "前三季度海洋生产总值7.9万亿元",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQU9Id0VvZXNiQm5CbU9vZXVyem1PeDhnb3FjdFFldkIzUko0dEI5MGlMa2NzRnd6bUFZMG5EVHVDRlpndVRBejlkczZ0eEpyQXdGcmtPZ0E0OFk4Ylo4dE9LU0w4bHE3Q1lUaFoxUlY4S3UxMzE1eGJSMFRIWHdDdjhESEZnanho?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-03T17:58:06Z",
+            "summary": "前三季度海洋生产总值7.9万亿元 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The marine GDP for the first three quarters is 7.9..."
+          }
+        },
+        {
+          "title": "溢价数倍的演唱会门票，谁在卖谁在买？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGFGWFZIZ0V3QmdMZ0xEbXVhM3NzNDJKUzk1OGROMy1nV3o3cWJ1ZllEdV8wMzhPaFpaakFGTlJnd0JFSTJNMEg0MDF2OURyejZuNWg4UFZCbXgxZ2ljZjdqSW1NaUdONFVYdFhEOXpBTmV4SXFhX0tYYjVnWDFKenFQbm92RlhXZEFKdQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-03T17:31:21Z",
+            "summary": "溢价数倍的演唱会门票，谁在卖谁在买？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Who sells and buys concert tickets at multiple times the..."
+          }
+        },
+        {
+          "title": "权威访谈｜国民经济发展“蓝色支撑”稳中有进——访自然资源部海洋战略规划与经济司负责人",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZOENSY1hWRktXX1ZsUloyZkthNGFWekt2dzFRM3BtNVhnT0RCRnlRZnIteXFHS3hTcDdqVEdUbDlrN3BGNkdKSjJCMEExSGFYY2drTk1kSjVWUUloTTJQWFYyR0JKZGlnSThMalZSczR0a0hxb3B2bUZVR3Vmdw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-03T08:42:30Z",
+            "summary": "权威访谈｜国民经济发展“蓝色支撑”稳中有进——访自然资源部海洋战略规划与经济司负责人 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Authoritative interview: \"Blue support\" for steady..."
+          }
+        },
+        {
+          "title": "香港举办系列论坛探讨“策动金融科技新时代”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LdkROZ1E1WDVhSjNZdVNpSVFLUnYtbHJ4T3A1VHA1TDlQd29nNUdhZDlTT29oYy1odmZyUmEwMlRsSmhEWFVESFdMd19zSGM1a0hMcUU2d242VW9SVkZMX096VnRZYVRrMGMzQ2NKSW1WampHaUR1VlR0aHNoUQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-03T07:28:24Z",
+            "summary": "香港举办系列论坛探讨“策动金融科技新时代” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hong Kong hosts forums on \"Driving a New Era of Fintech\"..."
+          }
+        },
+        {
+          "title": "2025“泉州企业家日”主题活动举行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVBjYlpGUlVIaG56WkgzU0hmdGJtWFl6WFBOc182d3owQVhycnJCb0xlWXV2bDFTczBfbGxRajRwcDNOdDFvTTJGcmlqR3VORmEzWkwtWmtHd3pMbjR3RzNCNkFzbUxSQVJoU2dEcDhqSTR3VktIMEt2NHM3VUV4X29HUnlpSXJS?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-03T19:05:47Z",
+            "summary": "2025“泉州企业家日”主题活动举行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "2025 \"Quanzhou Entrepreneur Day\" themed event held..."
+          }
+        },
+        {
+          "title": "日春茶业举办第23届醉西施茶王邀品会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDE1ZmlILWZUb0x3Z2hHOVh4dXAzTVdZd3JHYVJGVVAzMXhkeG5ZNHU3TjFBZmc4SVlzU2dMaFNqRGJWZDQ5dTZWMVZ3aXBJWDZEcndqTnhUSndaZU5OTGVFZ3piVllJTFNLSDhLT1dFeTl4Rkg1TlRRa0xsWkhJWVJ0ekpNWnRJ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-03T19:05:49Z",
+            "summary": "日春茶业举办第23届醉西施茶王邀品会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Richun Tea Industry hosts the 23rd Zui Xishi Tea King..."
+          }
+        },
+        {
+          "title": "2025第七届海丝泉州古城徒步穿越将于11月30日举行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkg3alB4Y3dKSFhFT0hYeE9hLW1KbTVfRHctVWFsSmkzbFp0ZndUTC1kVVZJOFN1aFRqMFdJUEFhV04wWGdzdC11WkVZQ285VmFMS3V4eVJJdXFaNzd3WThabmVLUEZzUnlIZ2FIdnRRYkY5d1oweGF3THFkdlJadmdKbmJVdFhB?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-03T19:05:45Z",
+            "summary": "2025第七届海丝泉州古城徒步穿越将于11月30日举行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 7th Maritime Silk Road Quanzhou Ancient City Walk..."
+          }
+        },
+        {
+          "title": "“十五五”新蓝图·新机遇丨从“跟跑”到“领跑” 中国大市场为全球创造大机遇",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnVETDRwb3BYZmcxXzBlOVRrUW5yaUN1dl9YNXVoX214b1hybzhaVXhMYm5iamZBaHBrSWYtS1BfNW5hX3VDY0xfb2FhU1RucGhPOWQ5SGJPOEhuaGtwLWx2SnQzbHRqOG5SeGVjUkZkMFpEOUtXRWtUVktCcVc5ZTBabDFwYjdm?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-03T18:08:09Z",
+            "summary": "“十五五”新蓝图·新机遇丨从“跟跑”到“领跑” 中国大市场为全球创造大机遇 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"15th Five-Year Plan\" New Blueprint: From \"Follower\" to..."
+          }
+        },
+        {
+          "title": "香港举办系列论坛探讨“策动金融科技新时代”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdTdpck1lbl83aFJYaVBRSFhoRDBQdnlkVG9tZ0VrZVBfN0lsS1dEY2I0U0dfY05LTUF0VGVLQkUzTk5uQUF0U1BfdnBDYk5DbVVKcGtobzVaVk9LellFSzdOSVdDR3Q4eGxlWVJQTE1ta2xJdGdNbXJhUGhvQ0pSZi02WWd6aUE?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-03T07:28:23Z",
+            "summary": "香港举办系列论坛探讨“策动金融科技新时代” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hong Kong hosts forums on \"Driving a New Era of Fintech\"..."
+          }
+        },
+        {
+          "title": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛收官",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DVFpSb042aG9rY045cXZuOHlhSEd4RXJtMl8tZ1NCTUFzUzRYbWgwSjVGSGdjU2dKWGFKSXM2Q0pmWEdCbnJiNWc5QVFjUEhzWktlankxVXgzbFR5d3B2b0lrcjY0eG80QlB4ZlhzLVBLSUpYb3pLU09LUFVDZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-03T22:35:30Z",
+            "summary": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛收官 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 19th \"Challenge Cup\" National College Student..."
+          }
+        },
+        {
+          "title": "中国建筑科技馆古代建筑展厅焕新亮相",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUNxaEdKR2pMNkpESGdwMG5LdzlLOVVoSGVCeFhBTkRJSkxFWkVlVE5lYXA0WGp5ZVZudnBXdWNkTy1WNUxCY0d1OFdUTklPUXNKeTJYdWVsY1BRckpicEMzbWdkbGZQMEZhY195RGpINlFyajcxUWRKSzRteU0teWprUUZnZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-04T03:16:30Z",
+            "summary": "中国建筑科技馆古代建筑展厅焕新亮相 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China Architecture Museum's ancient architecture hall..."
+          }
+        },
+        {
+          "title": "蚂蚁数科亮相香港金融科技周 助力全球企业加速AI升级",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEZ2QkNSanU3aFZ2cVd0RFRwV0ZKSzJidVM0aFlWdjJJd2syb3pSSG94Y2NNV29wSWJNSFNhSGRYV2xLNmdkaDRUUzY3SDZUOTdobVhBT3JXY1B1RWM3Xzdfb3VVRWhBOElEUmRqNFZVOTkyVmkxZl9lWWFoUzdCT2xma3YxZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-03T06:52:57Z",
+            "summary": "蚂蚁数科亮相香港金融科技周 助力全球企业加速AI升级 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Ant Group showcases at Hong Kong FinTech Week to boost..."
+          }
+        },
+        {
+          "title": "“含科量”增强 港股第18C章企业队伍持续壮大",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqVWhFMlpHLW9LY1lONFZVYmNIYVpGLXplSzEyUlMtRml3YzI2eDh5Xzh5VVJtbmxOQzFCclN1c09zSG5zRnJjNkpTSFZzb0FnUWZid2tHU1ZiQXEzMmZQUVd2SkhOaUNERU04R0liS0NYYlctZm5sMlZLeHI3UQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-03T18:18:03Z",
+            "summary": "“含科量”增强 港股第18C章企业队伍持续壮大 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"Content quota\" enhances the growth of HK's Chapter 18C..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-04T18:40:19+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7686,272 +7952,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "The \"code\" of innovation by Qingshan Lake..."
-          }
-        },
-        {
-          "title": "第32届中国国际广告节与第34届亚洲广告大会闭幕 搭建“科技+文化”双向赋能国际广告交流平台",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVkzOGZWWTV3Z0trTnZocjhrR3hGM0JJR0poY1oyMTlUc3RDVnVBYXpacjhKTVh1VnhyWkhJbHNnRXktNHFQRms1Y05zczk3bk9sa0dsSHhOSVl2YVNNSVN1ZE5BRDNtQW53azdobTVpT0dlcEFGR0pFbmNweEJWQlBRV2g?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-28T19:35:27Z",
-            "summary": "第32届中国国际广告节与第34届亚洲广告大会闭幕 搭建“科技+文化”双向赋能国际广告交流平台 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The 32nd China International Advertising Festival and..."
-          }
-        },
-        {
-          "title": "2024年中国创新指数比上年增长5.3%",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1o1cjNBaE1KOW9fTmxZVHVHZVZIUDdmVThWdTJOU1BLQTFzbW9pM0pocjJSRUF0bU1qbkRwMy1RY0lhYVV5Z1Mxd0lTN1A1Z3FRRlBiOVhKdFVIZTV0UEV3RjBJSWRQc0t1eS1IQkkxVllCbURweERMYUJQSmJZRlV1XzIxYXNG?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-28T22:02:13Z",
-            "summary": "2024年中国创新指数比上年增长5.3% 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China's innovation index grew by 5.3% in 2024..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-29T22:09:45+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "在庆州，探寻中韩友好的千年足迹",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVhnWWVsM0JZTWY5V0x5SEtGYS16V0dDbjdjRFdvbkZhbklhdnNTWVI4VWNkZFVKRklhOVhJdU1nSEM1N3dZRVZ4UkhUMVYwTGtkNnM5S0dhM0lsazZ1Y0JfYmZBVGdwRmJEY3lHV3hjWXJXYWZpaHcwbDhwSWIwMF9CWlk?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-28T20:07:59Z",
-            "summary": "在庆州，探寻中韩友好的千年足迹 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "In Gyeongju, explore the millennium footprints of..."
-          }
-        },
-        {
-          "title": "财经慧说丨人均GDP达到中等发达国家水平，意味着什么？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkpWQW84LWZSOXdudFEwTWZoMk5fNWh4cUVIS2Jpa3RnRTZpeGJsOHR0Z1lUZHYtT2hVUkxDUktXVjQ2UDF5Zm43WGNKZWktZ01zZVNCMjlJRjNNNVVIR2p1VGJWQTFTSVV6a2VLSDJyRmUyaGJEeFdxSU9Rd2VyWHZRTTFZTnVC?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-28T19:51:41Z",
-            "summary": "财经慧说丨人均GDP达到中等发达国家水平，意味着什么？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "What does reaching per capita GDP of developed countries..."
-          }
-        },
-        {
-          "title": "新华社消息｜习近平将同美国总统特朗普举行会晤",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHFNcHUwMU5xbF9IUTVGSjRwQUdVWHZVeUxlWUh0Ymp6eExsQ3FWVTRoQ1JlczVPYWRfSjFCT2dmYnV2cWdydGV3Mjl6bENPbzROV1l5MnBveDByLWlOSmRtUUM3VHc4UjZiS010a0k5TkNLckJNcTdULWJjbmNJeDBZMExuUFlzMnNBRVJRLWhYM2l5?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-28T23:50:07Z",
-            "summary": "新华社消息｜习近平将同美国总统特朗普举行会晤 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua reports: Xi Jinping to meet with Trump..."
-          }
-        },
-        {
-          "title": "2025年第22期",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUN3SEN3c19udTdtams4MnI3VmduU3FCTmRJRHoxMHhTNHVjSVc3RTRlNFlZTzVwMVJneTFWa0xiM2JMUTVrdDI3aHRaaTdtbEVMc0xIeElWLU1BdEZ5WXEzM0ZtN1gzemF4ZjYzeU1FR3N5NEZEVzA2WHlNaW9wdkdJeFBqUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-29T00:16:14Z",
-            "summary": "2025年第22期 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Issue 22 of 2025..."
-          }
-        },
-        {
-          "title": "国台办举行例行新闻发布会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHV1UlV3V19BblNOWm1TWEp6WWpwa3ZKeG04aEFRVnhORkRwOU5mYm56bWN5WC1Od3BsYTY2Slc0N2tSUEpfMW5GeGt2dExmZHZVLXRtdmZOTmdlVXJKRXB0NHR1SjdNMGZkWnI0VnlQSkFYMzhlV2ZaQkVXNldTTVBWUWp1QQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-10-28T19:03:27Z",
-            "summary": "国台办举行例行新闻发布会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The Taiwan Affairs Office held a regular press conference..."
-          }
-        },
-        {
-          "title": "聚焦“十五五”规划建议丨建设强大国内市场 坚持投资于物和投资于人紧密结合",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SSmFHdy1EQWV0TThGTUk0UGZBbWZ0T2RTX1VhMnNTQ1FzYllodmdYejZvVlVsMloyRWI1WU9peC03RjM2TjBOZ2k2c2FOa2x0V0xDMUZDMjF0WlBXZnljWFNWRGJ3SlNjUnc4NUJWejl6X3JybkZaZUI4S1c5QQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-28T08:07:08Z",
-            "summary": "聚焦“十五五”规划建议丨建设强大国内市场 坚持投资于物和投资于人紧密结合 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Focus on the 14th Five-Year Plan: Build a strong..."
-          }
-        },
-        {
-          "title": "聚焦“十五五”规划建议丨人均GDP达到中等发达国家水平 我国明确2035年奋斗目标",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkFKRTZtZkJTaGFSRERRQVlMMUlwYUwwNzdTY3JSRERVSVEtRVpRYkVxNXhaajNKcnA2aVV5a1l1Z2hUX3kzUVhINy1HR1A2cFFVQWp3Uk91TlhVZ1ljZy1vSXU0TjFoY2txMkNkdk1JcXNMZE9WanJLdmkwdWtzRjJVQWtjWG5SVU1v?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-28T07:54:34Z",
-            "summary": "聚焦“十五五”规划建议丨人均GDP达到中等发达国家水平 我国明确2035年奋斗目标 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Focusing on the 14th Five-Year Plan: GDP per capita to..."
-          }
-        },
-        {
-          "title": "日本直播电商能起飞吗",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONG5VLW1kWmVMaUM2Y0VZV0xYSmhKcEdYSHNSclEwR1Z0TWs5UUljTEpBMXltQTQwSkRjUGUtMVJkczJuSUh5YmlhM2hDVGR3RW84aGR6RW1sbE5ESnF1bzhsVE1qeTBYOTM0VFk4VUs2S0w2MDZUQmRiSDVWcEdJS3VFZjZpdw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-28T22:11:08Z",
-            "summary": "日本直播电商能起飞吗 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Can live e-commerce in Japan take off?"
-          }
-        },
-        {
-          "title": "第一观察丨践行新发展理念，“十五五”笃行启新程",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNekFpN3hjZXg4b1RfRGdja0piUUhNTURTSkxmRmRQek1PZ044VXdsUW5IcS1Ec2VrVVUtZWZCcnB0MEc1X2poUndTb1pMNmtJbG9FRUhTV0JZT0FObXdVY0p2MHY2VmxsMnZfcENmc1NrcXFNcUxkWWtfQlJvUVV3ZU8tVnM2ZDViTEc5bEYxWlJkN09V?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-28T21:44:47Z",
-            "summary": "第一观察丨践行新发展理念，“十五五”笃行启新程 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "First Observation: Practicing new development concepts..."
-          }
-        },
-        {
-          "title": "《中国法治建设年度报告（中英文）》（2024）发布",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wempEd2MwdHo3U0ZzS3NRQnA3Q09SWDFiY2VwOFhCQmtwbmJRdG1DRm5MUG4tcFJrQTdHb3JxS0FocXhKSGxMbVMtWVZreDFRNjB0TnRFakZOSGxiRVM0M2dIa0pYRDJmdUl4cEh6dzYyVWhGMHFCVVhOcFZPZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-10-28T07:21:46Z",
-            "summary": "《中国法治建设年度报告（中英文）》（2024）发布 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Release of the \"Annual Report on China's Legal System..."
-          }
-        },
-        {
-          "title": "财经慧说丨从三个关键词读党的二十届四中全会公报",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pMTZ0N19tcUZqTGVOWGdqdzRqOU8yY0Nkdm1zTTBaVmg4QUtGQnJkM19sMlJnVVo0aVh2MzVhMFVHbmtZOFgwTEtITWtfQi1kNUs1OFdpNXNzZDAtWS1RSEl3MlI1X2xJakp1bmZYNHNPakptRVdGSXRNS0tBQQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-28T08:06:37Z",
-            "summary": "财经慧说丨从三个关键词读党的二十届四中全会公报 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Financial Insights: Three Keywords from the 20th CPC..."
-          }
-        },
-        {
-          "title": "财经深一度丨更便利！一揽子外汇新举措利好跨境贸易",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR05uRnQ4QnJaMksyVE1maXFGcWRjLXh4ZWFHcV9SUy1SUk1Nd1NkcnlXT0FjZlZjQ1l2dmlaM2ZLcnJCLVJMVEVtUUt4dVBhWTY2UThJbFRodmVnVlVVSDlpeEtRX2w3ZEhjQ0FMMndMeDhlWmhiaFZxWGhSQ0UzX2tBYUpHY084?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-29T03:41:34Z",
-            "summary": "财经深一度丨更便利！一揽子外汇新举措利好跨境贸易 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Finance Deep Dive: New forex measures boost cross-border..."
-          }
-        },
-        {
-          "title": "财经慧说丨人均GDP达到中等发达国家水平，意味着什么？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkpWQW84LWZSOXdudFEwTWZoMk5fNWh4cUVIS2Jpa3RnRTZpeGJsOHR0Z1lUZHYtT2hVUkxDUktXVjQ2UDF5Zm43WGNKZWktZ01zZVNCMjlJRjNNNVVIR2p1VGJWQTFTSVV6a2VLSDJyRmUyaGJEeFdxSU9Rd2VyWHZRTTFZTnVC?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-28T19:51:41Z",
-            "summary": "财经慧说丨人均GDP达到中等发达国家水平，意味着什么？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "What does reaching per capita GDP of developed countries..."
-          }
-        },
-        {
-          "title": "新能源化势头猛 汽车产业链公司业绩向好",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEN0cVlzcW83QlRBWlN3SnR5RVQ5WTJSQnZPek5VZm5lRmJIWjdaanU3aVhSaUxFdHU4LVltUkRpRnlQRGI1UGdVcjc3OEFLMWFJQmx0b0h1ZXNBRTFrNHh5S24zdGNqbEdnTnN2dkJWblh2NWR1cDZ3a2RnQUUybmhCRFdOQ0hL?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-28T18:41:15Z",
-            "summary": "新能源化势头猛 汽车产业链公司业绩向好 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The momentum for new energy is strong; auto industry..."
-          }
-        },
-        {
-          "title": "长安先导：以科创引擎驱动科技自立自强新征程",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFJmNGpoUFFKSlJNbGYyX3o3OHNDYUdzQWw1UU4zZDg3MUhPaGdmNkNVVzZtV1pzbXZiel9FVFVmaGhqMWp3ZGM2UC1TZ0xFYUFWaUZtdjk4VE9IUXktQ2pudl9HUllnQnNxSEZsR3c5TGd6TEl2OERVV1lWU0dwUGNlYktmejdx?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-10-28T18:46:14Z",
-            "summary": "长安先导：以科创引擎驱动科技自立自强新征程 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Chang'an Pioneer: Driving a New Journey of Tech..."
-          }
-        },
-        {
-          "title": "长安先导：以科创引擎驱动科技自立自强新征程",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFJmNGpoUFFKSlJNbGYyX3o3OHNDYUdzQWw1UU4zZDg3MUhPaGdmNkNVVzZtV1pzbXZiel9FVFVmaGhqMWp3ZGM2UC1TZ0xFYUFWaUZtdjk4VE9IUXktQ2pudl9HUllnQnNxSEZsR3c5TGd6TEl2OERVV1lWU0dwUGNlYktmejdx?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-28T18:46:14Z",
-            "summary": "长安先导：以科创引擎驱动科技自立自强新征程 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Chang'an Pioneer: Driving a new journey of self-reliance..."
-          }
-        },
-        {
-          "title": "青山湖畔的科创“密码”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQWEd2ZTBoNWZmdjNTaWRpdUJjQTZCa25TMFFhSGRSZTk2NWFuNTF2aFBkTElTbmpzcGtzYjVVX2ZSUV83T183YndkT0lWSmNCN2tBYVc1Zl9sdThHc1Zna2t1UWtFTkVobGZ4Nl90YzFJdTlnSXd3OXpaYVpvdw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-28T21:52:47Z",
-            "summary": "青山湖畔的科创“密码” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The \"code\" of innovation by Qingshan Lake..."
-          }
-        },
-        {
-          "title": "聚焦“十五五”规划建议｜着眼取得决定性突破 加强重点领域关键核心技术攻关",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNallWMlUtUnVrQnpUMUxjNVNOa2N1bVpLa1kxWjdpaDdnSnQzaWhzZzFhOW04UHNyRVd3aklsNEpEUXRMQ0RUNmdnNl9SOTVtVFBBUUNFV3VDbWRqTDBhRXUxaGZjMHNLSUVNU3dTQ0tTSHJOTUJDX3hxajRjQWJpanZNOVExaTdPQVZR?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-10-28T07:54:39Z",
-            "summary": "聚焦“十五五”规划建议｜着眼取得决定性突破 加强重点领域关键核心技术攻关 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Focus on the 15th Five-Year Plan: Strengthen key tech..."
           }
         },
         {
