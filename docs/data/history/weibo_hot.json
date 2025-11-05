@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-05T22:08:57+08:00",
+  "generated_at": "2025-11-06T06:04:16+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-06T06:04:16+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 王传君东京电影节影帝",
+          "value": "电影 219121 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%B8%9D&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "电影 219121",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Wang Chuanjun wins Best Actor at Tokyo Film Festival..."
+          }
+        },
+        {
+          "title": "2. 超级月亮 [沸]",
+          "value": "43768 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 43768",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Supermoon..."
+          }
+        },
+        {
+          "title": "3. 一人一句为全运健儿加油",
+          "value": "43296 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BA%E5%85%A8%E8%BF%90%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 43296",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Everyone cheers for the athletes at the National Games..."
+          }
+        },
+        {
+          "title": "4. 下一代奥迪驾到",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%A5%A5%E8%BF%AA%E9%A9%BE%E5%88%B0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The next generation Audi has arrived..."
+          }
+        },
+        {
+          "title": "5. 将门毒后网传演员阵容",
+          "value": "剧集 43029 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E7%BD%91%E4%BC%A0%E6%BC%94%E5%91%98%E9%98%B5%E5%AE%B9&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 43029",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Cast of \"The Poisonous Heir\" leaked online..."
+          }
+        },
+        {
+          "title": "6. 美国肯塔基州坠机事故已致9人死亡 [重磅]",
+          "value": "42346 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E8%82%AF%E5%A1%94%E5%9F%BA%E5%B7%9E%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B49%E4%BA%BA%E6%AD%BB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 42346",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "A plane crash in Kentucky, USA has killed 9 people..."
+          }
+        },
+        {
+          "title": "7. 户晨风恶意制造对立收割流量牟利",
+          "value": "41887 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%B7%E6%99%A8%E9%A3%8E%E6%81%B6%E6%84%8F%E5%88%B6%E9%80%A0%E5%AF%B9%E7%AB%8B%E6%94%B6%E5%89%B2%E6%B5%81%E9%87%8F%E7%89%9F%E5%88%A9&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 41887",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Hu Chenfeng maliciously creates division for profit..."
+          }
+        },
+        {
+          "title": "8. iPhone闹钟被低估的仪式感",
+          "value": "41411 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhone%E9%97%B9%E9%92%9F%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 41411",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The underrated ritual of the iPhone alarm..."
+          }
+        },
+        {
+          "title": "9. 金店关门潮蔓延",
+          "value": "40639 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E5%BA%97%E5%85%B3%E9%97%A8%E6%BD%AE%E8%94%93%E5%BB%B6&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 40639",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Jewelry store closures are spreading..."
+          }
+        },
+        {
+          "title": "10. 温峥嵘被AI温峥嵘拉黑 [新]",
+          "value": "40052 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 40052",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Wen Zhengrong was blocked by AI Wen Zhengrong..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-05T22:08:57+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Qian Xuesen passed away 16 years ago..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-31T06:04:20+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. Mac",
-          "value": "254988 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DMac&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 254988",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Mac"
-          }
-        },
-        {
-          "title": "2. 中美元首会晤的重大意义",
-          "value": "54715 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E9%87%8D%E5%A4%A7%E6%84%8F%E4%B9%89&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 54715",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The significant meaning of the China-U.S. leaders'..."
-          }
-        },
-        {
-          "title": "3. 2025APEC",
-          "value": "54147 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025APEC&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 54147",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "2025 APEC"
-          }
-        },
-        {
-          "title": "4. 京东外卖双11联合百大品牌请客",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E5%8F%8C11%E8%81%94%E5%90%88%E7%99%BE%E5%A4%A7%E5%93%81%E7%89%8C%E8%AF%B7%E5%AE%A2&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "JD Delivery collaborates with top brands for Double 11..."
-          }
-        },
-        {
-          "title": "5. 被18岁男生从火场救出老人女儿发声",
-          "value": "54058 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB18%E5%B2%81%E7%94%B7%E7%94%9F%E4%BB%8E%E7%81%AB%E5%9C%BA%E6%95%91%E5%87%BA%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 54058",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Elderly woman's daughter speaks after being rescued by..."
-          }
-        },
-        {
-          "title": "6. 高三男生赤脚进火场救坐轮椅邻居 [重磅]",
-          "value": "53940 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E4%B8%89%E7%94%B7%E7%94%9F%E8%B5%A4%E8%84%9A%E8%BF%9B%E7%81%AB%E5%9C%BA%E6%95%91%E5%9D%90%E8%BD%AE%E6%A4%85%E9%82%BB%E5%B1%85&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 53940",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "High school boy barefoot enters fire to save neighbor in..."
-          }
-        },
-        {
-          "title": "7. 警方通报钱志敏潜逃英国",
-          "value": "42291 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%92%B1%E5%BF%97%E6%95%8F%E6%BD%9C%E9%80%83%E8%8B%B1%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 42291",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Police report Qian Zhimin has fled to the UK..."
-          }
-        },
-        {
-          "title": "8. 孙颖莎倍轻松",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8E%E5%80%8D%E8%BD%BB%E6%9D%BE&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Sun Yingsha feels relaxed..."
-          }
-        },
-        {
-          "title": "9. 泰国哀悼王太后服装店换成黑白款",
-          "value": "38438 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%B0%E5%9B%BD%E5%93%80%E6%82%BC%E7%8E%8B%E5%A4%AA%E5%90%8E%E6%9C%8D%E8%A3%85%E5%BA%97%E6%8D%A2%E6%88%90%E9%BB%91%E7%99%BD%E6%AC%BE&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 38438",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Thai mourning for the Queen Mother, shops switch to..."
-          }
-        },
-        {
-          "title": "10. 外交部奉劝巴拉圭政府 [暖]",
-          "value": "33003 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E4%BA%A4%E9%83%A8%E5%A5%89%E5%8A%9D%E5%B7%B4%E6%8B%89%E5%9C%AD%E6%94%BF%E5%BA%9C&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 33003",
-            "tag": "暖",
-            "api_source": "tianapi",
-            "translation": "The Foreign Ministry advises the Paraguayan government..."
           }
         }
       ]
