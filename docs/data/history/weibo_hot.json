@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-05T14:01:56+08:00",
+  "generated_at": "2025-11-05T18:38:49+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-05T18:38:49+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 王传君东京电影节影帝",
+          "value": "电影 5929040 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%B8%9D&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "电影 5929040",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Wang Chuanjun wins Best Actor at Tokyo Film Festival..."
+          }
+        },
+        {
+          "title": "2. 糖化脸和吃糖是什么关系",
+          "value": "457480 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%B3%96%E5%8C%96%E8%84%B8%E5%92%8C%E5%90%83%E7%B3%96%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 457480",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "What's the relationship between sugar face and eating sugar?"
+          }
+        },
+        {
+          "title": "3. 第十五届全运会",
+          "value": "345981 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 345981",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "15th National Games of China..."
+          }
+        },
+        {
+          "title": "4. 京东11.11技能国货好好用",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C11.11%E6%8A%80%E8%83%BD%E5%9B%BD%E8%B4%A7%E5%A5%BD%E5%A5%BD%E7%94%A8&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "JD 11.11 skills make domestic products great to use..."
+          }
+        },
+        {
+          "title": "5. 女子迷上奶皮子糖葫芦吃出糖化脸",
+          "value": "331922 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E8%BF%B7%E4%B8%8A%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E5%90%83%E5%87%BA%E7%B3%96%E5%8C%96%E8%84%B8&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 331922",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Woman obsessed with sugar-coated hawthorn develops..."
+          }
+        },
+        {
+          "title": "6. 户晨风多平台账号被封禁 [好物]",
+          "value": "213917 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%B7%E6%99%A8%E9%A3%8E%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 213917",
+            "tag": "好物",
+            "api_source": "tianapi",
+            "translation": "Hu Chenfeng's multi-platform account has been banned..."
+          }
+        },
+        {
+          "title": "7. 王传君感谢白百何",
+          "value": "213585 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BC%A0%E5%90%9B%E6%84%9F%E8%B0%A2%E7%99%BD%E7%99%BE%E4%BD%95&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 213585",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Wang Chuanjun thanks Bai Baihe..."
+          }
+        },
+        {
+          "title": "8. 丁禹兮的鲜活时刻",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%81%E7%A6%B9%E5%85%AE%E7%9A%84%E9%B2%9C%E6%B4%BB%E6%97%B6%E5%88%BB&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ding Yuxi's vibrant moments..."
+          }
+        },
+        {
+          "title": "9. 剑来",
+          "value": "剧集 212215 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%89%91%E6%9D%A5&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 212215",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Sword Comes..."
+          }
+        },
+        {
+          "title": "10. 超级月亮 [新]",
+          "value": "199467 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 199467",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Supermoon..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-05T14:01:56+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Ministry of Defense responds to Taiwan's high-resolution..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-10-30T18:38:22+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 微信三大新功能",
-          "value": "1157275 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1157275",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Three new features of WeChat..."
-          }
-        },
-        {
-          "title": "2. 美方加征24%关税继续暂停一年 [热]",
-          "value": "820679 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E6%96%B9%E5%8A%A0%E5%BE%8124%25%E5%85%B3%E7%A8%8E%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B8%80%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 820679",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "The U.S. will continue to suspend the 24% tariff for..."
-          }
-        },
-        {
-          "title": "3. 2025APEC",
-          "value": "768415 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025APEC&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 768415",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "2025 APEC"
-          }
-        },
-        {
-          "title": "4. 今晚8点京东补贴买3C数码更便宜",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%99%9A8%E7%82%B9%E4%BA%AC%E4%B8%9C%E8%A1%A5%E8%B4%B4%E4%B9%B03C%E6%95%B0%E7%A0%81%E6%9B%B4%E4%BE%BF%E5%AE%9C&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Buy 3C digital products cheaper with JD subsidies at 8 PM..."
-          }
-        },
-        {
-          "title": "5. 电竞奥运会暂停举办",
-          "value": "751492 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E7%AB%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9A%82%E5%81%9C%E4%B8%BE%E5%8A%9E&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 751492",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The esports Olympics are suspended."
-          }
-        },
-        {
-          "title": "6. 孙颖莎王曼昱被清华免试录取 [大促]",
-          "value": "471084 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%85%8D%E8%AF%95%E5%BD%95%E5%8F%96&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 471084",
-            "tag": "大促",
-            "api_source": "tianapi",
-            "translation": "Sun Yingsha and Wang Manyu admitted to Tsinghua without..."
-          }
-        },
-        {
-          "title": "7. 一起看全运会",
-          "value": "453662 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 453662",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Let's watch the National Games together..."
-          }
-        },
-        {
-          "title": "8. 张凌赫的理想型泡面 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E7%90%86%E6%83%B3%E5%9E%8B%E6%B3%A1%E9%9D%A2&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Zhang Linghe's ideal type is instant noodles..."
-          }
-        },
-        {
-          "title": "9. TES对战G2",
-          "value": "437741 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%AF%B9%E6%88%98G2&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 437741",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "TES vs G2"
-          }
-        },
-        {
-          "title": "10. 满13岁女生免费接种HPV疫苗 [新]",
-          "value": "396453 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BB%A113%E5%B2%81%E5%A5%B3%E7%94%9F%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 396453",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Girls aged 13 and above can receive free HPV vaccinations..."
           }
         }
       ]
