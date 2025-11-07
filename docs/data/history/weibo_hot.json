@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-07T11:00:41+08:00",
+  "generated_at": "2025-11-07T14:01:53+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-07T14:01:53+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 我国首艘电磁弹射型航母入列",
+          "value": "1113495 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%9E%8B%E8%88%AA%E6%AF%8D%E5%85%A5%E5%88%97&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1113495",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "China's first electromagnetic catapult aircraft carrier..."
+          }
+        },
+        {
+          "title": "2. 泡泡玛特大跌 [热]",
+          "value": "912936 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%A4%A7%E8%B7%8C&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 912936",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Pop Mart's stock plummets..."
+          }
+        },
+        {
+          "title": "3. 青知讲说人",
+          "value": "797267 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%92%E7%9F%A5%E8%AE%B2%E8%AF%B4%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 797267",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Qingzhi speaker..."
+          }
+        },
+        {
+          "title": "4. 京东外卖立冬请客10000000份 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E7%AB%8B%E5%86%AC%E8%AF%B7%E5%AE%A210000000%E4%BB%BD&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "JD.com offers 10 million meals for the winter solstice..."
+          }
+        },
+        {
+          "title": "5. papi酱一句话戳破何美延的自我感动",
+          "value": "698794 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dpapi%E9%85%B1%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%88%B3%E7%A0%B4%E4%BD%95%E7%BE%8E%E5%BB%B6%E7%9A%84%E8%87%AA%E6%88%91%E6%84%9F%E5%8A%A8&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 698794",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Papi Jiang exposes He Meiyan's self-indulgence in one..."
+          }
+        },
+        {
+          "title": "6. 康熙不可能是洪承畴的儿子 [重磅]",
+          "value": "545729 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BA%B7%E7%86%99%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B4%AA%E6%89%BF%E7%95%B4%E7%9A%84%E5%84%BF%E5%AD%90&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 545729",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Kangxi could not possibly be Hong Chengchou's son..."
+          }
+        },
+        {
+          "title": "7. 福建舰",
+          "value": "538826 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A6%8F%E5%BB%BA%E8%88%B0&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 538826",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Fujian ship..."
+          }
+        },
+        {
+          "title": "8. 可心柔发布BBI婴儿柔标准 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%AF%E5%BF%83%E6%9F%94%E5%8F%91%E5%B8%83BBI%E5%A9%B4%E5%84%BF%E6%9F%94%E6%A0%87%E5%87%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Kexinrou releases BBI baby softness standards..."
+          }
+        },
+        {
+          "title": "9. 刘嘉玲 你拍王家卫不用担心灯光",
+          "value": "515064 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E5%98%89%E7%8E%B2%20%E4%BD%A0%E6%8B%8D%E7%8E%8B%E5%AE%B6%E5%8D%AB%E4%B8%8D%E7%94%A8%E6%8B%85%E5%BF%83%E7%81%AF%E5%85%89&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 515064",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Liu Jialing, you don't need to worry about lighting in..."
+          }
+        },
+        {
+          "title": "10. 福建舰官宣",
+          "value": "402238 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%AE%98%E5%AE%A3&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 402238",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Fujian ship officially announced..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-07T11:00:41+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "China's 42nd Antarctic expedition team departs from..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-01T14:01:48+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 十日终焉阵容",
-          "value": "剧集 1092237 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%98%B5%E5%AE%B9&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "剧集 1092237",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Ten-Day Finale Lineup..."
-          }
-        },
-        {
-          "title": "2. 黄金有关税收政策公告来了",
-          "value": "249971 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A%E6%9D%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 249971",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Announcement on gold-related tax policies is here..."
-          }
-        },
-        {
-          "title": "3. 神二十一发射成功",
-          "value": "249642 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 249642",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Shenzhou 21 launched successfully..."
-          }
-        },
-        {
-          "title": "4. 天猫双11狂欢加码万元大额券",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E7%8B%82%E6%AC%A2%E5%8A%A0%E7%A0%81%E4%B8%87%E5%85%83%E5%A4%A7%E9%A2%9D%E5%88%B8&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tmall Double 11 frenzy boosts big coupons worth thousands..."
-          }
-        },
-        {
-          "title": "5. 冯淬帆去世",
-          "value": "248088 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%AF%E6%B7%AC%E5%B8%86%E5%8E%BB%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 248088",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Feng Cuifan has passed away..."
-          }
-        },
-        {
-          "title": "6. 小狗疑被毒死女子辞职追凶3年 [重磅]",
-          "value": "246616 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%8B%97%E7%96%91%E8%A2%AB%E6%AF%92%E6%AD%BB%E5%A5%B3%E5%AD%90%E8%BE%9E%E8%81%8C%E8%BF%BD%E5%87%B63%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 246616",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Woman resigns to pursue dog poisoning case for 3 years..."
-          }
-        },
-        {
-          "title": "7. Faker回应打LPL没输过",
-          "value": "245021 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DFaker%E5%9B%9E%E5%BA%94%E6%89%93LPL%E6%B2%A1%E8%BE%93%E8%BF%87&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 245021",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Faker responds that he has never lost in the LPL..."
-          }
-        },
-        {
-          "title": "8. 以快克疾决战回马枪 [热]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A5%E5%BF%AB%E5%85%8B%E7%96%BE%E5%86%B3%E6%88%98%E5%9B%9E%E9%A9%AC%E6%9E%AA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Swiftly counterattack with a quick decision..."
-          }
-        },
-        {
-          "title": "9. 喜人奇妙夜 再见爱人",
-          "value": "综艺 243443 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%20%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "综艺 243443",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "A Delightful and Mysterious Night: Goodbye, Lover..."
-          }
-        },
-        {
-          "title": "10. 年轻人爱上越剧",
-          "value": "242214 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%88%B1%E4%B8%8A%E8%B6%8A%E5%89%A7&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 242214",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Young people fall in love with Yue Opera..."
           }
         }
       ]
