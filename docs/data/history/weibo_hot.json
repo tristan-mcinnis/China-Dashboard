@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-07T18:38:21+08:00",
+  "generated_at": "2025-11-07T22:08:38+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-07T22:08:38+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 天国的嫁衣",
+          "value": "剧集 1171295 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%AB%81%E8%A1%A3&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1171295",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Wedding Dress of Heaven..."
+          }
+        },
+        {
+          "title": "2. 爱新觉罗家族后代都有染色体标记 [新]",
+          "value": "971926 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E6%96%B0%E8%A7%89%E7%BD%97%E5%AE%B6%E6%97%8F%E5%90%8E%E4%BB%A3%E9%83%BD%E6%9C%89%E6%9F%93%E8%89%B2%E4%BD%93%E6%A0%87%E8%AE%B0&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 971926",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Descendants of the Aisin Gioro family have chromosome..."
+          }
+        },
+        {
+          "title": "3. 中国国际进口博览会",
+          "value": "615036 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E8%BF%9B%E5%8F%A3%E5%8D%9A%E8%A7%88%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 615036",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "China International Import Expo..."
+          }
+        },
+        {
+          "title": "4. 上淘宝闪购吃冬天第一顿火锅",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%90%83%E5%86%AC%E5%A4%A9%E7%AC%AC%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Shop on Taobao for winter's first hot pot..."
+          }
+        },
+        {
+          "title": "5. 西安市委书记方红卫被查",
+          "value": "575727 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A5%BF%E5%AE%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%B9%E7%BA%A2%E5%8D%AB%E8%A2%AB%E6%9F%A5&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 575727",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Xi'an Party Secretary Fang Hongwei is under investigation..."
+          }
+        },
+        {
+          "title": "6. 安徽省二胎补贴被追回 [火热]",
+          "value": "557573 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%89%E5%BE%BD%E7%9C%81%E4%BA%8C%E8%83%8E%E8%A1%A5%E8%B4%B4%E8%A2%AB%E8%BF%BD%E5%9B%9E&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 557573",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Anhui Province's second-child subsidy has been reclaimed..."
+          }
+        },
+        {
+          "title": "7. 空腹爬楼瘦了25斤",
+          "value": "396216 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%BA%E8%85%B9%E7%88%AC%E6%A5%BC%E7%98%A6%E4%BA%8625%E6%96%A4&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 396216",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Lost 25 pounds by climbing stairs on an empty stomach..."
+          }
+        },
+        {
+          "title": "8. 水千丞188男团将影视化 [新]",
+          "value": "394263 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E5%8D%83%E4%B8%9E188%E7%94%B7%E5%9B%A2%E5%B0%86%E5%BD%B1%E8%A7%86%E5%8C%96&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 394263",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The boy band Shui Qian Cheng 188 will be adapted into..."
+          }
+        },
+        {
+          "title": "9. 沙僧扮演者刘大刚病逝",
+          "value": "331456 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%99%E5%83%A7%E6%89%AE%E6%BC%94%E8%80%85%E5%88%98%E5%A4%A7%E5%88%9A%E7%97%85%E9%80%9D&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 331456",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Actor Liu Dagang, who played Sha Seng, has passed away..."
+          }
+        },
+        {
+          "title": "10. 朱婷还是朱婷 [新]",
+          "value": "285637 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B1%E5%A9%B7%E8%BF%98%E6%98%AF%E6%9C%B1%E5%A9%B7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 285637",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Zhu Ting is still Zhu Ting..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-07T18:38:21+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Infinite warmth..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-01T22:06:43+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 苏超泰州队冠军",
-          "value": "3747528 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E8%B6%85%E6%B3%B0%E5%B7%9E%E9%98%9F%E5%86%A0%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 3747528",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Suqiao Taizhou team champions..."
-          }
-        },
-        {
-          "title": "2. 泰州vs南通 [热]",
-          "value": "2310470 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%B0%E5%B7%9Evs%E5%8D%97%E9%80%9A&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 2310470",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Taizhou vs Nantong..."
-          }
-        },
-        {
-          "title": "3. 中国人有7张太空全家福了",
-          "value": "1495293 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%897%E5%BC%A0%E5%A4%AA%E7%A9%BA%E5%85%A8%E5%AE%B6%E7%A6%8F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1495293",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chinese have 7 family photos in space now..."
-          }
-        },
-        {
-          "title": "4. 220米的刘宇宁就在京东11.11",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D220%E7%B1%B3%E7%9A%84%E5%88%98%E5%AE%87%E5%AE%81%E5%B0%B1%E5%9C%A8%E4%BA%AC%E4%B8%9C11.11&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Liu Yuning, 220 meters tall, is at JD's 11.11..."
-          }
-        },
-        {
-          "title": "5. 苏超决赛直播",
-          "value": "1042996 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E8%B6%85%E5%86%B3%E8%B5%9B%E7%9B%B4%E6%92%AD&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 1042996",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Live broadcast of the Scottish Premiership final..."
-          }
-        },
-        {
-          "title": "6. 无限暖暖 [好物]",
-          "value": "350642 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 350642",
-            "tag": "好物",
-            "api_source": "tianapi",
-            "translation": "Infinite warmth..."
-          }
-        },
-        {
-          "title": "7. 第十一届文荣奖获奖名单",
-          "value": "盛典 247200 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E6%96%87%E8%8D%A3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "盛典 247200",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "List of winners of the 11th Wenrong Award..."
-          }
-        },
-        {
-          "title": "8. 飞猪旅行双11国内酒店卖爆了 [热]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A3%9E%E7%8C%AA%E6%97%85%E8%A1%8C%E5%8F%8C11%E5%9B%BD%E5%86%85%E9%85%92%E5%BA%97%E5%8D%96%E7%88%86%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Fliggy's Double 11 domestic hotel sales skyrocketed..."
-          }
-        },
-        {
-          "title": "9. KT战胜GEN",
-          "value": "247049 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKT%E6%88%98%E8%83%9CGEN&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 247049",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "KT defeats GEN..."
-          }
-        },
-        {
-          "title": "10. 唐朝诡事录之长安",
-          "value": "剧集 246350 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "剧集 246350",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Strange Tales of the Tang Dynasty: Chang'an..."
           }
         }
       ]
