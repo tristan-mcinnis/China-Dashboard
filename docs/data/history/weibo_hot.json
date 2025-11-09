@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-09T22:06:41+08:00",
+  "generated_at": "2025-11-10T06:04:00+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-10T06:04:00+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 第一次见何炅主持结巴",
+          "value": "综艺 275076 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%BD%95%E7%82%85%E4%B8%BB%E6%8C%81%E7%BB%93%E5%B7%B4&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "综艺 275076",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "First time seeing He Jiong host with a stutter..."
+          }
+        },
+        {
+          "title": "2. 路易吉被曝在监狱内非常受欢迎 [热]",
+          "value": "72358 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B7%AF%E6%98%93%E5%90%89%E8%A2%AB%E6%9B%9D%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%86%85%E9%9D%9E%E5%B8%B8%E5%8F%97%E6%AC%A2%E8%BF%8E&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 72358",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Luigi is reported to be very popular in prison..."
+          }
+        },
+        {
+          "title": "3. 全运会开幕式",
+          "value": "57517 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 57517",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Opening ceremony of the National Games..."
+          }
+        },
+        {
+          "title": "4. 飞猪双11为88VIP准备了超多好货",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A3%9E%E7%8C%AA%E5%8F%8C11%E4%B8%BA88VIP%E5%87%86%E5%A4%87%E4%BA%86%E8%B6%85%E5%A4%9A%E5%A5%BD%E8%B4%A7&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Fliggy's Double 11 offers a ton of great deals for 88VIP..."
+          }
+        },
+        {
+          "title": "5. 那英被声鸣远扬关麦",
+          "value": "54076 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%82%A3%E8%8B%B1%E8%A2%AB%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E5%85%B3%E9%BA%A6&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 54076",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Na Ying's voice resonates far and wide..."
+          }
+        },
+        {
+          "title": "6. 央视曝光被薅羊毛的医保卡 [官宣]",
+          "value": "44407 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%A2%AB%E8%96%85%E7%BE%8A%E6%AF%9B%E7%9A%84%E5%8C%BB%E4%BF%9D%E5%8D%A1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 44407",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "CCTV exposes misuse of medical insurance cards..."
+          }
+        },
+        {
+          "title": "7. 上上谦仅剩上海1家门店",
+          "value": "44376 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E4%B8%8A%E8%B0%A6%E4%BB%85%E5%89%A9%E4%B8%8A%E6%B5%B71%E5%AE%B6%E9%97%A8%E5%BA%97&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 44376",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Shang Shang Qian has only one store left in Shanghai..."
+          }
+        },
+        {
+          "title": "8. 银行App迎来关停潮 [热]",
+          "value": "30889 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%93%B6%E8%A1%8CApp%E8%BF%8E%E6%9D%A5%E5%85%B3%E5%81%9C%E6%BD%AE&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 30889",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Banking apps face a wave of shutdowns..."
+          }
+        },
+        {
+          "title": "9. Faker谈多兰多次失误",
+          "value": "28455 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DFaker%E8%B0%88%E5%A4%9A%E5%85%B0%E5%A4%9A%E6%AC%A1%E5%A4%B1%E8%AF%AF&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 28455",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Faker discusses Doron's repeated mistakes..."
+          }
+        },
+        {
+          "title": "10. 薛之谦 认真的雪",
+          "value": "音乐 28165 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E8%AE%A4%E7%9C%9F%E7%9A%84%E9%9B%AA&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "音乐 28165",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Serious Snow by Xue Zhiqian..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-09T22:06:41+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Chinese space station can now enjoy barbecues..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-04T06:04:15+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 何炅 最近谣传我有衰老焦虑",
-          "value": "盛典 207144 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E7%82%85%20%E6%9C%80%E8%BF%91%E8%B0%A3%E4%BC%A0%E6%88%91%E6%9C%89%E8%A1%B0%E8%80%81%E7%84%A6%E8%99%91&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "盛典 207144",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "He Jiong is rumored to be anxious about aging..."
-          }
-        },
-        {
-          "title": "2. 孙铭阳卡点为孙颖莎庆生",
-          "value": "68903 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%93%AD%E9%98%B3%E5%8D%A1%E7%82%B9%E4%B8%BA%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BA%86%E7%94%9F&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 68903",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Sun Mingyang celebrates Sun Yingsha's birthday..."
-          }
-        },
-        {
-          "title": "3. 中国体育名场面感动了一遍又一遍",
-          "value": "58670 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E5%90%8D%E5%9C%BA%E9%9D%A2%E6%84%9F%E5%8A%A8%E4%BA%86%E4%B8%80%E9%81%8D%E5%8F%88%E4%B8%80%E9%81%8D&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 58670",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chinese sports moments touch hearts again and again..."
-          }
-        },
-        {
-          "title": "4. 山姆在争议声中再更新APP",
-          "value": "58385 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%B1%E5%A7%86%E5%9C%A8%E4%BA%89%E8%AE%AE%E5%A3%B0%E4%B8%AD%E5%86%8D%E6%9B%B4%E6%96%B0APP&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 58385",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Sam updates the app amid controversy..."
-          }
-        },
-        {
-          "title": "5. 白鹿说我不是第一次一年播三部剧",
-          "value": "盛典 50735 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%E8%AF%B4%E6%88%91%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%80%E5%B9%B4%E6%92%AD%E4%B8%89%E9%83%A8%E5%89%A7&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "盛典 50735",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Bai Lu said it's not the first time she's filmed three..."
-          }
-        },
-        {
-          "title": "6. 卢浮宫盗贼居住在巴黎本地",
-          "value": "32996 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%9B%97%E8%B4%BC%E5%B1%85%E4%BD%8F%E5%9C%A8%E5%B7%B4%E9%BB%8E%E6%9C%AC%E5%9C%B0&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 32996",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Louvre thief resides locally in Paris..."
-          }
-        },
-        {
-          "title": "7. 王鹤棣攒了一年八卦就等今天了",
-          "value": "盛典 32781 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%94%92%E4%BA%86%E4%B8%80%E5%B9%B4%E5%85%AB%E5%8D%A6%E5%B0%B1%E7%AD%89%E4%BB%8A%E5%A4%A9%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "盛典 32781",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Wang Hedi has been gathering gossip for a year for today..."
-          }
-        },
-        {
-          "title": "8. 肖战人不到奖照拿",
-          "value": "盛典 32522 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E4%BA%BA%E4%B8%8D%E5%88%B0%E5%A5%96%E7%85%A7%E6%8B%BF&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "盛典 32522",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Xiao Zhan didn't receive the award in person..."
-          }
-        },
-        {
-          "title": "9. 台湾省可以用高德导航了",
-          "value": "28534 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%AF%E4%BB%A5%E7%94%A8%E9%AB%98%E5%BE%B7%E5%AF%BC%E8%88%AA%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 28534",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Taiwan can now use Gaode Navigation..."
-          }
-        },
-        {
-          "title": "10. 上海可以夜间领证结婚了",
-          "value": "27161 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E5%8F%AF%E4%BB%A5%E5%A4%9C%E9%97%B4%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 27161",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Shanghai now allows marriage licenses to be issued at..."
           }
         }
       ]
