@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-11-14T11:01:51+08:00",
+  "generated_at": "2025-11-14T14:02:45+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-14T14:02:45+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息丨10月国民经济保持总体平稳、稳中有进发展态势",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXZpLUNJeU15c1lXQ2d2ZmNNSWFhaEFiQlI3YjlpRWhQTDR6WWdoNU00elRucm9rNFZCOTRFcmRWR0ZseXY1YWU2ZXhRM1ZMVG9xOXI2RUtnYm8yLWJpd1FFOXNLLUhDQWgzMXZ6M2Vkd0NSazVMZUpib1RacXo0TDRxOWxLSlJQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-13T19:25:34Z",
+            "summary": "新华社消息丨10月国民经济保持总体平稳、稳中有进发展态势 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: October economy remains stable with..."
+          }
+        },
+        {
+          "title": "墨西哥迎来年度促销活动",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmRjNmZtU0hEM2pEWTlLQkJMQ3RWWEstUnZhVlhFMmxmSFg5Qk45bGhXLXBfX2k1WjFuSHRncGltTUVNNHY3b2Vqc1BiRVNlNjZMb3NOTWFsaWJkV3lUUW1wNExmWlVFS3RhUUZXdkM5Zl95V3RKOTVsZTBJdFVVNGRSc0wzQQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-13T14:52:14Z",
+            "summary": "墨西哥迎来年度促销活动 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Mexico welcomes its annual promotional event..."
+          }
+        },
+        {
+          "title": "全运会｜柔道赛场的“匠心”伴手礼_第十五届全国运动会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGFZMUU0SFNQbVZhTVBiNzhVUlRZWHNnYUdfckx0Rzd0LXBxY3ZCX1IwX0VpZ0c3WXFQSEJPeElPQld5NERYMlZ0Z3pUWXc2ZTlEbkdBR0p3TXpHT3BJWkxhSk5keWFfYlNDcmlfSkJQNGQwclBVNmN6Ni1OWVRZY0Jxa2o3S2c?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-13T06:49:30Z",
+            "summary": "全运会｜柔道赛场的“匠心”伴手礼_第十五届全国运动会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "National Games: Judo's \"craftsmanship\" souvenirs..."
+          }
+        },
+        {
+          "title": "大看台｜“十五运会”上展望“十五五”之安徽篇_第十五届全国运动会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUhLMHFJd1A0VUl0QWdKTnloSklmTE1OcEhkVEhMMmQ5VGZ6d29RTGE0bjhBNEd6dVVIemtCc2FBNTJMTkVnaVZKY29QRDNjNG0wb2dDNkRvVEJfV1QxV3RRUEsyYzAwNlNLYUVIc2lFLWhkTWcweHp2TW1hT0J1bkJiTzJnOUE?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-13T09:55:36Z",
+            "summary": "大看台｜“十五运会”上展望“十五五”之安徽篇_第十五届全国运动会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Grandstand: Looking Ahead to Anhui in the 15th Five-Year..."
+          }
+        },
+        {
+          "title": "全运会丨游泳——男女4X100米混合泳接力决赛赛况_第十五届全国运动会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWkZRd0czN3RnMWtUcUdsNEdQWGNCVjhHQ1J0OWdYRVFPRENkVUxqYmZEQ29BYXJqR0p0WGpzejFaV3BybXB1bGZNV3hud21QekQ5NjNxV1B4OHhDZEh4eDByNlVPcGpBaFhFWjBvR1g5d1JjaFZFVUFlLVA2bEFEbHlHLW1CNHM?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-13T07:37:55Z",
+            "summary": "全运会丨游泳——男女4X100米混合泳接力决赛赛况_第十五届全国运动会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "National Games: Swimming - Mixed 4X100m Relay Finals..."
+          }
+        },
+        {
+          "title": "商务部：努力推动中国－东盟自贸区3.0版升级议定书尽早生效实施",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WY1JsUkJuZmJhUkxXMkgxN1RIcDAzNWZkZUU5b3ZjMnd2d3cwUUhPOFduQWFiUmxlMHBQM1ZOb05uR3BrRXV5WTZnNVhibzgycVBKSDN1dV94YWYxOEloZVVyRlEtRXhBc2JleGc5NEpSWkluS3JpanVrckY5Zw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-13T02:32:36Z",
+            "summary": "商务部：努力推动中国－东盟自贸区3.0版升级议定书尽早生效实施 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Ministry of Commerce: Push for early implementation of..."
+          }
+        },
+        {
+          "title": "第五届水文化国际研讨会聚焦水文化与水利科技",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YWXI4WWh0SmtxYWV6YzdZTHJlSnRzQnN0VU1Oam9ndGV4cmZHbjg5dFd1dFlWa1U4Mk9iejRZNVFTUlEtai1PM2FiVzJuNGFBSjFBUTg1eExHVWp5QnFJSDFMR0tSNjdwSS16VW0wZVkxWFBkWmwtMm44YlVIdw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-13T05:45:34Z",
+            "summary": "第五届水文化国际研讨会聚焦水文化与水利科技 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 5th International Water Culture Conference focuses..."
+          }
+        },
+        {
+          "title": "新华社权威快报丨1444.49吨！我国探明首个千吨级金矿",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWZfZjVTcDJndmtXcW9YZTY2QnhoRkR5QjYxREl0LXQyX19PS1RWckpMc3NpUS1UdVRJTUVGcXRyNF9oclBHSXVzY2NhckdXUVNFSzl0OWdSc3JsMl9kOU1MN2NuVS05cVBLRzk4ZENKSmZpTUloLWx1SnpvSUcwbXM3QjhDeHp2?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-13T16:30:57Z",
+            "summary": "新华社权威快报丨1444.49吨！我国探明首个千吨级金矿 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua News: 1,444.49 tons! China's first thousand-ton..."
+          }
+        },
+        {
+          "title": "全运会| 攀岩首个金牌日：老将胜出少年有笑有泪_第十五届全国运动会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0xOMnA5dlliRjF3cVQ0dW13MzNXYTk3WWpYbW13elg2cldvQTRsVXRrRDZJSlpwX3E2TmhhSTB4cS03ajJmdzFhS0Z5MV90aTFSTU8tZ0pmODBGdHpNV3JPS3dVVHNaMzlfTTRqV0N3WFhaVEJjTmw2b3RMOXR2d3A3RWFwYzg?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-13T08:16:35Z",
+            "summary": "全运会| 攀岩首个金牌日：老将胜出少年有笑有泪_第十五届全国运动会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "National Games: Climbing's first gold day sees veterans..."
+          }
+        },
+        {
+          "title": "追光丨武术套路，场边加油一点“不套路”！_第十五届全国运动会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JR1hHVk1lb0d4a3d6d3hzN0M2U0tVMU5iN1BjQWhkNFV6bnVuX2EwaUlmVFd3SnFlSUVhczE4WUllTmtKSV9xNU52U1ZDa2N0TE5taWhNZnRYUUlwem9kcVlCOGVsZnFzanlfOG9lSkJOc0NSdHh4a1hUbWtmUQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-12T23:38:56Z",
+            "summary": "追光丨武术套路，场边加油一点“不套路”！_第十五届全国运动会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chasing Light: Martial Arts Routine, a bit of \"not..."
+          }
+        },
+        {
+          "title": "财经聚焦丨近15万亿元新增贷款投向哪里？——透视我国前10个月金融数据",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmg3NTFjWjN5blA2bldlckpwV0NhRG5CeUtURWQ2ZlJyMG9vNExqX0JyVUFPTXh5anN2ZnZESFZMc2ZMeEZycGRKaG14Rk1rN1J4d181T2VqNVJBNDJJZHgwVWdiNTNnYTdHejBTRWtiME11NG84NFBOc2hyR2tmSnpzQVFOZzR6?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-13T06:20:02Z",
+            "summary": "财经聚焦丨近15万亿元新增贷款投向哪里？——透视我国前10个月金融数据 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Financial Focus: Where did the 15 trillion yuan in new..."
+          }
+        },
+        {
+          "title": "《泉州市社会信用条例》将于2026年元旦起施行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckRuZXA2NE1ROGJoODlxdHpuU2phSXExc09MMW5wb1EtZlphRHZ3cm5LeFFQak94SmhIbjVGS0JBeUh0Y1J2M1NZMkxtR1BqLWZvZUFzX0hHQTZIM0lIWWs1UE9qYkpiNjZGODNmRE5ZVy1EYVpsRGtCSWFTc0tiN3lDQmlOV2Vo?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-13T05:02:39Z",
+            "summary": "《泉州市社会信用条例》将于2026年元旦起施行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The Quanzhou Social Credit Regulations will take effect..."
+          }
+        },
+        {
+          "title": "中国工商银行泉州分行：深耕普惠金融沃土 服务民营经济发展",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFpZbFBaY25HZ3B6aDR5WHVNSTNZekFuVjdKNVA3WVh6ZUl3LUxDTGRMNnpiU19qMEs0WUhmdXBXYmJVc255dDBKWDlmRlR6LUFfaE42ckhzS3dhTmVPM2xTbmxZclNpakMxcVRDaVZ2R2k3RTJDNWVBSnFFVGFfeVYtRlFWVnZ4?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-13T05:02:40Z",
+            "summary": "中国工商银行泉州分行：深耕普惠金融沃土 服务民营经济发展 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "ICBC Quanzhou: Deepening inclusive finance to support..."
+          }
+        },
+        {
+          "title": "《大湾区上市公司治理评价报告（2025年）》在深圳发布大湾区上市公司整体治理水平较高，仍居全国前列",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHZGS0VUUlQxUDd3NWhZSnNkQ3VpSGJobjVQZHJvZTh5M2lDbkRnWU9tXzJubmR4VXFMZHhXU1czeTFCdGZwNUxXN09CdmRSRnRpRVpQbHZZQnZVcll2LVdudzNRbVh2Z3pDT19POF9wb2lsQnVSS1RsZkVjQ2VTZzU1T1NublNX?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-13T20:54:10Z",
+            "summary": "《大湾区上市公司治理评价报告（2025年）》在深圳发布大湾区上市公司整体治理水平较高，仍居全国前列 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"2025 Greater Bay Area Listed Companies Governance..."
+          }
+        },
+        {
+          "title": "洛江平安建设主题歌曲《平安三宝》发布",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFdQZ1ZodHRKLW5kT2lHUDhEM2hLeGVDeE9JdXVYMEFhdTc1TzRWaFJSanhjekJPdWVoWHlGNTBTdnl4U3BvZngzVDJlUTJ1THBwaVdFN0RNTUpzV3VuM183WjY5VFhZb19fNFZ6cVFpQ3IweUN2WTdmbEh1endUc2dpMGZmd3Yz?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-13T05:02:37Z",
+            "summary": "洛江平安建设主题歌曲《平安三宝》发布 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Release of the theme song \"Three Treasures of Peace\" for..."
+          }
+        },
+        {
+          "title": "第二届中国化妆品科技赋能论坛暨第四届全国大学生绿色化妆品创新创意大赛中南赛区启动仪式在长沙举办",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVXbGY2Y18tcERwZEk3UmRWdEpBb3h0UThoclJXUkhYMDBubldpeE5pbnFpZS11VEx6WjVxTE9DamNuNUcwdGtXVE1XUXZpZm5ETnZ2TC1tbjJGMXdiWjQwQm4tc1BuZ3BjejBrbXprbEdhaVNzUkItc3ptZVl5WjRtQlU?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-13T04:49:38Z",
+            "summary": "第二届中国化妆品科技赋能论坛暨第四届全国大学生绿色化妆品创新创意大赛中南赛区启动仪式在长沙举办 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 2nd China Cosmetics Technology Empowerment Forum..."
+          }
+        },
+        {
+          "title": "非洲科技节参展中企期待助力非洲数字化转型",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiSm9NS19Bd1VLc2E4VkYyaENwMnRaVUZNeTlFTU4wekU5QXpiNTRpUF93cml5T3ZNeXpXN0M2ekktSVd0WDFaQzl3UW9ZRDNYTjZWQkd2M2tUd01HcUJTbzRhajJvMlZHYVhyQ0pCTzVYWlRxQnJEZ3JXOE02UQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-13T03:38:00Z",
+            "summary": "非洲科技节参展中企期待助力非洲数字化转型 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chinese companies at Africa Tech Festival aim to boost..."
+          }
+        },
+        {
+          "title": "瘦吧科技在第八届进博会与挪威品牌Seagarden达成战略合作",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbU1JSExTTjFrRE56SGZoc0tueTA5d2ZJd0RwelhQZWRCTThtNGNiSXRZZEVjc0s3VXBjWDNqQm5hck9IZ3hNMG5GN2FoeGxXZHFxeENLeVRtaVpvQkhlSDJJci1YTzg3aThObHBTQ0YyMjFDd241NC1GSTJTLS1pcDA1VDdmZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-13T00:44:36Z",
+            "summary": "瘦吧科技在第八届进博会与挪威品牌Seagarden达成战略合作 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Shouba Technology partners with Norway's Seagarden at..."
+          }
+        },
+        {
+          "title": "非洲科技节参展中企期待助力非洲数字化转型",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0RZQ2FXVUgta3hRUDJqSkxRdC10dkRqYjVaSEEyUU5HTnVNRWl6Q0ZoakNwdW40MlNaZXBWenlvVlhWWTFmNWFRQ3h0Z0g0bnY3ZHpMOHBzU1hJb3BmQjNpZTVhTmdDNnJHeExVQ29QbkVYa091dHBtYzMwZHhybUl0Tnlldw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-13T04:34:51Z",
+            "summary": "非洲科技节参展中企期待助力非洲数字化转型 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chinese companies at Africa Tech Festival aim to boost..."
+          }
+        },
+        {
+          "title": "中国Z世代故事丨让传统烟花在科技中绽放新姿",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0I4VGo0WTdyengwNlNrOUNpZzNmS0xBU3JvZ0lzMTVRX3ZyN3hUazhJZUlXM20xYzd0amVYYmZ2Z2NZQ2JFZU9RbTNPZDdNbDdUTG5Nc3RHWU9La3NEalIxN1pLem9WT3J6WVVOZ3cxUWp5QnU2YlhDNmwteFBrdmJJZno0dw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-13T05:31:55Z",
+            "summary": "中国Z世代故事丨让传统烟花在科技中绽放新姿 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chinese Gen Z stories: reviving traditional fireworks..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-14T11:01:51+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "Finance Focus: \"Six Little Dragons Wuzhen Dialogue\" on..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-08T14:03:09+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "今天记者节，祝记者朋友节日快乐！",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHpETjNvNTA1b3NIcWJ0V2RPUGthOTl0aXdmUTNDN3k2bWk0Y0hqTUVrZEJxWUpDdjVIcm5qY2VtaVRhTlVLQ2NrQjBnNXZGUzVVd3AzbDFMWjQtbmMtMEF0Y25YeGxIX3NPTV9wSEY3RVFiaDVwd29pUDBTNHAtZlBxSXBGNDJOeUlOTw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-07T17:39:09Z",
-            "summary": "今天记者节，祝记者朋友节日快乐！ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Happy Journalist Day to all journalist friends!"
-          }
-        },
-        {
-          "title": "探访大熊猫基地",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZzRSMGtFRndtcXJfVVBoXy0wbDNsYkw4SjY3bER6NzBSYVl3LVlQR2pXeld1VGluTEs0SG1RNEFsXy03RDAxd0p2R2FBeWI0a3BzemlPX1F6dVRhdmFWQl9mZm1nR2JadDd5X3BjMjZOYkhmNkhBSU9FMDZrdlZRZmlZYTQ0bEVLT0RMd3k5MXlVUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-07T03:03:52Z",
-            "summary": "探访大熊猫基地 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Visit the Giant Panda Base..."
-          }
-        },
-        {
-          "title": "墨西哥举行仪式欢迎到访的法国总统",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmp4czM0ODdiYk5hTzZxN2tHOU84Rjk2M0JycFdBaDZPSU9OUTNqdm5ReFRNZFRnLW9ES1FyTE9KekstczM4M2RfNy1XVm40cnEybXNKY0UzWDdRcENaWEJ4Rld1TXROU0ZyS040NEU4Z1Rkb1ozcXdMd2FDVmVtMWQ5VjF2dw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-07T13:18:54Z",
-            "summary": "墨西哥举行仪式欢迎到访的法国总统 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Mexico holds a ceremony to welcome the visiting French..."
-          }
-        },
-        {
-          "title": "世界互联网大会成立两个新专业委员会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkhNZFFEa0ZpaXRNbzJlczNqU0cwbC1ReUNaVEhaSHpyMXpoemw3c1hUNmh2VDNPbk8wQmc3MEhKQXlvalZOOFhvVWd1UHJhWXNIMVl0M3h5azczUnAxQm9aYnRuUzg0QXIxVGx3ZUxWVDFtbEJQdXlTS1otT1pDbVcwSmc?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-07T08:29:45Z",
-            "summary": "世界互联网大会成立两个新专业委员会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Two new professional committees established at the World..."
-          }
-        },
-        {
-          "title": "2025中非经贸和文化论坛总签约金额超400亿元",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lR3RUQVhTSTBDWm1DbGhxRkdHOXpMV2xaUXhiZ0JaelNISktxdjd3eGlDVGxrb1dUSFA2QnlzZE5XSjBiVWR3aVVoV21ZRGd5RXdqSXlKblJsdFVQUXJDMWZVVnd2OG9HX3R1MEw3YzgwV1FwVWFXRTFNV3hJQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-07T06:07:59Z",
-            "summary": "2025中非经贸和文化论坛总签约金额超400亿元 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Total signed amount of the 2025 China-Africa forum..."
-          }
-        },
-        {
-          "title": "镜观中国·新华社国内新闻照片一周精选",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFdMWWhDaE1DU0x1bzVmTk9lejdiVENqb0N0N3JJRkJ2VEtrVlRQZVZWa0l6Q1hRenFadW1IQVNxanRrS3VJMjFTd2lGd0lIRV80RDA5ZHBvWUMybDRTNXVRdFpaSTFDRWF3bkVlU3hiRWJvQm1aYmxDejJkaXdISHR1TEk2QQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-07T18:06:28Z",
-            "summary": "镜观中国·新华社国内新闻照片一周精选 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China in Focus: Weekly Selection of Xinhua Domestic News..."
-          }
-        },
-        {
-          "title": "新华社权威快报丨《基本实现中国式现代化的关键阶段——“十五五”时期中国经济社会发展的战略擘画》智库报告发布",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZYjRWV2h2LTVhcW5oMXRXdmhPckZEV0tlS0lqS0VtM1JqcWFRWjAtQjY1SEFYdEhYNThvbFA0WjlpaGUxRlZHYWJZZHBaTkN4Qmx6SHpYMy1JQkNZUjYzelF4VVpTY0ltVW1BbjBGdVBjQWlMZ2lJODE5OEdTZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-06T23:18:06Z",
-            "summary": "新华社权威快报丨《基本实现中国式现代化的关键阶段——“十五五”时期中国经济社会发展的战略擘画》智库报告发布 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua News: Think tank report on key phase of China's..."
-          }
-        },
-        {
-          "title": "宝藏之城丨这座小城让北美“红宝石”扎根中国",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0QwNWtjbjltLXBSckJRWnJOTEhUQjlBRjdncHU1d3ZzS1JmRXhWdjhvV3RLR3ZGLXFPUUhWT1p5YjlGcXZYaWZJczFQN0llTTEyYTF1NTlqVWpDMS1wMFI4SGRHeTZfS05ZcjhZRWdEN0txRzlHczZiNmpBY19ReGZ5WHktUQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-06T23:34:49Z",
-            "summary": "宝藏之城丨这座小城让北美“红宝石”扎根中国 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Treasure City: This small town roots North America's..."
-          }
-        },
-        {
-          "title": "财经聚焦丨“六小龙乌镇对话”，他们如何思考AI和未来",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFFVOUtkRG5JY2ZRV29SZl9yMG9oclJ5REZTd3M3TlJ5U2xMZDVOenlDSlR0Skw2X182SVdqWmJOMUNnT1ZhdVE2bjJfb3Z5elFWWTFHNDRBcm01dVk1TkxOZTVLN0VMam1TQmJFYU9mNnRNcXo3Ti1xWFVfZTA1cjBoQ0NJZjNt?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-07T08:31:18Z",
-            "summary": "财经聚焦丨“六小龙乌镇对话”，他们如何思考AI和未来 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Finance Focus: \"Six Little Dragons Wuzhen Dialogue\" on..."
-          }
-        },
-        {
-          "title": "财经聚焦·第八届进博会｜焕新登场、签约不断，在进博会感受低空经济发展新气象",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2X1ROM1dhVGxrcy05dUFCZ1VZVmxXbDlnTFdsUzJFLThqZzZMdlFUSnJ0SXduc2dFUHpTcTVYR3o3aHdxVzNBMjdwa1lqcEpXM1prWmpVdmFvYWxGUG80QW1HNjU1LWdwU3hGX1hsSEV2UEMyaThOWjFYRzVxZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-07T07:01:54Z",
-            "summary": "财经聚焦·第八届进博会｜焕新登场、签约不断，在进博会感受低空经济发展新气象 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Economic Focus: 8th CIIE showcases new trends in..."
-          }
-        },
-        {
-          "title": "财经聚焦·第八届进博会｜焕新登场、签约不断，在进博会感受低空经济发展新气象",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2X1ROM1dhVGxrcy05dUFCZ1VZVmxXbDlnTFdsUzJFLThqZzZMdlFUSnJ0SXduc2dFUHpTcTVYR3o3aHdxVzNBMjdwa1lqcEpXM1prWmpVdmFvYWxGUG80QW1HNjU1LWdwU3hGX1hsSEV2UEMyaThOWjFYRzVxZw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-07T07:01:54Z",
-            "summary": "财经聚焦·第八届进博会｜焕新登场、签约不断，在进博会感受低空经济发展新气象 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Economic Focus: 8th CIIE showcases new low-altitude..."
-          }
-        },
-        {
-          "title": "新华网财经观察丨“全勤生”的进博之约",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXdSdjM1Tm80SC10bWNqWjNFbDRVcmJDN2sya2Jfdkxxako2bVF5clVtTFlCNFdmcmRkdHlibGV2TTdUdHFiM25XYzhVYUY4dUlBcnhVNVQ5b0hEMklNOE1Va2J5QS1mVmNfN25aUFZIY0lqQ0E5YUR5cDJ2cGtVNkp6cENWUzR2?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-07T15:25:55Z",
-            "summary": "新华网财经观察丨“全勤生”的进博之约 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua Finance Observation: The \"Perfect Attendance\" at..."
-          }
-        },
-        {
-          "title": "财经聚焦丨“六小龙乌镇对话”，他们如何思考AI和未来",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFFVOUtkRG5JY2ZRV29SZl9yMG9oclJ5REZTd3M3TlJ5U2xMZDVOenlDSlR0Skw2X182SVdqWmJOMUNnT1ZhdVE2bjJfb3Z5elFWWTFHNDRBcm01dVk1TkxOZTVLN0VMam1TQmJFYU9mNnRNcXo3Ti1xWFVfZTA1cjBoQ0NJZjNt?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-07T08:31:18Z",
-            "summary": "财经聚焦丨“六小龙乌镇对话”，他们如何思考AI和未来 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Finance Focus: \"Six Little Dragons of Wuzhen Dialogue\"..."
-          }
-        },
-        {
-          "title": "泉州人大以“两官”评议破题：监督“小切口” 护航“大棋局”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnlRLUw2czlpUHNHVW1qV2VjcXhpRlotNGZpZkxMZEF2bktzbTNsd3dfTV8zV2RKekhmOThGQmJMSnBETHNUbnp2TnVSTmhmV3ZmMm9zeEwxWUM3TDZHemFueUtiSko3TVRGWlB5NENiUnJDcjkyN3prSVlXN1ZLUjhlMVoyeVFH?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-07T00:24:41Z",
-            "summary": "泉州人大以“两官”评议破题：监督“小切口” 护航“大棋局” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Quanzhou's people's congress uses \"two officials\"..."
-          }
-        },
-        {
-          "title": "泉州团市委深化“共青团义务星期六”活动助力社会治理",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGZsWnBQdU5sYlVld05RTVBBN0ctZ29EZFJwNDlsUkhOZFNwT1FzVHY5bGhmSEV5ME5OVnVfUVVzVkZENUxYTFQtbVNIUFFmdDYzb1I1TllLekUwQ095amMtOFJxSzVIdERHWkNBN21wb3JMazY4OHRoS0NVN1g3OFdEdExPVXl0?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-07T00:24:45Z",
-            "summary": "泉州团市委深化“共青团义务星期六”活动助力社会治理 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Quanzhou Youth League enhances \"Volunteer Saturday\" for..."
-          }
-        },
-        {
-          "title": "科技如何赋能“好房子”建设？——来自中国住博会的一线观察",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zU0NMZHdqMHhZRUcwRXV6bDFEc1R2QjE5NVU4bHJwUjBBUEh3cGRBM25BS2pVaklpZTgxa0JacHN0em9hZWZuWmRNdklxYm1CeXhkd2FGbHRyaFAwY0NXZ1JqX0haXzBMa0swbXRxZUNqeHdTZkh2SmRmay1HUQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-07T07:05:00Z",
-            "summary": "科技如何赋能“好房子”建设？——来自中国住博会的一线观察 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "How does technology empower the construction of \"good..."
-          }
-        },
-        {
-          "title": "飞利浦携AI创新科技亮相第八届中国国际进口博览会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdW5IMC1xUHMtaU0xWG9GRWFlRTZYVTlwN19UMktObUZUMzc3V1lZTllQNE4tM0o1aktsNWlKak9keXNGcW1CVUlCUWxqelNDa2ZDUHB3V2d2a0R0elpPWjhjYWpBcWNoQWMzUndsaVZhSGIyT0pJRENfLWVjWC1xNU1BMW1WcTQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-07T00:45:23Z",
-            "summary": "飞利浦携AI创新科技亮相第八届中国国际进口博览会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Philips showcases AI innovations at the 8th China..."
-          }
-        },
-        {
-          "title": "对话健康中国丨福建医科大学附属第一医院党委书记翁山耕：科技创新、人才筑基擘画健康中国新图景",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFpoQ0dKQk5NRVNCcXlBVUszLUlfOVlKanZ1YjZvSkJGOUVvWUtBMXlpeXJ5WTdCNmpmRk9yT3VqNUZ6ZzRmS1lmWlBBSndSZWFGZHFOeVBMWWYyRlBkbUU2RzBsN3dmVDRXWVRrTFdMQ2RVa0w5RFFJdmZvM0dCQW9kTDdSLVp1?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-07T04:20:31Z",
-            "summary": "对话健康中国丨福建医科大学附属第一医院党委书记翁山耕：科技创新、人才筑基擘画健康中国新图景 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Dialogue on Healthy China: Innovation and talent shape a..."
-          }
-        },
-        {
-          "title": "坚守创新让世界更美好 昕诺飞携“照明黑科技”闪亮进博会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGc1V0Nma2VmX25QdHJVMzJMd0l1Tm9rVG5KaU5yZjBETWJWU1B6N25iWWs5dmhQelNoTjFmbUpfdEJpVm9Gdk5odk1EMnpsbDRwNE1DcXoyTXpqMXd5RGxmR0lDcEpXVVRqazhRdThYWjZWanNONTNPaDVKR2lySFVCS0owQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-07T00:05:07Z",
-            "summary": "坚守创新让世界更美好 昕诺飞携“照明黑科技”闪亮进博会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Philips Lighting showcases \"lighting tech\" at the Expo..."
-          }
-        },
-        {
-          "title": "瞭望·治国理政纪事｜在发展新质生产力上勇争先、善作为",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qa1hSN1EwMnJJazJrRUxBQURLSmIzbXBnRmJ2ZmVLWkN0TUI0YTM5Z3liVG5RdWxnc3dVTk53OXF4TWNITV9IVVVVaVRJc3FBWkd6TW13aEZJcWtPWnlpUzFUVVJpUTFTeXVCVUhlVXBEbjBHYjFkNEFCV2ZzZw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-07T17:05:44Z",
-            "summary": "瞭望·治国理政纪事｜在发展新质生产力上勇争先、善作为 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Striving to lead and excel in developing new productive..."
           }
         }
       ]
