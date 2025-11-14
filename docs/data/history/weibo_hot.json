@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-14T22:08:20+08:00",
+  "generated_at": "2025-11-15T06:04:07+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-15T06:04:07+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 提醒中国公民近期避免前往日本",
+          "value": "280205 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 280205",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Chinese citizens are advised to avoid traveling to Japan..."
+          }
+        },
+        {
+          "title": "2. 日本若碰红线新账旧账一起清算",
+          "value": "71934 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E8%8B%A5%E7%A2%B0%E7%BA%A2%E7%BA%BF%E6%96%B0%E8%B4%A6%E6%97%A7%E8%B4%A6%E4%B8%80%E8%B5%B7%E6%B8%85%E7%AE%97&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 71934",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "If Japan crosses the red line, old and new accounts will..."
+          }
+        },
+        {
+          "title": "3. 第十五届全运会",
+          "value": "60773 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 60773",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The 15th National Games of China..."
+          }
+        },
+        {
+          "title": "4. 刘诗雯6战全运会摘金",
+          "value": "51552 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E8%AF%97%E9%9B%AF6%E6%88%98%E5%85%A8%E8%BF%90%E4%BC%9A%E6%91%98%E9%87%91&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 51552",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liu Shiwen wins gold at the National Games in six matches..."
+          }
+        },
+        {
+          "title": "5. 教育局回应小学生穿裙装敬礼",
+          "value": "50383 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%A9%BF%E8%A3%99%E8%A3%85%E6%95%AC%E7%A4%BC&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 50383",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Education Bureau responds to elementary students..."
+          }
+        },
+        {
+          "title": "6. 外交部提醒中国公民近期避免赴日",
+          "value": "45826 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E8%B5%B4%E6%97%A5&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 45826",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The Foreign Ministry advises Chinese citizens to avoid..."
+          }
+        },
+        {
+          "title": "7. 美团18会员惊喜日免单",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A218%E4%BC%9A%E5%91%98%E6%83%8A%E5%96%9C%E6%97%A5%E5%85%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Meituan 18 Membership Surprise Day Free Order..."
+          }
+        },
+        {
+          "title": "8. 刘诗雯卫冕全运会混双冠军",
+          "value": "41298 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E8%AF%97%E9%9B%AF%E5%8D%AB%E5%86%95%E5%85%A8%E8%BF%90%E4%BC%9A%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 41298",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liu Shiwen defends her mixed doubles title at the..."
+          }
+        },
+        {
+          "title": "9. 林高远刘诗雯逆转夺冠",
+          "value": "34225 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E9%AB%98%E8%BF%9C%E5%88%98%E8%AF%97%E9%9B%AF%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 34225",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Lin Gaoyuan and Liu Shiwen clinch victory in comeback..."
+          }
+        },
+        {
+          "title": "10. 外交部连发6张日英双语海报",
+          "value": "33752 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E4%BA%A4%E9%83%A8%E8%BF%9E%E5%8F%916%E5%BC%A0%E6%97%A5%E8%8B%B1%E5%8F%8C%E8%AF%AD%E6%B5%B7%E6%8A%A5&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 33752",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The Foreign Ministry released 6 bilingual posters in..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-14T22:08:20+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Dao Zai, challenge at the cup..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-09T06:03:58+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 小胖状态",
-          "value": "250291 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E8%83%96%E7%8A%B6%E6%80%81&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 250291",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Little Fatty's status..."
-          }
-        },
-        {
-          "title": "2. AG奖金",
-          "value": "40951 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAG%E5%A5%96%E9%87%91&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 40951",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "AG bonus..."
-          }
-        },
-        {
-          "title": "3. 第十五届全运会",
-          "value": "36565 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 36565",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The 15th National Games..."
-          }
-        },
-        {
-          "title": "4. 京东双11踏山河寻好物",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E5%8F%8C11%E8%B8%8F%E5%B1%B1%E6%B2%B3%E5%AF%BB%E5%A5%BD%E7%89%A9&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "JD Double 11: Explore mountains and rivers for great..."
-          }
-        },
-        {
-          "title": "5. 第一支在鸟巢夺冠的中国战队",
-          "value": "33923 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E6%94%AF%E5%9C%A8%E9%B8%9F%E5%B7%A2%E5%A4%BA%E5%86%A0%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9F&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 33923",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The first Chinese team to win at the Bird's Nest..."
-          }
-        },
-        {
-          "title": "6. 男子帮邻居关液化气瓶遇爆炸离世 [亮相]",
-          "value": "30070 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E5%B8%AE%E9%82%BB%E5%B1%85%E5%85%B3%E6%B6%B2%E5%8C%96%E6%B0%94%E7%93%B6%E9%81%87%E7%88%86%E7%82%B8%E7%A6%BB%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 30070",
-            "tag": "亮相",
-            "api_source": "tianapi",
-            "translation": "Man dies in explosion while helping neighbor close gas..."
-          }
-        },
-        {
-          "title": "7. 枭起青壤",
-          "value": "剧集 30064 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 30064",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The owl rises over the green earth..."
-          }
-        },
-        {
-          "title": "8. 狼队解锁深蓝BUFF",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%BC%E9%98%9F%E8%A7%A3%E9%94%81%E6%B7%B1%E8%93%9DBUFF&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wolves unlock deep blue BUFF..."
-          }
-        },
-        {
-          "title": "9. 固体杨枝甘露卖到66元一份",
-          "value": "30014 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BA%E4%BD%93%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%E5%8D%96%E5%88%B066%E5%85%83%E4%B8%80%E4%BB%BD&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 30014",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Solid mango sago sold for 66 yuan per serving..."
-          }
-        },
-        {
-          "title": "10. 全运会跳水选手差点摔出水池",
-          "value": "29989 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E5%B7%AE%E7%82%B9%E6%91%94%E5%87%BA%E6%B0%B4%E6%B1%A0&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 29989",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Diving athlete nearly fell out of the pool at the..."
           }
         }
       ]
