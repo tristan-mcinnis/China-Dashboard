@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-15T18:36:18+08:00",
+  "generated_at": "2025-11-15T22:06:52+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-15T22:06:52+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 金鸡奖",
+          "value": "电影 14854820 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E9%B8%A1%E5%A5%96&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "电影 14854820",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Golden Rooster Awards..."
+          }
+        },
+        {
+          "title": "2. 王曼昱4比0陈梦 [新]",
+          "value": "3361426 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%940%E9%99%88%E6%A2%A6&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 3361426",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Wang Manyu defeated Chen Meng 4-0."
+          }
+        },
+        {
+          "title": "3. 十五运会赛场外步步生花",
+          "value": "1387066 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E8%B5%9B%E5%9C%BA%E5%A4%96%E6%AD%A5%E6%AD%A5%E7%94%9F%E8%8A%B1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1387066",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Outside the arena of the 15th National Games, creativity..."
+          }
+        },
+        {
+          "title": "4. 华为影像金鸡手机电影计划 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E5%BD%B1%E5%83%8F%E9%87%91%E9%B8%A1%E6%89%8B%E6%9C%BA%E7%94%B5%E5%BD%B1%E8%AE%A1%E5%88%92&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Huawei Imaging Golden Rooster Mobile Film Project..."
+          }
+        },
+        {
+          "title": "5. 易烊千玺金鸡影帝",
+          "value": "电影 27836350 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "电影 27836350",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Yi Yangqianxi wins Best Actor at the Golden Rooster..."
+          }
+        },
+        {
+          "title": "6. 陈梦vs王曼昱 [官宣]",
+          "value": "1070460 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E6%A2%A6vs%E7%8E%8B%E6%9B%BC%E6%98%B1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 1070460",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "Chen Meng vs Wang Manyu..."
+          }
+        },
+        {
+          "title": "7. 高市早苗让日本国家承担代价",
+          "value": "1065402 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AE%A9%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%89%BF%E6%8B%85%E4%BB%A3%E4%BB%B7&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 1065402",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Takaichi Sanae wants Japan to bear the costs..."
+          }
+        },
+        {
+          "title": "8. 黑龙江未审批零下20度荒野求生赛 [爆]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9C%AA%E5%AE%A1%E6%89%B9%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "爆",
+            "api_source": "tianapi",
+            "translation": "Heilongjiang's unapproved survival competition at -20°C..."
+          }
+        },
+        {
+          "title": "9. 宋佳金鸡影后",
+          "value": "6963060 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8B%E4%BD%B3%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 6963060",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Song Jia wins Golden Rooster Best Actress..."
+          }
+        },
+        {
+          "title": "10. 孙颖莎vs朱雨玲 [新]",
+          "value": "835664 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9C%B1%E9%9B%A8%E7%8E%B2&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 835664",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Sun Yingsha vs Zhu Yuling..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-15T18:36:18+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Serious Snow by Xue Zhiqian..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-09T22:06:41+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 十五运开幕式直播",
-          "value": "1389184 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9B%B4%E6%92%AD&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1389184",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Live broadcast of the 15th National Games opening..."
-          }
-        },
-        {
-          "title": "2. 全运会烟花 [新]",
-          "value": "722705 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E7%83%9F%E8%8A%B1&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 722705",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "National Games fireworks..."
-          }
-        },
-        {
-          "title": "3. 全运会开幕式",
-          "value": "588872 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 588872",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Opening ceremony of the National Games..."
-          }
-        },
-        {
-          "title": "4. 京东拍卖S15冠亚军亲签典藏礼盒 [沸]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E6%8B%8D%E5%8D%96S15%E5%86%A0%E4%BA%9A%E5%86%9B%E4%BA%B2%E7%AD%BE%E5%85%B8%E8%97%8F%E7%A4%BC%E7%9B%92&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "JD Auction S15 Champion and Runner-up Signed Gift Box..."
-          }
-        },
-        {
-          "title": "5. 全运会主火炬点燃",
-          "value": "587196 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC%E7%82%B9%E7%87%83&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 587196",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The main torch of the National Games is lit..."
-          }
-        },
-        {
-          "title": "6. 周深单依纯 好听 [重磅]",
-          "value": "演出 444013 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E6%B7%B1%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E5%A5%BD%E5%90%AC&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "演出 444013",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Zhou Shen and Shan Yichun's voices are beautiful..."
-          }
-        },
-        {
-          "title": "7. T1三连冠",
-          "value": "438872 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%E4%B8%89%E8%BF%9E%E5%86%A0&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 438872",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "T1's three consecutive championships..."
-          }
-        },
-        {
-          "title": "8. 寻找百岁山一起去全运 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AF%BB%E6%89%BE%E7%99%BE%E5%B2%81%E5%B1%B1%E4%B8%80%E8%B5%B7%E5%8E%BB%E5%85%A8%E8%BF%90&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Let's go to the National Games together at Baishui..."
-          }
-        },
-        {
-          "title": "9. T1 宙斯",
-          "value": "415980 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%20%E5%AE%99%E6%96%AF&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 415980",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "T1 Zeus"
-          }
-        },
-        {
-          "title": "10. 全运会 [新]",
-          "value": "400911 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 400911",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "National Games of China..."
           }
         }
       ]
