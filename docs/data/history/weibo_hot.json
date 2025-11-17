@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-17T11:01:53+08:00",
+  "generated_at": "2025-11-17T14:01:48+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-17T14:01:48+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 日媒称中方措施超出日本预期",
+          "value": "1096442 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E6%96%B9%E6%8E%AA%E6%96%BD%E8%B6%85%E5%87%BA%E6%97%A5%E6%9C%AC%E9%A2%84%E6%9C%9F&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1096442",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Japanese media says China's measures exceed expectations..."
+          }
+        },
+        {
+          "title": "2. 驻日美军基地出现大量毒蜘蛛 [新]",
+          "value": "496892 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%AF%92%E8%9C%98%E8%9B%9B&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 496892",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "A large number of poisonous spiders found at U.S. base..."
+          }
+        },
+        {
+          "title": "3. 一起看全运会",
+          "value": "437734 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 437734",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Let's watch the National Games together..."
+          }
+        },
+        {
+          "title": "4. 与比亚迪共赴新加坡之夜",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%B1%E8%B5%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B9%8B%E5%A4%9C&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A night in Singapore with BYD..."
+          }
+        },
+        {
+          "title": "5. 胡一天杀回现偶的含金量",
+          "value": "剧集 404737 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%83%A1%E4%B8%80%E5%A4%A9%E6%9D%80%E5%9B%9E%E7%8E%B0%E5%81%B6%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 404737",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Hu Yitian's return to the current drama's value..."
+          }
+        },
+        {
+          "title": "6. 赵丽颖工作室辟谣网传电影 [重磅]",
+          "value": "338583 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E7%94%B5%E5%BD%B1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 338583",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Zhao Liying's studio debunks rumors about the film..."
+          }
+        },
+        {
+          "title": "7. 高市早苗扩军",
+          "value": "335222 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%89%A9%E5%86%9B&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 335222",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Kawashita Saimi expands its forces..."
+          }
+        },
+        {
+          "title": "8. 王一博苏翊鸣很UGG [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%BE%88UGG&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Wang Yibo and Su Yiming are very UGG..."
+          }
+        },
+        {
+          "title": "9. 沈腾你也在嗑吧",
+          "value": "304856 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%88%E8%85%BE%E4%BD%A0%E4%B9%9F%E5%9C%A8%E5%97%91%E5%90%A7&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 304856",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Shen Teng, are you also a fan?"
+          }
+        },
+        {
+          "title": "10. 日本高官来华解释高市言论 [新]",
+          "value": "290254 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%9D%A5%E5%8D%8E%E8%A7%A3%E9%87%8A%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 290254",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Japanese senior official visits China to clarify remarks..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-17T11:01:53+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Rao Xueman recommends Zhong Lili for Starry Sea..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-11T14:01:59+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 怀孕超35周孕妇登机后被劝下飞机",
-          "value": "1154587 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%80%80%E5%AD%95%E8%B6%8535%E5%91%A8%E5%AD%95%E5%A6%87%E7%99%BB%E6%9C%BA%E5%90%8E%E8%A2%AB%E5%8A%9D%E4%B8%8B%E9%A3%9E%E6%9C%BA&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1154587",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Pregnant woman over 35 weeks advised to disembark..."
-          }
-        },
-        {
-          "title": "2. 陈梦vs孙铭阳 [新]",
-          "value": "452581 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E6%A2%A6vs%E5%AD%99%E9%93%AD%E9%98%B3&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 452581",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Chen Meng vs Sun Mingyang..."
-          }
-        },
-        {
-          "title": "3. 第十五届全运会",
-          "value": "396944 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 396944",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The 15th National Games..."
-          }
-        },
-        {
-          "title": "4. eπ007+上市全系标配激光雷达",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3De%CF%80007%2B%E4%B8%8A%E5%B8%82%E5%85%A8%E7%B3%BB%E6%A0%87%E9%85%8D%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "eπ007+ launches with full laser radar standard..."
-          }
-        },
-        {
-          "title": "5. 05后都开始上恋综了",
-          "value": "综艺 359179 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D05%E5%90%8E%E9%83%BD%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%81%8B%E7%BB%BC%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "综艺 359179",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Post-05s are starting to join dating shows..."
-          }
-        },
-        {
-          "title": "6. Faker说Uzi是LPL最佳选手 [上新]",
-          "value": "277726 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DFaker%E8%AF%B4Uzi%E6%98%AFLPL%E6%9C%80%E4%BD%B3%E9%80%89%E6%89%8B&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 277726",
-            "tag": "上新",
-            "api_source": "tianapi",
-            "translation": "Faker says Uzi is the best player in LPL..."
-          }
-        },
-        {
-          "title": "7. 警方通报编剧秦雯自称袭警捞人",
-          "value": "247061 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BC%96%E5%89%A7%E7%A7%A6%E9%9B%AF%E8%87%AA%E7%A7%B0%E8%A2%AD%E8%AD%A6%E6%8D%9E%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 247061",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Police report screenwriter Qin Wen claims to have..."
-          }
-        },
-        {
-          "title": "8. 贵州辟谣一主播直播绑架贩卖器官",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%B5%E5%B7%9E%E8%BE%9F%E8%B0%A3%E4%B8%80%E4%B8%BB%E6%92%AD%E7%9B%B4%E6%92%AD%E7%BB%91%E6%9E%B6%E8%B4%A9%E5%8D%96%E5%99%A8%E5%AE%98&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Guizhou refutes rumors of a host live-streaming organ..."
-          }
-        },
-        {
-          "title": "9. 唐诡3第二案断更点是要我命吗",
-          "value": "213378 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E8%AF%A13%E7%AC%AC%E4%BA%8C%E6%A1%88%E6%96%AD%E6%9B%B4%E7%82%B9%E6%98%AF%E8%A6%81%E6%88%91%E5%91%BD%E5%90%97&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 213378",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Is the cliffhanger in \"Tang Gui 3\" meant to kill me?"
-          }
-        },
-        {
-          "title": "10. 霍震霆现场才知道郭晶晶是火炬手 [新]",
-          "value": "170683 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9C%8D%E9%9C%87%E9%9C%86%E7%8E%B0%E5%9C%BA%E6%89%8D%E7%9F%A5%E9%81%93%E9%83%AD%E6%99%B6%E6%99%B6%E6%98%AF%E7%81%AB%E7%82%AC%E6%89%8B&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 170683",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Huo Zhen Ting learned on-site that Guo Jingjing was a..."
           }
         }
       ]
