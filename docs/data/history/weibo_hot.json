@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-18T11:01:58+08:00",
+  "generated_at": "2025-11-18T14:01:54+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-18T14:01:54+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 中国游客不来了让人不安",
+          "value": "1087445 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5%E4%BA%86%E8%AE%A9%E4%BA%BA%E4%B8%8D%E5%AE%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1087445",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The absence of Chinese tourists is concerning..."
+          }
+        },
+        {
+          "title": "2. 梁靖崑vs樊振东",
+          "value": "333710 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%81%E9%9D%96%E5%B4%91vs%E6%A8%8A%E6%8C%AF%E4%B8%9C&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 333710",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liang Jingkun vs Fan Zhendong..."
+          }
+        },
+        {
+          "title": "3. 十五运今日看点",
+          "value": "281395 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E8%BF%90%E4%BB%8A%E6%97%A5%E7%9C%8B%E7%82%B9&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 281395",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Highlights of the 15th National Games today..."
+          }
+        },
+        {
+          "title": "4. 我国人口发展出现了新特征",
+          "value": "262831 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%8F%91%E5%B1%95%E5%87%BA%E7%8E%B0%E4%BA%86%E6%96%B0%E7%89%B9%E5%BE%81&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 262831",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New characteristics have emerged in China's population..."
+          }
+        },
+        {
+          "title": "5. 蒋欣 干嘛假孕争宠啊",
+          "value": "261636 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%92%8B%E6%AC%A3%20%E5%B9%B2%E5%98%9B%E5%81%87%E5%AD%95%E4%BA%89%E5%AE%A0%E5%95%8A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 261636",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Jiang Xin, why fake a pregnancy for attention?"
+          }
+        },
+        {
+          "title": "6. 王俊凯王源包场易烊千玺新片 [热]",
+          "value": "电影 243241 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E5%8C%85%E5%9C%BA%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%89%87&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "电影 243241",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Wang Junkai and Wang Yuan booked a theater for Yi..."
+          }
+        },
+        {
+          "title": "7. 联合国立场是台湾是中国一个省",
+          "value": "203793 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%81%94%E5%90%88%E5%9B%BD%E7%AB%8B%E5%9C%BA%E6%98%AF%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E4%B8%AA%E7%9C%81&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 203793",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The UN's position is that Taiwan is a province of China..."
+          }
+        },
+        {
+          "title": "8. 孙颖莎vs陈幸同 [新]",
+          "value": "182108 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 182108",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Sun Yingsha vs Chen Xingtong..."
+          }
+        },
+        {
+          "title": "9. 高市早苗同时得罪四国",
+          "value": "179934 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 179934",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Takaichi Sanae offends four countries at once..."
+          }
+        },
+        {
+          "title": "10. 唐诡3昨晚真是乱成一锅粥了 [新]",
+          "value": "165158 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E8%AF%A13%E6%98%A8%E6%99%9A%E7%9C%9F%E6%98%AF%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 165158",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Tang Gui 3 was a complete mess last night..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-18T11:01:58+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "The Taiwan Affairs Office recited the Lai family motto..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-12T14:01:56+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 郑钦文退出全运会",
-          "value": "1131226 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E5%85%A8%E8%BF%90%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1131226",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Zheng Qinwen withdraws from the National Games..."
-          }
-        },
-        {
-          "title": "2. 樊振东vs薛飞 [新]",
-          "value": "397683 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E8%96%9B%E9%A3%9E&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 397683",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Fan Zhendong vs. Xue Fei..."
-          }
-        },
-        {
-          "title": "3. 13岁小将打破沉寂13年纪录",
-          "value": "369820 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D13%E5%B2%81%E5%B0%8F%E5%B0%86%E6%89%93%E7%A0%B4%E6%B2%89%E5%AF%8213%E5%B9%B4%E7%BA%AA%E5%BD%95&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 369820",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "13-year-old breaks 13-year record..."
-          }
-        },
-        {
-          "title": "4. 上淘宝双11大额补贴再来3天",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B7%98%E5%AE%9D%E5%8F%8C11%E5%A4%A7%E9%A2%9D%E8%A1%A5%E8%B4%B4%E5%86%8D%E6%9D%A53%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Three days left for big subsidies on Taobao's Double 11..."
-          }
-        },
-        {
-          "title": "5. 男子暴打92岁母亲被刑拘",
-          "value": "343624 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E6%9A%B4%E6%89%9392%E5%B2%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%88%91%E6%8B%98&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 343624",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Man detained for violently beating 92-year-old mother..."
-          }
-        },
-        {
-          "title": "6. 妈妈去世8岁女孩冬天穿拖鞋流浪 [重磅]",
-          "value": "306863 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%968%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%86%AC%E5%A4%A9%E7%A9%BF%E6%8B%96%E9%9E%8B%E6%B5%81%E6%B5%AA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 306863",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "8-year-old girl wanders in winter wearing slippers after..."
-          }
-        },
-        {
-          "title": "7. 陈梦vs何卓佳",
-          "value": "268597 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E6%A2%A6vs%E4%BD%95%E5%8D%93%E4%BD%B3&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 268597",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chen Meng vs He Zhuojia..."
-          }
-        },
-        {
-          "title": "8. 国外展会出现悬浮飞行鞋视频为AI制作 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E5%A4%96%E5%B1%95%E4%BC%9A%E5%87%BA%E7%8E%B0%E6%82%AC%E6%B5%AE%E9%A3%9E%E8%A1%8C%E9%9E%8B%E8%A7%86%E9%A2%91%E4%B8%BAAI%E5%88%B6%E4%BD%9C&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Video of floating shoes at foreign expo created by AI..."
-          }
-        },
-        {
-          "title": "9. 樊振东4比1薛飞",
-          "value": "256025 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%941%E8%96%9B%E9%A3%9E&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 256025",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Fan Zhendong defeated Xue Fei 4 to 1."
-          }
-        },
-        {
-          "title": "10. 2025爱奇艺尖叫之夜官宣",
-          "value": "晚会 218417 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%98%E5%AE%A3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "晚会 218417",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "2025 iQIYI Scream Night officially announced..."
           }
         }
       ]
