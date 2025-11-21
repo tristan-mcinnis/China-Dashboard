@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-21T11:00:14+08:00",
+  "generated_at": "2025-11-21T14:01:42+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-21T14:01:42+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 全运会万米跑冠军被取消金牌",
+          "value": "1099163 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%87%E7%B1%B3%E8%B7%91%E5%86%A0%E5%86%9B%E8%A2%AB%E5%8F%96%E6%B6%88%E9%87%91%E7%89%8C&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1099163",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The champion of the 10,000m at the National Games has..."
+          }
+        },
+        {
+          "title": "2. 便宜30%的印度水产你敢吃吗",
+          "value": "343888 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BE%BF%E5%AE%9C30%25%E7%9A%84%E5%8D%B0%E5%BA%A6%E6%B0%B4%E4%BA%A7%E4%BD%A0%E6%95%A2%E5%90%83%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 343888",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Would you dare eat 30% cheaper Indian seafood?"
+          }
+        },
+        {
+          "title": "3. 全运会闭幕式",
+          "value": "257081 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 257081",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "National Games Closing Ceremony"
+          }
+        },
+        {
+          "title": "4. 鸿蒙智行亮相广州车展",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E4%BA%AE%E7%9B%B8%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "HarmonyOS Intelligent Driving debuts at Guangzhou Auto..."
+          }
+        },
+        {
+          "title": "5. 日本多个行业为高市早苗买单",
+          "value": "238278 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%A4%9A%E4%B8%AA%E8%A1%8C%E4%B8%9A%E4%B8%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B9%B0%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 238278",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Multiple industries in Japan support Takashi Saimai..."
+          }
+        },
+        {
+          "title": "6. 米哈游新作31分钟实机 [重磅]",
+          "value": "237357 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%B1%B3%E5%93%88%E6%B8%B8%E6%96%B0%E4%BD%9C31%E5%88%86%E9%92%9F%E5%AE%9E%E6%9C%BA&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 237357",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "MiHoYo's new game 31-minute gameplay..."
+          }
+        },
+        {
+          "title": "7. 宁静爆料金鸡奖评奖内幕",
+          "value": "综艺 237126 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%81%E9%9D%99%E7%88%86%E6%96%99%E9%87%91%E9%B8%A1%E5%A5%96%E8%AF%84%E5%A5%96%E5%86%85%E5%B9%95&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "综艺 237126",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Inside the judging of the Quiet Explosion Golden Rooster..."
+          }
+        },
+        {
+          "title": "8. 2025广州车展",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2025 Guangzhou Auto Show..."
+          }
+        },
+        {
+          "title": "9. 奇葩说 回归",
+          "value": "235424 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%87%E8%91%A9%E8%AF%B4%20%E5%9B%9E%E5%BD%92&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 235424",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "\"Qi Pa Shuo\" returns..."
+          }
+        },
+        {
+          "title": "10. 日本经济界陷入集体焦虑",
+          "value": "234613 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E9%99%B7%E5%85%A5%E9%9B%86%E4%BD%93%E7%84%A6%E8%99%91&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 234613",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Japan's economy faces collective anxiety..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-21T11:00:14+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Japan's ambitions are becoming increasingly clear..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-15T14:01:41+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 王楚钦vs樊振东",
-          "value": "12561692 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A8%8A%E6%8C%AF%E4%B8%9C&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 12561692",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin vs Fan Zhendong..."
-          }
-        },
-        {
-          "title": "2. 樊振东4比2王楚钦 [爆]",
-          "value": "6456446 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%942%E7%8E%8B%E6%A5%9A%E9%92%A6&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 6456446",
-            "tag": "爆",
-            "api_source": "tianapi",
-            "translation": "Fan Zhendong defeated Wang Chuqin 4-2."
-          }
-        },
-        {
-          "title": "3. 航天员带回近100斤太空特产",
-          "value": "4015109 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B8%A6%E5%9B%9E%E8%BF%91100%E6%96%A4%E5%A4%AA%E7%A9%BA%E7%89%B9%E4%BA%A7&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 4015109",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Astronauts bring back nearly 100 pounds of space..."
-          }
-        },
-        {
-          "title": "4. 李晓霞高菡解说",
-          "value": "2145785 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%99%93%E9%9C%9E%E9%AB%98%E8%8F%A1%E8%A7%A3%E8%AF%B4&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 2145785",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Li Xiaoxia and Gao Han commentary..."
-          }
-        },
-        {
-          "title": "5. 中方愤怒正在升级",
-          "value": "1278698 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E6%84%A4%E6%80%92%E6%AD%A3%E5%9C%A8%E5%8D%87%E7%BA%A7&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 1278698",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China's anger is escalating..."
-          }
-        },
-        {
-          "title": "6. 乒乓球 [新]",
-          "value": "693864 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%92%E4%B9%93%E7%90%83&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 693864",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Table tennis..."
-          }
-        },
-        {
-          "title": "7. 电影三滴血绝境救子挑战父母极限",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E5%BD%B1%E4%B8%89%E6%BB%B4%E8%A1%80%E7%BB%9D%E5%A2%83%E6%95%91%E5%AD%90%E6%8C%91%E6%88%98%E7%88%B6%E6%AF%8D%E6%9E%81%E9%99%90&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The movie \"Three Drops of Blood\" challenges parents'..."
-          }
-        },
-        {
-          "title": "8. 日本同时被四国痛批 [热]",
-          "value": "364038 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%90%8C%E6%97%B6%E8%A2%AB%E5%9B%9B%E5%9B%BD%E7%97%9B%E6%89%B9&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 364038",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Japan is simultaneously criticized by four countries..."
-          }
-        },
-        {
-          "title": "9. 张晚意录制第一天就想关监控",
-          "value": "343650 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%99%9A%E6%84%8F%E5%BD%95%E5%88%B6%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E6%83%B3%E5%85%B3%E7%9B%91%E6%8E%A7&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 343650",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Zhang Wanyi wanted to turn off the surveillance on the..."
-          }
-        },
-        {
-          "title": "10. 林诗栋vs袁励岑 [新]",
-          "value": "312385 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E8%A2%81%E5%8A%B1%E5%B2%91&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 312385",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Lin Shidong vs Yuan Licen..."
           }
         }
       ]
