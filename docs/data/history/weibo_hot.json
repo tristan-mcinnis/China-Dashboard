@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-21T14:01:42+08:00",
+  "generated_at": "2025-11-21T18:38:13+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-21T18:38:13+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. CPA成绩",
+          "value": "1036493 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DCPA%E6%88%90%E7%BB%A9&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1036493",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "CPA exam results"
+          }
+        },
+        {
+          "title": "2. 13位女科学家当选两院院士 [新]",
+          "value": "1026931 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D13%E4%BD%8D%E5%A5%B3%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%BD%93%E9%80%89%E4%B8%A4%E9%99%A2%E9%99%A2%E5%A3%AB&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1026931",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "13 female scientists elected as academicians..."
+          }
+        },
+        {
+          "title": "3. 全运会闭幕式",
+          "value": "918492 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 918492",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "National Games closing ceremony..."
+          }
+        },
+        {
+          "title": "4. 丰田鸿蒙座舱旗舰铂智7",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%B0%E7%94%B0%E9%B8%BF%E8%92%99%E5%BA%A7%E8%88%B1%E6%97%97%E8%88%B0%E9%93%82%E6%99%BA7&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Toyota Harmony Cabin Flagship Platinum Zhi 7..."
+          }
+        },
+        {
+          "title": "5. 中国军网海外发布一切就绪",
+          "value": "828257 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B8%83%E4%B8%80%E5%88%87%E5%B0%B1%E7%BB%AA&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 828257",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "China Military Online announces everything is ready..."
+          }
+        },
+        {
+          "title": "6. 古人给庐山写了1.6万首诗 [上新]",
+          "value": "775465 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%A4%E4%BA%BA%E7%BB%99%E5%BA%90%E5%B1%B1%E5%86%99%E4%BA%861.6%E4%B8%87%E9%A6%96%E8%AF%97&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 775465",
+            "tag": "上新",
+            "api_source": "tianapi",
+            "translation": "Ancient poets wrote 16,000 poems about Lushan..."
+          }
+        },
+        {
+          "title": "7. 汪苏泷1天官宣3演唱会1综艺",
+          "value": "演出 731724 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%AA%E8%8B%8F%E6%B3%B71%E5%A4%A9%E5%AE%98%E5%AE%A33%E6%BC%94%E5%94%B1%E4%BC%9A1%E7%BB%BC%E8%89%BA&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "演出 731724",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Wang Sulong announces 3 concerts and 1 variety show in a..."
+          }
+        },
+        {
+          "title": "8. 旅行车怎能不旅行",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%85%E8%A1%8C%E8%BD%A6%E6%80%8E%E8%83%BD%E4%B8%8D%E6%97%85%E8%A1%8C&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "How can a travel car not travel..."
+          }
+        },
+        {
+          "title": "9. NS官宣Scout加入",
+          "value": "652450 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DNS%E5%AE%98%E5%AE%A3Scout%E5%8A%A0%E5%85%A5&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 652450",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "NS officially announces Scout's joining..."
+          }
+        },
+        {
+          "title": "10. 便宜30%的印度水产你敢吃吗 [新]",
+          "value": "588790 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BE%BF%E5%AE%9C30%25%E7%9A%84%E5%8D%B0%E5%BA%A6%E6%B0%B4%E4%BA%A7%E4%BD%A0%E6%95%A2%E5%90%83%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 588790",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Would you dare eat 30% cheaper Indian seafood?"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-21T14:01:42+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Sun Yingsha vs Zhu Yuling..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-15T18:36:18+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 金鸡奖红毯",
-          "value": "电影 1336801 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "电影 1336801",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Golden Rooster Awards red carpet..."
-          }
-        },
-        {
-          "title": "2. 神二十乘组204天太空之旅全回顾 [新]",
-          "value": "1175414 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B9%98%E7%BB%84204%E5%A4%A9%E5%A4%AA%E7%A9%BA%E4%B9%8B%E6%97%85%E5%85%A8%E5%9B%9E%E9%A1%BE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1175414",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "A complete review of Shenzhou-20's 204-day space journey..."
-          }
-        },
-        {
-          "title": "3. 被中国健儿鼓舞到了",
-          "value": "1045854 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E9%BC%93%E8%88%9E%E5%88%B0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1045854",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Inspired by Chinese athletes..."
-          }
-        },
-        {
-          "title": "4. 樊振东4比2王楚钦",
-          "value": "1024516 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%942%E7%8E%8B%E6%A5%9A%E9%92%A6&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 1024516",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Fan Zhendong defeated Wang Chuqin 4-2."
-          }
-        },
-        {
-          "title": "5. 中方愤怒正在升级",
-          "value": "964057 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E6%84%A4%E6%80%92%E6%AD%A3%E5%9C%A8%E5%8D%87%E7%BA%A7&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 964057",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China's anger is escalating..."
-          }
-        },
-        {
-          "title": "6. 易烊千玺金鸡奖造型 [沸]",
-          "value": "电影 821214 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%A5%96%E9%80%A0%E5%9E%8B&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "电影 821214",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Yi Yangqianxi's look at the Golden Rooster Awards..."
-          }
-        },
-        {
-          "title": "7. 日本机票免费退改",
-          "value": "617701 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 617701",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Free cancellation and changes for Japan flight tickets..."
-          }
-        },
-        {
-          "title": "8. 三大航急发中日航线免费退改签 [热]",
-          "value": "412320 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%89%E5%A4%A7%E8%88%AA%E6%80%A5%E5%8F%91%E4%B8%AD%E6%97%A5%E8%88%AA%E7%BA%BF%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%AD%BE&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 412320",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Three major airlines urgently offer free changes and..."
-          }
-        },
-        {
-          "title": "9. 蒋梦婕金鸡女神造型",
-          "value": "盛典 300484 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%92%8B%E6%A2%A6%E5%A9%95%E9%87%91%E9%B8%A1%E5%A5%B3%E7%A5%9E%E9%80%A0%E5%9E%8B&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "盛典 300484",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Jiang Mengjie as the Golden Rooster goddess..."
-          }
-        },
-        {
-          "title": "10. 日本野心逐渐清晰 [新]",
-          "value": "283564 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E9%80%90%E6%B8%90%E6%B8%85%E6%99%B0&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 283564",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Japan's ambitions are becoming increasingly clear..."
           }
         }
       ]
