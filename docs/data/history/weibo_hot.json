@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-22T18:35:48+08:00",
+  "generated_at": "2025-11-22T22:06:52+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-22T22:06:52+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 张家齐宣布退役",
+          "value": "1288180 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1288180",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Zhang JiaqI announces retirement..."
+          }
+        },
+        {
+          "title": "2. 高市早苗在G20峰会迟到近1小时 [新]",
+          "value": "1277499 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9C%A8G20%E5%B3%B0%E4%BC%9A%E8%BF%9F%E5%88%B0%E8%BF%911%E5%B0%8F%E6%97%B6&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1277499",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Sanae Takasugi was nearly an hour late to the G20 summit..."
+          }
+        },
+        {
+          "title": "3. 首条大容量全固态电池产线建成",
+          "value": "902786 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%96%E6%9D%A1%E5%A4%A7%E5%AE%B9%E9%87%8F%E5%85%A8%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E4%BA%A7%E7%BA%BF%E5%BB%BA%E6%88%90&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 902786",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The first large-capacity all-solid-state battery..."
+          }
+        },
+        {
+          "title": "4. 奥迪发布全新概念车",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%A5%E8%BF%AA%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0%E6%A6%82%E5%BF%B5%E8%BD%A6&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Audi unveils a new concept car..."
+          }
+        },
+        {
+          "title": "5. 枭起青壤",
+          "value": "剧集 881233 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 881233",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The owl rises over the green earth..."
+          }
+        },
+        {
+          "title": "6. 狂野时代 [首发]",
+          "value": "电影 860340 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "电影 860340",
+            "tag": "首发",
+            "api_source": "tianapi",
+            "translation": "Wild Era..."
+          }
+        },
+        {
+          "title": "7. 日本机场安检员偷中国游客现金被捕",
+          "value": "738919 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E5%AE%89%E6%A3%80%E5%91%98%E5%81%B7%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%8E%B0%E9%87%91%E8%A2%AB%E6%8D%95&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 738919",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Japanese airport security guard arrested for stealing..."
+          }
+        },
+        {
+          "title": "8. 许我耀眼热度",
+          "value": "剧集 590698 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E7%83%AD%E5%BA%A6&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "剧集 590698",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Grant me dazzling brilliance..."
+          }
+        },
+        {
+          "title": "9. 日本已付出代价",
+          "value": "472132 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%B7%B2%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 472132",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Japan has already paid the price..."
+          }
+        },
+        {
+          "title": "10. 男子762元买20多件商品蕉内拒发货 [沸]",
+          "value": "351179 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90762%E5%85%83%E4%B9%B020%E5%A4%9A%E4%BB%B6%E5%95%86%E5%93%81%E8%95%89%E5%86%85%E6%8B%92%E5%8F%91%E8%B4%A7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 351179",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Man buys over 20 items for 762 yuan, seller refuses to..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-22T18:35:48+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Japan sees a rise in crimes committed by Chinese citizens..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-16T22:06:50+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 孙颖莎vs王曼昱",
-          "value": "1947018 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1947018",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Sun Yingsha vs Wang Manyu"
-          }
-        },
-        {
-          "title": "2. 朱雨玲vs陈梦 [新]",
-          "value": "1784861 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B1%E9%9B%A8%E7%8E%B2vs%E9%99%88%E6%A2%A6&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1784861",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Zhu Yuling vs Chen Meng..."
-          }
-        },
-        {
-          "title": "3. 一场场比赛展示大湾区融合发展成果",
-          "value": "941419 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%9C%BA%E5%9C%BA%E6%AF%94%E8%B5%9B%E5%B1%95%E7%A4%BA%E5%A4%A7%E6%B9%BE%E5%8C%BA%E8%9E%8D%E5%90%88%E5%8F%91%E5%B1%95%E6%88%90%E6%9E%9C&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 941419",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Competitions showcase the achievements of the Greater..."
-          }
-        },
-        {
-          "title": "4. 张凌赫金靖去看刘宇宁演唱会",
-          "value": "演出 773291 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%87%91%E9%9D%96%E5%8E%BB%E7%9C%8B%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "演出 773291",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zhang Linghe and Jin Jing went to Liu Yuning's concert."
-          }
-        },
-        {
-          "title": "5. 陈梦铜牌",
-          "value": "611941 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E6%A2%A6%E9%93%9C%E7%89%8C&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 611941",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chen Meng wins bronze medal..."
-          }
-        },
-        {
-          "title": "6. 日本不需要煽动战争的首相 [新]",
-          "value": "568631 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E7%85%BD%E5%8A%A8%E6%88%98%E4%BA%89%E7%9A%84%E9%A6%96%E7%9B%B8&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 568631",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Japan doesn't need a prime minister who incites war..."
-          }
-        },
-        {
-          "title": "7. 樊振东冠军",
-          "value": "514557 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%86%A0%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 514557",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Fan Zhendong wins the championship..."
-          }
-        },
-        {
-          "title": "8. 易烊千玺与他的金鸡奖杯 [新]",
-          "value": "盛典 445802 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8E%E4%BB%96%E7%9A%84%E9%87%91%E9%B8%A1%E5%A5%96%E6%9D%AF&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "盛典 445802",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Yi Yangqianxi and his Golden Rooster Award trophy..."
-          }
-        },
-        {
-          "title": "9. 高市早苗早年叫板视频曝光",
-          "value": "421081 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%97%A9%E5%B9%B4%E5%8F%AB%E6%9D%BF%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 421081",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Video of Takashima Saimi challenging others in her youth..."
-          }
-        },
-        {
-          "title": "10. 解放军报发文日本全国都可能沦为战场 [新]",
-          "value": "334240 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5%E5%8F%91%E6%96%87%E6%97%A5%E6%9C%AC%E5%85%A8%E5%9B%BD%E9%83%BD%E5%8F%AF%E8%83%BD%E6%B2%A6%E4%B8%BA%E6%88%98%E5%9C%BA&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 334240",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "PLA Daily: Japan could become a battlefield nationwide..."
           }
         }
       ]
