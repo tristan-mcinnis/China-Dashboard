@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-24T11:04:15+08:00",
+  "generated_at": "2025-11-24T14:01:53+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-24T14:01:53+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 高市早苗因性别原因无缘相扑颁奖",
+          "value": "1090551 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E6%80%A7%E5%88%AB%E5%8E%9F%E5%9B%A0%E6%97%A0%E7%BC%98%E7%9B%B8%E6%89%91%E9%A2%81%E5%A5%96&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1090551",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Takamori Sato missed sumo awards due to gender reasons..."
+          }
+        },
+        {
+          "title": "2. 樊振东收获金球拍",
+          "value": "348089 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%94%B6%E8%8E%B7%E9%87%91%E7%90%83%E6%8B%8D&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 348089",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Fan Zhendong wins the Golden Racket..."
+          }
+        },
+        {
+          "title": "3. 中国44项世界非遗位居第一",
+          "value": "266501 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD44%E9%A1%B9%E4%B8%96%E7%95%8C%E9%9D%9E%E9%81%97%E4%BD%8D%E5%B1%85%E7%AC%AC%E4%B8%80&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 266501",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "China ranks first with 44 UNESCO intangible cultural..."
+          }
+        },
+        {
+          "title": "4. 狂野时代退票率 [新]",
+          "value": "电影 263140 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E9%80%80%E7%A5%A8%E7%8E%87&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "电影 263140",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Wild Era ticket refund rate..."
+          }
+        },
+        {
+          "title": "5. 台湾没什么事日本真有事了",
+          "value": "262200 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E6%B2%A1%E4%BB%80%E4%B9%88%E4%BA%8B%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 262200",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Taiwan has no issues, but Japan truly has problems..."
+          }
+        },
+        {
+          "title": "6. 卢凌风那是你的婚约吗 [新]",
+          "value": "剧集 249129 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A2%E5%87%8C%E9%A3%8E%E9%82%A3%E6%98%AF%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%BA%A6%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 249129",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Is Lu Lingfeng your fiancé?"
+          }
+        },
+        {
+          "title": "7. 中方用胆敢二字警告日本",
+          "value": "240205 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E7%94%A8%E8%83%86%E6%95%A2%E4%BA%8C%E5%AD%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 240205",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "China warns Japan with the words \"dare not.\""
+          }
+        },
+        {
+          "title": "8. 荒野求生老中医鞋底藏物被退赛 [热]",
+          "value": "206494 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E8%80%81%E4%B8%AD%E5%8C%BB%E9%9E%8B%E5%BA%95%E8%97%8F%E7%89%A9%E8%A2%AB%E9%80%80%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 206494",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Survival show contestant disqualified for hiding items..."
+          }
+        },
+        {
+          "title": "9. 江山为聘",
+          "value": "206275 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%9F%E5%B1%B1%E4%B8%BA%E8%81%98&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 206275",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The country is a marriage proposal..."
+          }
+        },
+        {
+          "title": "10. 免费试吃诈骗 [新]",
+          "value": "206239 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%8D%E8%B4%B9%E8%AF%95%E5%90%83%E8%AF%88%E9%AA%97&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 206239",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Free trial scam..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-24T11:04:15+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Japan's black swan event strikes global markets..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-18T14:01:54+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 中国游客不来了让人不安",
-          "value": "1087445 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5%E4%BA%86%E8%AE%A9%E4%BA%BA%E4%B8%8D%E5%AE%89&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1087445",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The absence of Chinese tourists is concerning..."
-          }
-        },
-        {
-          "title": "2. 梁靖崑vs樊振东",
-          "value": "333710 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%81%E9%9D%96%E5%B4%91vs%E6%A8%8A%E6%8C%AF%E4%B8%9C&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 333710",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Liang Jingkun vs Fan Zhendong..."
-          }
-        },
-        {
-          "title": "3. 十五运今日看点",
-          "value": "281395 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E8%BF%90%E4%BB%8A%E6%97%A5%E7%9C%8B%E7%82%B9&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 281395",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Highlights of the 15th National Games today..."
-          }
-        },
-        {
-          "title": "4. 我国人口发展出现了新特征",
-          "value": "262831 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%8F%91%E5%B1%95%E5%87%BA%E7%8E%B0%E4%BA%86%E6%96%B0%E7%89%B9%E5%BE%81&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 262831",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New characteristics have emerged in China's population..."
-          }
-        },
-        {
-          "title": "5. 蒋欣 干嘛假孕争宠啊",
-          "value": "261636 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%92%8B%E6%AC%A3%20%E5%B9%B2%E5%98%9B%E5%81%87%E5%AD%95%E4%BA%89%E5%AE%A0%E5%95%8A&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 261636",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Jiang Xin, why fake a pregnancy for attention?"
-          }
-        },
-        {
-          "title": "6. 王俊凯王源包场易烊千玺新片 [热]",
-          "value": "电影 243241 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E5%8C%85%E5%9C%BA%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%89%87&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "电影 243241",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Wang Junkai and Wang Yuan booked a theater for Yi..."
-          }
-        },
-        {
-          "title": "7. 联合国立场是台湾是中国一个省",
-          "value": "203793 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%81%94%E5%90%88%E5%9B%BD%E7%AB%8B%E5%9C%BA%E6%98%AF%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E4%B8%AA%E7%9C%81&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 203793",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The UN's position is that Taiwan is a province of China..."
-          }
-        },
-        {
-          "title": "8. 孙颖莎vs陈幸同 [新]",
-          "value": "182108 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 182108",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Sun Yingsha vs Chen Xingtong..."
-          }
-        },
-        {
-          "title": "9. 高市早苗同时得罪四国",
-          "value": "179934 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 179934",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Takaichi Sanae offends four countries at once..."
-          }
-        },
-        {
-          "title": "10. 唐诡3昨晚真是乱成一锅粥了 [新]",
-          "value": "165158 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E8%AF%A13%E6%98%A8%E6%99%9A%E7%9C%9F%E6%98%AF%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 165158",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Tang Gui 3 was a complete mess last night..."
           }
         }
       ]
