@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-11-26T18:39:52+08:00",
+  "generated_at": "2025-11-26T22:09:13+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-26T22:09:13+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "我国力争2027年基本实现商业航天高质量发展",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DN3I0SE82TmNXZnowOXd3S3pCOE9maTZWUGRXaUh5YjJNWnYzdmJGQ0NjaHBvWjg2elRqU2dQdkl0VHB0UmYzam05ZVVIdVdZaFdZNTA3eFV0TG5IVVJBSU5aZDlob2tfUGtjdHlnSWRPUE1jMU9CLTFZYWpyQQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-25T08:52:05Z",
+            "summary": "我国力争2027年基本实现商业航天高质量发展 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China aims for high-quality commercial space development..."
+          }
+        },
+        {
+          "title": "第159次中老缅泰湄公河联合巡逻执法行动启动",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjZSUFRmTWFrZjExOHU4SmIzd05GWXFOdHpfRWozcUtMNHN5WWF5a2hJU0llWHdjMHd0ZFhBQ1ozVTJPMWNhWm9tQUNGdWZpM3lHYnZMVERiUU5wX2Y3VFYyY0dQcDdTRnFkeDhvRjR5cGVRSlhDOUh4ZGNwZnRPUVpWNWE?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-25T09:05:14Z",
+            "summary": "第159次中老缅泰湄公河联合巡逻执法行动启动 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 159th joint Mekong patrol operation begins..."
+          }
+        },
+        {
+          "title": "特写丨寒风中，抗议声在日本首相官邸前再次响起",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlZadVpJa0JHczd2QWRlbU0wemw0cVNZUXNHNkZDdW9hNDN4VWxjQnNmcFJCcGpvNG40czdDTFh5anR6eU9QLWVTY1JCbUJHMXdWV3l5d0o4VFQyZFR3bFA1cjhBXzFwcXJwTU1CQld1Qm8wcXVOaWlTczV1V0JGWF9rTEE?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-25T19:12:36Z",
+            "summary": "特写丨寒风中，抗议声在日本首相官邸前再次响起 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Close-up: Protests resound again outside Japan's PM..."
+          }
+        },
+        {
+          "title": "高端访谈丨愿泰中关系永续友好——访泰国总理阿努廷·参威拉军",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVd6aTVtX0ZYRXE0OVlPbmlidGp3MTBzUDVGWU12UEZ5ZDNRTGNRZXBNVThGbWZ0dUlWT09wUWppOWxPOE9rZzZxNEFlYjdRSmNZYVo0eDhTcUNsYnNxOWtaSnRfZUNJNDhnVTVQMzVXLWRoS280UEZGa0R2SFhCZVJIWDE?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-25T18:59:08Z",
+            "summary": "高端访谈丨愿泰中关系永续友好——访泰国总理阿努廷·参威拉军 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "High-end interview: Wishing for lasting Thailand-China..."
+          }
+        },
+        {
+          "title": "云南禄劝彝族苗族自治县庆祝成立40周年",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnFPR3RoaVh0RU1jS1FMUWNJVXl3OTNMNFVRLTF5YzM3T05kYlRUMm1zU1dFUEVYUjhkLWZTUjBxOFJDaVhtQmRhSmtKN0VYQlpYRTA2YzQwaDcxNjFuX3hWb1p1YjIxb2NSV3d1YjlXSExmYnB0N2xQOUhpUEN2OWJTREJ4UQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-11-25T17:44:47Z",
+            "summary": "云南禄劝彝族苗族自治县庆祝成立40周年 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Yunnan Luquan Yi and Miao Autonomous County celebrates..."
+          }
+        },
+        {
+          "title": "国内首座地下储氢井加氢站累计供氢突破400吨",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUNXb3RLcjhuNkd6RXZQelkweFZaN2VYSk9id1FMMVM4VHY4LVh3dlVyNEl6clR0M19oM1BBRUtPSmpGWGRYbWxmcVpHWmtzcUU0ZkoybUE0ZFFiNFVVOUEzaHRacWJZN0p4ZEl4YjBxTklFeHB5ZmxOZm1xSkVyWDhnUm5UQQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-26T02:09:21Z",
+            "summary": "国内首座地下储氢井加氢站累计供氢突破400吨 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The country's first underground hydrogen storage station..."
+          }
+        },
+        {
+          "title": "沙特：文体热塑造多元化消费格局",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUW02cnlxQlNmY0p6Z1JHd1MxN3ZyekFqeXZFNGNkdi1MQjZQZU1yZFBadHJnd1VTbmtma0RFRFoyZ1FjbUx6dldsMExIWnN2bzZYZE5kMVItWExpQXZCMTZGZ0ozYmdFYkJVbktSZUNlSFRiSHNpLUJDSUJHUGdnMHJkdFhiQQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-26T05:00:47Z",
+            "summary": "沙特：文体热塑造多元化消费格局 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Saudi Arabia: Cultural and sports trends shape diverse..."
+          }
+        },
+        {
+          "title": "AI应用推升存储芯片需求 行业高景气度或持续至明年年中",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WblB2UmYycm5kREV0S2xpTHpKeS1wRk4yRy1pR0p1b3hWekplbEhXOGtJb0VGaFhucXRPclA2UTF1MnRJUmhwQ2tLZk9sdlhaOUhrNDdzeDAzWERkcVdVUlRHR2Q0cFJkd2VydXRSWVBuVmhjMHM5aFV2WnJiUQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-25T18:54:17Z",
+            "summary": "AI应用推升存储芯片需求 行业高景气度或持续至明年年中 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "AI applications boost demand for storage chips, high..."
+          }
+        },
+        {
+          "title": "10月我国民航国际客货运量同比增速均超20%",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xbW1kVnFSbDh6R0VLdWhBbU5fd2tOWHJhQzc3R3FZSFg1VU4tV01nU0dwNGE5ZmtDb2RNcWNxUXU4Tk5qUl9kOUUyMU9ZVTd0d01WZFZGa2FEbUQwSGd0Vkt2UlRxNzlTUEdwWnZxLTRjWUR3LWpQRnpPa2g0UQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-25T18:45:24Z",
+            "summary": "10月我国民航国际客货运量同比增速均超20% 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "In October, China's civil aviation international cargo..."
+          }
+        },
+        {
+          "title": "阿根廷政府宣布成立国家移民局",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jdXd3ZzlDMGZxY3hiRXR2NlQ2bXU2UWpMRm5FMl9Fam1HVXJFZmZvM3dSS0lYM1B2WGx2UWVXSFBZWUNXa3V6TmtXZWU3MWhzMm9qMXI2MVRLOU9jOHhvTzljSlNTMF9NNGlJejd1ZTFscHRsc1cyMHRqLW1LZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-11-25T18:57:57Z",
+            "summary": "阿根廷政府宣布成立国家移民局 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The Argentine government announced the establishment of..."
+          }
+        },
+        {
+          "title": "组图丨“宋元巨港•世遗泉州”主题书画展开展",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUhRYlRscEdqMHl6dHFRWWdYWkxSVkl3dHJ6cW1TdkEtOTVuNjNqRmVyRFZlTWQzSkludVR4SUN3Zm42VGNpRmJWVkxwQjVjTEdDaTBBUUlfSVpwdm9VU3hmTzUydDE5cnplMEpYWkhfNXROck5vY3VZYWVXOFV5SUtKSzdQakpG?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-25T22:39:19Z",
+            "summary": "组图丨“宋元巨港•世遗泉州”主题书画展开展 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Photo series: \"Song and Yuan Port • World Heritage..."
+          }
+        },
+        {
+          "title": "性格测试异化为就业新“隐形门槛”？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HTHJOLVNqbVJxOXVsa29fZktWcXd4QjdVckVQUlB3dTNjcWwwQ1djUXo4Sm1qblhwNG5zRzZLeUpGczN0YTRObEI3S3pnSGtxNUJMSTlfLVRUQkd1d1RvODREc04xbWJrc0ZtVlJfOGJOeWZEaE5YcTdHb0ZlUQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-25T18:00:28Z",
+            "summary": "性格测试异化为就业新“隐形门槛”？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Is personality testing becoming a new \"invisible..."
+          }
+        },
+        {
+          "title": "居民消费率明显提高，将带来哪些改变？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1lrVXFfbC1kNmxfanI5T0JSRUJ2NWRFSUp1aE1TQkpKRlNGUnNXR0trVzVMRFppTHJRSFNSMDZ5Q0tBbVc5aC1rdDVJTmptWTFQWUJ6RzhOZE12UVVqV0RPWFhHdnQ4ZUlPczh2Q2JfMjF0bDY5eDlmNXlRSW9GYWZ1emh4YTM2?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-25T15:30:50Z",
+            "summary": "居民消费率明显提高，将带来哪些改变？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Rising consumer spending will bring significant changes..."
+          }
+        },
+        {
+          "title": "财政补贴+金融支持 政策“组合拳”催热年末消费",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zMnFaNmNxem1XWVM1WEFpbzFDZEIwV0o0THloVG43bGZPN21OcVh0amtjUzZ3bkNZSFlLeTdkM0tmbFFZRWtFMVdCOWZWb1N5RHhETlEyYmIyRlN6SEJucUd1aXRSandoeGdaYmFLOXdkeDBJWWJneWtEV2ZvUQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-25T18:19:15Z",
+            "summary": "财政补贴+金融支持 政策“组合拳”催热年末消费 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Fiscal subsidies and financial support boost year-end..."
+          }
+        },
+        {
+          "title": "江苏如东：锚定“向海”乘风起，追“新”逐“绿”向未来",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oSk5jRWlXeFNYZzFmb3hxSkVfRm5rX0J6ZW1zUHhLRmd6cVJSMTR0WkN3Ykl1eW1pZ0VjeWpfVXhYTHpfYnF1a3RnT3I0RXlYWU5rUmFYTzd0aGxzQUNDV2JjVW1RMndFUmlQWXhab002U0plcFpsaFF0eFdEdw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-11-25T17:59:35Z",
+            "summary": "江苏如东：锚定“向海”乘风起，追“新”逐“绿”向未来 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Jiangsu Rudong: Anchoring to the sea, pursuing new green..."
+          }
+        },
+        {
+          "title": "苏州工业园区：打造世界一流高科技园区",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVd3aFNieWU0ZXl5TERyMGZ1b1Q5V1RENjhDWVpLM2VoZTV6QUhHTldmQlZMSW5WT1IybkRBRXNla21hc09MNnBHYzJWcG5oTGM1bW1Wa2tMMm5fTGJuQUxOU2ZYOVlBYU5LY09XMkxaeU45bTFqeU1ucl93Y2I0bEFydXJuQQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-26T04:22:10Z",
+            "summary": "苏州工业园区：打造世界一流高科技园区 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Suzhou Industrial Park: Building a world-class high-tech..."
+          }
+        },
+        {
+          "title": "平安理财总经理张东：科技底座是平安理财高质量发展的战略性支撑",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1odkY1V2dQelI2eFhUcEgyb1hrZll5d2l4VFhHSEd6U2dHMEYtcUlnTmI5VTlGdmZJTXNpOC05eFozWjM2a0Rwd0hYMGJtcVMydHBTUzZyNjl1Y3lkYVN4bXJncXZMbzhlLThIRnVmeTlrQ1k4ZVdpM3lBYm05UQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-25T22:42:04Z",
+            "summary": "平安理财总经理张东：科技底座是平安理财高质量发展的战略性支撑 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Ping An Wealth's GM Zhang Dong: Tech foundation supports..."
+          }
+        },
+        {
+          "title": "这场论坛共话人工智能时代科技传播新生态",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFVDdE1HeDBieVlYT1ptczNEa2I5bzdNckNGOV9ZTXM2UkRhWHQyaFktLVpsNzV3Y0NPVGh2OG13bVZTUzFTQUNjZzYzVF9zQnhZS25UNTJ3bGxXVFVDd05jbENzNm8wRkczQUhUcXNTNDBSUkxfNEczS1BvLWRoa0dpU3U?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-25T10:25:35Z",
+            "summary": "这场论坛共话人工智能时代科技传播新生态 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "This forum discusses the new ecology of tech..."
+          }
+        },
+        {
+          "title": "马来西亚呼吁以创新协作引领东盟区域未来",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RMUhkTkZqN05wcEh0dERFd0ZXT2lSblVRZDZXcWgzVUZubnhBcXltQjh5QW9HMUJ5dnFmZTdIWEtSZVVoeTAwUV9nc2o1QzlZOV9FSzZuaTNjRGFTS19PUUxYdFhLcGNNMVphbU5jbVNaRVJBZDRyQnlVOW1EZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-25T07:17:24Z",
+            "summary": "马来西亚呼吁以创新协作引领东盟区域未来 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Malaysia calls for innovative collaboration to lead..."
+          }
+        },
+        {
+          "title": "从五个前沿热点词看2025年度水利科学技术研究亮点",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwR1BOR3d6VHFXRXdWTjhNTUl3dnYzdzNNa0pFd1dPaEZiSWF0cnB5cXZyMWJCTXk0Q3E1VzZrcGJLc2RRSFBnOVV3cVdncFBXUC1DLXRsMjVFMmlCNG1fMWNRQXh2TDJzaTdQWmY5VHhNVUE3SFQ0QXNXeEZWdw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-11-25T09:32:03Z",
+            "summary": "从五个前沿热点词看2025年度水利科学技术研究亮点 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Highlights of water science and technology research in..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-26T18:39:52+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "Follow the \"Xuelong 2\" to Antarctica..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-20T22:08:58+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "新华社消息丨从实验室到应用场 2025量子科技和产业大会聚焦未来产业",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lN0NZbk02QllLaC1xbXVUR1RXaUxmVWF0UU1zbURSYUVHSHh3WlpfVFNzN1k5M3NVY0VwbDlqdnNzREhDNTFiUC1FNkl4bmwzc0RXNHlvMmtqOUdkTzQ2TzdISEI3WEp3cThxYVBrNEc4dl9pOFFOalI3T184dw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-20T00:17:16Z",
-            "summary": "新华社消息丨从实验室到应用场 2025量子科技和产业大会聚焦未来产业 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua News: 2025 Quantum Tech Conference focuses on..."
-          }
-        },
-        {
-          "title": "全运会丨皮划艇静水——女子200米双人划艇决赛赛况_第十五届全国运动会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjI0VEkyaWpPcm40bV9HV3hWVGRjVUlKQzhOTFc2eE45UHpXeDhtX1dxeTlvOVYxbGpVXzZXb1ZUajFhOTRhRmZEYVFVWThyUjhpZWd5OTRrMm40TjN5MGZfNGFlU0s5ZE0zSmxGSGViZ1BQZzBwTzYzNWNMcGt5Vk82cEczX0E?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-19T20:12:49Z",
-            "summary": "全运会丨皮划艇静水——女子200米双人划艇决赛赛况_第十五届全国运动会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "National Games: Women's 200m Canoe Doubles Final Results..."
-          }
-        },
-        {
-          "title": "全运会丨网球——男单决赛赛况_第十五届全国运动会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLXZMTHpMcngwZ2pJRUNGRFFhMUdJb3FWNXBVSFNqRzJoM1hGSW9tZ1JjNFBZZDlJRVNkaDNxQldZSFFmMmh2alE2VEREcjF6VXcwNXRTVFN2YmV0UTZueS1LMlpkQTdmWGc3UTFuTS1TTTUxaEJQdHdSaGJYQzFzQTR4aXc3LWM?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-19T19:46:05Z",
-            "summary": "全运会丨网球——男单决赛赛况_第十五届全国运动会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "National Games: Tennis - Men's Singles Final Update..."
-          }
-        },
-        {
-          "title": "全运会丨皮划艇静水——女子500米四人皮艇决赛赛况_第十五届全国运动会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXZTVTItQWJJSkdjdTJPemlWTWpIcVBqZjJybDhlLUFYWmhxYVdXcEJsZmJvVVdGMzlqUWpVNTNtaERQN1BkeUVQV0ZTanpRVXc3UElaR0tIZmtRNy11UmlYMDkwVHVuVFQteDBiOTYtdEJXV29TY01lWWlicVd4TUVtUUI3UHM?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-19T22:44:39Z",
-            "summary": "全运会丨皮划艇静水——女子500米四人皮艇决赛赛况_第十五届全国运动会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "National Games: Women's 500m Kayak Final Results..."
-          }
-        },
-        {
-          "title": "大看台丨“十五运会”上展望“十五五”之宁夏篇_第十五届全国运动会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmk4NFFoMWxhSkFqMEJCVXFKTmVMTUJGSXVaOW10Q1FUZVplNFJoY2FDWHdzdlFHeTlvU0kyNjlFT3Y3dktxUjF6S1VnNm95cjB5Y3h6d2xVZTExTjBLcndyUjJyNDB0d0R3STFsLTN0MERBTTA3dW1YcGhSTnUzOGhtSnhSSjQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-20T01:22:41Z",
-            "summary": "大看台丨“十五运会”上展望“十五五”之宁夏篇_第十五届全国运动会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Grandstand: Looking Ahead to Ningxia in the 15th..."
-          }
-        },
-        {
-          "title": "全运会｜国家体育总局：“十四五”期间我国兴奋剂年均检查数量超2.7万例_第十五届全国运动会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXhGd29PZjhtTGNTbFdsNmVBbmhJYkRWRmg4ekxscG51SWQ5eXFSeDJyNUR4OXlhYXBXMjQ2b3ltNWc5eklNTi14RVNyenVOUlpHWEJNbmZEcUx2SXVSRFJzR1gtZUY4alpaOThkOUI4X1pvU0cwTG1TbC1XczBUSGd4S1NlVHM?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-19T22:28:29Z",
-            "summary": "全运会｜国家体育总局：“十四五”期间我国兴奋剂年均检查数量超2.7万例_第十五届全国运动会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "National Sports Administration: Over 27,000 doping tests..."
-          }
-        },
-        {
-          "title": "大看台丨“十五运会”上展望“十五五”之宁夏篇_第十五届全国运动会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmk4NFFoMWxhSkFqMEJCVXFKTmVMTUJGSXVaOW10Q1FUZVplNFJoY2FDWHdzdlFHeTlvU0kyNjlFT3Y3dktxUjF6S1VnNm95cjB5Y3h6d2xVZTExTjBLcndyUjJyNDB0d0R3STFsLTN0MERBTTA3dW1YcGhSTnUzOGhtSnhSSjQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-20T01:22:41Z",
-            "summary": "大看台丨“十五运会”上展望“十五五”之宁夏篇_第十五届全国运动会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Grandstand: Looking Ahead to Ningxia in the 15th..."
-          }
-        },
-        {
-          "title": "“纳新”！亚投行成员总数增至111个",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVG00STFWNTV3ak1QU3FwOFR3NnFvOVIxUDZ3RHVqdVdkWW9LdUtHM2phQjJZcGxvdWV0Z1F1Y3o5SlhFMEo5aTdHaHBQdjZnWG9sU2Q1blowUl81V2l3ZHNNQ0lKYV9qUUVHMk5LLXItbHMxS1BDM2RieE85QkdnLWptalRYcl9W?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-20T02:24:05Z",
-            "summary": "“纳新”！亚投行成员总数增至111个 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"New members\"! AIIB's total membership rises to 111..."
-          }
-        },
-        {
-          "title": "全运会｜反曲弓赛后各队分享夺牌“妙招”_第十五届全国运动会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzBIMG0xRV9CWEFIQ1RrMjhBa3djQzc1NnlOYzNIbmh2ZTZKNHBjcm93Tm9PeF9FZHgwQ0VPQll5OXkxR2F4YXZhUk02UEVoS2ROZjh2UzljTGtpUkEtV1RkUXdMSTdXUFBCMWEzZXJEUEZVRGYyNXVzbmFmZWRCd1RHRmloN2M?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-20T00:19:49Z",
-            "summary": "全运会｜反曲弓赛后各队分享夺牌“妙招”_第十五届全国运动会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "National Games: Teams share tips for winning archery..."
-          }
-        },
-        {
-          "title": "何立峰在湖北、湖南调研时强调 持续推动外贸提质增效 打通全国统一大市场建设卡点堵点",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakJZSnd1RlJZUGNHLTVMellDdWQ4Nk1QZkRxWXNhMFFCWnpBQVdSaUQ3Y2QyXzZSMDBtTmRrMDBaSGQ4RXJ0cVVkc0tSSk1yemd6THdrMTZrXzdodmUtM2NqRnZFTWRVeHUyTE5ORUZ4QzBGR1h0MUYtTzNKdkpONElkVTJUYlZMZ3lMSW1fRHRYcVpm?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-20T03:24:36Z",
-            "summary": "何立峰在湖北、湖南调研时强调 持续推动外贸提质增效 打通全国统一大市场建设卡点堵点 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "He Lifeng emphasized boosting foreign trade quality in..."
-          }
-        },
-        {
-          "title": "财经聚焦丨安全标准修订，对玩具产业影响几何？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kM1AtMzUxLUFVVG5MOVRWVVNuSTllRWN4MC1nNkpNdWduRUNpbnVWeE1XWEttQ1lJVjg2ZjNkOTRNUm1fMlloQm9pc1FMM0RGb0FVMkdrMllWNlhOTUFuS2M4TTB3SjBpMXZpQWo1aDcwQ0FwblppeEM5NEo4dw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-19T08:00:48Z",
-            "summary": "财经聚焦丨安全标准修订，对玩具产业影响几何？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Financial Focus: How will safety standard revisions..."
-          }
-        },
-        {
-          "title": "财经慧说丨推动形成橄榄型分配格局，未来五年这么干",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQU1id1ZkTG1BZGtHbUNZZFpsajFkelRfUS1WZDAwTEtuaVFhLXd0OG9leGFPbXB3bGU4d3pRbmcxUzVFQ1hWdjBLNU9Sbm44S0txYTFOc0JvbU1sRTNzYXJsSkJDU2xkX05SVTZmdGxRTGZnbFJSLXlubV9TRFVhV0hJUDdtUmEx?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-20T05:14:27Z",
-            "summary": "财经慧说丨推动形成橄榄型分配格局，未来五年这么干 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Finance Insight: Shaping an olive-shaped distribution..."
-          }
-        },
-        {
-          "title": "《超大城市治理，北京做对了什么？——中国特色城市治理的北京实践和世界价值》一书在京发布",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkt0NmNia3lCOGFmaGdzaVBSRDVzanJwNkgtTUx3N3pacU5iQ2lRWmxuTHowckFoZHQxRWdKaVNCYlRtVGtZRU5RcUZMMjAyY2YyRFNoSnZLd1NjU0J5Ym5zWkwtdW55dHRmZ0tBTGRsMEZTSzZlcmlqQTlQVVl5N2JpSHdIQ3Y1?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-19T23:36:42Z",
-            "summary": "《超大城市治理，北京做对了什么？——中国特色城市治理的北京实践和世界价值》一书在京发布 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The book on Beijing's urban governance was released in..."
-          }
-        },
-        {
-          "title": "深港两地将携手打造全球金融科技中心",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52QlFZYU94WVpBcTQwbTExYUUxSTZUZy1WazQ0M29fd0s0MFEtSUlnU3lzcy11U2ZZWFl3TWFIZDRRSFVLNjh1YnBNTENFVGIycGplMHQ4cFZBX0NpNVVyRXk1Tl9HQXdlWklldmN6VlBTZWJiVmlrNGxYSkFSZw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-19T23:22:58Z",
-            "summary": "深港两地将携手打造全球金融科技中心 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Shenzhen and Hong Kong will collaborate to build a..."
-          }
-        },
-        {
-          "title": "福建晋江配网缺相故障迈入“秒级自愈”时代",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWk9tSElOQTBsd1RHNjJNY0VVZnZfZGpuSnBNVzZGSDBFSk5IUXRYdUlRa1R5TzNiU2luVUd3TEItdEJtazk0M1RONnlrUXdubE1jWlhxYXJrYVNfdDZEa0VJbXl0RWpGY2VsdmJqMy1qVXNkNnlDQ19DcmRoN3BIMDNwZWYtRXE4?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-19T23:56:01Z",
-            "summary": "福建晋江配网缺相故障迈入“秒级自愈”时代 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Fujian Jinjiang power distribution enters \"second-level..."
-          }
-        },
-        {
-          "title": "深港两地将携手打造全球金融科技中心",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52QlFZYU94WVpBcTQwbTExYUUxSTZUZy1WazQ0M29fd0s0MFEtSUlnU3lzcy11U2ZZWFl3TWFIZDRRSFVLNjh1YnBNTENFVGIycGplMHQ4cFZBX0NpNVVyRXk1Tl9HQXdlWklldmN6VlBTZWJiVmlrNGxYSkFSZw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-19T23:22:58Z",
-            "summary": "深港两地将携手打造全球金融科技中心 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Shenzhen and Hong Kong will collaborate to create a..."
-          }
-        },
-        {
-          "title": "多项重大成果集中亮相2025量子科技和产业大会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QamZDcnUwZHZrWWFMUEo2T3NPaXVsWmE5RE9YQk83MVZET1lVY0lfSVRrS1hEa1RVbEoyR1R0R3VJdmdUbVVGMHphbkgyaU5jRF9MQjZFUkdSQlBPandLLTQwZVROcVpqeHV2RzkxLWRvMWRxRzlUX052RFpKUQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-20T02:21:10Z",
-            "summary": "多项重大成果集中亮相2025量子科技和产业大会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Major achievements showcased at the 2025 Quantum Tech..."
-          }
-        },
-        {
-          "title": "新华鲜报·规划建议新看点丨建设概念验证、中试验证平台：打通科技成果转化的“任督二脉”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHZHdjl5TUpsM1BaNXBtc1JsZS1sS2xrYTA0VkVWaHpsdXp3U1d1WnllRWNOUUkyYXFiUkRTdDNHRmhVZ3ktZURYMlk1THpQRDJZdU9mLVZNUEJtTmVIUGR1YWtvV2EycXNuaGpwdWZqTkk4OUdqSmFlYmMtWTdNMkh5b3RHZw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-19T18:07:11Z",
-            "summary": "新华鲜报·规划建议新看点丨建设概念验证、中试验证平台：打通科技成果转化的“任督二脉” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "New insights on planning: Build platforms for tech成果转化..."
-          }
-        },
-        {
-          "title": "新华社消息丨从实验室到应用场 2025量子科技和产业大会聚焦未来产业",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lN0NZbk02QllLaC1xbXVUR1RXaUxmVWF0UU1zbURSYUVHSHh3WlpfVFNzN1k5M3NVY0VwbDlqdnNzREhDNTFiUC1FNkl4bmwzc0RXNHlvMmtqOUdkTzQ2TzdISEI3WEp3cThxYVBrNEc4dl9pOFFOalI3T184dw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-20T00:17:16Z",
-            "summary": "新华社消息丨从实验室到应用场 2025量子科技和产业大会聚焦未来产业 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua reports: 2025 Quantum Tech Conference focuses on..."
-          }
-        },
-        {
-          "title": "欧盟计划放宽数字监管法规",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xb250eVM3ZjhHWDRIRXg0S0VRcmJwTkNIU0xOWlJsZmlPMlROUDZWRlFaQ0xNd3lnOFZpTFR4ZWVOa2I5S0J2TkxvR2xVWll2cktqT2ZCclRXeFcxV0YyWjZ3OFN0WGZ0MnR3MWc1OG5TaHJxWERzaWxfbzN4dw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-19T22:57:42Z",
-            "summary": "欧盟计划放宽数字监管法规 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "EU plans to ease digital regulation laws..."
           }
         }
       ]

@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-26T18:39:23+08:00",
+  "generated_at": "2025-11-26T22:08:45+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-26T22:08:45+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 外卖大战或将暂停",
+          "value": "1080214 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%98%E6%88%96%E5%B0%86%E6%9A%82%E5%81%9C&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1080214",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The food delivery war may come to a halt..."
+          }
+        },
+        {
+          "title": "2. 香港商场草墙起火系烟头引发 [新]",
+          "value": "1072954 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%95%86%E5%9C%BA%E8%8D%89%E5%A2%99%E8%B5%B7%E7%81%AB%E7%B3%BB%E7%83%9F%E5%A4%B4%E5%BC%95%E5%8F%91&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1072954",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Fire at Hong Kong mall's grass wall caused by cigarette..."
+          }
+        },
+        {
+          "title": "3. 长春成功申办2027世界大冬会",
+          "value": "1041172 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E6%98%A5%E6%88%90%E5%8A%9F%E7%94%B3%E5%8A%9E2027%E4%B8%96%E7%95%8C%E5%A4%A7%E5%86%AC%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1041172",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Changchun successfully bids for the 2027 World Winter..."
+          }
+        },
+        {
+          "title": "4. 疯狂动物城2 [新]",
+          "value": "电影 1007066 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "电影 1007066",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Zootopia 2"
+          }
+        },
+        {
+          "title": "5. 长春大冬会",
+          "value": "967991 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E6%98%A5%E5%A4%A7%E5%86%AC%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 967991",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Changchun Winter Universiade"
+          }
+        },
+        {
+          "title": "6. 香港殉职消防员终年37岁 [新]",
+          "value": "911266 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E6%AE%89%E8%81%8C%E6%B6%88%E9%98%B2%E5%91%98%E7%BB%88%E5%B9%B437%E5%B2%81&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 911266",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Hong Kong firefighter dies at the age of 37..."
+          }
+        },
+        {
+          "title": "7. 香蜜沉沉烬如霜",
+          "value": "剧集 902236 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E8%9C%9C%E6%B2%89%E6%B2%89%E7%83%AC%E5%A6%82%E9%9C%9C&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 902236",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Ashes like frost in fragrant honey..."
+          }
+        },
+        {
+          "title": "8. 大麦我票呢 [新]",
+          "value": "演出 855636 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E9%BA%A6%E6%88%91%E7%A5%A8%E5%91%A2&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "演出 855636",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Where's my ticket for the barley?"
+          }
+        },
+        {
+          "title": "9. Uzi被曝已签约",
+          "value": "826032 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DUzi%E8%A2%AB%E6%9B%9D%E5%B7%B2%E7%AD%BE%E7%BA%A6&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 826032",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Uzi reportedly has signed a contract..."
+          }
+        },
+        {
+          "title": "10. 香港火灾附近住户发声 [新]",
+          "value": "785023 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%99%84%E8%BF%91%E4%BD%8F%E6%88%B7%E5%8F%91%E5%A3%B0&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 785023",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Residents near the Hong Kong fire speak out..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-26T18:39:23+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Red Fruit short drama introduces profit-sharing for..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-20T22:08:21+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 王楚钦vs樊振东",
-          "value": "5627134 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A8%8A%E6%8C%AF%E4%B8%9C&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 5627134",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin vs Fan Zhendong..."
-          }
-        },
-        {
-          "title": "2. 苏炳添最后一舞",
-          "value": "544569 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 544569",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Su Bingtian's final dance..."
-          }
-        },
-        {
-          "title": "3. 00后10后闪耀十五运会",
-          "value": "514537 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D00%E5%90%8E10%E5%90%8E%E9%97%AA%E8%80%80%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 514537",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Post-00s and Post-10s shine at the 15th National Games..."
-          }
-        },
-        {
-          "title": "4. 丰田王牌智混RAV4荣放换代",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%B0%E7%94%B0%E7%8E%8B%E7%89%8C%E6%99%BA%E6%B7%B7RAV4%E8%8D%A3%E6%94%BE%E6%8D%A2%E4%BB%A3&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Toyota RAV4 hybrid gets a new generation..."
-          }
-        },
-        {
-          "title": "5. 日本反对日本",
-          "value": "501728 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 501728",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Japan opposes Japan..."
-          }
-        },
-        {
-          "title": "6. 马龙圆满了 [重磅]",
-          "value": "473865 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E9%BE%99%E5%9C%86%E6%BB%A1%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 473865",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Ma Long has achieved perfection."
-          }
-        },
-        {
-          "title": "7. 马龙王楚钦黄友政夺冠",
-          "value": "462643 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%BB%84%E5%8F%8B%E6%94%BF%E5%A4%BA%E5%86%A0&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 462643",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Ma Long, Wang Chuqin, and Huang Yuzheng win the..."
-          }
-        },
-        {
-          "title": "8. 樊振东许昕周恺亚军 [新]",
-          "value": "445641 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AE%B8%E6%98%95%E5%91%A8%E6%81%BA%E4%BA%9A%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 445641",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Fan Zhendong, Xu Xin, and Zhou Kai are runners-up..."
-          }
-        },
-        {
-          "title": "9. 汪苏泷广州跨年演唱会",
-          "value": "演出 316769 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%B9%BF%E5%B7%9E%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "演出 316769",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Wang Sulong's New Year's Concert in Guangzhou..."
-          }
-        },
-        {
-          "title": "10. 山姆盒马的酸奶是同一家工厂生产 [新]",
-          "value": "268563 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%B1%E5%A7%86%E7%9B%92%E9%A9%AC%E7%9A%84%E9%85%B8%E5%A5%B6%E6%98%AF%E5%90%8C%E4%B8%80%E5%AE%B6%E5%B7%A5%E5%8E%82%E7%94%9F%E4%BA%A7&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 268563",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Sam's Club and Hema's yogurt is produced by the same..."
           }
         }
       ]
