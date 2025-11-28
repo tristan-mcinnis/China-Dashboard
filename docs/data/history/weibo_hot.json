@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-28T11:00:22+08:00",
+  "generated_at": "2025-11-28T14:01:51+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-28T14:01:51+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 香港大火已致94人遇难",
+          "value": "2047663 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E5%B7%B2%E8%87%B494%E4%BA%BA%E9%81%87%E9%9A%BE&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 2047663",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Hong Kong fire has claimed 94 lives..."
+          }
+        },
+        {
+          "title": "2. 雷军回应小米汽车续航测试",
+          "value": "966339 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 966339",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Lei Jun responds to Xiaomi car's endurance test..."
+          }
+        },
+        {
+          "title": "3. 央视揭秘中国核电站内部",
+          "value": "473578 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E4%B8%AD%E5%9B%BD%E6%A0%B8%E7%94%B5%E7%AB%99%E5%86%85%E9%83%A8&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 473578",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "CCTV reveals the inside of China's nuclear power plants..."
+          }
+        },
+        {
+          "title": "4. 华为Mate80系列今日开售 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BAMate80%E7%B3%BB%E5%88%97%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Huawei Mate 80 series goes on sale today..."
+          }
+        },
+        {
+          "title": "5. 正午阳光的第一部电影",
+          "value": "电影 445482 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E7%9A%84%E7%AC%AC%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "电影 445482",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The first film of Noon Sunshine..."
+          }
+        },
+        {
+          "title": "6. 美国被曝给日本躁动泼冷水 [上新]",
+          "value": "421044 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E7%BB%99%E6%97%A5%E6%9C%AC%E8%BA%81%E5%8A%A8%E6%B3%BC%E5%86%B7%E6%B0%B4&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 421044",
+            "tag": "上新",
+            "api_source": "tianapi",
+            "translation": "US reportedly dampens Japan's excitement..."
+          }
+        },
+        {
+          "title": "7. 2026年起吸毒记录可封存",
+          "value": "417388 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 417388",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "From 2026, drug use records can be sealed..."
+          }
+        },
+        {
+          "title": "8. 年度最佳分析师",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E5%88%86%E6%9E%90%E5%B8%88&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Annual Best Analyst..."
+          }
+        },
+        {
+          "title": "9. 日本胆敢染指台湾就是侵略中国本土",
+          "value": "396333 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E8%83%86%E6%95%A2%E6%9F%93%E6%8C%87%E5%8F%B0%E6%B9%BE%E5%B0%B1%E6%98%AF%E4%BE%B5%E7%95%A5%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 396333",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Japan's interference in Taiwan is an invasion of China..."
+          }
+        },
+        {
+          "title": "10. 肖战彭昱畅周依然领衔主演 [新]",
+          "value": "电影 335862 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E5%BD%AD%E6%98%B1%E7%95%85%E5%91%A8%E4%BE%9D%E7%84%B6%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "电影 335862",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Xiao Zhan, Peng Yuchang, and Zhou Yiran star..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-28T11:00:22+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Uzi has a big addiction..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-22T14:01:42+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 印尼孕妇分娩遭4医院拒收母子双亡",
-          "value": "1095059 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%B0%BC%E5%AD%95%E5%A6%87%E5%88%86%E5%A8%A9%E9%81%AD4%E5%8C%BB%E9%99%A2%E6%8B%92%E6%94%B6%E6%AF%8D%E5%AD%90%E5%8F%8C%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1095059",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Indonesian pregnant woman denied by 4 hospitals, mother..."
-          }
-        },
-        {
-          "title": "2. 全运会乒乓女单铜牌赛收视率第一",
-          "value": "248585 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E5%A5%B3%E5%8D%95%E9%93%9C%E7%89%8C%E8%B5%9B%E6%94%B6%E8%A7%86%E7%8E%87%E7%AC%AC%E4%B8%80&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 248585",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The women's singles bronze match at the National Games..."
-          }
-        },
-        {
-          "title": "3. 古诗里的小雪",
-          "value": "247372 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%A4%E8%AF%97%E9%87%8C%E7%9A%84%E5%B0%8F%E9%9B%AA&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 247372",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Little Snow in Ancient Poetry..."
-          }
-        },
-        {
-          "title": "4. 美团外卖祝雪王生日快乐",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E7%A5%9D%E9%9B%AA%E7%8E%8B%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Meituan Waimai wishes Happy Birthday to Xue Wang..."
-          }
-        },
-        {
-          "title": "5. 高市早苗车牌是3777",
-          "value": "244557 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%BD%A6%E7%89%8C%E6%98%AF3777&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 244557",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Sanae Takasugi's license plate is 3777..."
-          }
-        },
-        {
-          "title": "6. 哪吒2不参评奥斯卡最佳动画长片 [重磅]",
-          "value": "电影 238686 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%AA%E5%90%922%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "电影 238686",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "\"Nezha 2\" will not compete for the Oscar for Best..."
-          }
-        },
-        {
-          "title": "7. 枭起青壤云包场",
-          "value": "剧集 236851 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E4%BA%91%E5%8C%85%E5%9C%BA&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 236851",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The owl rises, the green earth is wrapped in clouds..."
-          }
-        },
-        {
-          "title": "8. 车展不只看车",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%B1%95%E4%B8%8D%E5%8F%AA%E7%9C%8B%E8%BD%A6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Car shows are not just about cars..."
-          }
-        },
-        {
-          "title": "9. 尖叫之夜又是CP大乱炖",
-          "value": "晚会 230172 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%8F%88%E6%98%AFCP%E5%A4%A7%E4%B9%B1%E7%82%96&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "晚会 230172",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Screaming Night is another CP mashup..."
-          }
-        },
-        {
-          "title": "10. 馆长称若非中国慈悲分秒给日本灭掉 [新]",
-          "value": "226095 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%86%E9%95%BF%E7%A7%B0%E8%8B%A5%E9%9D%9E%E4%B8%AD%E5%9B%BD%E6%85%88%E6%82%B2%E5%88%86%E7%A7%92%E7%BB%99%E6%97%A5%E6%9C%AC%E7%81%AD%E6%8E%89&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 226095",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The curator said that without China's mercy, Japan would..."
           }
         }
       ]
