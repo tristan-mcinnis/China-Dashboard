@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-28T06:04:06+08:00",
+  "generated_at": "2025-11-28T11:00:22+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-28T11:00:22+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 香港大火已致94人遇难",
+          "value": "6802021 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E5%B7%B2%E8%87%B494%E4%BA%BA%E9%81%87%E9%9A%BE&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 6802021",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Hong Kong fire has claimed 94 lives..."
+          }
+        },
+        {
+          "title": "2. 中国男篮对阵韩国大名单",
+          "value": "2955247 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E5%A4%A7%E5%90%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 2955247",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China men's basketball team roster against South Korea..."
+          }
+        },
+        {
+          "title": "3. 行走大美中国",
+          "value": "1407895 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A1%8C%E8%B5%B0%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1407895",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Traveling through beautiful China..."
+          }
+        },
+        {
+          "title": "4. 地平线HSD量产开启国民智驾时代",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%B0%E5%B9%B3%E7%BA%BFHSD%E9%87%8F%E4%BA%A7%E5%BC%80%E5%90%AF%E5%9B%BD%E6%B0%91%E6%99%BA%E9%A9%BE%E6%97%B6%E4%BB%A3&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Horizon HSD starts mass production for smart driving era..."
+          }
+        },
+        {
+          "title": "5. 电影得闲谨制定档",
+          "value": "电影 1288224 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E5%BD%B1%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E5%AE%9A%E6%A1%A3&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "电影 1288224",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The movie \"Get Out of Work\" has set a release date..."
+          }
+        },
+        {
+          "title": "6. 杀害女同学男生被判无期 [首发]",
+          "value": "1243289 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E7%94%B7%E7%94%9F%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 1243289",
+            "tag": "首发",
+            "api_source": "tianapi",
+            "translation": "Boy who killed female classmate sentenced to life..."
+          }
+        },
+        {
+          "title": "7. 肖战彭昱畅周依然领衔主演",
+          "value": "电影 629410 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E5%BD%AD%E6%98%B1%E7%95%85%E5%91%A8%E4%BE%9D%E7%84%B6%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "电影 629410",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Xiao Zhan, Peng Yuchang, and Zhou Yiran star..."
+          }
+        },
+        {
+          "title": "8. 疯狂动物城3 [新]",
+          "value": "电影 604598 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "电影 604598",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Zootopia 3"
+          }
+        },
+        {
+          "title": "9. 香港消防员将搜索所有房屋",
+          "value": "593624 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E6%B6%88%E9%98%B2%E5%91%98%E5%B0%86%E6%90%9C%E7%B4%A2%E6%89%80%E6%9C%89%E6%88%BF%E5%B1%8B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 593624",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Hong Kong firefighters will search all houses..."
+          }
+        },
+        {
+          "title": "10. DeepSeek推出新模型 [新]",
+          "value": "567565 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DDeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 567565",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "DeepSeek launches new model..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-28T06:04:06+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "The curator said that without China's mercy, Japan would..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-22T10:54:52+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 高市有事",
-          "value": "1074684 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%9C%89%E4%BA%8B&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1074684",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "There's something happening in Kaohsiung..."
-          }
-        },
-        {
-          "title": "2. 中国军机高空驱离菲挑衅飞机 [新]",
-          "value": "322561 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%9C%BA%E9%AB%98%E7%A9%BA%E9%A9%B1%E7%A6%BB%E8%8F%B2%E6%8C%91%E8%A1%85%E9%A3%9E%E6%9C%BA&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 322561",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Chinese military aircraft drive away Philippine..."
-          }
-        },
-        {
-          "title": "3. 这26秒科技感直接拉满",
-          "value": "263206 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%9926%E7%A7%92%E7%A7%91%E6%8A%80%E6%84%9F%E7%9B%B4%E6%8E%A5%E6%8B%89%E6%BB%A1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 263206",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "This 26 seconds is full of high-tech vibes..."
-          }
-        },
-        {
-          "title": "4. 美团外卖祝雪王生日快乐",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E7%A5%9D%E9%9B%AA%E7%8E%8B%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Meituan Waimai wishes Happy Birthday to Snow King..."
-          }
-        },
-        {
-          "title": "5. 中方就高市错误言行致函古特雷斯",
-          "value": "259098 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%AB%98%E5%B8%82%E9%94%99%E8%AF%AF%E8%A8%80%E8%A1%8C%E8%87%B4%E5%87%BD%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 259098",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China addresses Guterres over Gao's erroneous remarks..."
-          }
-        },
-        {
-          "title": "6. 小雪 [重磅]",
-          "value": "253174 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E9%9B%AA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 253174",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Light snow..."
-          }
-        },
-        {
-          "title": "7. 高市早苗车牌是3777",
-          "value": "244017 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%BD%A6%E7%89%8C%E6%98%AF3777&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 244017",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Sanae Takasugi's license plate is 3777..."
-          }
-        },
-        {
-          "title": "8. 穆祉丞星辰大海采风最佳创作",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%86%E7%A5%89%E4%B8%9E%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E9%87%87%E9%A3%8E%E6%9C%80%E4%BD%B3%E5%88%9B%E4%BD%9C&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Mu Zhicheng's best creation inspired by the stars and sea..."
-          }
-        },
-        {
-          "title": "9. 枭起青壤今日开播",
-          "value": "剧集 219234 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 219234",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "\"Xiao Qi Qing Rang\" premieres today..."
-          }
-        },
-        {
-          "title": "10. 爱奇艺尖叫之夜首轮阵容 [沸]",
-          "value": "晚会 169695 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%A6%96%E8%BD%AE%E9%98%B5%E5%AE%B9&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "晚会 169695",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "iQIYI's Scream Night first round lineup..."
           }
         }
       ]
