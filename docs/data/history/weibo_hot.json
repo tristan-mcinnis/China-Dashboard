@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-11-29T18:36:52+08:00",
+  "generated_at": "2025-11-29T22:07:14+08:00",
   "entries": [
+    {
+      "as_of": "2025-11-29T22:07:14+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 张继科混团开幕式献唱我爱你中国",
+          "value": "1086735 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E7%BB%A7%E7%A7%91%E6%B7%B7%E5%9B%A2%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8C%AE%E5%94%B1%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1086735",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Zhang Jike sings \"I Love You, China\" at mixed team..."
+          }
+        },
+        {
+          "title": "2. 全国流感阳性率接近45% [热]",
+          "value": "520972 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E5%9B%BD%E6%B5%81%E6%84%9F%E9%98%B3%E6%80%A7%E7%8E%87%E6%8E%A5%E8%BF%9145%25&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 520972",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "National flu positivity rate approaches 45%..."
+          }
+        },
+        {
+          "title": "3. 南北方同步开启干冷模式",
+          "value": "400518 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%97%E5%8C%97%E6%96%B9%E5%90%8C%E6%AD%A5%E5%BC%80%E5%90%AF%E5%B9%B2%E5%86%B7%E6%A8%A1%E5%BC%8F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 400518",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "North and South simultaneously enter dry and cold mode..."
+          }
+        },
+        {
+          "title": "4. 网文赋能文明创新表达 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E6%96%87%E8%B5%8B%E8%83%BD%E6%96%87%E6%98%8E%E5%88%9B%E6%96%B0%E8%A1%A8%E8%BE%BE&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Online literature empowers innovative expressions of..."
+          }
+        },
+        {
+          "title": "5. 24岁40万年薪女儿因为父亲离职",
+          "value": "综艺 384813 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D24%E5%B2%8140%E4%B8%87%E5%B9%B4%E8%96%AA%E5%A5%B3%E5%84%BF%E5%9B%A0%E4%B8%BA%E7%88%B6%E4%BA%B2%E7%A6%BB%E8%81%8C&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "综艺 384813",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "24-year-old woman with a 400,000 salary due to father's..."
+          }
+        },
+        {
+          "title": "6. 公务员考试",
+          "value": "341697 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 341697",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Civil service examination..."
+          }
+        },
+        {
+          "title": "7. 疯狂动物城",
+          "value": "电影 296573 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "电影 296573",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Zootopia"
+          }
+        },
+        {
+          "title": "8. 此前失踪名单中144人确认安全 [热]",
+          "value": "291423 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%A4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%90%8D%E5%8D%95%E4%B8%AD144%E4%BA%BA%E7%A1%AE%E8%AE%A4%E5%AE%89%E5%85%A8&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 291423",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "144 people from the missing list confirmed safe..."
+          }
+        },
+        {
+          "title": "9. 敖瑞鹏一个英文单词震慑全场",
+          "value": "综艺 265395 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%95%96%E7%91%9E%E9%B9%8F%E4%B8%80%E4%B8%AA%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E9%9C%87%E6%85%91%E5%85%A8%E5%9C%BA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "综艺 265395",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Ao Ruipeng's single English word stunned the audience..."
+          }
+        },
+        {
+          "title": "10. 日本旅游业被曝很难填补中国游客空白",
+          "value": "236769 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%BE%88%E9%9A%BE%E5%A1%AB%E8%A1%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A9%BA%E7%99%BD&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 236769",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Japan's tourism industry struggles to fill the gap left..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-29T18:36:52+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Some materials in handmade resin exceed formaldehyde..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-23T22:06:58+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. HLE官宣Gumayusi加入",
-          "value": "1055546 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DHLE%E5%AE%98%E5%AE%A3Gumayusi%E5%8A%A0%E5%85%A5&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1055546",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "HLE officially announces Gumayusi's joining..."
-          }
-        },
-        {
-          "title": "2. TTG清清断开连接 [新]",
-          "value": "1051107 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTTG%E6%B8%85%E6%B8%85%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1051107",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "TTG has disconnected..."
-          }
-        },
-        {
-          "title": "3. 这26秒科技感直接拉满",
-          "value": "1049648 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%9926%E7%A7%92%E7%A7%91%E6%8A%80%E6%84%9F%E7%9B%B4%E6%8E%A5%E6%8B%89%E6%BB%A1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1049648",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "This 26 seconds is full of high-tech vibes..."
-          }
-        },
-        {
-          "title": "4. 枭起青壤剧情平 [新]",
-          "value": "1045221 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%89%A7%E6%83%85%E5%B9%B3&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 1045221",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The plot of \"Xiao Qi Qing Rang\" is flat..."
-          }
-        },
-        {
-          "title": "5. 枭起青壤第六集卡在这对吗",
-          "value": "剧集 1039454 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%AC%AC%E5%85%AD%E9%9B%86%E5%8D%A1%E5%9C%A8%E8%BF%99%E5%AF%B9%E5%90%97&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 1039454",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Is the sixth episode of \"Xiao Qi Qing Rang\" stuck?"
-          }
-        },
-        {
-          "title": "6. 海关在一女子裙内查获229条活鱼 [新]",
-          "value": "1034304 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%85%B3%E5%9C%A8%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A3%99%E5%86%85%E6%9F%A5%E8%8E%B7229%E6%9D%A1%E6%B4%BB%E9%B1%BC&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 1034304",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Customs seized 229 live fish hidden in a woman's skirt..."
-          }
-        },
-        {
-          "title": "7. 启境成华为乾崑头号玩家",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%AF%E5%A2%83%E6%88%90%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E5%A4%B4%E5%8F%B7%E7%8E%A9%E5%AE%B6&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Qijing becomes Huawei's top player in Qian Kun..."
-          }
-        },
-        {
-          "title": "8. Kanavi道歉 [新]",
-          "value": "1026768 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKanavi%E9%81%93%E6%AD%89&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 1026768",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Kanavi apologizes."
-          }
-        },
-        {
-          "title": "9. 侯英超说马龙陈梦樊振东是定海神针",
-          "value": "1020514 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BE%AF%E8%8B%B1%E8%B6%85%E8%AF%B4%E9%A9%AC%E9%BE%99%E9%99%88%E6%A2%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%98%AF%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 1020514",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Hou Yingchao said Ma Long, Chen Meng, and Fan Zhendong..."
-          }
-        },
-        {
-          "title": "10. 日本现职领导人越了不应碰的红线",
-          "value": "1017147 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E7%8E%B0%E8%81%8C%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%B6%8A%E4%BA%86%E4%B8%8D%E5%BA%94%E7%A2%B0%E7%9A%84%E7%BA%A2%E7%BA%BF&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 1017147",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Japan's current leaders have crossed a forbidden line..."
           }
         }
       ]
