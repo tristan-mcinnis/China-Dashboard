@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2025-11-30T22:07:40+08:00",
+  "generated_at": "2025-12-01T06:04:03+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-01T06:04:03+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 《求是》发表习近平总书记重要文章",
+          "value": "指数 7904421",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904421",
+            "api_source": "tianapi",
+            "translation": "\"Qiushi\" publishes an important article by General..."
+          }
+        },
+        {
+          "title": "2. 谁在买200元一粒的流感药",
+          "value": "指数 7808590",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%B0%81%E5%9C%A8%E4%B9%B0200%E5%85%83%E4%B8%80%E7%B2%92%E7%9A%84%E6%B5%81%E6%84%9F%E8%8D%AF",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808590",
+            "api_source": "tianapi",
+            "translation": "Who is buying flu medicine for 200 yuan a pill?"
+          }
+        },
+        {
+          "title": "3. 109人的“炒股群”108个“托”",
+          "value": "指数 7712942",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=109%E4%BA%BA%E7%9A%84%E2%80%9C%E7%82%92%E8%82%A1%E7%BE%A4%E2%80%9D108%E4%B8%AA%E2%80%9C%E6%89%98%E2%80%9D",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7712942",
+            "api_source": "tianapi",
+            "translation": "In a group of 109 stock traders, 108 are fake..."
+          }
+        },
+        {
+          "title": "4. 中国能源自主之路再添硬核底气",
+          "value": "指数 7617086",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E8%83%BD%E6%BA%90%E8%87%AA%E4%B8%BB%E4%B9%8B%E8%B7%AF%E5%86%8D%E6%B7%BB%E7%A1%AC%E6%A0%B8%E5%BA%95%E6%B0%94",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617086",
+            "api_source": "tianapi",
+            "translation": "China's energy independence gains new solid support..."
+          }
+        },
+        {
+          "title": "5. 男子钓出227.2斤鱼王引围观",
+          "value": "指数 7522587",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B7%E5%AD%90%E9%92%93%E5%87%BA227.2%E6%96%A4%E9%B1%BC%E7%8E%8B%E5%BC%95%E5%9B%B4%E8%A7%82",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7522587",
+            "api_source": "tianapi",
+            "translation": "Man catches a 227.2-pound fish king, attracting attention..."
+          }
+        },
+        {
+          "title": "6. 高铁特等座面对面包间被吐槽尴尬",
+          "value": "指数 7427993",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%AB%98%E9%93%81%E7%89%B9%E7%AD%89%E5%BA%A7%E9%9D%A2%E5%AF%B9%E9%9D%A2%E5%8C%85%E9%97%B4%E8%A2%AB%E5%90%90%E6%A7%BD%E5%B0%B4%E5%B0%AC",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7427993",
+            "api_source": "tianapi",
+            "translation": "High-speed train first-class facing compartments..."
+          }
+        },
+        {
+          "title": "7. 女子遇反向折叠楼梯吓出一身冷汗",
+          "value": "指数 7331017",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%90%E9%81%87%E5%8F%8D%E5%90%91%E6%8A%98%E5%8F%A0%E6%A5%BC%E6%A2%AF%E5%90%93%E5%87%BA%E4%B8%80%E8%BA%AB%E5%86%B7%E6%B1%97",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7331017",
+            "api_source": "tianapi",
+            "translation": "Woman scared to cold sweat by reverse folding stairs..."
+          }
+        },
+        {
+          "title": "8. 香港火灾已致146人遇难 100人仍失联",
+          "value": "指数 7231865",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4146%E4%BA%BA%E9%81%87%E9%9A%BE+100%E4%BA%BA%E4%BB%8D%E5%A4%B1%E8%81%94",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7231865",
+            "api_source": "tianapi",
+            "translation": "Hong Kong fire has claimed 146 lives, 100 still missing..."
+          }
+        },
+        {
+          "title": "9. 老师记录甲流来袭的教室状态",
+          "value": "指数 7136376",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%80%81%E5%B8%88%E8%AE%B0%E5%BD%95%E7%94%B2%E6%B5%81%E6%9D%A5%E8%A2%AD%E7%9A%84%E6%95%99%E5%AE%A4%E7%8A%B6%E6%80%81",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7136376",
+            "api_source": "tianapi",
+            "translation": "Teacher records classroom status during flu outbreak..."
+          }
+        },
+        {
+          "title": "10. 日本官方发布高市名场面 网友：黑粉",
+          "value": "指数 7041039",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%A5%E6%9C%AC%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E9%AB%98%E5%B8%82%E5%90%8D%E5%9C%BA%E9%9D%A2+%E7%BD%91%E5%8F%8B%EF%BC%9A%E9%BB%91%E7%B2%89",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7041039",
+            "api_source": "tianapi",
+            "translation": "Japan's official release of Takashima's highlights..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-11-30T22:07:40+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7045733",
             "api_source": "tianapi",
             "translation": "Korean actor \"Nation's Grandpa\" Lee Soon-jae has passed..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-25T06:04:13+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 一个博物馆就是一所大学校",
-          "value": "指数 7904088",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E4%B8%AA%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B0%B1%E6%98%AF%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%A6%E6%A0%A1",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904088",
-            "api_source": "tianapi",
-            "translation": "A museum is like a university..."
-          }
-        },
-        {
-          "title": "2. 习近平同特朗普通电话",
-          "value": "指数 7808910",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808910",
-            "api_source": "tianapi",
-            "translation": "Xi Jinping and Trump had a phone conversation."
-          }
-        },
-        {
-          "title": "3. 石破茂等日本3位前首相再表态",
-          "value": "指数 7714364",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%9F%B3%E7%A0%B4%E8%8C%82%E7%AD%89%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%86%8D%E8%A1%A8%E6%80%81",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7714364",
-            "api_source": "tianapi",
-            "translation": "Shinzo Abe and two former Japanese PMs express views..."
-          }
-        },
-        {
-          "title": "4. “数”说非遗绽放夺目新光彩",
-          "value": "指数 7616456",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%B4%E9%9D%9E%E9%81%97%E7%BB%BD%E6%94%BE%E5%A4%BA%E7%9B%AE%E6%96%B0%E5%85%89%E5%BD%A9",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7616456",
-            "api_source": "tianapi",
-            "translation": "\"Numbers\" showcase the dazzling new brilliance of..."
-          }
-        },
-        {
-          "title": "5. 三只松鼠回应员工入职要改“鼠”姓",
-          "value": "指数 7522270",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C%E8%A6%81%E6%94%B9%E2%80%9C%E9%BC%A0%E2%80%9D%E5%A7%93",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7522270",
-            "api_source": "tianapi",
-            "translation": "Three Squirrels responds to employees changing their..."
-          }
-        },
-        {
-          "title": "6. 美乌谈判现场乌代表紧张到掰断笔",
-          "value": "指数 7426706",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E4%B9%8C%E8%B0%88%E5%88%A4%E7%8E%B0%E5%9C%BA%E4%B9%8C%E4%BB%A3%E8%A1%A8%E7%B4%A7%E5%BC%A0%E5%88%B0%E6%8E%B0%E6%96%AD%E7%AC%94",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7426706",
-            "api_source": "tianapi",
-            "translation": "Ukrainian representative nervously breaks a pen during..."
-          }
-        },
-        {
-          "title": "7. 日本机场挤满了回国的人",
-          "value": "指数 7333222",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E6%8C%A4%E6%BB%A1%E4%BA%86%E5%9B%9E%E5%9B%BD%E7%9A%84%E4%BA%BA",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7333222",
-            "api_source": "tianapi",
-            "translation": "Japanese airports are crowded with people returning home..."
-          }
-        },
-        {
-          "title": "8. 中国将寻找第二颗地球",
-          "value": "指数 7236830",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%BB%E6%89%BE%E7%AC%AC%E4%BA%8C%E9%A2%97%E5%9C%B0%E7%90%83",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7236830",
-            "api_source": "tianapi",
-            "translation": "China will search for a second Earth..."
-          }
-        },
-        {
-          "title": "9. 俄罗斯将被邀请重返G8",
-          "value": "指数 7137987",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E8%A2%AB%E9%82%80%E8%AF%B7%E9%87%8D%E8%BF%94G8",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7137987",
-            "api_source": "tianapi",
-            "translation": "Russia will be invited to rejoin the G8..."
-          }
-        },
-        {
-          "title": "10. 救命药滞留前台5小时致男子身亡",
-          "value": "指数 7046014",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%95%91%E5%91%BD%E8%8D%AF%E6%BB%9E%E7%95%99%E5%89%8D%E5%8F%B05%E5%B0%8F%E6%97%B6%E8%87%B4%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BA%A1",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7046014",
-            "api_source": "tianapi",
-            "translation": "Man dies after lifesaving drug delayed at front desk for..."
           }
         }
       ]
