@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-01T06:03:55+08:00",
+  "generated_at": "2025-12-01T11:14:11+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-01T11:14:11+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 英超球队向中国球迷道歉",
+          "value": "1074834 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B1%E8%B6%85%E7%90%83%E9%98%9F%E5%90%91%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E9%81%93%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1074834",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Premier League teams apologize to Chinese fans..."
+          }
+        },
+        {
+          "title": "2. 中国人在太空存粮多得超乎想象",
+          "value": "378894 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%AD%98%E7%B2%AE%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 378894",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese space food supplies exceed imagination..."
+          }
+        },
+        {
+          "title": "3. 黄土高原变绿了",
+          "value": "375204 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E5%8F%98%E7%BB%BF%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 375204",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Loess Plateau has turned green..."
+          }
+        },
+        {
+          "title": "4. Uzi 复出",
+          "value": "370476 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DUzi%20%E5%A4%8D%E5%87%BA&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 370476",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Uzi makes a comeback..."
+          }
+        },
+        {
+          "title": "5. 电影马腾你别走定档",
+          "value": "363179 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E5%BD%B1%E9%A9%AC%E8%85%BE%E4%BD%A0%E5%88%AB%E8%B5%B0%E5%AE%9A%E6%A1%A3&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 363179",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The movie \"Ma Teng, Don't Go\" is scheduled for release..."
+          }
+        },
+        {
+          "title": "6. 华晨宇 欢迎同行来抄 [新]",
+          "value": "演出 352724 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E6%99%A8%E5%AE%87%20%E6%AC%A2%E8%BF%8E%E5%90%8C%E8%A1%8C%E6%9D%A5%E6%8A%84&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "演出 352724",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Hua Chenyu welcomes peers to copy..."
+          }
+        },
+        {
+          "title": "7. 神舟二十二号航天员乘组永远空缺",
+          "value": "349581 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%88%AA%E5%A4%A9%E5%91%98%E4%B9%98%E7%BB%84%E6%B0%B8%E8%BF%9C%E7%A9%BA%E7%BC%BA&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 349581",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Shenzhou-22 astronaut crew remains permanently vacant..."
+          }
+        },
+        {
+          "title": "8. 幼师等招聘可依法查询吸毒记录 [新]",
+          "value": "222520 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%BC%E5%B8%88%E7%AD%89%E6%8B%9B%E8%81%98%E5%8F%AF%E4%BE%9D%E6%B3%95%E6%9F%A5%E8%AF%A2%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 222520",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Preschool teacher recruitment can legally check drug..."
+          }
+        },
+        {
+          "title": "9. 长安二十四计",
+          "value": "剧集 212186 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 212186",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The Twenty-Four Strategies of Chang'an..."
+          }
+        },
+        {
+          "title": "10. A股商业航天概念股集体高开 [新]",
+          "value": "210880 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DA%E8%82%A1%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 210880",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "A-shares in commercial aerospace concept stocks opened..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-01T06:03:55+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "A-shares welcome a counterattack..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-25T11:01:41+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 日本机场挤满回国的中国人",
-          "value": "1527904 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E6%8C%A4%E6%BB%A1%E5%9B%9E%E5%9B%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1527904",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Japanese airports are crowded with Chinese returning home..."
-          }
-        },
-        {
-          "title": "2. 中国选手夺冠主办方到处借五星红旗",
-          "value": "1001168 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%A4%BA%E5%86%A0%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%88%B0%E5%A4%84%E5%80%9F%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1001168",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese athlete wins championship; organizers borrow..."
-          }
-        },
-        {
-          "title": "3. 中国力争在宇宙黑暗时代等实现突破",
-          "value": "954307 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%8A%9B%E4%BA%89%E5%9C%A8%E5%AE%87%E5%AE%99%E9%BB%91%E6%9A%97%E6%97%B6%E4%BB%A3%E7%AD%89%E5%AE%9E%E7%8E%B0%E7%AA%81%E7%A0%B4&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 954307",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China aims to achieve breakthroughs in the cosmic dark..."
-          }
-        },
-        {
-          "title": "4. 华为新品发布会 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Huawei new product launch event..."
-          }
-        },
-        {
-          "title": "5. 特朗普要求跟高市早苗通话",
-          "value": "918142 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E8%B7%9F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 918142",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Trump requests a call with Takashi Asami..."
-          }
-        },
-        {
-          "title": "6. Uzi排位 [官宣]",
-          "value": "585362 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DUzi%E6%8E%92%E4%BD%8D&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 585362",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Uzi ranked matches..."
-          }
-        },
-        {
-          "title": "7. 女装直播退货率80%以上",
-          "value": "390799 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E8%A3%85%E7%9B%B4%E6%92%AD%E9%80%80%E8%B4%A7%E7%8E%8780%25%E4%BB%A5%E4%B8%8A&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 390799",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Women's clothing live stream return rate over 80%..."
-          }
-        },
-        {
-          "title": "8. 高市早苗G20峰会上演外交灾难 [新]",
-          "value": "384746 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E6%BC%94%E5%A4%96%E4%BA%A4%E7%81%BE%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 384746",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Sanae Takasugi's diplomatic disaster at the G20 summit..."
-          }
-        },
-        {
-          "title": "9. 黄晓明晒成团第一张合照",
-          "value": "综艺 381609 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E6%88%90%E5%9B%A2%E7%AC%AC%E4%B8%80%E5%BC%A0%E5%90%88%E7%85%A7&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "综艺 381609",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Huang Xiaoming shares the first group photo..."
-          }
-        },
-        {
-          "title": "10. 李在明称朝韩随时可能爆发冲突",
-          "value": "356466 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E6%9C%9D%E9%9F%A9%E9%9A%8F%E6%97%B6%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 356466",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Lee Jae-myung warns of potential conflict between North..."
           }
         }
       ]
