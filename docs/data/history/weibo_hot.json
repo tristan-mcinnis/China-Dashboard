@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-03T14:01:46+08:00",
+  "generated_at": "2025-12-03T18:40:44+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-03T18:40:44+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 李刚受贿1.02亿余元",
+          "value": "1881510 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%88%9A%E5%8F%97%E8%B4%BF1.02%E4%BA%BF%E4%BD%99%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1881510",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Li Gang accepted over 102 million yuan in bribes..."
+          }
+        },
+        {
+          "title": "2. 朱雀三号任务一级回收失败",
+          "value": "1860362 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E4%BB%BB%E5%8A%A1%E4%B8%80%E7%BA%A7%E5%9B%9E%E6%94%B6%E5%A4%B1%E8%B4%A5&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1860362",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zhuque-3 mission's first stage recovery failed..."
+          }
+        },
+        {
+          "title": "3. 3个视角看文化出海",
+          "value": "1569916 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E4%B8%AA%E8%A7%86%E8%A7%92%E7%9C%8B%E6%96%87%E5%8C%96%E5%87%BA%E6%B5%B7&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1569916",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Three perspectives on cultural globalization..."
+          }
+        },
+        {
+          "title": "4. 特朗普点名日本 [新]",
+          "value": "1294502 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 1294502",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Trump names Japan..."
+          }
+        },
+        {
+          "title": "5. 工行存100万存20万利率相同",
+          "value": "1140328 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A5%E8%A1%8C%E5%AD%98100%E4%B8%87%E5%AD%9820%E4%B8%87%E5%88%A9%E7%8E%87%E7%9B%B8%E5%90%8C&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 1140328",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "ICBC deposits 1 million and 200,000 at the same interest..."
+          }
+        },
+        {
+          "title": "6. 双轨",
+          "value": "剧集 1074826 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%8C%E8%BD%A8&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 1074826",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Dual-track..."
+          }
+        },
+        {
+          "title": "7. 今日辟谣",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Today's rumors debunked..."
+          }
+        },
+        {
+          "title": "8. 张雪峰称已经深刻反省",
+          "value": "664307 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E5%B7%B2%E7%BB%8F%E6%B7%B1%E5%88%BB%E5%8F%8D%E7%9C%81&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 664307",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zhang Xuefeng claims to have deeply reflected..."
+          }
+        },
+        {
+          "title": "9. 石破茂反问还记得日本那时的结局吗",
+          "value": "252093 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%8F%8D%E9%97%AE%E8%BF%98%E8%AE%B0%E5%BE%97%E6%97%A5%E6%9C%AC%E9%82%A3%E6%97%B6%E7%9A%84%E7%BB%93%E5%B1%80%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 252093",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Shinzo Abe asked if you remember Japan's outcome back..."
+          }
+        },
+        {
+          "title": "10. 快船裁掉保罗 [沸]",
+          "value": "241529 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%AB%E8%88%B9%E8%A3%81%E6%8E%89%E4%BF%9D%E7%BD%97&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 241529",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Clippers cut Paul..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-03T14:01:46+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Crisp responds to Uzi's comeback rumors..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-27T18:39:02+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 高市再发涉台谬论",
-          "value": "1105739 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E5%86%8D%E5%8F%91%E6%B6%89%E5%8F%B0%E8%B0%AC%E8%AE%BA&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1105739",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Kaohsiung City reiterates fallacies regarding Taiwan..."
-          }
-        },
-        {
-          "title": "2. 中国如何打造出全球最高效太阳能 [新]",
-          "value": "1066651 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98%E6%95%88%E5%A4%AA%E9%98%B3%E8%83%BD&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1066651",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "How China creates the world's most efficient solar energy..."
-          }
-        },
-        {
-          "title": "3. 国新办新闻发布会",
-          "value": "967312 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 967312",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "State Council Information Office press conference..."
-          }
-        },
-        {
-          "title": "4. 夸克AI眼镜新品发布会 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Quark AI glasses new product launch event..."
-          }
-        },
-        {
-          "title": "5. 香港起火大楼内发现生还者",
-          "value": "938815 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 938815",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Survivors found in fire-hit building in Hong Kong..."
-          }
-        },
-        {
-          "title": "6. 杨瀚森错失奖金 [官宣]",
-          "value": "819929 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%94%99%E5%A4%B1%E5%A5%96%E9%87%91&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 819929",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Yang Hansen missed out on the prize..."
-          }
-        },
-        {
-          "title": "7. 大熊猫高高去世",
-          "value": "803329 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%AB%98%E9%AB%98%E5%8E%BB%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 803329",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Giant panda Gao Gao has passed away..."
-          }
-        },
-        {
-          "title": "8. 这竟然是孙千予 [热]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E7%AB%9F%E7%84%B6%E6%98%AF%E5%AD%99%E5%8D%83%E4%BA%88&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "This is actually Sun Qianyu..."
-          }
-        },
-        {
-          "title": "9. 香港起火大楼已无大面积明火",
-          "value": "786646 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%B7%B2%E6%97%A0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%98%8E%E7%81%AB&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 786646",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The fire in the building in Hong Kong has no large flames..."
-          }
-        },
-        {
-          "title": "10. 香港火灾已有55人遇难 [新]",
-          "value": "732533 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E6%9C%8955%E4%BA%BA%E9%81%87%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 732533",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "55 people have died in the Hong Kong fire..."
           }
         }
       ]
