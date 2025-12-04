@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-04T18:40:15+08:00",
+  "generated_at": "2025-12-04T22:09:13+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-04T22:09:13+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 狙击蝴蝶",
+          "value": "剧集 1098401 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1098401",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Sniping the butterfly..."
+          }
+        },
+        {
+          "title": "2. 周鸿祎称豆包手机冲垮大厂护城河",
+          "value": "764543 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%86%B2%E5%9E%AE%E5%A4%A7%E5%8E%82%E6%8A%A4%E5%9F%8E%E6%B2%B3&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 764543",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zhou Hongyi says Doubao phone breaks big tech's defenses..."
+          }
+        },
+        {
+          "title": "3. 2025国家宪法日",
+          "value": "588236 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%9B%BD%E5%AE%B6%E5%AE%AA%E6%B3%95%E6%97%A5&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 588236",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "National Constitution Day 2025..."
+          }
+        },
+        {
+          "title": "4. 成都大悦城10周年庆",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E9%83%BD%E5%A4%A7%E6%82%A6%E5%9F%8E10%E5%91%A8%E5%B9%B4%E5%BA%86&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chengdu Joy City 10th Anniversary Celebration..."
+          }
+        },
+        {
+          "title": "5. 每个孩子带3斤五花肉去幼儿园",
+          "value": "580571 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%8F%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%B8%A63%E6%96%A4%E4%BA%94%E8%8A%B1%E8%82%89%E5%8E%BB%E5%B9%BC%E5%84%BF%E5%9B%AD&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 580571",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Each child brings 3 pounds of pork belly to kindergarten..."
+          }
+        },
+        {
+          "title": "6. 24岁女生咳嗽不止查出肺癌 [荐]",
+          "value": "491310 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D24%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%B3%E5%97%BD%E4%B8%8D%E6%AD%A2%E6%9F%A5%E5%87%BA%E8%82%BA%E7%99%8C&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 491310",
+            "tag": "荐",
+            "api_source": "tianapi",
+            "translation": "24-year-old woman with persistent cough diagnosed with..."
+          }
+        },
+        {
+          "title": "7. 一只大闸蟹引发美国一州恐慌",
+          "value": "406638 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E5%BC%95%E5%8F%91%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%B7%9E%E6%81%90%E6%85%8C&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 406638",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A giant crab triggers panic in a U.S. state..."
+          }
+        },
+        {
+          "title": "8. 王楚钦林诗栋1比0勒布伦兄弟",
+          "value": "392701 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8B1%E6%AF%940%E5%8B%92%E5%B8%83%E4%BC%A6%E5%85%84%E5%BC%9F&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 392701",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Chuqin and Lin Shidong beat Lebrun brothers 1-0..."
+          }
+        },
+        {
+          "title": "9. 王楚钦孙颖莎vsA勒布伦袁嘉楠",
+          "value": "378687 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8EvsA%E5%8B%92%E5%B8%83%E4%BC%A6%E8%A2%81%E5%98%89%E6%A5%A0&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 378687",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Wang Chuqin/Sun Yingsha vs A. Lebrun/Yuan Jianan..."
+          }
+        },
+        {
+          "title": "10. 中国破解盾构机江底对接世界难题 [沸]",
+          "value": "373741 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%A0%B4%E8%A7%A3%E7%9B%BE%E6%9E%84%E6%9C%BA%E6%B1%9F%E5%BA%95%E5%AF%B9%E6%8E%A5%E4%B8%96%E7%95%8C%E9%9A%BE%E9%A2%98&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 373741",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "China solves the world's challenge of underwater shield..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-04T18:40:15+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Hong Kong will lower the flag in mourning..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-28T22:08:18+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 香港大埔火灾已致128人遇难",
-          "value": "5502643 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 5502643",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The Tai Po fire in Hong Kong has claimed 128 lives..."
-          }
-        },
-        {
-          "title": "2. 中国男篮vs韩国男篮",
-          "value": "472756 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 472756",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China Men's Basketball Team vs South Korea Men's..."
-          }
-        },
-        {
-          "title": "3. 12月这些新规影响你我",
-          "value": "362783 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D12%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 362783",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "New regulations in December affect us all..."
-          }
-        },
-        {
-          "title": "4. 华为Mate80系列今日开售",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BAMate80%E7%B3%BB%E5%88%97%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Huawei Mate 80 series goes on sale today..."
-          }
-        },
-        {
-          "title": "5. 疯狂动物城",
-          "value": "电影 346621 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "电影 346621",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Zootopia"
-          }
-        },
-        {
-          "title": "6. 香港廉政公署先后拘捕8人 [上新]",
-          "value": "344648 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%85%88%E5%90%8E%E6%8B%98%E6%8D%958%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 344648",
-            "tag": "上新",
-            "api_source": "tianapi",
-            "translation": "Hong Kong's ICAC has arrested 8 people."
-          }
-        },
-        {
-          "title": "7. 香港将下半旗志哀",
-          "value": "309545 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%B0%86%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 309545",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Hong Kong will lower the flag in mourning..."
-          }
-        },
-        {
-          "title": "8. 无人车吵架为AI合成配音",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A0%E4%BA%BA%E8%BD%A6%E5%90%B5%E6%9E%B6%E4%B8%BAAI%E5%90%88%E6%88%90%E9%85%8D%E9%9F%B3&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Self-driving cars argue with AI-generated voices..."
-          }
-        },
-        {
-          "title": "9. 中国男篮主场不敌韩国男篮",
-          "value": "309516 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 309516",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China's men's basketball team lost to South Korea at home..."
-          }
-        },
-        {
-          "title": "10. 圆明园兽首出来那一刻人麻了 [新]",
-          "value": "309423 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%86%E6%98%8E%E5%9B%AD%E5%85%BD%E9%A6%96%E5%87%BA%E6%9D%A5%E9%82%A3%E4%B8%80%E5%88%BB%E4%BA%BA%E9%BA%BB%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 309423",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The moment the Yuanmingyuan beast head appeared, people..."
           }
         }
       ]
