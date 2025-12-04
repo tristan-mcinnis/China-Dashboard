@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-04T14:02:02+08:00",
+  "generated_at": "2025-12-04T18:40:15+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-04T18:40:15+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 豆包手机",
+          "value": "1095861 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1095861",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Doubao phone..."
+          }
+        },
+        {
+          "title": "2. 新疆地震 [沸]",
+          "value": "463416 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 463416",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Earthquake in Xinjiang..."
+          }
+        },
+        {
+          "title": "3. 新质福建万千气象",
+          "value": "431100 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E8%B4%A8%E7%A6%8F%E5%BB%BA%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 431100",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A new era of diverse vitality in Fujian..."
+          }
+        },
+        {
+          "title": "4. 罗大美生前外借200多万无人主动归还 [新]",
+          "value": "400180 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%97%E5%A4%A7%E7%BE%8E%E7%94%9F%E5%89%8D%E5%A4%96%E5%80%9F200%E5%A4%9A%E4%B8%87%E6%97%A0%E4%BA%BA%E4%B8%BB%E5%8A%A8%E5%BD%92%E8%BF%98&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 400180",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Over 2 million borrowed by Luo Damei remains unreturned..."
+          }
+        },
+        {
+          "title": "5. 24岁女生咳嗽不止查出肺癌",
+          "value": "377751 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D24%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%B3%E5%97%BD%E4%B8%8D%E6%AD%A2%E6%9F%A5%E5%87%BA%E8%82%BA%E7%99%8C&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 377751",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "24-year-old woman with persistent cough diagnosed with..."
+          }
+        },
+        {
+          "title": "6. 2025尖叫之夜全阵容名单 [新]",
+          "value": "晚会 323053 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%E5%90%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "晚会 323053",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "2025 Scream Night full lineup announced..."
+          }
+        },
+        {
+          "title": "7. 爱泼斯坦萝莉岛豪宅内挂诡异面具",
+          "value": "310144 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%90%9D%E8%8E%89%E5%B2%9B%E8%B1%AA%E5%AE%85%E5%86%85%E6%8C%82%E8%AF%A1%E5%BC%82%E9%9D%A2%E5%85%B7&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 310144",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Epstein's Lolita Island mansion features eerie masks..."
+          }
+        },
+        {
+          "title": "8. 王楚钦孙颖莎vsA勒布伦袁嘉楠 [沸]",
+          "value": "231906 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8EvsA%E5%8B%92%E5%B8%83%E4%BC%A6%E8%A2%81%E5%98%89%E6%A5%A0&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 231906",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Wang Chuqin/Sun Yingsha vs. A. Lebrun/Yuan Jianan..."
+          }
+        },
+        {
+          "title": "9. 本轮寒潮收尾",
+          "value": "228907 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%AC%E8%BD%AE%E5%AF%92%E6%BD%AE%E6%94%B6%E5%B0%BE&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 228907",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "This round of cold wave is coming to an end..."
+          }
+        },
+        {
+          "title": "10. 乐视网负债238亿拟花1.8亿炒股 [新]",
+          "value": "226591 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%90%E8%A7%86%E7%BD%91%E8%B4%9F%E5%80%BA238%E4%BA%BF%E6%8B%9F%E8%8A%B11.8%E4%BA%BF%E7%82%92%E8%82%A1&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 226591",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "LeEco plans to invest 180 million in stocks despite 23.8..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-04T14:02:02+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "The moment the Yuanmingyuan beast head appeared, people..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-28T18:38:49+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 香港大埔火灾已致128人遇难",
-          "value": "7701735 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 7701735",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The Tai Po fire in Hong Kong has claimed 128 lives..."
-          }
-        },
-        {
-          "title": "2. 我国科研团队打破稀土材料瓶颈 [新]",
-          "value": "4951390 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E6%89%93%E7%A0%B4%E7%A8%80%E5%9C%9F%E6%9D%90%E6%96%99%E7%93%B6%E9%A2%88&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 4951390",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Our research team has broken the bottleneck in rare..."
-          }
-        },
-        {
-          "title": "3. 12月这些新规影响你我",
-          "value": "2937008 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D12%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 2937008",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "New regulations in December affect us all..."
-          }
-        },
-        {
-          "title": "4. 华为双表王开售",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E5%8F%8C%E8%A1%A8%E7%8E%8B%E5%BC%80%E5%94%AE&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Huawei's dual smartwatch is now on sale..."
-          }
-        },
-        {
-          "title": "5. 逍遥散人取消出席逆水寒赛事",
-          "value": "2175491 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%8D%E9%81%A5%E6%95%A3%E4%BA%BA%E5%8F%96%E6%B6%88%E5%87%BA%E5%B8%AD%E9%80%86%E6%B0%B4%E5%AF%92%E8%B5%9B%E4%BA%8B&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 2175491",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Xiaoyao Sanren cancels attendance at the Nishuihan event..."
-          }
-        },
-        {
-          "title": "6. 夸克AI眼镜持续霸榜第一 [大卖]",
-          "value": "988667 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 988667",
-            "tag": "大卖",
-            "api_source": "tianapi",
-            "translation": "Quark AI glasses continue to top the charts..."
-          }
-        },
-        {
-          "title": "7. 对大埔火灾每名遇难者家属发20万港元",
-          "value": "410418 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AF%B9%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 410418",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Each victim's family in the Tai Po fire will receive..."
-          }
-        },
-        {
-          "title": "8. 盗摄 [新]",
-          "value": "电影 409265 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%97%E6%91%84&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "电影 409265",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Secret filming..."
-          }
-        },
-        {
-          "title": "9. 香港大埔火灾约200人情况未明",
-          "value": "405538 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E7%BA%A6200%E4%BA%BA%E6%83%85%E5%86%B5%E6%9C%AA%E6%98%8E&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 405538",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Tai Po fire in Hong Kong leaves about 200 people..."
-          }
-        },
-        {
-          "title": "10. 疯片盗摄城",
-          "value": "电影 401011 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%96%AF%E7%89%87%E7%9B%97%E6%91%84%E5%9F%8E&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "电影 401011",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Crazy film piracy city..."
           }
         }
       ]
