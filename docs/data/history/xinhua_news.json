@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-12-04T11:03:32+08:00",
+  "generated_at": "2025-12-04T14:02:33+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-04T14:02:33+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息｜习近平举行仪式欢迎法国总统马克龙访华",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPemZtUWFiVjMxSFZDaEQ4RkZkczA4NF9LcTA1Ny02THB1UFMxbGVVaTM3UVhjbEoxUElrM0d0RllQU3NWSFlpUHhRcGxIVlZ4Q1lfNjlFaDFpdGpTY1VQV21NR0lmMWQ2R0Z0VV9XbW1wdUs0aERMbXd4MXc5UThRcXowMWZmWE9aVkRGNkRXR2RhY0VT?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-03T18:53:30Z",
+            "summary": "新华社消息｜习近平举行仪式欢迎法国总统马克龙访华 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xi Jinping holds ceremony to welcome French President..."
+          }
+        },
+        {
+          "title": "新华社权威快报丨习近平同法国总统马克龙会谈",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUUyTlBkckR2OGx2ZWpqSnpyR0habnV4b1BFQkJkMHlHZGcxYm01WDZndUcxcXpNTjJyQ2NBOWpFLW0zNmhtdDRwMlh4ZTZuQ2l2dVVsdEtRZTlzeXEybk1ueXZVeG5lTkkwa1Byb2lYS0hRMmxmM085dnBrTm4xQ2lkU05SOFoxN2NnMFJ4YWpFWDVO?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-03T18:03:03Z",
+            "summary": "新华社权威快报丨习近平同法国总统马克龙会谈 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua News: Xi Jinping talks with French President..."
+          }
+        },
+        {
+          "title": "云南梅里雪山“日照金山”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObFhfRVRtc2xZZHFLbEtuQzh1U2oxa3dqVEFDQlQ5dXRMRU5fV2xDbDgydnlGSnNSLUNlZGhzSWlxYnNsYjI4Mmwwb1M2U2NJZWJ1OEdlV2pQd1RVMHVvdzF5aDUxa3ZSeTBFcko1c3QwZ1JMU3dfYXE1MjlfbERNbnVUbGx0QQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-03T08:10:03Z",
+            "summary": "云南梅里雪山“日照金山” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Yunnan Meili Snow Mountain's \"Golden Mountain at Sunrise\"..."
+          }
+        },
+        {
+          "title": "邹士年：科技创新与产业创新融合 新兴产业发展壮大",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT1YxRmItNGM5OEVUdWNWSG5oR3VMNXVNdm9LUjlZY3hUQVpRMzJDTFdOcDFWWDhQZV85YS03YjQyUHA2MF9QWVBTRVh4elNnenBVMHluY0ZuX0s2NDJ0T2xNT1Q1M3pFb2ZIaTU1RzBsbk5WWHZhNXdxQ1dCelJiY21KeFVhUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-03T19:11:02Z",
+            "summary": "邹士年：科技创新与产业创新融合 新兴产业发展壮大 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zou Shinian: Integrating tech and industry innovation..."
+          }
+        },
+        {
+          "title": "文旅与民航业融合发展行动方案落地",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tZlRfRGl2dGxoTnZTZVJnQkZ6cWxwYTVTdW1HVkRxZXRGTzI2REkzNnYtcXRkZ0VTUWIya3l3YzY2SHUzY1ZYWkFzeldZSWU4YkR5OGcybmFwaUd2NzRnQkVDbEhuWV9rbGVNb0hGVU8xbGVzWWR0UGFNamx2Zw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-03T18:05:56Z",
+            "summary": "文旅与民航业融合发展行动方案落地 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Implementation of the integration plan for culture,..."
+          }
+        },
+        {
+          "title": "促进文旅与民航业融合发展！两部门印发行动方案",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aOEtTVGVQZVptd1FUOFlPS2ZqMTV0SHZUaEtxSExSM2hxVnJTQTBSNXNPYkQzaUE1QkxqRGpHeEtTMVFSU0Q5MnUzb1JGekJrQTZUY20za3NmcUZOdjJVaEJWTUJyZ2thZzVGY3pKeFZaMjluT1k4SjlyQXVtZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-02T23:47:15Z",
+            "summary": "促进文旅与民航业融合发展！两部门印发行动方案 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Promote the integration of culture, tourism, and civil..."
+          }
+        },
+        {
+          "title": "澳大利亚第三季度经济环比增长0.4%",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZkR2SlBqNTFtQXh0bktYeFpkUHRISlBsRFRxSTVRUDNsRm9ZOW5QUkVQNHowem1hY09yNUxoZ3kycjFBUmhRRTFlU0VGNTJfc3JNNlBDVnU4RU10V0x1b1FvSkpDVHlrUXlXOGtBNUxiOHNDRFozU2Z1MFNEZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-02T23:32:14Z",
+            "summary": "澳大利亚第三季度经济环比增长0.4% 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Australia's economy grew 0.4% quarter-on-quarter in Q3..."
+          }
+        },
+        {
+          "title": "中足联公布多项新政：俱乐部签署“阴阳合同”将被罚降级",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGczd0VETGZ1QXB5QUNQRm5fX2E0OWx6ZjBHUDFGWHdfMkRQcHo2d1hDZTBrdUh0dXgwZ1VaWTNmcjcyUDM2bVBWRUs5ODJEdXFzSUxGS2lIRVdEQkF4dTUyanM5ay1XTFprZldFcXA2WGFMdlVoMjkxODN6c1hZNG9LOVYzRnc?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-03T01:28:18Z",
+            "summary": "中足联公布多项新政：俱乐部签署“阴阳合同”将被罚降级 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chinese Football Association announces penalties for..."
+          }
+        },
+        {
+          "title": "总重5万吨 京台高速齐济段改扩建项目跨京沪铁路立交桥成功转体",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zWi05ZllvQ0xwYlZXd1FBd20wd212ODRhN0NKR0RDNXY1WHltQ2lpcVYyQWo4VVExVEJVTi1QZ1lwZUpFdVdaYWdGLTRGRC00VjN4dGNqbmpkNHA4NVVLQllYMThTYlc2ZTlWSlIzb0FpcHAxUUlLTUFIdmtHZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-03T01:25:03Z",
+            "summary": "总重5万吨 京台高速齐济段改扩建项目跨京沪铁路立交桥成功转体 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 50,000-ton bridge for the Jing-Tai Expressway..."
+          }
+        },
+        {
+          "title": "四中全会精神在基层丨花湖一夜",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QUEVoRThWVWxBTEpwckhxUVVuU0pVR0luSTdQYXhmenM3MkYyVElsbnhXTkVEbDVZMnlZLVNaa3cwR2dhTTdYR2d6SG83S0pyQWZGU1VyYVRCdVpCU1duaGNkNU5KR0xiamdiNGtJRS1iMkNBcnBuVmdlaEZMdw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-03T04:14:47Z",
+            "summary": "四中全会精神在基层丨花湖一夜 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The spirit of the Fourth Plenary Session at the..."
+          }
+        },
+        {
+          "title": "河南省教育国际交流协会年会暨第三届中部地区教育对外开放高质量发展交流会成功举办",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd25hcmNiV0JlcWQ3MnE1MUNIQVFLZXRONU9IbC02WTEwME5GLWhFeTdWV3VhS19ZcG1FaklZVncxWGRSbWhneHhtVGZoSGJhdU12QjhfaDM2ZmtBRjA5aFQyYS1kd3ZoVFVqODVsQjd0Wmg2NE90UGlhUGdQTTdUSWFtVQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-03T16:30:22Z",
+            "summary": "河南省教育国际交流协会年会暨第三届中部地区教育对外开放高质量发展交流会成功举办 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The annual meeting of the Henan Education International..."
+          }
+        },
+        {
+          "title": "海岛新程｜封关准备就绪 高水平开放门户即将迈入新阶段",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWm9sWjVSNUhhYjVCWHNvWV9yU0hNQmhrazFiUWF0OUN0OXR5eEh0OXlHSDN1bXA4QVc5eVlzc0hHY3hCZFFXMVJuSHN0Ymt1VVgxczQ5VnJMeTJfeVlhbzJBLUtLaGZ5Njl6LVVhZ2dEVE51Z2NCR0d6Y3RTYmd2TzMtU0xXWEFq?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-03T00:01:32Z",
+            "summary": "海岛新程｜封关准备就绪 高水平开放门户即将迈入新阶段 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Island's new journey: Customs ready, high-level openness..."
+          }
+        },
+        {
+          "title": "新华述评·2025中国经济回眸丨护航经济运行激发发展潜能——更加积极有为的宏观政策发力显效",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnFjMTk4Z0lfWExaVl9ia25RcnVVN3FWMFFYTHhYN3FPaUNVTGVQSkdjSFNuM1k5QWt2MnFuc2pEQ0VUaUt0bG52d2pCWmVRVFhFbld5ZTdwdktvV1VzblhoUTZpNXBpZ2hrLUtWdVVVYThHdnROa2gyWnA3SmdUZi00azFXTXpm?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-03T05:41:17Z",
+            "summary": "新华述评·2025中国经济回眸丨护航经济运行激发发展潜能——更加积极有为的宏观政策发力显效 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Reviewing China's economy in 2025: proactive policies..."
+          }
+        },
+        {
+          "title": "声称当时“开会去了” 美防长否认下令攻击“运毒船”生还者",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oeWRkaERhZ1oyUExDTEFjZDBUTVNyZ1FITmY2b29JeUN0bGNENXJ1d3JEdk5GYURzRS1DNlNoYlAzUXBpR3h0QzlaenM4cDRnaUx2MzFRcUlYc0NZU25sSDhtZHQ2MFF6U00yalBGQXVWWTBHVkFkSDVFQ1RKdw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-03T00:12:45Z",
+            "summary": "声称当时“开会去了” 美防长否认下令攻击“运毒船”生还者 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "US Defense Secretary denies ordering attack on drug boat..."
+          }
+        },
+        {
+          "title": "邹士年：科技创新与产业创新融合 新兴产业发展壮大",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT1YxRmItNGM5OEVUdWNWSG5oR3VMNXVNdm9LUjlZY3hUQVpRMzJDTFdOcDFWWDhQZV85YS03YjQyUHA2MF9QWVBTRVh4elNnenBVMHluY0ZuX0s2NDJ0T2xNT1Q1M3pFb2ZIaTU1RzBsbk5WWHZhNXdxQ1dCelJiY21KeFVhUQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-03T19:11:02Z",
+            "summary": "邹士年：科技创新与产业创新融合 新兴产业发展壮大 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zou Shinian: Integrating tech and industry innovation..."
+          }
+        },
+        {
+          "title": "翟美卿：科技、艺术、健康三者融合才是有温度的智慧生活",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcU4xcVNoYnI1MndXVkNUdW1FS1JTdW1NVERHSUdvaVV3WTlqWW9aS2cyRW9UazA2SnhJZVRXdjJ2eDVJUy1lLTVXbkx5OGtXc2RsZzVXNC16Q0tfbDczVTE3aWZ0dG9PRkp5QU43UDNoTGNRQ2h3c2dueHViZmk0XzFLb2VxUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-03T04:08:07Z",
+            "summary": "翟美卿：科技、艺术、健康三者融合才是有温度的智慧生活 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zhai Meiqing: The fusion of tech, art, and health..."
+          }
+        },
+        {
+          "title": "尹震铎：以科技赋能居住温度 从“好房子”迈向“好生活”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZkNvSExRNDZMNUlqMGppV3NpYVJBMy1TaDhEa3Z2MGFRMnlqRzZRSGhlZFJndlZtNnE5aHpDY1c0VHFEcldxS1FuUTZHZUU4NnUybTYweTkyLTJxQnhJUlVlYUxuVEN6RndIWUxUbFJHS2x3a2Z6MkMwZUFvM2xoRFppUnJoUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-03T17:48:21Z",
+            "summary": "尹震铎：以科技赋能居住温度 从“好房子”迈向“好生活” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Yin Zhenduo: Empowering living quality with technology..."
+          }
+        },
+        {
+          "title": "邹士年：科技创新与产业创新融合 新兴产业发展壮大",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT1YxRmItNGM5OEVUdWNWSG5oR3VMNXVNdm9LUjlZY3hUQVpRMzJDTFdOcDFWWDhQZV85YS03YjQyUHA2MF9QWVBTRVh4elNnenBVMHluY0ZuX0s2NDJ0T2xNT1Q1M3pFb2ZIaTU1RzBsbk5WWHZhNXdxQ1dCelJiY21KeFVhUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-03T19:11:02Z",
+            "summary": "邹士年：科技创新与产业创新融合 新兴产业发展壮大 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zou Shinian: Integrating tech and industry innovation..."
+          }
+        },
+        {
+          "title": "翟美卿：未来生活是科技、人文、艺术与生态的温暖融合",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQazhfMXJ1c3NLMWJuZWN2NXhfRzUwb2lsX0VZSTk5S2RpTEN1TmVWVEZHVjVubVc2d0Y2NlN4VHUteXVTdFRlN2RpNU8xVFVGVzMzQzFoRXFWTEs1WFJ3NFEyNVVmai1vWmlOVHg0X3VTVmNhNnNXdTlqMTgyRndjNFJqWlhUQQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-03T02:26:04Z",
+            "summary": "翟美卿：未来生活是科技、人文、艺术与生态的温暖融合 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Zhai Meiqing: Future life is a warm blend of tech,..."
+          }
+        },
+        {
+          "title": "俄专家：国际热核聚变实验堆是国际科技合作范例",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zZ05NNzdKRlZOR0FEamhhX1Q4dFZLLU4teVUwVEpDZFBoTWg2bmNLRHJsZjZwREJvNmhQVk04Zy00eU1DaGtoZ3N0akpLNnFuc3c3bVc0UlYxZktUYzRJeXdOU2VlLTFrSnVGTkZocVZHWC10eVJtR0FnUy1xUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-03T02:33:37Z",
+            "summary": "俄专家：国际热核聚变实验堆是国际科技合作范例 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Russian expert: International fusion reactor is a model..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-04T11:03:32+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7647,272 +7913,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "Guidelines for AI-empowered new productive forces..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-28T14:02:22+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "新华社消息丨《习近平外交思想学习纲要（2025年版）》出版发行",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkM0cFdfLWxZMEl5Q0t5NnpRanhiNERhYzhGTVF4T1REbVJUcEFISldCMFEyZVVYX29xUkp1OVRKWGx0RS1iWndoaXJDdmI0ZzRzRzd1VUdyNEhGUlEyRFlxb1huWVFWekhIVmVXRXhDS1Roc1p0eHNWZHZCY2dub1dTUlFqX0RaajBSOWo0Tmp4MDlf?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-27T19:29:36Z",
-            "summary": "新华社消息丨《习近平外交思想学习纲要（2025年版）》出版发行 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua reports: \"Xi Jinping's Diplomatic Thought Study..."
-          }
-        },
-        {
-          "title": "印尼苏门答腊岛遭遇洪灾和山体滑坡",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWHM3YVBHcGVRSFJUOTJFbGJmT0pBMlJfV0ZvLW5CUFZvdmdrd0Z5TGR3WThZN2JfUG5PRHllbzZ4UV8xc0x2aU9fTVVaMmNEaVJhbUZBTGw3dlNDWVFtUGF6R1JENGt1RXpCSWgtOG1SN1hNMlRacDN5dHdOX0tNeHBVbUpWZw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-27T06:24:29Z",
-            "summary": "印尼苏门答腊岛遭遇洪灾和山体滑坡 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Sumatra, Indonesia faces floods and landslides..."
-          }
-        },
-        {
-          "title": "我国首次繁育出子三代中华鲟",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTYXZyaUVPTkpfS1EtTnZhVElYSDFkMmpuOFlXRkRtV1dWaVM1VXRGT0ZxajN6b243MC1UeFJsM09YbXFtQ2psT1cwc3Uyb241ZE5qZjc0VW1RWWNFVVhWZ2s3R2ZVSHJPSlRtZzdNNFlLMTNFUHVSY3lMZGVRQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-27T06:44:58Z",
-            "summary": "我国首次繁育出子三代中华鲟 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China has successfully bred the third generation of..."
-          }
-        },
-        {
-          "title": "从野蛮生长转向高质量发展之路 微短剧行业正迎来“厂牌时代”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRC05dkNsZDFuUlRoSkozaG5tSWVYZnc3RFJEUURQMk5vMHJVSEFXRUZBWk4xUkhqTnJLQkhVN2ZzYjdxcFhNWnpzZDE3VlBtY3BjMTR0VHlfZDUzTjBsTEpjWVVUWWd3ZzAxdjZMVjhVTG9XVlFxanhFNjNuWGd0TlJMYw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-27T19:11:21Z",
-            "summary": "从野蛮生长转向高质量发展之路 微短剧行业正迎来“厂牌时代” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The micro-drama industry shifts to a \"brand era\" for..."
-          }
-        },
-        {
-          "title": "中国男篮公布世预赛名单 延续亚洲杯主要阵容",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWVJb1N5UGFJU3ZzanhOQTl1ZFl3OHNKVEhlWDc1eThDYkZYbGdVNVhlZ25pLXF3SGlaVVRFdno1RnFxZnpCZ243UndnZXZSZVotaURMc0daRTU1V09PVjhlREhyYktLM3RXQk1YR21PV3Fwc1ZQLXNRWjl5aFEyOFhnVWNoN1k?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-11-27T06:58:10Z",
-            "summary": "中国男篮公布世预赛名单 延续亚洲杯主要阵容 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China's men's basketball team announces roster for World..."
-          }
-        },
-        {
-          "title": "中国经济样本观察·企业样本篇丨海博思创：为存储绿色能源打造“超大充电宝”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSG9FWGdLWXhqN3lyS3pTMC1LZkdZdHpLU185cUVPeGt6SWJkUnRnN3VVTU5udXVpTGZsdXJQUXlxWW15NHEzMzNQeEl5RnNTUUNFdFJRaHM0S04yWkdaRTlwUzFsZ3JQZ3N4OERpSHBqbGJ6azFIZHA4eUxxRFFKTW0wY3JsdElz?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-27T00:30:50Z",
-            "summary": "中国经济样本观察·企业样本篇丨海博思创：为存储绿色能源打造“超大充电宝” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China's Economic Sample: Haibosichuang's \"super power..."
-          }
-        },
-        {
-          "title": "《中东国家的发展与现代化：沙特、伊朗案例研究》出版发行",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2d5RzB5TDJvTTB5dXhRZl9CT3NzN2N1NUFyaWhPYTF2dllUT0NRTWJXcjVHRFZ1cG9ZNktEX0p6NEhrSWRzNGtYMXlaYW5ScExCR2FXTThiM0hBNEFHRzZWTHJNeHVEVWhJVEE3Q0ZFRU51Z3VZTmtiSXIwU2FIUDd4SEtSZEZ2?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-27T00:38:36Z",
-            "summary": "《中东国家的发展与现代化：沙特、伊朗案例研究》出版发行 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"Development and Modernization in Middle Eastern..."
-          }
-        },
-        {
-          "title": "财经深一度丨广期所再迎新！铂、钯“新成员”正式登场",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUNHVGNtNUUySGxoMzZOY21OeVcxdkwydEhvSlpFRHNyMXlqdXVUQ1l1SFBkUnZDN25jdks5U1FhRmxjV2I3Q016dG13d18xX0pIYm95anBGMUxTcWtRSUh4X1Atc3M3YW1kSGk0cGJKQ2NJc3hDSXJiOEx1Q2JFdkw4WGRzOHJz?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-26T23:40:39Z",
-            "summary": "财经深一度丨广期所再迎新！铂、钯“新成员”正式登场 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Financial Insights: New members platinum and palladium..."
-          }
-        },
-        {
-          "title": "中央民族大学与中国人民大学签署战略合作协议",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajFOZUpHeThCR3lhcWhWYVBueDRVUzU2a3dRQlgzbUF5SWJkQzVxUW9ZRV9oV3NaRnJzZW9NaUQ1Wnl2UkREZTdvN2dkY1V2ZFFJeXM3Ymo5MzhvbHJ3RC1FdzQwVU5rS0lsUG8yZjBDbmVsbEEtVXdMajRZRnlJc3VyUQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-27T21:17:58Z",
-            "summary": "中央民族大学与中国人民大学签署战略合作协议 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Central University for Nationalities signs strategic..."
-          }
-        },
-        {
-          "title": "中国经济样本观察·县域样本篇丨72小时定制羽绒服可交付！这座江苏小城如何引领国际时尚",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHczRHNIQjZrRHp3Y2RoV0FmN0doaWpQdWJ1NWpfejAtZ2Z6TXlsV1I2ckxCamw3OU5YSXdpWkhYZ0JmNjY5WXlBdEd6NjRwbF9NdXNQdFI3dnQ2aHYyeHMtZWR4RWNSTTgxc2lqMEtRUElaWExyNTVDd2NNSTl6R3FuRFZqRnAw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-11-27T01:10:41Z",
-            "summary": "中国经济样本观察·县域样本篇丨72小时定制羽绒服可交付！这座江苏小城如何引领国际时尚 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China's economic sample: How a small Jiangsu city leads..."
-          }
-        },
-        {
-          "title": "首都经济贸易大学成立美育实践基地联盟 聚力构建财经特色美育协同体系",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSm5RWTRwMllYRHZ1N25oam5McXl2RGRMLUpOTWdlTl9xQy13ano5M1NtWEJfanNfc0g0QW85UlZSaFV6QWVOUzVOM1RPMGcyMHdVaUQzUUhyNEE0TEpQZUZnOVRCUThqSFNSY3hUbE16bUtGbXJxZ2YxcTQ5LTFnOUQzeDdEUQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-27T02:17:08Z",
-            "summary": "首都经济贸易大学成立美育实践基地联盟 聚力构建财经特色美育协同体系 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Capital University of Economics and Trade establishes an..."
-          }
-        },
-        {
-          "title": "财经深一度丨广期所再迎新！铂、钯“新成员”正式登场",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUNHVGNtNUUySGxoMzZOY21OeVcxdkwydEhvSlpFRHNyMXlqdXVUQ1l1SFBkUnZDN25jdks5U1FhRmxjV2I3Q016dG13d18xX0pIYm95anBGMUxTcWtRSUh4X1Atc3M3YW1kSGk0cGJKQ2NJc3hDSXJiOEx1Q2JFdkw4WGRzOHJz?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-26T23:40:39Z",
-            "summary": "财经深一度丨广期所再迎新！铂、钯“新成员”正式登场 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Financial Insights: New members platinum and palladium..."
-          }
-        },
-        {
-          "title": "“沪上扬帆·才聚泉州”泉州招才引智上海现场推介活动举办",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUV9BUFJtNjZRR0JHN3h4c29hcDRCS1hLb01lVGRJejJCdjNNNVREanc3M2taOVRUWXNDRld0QVI4VElBRVVzd3RYMHVqSFNJNzU4VjNfQXBuSXVHVkJWejlTbzVZem92cE1fRnhlR2hhT0pYQXllRW1idU9kOVJzVUpMalk3Ujdj?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-26T22:31:59Z",
-            "summary": "“沪上扬帆·才聚泉州”泉州招才引智上海现场推介活动举办 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"Setting Sail in Shanghai: Quanzhou Talent Recruitment..."
-          }
-        },
-        {
-          "title": "2025年医疗器械市场规模预计达1.22万亿元",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXdQS0JVVWNHQy1zUFV5NUJWVl8wUGlOcG0wZFNuNXhySWJaU0tWVHAxMzYyUTdZOEJoMC13V3JZOXpsbWVpMTdaaEIzTFEtUmViZmtDNWdEeTdDNGxvQjNHSnE2QXA4WHMxU1gtMU9QRGNEMXFFTEFIVjlaTWMtc3VPM0YwZ3R5?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-26T22:32:34Z",
-            "summary": "2025年医疗器械市场规模预计达1.22万亿元 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The medical device market is expected to reach 1.22..."
-          }
-        },
-        {
-          "title": "中国光彩事业促进会第七次会员代表大会在京召开 爱尔眼科董事长陈邦当选副会长",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkk1b09kMUxGU2R2OUdFSmJTN2c1SlhrOU04M0dNNk1ZWHB5Q0lkMVhwbWRJMlE3Y0VNS3dtOEw3amJtbzF3TzY4a092VVEtempDdU9KVGx0VDBTMzZpMk9oVTJDTWpnbUdNT1hhZkswR2VWa2hIY3d3UEtwb0hKa1JoOVVNZ3FZ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-11-27T18:29:57Z",
-            "summary": "中国光彩事业促进会第七次会员代表大会在京召开 爱尔眼科董事长陈邦当选副会长 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The 7th Member Representative Assembly of China Guangcai..."
-          }
-        },
-        {
-          "title": "科技赋能守护黄河固废利用开辟新径——黄河流域生态保护和高质量发展联合研究在工业固废资源化利用方面取得系列突破",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHJDTnNaRHJXaXJtb2FJcnhHd1czd3RwSVlJcUNTTXFrVWI1QmhreFdNOW9KcS1uQVhkTFJOVXVLS05waFNmNV9HcW8tTlJpLW84Q1NON2hnZjAxWmU1TjluVm5EVjZKaW1fWGpPYjU1Q1Bmd0w2SEt6azVqTDNqWGQyV2o4OEk?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-27T00:27:57Z",
-            "summary": "科技赋能守护黄河固废利用开辟新径——黄河流域生态保护和高质量发展联合研究在工业固废资源化利用方面取得系列突破 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Tech empowers new paths for Yellow River solid waste..."
-          }
-        },
-        {
-          "title": "校地如何携手做“创新合伙人”——探寻“环同济知识经济圈”的教育支撑密码",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMktmWXFfOUVTMl9pR0tyZHE2MGV2QnlacXI2dnRJUE5zN3NCZG0tdmtHa2tJWlJaVElMLUh1VlU1OEhlOXZMXzIwbnNVWE0xNWFuZ1lpYUNXZ3NYLVROaElyeEhXbEhPbjlMNjRGTmRFeDRuZV9rcjdTMTRIZUY1eXpzdw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-27T16:55:48Z",
-            "summary": "校地如何携手做“创新合伙人”——探寻“环同济知识经济圈”的教育支撑密码 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "How schools and communities can partner as \"innovation..."
-          }
-        },
-        {
-          "title": "高质量发展故事汇丨做好“五篇大文章” 推动金融高质量发展",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlp5Tl9XRWxtYWttR1JERkV2SWlFRW9SenFKOGEtN09uMjROUzNtbHRmMGItN2E5Szlrc1lEVl9PMS04dVNuSTViT2d1R2ppV3NMU29IX3UyYXhCOTBRY0JGaGcyalBSR2ZhM2JqdlVEVkdQeDhkYXpCUFE3Yi1lMnpFRDdvbDVT?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-27T15:38:06Z",
-            "summary": "高质量发展故事汇丨做好“五篇大文章” 推动金融高质量发展 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "High-quality development stories: Promote finance's..."
-          }
-        },
-        {
-          "title": "浙江金华：积极推进新能源汽车配套产业集群发展",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkRtZ1R0Uk1YbVJGTzNfdmVuaEkzS3VPMVFoLTlheEM1SlRnSy1lS1pVTWR4TnVBdnZxcDAxQXNwRFpKRjFZeE1kQ3NrTXM0eEZEcWo0YVpEMFdJMlVMWWljZnM4NUI5c2ZWTElIakUwM3E1SG1maDdZMGVjRTB5TnZFM1NJQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-26T23:56:17Z",
-            "summary": "浙江金华：积极推进新能源汽车配套产业集群发展 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Jinhua, Zhejiang: Actively promoting the development of..."
-          }
-        },
-        {
-          "title": "第三届湖南省先进制造新材料博览会在娄底开幕",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUjF1c3pGMmlGczBtTUxkaC1VWHBzUGRWU00wSHd2WllZSGhPazE3Z2hpYXRRMXdVcTF0VEdhenF4akFRak5FTkdZYXV1MFZTeE9FbUE1LWRWLUxieU91MGFUWkZSYmZRdHlJR3NON1hTSElNNzh0NkhqcV85OXE0cTFOeDJNQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-11-26T23:21:21Z",
-            "summary": "第三届湖南省先进制造新材料博览会在娄底开幕 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The 3rd Hunan Advanced Manufacturing New Materials Expo..."
           }
         }
       ]
