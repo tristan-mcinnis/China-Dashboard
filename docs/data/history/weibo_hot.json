@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-04T22:09:13+08:00",
+  "generated_at": "2025-12-05T06:03:52+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-05T06:03:52+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 商家半年内被同一人仅退款225个快递",
+          "value": "273024 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%95%86%E5%AE%B6%E5%8D%8A%E5%B9%B4%E5%86%85%E8%A2%AB%E5%90%8C%E4%B8%80%E4%BA%BA%E4%BB%85%E9%80%80%E6%AC%BE225%E4%B8%AA%E5%BF%AB%E9%80%92&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 273024",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "In six months, the merchant refunded 225 packages to the..."
+          }
+        },
+        {
+          "title": "2. 狙击蝴蝶 [沸]",
+          "value": "剧集 52432 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "剧集 52432",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Sniping the butterfly..."
+          }
+        },
+        {
+          "title": "3. 2025宪法宣传周",
+          "value": "40700 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%AE%AA%E6%B3%95%E5%AE%A3%E4%BC%A0%E5%91%A8&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 40700",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "2025 Constitution Promotion Week..."
+          }
+        },
+        {
+          "title": "4. 华为MateX7今日开售",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BAMateX7%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Huawei Mate X7 goes on sale today..."
+          }
+        },
+        {
+          "title": "5. 日本高官公开道歉",
+          "value": "39427 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 39427",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Japanese senior official publicly apologizes..."
+          }
+        },
+        {
+          "title": "6. 百亿富豪去世20亿股份平分给儿女 [上新]",
+          "value": "37769 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BE%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%8E%BB%E4%B8%9620%E4%BA%BF%E8%82%A1%E4%BB%BD%E5%B9%B3%E5%88%86%E7%BB%99%E5%84%BF%E5%A5%B3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 37769",
+            "tag": "上新",
+            "api_source": "tianapi",
+            "translation": "Billionaire passes away, $2 billion shares split among..."
+          }
+        },
+        {
+          "title": "7. 12岁成网红21岁保研北大女生发声",
+          "value": "34947 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D12%E5%B2%81%E6%88%90%E7%BD%91%E7%BA%A221%E5%B2%81%E4%BF%9D%E7%A0%94%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 34947",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "12-year-old internet celebrity speaks out at 21,..."
+          }
+        },
+        {
+          "title": "8. 2025数智科技生态大会 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E6%95%B0%E6%99%BA%E7%A7%91%E6%8A%80%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "2025 Smart Technology Ecosystem Conference..."
+          }
+        },
+        {
+          "title": "9. 居民废弃酒瓶中砸出过冬眼镜蛇",
+          "value": "34899 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 34899",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A winter cobra emerged from a discarded bottle..."
+          }
+        },
+        {
+          "title": "10. 生育津贴成唐僧肉暴露规则漏洞",
+          "value": "34485 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E8%82%B2%E6%B4%A5%E8%B4%B4%E6%88%90%E5%94%90%E5%83%A7%E8%82%89%E6%9A%B4%E9%9C%B2%E8%A7%84%E5%88%99%E6%BC%8F%E6%B4%9E&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 34485",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Maternity benefits expose loopholes like Tang Seng's meat..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-04T22:09:13+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Hong Kong holds memorial activities..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-29T06:03:56+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 普京宣布与乌克兰停火条件",
-          "value": "306030 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 306030",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Putin announces conditions for ceasefire with Ukraine..."
-          }
-        },
-        {
-          "title": "2. 中国男篮主场不敌韩国男篮",
-          "value": "265916 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 265916",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China's men's basketball team loses to South Korea at..."
-          }
-        },
-        {
-          "title": "3. 我国新一代太空感知星座发布",
-          "value": "209117 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A4%AA%E7%A9%BA%E6%84%9F%E7%9F%A5%E6%98%9F%E5%BA%A7%E5%8F%91%E5%B8%83&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 209117",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China's new generation space sensing constellation..."
-          }
-        },
-        {
-          "title": "4. 疯狂动物城",
-          "value": "电影 176768 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "电影 176768",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zootopia"
-          }
-        },
-        {
-          "title": "5. 雷军发布小米购置税补贴重要提示",
-          "value": "115923 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E9%87%8D%E8%A6%81%E6%8F%90%E7%A4%BA&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 115923",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Lei Jun announces important notice on Xiaomi tax..."
-          }
-        },
-        {
-          "title": "6. 香港大埔火灾已致128人遇难",
-          "value": "105032 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 105032",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Tai Po fire in Hong Kong has claimed 128 lives..."
-          }
-        },
-        {
-          "title": "7. 入冬仪式感是第一桶炸鸡给的",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A5%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%98%AF%E7%AC%AC%E4%B8%80%E6%A1%B6%E7%82%B8%E9%B8%A1%E7%BB%99%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The winter ritual is brought by the first bucket of..."
-          }
-        },
-        {
-          "title": "8. 被男同学杀害女孩本子写满笔记",
-          "value": "104519 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB%E7%94%B7%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%A9%E6%9C%AC%E5%AD%90%E5%86%99%E6%BB%A1%E7%AC%94%E8%AE%B0&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 104519",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Girl killed by male classmate, notebook filled with notes..."
-          }
-        },
-        {
-          "title": "9. 俄罗斯多次对日本发出警告",
-          "value": "104243 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E6%AC%A1%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 104243",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Russia has repeatedly issued warnings to Japan..."
-          }
-        },
-        {
-          "title": "10. 香港将下半旗志哀",
-          "value": "103726 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%B0%86%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 103726",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Hong Kong will lower the flag in mourning..."
           }
         }
       ]
