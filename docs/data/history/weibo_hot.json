@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-05T06:03:52+08:00",
+  "generated_at": "2025-12-05T11:02:49+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-05T11:02:49+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 中国夫妻的金发碧眼女儿鉴定为亲生",
+          "value": "1088551 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E7%9A%84%E9%87%91%E5%8F%91%E7%A2%A7%E7%9C%BC%E5%A5%B3%E5%84%BF%E9%89%B4%E5%AE%9A%E4%B8%BA%E4%BA%B2%E7%94%9F&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1088551",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Chinese couple's blonde, blue-eyed daughter confirmed..."
+          }
+        },
+        {
+          "title": "2. 摩尔线程 [新]",
+          "value": "250249 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 250249",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Moore Threads"
+          }
+        },
+        {
+          "title": "3. 买卖账号赚快钱已有人获刑",
+          "value": "249471 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%B0%E5%8D%96%E8%B4%A6%E5%8F%B7%E8%B5%9A%E5%BF%AB%E9%92%B1%E5%B7%B2%E6%9C%89%E4%BA%BA%E8%8E%B7%E5%88%91&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 249471",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Selling accounts for quick money has led to prison..."
+          }
+        },
+        {
+          "title": "4. 华为MateX7今日开售",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BAMateX7%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Huawei Mate X7 goes on sale today..."
+          }
+        },
+        {
+          "title": "5. 村支书偷偷为全村交了8年保费",
+          "value": "249292 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%91%E6%94%AF%E4%B9%A6%E5%81%B7%E5%81%B7%E4%B8%BA%E5%85%A8%E6%9D%91%E4%BA%A4%E4%BA%868%E5%B9%B4%E4%BF%9D%E8%B4%B9&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 249292",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The village chief secretly paid 8 years of insurance for..."
+          }
+        },
+        {
+          "title": "6. 桃黑黑觉得错了就是错了 [上新]",
+          "value": "249267 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A1%83%E9%BB%91%E9%BB%91%E8%A7%89%E5%BE%97%E9%94%99%E4%BA%86%E5%B0%B1%E6%98%AF%E9%94%99%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 249267",
+            "tag": "上新",
+            "api_source": "tianapi",
+            "translation": "Peach Black believes that wrong is wrong..."
+          }
+        },
+        {
+          "title": "7. 陈震名下公司因欠税被公告",
+          "value": "249072 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E9%9C%87%E5%90%8D%E4%B8%8B%E5%85%AC%E5%8F%B8%E5%9B%A0%E6%AC%A0%E7%A8%8E%E8%A2%AB%E5%85%AC%E5%91%8A&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 249072",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Chen Zhen's company announced for tax arrears..."
+          }
+        },
+        {
+          "title": "8. 海底捞爆料侯明昊 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%88%86%E6%96%99%E4%BE%AF%E6%98%8E%E6%98%8A&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Haidilao exposes Hou Minghao..."
+          }
+        },
+        {
+          "title": "9. 生育津贴成唐僧肉暴露规则漏洞",
+          "value": "246532 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E8%82%B2%E6%B4%A5%E8%B4%B4%E6%88%90%E5%94%90%E5%83%A7%E8%82%89%E6%9A%B4%E9%9C%B2%E8%A7%84%E5%88%99%E6%BC%8F%E6%B4%9E&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 246532",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Maternity benefits expose loopholes in regulations..."
+          }
+        },
+        {
+          "title": "10. 中公教育以物抵债退落榜考生学费 [新]",
+          "value": "240007 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E4%BB%A5%E7%89%A9%E6%8A%B5%E5%80%BA%E9%80%80%E8%90%BD%E6%A6%9C%E8%80%83%E7%94%9F%E5%AD%A6%E8%B4%B9&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 240007",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Zhonggong Education offsets tuition for failed students..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-05T06:03:52+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Russia replaces Japan as the new favorite for Chinese..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-11-29T10:59:50+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 国考",
-          "value": "1137363 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E8%80%83&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1137363",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "National Civil Service Exam..."
-          }
-        },
-        {
-          "title": "2. 香港大埔火灾已致128人遇难 [沸]",
-          "value": "524927 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 524927",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "The Tai Po fire in Hong Kong has claimed 128 lives..."
-          }
-        },
-        {
-          "title": "3. 女子被造黄谣失业离婚仅获道歉",
-          "value": "235981 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3%E5%A4%B1%E4%B8%9A%E7%A6%BB%E5%A9%9A%E4%BB%85%E8%8E%B7%E9%81%93%E6%AD%89&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 235981",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Woman loses job and marriage over false rumors, only..."
-          }
-        },
-        {
-          "title": "4. 黑莲花攻略手册",
-          "value": "235371 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%91%E8%8E%B2%E8%8A%B1%E6%94%BB%E7%95%A5%E6%89%8B%E5%86%8C&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 235371",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Black Lotus Strategy Guide..."
-          }
-        },
-        {
-          "title": "5. 疯狂动物城2内地票房破10亿",
-          "value": "电影 233312 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E5%86%85%E5%9C%B0%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "电影 233312",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Zootopia 2's box office in mainland China surpasses 1..."
-          }
-        },
-        {
-          "title": "6. 何美延 梁淞",
-          "value": "综艺 233302 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E7%BE%8E%E5%BB%B6%20%E6%A2%81%E6%B7%9E&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "综艺 233302",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "He Meiyan and Liang Song..."
-          }
-        },
-        {
-          "title": "7. 入冬仪式感是第一桶炸鸡给的",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A5%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%98%AF%E7%AC%AC%E4%B8%80%E6%A1%B6%E7%82%B8%E9%B8%A1%E7%BB%99%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The winter ritual is brought by the first bucket of..."
-          }
-        },
-        {
-          "title": "8. 普京宣布与乌克兰停火条件 [新]",
-          "value": "233240 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 233240",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Putin announces ceasefire conditions with Ukraine..."
-          }
-        },
-        {
-          "title": "9. 总裁圈来新人了",
-          "value": "233043 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%80%BB%E8%A3%81%E5%9C%88%E6%9D%A5%E6%96%B0%E4%BA%BA%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 233043",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "A newcomer has joined the president's circle..."
-          }
-        },
-        {
-          "title": "10. 香港举行悼念活动 [热]",
-          "value": "230009 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E4%B8%BE%E8%A1%8C%E6%82%BC%E5%BF%B5%E6%B4%BB%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 230009",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Hong Kong holds memorial activities..."
           }
         }
       ]
