@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-11T22:09:58+08:00",
+  "generated_at": "2025-12-12T06:04:27+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-12T06:04:27+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 枭起青壤",
+          "value": "剧集 276796 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 276796",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "The owl rises over the green earth..."
+          }
+        },
+        {
+          "title": "2. 中央明确普通高中优质本科扩招 [热]",
+          "value": "74720 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%A4%AE%E6%98%8E%E7%A1%AE%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E4%BC%98%E8%B4%A8%E6%9C%AC%E7%A7%91%E6%89%A9%E6%8B%9B&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 74720",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "The central government clarifies expansion of quality..."
+          }
+        },
+        {
+          "title": "3. 2025最后20天",
+          "value": "61904 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E6%9C%80%E5%90%8E20%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 61904",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Last 20 days of 2025..."
+          }
+        },
+        {
+          "title": "4. 京东双12国家补贴后再打9折",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E5%8F%8C12%E5%9B%BD%E5%AE%B6%E8%A1%A5%E8%B4%B4%E5%90%8E%E5%86%8D%E6%89%939%E6%8A%98&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "JD's Double 12 offers an additional 10% off after..."
+          }
+        },
+        {
+          "title": "5. 多方回应用东方树叶养茶菌当宠物",
+          "value": "61692 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%A8%E4%B8%9C%E6%96%B9%E6%A0%91%E5%8F%B6%E5%85%BB%E8%8C%B6%E8%8F%8C%E5%BD%93%E5%AE%A0%E7%89%A9&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 61692",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Many responses suggest using Dongfang Shuye tea fungus..."
+          }
+        },
+        {
+          "title": "6. 张本智和庆祝动作致敬樊振东 [火热]",
+          "value": "39479 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%E8%87%B4%E6%95%AC%E6%A8%8A%E6%8C%AF%E4%B8%9C&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 39479",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Zhang Benzhi's celebration pays tribute to Fan Zhendong..."
+          }
+        },
+        {
+          "title": "7. 恋综宾利哥说认出了痞幼的老头乐",
+          "value": "39440 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%81%8B%E7%BB%BC%E5%AE%BE%E5%88%A9%E5%93%A5%E8%AF%B4%E8%AE%A4%E5%87%BA%E4%BA%86%E7%97%9E%E5%B9%BC%E7%9A%84%E8%80%81%E5%A4%B4%E4%B9%90&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 39440",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Bently哥 from the dating show recognized the old man from..."
+          }
+        },
+        {
+          "title": "8. 凭煮蛋涨粉356万博主回应爆红 [热]",
+          "value": "39343 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%AD%E7%85%AE%E8%9B%8B%E6%B6%A8%E7%B2%89356%E4%B8%87%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%BA%94%E7%88%86%E7%BA%A2&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 39343",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Booster gains 3.56 million followers for cooking eggs..."
+          }
+        },
+        {
+          "title": "9. 10人聚餐9人开溜男子看完账单傻眼",
+          "value": "39316 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D10%E4%BA%BA%E8%81%9A%E9%A4%909%E4%BA%BA%E5%BC%80%E6%BA%9C%E7%94%B7%E5%AD%90%E7%9C%8B%E5%AE%8C%E8%B4%A6%E5%8D%95%E5%82%BB%E7%9C%BC&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 39316",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "At a dinner for 10, 9 left, leaving one man stunned by..."
+          }
+        },
+        {
+          "title": "10. WTT香港总决赛",
+          "value": "39215 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DWTT%E9%A6%99%E6%B8%AF%E6%80%BB%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 39215",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "WTT Hong Kong Grand Finals..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-11T22:09:58+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Macron said there is only one regret from this trip..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-06T06:04:04+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 小伙缅北逃跑失败被掰断手指脚趾",
-          "value": "265751 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E4%BC%99%E7%BC%85%E5%8C%97%E9%80%83%E8%B7%91%E5%A4%B1%E8%B4%A5%E8%A2%AB%E6%8E%B0%E6%96%AD%E6%89%8B%E6%8C%87%E8%84%9A%E8%B6%BE&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 265751",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Young man fails to escape in northern Myanmar, fingers..."
-          }
-        },
-        {
-          "title": "2. 大生意人1晚死了461个人 [热]",
-          "value": "剧集 36298 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E7%94%9F%E6%84%8F%E4%BA%BA1%E6%99%9A%E6%AD%BB%E4%BA%86461%E4%B8%AA%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "剧集 36298",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "A businessman caused the death of 461 people in one night..."
-          }
-        },
-        {
-          "title": "3. 流感超过一周还有传染性吗",
-          "value": "36141 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%81%E6%84%9F%E8%B6%85%E8%BF%87%E4%B8%80%E5%91%A8%E8%BF%98%E6%9C%89%E4%BC%A0%E6%9F%93%E6%80%A7%E5%90%97&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 36141",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Is the flu still contagious after a week?"
-          }
-        },
-        {
-          "title": "4. 柬埔寨公主大婚",
-          "value": "35843 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%85%AC%E4%B8%BB%E5%A4%A7%E5%A9%9A&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 35843",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cambodian princess's grand wedding..."
-          }
-        },
-        {
-          "title": "5. VOGUE预告",
-          "value": "35588 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DVOGUE%E9%A2%84%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 35588",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "VOGUE preview..."
-          }
-        },
-        {
-          "title": "6. 张雪峰复播后仍污言秽语",
-          "value": "35419 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%A4%8D%E6%92%AD%E5%90%8E%E4%BB%8D%E6%B1%A1%E8%A8%80%E7%A7%BD%E8%AF%AD&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 35419",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zhang Xuefeng continues to use foul language after..."
-          }
-        },
-        {
-          "title": "7. 张本智和一直站在原地不动",
-          "value": "35115 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E4%B8%80%E7%9B%B4%E7%AB%99%E5%9C%A8%E5%8E%9F%E5%9C%B0%E4%B8%8D%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 35115",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Zhang Ben Zhi He stood still without moving..."
-          }
-        },
-        {
-          "title": "8. 陈妍希周柯宇坐腿吻",
-          "value": "剧集 34828 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%A8%E6%9F%AF%E5%AE%87%E5%9D%90%E8%85%BF%E5%90%BB&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "剧集 34828",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chen Yanxi and Zhou Keyu kiss while sitting on his lap..."
-          }
-        },
-        {
-          "title": "9. 陈震偷税案",
-          "value": "34543 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E6%A1%88&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 34543",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chen Zhen's tax evasion case..."
-          }
-        },
-        {
-          "title": "10. 抽血显示怀孕子宫里却找不到胎儿 [热]",
-          "value": "32954 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8A%BD%E8%A1%80%E6%98%BE%E7%A4%BA%E6%80%80%E5%AD%95%E5%AD%90%E5%AE%AB%E9%87%8C%E5%8D%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E8%83%8E%E5%84%BF&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 32954",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Blood test shows pregnancy, but no fetus in the uterus..."
           }
         }
       ]
