@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-11T11:05:05+08:00",
+  "generated_at": "2025-12-11T14:02:25+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-11T14:02:25+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. B站",
+          "value": "1075934 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DB%E7%AB%99&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1075934",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Bilibili (a popular Chinese video-sharing platform)..."
+          }
+        },
+        {
+          "title": "2. 华为重夺中国手机市场份额第一 [新]",
+          "value": "447252 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E9%87%8D%E5%A4%BA%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E7%AC%AC%E4%B8%80&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 447252",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Huawei regains top share in China's smartphone market..."
+          }
+        },
+        {
+          "title": "3. 一条vlog回顾2025",
+          "value": "416843 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E6%9D%A1vlog%E5%9B%9E%E9%A1%BE2025&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 416843",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A vlog reviewing 2025..."
+          }
+        },
+        {
+          "title": "4. 神隐 [新]",
+          "value": "剧集 396640 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E%E9%9A%90&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 396640",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Spiritual concealment..."
+          }
+        },
+        {
+          "title": "5. 无汞玻璃体温计甩了100余次未成功",
+          "value": "213692 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A0%E6%B1%9E%E7%8E%BB%E7%92%83%E4%BD%93%E6%B8%A9%E8%AE%A1%E7%94%A9%E4%BA%86100%E4%BD%99%E6%AC%A1%E6%9C%AA%E6%88%90%E5%8A%9F&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 213692",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Mercury-free thermometer failed after over 100 attempts..."
+          }
+        },
+        {
+          "title": "6. papi妈妈 [新]",
+          "value": "213181 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dpapi%E5%A6%88%E5%A6%88&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 213181",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Papi Mama..."
+          }
+        },
+        {
+          "title": "7. 超话年度竞耀时刻",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%85%E8%AF%9D%E5%B9%B4%E5%BA%A6%E7%AB%9E%E8%80%80%E6%97%B6%E5%88%BB&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Super Topic Annual Competition Highlights..."
+          }
+        },
+        {
+          "title": "8. 红楼梦悼明争议",
+          "value": "210228 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E6%A5%BC%E6%A2%A6%E6%82%BC%E6%98%8E%E4%BA%89%E8%AE%AE&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 210228",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Controversy over the mourning of Ming in Dream of the..."
+          }
+        },
+        {
+          "title": "9. 联合国厕所不再提供擦手纸",
+          "value": "207691 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%81%94%E5%90%88%E5%9B%BD%E5%8E%95%E6%89%80%E4%B8%8D%E5%86%8D%E6%8F%90%E4%BE%9B%E6%93%A6%E6%89%8B%E7%BA%B8&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 207691",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "UN restrooms no longer provide paper towels..."
+          }
+        },
+        {
+          "title": "10. 电建1号可在太空监工",
+          "value": "205905 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E5%BB%BA1%E5%8F%B7%E5%8F%AF%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%9B%91%E5%B7%A5&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 205905",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Electric Construction No. 1 can monitor in space..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-11T11:05:05+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Yadea Moped Model"
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-05T14:01:42+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 陈震偷税案",
-          "value": "10921666 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E6%A1%88&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 10921666",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chen Zhen's tax evasion case..."
-          }
-        },
-        {
-          "title": "2. 饿了么APP已更新为淘宝闪购",
-          "value": "301772 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A5%BF%E4%BA%86%E4%B9%88APP%E5%B7%B2%E6%9B%B4%E6%96%B0%E4%B8%BA%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 301772",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Ele.me app has been updated to Taobao Flash Sale..."
-          }
-        },
-        {
-          "title": "3. 大国重器拯救大国重器",
-          "value": "301612 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E6%8B%AF%E6%95%91%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 301612",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Great power's heavy equipment saves great power's heavy..."
-          }
-        },
-        {
-          "title": "4. 千年登封藏不住的华夏浪漫",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E5%B9%B4%E7%99%BB%E5%B0%81%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%8D%8E%E5%A4%8F%E6%B5%AA%E6%BC%AB&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A millennium of hidden romance in Dengfeng..."
-          }
-        },
-        {
-          "title": "5. 陈震偷税追缴并罚共计247.48万元",
-          "value": "301255 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%E5%85%B1%E8%AE%A1247.48%E4%B8%87%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 301255",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chen Zhen fined and required to pay 2.4748 million yuan..."
-          }
-        },
-        {
-          "title": "6. 中国夫妻的金发碧眼女儿鉴定为亲生",
-          "value": "300814 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E7%9A%84%E9%87%91%E5%8F%91%E7%A2%A7%E7%9C%BC%E5%A5%B3%E5%84%BF%E9%89%B4%E5%AE%9A%E4%B8%BA%E4%BA%B2%E7%94%9F&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 300814",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese couple's blonde, blue-eyed daughter confirmed..."
-          }
-        },
-        {
-          "title": "7. 网红罗大美遗体已在太平间两年多",
-          "value": "300716 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%97%E4%BD%93%E5%B7%B2%E5%9C%A8%E5%A4%AA%E5%B9%B3%E9%97%B4%E4%B8%A4%E5%B9%B4%E5%A4%9A&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 300716",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Internet celebrity Luo Damei's body has been in the..."
-          }
-        },
-        {
-          "title": "8. 2025数智科技生态大会 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E6%95%B0%E6%99%BA%E7%A7%91%E6%8A%80%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "2025 Smart Technology Ecosystem Conference..."
-          }
-        },
-        {
-          "title": "9. 村支书偷偷为全村交了8年保费",
-          "value": "300309 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%91%E6%94%AF%E4%B9%A6%E5%81%B7%E5%81%B7%E4%B8%BA%E5%85%A8%E6%9D%91%E4%BA%A4%E4%BA%868%E5%B9%B4%E4%BF%9D%E8%B4%B9&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 300309",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The village chief secretly paid 8 years of insurance for..."
-          }
-        },
-        {
-          "title": "10. 外卖新国标",
-          "value": "299879 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E5%8D%96%E6%96%B0%E5%9B%BD%E6%A0%87&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 299879",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New national standards for food delivery..."
           }
         }
       ]
