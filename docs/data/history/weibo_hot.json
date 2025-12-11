@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-11T14:02:25+08:00",
+  "generated_at": "2025-12-11T18:40:56+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-11T18:40:56+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 字节跳动100元餐标的免费三餐",
+          "value": "1109183 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8100%E5%85%83%E9%A4%90%E6%A0%87%E7%9A%84%E5%85%8D%E8%B4%B9%E4%B8%89%E9%A4%90&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1109183",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "ByteDance offers free meals with a 100 yuan allowance..."
+          }
+        },
+        {
+          "title": "2. 雪王卖早餐被吐槽有点贵 [新]",
+          "value": "557728 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%AA%E7%8E%8B%E5%8D%96%E6%97%A9%E9%A4%90%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89%E7%82%B9%E8%B4%B5&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 557728",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Snow King criticized for selling overpriced breakfast..."
+          }
+        },
+        {
+          "title": "3. 从五年规划看中国之治",
+          "value": "502674 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8E%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 502674",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Examining China's governance through the five-year plans..."
+          }
+        },
+        {
+          "title": "4. 微博之夜 [新]",
+          "value": "盛典 461175 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "盛典 461175",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Weibo Night..."
+          }
+        },
+        {
+          "title": "5. 哈尔滨机场羽绒服洗2次不再出租",
+          "value": "299607 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B4%972%E6%AC%A1%E4%B8%8D%E5%86%8D%E5%87%BA%E7%A7%9F&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 299607",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Harbin airport down jackets can't be rented after 2..."
+          }
+        },
+        {
+          "title": "6. 华为Mate80销量 [新]",
+          "value": "262908 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BAMate80%E9%94%80%E9%87%8F&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 262908",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Huawei Mate 80 sales figures."
+          }
+        },
+        {
+          "title": "7. 今日辟谣",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Today's rumor debunked..."
+          }
+        },
+        {
+          "title": "8. 医院躺了2700多天的男子是植物人",
+          "value": "249113 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E9%99%A2%E8%BA%BA%E4%BA%862700%E5%A4%9A%E5%A4%A9%E7%9A%84%E7%94%B7%E5%AD%90%E6%98%AF%E6%A4%8D%E7%89%A9%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 249113",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The man who lay in the hospital for over 2,700 days is..."
+          }
+        },
+        {
+          "title": "9. HLE对战T1",
+          "value": "238737 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DHLE%E5%AF%B9%E6%88%98T1&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 238737",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "HLE vs T1"
+          }
+        },
+        {
+          "title": "10. 山海协同陆海联动绘就万里山河新画卷 [新]",
+          "value": "236432 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%B1%E6%B5%B7%E5%8D%8F%E5%90%8C%E9%99%86%E6%B5%B7%E8%81%94%E5%8A%A8%E7%BB%98%E5%B0%B1%E4%B8%87%E9%87%8C%E5%B1%B1%E6%B2%B3%E6%96%B0%E7%94%BB%E5%8D%B7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 236432",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Coordinating mountains and seas to create a new landscape..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-11T14:02:25+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Wang Chuqin plays table tennis with Macron..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-05T18:39:02+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 雅迪电动车致歉",
-          "value": "1116427 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%85%E8%BF%AA%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%87%B4%E6%AD%89&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1116427",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Yadea electric vehicles apologize..."
-          }
-        },
-        {
-          "title": "2. 中国香港8比7法国 [新]",
-          "value": "1084961 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF8%E6%AF%947%E6%B3%95%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1084961",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Hong Kong beats France 8 to 7."
-          }
-        },
-        {
-          "title": "3. 卫健委介绍节气与健康有关情况",
-          "value": "1033591 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E7%BB%8D%E8%8A%82%E6%B0%94%E4%B8%8E%E5%81%A5%E5%BA%B7%E6%9C%89%E5%85%B3%E6%83%85%E5%86%B5&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1033591",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The Health Commission discusses the relationship between..."
-          }
-        },
-        {
-          "title": "4. 一加Ace6T",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%8A%A0Ace6T&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "OnePlus Ace 6T"
-          }
-        },
-        {
-          "title": "5. 陈震偷税案",
-          "value": "1005507 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E6%A1%88&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 1005507",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chen Zhen's tax evasion case..."
-          }
-        },
-        {
-          "title": "6. 马克龙访问四川大学 [大卖]",
-          "value": "936560 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 936560",
-            "tag": "大卖",
-            "api_source": "tianapi",
-            "translation": "Macron visits Sichuan University..."
-          }
-        },
-        {
-          "title": "7. 官方通报孙俪李现等占道经营被处罚",
-          "value": "905618 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E4%BF%AA%E6%9D%8E%E7%8E%B0%E7%AD%89%E5%8D%A0%E9%81%93%E7%BB%8F%E8%90%A5%E8%A2%AB%E5%A4%84%E7%BD%9A&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 905618",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Official report: Sun Li and Li Xian fined for illegal..."
-          }
-        },
-        {
-          "title": "8. 姜妍永和豆浆全球品牌代言人 [沸]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A7%9C%E5%A6%8D%E6%B0%B8%E5%92%8C%E8%B1%86%E6%B5%86%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Jiang Yan is the global brand ambassador for Doujiang..."
-          }
-        },
-        {
-          "title": "9. 男子存100万退休3年后剩105万",
-          "value": "828762 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E5%AD%98100%E4%B8%87%E9%80%80%E4%BC%913%E5%B9%B4%E5%90%8E%E5%89%A9105%E4%B8%87&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 828762",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "A man saved 1 million and has 1.05 million after 3 years..."
-          }
-        },
-        {
-          "title": "10. 雅迪毛豆车型",
-          "value": "817130 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%85%E8%BF%AA%E6%AF%9B%E8%B1%86%E8%BD%A6%E5%9E%8B&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 817130",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Yadea Moped Model"
           }
         }
       ]
