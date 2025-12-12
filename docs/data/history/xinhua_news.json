@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-12-12T11:04:39+08:00",
+  "generated_at": "2025-12-12T14:02:29+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-12T14:02:29+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息｜日本地震修正为6.7级 已发布海啸预警",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tMXlpdzBkaUw5Y1dqSUNMUzFoRkU1QVlZb0xBdGlMM21YRWhPOWdQQkpyeTF2Z2dfSlVON3VfLXhRMzEwandLXzY1bndLWHRXYWFjN3ljMXMyeDZVMVBHNkw4VXVXTlczQzZOX1k2U3QtVEtFVjA1WHdpNnhrdw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-11T20:18:38Z",
+            "summary": "新华社消息｜日本地震修正为6.7级 已发布海啸预警 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: Japan earthquake revised to magnitude..."
+          }
+        },
+        {
+          "title": "新华社消息｜中方提出2026亚太经合组织“中国年”主题和优先领域",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12S3B0THlYR1hucmVJbG5pY0tXbXJuZ1hUUm5yZnA5QUpoaXVOMTZsUUh6OE1wYXowYmMybERTQmRWUENsc1FRMWtwRWR6aVliQ0dMcVBYNXVpMVJpblRwUHZaYVRZcTdOcHFiS3p5UndNdTJ4aG5QQzQyLXRSQQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-11T18:55:24Z",
+            "summary": "新华社消息｜中方提出2026亚太经合组织“中国年”主题和优先领域 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: China proposes theme and priorities for..."
+          }
+        },
+        {
+          "title": "新华社消息丨中国“赫哲族伊玛堪”转入人类非物质文化遗产代表作名录",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6V2hhMUpzYXJYamVzb2l6OHdkSl9RYlQ2YTh0eHdnY09IUDdza2l4VmJRRDhXVF94QWt6OHBQaGViWkxxem41amJmaTctNVdadWVqcHhNLWl5bzRnTHdCck94SGg4TE1zUkE4VzQ2Z3BtY09XRC1tVXcxZFU4UQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-10T23:37:16Z",
+            "summary": "新华社消息丨中国“赫哲族伊玛堪”转入人类非物质文化遗产代表作名录 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: China's \"Hezhe Imakan\" added to..."
+          }
+        },
+        {
+          "title": "新华社权威速览｜2025年中央经济工作会议，定调明年经济工作",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDdmZGMFp0MmlNRHktN3FFZVg3UGVMZ3NhR0dOVHI3XzdQRnBEVENQa0xXTGtleld0b0Y0UDVuYUIwTjFlX2VYY2hfUHdUR3ZLZjhVSkJ6c2NKZFpZTXlLa3F6QjVFaFdzOVZZZVFRdEM4TWxNUjYyS0RqOWxSUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-11T07:37:12Z",
+            "summary": "新华社权威速览｜2025年中央经济工作会议，定调明年经济工作 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua's authoritative overview: 2025 Central Economic..."
+          }
+        },
+        {
+          "title": "冬日赏鸥趣",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNclBISG5MS2c2bktMX0ZiMjFFeGxoNEV1S1dtWU5fS2lWYTFQcjJCNFFycC1aZFFZV0pmWFRVMDdvaExyZ0xSQlhNTE9rZXdlTjMzNDZyRW9jLThTT3hDdXNOWWg1WGJvSm1Od056N2hOMFVlc1FTalI0cGNhRFN4emRvYUh6dw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-10T22:41:33Z",
+            "summary": "冬日赏鸥趣 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Winter fun watching seagulls..."
+          }
+        },
+        {
+          "title": "聚焦中央经济工作会议·现场 | 坚定信心乘势而进全力实现“十五五”良好开局——与会同志谈贯彻落实中央经济工作会议精神",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDRnOFM4QzBCSXRILVJ3U0NVWS01VmhWUUlsNjJKRWV6TDdRc2JzN3NqOVdBNFhib1FJMGRQOWVucDg0V0dNdTJpVUswUnNzalB0RWdMamFJZGhVcmZlUWxHQW5aZ1JGVkVZQmVFaThuU2VjdVJsVHJ4emhKNWRQaXJrUUNURXpf?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-11T07:21:46Z",
+            "summary": "聚焦中央经济工作会议·现场 | 坚定信心乘势而进全力实现“十五五”良好开局——与会同志谈贯彻落实中央经济工作会议精神 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Focusing on the Central Economic Work Conference:..."
+          }
+        },
+        {
+          "title": "医药创新为何需要“价格凭证”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2hxYUlncVpCdmdsTHZyMG80cDlLSFd0ZnVSaVloLUExTWluVkMwaXpWSF9XVG1Ed3l0aHNQcmdreGRUemVfZVJqaC1iQUVONWVzY3h4dDZKdmJZaEd5TTJoYlU1OUFRMGo5c1huTXhwSzliMUdSYm1fcVN5UXNvQ0pGMG04ZVlURlE?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-11T17:08:41Z",
+            "summary": "医药创新为何需要“价格凭证” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Why is a \"price certificate\" needed for medical innovation?"
+          }
+        },
+        {
+          "title": "中央经济工作会议划定明年工作要点",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WdTI4OWFnb0pDWktmRDc3RjlPQW91Umh5TjVlV192dU9Cak9BRHRRTHNwMGtGQU5WcWZ2ZVUwRS1RMktTLWN4MUVwVk5UdEw1VUhRdzZrREc2OUdOTnlTVFhPekh4d1hCM2RTb3lOYkQtbXpweWJDMnQwRTladw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-11T17:39:12Z",
+            "summary": "中央经济工作会议划定明年工作要点 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The Central Economic Work Conference outlines key tasks..."
+          }
+        },
+        {
+          "title": "聚焦中央经济工作会议丨我国将着力推动投资止跌回稳",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVhLSWFERlZidy1NcU1rZTRUZk5QazQyVW45d1F2VGlUbnR6VGVxTmVSeElaWkpMeVFJVTJKVm8wX29WVWFTcU00OEpJck9TRjZQMzh1VEJuLV9ySjZiTzFjd3REN0JKaVdwWmlxdDVSbkcybkdnTmhtb1FSM09JdHZaNzhvWlph?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-11T08:44:50Z",
+            "summary": "聚焦中央经济工作会议丨我国将着力推动投资止跌回稳 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Focusing on the Central Economic Work Conference: China..."
+          }
+        },
+        {
+          "title": "从中央经济工作会议看“十五五”开局之年中国经济着力点",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR29VbXlCakw4eEpFcU9DOElDb0tIcFhtOXZFSVRMWm9LM2hpQzg2NXhSdmI1QnRwd2N2R0MtQk52TFFTQ2hxWkhKQU5nV0pHcFRRTXdyd2h3NXJQbDNOWEM0YmduQ0tBWXpzRGZFeUo4aW1FVjFiblYtNE1ON05lcVdLVVc5NWJP?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-11T08:41:42Z",
+            "summary": "从中央经济工作会议看“十五五”开局之年中国经济着力点 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Key focus of China's economy in the first year of the..."
+          }
+        },
+        {
+          "title": "MINISFORUM 与 AMD 联合举办AI 双旗舰产品体验会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWplN2JxMDl5ZDdrdzNpVTVkQzZBVEkxaG1MdndIaHdpOEcxT0tnTThMdG9XeUprVTNSQTNjSVdORnBkTmowaGJQLVpSVFFWUkI5Yl95d1czZnZNVE5NWGpnQk5TMl8wQnhvNjg2OWhxZE1PYkU2MHR4LVNRMEhFVjV3UHZhNE9w?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-11T01:53:17Z",
+            "summary": "MINISFORUM 与 AMD 联合举办AI 双旗舰产品体验会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "MINISFORUM and AMD host AI dual flagship product event..."
+          }
+        },
+        {
+          "title": "2025年海上丝绸之路国际文化旅游节在福建泉州开幕",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWJQUF9YQmowWTJmaDVUYW1zdE1vd2h0QVI4bUNYLVZMR2VmSGJJQ1pVNUZGcWg4dTNKdE54NFZzVmhnMk9sV2w4dDJqSUljZDE0U1hSWmp5NU1TY2kzLU8zaFpsN04weTdOcG1BZ2dxSFQ0LXNYczZSVkF2NFcyZWRIaUhVUHZU?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-11T18:46:49Z",
+            "summary": "2025年海上丝绸之路国际文化旅游节在福建泉州开幕 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The 2025 Maritime Silk Road International Cultural..."
+          }
+        },
+        {
+          "title": "国际攀岩联合会更名为世界攀岩联合会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mQlNtbXRQZFMxeXEwYmJwUzFMMGdTN296QTMxQUpwbFVLZi1lS2RzTG5mZVlSTkZxckk1MWhWaXgzdFFEY3dqajducHBqNjRvNG1iY1ZEWUYtZUhZdnlOa0pZbjNMR3NOcVFwdGpCUDgxcGY3dm81czcyaGV5UQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-11T03:51:48Z",
+            "summary": "国际攀岩联合会更名为世界攀岩联合会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "International Federation of Sport Climbing renamed to..."
+          }
+        },
+        {
+          "title": "“人工智能+”创新应用：基于神州问学平台打造的行政执法案卷AI评审应用",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTUg0NnFaQ1B5M2pKNmk0OXU2cXBIQ2l5VG5SYkp1TlF5NG50Y0pwYi1wMk9Ba1prOHdLUTdWTllBVl9DR2N1X2xLVW91bTJXNFU3emV2ZVE5a3hSUkxIUG5XY1YwSkIyZHBwMDVwWmZzRTR4RmZfdlU1UjdvUXZkbVJ1eWZoUQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-11T00:24:07Z",
+            "summary": "“人工智能+”创新应用：基于神州问学平台打造的行政执法案卷AI评审应用 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"AI+\" innovation: AI review application for..."
+          }
+        },
+        {
+          "title": "青藏铁路雁石坪火车站开启旅客乘降业务",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QS1VSOXdydEVVd1M5cHdjZzB3MGhNcnM5RlR0SXlBR2Y1ajlOdDhUTVBvTG1xdDZPXzJZc0tsNktnMzN3T2VyV19yek05ZHlILTN3QnBaYXl0U3AtRnlzb2xxUEwtQi1aank0TGgtMnZFLVVKRW5lUnE2X1BQUQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-11T02:10:39Z",
+            "summary": "青藏铁路雁石坪火车站开启旅客乘降业务 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The Yanshiping Station on the Qinghai-Tibet Railway..."
+          }
+        },
+        {
+          "title": "2025数字基础设施科技展在京举行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelNLc3M2WFJCQlFCUVMtcjJBN3lWb2lYYTZUcGtnOFlnN1NoTk02OXVnaFg5cW9URld2YnRJYVJnejdyRDhXLUJSUUtWQ2FseFV0TXJkRHJBUXEzVDFqR2ZNVC14Q2V6Z3JkOW54SllZUklSaGpqcDdtUmVLYUdmcjZvMGt5dw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-11T06:59:35Z",
+            "summary": "2025数字基础设施科技展在京举行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "2025 Digital Infrastructure Technology Expo held in..."
+          }
+        },
+        {
+          "title": "追光丨科技之光，点亮他们的“出彩人生路”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmR6T1BselhzZ3oyTmJWQmR6QXk4MkJLb214bHNHaUpSMUM5U0xsc3VnZjNHVmRlSlV5R3p2RG1neVlzNVdvNm1ZRVI5b0ZERmlYdTU0Q1NLM2ZpbjFCemktbnkzNXo5aFRESTJlVjl1TldCdWFPTWhtY1JMZTdNR0o1eGo?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-11T01:24:30Z",
+            "summary": "追光丨科技之光，点亮他们的“出彩人生路” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chasing Light: Tech illuminates their path to success..."
+          }
+        },
+        {
+          "title": "美国AI热背后的泡沫阴影",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjRsSzl6SUZPTVJvc3dGU2RLRWRIaUh1Nnh2ai04OFFWOFZQdVNIbDBSYmhRQ1JJWWlLTUVMQlQ0bHdnSjMyRVNkWjlQcFNtQ1R2dUZBWVd5RlVOYjcyWmh5cm51Ykh6YXpIT3dDYk1YTlhPMktZcDBnbWZwN3dMV05Jb2t2Zw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-11T01:01:29Z",
+            "summary": "美国AI热背后的泡沫阴影 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The shadow of a bubble behind America's AI craze..."
+          }
+        },
+        {
+          "title": "中国绿发举办首届品牌开放日活动",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR1JXVXVzMDY0SlZHYmIta2FLU1dPREhFR2Vsdk40UkVkLXFTaGVfWmY4RWgzTnp2RTNFclFYX1FGZE9pR3lrS3hMLTZZYjd0dDdsY08wbVVXYWlFY3ExYVVHRUw2UlR4bzlORmI5M2FoVktvNXlhZER1SWdqQnpRcU5RcGRaZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-10T23:50:43Z",
+            "summary": "中国绿发举办首届品牌开放日活动 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China Green Development held its first brand open day..."
+          }
+        },
+        {
+          "title": "AIE·智见未来|李国炜：聚焦家用制冰机赛道 以长期主义构筑行业优势",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDJ6RkJsRkpIM1VFdEtTMEZVMjBWeEN2VF9CMTdOakVfbXZaM0JjcHpTaWhPM0lHU3JSdVBfQnFDMVZ4T1dHSzkxNWp2MnNOTmtBUnF1WE5WUEpmT1ExYUs5LUxvbWlKa1B5c2E5c1ByOVNqZ1JsV3BLU1d1dEFOTkdZTjI?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-11T01:28:11Z",
+            "summary": "AIE·智见未来|李国炜：聚焦家用制冰机赛道 以长期主义构筑行业优势 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "AIE·Vision for the Future: Li Guowei on home ice makers..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-12T11:04:39+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7699,272 +7965,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "China Telecom's Ke Ruiwen: Smart Navigation, Shared..."
-          }
-        },
-        {
-          "title": "大咖声音｜2025县域教育高质量发展大会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkJfY3p2QkhVRUx4bWxraWl2cmZ4QWxseWV0VlBJMU41VThPVmpYaUZ3X2UxMEl3U2hGWXJ2Mkp5QlJXUVRRX2NiOVVEdGdqTlhVMlJtQlp6THRra19qYXcyTzJHeF84WXRJYkFtVUdrQzZzajVOSWJXajgyNVlrUzBYT0w?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-05T04:42:00Z",
-            "summary": "大咖声音｜2025县域教育高质量发展大会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Expert Voices | 2025 County Education Quality..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-06T14:02:19+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "新华社消息｜八国外长反对以色列单向开放拉法口岸的计划",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoZElmM0NocXlkRS1wRHJ2N2wzUDZZaEcwb3MwQVBFZjVYVUpmelhFeDZJNVpoSkdaT2hLS1hmWHNuREVoQlRpVVdjblVKZXNSWU84ZVBfVGNhcjhCcjdyZlZ0alZTZVdrNHhYUDhxSmdCQmdSNHRnZkF1aHpSZw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-05T18:31:55Z",
-            "summary": "新华社消息｜八国外长反对以色列单向开放拉法口岸的计划 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Eight foreign ministers oppose Israel's unilateral plan..."
-          }
-        },
-        {
-          "title": "权威数读｜一周“靓”数",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLOGdOUTBfZ1l3bWt0b2w1SXNZYVBIdTZCVnptM3h5ZUt2eGYwYXo3NXIzbUY4d3RjXzY2dVRjQ2MwZW9BVmVoTlRFUnMyLS0tcV9vcVU3ZGlRTENyaWZvMnFpTkxELVdNMjVSZEt4NC1EVlV2bmJ2OEFBTEdOQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-05T18:06:04Z",
-            "summary": "权威数读｜一周“靓”数 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Authoritative Data Review: This Week's Highlights..."
-          }
-        },
-        {
-          "title": "第一观察｜中法元首相会都江堰：从治水之道悟治理之道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMGFoeHkyc3hYb3FCaVhHZHhLU1dTTmMxVTN5OGtLc0tPR3hLdHdtUFlWWlIxS3FxdnpSUjA0dWZQdGhWSTNrZlBBUHRlVGNaRzZPNF81LU82amxOMU9mOGR2bHQ0OXdjOTYzNVc3QndWc0NZZDN3cmFSMlpuQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-05T08:21:47Z",
-            "summary": "第一观察｜中法元首相会都江堰：从治水之道悟治理之道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "First Observation: China and France leaders meet in..."
-          }
-        },
-        {
-          "title": "驻日美军士兵猥亵未成年少女 日本检方不予起诉",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QTGNmbEg0MkFNeEUzbjNFSURaWS1xdW1oS0JONnV5aFJ2Zk43VFM0bFNtMVRXamJ5SXlZbEs4bmFDaE1IVTFRaHUwSkl4NjNFdF9zWV9nWkhoZG1lWWhQQVFqRzBTOWQtUTV5c3JVS0pfWlI1R3FRcnZoUVl6UQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-05T18:45:45Z",
-            "summary": "驻日美军士兵猥亵未成年少女 日本检方不予起诉 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "US soldier in Japan accused of molesting minor, no..."
-          }
-        },
-        {
-          "title": "中国人民银行与澳门金融管理局签署常备互换协议并扩大规模",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14alZKcTJyYk93bmczUnJtVlZvdzBCTmxCMk5KbWd2NXhlV215YkFiRXRnVmJLTDVhcHFmSzBRX0dRdkxrYnRBMUpVTE95Y1ZERE1mc0ZNYVBjSTFuQ0U2NmNRbUFJdWN2blBiOVB6Nk9TdldDbzFmRzlLNURCUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-05T03:26:07Z",
-            "summary": "中国人民银行与澳门金融管理局签署常备互换协议并扩大规模 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "People's Bank of China signs swap agreement with Macau..."
-          }
-        },
-        {
-          "title": "贯彻落实党的二十届四中全会精神权威访谈丨扩大高水平对外开放加快建设强大国内市场——访商务部党组书记、部长王文涛",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVhiQURteWZ4aUJtZ2JKYS1ZbjdiM3lZWUJHdHBMY1ZhaVpMTXdJbEpGT2ktN0JQUHY0VE9wRzlzMW1jRVN1b2lpYlp4OThTWVlxd2VrSlRoOGhYRzRuWk9qWWlzYnI4alpzZXUzYXFKRFRpaXJJSXJiY2ZvUjZ5OTFkZkZydTZl?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-05T02:00:39Z",
-            "summary": "贯彻落实党的二十届四中全会精神权威访谈丨扩大高水平对外开放加快建设强大国内市场——访商务部党组书记、部长王文涛 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Implementing the spirit of the 20th Party Congress......"
-          }
-        },
-        {
-          "title": "四中全会精神在基层丨千年麻编工艺如何走俏国内外市场？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVN2YnAwZV90cUx4elBzX3NMdTQ1ZnJiNnZkUnZWT2dncG9OUTJYZjh5Q0huODN2Z3ZsYnUyRm1XWDRsV3l4QUNsSGFiTl9hRnZpNWxVTkxxcGxpcXY2RVVpdUlGVjBhQml4b0FsNE1XNmw0S3pOU3Nhek5tSUJKM3BjR2pqMldt?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-05T01:38:17Z",
-            "summary": "四中全会精神在基层丨千年麻编工艺如何走俏国内外市场？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The spirit of the Fourth Plenary Session at the..."
-          }
-        },
-        {
-          "title": "德国10月工业新订单环比增长1.5%",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wRUZWVmxNQUpYeE5Oa18yRW92bnlPRTJRY2pIMXhGUWh6aExNM0JCc1FRVDVRNkVYNkZMYzB4Z2FuYnpKVm82YzV0anJRN3NleWJ3a25iOGF1bFZldFZxQTU1V1g5Sl9kWHh6VjZVcVk0XzNnelFmcF9nM2NmZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-05T04:21:08Z",
-            "summary": "德国10月工业新订单环比增长1.5% 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Germany's industrial new orders rose 1.5% in October..."
-          }
-        },
-        {
-          "title": "2025中国经济回眸｜强化发展支撑 激发内生动能——中国大市场活力澎湃未来可期",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGN2N2ZXLXJBT0V2R0YxUnF3ZnE1ak1uZzlBN2ZfZzZxMUhjakFobERvMGVJeTBndGRwU2pMT1lKYmJQYk9pSFZ3QzNuazB5Y2h3aUdySG9fVWhSdHhKckl5TFJwb2FyNUNTUzNObjVydzJOT212djRSMmlSNlRrVTN0UE1aV3By?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-05T06:53:32Z",
-            "summary": "2025中国经济回眸｜强化发展支撑 激发内生动能——中国大市场活力澎湃未来可期 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "2025 China Economic Review: Strengthening support for..."
-          }
-        },
-        {
-          "title": "国务院常务会议解读丨全链条打击涉烟违法活动 国务院部署有关举措",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUxCb2tOMkszc19pVXZxNzJYNHBVOWl5YkY2UFdPak8tTEViS2pJaU9YMmppSDhTNjdiZXJNVHZBd0J4eVZtUG54Uk5DZmpwYzAwLW91dTA5OV9qRU1zWUdBQ2NidUluUGUyMUg2eGl3cHYyQUt1dTJBQkJ2cTVTbG9xRXc0bmtv?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-05T05:04:53Z",
-            "summary": "国务院常务会议解读丨全链条打击涉烟违法活动 国务院部署有关举措 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "State Council meeting interprets measures to combat..."
-          }
-        },
-        {
-          "title": "财经聚焦丨北方多地开启冰雪假期 溢出效应持续释放",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOW5CbGdKWWV6aFFkNEwxeG5DNmota1J3M01GVVpITHRKUjd6SlYwWUxIblBTWXIyRzNkOFBjN0QyRzJWcVlZODhXdlhHTnREOEpITVA2TWJIN3JqUER0Z0poVm1USnRyaEx4X2hwSmNrb29QeG9qUmZHbXl2ZTV6VUhGa3lqT0wy?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-05T20:21:05Z",
-            "summary": "财经聚焦丨北方多地开启冰雪假期 溢出效应持续释放 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Financial Focus: Northern regions start snow holidays,..."
-          }
-        },
-        {
-          "title": "财经聚焦丨护好“钱袋子”！多方警示虚拟货币交易炒作风险",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnJ1X0pGdHBaU2pFS0dQUUoyamFuc3MtTi1hcDAtdGliSzdUb1pwRmFpWGdQUTlHUklacWZ0NFFudHFOWDhVOTBaT2FzYkRWM194RzUyMVFBMWJ2VDhUdWROYWhnMzJVZ2RFUEJDdHhaanlRYm15TTktTlpPTGtGdGUtaS1UbmRl?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-05T05:27:49Z",
-            "summary": "财经聚焦丨护好“钱袋子”！多方警示虚拟货币交易炒作风险 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Finance Focus: Protect your \"wallet\"! Warnings on crypto..."
-          }
-        },
-        {
-          "title": "预计全国流感在12月上中旬达峰可能性较大",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mSk0tOFd0SmFtaU4zODliZUVxNXFRN25Mdko0Mzl4em5xQzN6MnRaYWtLOHE4b01veWhmR0cteHNpVGlMZEtiUlZ4cXB3dkdMcnl2a3VJSFZJVjVXSE9pMUZIc2VYRmNFSkROUXNZOV9iUm9wTm5oeU9jTFZuQQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-04T23:13:11Z",
-            "summary": "预计全国流感在12月上中旬达峰可能性较大 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Flu nationwide likely to peak in early to mid-December..."
-          }
-        },
-        {
-          "title": "交通运输部原党组成员，国家铁路局原党组书记、局长费东斌严重违纪违法被开除党籍和公职",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sZGJuVktDVEpJWjFCVnRqallveG9RVlF5NnBvQ2ZkY0k5QmZzSDVMQjFXX0NoN2NHNTVIdVhEXzc2NXhnRExKWEdoRUc4dUd6OGZ5bUo4TjRPOVI5R3RRcWt3OWlfd3JoTHJkUU1rMXIyLWM4clpBakZjR21qZw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-05T00:07:26Z",
-            "summary": "交通运输部原党组成员，国家铁路局原党组书记、局长费东斌严重违纪违法被开除党籍和公职 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Fei Dongbin, former railway chief, expelled for serious..."
-          }
-        },
-        {
-          "title": "并购重组动态前沿简报（12月1日至12月5日）",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0s2cU5ObExJQmthazhFbndNSl9fUzk1UFhURUdIOXpaMkhTVjloRjNMOG1udGhtTllPdmdVdXlPYjFXQXJmODdXYndkWkdCNVhnOTRPbGZEclFxZzlSZzBsMGVHZjNaa2tlTURwdXlCZURnUHhMR0ppcGZMMTJwLTlhSWNOUkxl?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-05T02:25:20Z",
-            "summary": "并购重组动态前沿简报（12月1日至12月5日） 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "M&A Restructuring Update Brief (Dec 1 - Dec 5) ..."
-          }
-        },
-        {
-          "title": "引燃“科技心跳” 浩兴坤达展台成AIE博览会专业交流热点",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmpWd25jb2tnbHdkQTBVZHpLTngtdEs4UTdlcHpZNUpabHMzZjFHeXh0QXV6Z0YzZGstNjFwMVpqVmJLWW9ub1hQd3Ffcm9MUUk1aXY1dkIzY1RlNzNoUGxZdG5tVjBhSkRGdUxLWnc5dnJtZmJoc25zS1ZVeFlGQ1JUaVY?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-05T03:50:27Z",
-            "summary": "引燃“科技心跳” 浩兴坤达展台成AIE博览会专业交流热点 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Igniting \"Tech Heartbeats,\" Haoxing Kunda's booth shines..."
-          }
-        },
-        {
-          "title": "秀我中国丨科技赋能 山东福山樱桃花逆季绽放",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb2R2VUpHYU9DNHVTaHhlektNeHZialpxN29wU19MMjdMaGllT1ZvdzZwQkhsZG8wVlhWTE5oX05pVjRHNFBXQ0VxWGNPblAtR19tVktlMng2VmtJRWt4RERhN3E5UlNhY2FrUGpBSE9QOC1uNVBQYjN1OWx3WmN3RFRfN1AwSTI0a3c?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-04T23:51:28Z",
-            "summary": "秀我中国丨科技赋能 山东福山樱桃花逆季绽放 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Show me China: Tech empowers cherry blossoms in Fushan..."
-          }
-        },
-        {
-          "title": "探路者发布第二代外骨骼：科技深耕与AI芯片赋能",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2M4djluTEs4R0tfUERNcGJlTTU5SkxKYW5MNTVmaVNkVzBtX1FRNzFYWmNTRExGTS1SdWRkY1BLZS1FZW85Z2dPenlQU2RybmR5X2tfdTJCblJUMWFGNGlibGszWkZoSHY5Y29zcnY1UEcxOTdHYlNsb0JYUU1LRk5EcUtzQW56?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-04T23:06:49Z",
-            "summary": "探路者发布第二代外骨骼：科技深耕与AI芯片赋能 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Explorer releases second-gen exoskeleton: tech and AI..."
-          }
-        },
-        {
-          "title": "中国电信柯瑞文：智能领航 智惠共生",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDA2c2h5LV9lZDdZODlfaXltQVhOdVk5dHZHeUNTRWtmYzVzRV8xMk5JSXRURWFqUkNYMTF1VlNhTlQyWXVjYmpLejhhUC1HZ1QzeGpOOWdtUXVzUHdUNDZrR2pQeGhhUzhDWEhuN251Q092YTItbEoyOTN6Z0dCNVEyeTE?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-05T05:15:34Z",
-            "summary": "中国电信柯瑞文：智能领航 智惠共生 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "China Telecom's Ke Ruiwen: Smart Navigation, Intelligent..."
           }
         },
         {
