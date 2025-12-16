@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-16T14:01:55+08:00",
+  "generated_at": "2025-12-16T18:41:02+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-16T18:41:02+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 元旦请3休8",
+          "value": "1112275 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E6%97%A6%E8%AF%B73%E4%BC%918&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1112275",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "New Year's Day: 3 days off, 8 days of work..."
+          }
+        },
+        {
+          "title": "2. 生育成本社会共担来了",
+          "value": "399869 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E8%82%B2%E6%88%90%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%85%B1%E6%8B%85%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 399869",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The shared burden of childbirth costs has arrived..."
+          }
+        },
+        {
+          "title": "3. 一句话总结你的2025",
+          "value": "357211 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%80%BB%E7%BB%93%E4%BD%A0%E7%9A%842025&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 357211",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "A brief summary of your 2025."
+          }
+        },
+        {
+          "title": "4. 比亚迪海洋与600万用户双向奔赴",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E6%B4%8B%E4%B8%8E600%E4%B8%87%E7%94%A8%E6%88%B7%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "BYD Ocean and 6 million users moving forward together..."
+          }
+        },
+        {
+          "title": "5. 胡歌李沁开机照",
+          "value": "剧集 347460 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%83%A1%E6%AD%8C%E6%9D%8E%E6%B2%81%E5%BC%80%E6%9C%BA%E7%85%A7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 347460",
+            "tag": "\n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Hu Ge and Li Qin's filming stills..."
+          }
+        },
+        {
+          "title": "6. 生命树 [重磅]",
+          "value": "剧集 268008 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 268008",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Tree of Life..."
+          }
+        },
+        {
+          "title": "7. 年度奶茶",
+          "value": "267147 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E5%BA%A6%E5%A5%B6%E8%8C%B6&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 267147",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Annual milk tea..."
+          }
+        },
+        {
+          "title": "8. 华为乾崑无畏先行 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%97%A0%E7%95%8F%E5%85%88%E8%A1%8C&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Huawei QianKun fearlessly leads the way..."
+          }
+        },
+        {
+          "title": "9. 女子称丈夫被骗1日接受13人次服务",
+          "value": "261383 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%88%E5%A4%AB%E8%A2%AB%E9%AA%971%E6%97%A5%E6%8E%A5%E5%8F%9713%E4%BA%BA%E6%AC%A1%E6%9C%8D%E5%8A%A1&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 261383",
+            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
+            "api_source": "tianapi",
+            "translation": "Woman claims husband was deceived, received services..."
+          }
+        },
+        {
+          "title": "10. 天价救护车事件涉事医院被罚 [沸]",
+          "value": "246648 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E4%BB%B7%E6%95%91%E6%8A%A4%E8%BD%A6%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 246648",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Hospital involved in exorbitant ambulance incident fined..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-16T14:01:55+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "A look back at China's economy in 2025..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-10T18:40:55+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 马年春晚官宣",
-          "value": "晚会 1159099 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "晚会 1159099",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Official announcement for the Year of the Horse Spring..."
-          }
-        },
-        {
-          "title": "2. 俄乌冲突 [沸]",
-          "value": "285060 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 285060",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Russia-Ukraine conflict..."
-          }
-        },
-        {
-          "title": "3. 在这片辽阔的土地上",
-          "value": "259385 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%A8%E8%BF%99%E7%89%87%E8%BE%BD%E9%98%94%E7%9A%84%E5%9C%9F%E5%9C%B0%E4%B8%8A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 259385",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "On this vast land..."
-          }
-        },
-        {
-          "title": "4. 郑州诗的故乡 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E5%B7%9E%E8%AF%97%E7%9A%84%E6%95%85%E4%B9%A1&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Zhengzhou, the hometown of poetry..."
-          }
-        },
-        {
-          "title": "5. 警方通报男子飞无人机崖洞发现干尸",
-          "value": "258400 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E9%A3%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%B4%96%E6%B4%9E%E5%8F%91%E7%8E%B0%E5%B9%B2%E5%B0%B8&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 258400",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Police report: man finds corpse in cave with drone..."
-          }
-        },
-        {
-          "title": "6. 泡泡玛特全新IPSupertutu",
-          "value": "258011 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%85%A8%E6%96%B0IPSupertutu&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 258011",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Pop Mart's brand new IP Supertutu..."
-          }
-        },
-        {
-          "title": "7. 西班牙女员工连续提前到岗被开除",
-          "value": "257098 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A5%B3%E5%91%98%E5%B7%A5%E8%BF%9E%E7%BB%AD%E6%8F%90%E5%89%8D%E5%88%B0%E5%B2%97%E8%A2%AB%E5%BC%80%E9%99%A4&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 257098",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Spanish female employee fired for arriving early..."
-          }
-        },
-        {
-          "title": "8. 体育大赏",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E8%82%B2%E5%A4%A7%E8%B5%8F&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Sports Awards Ceremony..."
-          }
-        },
-        {
-          "title": "9. 狙击蝴蝶",
-          "value": "255923 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 255923",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Sniping the butterfly..."
-          }
-        },
-        {
-          "title": "10. iG官宣Rookie续约",
-          "value": "254722 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiG%E5%AE%98%E5%AE%A3Rookie%E7%BB%AD%E7%BA%A6&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 254722",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "iG officially announces Rookie's contract renewal..."
           }
         }
       ]
