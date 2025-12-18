@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-18T06:04:24+08:00",
+  "generated_at": "2025-12-18T11:03:19+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-18T11:03:19+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 2262年2个春节只放1次假",
+          "value": "1518649 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2262%E5%B9%B42%E4%B8%AA%E6%98%A5%E8%8A%82%E5%8F%AA%E6%94%BE1%E6%AC%A1%E5%81%87&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1518649",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "In 2262, there will be only one holiday for two Spring..."
+          }
+        },
+        {
+          "title": "2. 香港宣布取消维港跨年烟花汇演 [热]",
+          "value": "698441 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E7%BB%B4%E6%B8%AF%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%E6%B1%87%E6%BC%94&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 698441",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Hong Kong announces cancellation of Victoria Harbour New..."
+          }
+        },
+        {
+          "title": "3. 我国发现新矿物金秀矿",
+          "value": "564600 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%96%B0%E7%9F%BF%E7%89%A9%E9%87%91%E7%A7%80%E7%9F%BF&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 564600",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China discovers new mineral, Jinxiuite..."
+          }
+        },
+        {
+          "title": "4. 上京东 健康年度好物跟榜选",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E4%BA%AC%E4%B8%9C%20%E5%81%A5%E5%BA%B7%E5%B9%B4%E5%BA%A6%E5%A5%BD%E7%89%A9%E8%B7%9F%E6%A6%9C%E9%80%89&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "JD Health Annual Best Products Ranking..."
+          }
+        },
+        {
+          "title": "5. 春晚",
+          "value": "晚会 508614 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "晚会 508614",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala..."
+          }
+        },
+        {
+          "title": "6. 海南自贸港正式封关 [好物]",
+          "value": "407737 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%AD%A3%E5%BC%8F%E5%B0%81%E5%85%B3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 407737",
+            "tag": "好物",
+            "api_source": "tianapi",
+            "translation": "Hainan Free Trade Port officially closed its borders..."
+          }
+        },
+        {
+          "title": "7. 泰柬冲突",
+          "value": "331615 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 331615",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Thailand-Cambodia conflict..."
+          }
+        },
+        {
+          "title": "8. 3分钟击破草莓5大谣言",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E5%88%86%E9%92%9F%E5%87%BB%E7%A0%B4%E8%8D%89%E8%8E%935%E5%A4%A7%E8%B0%A3%E8%A8%80&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "3 minutes to debunk 5 major strawberry myths..."
+          }
+        },
+        {
+          "title": "9. 香港女子疑点香薰引发火灾",
+          "value": "277619 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E7%96%91%E7%82%B9%E9%A6%99%E8%96%B0%E5%BC%95%E5%8F%91%E7%81%AB%E7%81%BE&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 277619",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hong Kong woman suspected of causing fire with..."
+          }
+        },
+        {
+          "title": "10. 相亲双双隐瞒未离婚男方被打 [新]",
+          "value": "244179 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%B8%E4%BA%B2%E5%8F%8C%E5%8F%8C%E9%9A%90%E7%9E%92%E6%9C%AA%E7%A6%BB%E5%A9%9A%E7%94%B7%E6%96%B9%E8%A2%AB%E6%89%93&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 244179",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Blind date couple hides divorce status; man gets beaten..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-18T06:04:24+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "The 899 yuan down jacket from Renmin University sells out."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-12T11:04:10+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 灌面汤杀妻案李某春死缓",
-          "value": "1812690 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%81%8C%E9%9D%A2%E6%B1%A4%E6%9D%80%E5%A6%BB%E6%A1%88%E6%9D%8E%E6%9F%90%E6%98%A5%E6%AD%BB%E7%BC%93&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1812690",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Li Mochun receives a suspended death sentence for wife's..."
-          }
-        },
-        {
-          "title": "2. 感觉时间越来越快不是错觉",
-          "value": "427725 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%84%9F%E8%A7%89%E6%97%B6%E9%97%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%BF%AB%E4%B8%8D%E6%98%AF%E9%94%99%E8%A7%89&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 427725",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The feeling that time is speeding up is not an illusion..."
-          }
-        },
-        {
-          "title": "3. 这些大国重器震撼人心",
-          "value": "414193 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E4%BA%9B%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 414193",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "These powerful national instruments are breathtaking..."
-          }
-        },
-        {
-          "title": "4. 上京东 健康年度好物跟榜选",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E4%BA%AC%E4%B8%9C%20%E5%81%A5%E5%BA%B7%E5%B9%B4%E5%BA%A6%E5%A5%BD%E7%89%A9%E8%B7%9F%E6%A6%9C%E9%80%89&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "JD Health Annual Good Products Ranking..."
-          }
-        },
-        {
-          "title": "5. epic 免费游戏",
-          "value": "380785 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Depic%20%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 380785",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Epic free games"
-          }
-        },
-        {
-          "title": "6. 北京下雪 [好物]",
-          "value": "363380 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 363380",
-            "tag": "好物",
-            "api_source": "tianapi",
-            "translation": "It’s snowing in Beijing..."
-          }
-        },
-        {
-          "title": "7. 美国想和中俄印日组建核心五国",
-          "value": "338787 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E6%83%B3%E5%92%8C%E4%B8%AD%E4%BF%84%E5%8D%B0%E6%97%A5%E7%BB%84%E5%BB%BA%E6%A0%B8%E5%BF%83%E4%BA%94%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 338787",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The U.S. aims to form a core group of five with China,..."
-          }
-        },
-        {
-          "title": "8. 爱吃辣的人更容易得胃癌吗 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E8%BE%A3%E7%9A%84%E4%BA%BA%E6%9B%B4%E5%AE%B9%E6%98%93%E5%BE%97%E8%83%83%E7%99%8C%E5%90%97&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Do spicy food lovers have a higher risk of stomach cancer?"
-          }
-        },
-        {
-          "title": "9. 腾讯视频星光大赏",
-          "value": "盛典 317733 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "盛典 317733",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Tencent Video Starlight Awards..."
-          }
-        },
-        {
-          "title": "10. 灌面汤案丈夫取得被害人亲属谅解 [新]",
-          "value": "260323 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%81%8C%E9%9D%A2%E6%B1%A4%E6%A1%88%E4%B8%88%E5%A4%AB%E5%8F%96%E5%BE%97%E8%A2%AB%E5%AE%B3%E4%BA%BA%E4%BA%B2%E5%B1%9E%E8%B0%85%E8%A7%A3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 260323",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Husband in noodle soup case gains victim's family's..."
           }
         }
       ]
