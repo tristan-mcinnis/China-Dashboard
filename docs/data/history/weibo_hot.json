@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-19T11:04:18+08:00",
+  "generated_at": "2025-12-19T14:01:36+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-19T14:01:36+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 中戏院长郝戎被查",
+          "value": "1084949 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%88%8F%E9%99%A2%E9%95%BF%E9%83%9D%E6%88%8E%E8%A2%AB%E6%9F%A5&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1084949",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Central Academy of Drama President Hao Rong investigated..."
+          }
+        },
+        {
+          "title": "2. 年度报告 [新]",
+          "value": "523360 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 523360",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Annual report..."
+          }
+        },
+        {
+          "title": "3. 海南封关你关心的都在这",
+          "value": "384561 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 384561",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Everything you care about regarding Hainan's closure..."
+          }
+        },
+        {
+          "title": "4. 骄阳似我",
+          "value": "剧集 344726 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 344726",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The blazing sun is like me..."
+          }
+        },
+        {
+          "title": "5. cp32",
+          "value": "342288 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dcp32&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 342288",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "It seems like \"cp32\" does not provide sufficient context..."
+          }
+        },
+        {
+          "title": "6. 宁静 儿子全是赔钱货 [沸]",
+          "value": "综艺 341884 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%81%E9%9D%99%20%E5%84%BF%E5%AD%90%E5%85%A8%E6%98%AF%E8%B5%94%E9%92%B1%E8%B4%A7&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "综艺 341884",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Peaceful, all my sons are money losers..."
+          }
+        },
+        {
+          "title": "7. 格力高管人形温度计",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A0%BC%E5%8A%9B%E9%AB%98%E7%AE%A1%E4%BA%BA%E5%BD%A2%E6%B8%A9%E5%BA%A6%E8%AE%A1&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gree executive humanoid thermometer..."
+          }
+        },
+        {
+          "title": "8. 上海阿姨独吞6兄弟姐妹同属拆迁款",
+          "value": "341244 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E9%98%BF%E5%A7%A8%E7%8B%AC%E5%90%9E6%E5%85%84%E5%BC%9F%E5%A7%90%E5%A6%B9%E5%90%8C%E5%B1%9E%E6%8B%86%E8%BF%81%E6%AC%BE&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 341244",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Shanghai aunt embezzles relocation funds from 6 siblings..."
+          }
+        },
+        {
+          "title": "9. 男子4买4退同款手机被拒",
+          "value": "341201 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%904%E4%B9%B04%E9%80%80%E5%90%8C%E6%AC%BE%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8B%92&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 341201",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Man denied refund after buying and returning 4 identical..."
+          }
+        },
+        {
+          "title": "10. 有山东客户在三亚买了上百套房 [新]",
+          "value": "263815 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E5%B1%B1%E4%B8%9C%E5%AE%A2%E6%88%B7%E5%9C%A8%E4%B8%89%E4%BA%9A%E4%B9%B0%E4%BA%86%E4%B8%8A%E7%99%BE%E5%A5%97%E6%88%BF&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 263815",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "A Shandong client bought over a hundred houses in Sanya..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-19T11:04:18+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "The Kuaizhou-11 Yao-8 rocket was successfully launched..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-13T14:01:46+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 四级",
-          "value": "2327240 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%9B%E7%BA%A7&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 2327240",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Level Four..."
-          }
-        },
-        {
-          "title": "2. 重庆10人聚餐9人开溜事件进展",
-          "value": "575823 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%8D%E5%BA%8610%E4%BA%BA%E8%81%9A%E9%A4%909%E4%BA%BA%E5%BC%80%E6%BA%9C%E4%BA%8B%E4%BB%B6%E8%BF%9B%E5%B1%95&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 575823",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Progress on the incident of 10 dining in Chongqing, 9..."
-          }
-        },
-        {
-          "title": "3. 以国之名悼我同胞",
-          "value": "433747 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A5%E5%9B%BD%E4%B9%8B%E5%90%8D%E6%82%BC%E6%88%91%E5%90%8C%E8%83%9E&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 433747",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "In the name of the nation, I mourn my compatriots..."
-          }
-        },
-        {
-          "title": "4. academic writing [新]",
-          "value": "415495 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dacademic%20writing&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 415495",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Academic writing"
-          }
-        },
-        {
-          "title": "5. 成都地震",
-          "value": "394788 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 394788",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Chengdu earthquake..."
-          }
-        },
-        {
-          "title": "6. 四级作文",
-          "value": "380592 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 380592",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "CET-4 essay."
-          }
-        },
-        {
-          "title": "7. 东部战区发布重磅主题海报",
-          "value": "262027 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%B8%83%E9%87%8D%E7%A3%85%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 262027",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Eastern Theater Command releases major themed poster..."
-          }
-        },
-        {
-          "title": "8. 六级 [沸]",
-          "value": "261881 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AD%E7%BA%A7&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 261881",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Level six..."
-          }
-        },
-        {
-          "title": "9. 看好中国经济已成共识",
-          "value": "261672 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9C%8B%E5%A5%BD%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B7%B2%E6%88%90%E5%85%B1%E8%AF%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 261672",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Consensus has formed on the positive outlook for China's..."
-          }
-        },
-        {
-          "title": "10. 重庆通报患儿疑似被注射失效药",
-          "value": "261253 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5%E6%82%A3%E5%84%BF%E7%96%91%E4%BC%BC%E8%A2%AB%E6%B3%A8%E5%B0%84%E5%A4%B1%E6%95%88%E8%8D%AF&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 261253",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chongqing reports child suspected of receiving..."
           }
         }
       ]
