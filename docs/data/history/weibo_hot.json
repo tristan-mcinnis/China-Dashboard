@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-20T06:04:31+08:00",
+  "generated_at": "2025-12-20T11:01:32+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-20T11:01:32+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 海南封关40克金饰能省1万多元",
+          "value": "1066640 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B340%E5%85%8B%E9%87%91%E9%A5%B0%E8%83%BD%E7%9C%811%E4%B8%87%E5%A4%9A%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1066640",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hainan's customs closure saves over 10,000 yuan on 40g..."
+          }
+        },
+        {
+          "title": "2. 考研初试",
+          "value": "310782 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 310782",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Postgraduate entrance exam preliminary test..."
+          }
+        },
+        {
+          "title": "3. 2025中国人的仪式感",
+          "value": "305310 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 305310",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The sense of ritual for Chinese people in 2025..."
+          }
+        },
+        {
+          "title": "4. 淘宝闪购记得老朋友的每一天",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E8%AE%B0%E5%BE%97%E8%80%81%E6%9C%8B%E5%8F%8B%E7%9A%84%E6%AF%8F%E4%B8%80%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Every day remembers old friends on Taobao Flash Sale..."
+          }
+        },
+        {
+          "title": "5. 考研",
+          "value": "304976 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%83%E7%A0%94&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 304976",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Postgraduate entrance examination."
+          }
+        },
+        {
+          "title": "6. 到底是谁取消有线耳机的 [火热]",
+          "value": "239372 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%8F%96%E6%B6%88%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 239372",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Who exactly canceled wired headphones?"
+          }
+        },
+        {
+          "title": "7. 演唱会出轨门",
+          "value": "225248 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BC%94%E5%94%B1%E4%BC%9A%E5%87%BA%E8%BD%A8%E9%97%A8&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 225248",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Concert infidelity scandal..."
+          }
+        },
+        {
+          "title": "8. 91岁老人欲把亡妻房子给50岁女友 [新]",
+          "value": "224167 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D91%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E6%8A%8A%E4%BA%A1%E5%A6%BB%E6%88%BF%E5%AD%90%E7%BB%9950%E5%B2%81%E5%A5%B3%E5%8F%8B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 224167",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "91-year-old man wants to give late wife's house to..."
+          }
+        },
+        {
+          "title": "9. 妻子切除输卵管几天后丈夫提离婚",
+          "value": "217223 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A6%BB%E5%AD%90%E5%88%87%E9%99%A4%E8%BE%93%E5%8D%B5%E7%AE%A1%E5%87%A0%E5%A4%A9%E5%90%8E%E4%B8%88%E5%A4%AB%E6%8F%90%E7%A6%BB%E5%A9%9A&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 217223",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Husband files for divorce days after wife's tube removal..."
+          }
+        },
+        {
+          "title": "10. 今天2026考研",
+          "value": "212415 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E5%A4%A92026%E8%80%83%E7%A0%94&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 212415",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Today is the 2026 postgraduate entrance exam..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-20T06:04:31+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "NBA"
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-14T11:07:40+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 演员何晴去世",
-          "value": "9709396 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BC%94%E5%91%98%E4%BD%95%E6%99%B4%E5%8E%BB%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 9709396",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Actress He Qing has passed away..."
-          }
-        },
-        {
-          "title": "2. 日本开始军事介入南海 [热]",
-          "value": "779890 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E5%86%9B%E4%BA%8B%E4%BB%8B%E5%85%A5%E5%8D%97%E6%B5%B7&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 779890",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Japan begins military intervention in the South China Sea..."
-          }
-        },
-        {
-          "title": "3. 海南自贸港封关将带来更多机遇",
-          "value": "449276 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E5%B0%81%E5%85%B3%E5%B0%86%E5%B8%A6%E6%9D%A5%E6%9B%B4%E5%A4%9A%E6%9C%BA%E9%81%87&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 449276",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Hainan Free Trade Port's closure will bring more..."
-          }
-        },
-        {
-          "title": "4. 4斤黄金凤冠展出时被毁谁来赔",
-          "value": "404654 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D4%E6%96%A4%E9%BB%84%E9%87%91%E5%87%A4%E5%86%A0%E5%B1%95%E5%87%BA%E6%97%B6%E8%A2%AB%E6%AF%81%E8%B0%81%E6%9D%A5%E8%B5%94&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 404654",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Who will compensate for the destruction of the 4-pound..."
-          }
-        },
-        {
-          "title": "5. 草莓这些年可冤死了",
-          "value": "397102 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8D%89%E8%8E%93%E8%BF%99%E4%BA%9B%E5%B9%B4%E5%8F%AF%E5%86%A4%E6%AD%BB%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 397102",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Strawberries have been wronged these years..."
-          }
-        },
-        {
-          "title": "6. 女儿坠楼妈妈怀疑施工拆玻璃导致 [新]",
-          "value": "349948 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%A5%BC%E5%A6%88%E5%A6%88%E6%80%80%E7%96%91%E6%96%BD%E5%B7%A5%E6%8B%86%E7%8E%BB%E7%92%83%E5%AF%BC%E8%87%B4&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 349948",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Mother suspects construction work caused daughter's fall..."
-          }
-        },
-        {
-          "title": "7. 星光大赏",
-          "value": "盛典 257756 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "盛典 257756",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Starry Night Awards..."
-          }
-        },
-        {
-          "title": "8. 独居老人百万房产赠侄女因逾期失效",
-          "value": "241472 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%AC%E5%B1%85%E8%80%81%E4%BA%BA%E7%99%BE%E4%B8%87%E6%88%BF%E4%BA%A7%E8%B5%A0%E4%BE%84%E5%A5%B3%E5%9B%A0%E9%80%BE%E6%9C%9F%E5%A4%B1%E6%95%88&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 241472",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Elderly man’s million-dollar property gift to niece..."
-          }
-        },
-        {
-          "title": "9. 孙颖莎说自己自愿去参赛",
-          "value": "196030 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%87%AA%E6%84%BF%E5%8E%BB%E5%8F%82%E8%B5%9B&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 196030",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Sun Yingsha said she volunteered to compete..."
-          }
-        },
-        {
-          "title": "10. 个头更大的草莓真是无辜的 [新]",
-          "value": "195140 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AA%E5%A4%B4%E6%9B%B4%E5%A4%A7%E7%9A%84%E8%8D%89%E8%8E%93%E7%9C%9F%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 195140",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Larger strawberries are truly innocent..."
           }
         }
       ]
