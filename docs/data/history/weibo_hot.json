@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-21T14:01:49+08:00",
+  "generated_at": "2025-12-21T18:37:40+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-21T18:37:40+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 星光大赏红毯",
+          "value": "7214217 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%AF%AF&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 7214217",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Starlight Awards red carpet..."
+          }
+        },
+        {
+          "title": "2. 冬至 [沸]",
+          "value": "467179 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%AC%E8%87%B3&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 467179",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Winter Solstice..."
+          }
+        },
+        {
+          "title": "3. 文化中国行冬至节气",
+          "value": "419016 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%86%AC%E8%87%B3%E8%8A%82%E6%B0%94&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 419016",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cultural China: Winter Solstice Festival..."
+          }
+        },
+        {
+          "title": "4. NBA超话圣诞愿望清单",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DNBA%E8%B6%85%E8%AF%9D%E5%9C%A3%E8%AF%9E%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "NBA Super Topic Christmas Wish List..."
+          }
+        },
+        {
+          "title": "5. 星光大赏座位",
+          "value": "盛典 415721 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%BA%A7%E4%BD%8D&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "盛典 415721",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Starry Night Awards seating arrangements..."
+          }
+        },
+        {
+          "title": "6. 考研结束 [荐]",
+          "value": "406424 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 406424",
+            "tag": "荐",
+            "api_source": "tianapi",
+            "translation": "Postgraduate entrance exam is over..."
+          }
+        },
+        {
+          "title": "7. 星光大赏",
+          "value": "盛典 404721 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "盛典 404721",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Starry Night Awards..."
+          }
+        },
+        {
+          "title": "8. 星光大赏后台 [新]",
+          "value": "盛典 371594 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%90%8E%E5%8F%B0&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "盛典 371594",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Starlight Awards backstage..."
+          }
+        },
+        {
+          "title": "9. 考研408",
+          "value": "340214 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%83%E7%A0%94408&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 340214",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Postgraduate entrance exam 408..."
+          }
+        },
+        {
+          "title": "10. 毛主席纪念堂重要公告 [新]",
+          "value": "298729 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%BA%AA%E5%BF%B5%E5%A0%82%E9%87%8D%E8%A6%81%E5%85%AC%E5%91%8A&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 298729",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Important announcement from Chairman Mao Memorial Hall..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-21T14:01:49+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Viper arrives at the BLG base..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-15T18:42:40+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 狙击蝴蝶大结局",
-          "value": "剧集 1139000 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%E5%A4%A7%E7%BB%93%E5%B1%80&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "剧集 1139000",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "The ending of \"Sniping the Butterfly\"..."
-          }
-        },
-        {
-          "title": "2. 大屠杀幸存者在悉尼枪击案中弹身亡",
-          "value": "388071 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E5%9C%A8%E6%82%89%E5%B0%BC%E6%9E%AA%E5%87%BB%E6%A1%88%E4%B8%AD%E5%BC%B9%E8%BA%AB%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 388071",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Holocaust survivor shot dead in Sydney shooting..."
-          }
-        },
-        {
-          "title": "3. 中国经济航船必将继续行稳致远",
-          "value": "355839 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%88%AA%E8%88%B9%E5%BF%85%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 355839",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China's economy will continue to sail steadily and far..."
-          }
-        },
-        {
-          "title": "4. 天猫双旦礼遇季开卖 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E7%8C%AB%E5%8F%8C%E6%97%A6%E7%A4%BC%E9%81%87%E5%AD%A3%E5%BC%80%E5%8D%96&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Tmall's Double 12 Holiday Sale is now live..."
-          }
-        },
-        {
-          "title": "5. 王俊凯你吓到全红婵了",
-          "value": "演出 328520 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%BD%A0%E5%90%93%E5%88%B0%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "演出 328520",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "Wang Junkai, you scared Quan Hongchan..."
-          }
-        },
-        {
-          "title": "6. 麦当劳回应涨价 [大卖]",
-          "value": "246452 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 246452",
-            "tag": "大卖",
-            "api_source": "tianapi",
-            "translation": "McDonald's responds to price increase..."
-          }
-        },
-        {
-          "title": "7. 哈尔滨一男子冻到血管破裂",
-          "value": "240150 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E7%94%B7%E5%AD%90%E5%86%BB%E5%88%B0%E8%A1%80%E7%AE%A1%E7%A0%B4%E8%A3%82&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 240150",
-            "tag": "\n                                                                \n                                    \n                                \n                                                            ",
-            "api_source": "tianapi",
-            "translation": "A man in Harbin suffered ruptured blood vessels from..."
-          }
-        },
-        {
-          "title": "8. 天猫礼遇大使侯明昊",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E7%8C%AB%E7%A4%BC%E9%81%87%E5%A4%A7%E4%BD%BF%E4%BE%AF%E6%98%8E%E6%98%8A&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tmall Ambassador Hou Minghao"
-          }
-        },
-        {
-          "title": "9. 我国首批L3自动驾驶车型获准入许可",
-          "value": "195949 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E5%87%86%E5%85%A5%E8%AE%B8%E5%8F%AF&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 195949",
-            "tag": "\n                                                            ",
-            "api_source": "tianapi",
-            "translation": "China's first batch of L3 autonomous vehicles approved..."
-          }
-        },
-        {
-          "title": "10. 麦当劳回应双吉汉堡越变越小 [沸]",
-          "value": "191488 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E5%8F%8C%E5%90%89%E6%B1%89%E5%A0%A1%E8%B6%8A%E5%8F%98%E8%B6%8A%E5%B0%8F&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 191488",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "McDonald's responds to the shrinking Double Happiness..."
           }
         }
       ]
