@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-24T06:04:33+08:00",
+  "generated_at": "2025-12-24T11:03:49+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-24T11:03:49+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 致癌精子生197个孩子部分已离世",
+          "value": "1171478 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%87%B4%E7%99%8C%E7%B2%BE%E5%AD%90%E7%94%9F197%E4%B8%AA%E5%AD%A9%E5%AD%90%E9%83%A8%E5%88%86%E5%B7%B2%E7%A6%BB%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1171478",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cancerous sperm fathered 197 children, some have died..."
+          }
+        },
+        {
+          "title": "2. 慕胥辞 [沸]",
+          "value": "剧集 608013 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%85%95%E8%83%A5%E8%BE%9E&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "剧集 608013",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Mu Xi Ci..."
+          }
+        },
+        {
+          "title": "3. 预计2025我国交通出行超660亿人次",
+          "value": "585916 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A2%84%E8%AE%A12025%E6%88%91%E5%9B%BD%E4%BA%A4%E9%80%9A%E5%87%BA%E8%A1%8C%E8%B6%85660%E4%BA%BF%E4%BA%BA%E6%AC%A1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 585916",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "By 2025, China's traffic will exceed 66 billion trips..."
+          }
+        },
+        {
+          "title": "4. 钉钉发布全球首个AI打工实体机",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%92%89%E9%92%89%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AAAI%E6%89%93%E5%B7%A5%E5%AE%9E%E4%BD%93%E6%9C%BA&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "DingTalk launches the world's first AI work machine..."
+          }
+        },
+        {
+          "title": "5. 专家建议尽量少用或不用肉宝王",
+          "value": "576413 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%B0%BD%E9%87%8F%E5%B0%91%E7%94%A8%E6%88%96%E4%B8%8D%E7%94%A8%E8%82%89%E5%AE%9D%E7%8E%8B&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 576413",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Experts suggest minimizing or avoiding the use of Meat..."
+          }
+        },
+        {
+          "title": "6. 年轻人把钱都穿在身上了 [商]",
+          "value": "523910 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%8A%E9%92%B1%E9%83%BD%E7%A9%BF%E5%9C%A8%E8%BA%AB%E4%B8%8A%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 523910",
+            "tag": "商",
+            "api_source": "tianapi",
+            "translation": "Young people spend all their money on clothing..."
+          }
+        },
+        {
+          "title": "7. NBA球员李凯尔国籍已改为美国",
+          "value": "376344 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DNBA%E7%90%83%E5%91%98%E6%9D%8E%E5%87%AF%E5%B0%94%E5%9B%BD%E7%B1%8D%E5%B7%B2%E6%94%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 376344",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "NBA player Li Kaier has changed his nationality to..."
+          }
+        },
+        {
+          "title": "8. 夸年岛派对 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%B8%E5%B9%B4%E5%B2%9B%E6%B4%BE%E5%AF%B9&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Kuanian Island Party..."
+          }
+        },
+        {
+          "title": "9. 李凯尔改回原名凯尔安德森",
+          "value": "302983 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%87%AF%E5%B0%94%E6%94%B9%E5%9B%9E%E5%8E%9F%E5%90%8D%E5%87%AF%E5%B0%94%E5%AE%89%E5%BE%B7%E6%A3%AE&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 302983",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Li Kaier changed back to his original name Kyle Anderson..."
+          }
+        },
+        {
+          "title": "10. 中方回应将允许韩流音乐等入华传言 [新]",
+          "value": "275497 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%86%E5%85%81%E8%AE%B8%E9%9F%A9%E6%B5%81%E9%9F%B3%E4%B9%90%E7%AD%89%E5%85%A5%E5%8D%8E%E4%BC%A0%E8%A8%80&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 275497",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "China responds to rumors of allowing K-pop music into..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-24T06:04:33+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Fashion Bazaar Awards list..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-18T11:03:19+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 2262年2个春节只放1次假",
-          "value": "1518649 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2262%E5%B9%B42%E4%B8%AA%E6%98%A5%E8%8A%82%E5%8F%AA%E6%94%BE1%E6%AC%A1%E5%81%87&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1518649",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "In 2262, there will be only one holiday for two Spring..."
-          }
-        },
-        {
-          "title": "2. 香港宣布取消维港跨年烟花汇演 [热]",
-          "value": "698441 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E7%BB%B4%E6%B8%AF%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%E6%B1%87%E6%BC%94&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 698441",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Hong Kong announces cancellation of Victoria Harbour New..."
-          }
-        },
-        {
-          "title": "3. 我国发现新矿物金秀矿",
-          "value": "564600 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%96%B0%E7%9F%BF%E7%89%A9%E9%87%91%E7%A7%80%E7%9F%BF&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 564600",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China discovers new mineral, Jinxiuite..."
-          }
-        },
-        {
-          "title": "4. 上京东 健康年度好物跟榜选",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E4%BA%AC%E4%B8%9C%20%E5%81%A5%E5%BA%B7%E5%B9%B4%E5%BA%A6%E5%A5%BD%E7%89%A9%E8%B7%9F%E6%A6%9C%E9%80%89&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "JD Health Annual Best Products Ranking..."
-          }
-        },
-        {
-          "title": "5. 春晚",
-          "value": "晚会 508614 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "晚会 508614",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Spring Festival Gala..."
-          }
-        },
-        {
-          "title": "6. 海南自贸港正式封关 [好物]",
-          "value": "407737 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%AD%A3%E5%BC%8F%E5%B0%81%E5%85%B3&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 407737",
-            "tag": "好物",
-            "api_source": "tianapi",
-            "translation": "Hainan Free Trade Port officially closed its borders..."
-          }
-        },
-        {
-          "title": "7. 泰柬冲突",
-          "value": "331615 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 331615",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Thailand-Cambodia conflict..."
-          }
-        },
-        {
-          "title": "8. 3分钟击破草莓5大谣言",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E5%88%86%E9%92%9F%E5%87%BB%E7%A0%B4%E8%8D%89%E8%8E%935%E5%A4%A7%E8%B0%A3%E8%A8%80&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "3 minutes to debunk 5 major strawberry myths..."
-          }
-        },
-        {
-          "title": "9. 香港女子疑点香薰引发火灾",
-          "value": "277619 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E7%96%91%E7%82%B9%E9%A6%99%E8%96%B0%E5%BC%95%E5%8F%91%E7%81%AB%E7%81%BE&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 277619",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Hong Kong woman suspected of causing fire with..."
-          }
-        },
-        {
-          "title": "10. 相亲双双隐瞒未离婚男方被打 [新]",
-          "value": "244179 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%B8%E4%BA%B2%E5%8F%8C%E5%8F%8C%E9%9A%90%E7%9E%92%E6%9C%AA%E7%A6%BB%E5%A9%9A%E7%94%B7%E6%96%B9%E8%A2%AB%E6%89%93&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 244179",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Blind date couple hides divorce status; man gets beaten..."
           }
         }
       ]
