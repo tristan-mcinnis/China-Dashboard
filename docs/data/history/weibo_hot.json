@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-27T14:01:42+08:00",
+  "generated_at": "2025-12-27T18:37:54+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-27T18:37:54+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 去封关后的海南被自己穷笑了",
+          "value": "1092823 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%BB%E5%B0%81%E5%85%B3%E5%90%8E%E7%9A%84%E6%B5%B7%E5%8D%97%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%A9%B7%E7%AC%91%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1092823",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Post-lockdown Hainan laughed at its own poverty..."
+          }
+        },
+        {
+          "title": "2. 新音节目单 [新]",
+          "value": "演出 457371 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E9%9F%B3%E8%8A%82%E7%9B%AE%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "演出 457371",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "New music program schedule..."
+          }
+        },
+        {
+          "title": "3. 十四五我国健儿获665个世界冠军",
+          "value": "375574 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E5%9B%9B%E4%BA%94%E6%88%91%E5%9B%BD%E5%81%A5%E5%84%BF%E8%8E%B7665%E4%B8%AA%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 375574",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "During the 14th Five-Year Plan, China won 665 world..."
+          }
+        },
+        {
+          "title": "4. 美团外卖祝你新年快点乐",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E7%A5%9D%E4%BD%A0%E6%96%B0%E5%B9%B4%E5%BF%AB%E7%82%B9%E4%B9%90&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Meituan Takeaway wishes you a happy New Year..."
+          }
+        },
+        {
+          "title": "5. 逍遥",
+          "value": "剧集 369533 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%8D%E9%81%A5&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 369533",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Free and carefree..."
+          }
+        },
+        {
+          "title": "6. 自杀银行女经理生前月薪五六万 [火热]",
+          "value": "340199 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%87%AA%E6%9D%80%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%BB%8F%E7%90%86%E7%94%9F%E5%89%8D%E6%9C%88%E8%96%AA%E4%BA%94%E5%85%AD%E4%B8%87&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 340199",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "The bank manager who committed suicide earned 50-60k..."
+          }
+        },
+        {
+          "title": "7. 女子发现接触两根手指能调整呼吸",
+          "value": "330741 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E6%8E%A5%E8%A7%A6%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E8%B0%83%E6%95%B4%E5%91%BC%E5%90%B8&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 330741",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Woman discovers two fingers can adjust her breathing..."
+          }
+        },
+        {
+          "title": "8. 罚罪2内鬼竞选101 [沸]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%9A%E7%BD%AA2%E5%86%85%E9%AC%BC%E7%AB%9E%E9%80%89101&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Punishment 2: Internal Saboteurs Compete 101..."
+          }
+        },
+        {
+          "title": "9. 人之初",
+          "value": "剧集 314457 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E4%B9%8B%E5%88%9D&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 314457",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The beginning of humanity..."
+          }
+        },
+        {
+          "title": "10. 新音 [新]",
+          "value": "演出 291774 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E9%9F%B3&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "演出 291774",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "New sound..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-27T14:01:42+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Fan Zhendong vs. Hauge..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-21T18:37:40+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 星光大赏红毯",
-          "value": "7214217 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%AF%AF&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 7214217",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Starlight Awards red carpet..."
-          }
-        },
-        {
-          "title": "2. 冬至 [沸]",
-          "value": "467179 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%AC%E8%87%B3&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 467179",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Winter Solstice..."
-          }
-        },
-        {
-          "title": "3. 文化中国行冬至节气",
-          "value": "419016 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%86%AC%E8%87%B3%E8%8A%82%E6%B0%94&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 419016",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cultural China: Winter Solstice Festival..."
-          }
-        },
-        {
-          "title": "4. NBA超话圣诞愿望清单",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DNBA%E8%B6%85%E8%AF%9D%E5%9C%A3%E8%AF%9E%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "NBA Super Topic Christmas Wish List..."
-          }
-        },
-        {
-          "title": "5. 星光大赏座位",
-          "value": "盛典 415721 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%BA%A7%E4%BD%8D&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "盛典 415721",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Starry Night Awards seating arrangements..."
-          }
-        },
-        {
-          "title": "6. 考研结束 [荐]",
-          "value": "406424 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 406424",
-            "tag": "荐",
-            "api_source": "tianapi",
-            "translation": "Postgraduate entrance exam is over..."
-          }
-        },
-        {
-          "title": "7. 星光大赏",
-          "value": "盛典 404721 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "盛典 404721",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Starry Night Awards..."
-          }
-        },
-        {
-          "title": "8. 星光大赏后台 [新]",
-          "value": "盛典 371594 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%90%8E%E5%8F%B0&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "盛典 371594",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Starlight Awards backstage..."
-          }
-        },
-        {
-          "title": "9. 考研408",
-          "value": "340214 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%83%E7%A0%94408&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 340214",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Postgraduate entrance exam 408..."
-          }
-        },
-        {
-          "title": "10. 毛主席纪念堂重要公告 [新]",
-          "value": "298729 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%BA%AA%E5%BF%B5%E5%A0%82%E9%87%8D%E8%A6%81%E5%85%AC%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 298729",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Important announcement from Chairman Mao Memorial Hall..."
           }
         }
       ]
