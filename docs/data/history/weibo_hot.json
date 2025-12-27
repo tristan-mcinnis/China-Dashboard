@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-27T06:04:05+08:00",
+  "generated_at": "2025-12-27T11:03:23+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-27T11:03:23+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 6名大学生坠落事故调查结果",
+          "value": "1171017 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1171017",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Investigation results of the fall accident involving 6..."
+          }
+        },
+        {
+          "title": "2. 霸王茶姬大跌 [热]",
+          "value": "764956 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%A4%A7%E8%B7%8C&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 764956",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Ba Wang Cha Ji experiences a significant drop..."
+          }
+        },
+        {
+          "title": "3. 这些大国工程见证中国之变",
+          "value": "592144 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E4%BA%9B%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%8F%98&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 592144",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "These major projects witness China's transformation..."
+          }
+        },
+        {
+          "title": "4. 美团外卖祝你新年快点乐",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E7%A5%9D%E4%BD%A0%E6%96%B0%E5%B9%B4%E5%BF%AB%E7%82%B9%E4%B9%90&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Meituan Waimai wishes you a happy New Year..."
+          }
+        },
+        {
+          "title": "5. 逍遥全阵容开播",
+          "value": "剧集 474342 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%8D%E9%81%A5%E5%85%A8%E9%98%B5%E5%AE%B9%E5%BC%80%E6%92%AD&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 474342",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The full cast of \"Carefree\" is now live..."
+          }
+        },
+        {
+          "title": "6. 爱奇艺腾讯优酷都发了赵丽颖 [火热]",
+          "value": "剧集 318112 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%A5%87%E8%89%BA%E8%85%BE%E8%AE%AF%E4%BC%98%E9%85%B7%E9%83%BD%E5%8F%91%E4%BA%86%E8%B5%B5%E4%B8%BD%E9%A2%96&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 318112",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "iQIYI, Tencent, and Youku all released Zhao Liying..."
+          }
+        },
+        {
+          "title": "7. 8旬老人与保姆发生性关系感染HIV",
+          "value": "318097 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D8%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%8E%E4%BF%9D%E5%A7%86%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB%E6%84%9F%E6%9F%93HIV&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 318097",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Elderly man in his 80s contracts HIV from caregiver..."
+          }
+        },
+        {
+          "title": "8. 一汽奥迪A5L乾崑智驾版到店热销 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E6%B1%BD%E5%A5%A5%E8%BF%AAA5L%E4%B9%BE%E5%B4%91%E6%99%BA%E9%A9%BE%E7%89%88%E5%88%B0%E5%BA%97%E7%83%AD%E9%94%80&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "FAW Audi A5L QianKun Smart Driving Edition is hot-selling."
+          }
+        },
+        {
+          "title": "9. 同事为了请假已经不择手段了",
+          "value": "313383 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%8C%E4%BA%8B%E4%B8%BA%E4%BA%86%E8%AF%B7%E5%81%87%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 313383",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A colleague is resorting to any means to take leave..."
+          }
+        },
+        {
+          "title": "10. 宝马销冠一口价营销8天卖11台 [新]",
+          "value": "301405 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%9D%E9%A9%AC%E9%94%80%E5%86%A0%E4%B8%80%E5%8F%A3%E4%BB%B7%E8%90%A5%E9%94%808%E5%A4%A9%E5%8D%9611%E5%8F%B0&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 301405",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "BMW's fixed-price marketing sold 11 cars in 8 days..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-27T06:04:05+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Starry Night Awards program list..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-21T11:07:54+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 冬至",
-          "value": "1188761 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%AC%E8%87%B3&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1188761",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Winter Solstice..."
-          }
-        },
-        {
-          "title": "2. 星光大赏出图 [新]",
-          "value": "盛典 846015 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%87%BA%E5%9B%BE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "盛典 846015",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Starlight Awards photo release..."
-          }
-        },
-        {
-          "title": "3. 男子直播影响游客煽动人肉保安被拘",
-          "value": "829319 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E5%BD%B1%E5%93%8D%E6%B8%B8%E5%AE%A2%E7%85%BD%E5%8A%A8%E4%BA%BA%E8%82%89%E4%BF%9D%E5%AE%89%E8%A2%AB%E6%8B%98&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 829319",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Man arrested for inciting mob against security during..."
-          }
-        },
-        {
-          "title": "4. 张韶涵回应裁员裁到大动脉",
-          "value": "演出 816858 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%9B%9E%E5%BA%94%E8%A3%81%E5%91%98%E8%A3%81%E5%88%B0%E5%A4%A7%E5%8A%A8%E8%84%89&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "演出 816858",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zhang Shaohan responds to layoffs affecting vital areas..."
-          }
-        },
-        {
-          "title": "5. 央视曝光旧手机回收猫腻",
-          "value": "803351 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%97%A7%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E7%8C%AB%E8%85%BB&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 803351",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "CCTV exposes tricks in old mobile phone recycling..."
-          }
-        },
-        {
-          "title": "6. 毛晓彤星光大赏没约到摄影师 [新]",
-          "value": "盛典 378020 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%9B%E6%99%93%E5%BD%A4%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E6%B2%A1%E7%BA%A6%E5%88%B0%E6%91%84%E5%BD%B1%E5%B8%88&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "盛典 378020",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Mao Xiaotong couldn't book a photographer for the awards..."
-          }
-        },
-        {
-          "title": "7. 腾讯视频金鹅荣誉",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E9%87%91%E9%B9%85%E8%8D%A3%E8%AA%89&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tencent Video Golden Goose Honor..."
-          }
-        },
-        {
-          "title": "8. 丈夫全程喊刹车妻子仍撞上路人 [热]",
-          "value": "349433 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%88%E5%A4%AB%E5%85%A8%E7%A8%8B%E5%96%8A%E5%88%B9%E8%BD%A6%E5%A6%BB%E5%AD%90%E4%BB%8D%E6%92%9E%E4%B8%8A%E8%B7%AF%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 349433",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Husband shouted \"brake\" but wife still hit a pedestrian..."
-          }
-        },
-        {
-          "title": "9. 冬至踩小人",
-          "value": "252417 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%AC%E8%87%B3%E8%B8%A9%E5%B0%8F%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 252417",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Winter solstice stepping on little people..."
-          }
-        },
-        {
-          "title": "10. 苹果炖奶 [新]",
-          "value": "252393 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B9%E6%9E%9C%E7%82%96%E5%A5%B6&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 252393",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Stewed milk with apples..."
           }
         }
       ]
