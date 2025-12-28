@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-28T06:04:04+08:00",
+  "generated_at": "2025-12-28T11:13:22+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-28T11:13:22+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 台湾海域6.6级地震",
+          "value": "1079614 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1079614",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "6.6 magnitude earthquake in Taiwan waters..."
+          }
+        },
+        {
+          "title": "2. 男子爱奇艺会员充了25年遇退费难 [沸]",
+          "value": "429559 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E7%88%B1%E5%A5%87%E8%89%BA%E4%BC%9A%E5%91%98%E5%85%85%E4%BA%8625%E5%B9%B4%E9%81%87%E9%80%80%E8%B4%B9%E9%9A%BE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 429559",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Man struggles to get a refund after 25 years of iQIYI..."
+          }
+        },
+        {
+          "title": "3. 中国低温火箭年度发射新纪录",
+          "value": "387008 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BD%8E%E6%B8%A9%E7%81%AB%E7%AE%AD%E5%B9%B4%E5%BA%A6%E5%8F%91%E5%B0%84%E6%96%B0%E7%BA%AA%E5%BD%95&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 387008",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China sets new annual launch record for cryogenic rockets..."
+          }
+        },
+        {
+          "title": "4. 爱奇艺回应充25年会员退费难",
+          "value": "383278 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%BA%94%E5%85%8525%E5%B9%B4%E4%BC%9A%E5%91%98%E9%80%80%E8%B4%B9%E9%9A%BE&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 383278",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "iQIYI responds to difficulties in refunding 25-year..."
+          }
+        },
+        {
+          "title": "5. 橹穆双人舞台",
+          "value": "演出 327737 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A9%B9%E7%A9%86%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "演出 327737",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Mu Lu's duet stage..."
+          }
+        },
+        {
+          "title": "6. 大盘鸡店侮辱性回复学生差评被摘牌 [新]",
+          "value": "320848 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E7%9B%98%E9%B8%A1%E5%BA%97%E4%BE%AE%E8%BE%B1%E6%80%A7%E5%9B%9E%E5%A4%8D%E5%AD%A6%E7%94%9F%E5%B7%AE%E8%AF%84%E8%A2%AB%E6%91%98%E7%89%8C&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 320848",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Restaurant insults student in response to bad review,..."
+          }
+        },
+        {
+          "title": "7. 梁龙和花呗送花被 帮还花呗",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%81%E9%BE%99%E5%92%8C%E8%8A%B1%E5%91%97%E9%80%81%E8%8A%B1%E8%A2%AB%20%E5%B8%AE%E8%BF%98%E8%8A%B1%E5%91%97&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liang Long and Huabei send flowers to help repay Huabei..."
+          }
+        },
+        {
+          "title": "8. 普京突然穿上军装",
+          "value": "289603 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E4%BA%AC%E7%AA%81%E7%84%B6%E7%A9%BF%E4%B8%8A%E5%86%9B%E8%A3%85&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 289603",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Putin suddenly put on military uniform..."
+          }
+        },
+        {
+          "title": "9. 一诺暂时告别赛场",
+          "value": "286786 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%AF%BA%E6%9A%82%E6%97%B6%E5%91%8A%E5%88%AB%E8%B5%9B%E5%9C%BA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 286786",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yinuo temporarily bids farewell to the arena..."
+          }
+        },
+        {
+          "title": "10. 剑桥硕士面试小学英语教培被刷 [新]",
+          "value": "265058 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%89%91%E6%A1%A5%E7%A1%95%E5%A3%AB%E9%9D%A2%E8%AF%95%E5%B0%8F%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%95%99%E5%9F%B9%E8%A2%AB%E5%88%B7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 265058",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Rejected in Cambridge Master's interview for primary..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-28T06:04:04+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "沸",
             "api_source": "tianapi",
             "translation": "The grilled chicken boy admits to using Meat Treasure..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-22T11:10:07+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 央视曝光旧衣回收产业",
-          "value": "1062037 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%97%A7%E8%A1%A3%E5%9B%9E%E6%94%B6%E4%BA%A7%E4%B8%9A&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1062037",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "CCTV exposes the used clothing recycling industry..."
-          }
-        },
-        {
-          "title": "2. 中国女子在欧洲邮轮上人间蒸发",
-          "value": "243399 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%AC%A7%E6%B4%B2%E9%82%AE%E8%BD%AE%E4%B8%8A%E4%BA%BA%E9%97%B4%E8%92%B8%E5%8F%91&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 243399",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese woman disappears on European cruise..."
-          }
-        },
-        {
-          "title": "3. 我国数字消费用户规模超9.5亿人",
-          "value": "242968 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E6%95%B0%E5%AD%97%E6%B6%88%E8%B4%B9%E7%94%A8%E6%88%B7%E8%A7%84%E6%A8%A1%E8%B6%859.5%E4%BA%BF%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 242968",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China's digital consumer base exceeds 950 million..."
-          }
-        },
-        {
-          "title": "4. 孟子义摔出了神图",
-          "value": "盛典 234263 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%9F%E5%AD%90%E4%B9%89%E6%91%94%E5%87%BA%E4%BA%86%E7%A5%9E%E5%9B%BE&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "盛典 234263",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Meng Ziyi fell and revealed a divine image..."
-          }
-        },
-        {
-          "title": "5. 职工医保和居民医保的区别",
-          "value": "229823 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E5%92%8C%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E7%9A%84%E5%8C%BA%E5%88%AB&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 229823",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Differences between employee and resident health..."
-          }
-        },
-        {
-          "title": "6. 本周做什么都顺的星座 [新]",
-          "value": "223030 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%AC%E5%91%A8%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E9%A1%BA%E7%9A%84%E6%98%9F%E5%BA%A7&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 223030",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "This week's lucky zodiac signs for everything..."
-          }
-        },
-        {
-          "title": "7. 城就美好爽居贵州",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9F%8E%E5%B0%B1%E7%BE%8E%E5%A5%BD%E7%88%BD%E5%B1%85%E8%B4%B5%E5%B7%9E&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The city is beautiful and comfortable to live in Guizhou..."
-          }
-        },
-        {
-          "title": "8. 鞠婧祎山顶视角神图",
-          "value": "盛典 221382 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%B1%B1%E9%A1%B6%E8%A7%86%E8%A7%92%E7%A5%9E%E5%9B%BE&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "盛典 221382",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Ju Jingyi's stunning mountaintop view photo..."
-          }
-        },
-        {
-          "title": "9. 私人影院异性陪侍4人被刑拘",
-          "value": "186856 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2%E5%BC%82%E6%80%A7%E9%99%AA%E4%BE%8D4%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 186856",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Four people detained for providing companionship in..."
-          }
-        },
-        {
-          "title": "10. 女子恋爱中被要求攒够4万再结婚 [新]",
-          "value": "186754 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E4%B8%AD%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%92%E5%A4%9F4%E4%B8%87%E5%86%8D%E7%BB%93%E5%A9%9A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 186754",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "A woman is asked to save 40,000 before getting married..."
           }
         }
       ]
