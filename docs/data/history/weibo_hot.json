@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-29T06:04:14+08:00",
+  "generated_at": "2025-12-29T11:13:34+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-29T11:13:34+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 东部战区",
+          "value": "1121442 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1121442",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Eastern Theater Command"
+          }
+        },
+        {
+          "title": "2. 上海禁毒回应霸王茶姬咖啡因争议 [热]",
+          "value": "558546 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E7%A6%81%E6%AF%92%E5%9B%9E%E5%BA%94%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E4%BA%89%E8%AE%AE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 558546",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Shanghai anti-drug authorities respond to caffeine..."
+          }
+        },
+        {
+          "title": "3. 我国首个6车道改12车道高速通车",
+          "value": "473200 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E9%A6%96%E4%B8%AA6%E8%BD%A6%E9%81%93%E6%94%B912%E8%BD%A6%E9%81%93%E9%AB%98%E9%80%9F%E9%80%9A%E8%BD%A6&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 473200",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China's first 6-lane highway expanded to 12 lanes opens..."
+          }
+        },
+        {
+          "title": "4. 上拼多多买森马品质羽绒服",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%8B%BC%E5%A4%9A%E5%A4%9A%E4%B9%B0%E6%A3%AE%E9%A9%AC%E5%93%81%E8%B4%A8%E7%BE%BD%E7%BB%92%E6%9C%8D&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Buy Senma quality down jackets on Pinduoduo..."
+          }
+        },
+        {
+          "title": "5. 医生称薯片是垃圾食品中的垃圾食品",
+          "value": "431395 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E7%94%9F%E7%A7%B0%E8%96%AF%E7%89%87%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%E4%B8%AD%E7%9A%84%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 431395",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Doctors say chips are the worst of junk food..."
+          }
+        },
+        {
+          "title": "6. 唐嫣找准了自己赛道 [好物]",
+          "value": "剧集 405591 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E5%AB%A3%E6%89%BE%E5%87%86%E4%BA%86%E8%87%AA%E5%B7%B1%E8%B5%9B%E9%81%93&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 405591",
+            "tag": "好物",
+            "api_source": "tianapi",
+            "translation": "Tang Yan has found her own path."
+          }
+        },
+        {
+          "title": "7. 2026放假安排日历",
+          "value": "346040 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%97%A5%E5%8E%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 346040",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2026 holiday schedule calendar..."
+          }
+        },
+        {
+          "title": "8. 上微博涨知识 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E5%BE%AE%E5%8D%9A%E6%B6%A8%E7%9F%A5%E8%AF%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Gain knowledge by browsing Weibo..."
+          }
+        },
+        {
+          "title": "9. 当事人回应大鹅河沟突然消失",
+          "value": "303900 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%B9%85%E6%B2%B3%E6%B2%9F%E7%AA%81%E7%84%B6%E6%B6%88%E5%A4%B1&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 303900",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Parties respond to the sudden disappearance of Goose..."
+          }
+        },
+        {
+          "title": "10. 窈窈有期开机 [新]",
+          "value": "剧集 268188 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AA%88%E7%AA%88%E6%9C%89%E6%9C%9F%E5%BC%80%E6%9C%BA&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 268188",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yao Yao has a scheduled startup..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-29T06:04:14+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Gold price surpasses 1400 yuan..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-23T11:05:43+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 俄乌杀红了眼",
-          "value": "1176527 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BF%84%E4%B9%8C%E6%9D%80%E7%BA%A2%E4%BA%86%E7%9C%BC&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1176527",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Russia-Ukraine conflict has become intensely violent..."
-          }
-        },
-        {
-          "title": "2. 长征十二号甲火箭回收失败 [新]",
-          "value": "1057374 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E5%BE%81%E5%8D%81%E4%BA%8C%E5%8F%B7%E7%94%B2%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E5%A4%B1%E8%B4%A5&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1057374",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Long March 12A rocket recovery failed..."
-          }
-        },
-        {
-          "title": "3. 利用AI造谣中国女篮两男子刑拘",
-          "value": "859460 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%A9%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E5%88%91%E6%8B%98&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 859460",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Two men detained for spreading rumors about China's..."
-          }
-        },
-        {
-          "title": "4. 穿极地探极致",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%BF%E6%9E%81%E5%9C%B0%E6%8E%A2%E6%9E%81%E8%87%B4&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Exploring the extremes of the polar regions..."
-          }
-        },
-        {
-          "title": "5. 长征十二号甲火箭",
-          "value": "749407 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E5%BE%81%E5%8D%81%E4%BA%8C%E5%8F%B7%E7%94%B2%E7%81%AB%E7%AE%AD&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 749407",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Long March 12A rocket..."
-          }
-        },
-        {
-          "title": "6. 玉兰花开君再来 [上新]",
-          "value": "剧集 584308 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%89%E5%85%B0%E8%8A%B1%E5%BC%80%E5%90%9B%E5%86%8D%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "剧集 584308",
-            "tag": "上新",
-            "api_source": "tianapi",
-            "translation": "Magnolia blooms, you come again..."
-          }
-        },
-        {
-          "title": "7. 女生开电热毯睡太沉醒来屁股淤青",
-          "value": "509609 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E7%94%9F%E5%BC%80%E7%94%B5%E7%83%AD%E6%AF%AF%E7%9D%A1%E5%A4%AA%E6%B2%89%E9%86%92%E6%9D%A5%E5%B1%81%E8%82%A1%E6%B7%A4%E9%9D%92&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 509609",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Girl wakes up with bruised butt from sleeping on..."
-          }
-        },
-        {
-          "title": "8. 电影火拼型男火力全开 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E5%BD%B1%E7%81%AB%E6%8B%BC%E5%9E%8B%E7%94%B7%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The movie \"Action Men: Full Firepower\"..."
-          }
-        },
-        {
-          "title": "9. 妻子被砍杀8岁儿子扑上挡刀",
-          "value": "461549 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A6%BB%E5%AD%90%E8%A2%AB%E7%A0%8D%E6%9D%808%E5%B2%81%E5%84%BF%E5%AD%90%E6%89%91%E4%B8%8A%E6%8C%A1%E5%88%80&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 461549",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wife was murdered; 8-year-old son jumped in to block the..."
-          }
-        },
-        {
-          "title": "10. iPhone实况图的选取机制 [新]",
-          "value": "368022 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhone%E5%AE%9E%E5%86%B5%E5%9B%BE%E7%9A%84%E9%80%89%E5%8F%96%E6%9C%BA%E5%88%B6&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 368022",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Selection mechanism of iPhone Live Photos..."
           }
         }
       ]
