@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-29T11:13:34+08:00",
+  "generated_at": "2025-12-29T14:02:33+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-29T14:02:33+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 中方要求彻查中巴公园拆除事件",
+          "value": "1120546 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E8%A6%81%E6%B1%82%E5%BD%BB%E6%9F%A5%E4%B8%AD%E5%B7%B4%E5%85%AC%E5%9B%AD%E6%8B%86%E9%99%A4%E4%BA%8B%E4%BB%B6&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1120546",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China demands a thorough investigation into the park..."
+          }
+        },
+        {
+          "title": "2. 青你成团选手在livehouse当保洁",
+          "value": "综艺 316578 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%92%E4%BD%A0%E6%88%90%E5%9B%A2%E9%80%89%E6%89%8B%E5%9C%A8livehouse%E5%BD%93%E4%BF%9D%E6%B4%81&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "综艺 316578",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "\"Contestants from 'Youth With You' work as cleaners at a..."
+          }
+        },
+        {
+          "title": "3. 2026跨年大范围雨雪登场",
+          "value": "307483 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E8%B7%A8%E5%B9%B4%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E7%99%BB%E5%9C%BA&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 307483",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Widespread rain and snow to debut for New Year's 2026..."
+          }
+        },
+        {
+          "title": "4. 鸿蒙和TA的伙伴们",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%BF%E8%92%99%E5%92%8CTA%E7%9A%84%E4%BC%99%E4%BC%B4%E4%BB%AC&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "HarmonyOS and its partners..."
+          }
+        },
+        {
+          "title": "5. 白银黄金直线暴跌",
+          "value": "306815 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%93%B6%E9%BB%84%E9%87%91%E7%9B%B4%E7%BA%BF%E6%9A%B4%E8%B7%8C&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 306815",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Silver and gold prices plummet sharply..."
+          }
+        },
+        {
+          "title": "6. 张杰演唱会嘉宾 [重磅]",
+          "value": "演出 306663 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "演出 306663",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Zhang Jie concert guest..."
+          }
+        },
+        {
+          "title": "7. 骄阳似我 苏州没有机场",
+          "value": "剧集 305961 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E8%8B%8F%E5%B7%9E%E6%B2%A1%E6%9C%89%E6%9C%BA%E5%9C%BA&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 305961",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The blazing sun like me, Suzhou has no airport..."
+          }
+        },
+        {
+          "title": "8. 朱易出现失误无缘米兰冬奥会 [新]",
+          "value": "270837 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B1%E6%98%93%E5%87%BA%E7%8E%B0%E5%A4%B1%E8%AF%AF%E6%97%A0%E7%BC%98%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 270837",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Zhu Yi's mistake costs her a spot in the Milan Winter..."
+          }
+        },
+        {
+          "title": "9. 小孩饭 大人饭",
+          "value": "256409 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%AD%A9%E9%A5%AD%20%E5%A4%A7%E4%BA%BA%E9%A5%AD&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 256409",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Kids' meals, adults' meals..."
+          }
+        },
+        {
+          "title": "10. 医生称薯片是垃圾食品中的垃圾食品 [新]",
+          "value": "250198 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E7%94%9F%E7%A7%B0%E8%96%AF%E7%89%87%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%E4%B8%AD%E7%9A%84%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 250198",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Doctors say chips are the worst of junk food..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-29T11:13:34+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "沸",
             "api_source": "tianapi",
             "translation": "First time trying sashimi, secretly deep-fried it..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-23T14:01:52+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 江苏成立调查组彻查南博文物管理问题",
-          "value": "1106633 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1106633",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Jiangsu establishes investigation team for Nanjing..."
-          }
-        },
-        {
-          "title": "2. 俄乌杀红了眼 [热]",
-          "value": "463237 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BF%84%E4%B9%8C%E6%9D%80%E7%BA%A2%E4%BA%86%E7%9C%BC&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 463237",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "The Russia-Ukraine conflict has become intense..."
-          }
-        },
-        {
-          "title": "3. 我国冰雪产业规模将破万亿元",
-          "value": "402626 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E5%86%B0%E9%9B%AA%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E7%A0%B4%E4%B8%87%E4%BA%BF%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 402626",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China's ice and snow industry will exceed one trillion..."
-          }
-        },
-        {
-          "title": "4. 穿极地探极致",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%BF%E6%9E%81%E5%9C%B0%E6%8E%A2%E6%9E%81%E8%87%B4&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Explore the extremes of the polar regions..."
-          }
-        },
-        {
-          "title": "5. 英国将禁止将活龙虾直接投入沸水烹煮",
-          "value": "396878 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B1%E5%9B%BD%E5%B0%86%E7%A6%81%E6%AD%A2%E5%B0%86%E6%B4%BB%E9%BE%99%E8%99%BE%E7%9B%B4%E6%8E%A5%E6%8A%95%E5%85%A5%E6%B2%B8%E6%B0%B4%E7%83%B9%E7%85%AE&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 396878",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The UK will ban boiling live lobsters directly..."
-          }
-        },
-        {
-          "title": "6. 松韵我有点不认识你了 [上新]",
-          "value": "剧集 379278 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%BE%E9%9F%B5%E6%88%91%E6%9C%89%E7%82%B9%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%BD%A0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "剧集 379278",
-            "tag": "上新",
-            "api_source": "tianapi",
-            "translation": "Song Yun, I don't quite recognize you anymore..."
-          }
-        },
-        {
-          "title": "7. 考北大睡过头了",
-          "value": "377288 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%83%E5%8C%97%E5%A4%A7%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 377288",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Overslept for the Peking University exam..."
-          }
-        },
-        {
-          "title": "8. 吴磊嚼着益达好自在 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E7%A3%8A%E5%9A%BC%E7%9D%80%E7%9B%8A%E8%BE%BE%E5%A5%BD%E8%87%AA%E5%9C%A8&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Wu Lei enjoys chewing on Yida gum..."
-          }
-        },
-        {
-          "title": "9. 唐诡奇谭之九重楼定档",
-          "value": "307565 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E8%AF%A1%E5%A5%87%E8%B0%AD%E4%B9%8B%E4%B9%9D%E9%87%8D%E6%A5%BC%E5%AE%9A%E6%A1%A3&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 307565",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "\"Strange Tales of Tang: Ninefold Tower set for release...\""
-          }
-        },
-        {
-          "title": "10. 金价突破1400元 [新]",
-          "value": "297653 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 297653",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Gold price surpasses 1400 yuan..."
           }
         }
       ]
