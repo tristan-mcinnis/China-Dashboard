@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2025-12-29T18:40:45+08:00",
+  "generated_at": "2025-12-29T22:09:34+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-29T22:09:34+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 总书记始终不变的牵挂",
+          "value": "指数 7904471",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904471",
+            "api_source": "tianapi",
+            "translation": "The unwavering concern of the General Secretary..."
+          }
+        },
+        {
+          "title": "2. 《新闻联播》出现台北101大楼画面",
+          "value": "指数 7809792",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E5%87%BA%E7%8E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E6%A5%BC%E7%94%BB%E9%9D%A2",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809792",
+            "api_source": "tianapi",
+            "translation": "Taipei 101 appears in \"News Broadcast\" footage..."
+          }
+        },
+        {
+          "title": "3. 东部战区：这么近那么美 随时到台北",
+          "value": "指数 7712357",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%EF%BC%9A%E8%BF%99%E4%B9%88%E8%BF%91%E9%82%A3%E4%B9%88%E7%BE%8E+%E9%9A%8F%E6%97%B6%E5%88%B0%E5%8F%B0%E5%8C%97",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7712357",
+            "api_source": "tianapi",
+            "translation": "Eastern Theater Command: So close, so beautiful, ready..."
+          }
+        },
+        {
+          "title": "4. 我国知识产权保护绩效位列全球第一",
+          "value": "指数 7617211",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%88%91%E5%9B%BD%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E4%BF%9D%E6%8A%A4%E7%BB%A9%E6%95%88%E4%BD%8D%E5%88%97%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617211",
+            "api_source": "tianapi",
+            "translation": "China ranks first globally in intellectual property..."
+          }
+        },
+        {
+          "title": "5. 上海男生掷纸飞机98.43米破世界纪录",
+          "value": "指数 7523156",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%94%9F%E6%8E%B7%E7%BA%B8%E9%A3%9E%E6%9C%BA98.43%E7%B1%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7523156",
+            "api_source": "tianapi",
+            "translation": "Shanghai boy breaks world record by throwing paper..."
+          }
+        },
+        {
+          "title": "6. 白银狂飙后跳水 交易所出手",
+          "value": "指数 7428618",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%99%BD%E9%93%B6%E7%8B%82%E9%A3%99%E5%90%8E%E8%B7%B3%E6%B0%B4+%E4%BA%A4%E6%98%93%E6%89%80%E5%87%BA%E6%89%8B",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7428618",
+            "api_source": "tianapi",
+            "translation": "Silver soars then plummets; exchanges intervene..."
+          }
+        },
+        {
+          "title": "7. “被打还手即互殴”成为历史",
+          "value": "指数 7329218",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E8%A2%AB%E6%89%93%E8%BF%98%E6%89%8B%E5%8D%B3%E4%BA%92%E6%AE%B4%E2%80%9D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7329218",
+            "api_source": "tianapi",
+            "translation": "\"Fighting back after being attacked is now history.\""
+          }
+        },
+        {
+          "title": "8. 企业给员工发年终奖最高160万",
+          "value": "指数 7237886",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BC%81%E4%B8%9A%E7%BB%99%E5%91%98%E5%B7%A5%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96%E6%9C%80%E9%AB%98160%E4%B8%87",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7237886",
+            "api_source": "tianapi",
+            "translation": "The company awards year-end bonuses up to 1.6 million..."
+          }
+        },
+        {
+          "title": "9. 扫地机器人巨头宣布：给全员发黄金",
+          "value": "指数 7139664",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A8%E5%A4%B4%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%BB%99%E5%85%A8%E5%91%98%E5%8F%91%E9%BB%84%E9%87%91",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7139664",
+            "api_source": "tianapi",
+            "translation": "Robot vacuum giant announces: gold for all employees..."
+          }
+        },
+        {
+          "title": "10. 微信回应“占内存”",
+          "value": "指数 7048782",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8D%A0%E5%86%85%E5%AD%98%E2%80%9D",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7048782",
+            "api_source": "tianapi",
+            "translation": "WeChat responds to \"taking up memory\"..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-29T18:40:45+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7043585",
             "api_source": "tianapi",
             "translation": "CCTV exposes free broadband installation scam..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-23T22:09:15+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 绿水青山入画来",
-          "value": "指数 7904250",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E5%85%A5%E7%94%BB%E6%9D%A5",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904250",
-            "api_source": "tianapi",
-            "translation": "Green waters and lush mountains come into the picture..."
-          }
-        },
-        {
-          "title": "2. 京东巴黎仓库遭盗窃损失超3亿元",
-          "value": "指数 7808475",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%AC%E4%B8%9C%E5%B7%B4%E9%BB%8E%E4%BB%93%E5%BA%93%E9%81%AD%E7%9B%97%E7%AA%83%E6%8D%9F%E5%A4%B1%E8%B6%853%E4%BA%BF%E5%85%83",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808475",
-            "api_source": "tianapi",
-            "translation": "JD.com's Paris warehouse robbed, losses exceed 300..."
-          }
-        },
-        {
-          "title": "3. 央视曝光免费装宽带骗局",
-          "value": "指数 7714003",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%8D%E8%B4%B9%E8%A3%85%E5%AE%BD%E5%B8%A6%E9%AA%97%E5%B1%80",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7714003",
-            "api_source": "tianapi",
-            "translation": "CCTV exposes free broadband installation scam..."
-          }
-        },
-        {
-          "title": "4. 冬季也能“热”出病？很多人都忽视了",
-          "value": "指数 7618016",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%86%AC%E5%AD%A3%E4%B9%9F%E8%83%BD%E2%80%9C%E7%83%AD%E2%80%9D%E5%87%BA%E7%97%85%EF%BC%9F%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%83%BD%E5%BF%BD%E8%A7%86%E4%BA%86",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618016",
-            "api_source": "tianapi",
-            "translation": "Winter can also cause illness; many overlook this..."
-          }
-        },
-        {
-          "title": "5. 每发射3枚火箭就有1枚来自中国",
-          "value": "指数 7521799",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%AF%8F%E5%8F%91%E5%B0%843%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%B0%B1%E6%9C%891%E6%9E%9A%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7521799",
-            "api_source": "tianapi",
-            "translation": "One in three rockets launched is from China..."
-          }
-        },
-        {
-          "title": "6. “蛋神”成立公司",
-          "value": "指数 7425361",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E8%9B%8B%E7%A5%9E%E2%80%9D%E6%88%90%E7%AB%8B%E5%85%AC%E5%8F%B8",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7425361",
-            "api_source": "tianapi",
-            "translation": "\"Egg God\" establishes a company..."
-          }
-        },
-        {
-          "title": "7. 两男子用AI造谣中国女篮被刑拘",
-          "value": "指数 7328996",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7328996",
-            "api_source": "tianapi",
-            "translation": "Two men arrested for using AI to defame China's women's..."
-          }
-        },
-        {
-          "title": "8. 自称考北大睡过头女生回应选择北大",
-          "value": "指数 7233371",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%87%AA%E7%A7%B0%E8%80%83%E5%8C%97%E5%A4%A7%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E9%80%89%E6%8B%A9%E5%8C%97%E5%A4%A7",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7233371",
-            "api_source": "tianapi",
-            "translation": "Girl who overslept claims she chose Peking University..."
-          }
-        },
-        {
-          "title": "9. 1岁宝宝因“前额秃”被调侃",
-          "value": "指数 7139589",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=1%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A0%E2%80%9C%E5%89%8D%E9%A2%9D%E7%A7%83%E2%80%9D%E8%A2%AB%E8%B0%83%E4%BE%83",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7139589",
-            "api_source": "tianapi",
-            "translation": "1-year-old baby teased for \"bald forehead\"..."
-          }
-        },
-        {
-          "title": "10. 新疆活体帝王蟹进口贸易额突破一亿",
-          "value": "指数 7040202",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E7%96%86%E6%B4%BB%E4%BD%93%E5%B8%9D%E7%8E%8B%E8%9F%B9%E8%BF%9B%E5%8F%A3%E8%B4%B8%E6%98%93%E9%A2%9D%E7%AA%81%E7%A0%B4%E4%B8%80%E4%BA%BF",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7040202",
-            "api_source": "tianapi",
-            "translation": "Import trade of live king crabs from Xinjiang exceeds..."
           }
         }
       ]
