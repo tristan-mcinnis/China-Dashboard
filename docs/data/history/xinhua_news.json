@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2025-12-30T14:02:07+08:00",
+  "generated_at": "2025-12-30T18:40:35+08:00",
   "entries": [
+    {
+      "as_of": "2025-12-30T18:40:35+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息｜破1000万标箱！广西北部湾港集装箱吞吐量迎历史新高",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGliNXFDM1ZJcDZEM0I3eFRHZTk1WTdNSGpIdjVqemlCVm9LRktMTlA0MlRrcS00RW5tUno4NHdETERJV213dWxRNWZVNnAtSks2UENYWEh5bkhHZDkxV0VIN2s5X2lja0pxdDVoOWRjMWh1RkdDVE81V0RvN1hkUjBJUG5jb2It?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-29T22:19:21Z",
+            "summary": "新华社消息｜破1000万标箱！广西北部湾港集装箱吞吐量迎历史新高 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: Beibu Gulf Port's container throughput..."
+          }
+        },
+        {
+          "title": "“神州北极”漠河上演冬捕",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzM5S1hnOXMtNGZSakYwZFota1BqSzN4NVN5TEhlajVfM0M5VVRDd0pkS20tekpEX2U4QzBVaGxsSk9hbzdlOUkzeE5OQ05mUnJJbEN4U09jUnQ4UFZhdk1naXJrYUhUNUxBNGlrNUprdmthRWZBVXpINWQ3RVNVVjl2VHUzQQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-29T23:36:59Z",
+            "summary": "“神州北极”漠河上演冬捕 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"Shenzhou Arctic\" Mohe showcases winter fishing..."
+          }
+        },
+        {
+          "title": "新华社消息丨中央农村工作会议在京召开 习近平对做好“三农”工作作出重要指示",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWtobHNpZEVrXzBla0NERWprV3M3ZTNpT19ERkx5NmU1R2FkZGJlenJhcnJEYS1iWklLSlhHM0JqNmlOdWxTbDNNY1pqR1JiV20yQzFVVlJuSUtqRWtIZFNUOG42QUZxckV2dk9lajAwWDBwdEhoMzFEb3MxVGcxS19EYVhWcUtfUlJseXUxZVZtU29L?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-29T20:34:24Z",
+            "summary": "新华社消息丨中央农村工作会议在京召开 习近平对做好“三农”工作作出重要指示 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: Central rural work meeting held in..."
+          }
+        },
+        {
+          "title": "中方坚决反对以色列承认索马里兰",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHQxUjU3ZDJHSGJhaXNKbXRaZ0E3bjNCcElvVjNqd3BXUjZzOUhmZ0x6UUZaWF80TXV4NjlRNmRNYkNSa0lqLU5malFlbnlLd0dhWW1BVHBUYTk0WXVCanVVVG5ETnR4Smw1UEFIZFdDOHRHckpBQjFYT3lyRzNhbzVmeVBGUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-29T18:51:46Z",
+            "summary": "中方坚决反对以色列承认索马里兰 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China firmly opposes Israel's recognition of Somaliland..."
+          }
+        },
+        {
+          "title": "2024年全国文化及相关产业增加值占GDP比重为4.61%",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RR1VqMGk4VlVLOHV0YjVfdzEtM3h5SHBFY0RzM184aUV1ZWpnSTdHN1JGRTRlRm5pM1JTTnRSNUFLVlNFLVdsUGVTMTBiMVhwRVpSVlNrMWZXQVRWUjA4X203bFFsZXVDTHpVQnA0enUzTFhPbDhBbWlXa1hzZw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2025-12-29T19:55:46Z",
+            "summary": "2024年全国文化及相关产业增加值占GDP比重为4.61% 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "In 2024, the cultural sector's GDP share is 4.61%..."
+          }
+        },
+        {
+          "title": "WCBA设立工资帽 下赛季正式执行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTjJMMmptOHVZYWNmOTJSV1hCSVNxcGtTOW5zcG41TnpwVGJpeXU1U3JkNGVvcDBNem9qbGNKR1pheTVMNzBOZGJEazZYQjRkYjlMV3BMYTEwbUJOMFFxX28yZVlSVXNaWlYzWnkyeWtlU3BoRy1PWmFBTmh0TVJiZWtEcEtnR3M?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-29T17:31:29Z",
+            "summary": "WCBA设立工资帽 下赛季正式执行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "WCBA sets salary cap, to be officially implemented next..."
+          }
+        },
+        {
+          "title": "中方强调戈兰高地是国际社会公认的叙利亚被占领土",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjeXF3dVViS2tzQlByWGxKN0xYZnBXcExkVXd2RmZ4NkFRR3JQR1lLOTVac1JQS0lucERoeFg0VHRyWjBRRC1KVThNU19PMjRCSEs5ZE1sbmYwMXBkVS1fcGMwREUtNUpRQVA5WUJmZk5BWXZmZmFxSzVNdG5Ydw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-29T19:57:27Z",
+            "summary": "中方强调戈兰高地是国际社会公认的叙利亚被占领土 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China emphasizes the Golan Heights is recognized as..."
+          }
+        },
+        {
+          "title": "数览成绩单·2025中国经济盘点｜稳扎稳打，实体经济发展韧性持续增强",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEx0UnhIWExuT1Jyc254RFFSc2d6VXNiZzZPOEtETXB6Z09wc2xxT0lSVk0wVVdHQ3p5Q2dZTGZDMUlzdjRDUHRNUERQR1lFemd2TXVBaW1ieU96MDFqaVk5LUZtRUltUFIySmNQN0FfUG9OTUNlMmw0QUt5NklQMUx2X0k1M0hi?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-29T22:24:48Z",
+            "summary": "数览成绩单·2025中国经济盘点｜稳扎稳打，实体经济发展韧性持续增强 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "2025 China Economic Review: Steady growth, resilient..."
+          }
+        },
+        {
+          "title": "上海农业不只在上海，更在广阔天地",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsZDhjdEcwd3NKclItWW1SeFBQbTRRbzlBYVY3d2hMNEwzYktXSmxZcFVINzBvUWx6QUt5ZENoM1BySE9Ma2JPcGdzRDNOdGlZd2pIUmtfV0Zvak1DWWcyVjRHclNWX2JpZ2JORnFBcmRXckEyT1cycWplblkzZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-29T17:54:12Z",
+            "summary": "上海农业不只在上海，更在广阔天地 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Shanghai agriculture extends beyond the city to vast..."
+          }
+        },
+        {
+          "title": "黄金价格震荡调整 短期波动或加剧",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KNUE1ek5zMGdTcEJYcDBwQldfcHlWQU9mYkhfN19JTWE4bV85SnpBa0hEU2VTNDlwVUphck9uanNNM0lnMGRXTzdYYUJySy0weWZ1Vml4cEZhNklRaTREWnVCUjczVXBySjhMdTNoQlpjSWt6bmEtM2c4Yk1RUQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2025-12-29T17:53:46Z",
+            "summary": "黄金价格震荡调整 短期波动或加剧 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Gold prices fluctuate, short-term volatility may..."
+          }
+        },
+        {
+          "title": "财政政策明年如何更加积极",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcVA1dGRTVXo4ZnJ6OHZIQzNIOW5DeEhqa29od1VQaE1rOXRUN1JRMHlZRHpEaXEtaG1TSndxV2hSaDVPYW1tb09OZWZoSFYtcTJWcDlyTkQzTXd2aWxraEpPRDA5d3pMXzF6LTlsRjNoREdha3VBNHVZS296WGYteEkySE94dFV2?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-29T15:31:37Z",
+            "summary": "财政政策明年如何更加积极 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "How will fiscal policy be more proactive next year..."
+          }
+        },
+        {
+          "title": "金银期价大跌 市场震荡加剧",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxSkk3S0FzUE1sTmZ3MVpXVGxEOFNkYnY4SDMza2FESEZ1OXdrb2FJWE1Ya19kaVNIU2RHUk92NVZSWmRPTk93YUstcE1sX3NPZTVXMTZxa3RyNTJyZDJxdGF2Zjk1TUloV0p5Ul9RR0IzN1hzTGhkU3czSnczZw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-29T18:24:29Z",
+            "summary": "金银期价大跌 市场震荡加剧 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Gold and silver prices plummet, market volatility..."
+          }
+        },
+        {
+          "title": "香港“兴”观察丨“又是被资金推着跑的一天”——一位香港金融从业者的一日见证",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWpnazJLR1Z0eHZOZ0wwYkJLNU9LOFBtTzBEdkJpOHpKUmphWGxBeVY2Y1I1RGxwbTJyU0phNFRrUlNnUU05S0hYcXR5UXQ2T2pCRjJsWVV5bTktWFN3UmV5aHRyZDZGek9KalRGMU9IMDhMVWk4VjB6QkFUajJobUpxQUlvTFk?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-29T03:29:34Z",
+            "summary": "香港“兴”观察丨“又是被资金推着跑的一天”——一位香港金融从业者的一日见证 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hong Kong \"Xing\" Observation: \"Another day driven by..."
+          }
+        },
+        {
+          "title": "2024年全国文化及相关产业增加值占GDP比重为4.61%",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RR1VqMGk4VlVLOHV0YjVfdzEtM3h5SHBFY0RzM184aUV1ZWpnSTdHN1JGRTRlRm5pM1JTTnRSNUFLVlNFLVdsUGVTMTBiMVhwRVpSVlNrMWZXQVRWUjA4X203bFFsZXVDTHpVQnA0enUzTFhPbDhBbWlXa1hzZw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-29T19:55:46Z",
+            "summary": "2024年全国文化及相关产业增加值占GDP比重为4.61% 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "In 2024, the cultural industry’s GDP share is 4.61%..."
+          }
+        },
+        {
+          "title": "吉尔吉斯斯坦前总统阿坦巴耶夫被剥夺多项国家荣誉",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fSEdiMGR1ZWJ5aEFYMERpSkVFMDVYTE92UzRjQ2hTbkVyeXNtQm04c0V3Uld2a3ZjaWFmcDdKckIzSHhmNjNyei16QUdaWk9rc0lXeHVEQ05sVHEzNnpXZmdwV3R4NVdpX3N4QnJyaWxkSjk2czdqdmw5U1NJQQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2025-12-29T03:42:28Z",
+            "summary": "吉尔吉斯斯坦前总统阿坦巴耶夫被剥夺多项国家荣誉 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Former Kyrgyz President Atambayev stripped of multiple..."
+          }
+        },
+        {
+          "title": "山东财政多向发力支持教育科技人才一体发展",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucmJwalM5TjlBOGxEZ3VhVjAtMUR4LUptT1RPbWN2TFlCRDRxdUdUOXFMOVFSazlNQk9VSkEyNG90ZzhxMm51c0tHYlpuTUQ3WktmU2liTVRzWUhaQXRkRjAxejNEV1ZYYWZaRW1jLWl0R0hFUXQxWEdUXzlHZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-29T22:48:31Z",
+            "summary": "山东财政多向发力支持教育科技人才一体发展 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Shandong finances support integrated development of..."
+          }
+        },
+        {
+          "title": "名家荐书丨王先福：《探古论金：曾侯乙青铜器工艺图解》让你看懂战国时的黑科技",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVcydS1mWUhKbGU4UHFBYVlrQUJFZUdJZEx5Z1JXc1VJTVhfcUdGYU1QTjlVMW0yMGdwQUd4a3Z2U3M3d3ZCWGw3UGp0Q1pacDNxMzFYNDJWaS1XbkJGa0ZSWGVSajBIX1UxZ2FmTWRyaWpfUUZkaWRYemZwR2MwLUdR?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-29T17:46:42Z",
+            "summary": "名家荐书丨王先福：《探古论金：曾侯乙青铜器工艺图解》让你看懂战国时的黑科技 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Recommended Book: Wang Xianfu's \"Ancient Gold: Zeng Hou..."
+          }
+        },
+        {
+          "title": "新华社出图·年度记忆丨“未来之城”的多元魅力",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON1h1b2RRU2syVWdTb2xKXzJ6YTlGRHNocWxHODh3LXd0YUdhZTFtY3VjSUNZYjh3RXViV05Ob003ODFDWlZZNUtGd3JTZEN0R0pHT1VVOWNTeEdZMFpBRjR5RVF6VEd4RFdyNmNuVTZIdUpBdC1qS1lObW0wRGY4WUxzRjdnUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-29T23:15:19Z",
+            "summary": "新华社出图·年度记忆丨“未来之城”的多元魅力 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua releases images: The diverse charm of \"City of..."
+          }
+        },
+        {
+          "title": "速递！2025十大教改热词发布",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNU9Ca0czVGFIWFNkdExQbFFsWjR2cnJLVDFiV2ZMY1kxQzQyUzFIVEctUVp5bkFmM1VFYkJXZWE5Nm9Rb3ZTSzZBZmFXVHBfRnpXRkJSRmR4SGZvcTlmUk14T2ZVM2htNkJUbHFYT0J4MTg1Tm9pVV9hTTdxV1MwV0FUUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-29T21:36:51Z",
+            "summary": "速递！2025十大教改热词发布 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hot words for education reform in 2025 released!"
+          }
+        },
+        {
+          "title": "九牧获知名机构颁发“轻智能五金中国增长领先”认证",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDd3VklGcHEyeklyNlEzTE5FOVNvdWFUNHlJbGxMTlVnY3FhOGg4S2p6dTdIeWgyZUVjMVgzN3lBZmJKbEo2VzdfRTFNc3B5REFkaWRkWEwxcDQ1QWpCSDgwNUFiT0NxRWE2NXdGWkxVOU1LSkRFODVTajVpOHJZZmhVb0N4azN2?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2025-12-29T18:00:00Z",
+            "summary": "九牧获知名机构颁发“轻智能五金中国增长领先”认证 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Jomoo receives \"Leading Growth in Light Smart Hardware\"..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-30T14:02:07+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "Our manned submersible has made 1,746 dives so far..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-24T18:39:21+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "正当时：2025年12月24日",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGhIZ0xvRHZXS2NUTlFpRlhKRFpienFKUUtUY2VjSG8tb3NuMkpkcFA0RXYtQVAwUHdUSFJ1bVdTandkR1dleXc5Ym9xRUlEUFh5WTBTbWZJQ1ZSR3VBcEd6RDBiVTJPQkVlbEljVlZoeHB2OVpSS3AySjhyYlBKc2RRRzU4OFJNX09GRQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-23T16:54:26Z",
-            "summary": "正当时：2025年12月24日 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Just in time: December 24, 2025..."
-          }
-        },
-        {
-          "title": "雪落长春",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWZlR1h3NVpNd1dIV3B4alp4cE55c3VVTHpWNWprckNud0hPRXEwSXBjT3NZWEh4aW1SUktGQnVERnFkaHd4REV4dmxRTW1JdmlBNklISFppUEhZWXRuU0VCQTJZSF84dzFCNG1hZEZ2WTZkRTNQNFRWTktnd1NxbmdNTnRxbG1tQ1VhY011MA?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-23T03:15:10Z",
-            "summary": "雪落长春 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Snow falls in Changchun..."
-          }
-        },
-        {
-          "title": "外交部：日方应切实履行核安全责任，自觉接受国际监督",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RN2pJS2k1ZzVkQ1lBZks5aGN4RDlwUUVnOTJpV29GeGhYSzNmbVdZdEloSjRURWFHb2NnbjZzWkNEYmhHSlFRQ0Jia3NZN3FrUFk4cUF2QUVaemt0Y3pjN1IyWl9LVWlCRjZuUzhtWmpaelRNZTg3TlpiWHZ4Zw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-24T01:56:04Z",
-            "summary": "外交部：日方应切实履行核安全责任，自觉接受国际监督 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Ministry of Foreign Affairs: Japan should fulfill..."
-          }
-        },
-        {
-          "title": "美知名保守派智库内讧 多人跳槽前副总统彭斯所创组织",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uWEZ4OUZ1SmtWUjFGYWNPNy1qRXhoQTRQbDBCOU5kMW15akdmQUdmNDFHdVFJRk1JZXFBa21DVmc1dGZ4WkFMRE9xY0JXWVQ2VlA0WXM1b2t6VFF4enNDdFpUaEUwcjNkX2MwckZJZzd5X1F0NEV2OXFHcmxxQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-23T21:20:59Z",
-            "summary": "美知名保守派智库内讧 多人跳槽前副总统彭斯所创组织 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Famous conservative think tank in turmoil, many join..."
-          }
-        },
-        {
-          "title": "黑龙江开行今冬首趟东北民俗文化主题列车",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREtXVUVVRGJXbFowUFhuREgxT3F3bTYwbkpRWWx5WkZJVzEwMlNYU29NbFp1Zm5TTENpVVJqU3RSaVJEclFiRXpycm8xSnF0dzlPLWlZdnkyemNoNE1PU1Vtbl9aZ3NsR3FIVG5fYmhoc21LbkpVTUpsdkpRUndzckVqQWRab3VPODlJWkFoamRRZw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-23T17:12:01Z",
-            "summary": "黑龙江开行今冬首趟东北民俗文化主题列车 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Heilongjiang launches its first Northeast folk culture..."
-          }
-        },
-        {
-          "title": "国内首条南北纵向跨越秦岭的750千伏超高压输电线路建成投运",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mZ0lKdHBkeUNPRlFsVzdHLUNVem1HQlBnQVM3U1FBbHZMLUxiemdWbExlTGNiRjZNbE5iU2xqQ1d0WnA4YWh0ZXZWaFRoSG5mN0ptRnB0TzFvVFhpdllJRi10TFU2VWhIX2dhVU9Ua2lQQWJSVHVRTjRqVktnQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-23T05:07:31Z",
-            "summary": "国内首条南北纵向跨越秦岭的750千伏超高压输电线路建成投运 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "The first 750 kV UHV transmission line across Qinling..."
-          }
-        },
-        {
-          "title": "“梦想成为超市保安”：印度青年的戏谑和忧愁",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTEo3OGtERlhYZmhYbE5vOVhEN1Ywa3BtYktFVU45WXBPVWNvNFRqYW9QMk0zeEF4ZmdubEROSTJ2VkNxd3l1c2FjWUtMUFM0ZmhvNGg2YlJ3OHJIbFdPcElxa2tfY3NoanprZEZycHY1TEcyUC1rX0RLblZ0ZklndkRKNENmZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-24T00:37:55Z",
-            "summary": "“梦想成为超市保安”：印度青年的戏谑和忧愁 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"Dreaming of being a supermarket guard\": Indian youth's..."
-          }
-        },
-        {
-          "title": "保险业资产负债管理需提升",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9scW5JYWVWVjdIY1o3ME1FNGMzUHMxdWZLUzFuTnBwUUFyYVFFQ3hXRjNBYlVXQzdQTEQ0bUdlZU0tcDNERndHcG9QVGFEbUF1QkVmZmdGNVlUdGtZS24wb1JDNEc1T2RMSVFQbVlNeTk0b0hucnJkQUFzWDVJQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-23T17:09:31Z",
-            "summary": "保险业资产负债管理需提升 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Insurance asset-liability management needs improvement..."
-          }
-        },
-        {
-          "title": "美国经济2025年第三季度增长4.3%",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBbzk2cE13UU53aURQekNpV1BTemwxUlp5NGFoMEVzNlBXdnBzNVVrUGYzTzhzNV9mNXIxbXNkYkhLSWdQdUFvZUFDa2lLbnJWSkgteTB0b2l4RlJNWVRfS2hTTzNaVGVrWXh3ZVYxN1QyOXdrQVhCMFA4cTBIUQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-23T06:06:10Z",
-            "summary": "美国经济2025年第三季度增长4.3% 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "U.S. economy to grow 4.3% in Q3 2025..."
-          }
-        },
-        {
-          "title": "美国2025年第三季度经济增长4.3%",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ycHZyeVYzMEZkaC11ZDl6UXpDT24zdVZNOG15ZndhSVU1RjcxWGdpS2swMHFWdDRHeEptdUNBaTNwLUhSSko2cXBkVTZBZ1JSWWtBVmRfek42MW5tMFJ2X255ci00ajFIdlRielhCNzZrZW5HSzFZcGlkaHhDZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-23T07:57:02Z",
-            "summary": "美国2025年第三季度经济增长4.3% 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "U.S. economy grows 4.3% in Q3 2025..."
-          }
-        },
-        {
-          "title": "候鸟越冬成“常客” 生态美景入画来",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWl3RzhrOGJhSlRkVHJDLUJ6NEwwNUhzWHFpS2x3Qjhxa2pxNW1fZ1lBLTFMMTFFeDZyZ0hLbHVZdU94UlFwTVNpOGJJWjE2c0s3MXZKa2FWSklQM1RBYS11czM0dG5LUlhYTWhFVlVZeWtKQmpUdnRobk1OV3ZzYjZsWlAwaHRDa2c?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-23T19:27:09Z",
-            "summary": "候鸟越冬成“常客” 生态美景入画来 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Migratory birds wintering become \"regulars,\" enhancing..."
-          }
-        },
-        {
-          "title": "俄使馆说西方关于俄外交人员撤离委内瑞拉报道为假新闻",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tanYzblEzXzNTZVExM2N6QlgwdjN0TEpiM2w2cWFVYURTOEJ4WjNWNDdNN0FkSFgtUEFuVkgwWmtFNnJMTVJzX0JCRDBRcHRzQkR1djBSRC0wSHh3dHpOM3o3UVJwYUlnd21LTXlxb1J5UDF5WjlzMmktVkhRZw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-23T23:58:08Z",
-            "summary": "俄使馆说西方关于俄外交人员撤离委内瑞拉报道为假新闻 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Russian embassy calls Western reports on diplomat..."
-          }
-        },
-        {
-          "title": "被日强征韩籍军人遗属起诉靖国神社",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02YkpEMlZlUXZrU3J6ZThWbjRNMTk3dXBxYTYxdWkxMTJuZHdzVU5TamxWSFA0bVNHRnpxLWtMUXdEcWdMdElsRkhhdFZtcklBOXd2S1Mtbjg1RmtySS04TjhUYUkySnVQb1p6bXZpLWI4aFhyUVl1SXpGaGVJdw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-23T21:13:41Z",
-            "summary": "被日强征韩籍军人遗属起诉靖国神社 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Korean veterans' families sue Yasukuni Shrine over..."
-          }
-        },
-        {
-          "title": "市场监管总局：重点液态食品运输纳入法治监管",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVU9FT2dOQmxPbkdKS0lha0E5Mlo2VmFDOFVhMGowdF9vYjZnRWdLblMwN3ZxZnRkRDZUVFVMU1FZcEstME9abnUzeU5HYlFsZGljY1hrVGZQQXFQa2tSWUt3Y3VYRUhzem14YjRSRGY2QU9xWXQxRHJ1elJNNzlIalJFWHU?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-23T19:06:58Z",
-            "summary": "市场监管总局：重点液态食品运输纳入法治监管 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Market regulator includes key liquid food transport in..."
-          }
-        },
-        {
-          "title": "伊朗感谢中俄在伊核问题上持原则性立场",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VOEJWQlVKS2syRmc2dnpnMm1DVmhzTzlxWU96VTRzeHFwb2FleGVzSFlMbzZjV2xxUDR5aHBlUG9oQVZIMXE3YzduZ2J5ZzRKd3BiRzgtLS10X1ZSRk9GVmhIZ3YwNU92RDhkSW1ST0Ftc1NjLUZvbkFQOUY1QQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-23T19:39:12Z",
-            "summary": "伊朗感谢中俄在伊核问题上持原则性立场 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Iran appreciates China's and Russia's principled stance..."
-          }
-        },
-        {
-          "title": "香港特区政府推出“科技人才入境计划”进一步优化措施",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWY3d1RvVW5TbzJwalFGT0ZNV2diZEJ4akVZSGJXUEJyVkY3bDY3azkzNUE5VjBScG5ubDhuZTNwanhXUUdSTzZoSm9EYVpKa2lKc29xUnJtRVpBMnhmcVNDYzBpTUpzT2VGMnkwVUJRMGdOckxXOUdVSmZ5MGxZV2dRYjF0eXc?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-23T21:57:46Z",
-            "summary": "香港特区政府推出“科技人才入境计划”进一步优化措施 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Hong Kong government launches measures to optimize tech..."
-          }
-        },
-        {
-          "title": "10户中央企业11名领导人员职务任免",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHRCUnd3NW1uWmJwdlNfOHNoSm5ZeFNTd0FjQTZhRlVkVXpfUXEwWUo4RW5CRk9Vckg3ay1XWU9iZVc1MURQRGZnMm9WMHdTdTFpRXNYWFRvc21YZUg5UUFIQ2F3TzZrRVl3UHBRY2NQbXk3WWF5cTI4Z2NXSTdicG1zUVRGbGR5?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-23T04:30:11Z",
-            "summary": "10户中央企业11名领导人员职务任免 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Appointment and removal of 11 leaders in 10 central..."
-          }
-        },
-        {
-          "title": "香港2024年研发总开支增长8.4%",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBbEwzRGpHbWhDalA0dzFzczZYSVB2XzB2SV9aWVRqUDNnLUMtbjY2c0JpV3pxS25NaGJMbHM0a1lCaktoTkNIaVlBV0F4VlU5dnlBaHkxOGgyYnRBYlpjUW9OUTk1OHRPMkhEXzlhNnVUeXVsemMwNmpZeURMQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-23T04:53:14Z",
-            "summary": "香港2024年研发总开支增长8.4% 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Hong Kong's R&D spending to grow 8.4% in 2024..."
-          }
-        },
-        {
-          "title": "中央企业经营稳中有进 前11个月实现增加值9.5万亿元",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2tCdTJOMkszajBrODBlNTAxcWlYVl9PSnBNa2tyQldrVnZBZmRENVIxcDB6eFctZUE3ZTBHVWxOMFdVZ3VIcnJvWldxRElJSUQxOFByRldKSHBaVkZCQWxubGl4aHN5QlYyVVp3dVpmTDhZZHpKS3EydzZaakNMNk40TU5hNkxN?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-23T17:13:06Z",
-            "summary": "中央企业经营稳中有进 前11个月实现增加值9.5万亿元 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Central enterprises steadily progressed, adding 9.5..."
-          }
-        },
-        {
-          "title": "“变动不居”：韩国于混乱中寻觅稳定曙光",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2lqNTlIVGNaVzltdTVYajJVX1BFdzNHVTl4Yk14S3NIWTFzUllPM01pTGRhNWVzbXpCMkxtOTZQNkl0d21ZMTVWcU56T3gwSWhGREtZTTVrNHNlU2ZKSWpQQzMtWUZiOTBuWndOb29QSjVHdU5sTzVqbWo3azhMSjFDelEzQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-24T00:40:32Z",
-            "summary": "“变动不居”：韩国于混乱中寻觅稳定曙光 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "\"Changing and Unstable\": South Korea seeks stability..."
           }
         }
       ]
