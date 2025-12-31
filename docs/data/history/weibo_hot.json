@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2025-12-31T22:08:23+08:00",
+  "generated_at": "2026-01-01T06:04:17+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-01T06:04:17+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 新年贺词",
+          "value": "229980 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 229980",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New Year greetings..."
+          }
+        },
+        {
+          "title": "2. 祖国统一历史大势不可阻挡",
+          "value": "166006 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 166006",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The trend of national reunification is unstoppable..."
+          }
+        },
+        {
+          "title": "3. 2026新年贺词金句",
+          "value": "137906 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%91%E5%8F%A5&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 137906",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2026 New Year greetings and golden phrases..."
+          }
+        },
+        {
+          "title": "4. 2026小鹏加油",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%B0%8F%E9%B9%8F%E5%8A%A0%E6%B2%B9&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2026, Xiaopeng, keep it up!"
+          }
+        },
+        {
+          "title": "5. 新年快乐",
+          "value": "126381 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 126381",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Happy New Year!"
+          }
+        },
+        {
+          "title": "6. 哪吒 [火热]",
+          "value": "126340 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%AA%E5%90%92&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 126340",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Nezha..."
+          }
+        },
+        {
+          "title": "7. 跨年收视率",
+          "value": "晚会 126282 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "晚会 126282",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New Year's Eve viewership ratings..."
+          }
+        },
+        {
+          "title": "8. 跨年",
+          "value": "126171 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B7%A8%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 126171",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New Year's Eve"
+          }
+        },
+        {
+          "title": "9. 马年",
+          "value": "126088 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 126088",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Year of the Horse..."
+          }
+        },
+        {
+          "title": "10. 专属天使 听哭了 [新]",
+          "value": "晚会 126029 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%93%E5%B1%9E%E5%A4%A9%E4%BD%BF%20%E5%90%AC%E5%93%AD%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "晚会 126029",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Exclusive angel, moved to tears..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2025-12-31T22:08:23+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Stranger Things..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-26T06:04:01+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 鸡排哥一夜爆火后现状",
-          "value": "260877 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%A1%E6%8E%92%E5%93%A5%E4%B8%80%E5%A4%9C%E7%88%86%E7%81%AB%E5%90%8E%E7%8E%B0%E7%8A%B6&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 260877",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "After a night of fame, Chicken Steak Brother's current..."
-          }
-        },
-        {
-          "title": "2. 估值2亿别墅6673万元起拍没人要",
-          "value": "53433 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%B0%E5%80%BC2%E4%BA%BF%E5%88%AB%E5%A2%856673%E4%B8%87%E5%85%83%E8%B5%B7%E6%8B%8D%E6%B2%A1%E4%BA%BA%E8%A6%81&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 53433",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A villa valued at 200 million starts at 66.73 million,..."
-          }
-        },
-        {
-          "title": "3. 150秒感受2025一路向前",
-          "value": "46541 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D150%E7%A7%92%E6%84%9F%E5%8F%972025%E4%B8%80%E8%B7%AF%E5%90%91%E5%89%8D&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 46541",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "150 seconds to feel 2025 moving forward..."
-          }
-        },
-        {
-          "title": "4. 和问界一起问问世界",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8C%E9%97%AE%E7%95%8C%E4%B8%80%E8%B5%B7%E9%97%AE%E9%97%AE%E4%B8%96%E7%95%8C&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Ask the world with Wenjie..."
-          }
-        },
-        {
-          "title": "5. 山东一服装店允许骑车进入成打卡点",
-          "value": "46246 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%B1%E4%B8%9C%E4%B8%80%E6%9C%8D%E8%A3%85%E5%BA%97%E5%85%81%E8%AE%B8%E9%AA%91%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%88%90%E6%89%93%E5%8D%A1%E7%82%B9&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 46246",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A Shandong clothing store allows bike entry as a..."
-          }
-        },
-        {
-          "title": "6. 日本前所未有的熊尸危机 [重磅]",
-          "value": "37346 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%86%8A%E5%B0%B8%E5%8D%B1%E6%9C%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 37346",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Japan's unprecedented bear carcass crisis..."
-          }
-        },
-        {
-          "title": "7. 2个月宝宝被奶奶碘伏擦进ICU",
-          "value": "37233 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E8%A2%AB%E5%A5%B6%E5%A5%B6%E7%A2%98%E4%BC%8F%E6%93%A6%E8%BF%9BICU&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 37233",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "2-month-old baby in ICU after grandmother used iodine..."
-          }
-        },
-        {
-          "title": "8. 美国一人彩票中奖超127亿元",
-          "value": "37069 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%BA%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E8%B6%85127%E4%BA%BF%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 37069",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A single lottery winner in the U.S. wins over 12.7..."
-          }
-        },
-        {
-          "title": "9. 凯乐石牌羽绒服被曝新旧款差900元",
-          "value": "32959 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%AF%E4%B9%90%E7%9F%B3%E7%89%8C%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E6%9B%9D%E6%96%B0%E6%97%A7%E6%AC%BE%E5%B7%AE900%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 32959",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Kailas down jacket revealed a price difference of 900..."
-          }
-        },
-        {
-          "title": "10. 29岁女儿非亲生还被妻子起诉离婚",
-          "value": "30744 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D29%E5%B2%81%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E8%BF%98%E8%A2%AB%E5%A6%BB%E5%AD%90%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 30744",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "29-year-old daughter is not biological; wife files for..."
           }
         }
       ]
