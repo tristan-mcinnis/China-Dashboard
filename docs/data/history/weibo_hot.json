@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-02T22:08:39+08:00",
+  "generated_at": "2026-01-03T06:04:07+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-03T06:04:07+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 车厘子价格暴跌近40%",
+          "value": "242190 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%BF%9140%25&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 242190",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cherry prices have plummeted nearly 40%..."
+          }
+        },
+        {
+          "title": "2. 周冠宇 凯迪拉克",
+          "value": "176660 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E5%86%A0%E5%AE%87%20%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 176660",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zhou Guanyu Cadillac..."
+          }
+        },
+        {
+          "title": "3. 元旦假期消费新图鉴",
+          "value": "136843 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%96%B0%E5%9B%BE%E9%89%B4&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 136843",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New spending trends for the New Year's holiday..."
+          }
+        },
+        {
+          "title": "4. 过家家",
+          "value": "电影 129161 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%87%E5%AE%B6%E5%AE%B6&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "电影 129161",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Playing house..."
+          }
+        },
+        {
+          "title": "5. 日本动漫屡次出现旭日旗731部队",
+          "value": "122646 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E5%B1%A1%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%97%AD%E6%97%A5%E6%97%97731%E9%83%A8%E9%98%9F&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 122646",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Japanese anime frequently features the Rising Sun flag..."
+          }
+        },
+        {
+          "title": "6. 2026第1天1万元内逾期结清者征信清零 [沸]",
+          "value": "110175 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E7%AC%AC1%E5%A4%A91%E4%B8%87%E5%85%83%E5%86%85%E9%80%BE%E6%9C%9F%E7%BB%93%E6%B8%85%E8%80%85%E5%BE%81%E4%BF%A1%E6%B8%85%E9%9B%B6&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 110175",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "On the first day of 2026, overdue settlements under..."
+          }
+        },
+        {
+          "title": "7. 在英国痛了7周到中国四天就治好了",
+          "value": "101348 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%A8%E8%8B%B1%E5%9B%BD%E7%97%9B%E4%BA%867%E5%91%A8%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%9B%9B%E5%A4%A9%E5%B0%B1%E6%B2%BB%E5%A5%BD%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 101348",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "In the UK for 7 weeks in pain, healed in 4 days in China..."
+          }
+        },
+        {
+          "title": "8. 何不同舟渡",
+          "value": "88059 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 88059",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Why not share the same boat to cross?"
+          }
+        },
+        {
+          "title": "9. WB冠军",
+          "value": "81931 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DWB%E5%86%A0%E5%86%9B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 81931",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "WB Champion..."
+          }
+        },
+        {
+          "title": "10. 玉茗茶骨",
+          "value": "剧集 74010 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 74010",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Jade Ming tea bones..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-02T22:08:39+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Rejected in Cambridge Master's interview for primary..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-28T06:04:04+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 台湾海域6.6级地震",
-          "value": "212929 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 212929",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "6.6 magnitude earthquake in Taiwan waters..."
-          }
-        },
-        {
-          "title": "2. 钟意 [新]",
-          "value": "109975 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%92%9F%E6%84%8F&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 109975",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Fond of..."
-          }
-        },
-        {
-          "title": "3. 中国低温火箭年度发射新纪录",
-          "value": "107187 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BD%8E%E6%B8%A9%E7%81%AB%E7%AE%AD%E5%B9%B4%E5%BA%A6%E5%8F%91%E5%B0%84%E6%96%B0%E7%BA%AA%E5%BD%95&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 107187",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China sets new annual launch record for low-temperature..."
-          }
-        },
-        {
-          "title": "4. 京东超级明星",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E8%B6%85%E7%BA%A7%E6%98%8E%E6%98%9F&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "JD Super Star..."
-          }
-        },
-        {
-          "title": "5. 橹穆双人舞台",
-          "value": "演出 106452 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A9%B9%E7%A9%86%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "演出 106452",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Mu's Double Dance Stage..."
-          }
-        },
-        {
-          "title": "6. 中华人民共和国主席令 [火热]",
-          "value": "104890 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%BB%E5%B8%AD%E4%BB%A4&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 104890",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Order of the President of the People's Republic of China"
-          }
-        },
-        {
-          "title": "7. 上海震感",
-          "value": "99061 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 99061",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Shanghai earthquake sensation..."
-          }
-        },
-        {
-          "title": "8. 一诺暂时告别赛场 [热]",
-          "value": "88706 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%AF%BA%E6%9A%82%E6%97%B6%E5%91%8A%E5%88%AB%E8%B5%9B%E5%9C%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 88706",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Yinuo temporarily bids farewell to the arena..."
-          }
-        },
-        {
-          "title": "9. 台湾海域6.6级地震现场画面",
-          "value": "87218 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 87218",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Scenes from the 6.6 magnitude earthquake in Taiwan waters..."
-          }
-        },
-        {
-          "title": "10. 长生 [沸]",
-          "value": "82275 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E7%94%9F&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 82275",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Longevity..."
           }
         }
       ]
