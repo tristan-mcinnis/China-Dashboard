@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-03T11:03:34+08:00",
+  "generated_at": "2026-01-03T14:01:49+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-03T14:01:49+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 两外国人在重庆用筷子烫火锅",
+          "value": "1048743 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A4%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%BA%86%E7%94%A8%E7%AD%B7%E5%AD%90%E7%83%AB%E7%81%AB%E9%94%85&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1048743",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Two foreigners use chopsticks to eat hot pot in Chongqing..."
+          }
+        },
+        {
+          "title": "2. 李在明表态台湾问题",
+          "value": "1048456 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1048456",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Lee Jae-myung comments on the Taiwan issue..."
+          }
+        },
+        {
+          "title": "3. 一人一句2026心愿",
+          "value": "1048234 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A52026%E5%BF%83%E6%84%BF&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1048234",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "One wish for 2026 from each person..."
+          }
+        },
+        {
+          "title": "4. 车厘子",
+          "value": "1047694 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 1047694",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cherries..."
+          }
+        },
+        {
+          "title": "5. 第一次见歌手用歌回击这么爽",
+          "value": "综艺 1047522 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%AD%8C%E6%89%8B%E7%94%A8%E6%AD%8C%E5%9B%9E%E5%87%BB%E8%BF%99%E4%B9%88%E7%88%BD&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "综艺 1047522",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "It's so satisfying to see a singer hit back with a song..."
+          }
+        },
+        {
+          "title": "6. 太二卖不动酸菜鱼了",
+          "value": "1047020 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AA%E4%BA%8C%E5%8D%96%E4%B8%8D%E5%8A%A8%E9%85%B8%E8%8F%9C%E9%B1%BC%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 1047020",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Tai Er is struggling to sell sauerkraut fish..."
+          }
+        },
+        {
+          "title": "7. 温州一河面密密麻麻全是罗非鱼",
+          "value": "1046613 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B8%A9%E5%B7%9E%E4%B8%80%E6%B2%B3%E9%9D%A2%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E5%85%A8%E6%98%AF%E7%BD%97%E9%9D%9E%E9%B1%BC&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 1046613",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wenzhou river is densely packed with tilapia..."
+          }
+        },
+        {
+          "title": "8. 宝马中国回应最高降价30万 [新]",
+          "value": "1046211 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%9D%E9%A9%AC%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E6%9C%80%E9%AB%98%E9%99%8D%E4%BB%B730%E4%B8%87&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 1046211",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "BMW China responds to price cuts of up to 300,000 yuan..."
+          }
+        },
+        {
+          "title": "9. 女子吃鸡蛋惊现蛋中蛋",
+          "value": "1045721 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E5%90%83%E9%B8%A1%E8%9B%8B%E6%83%8A%E7%8E%B0%E8%9B%8B%E4%B8%AD%E8%9B%8B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 1045721",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Woman finds egg within an egg while eating..."
+          }
+        },
+        {
+          "title": "10. 影视飓风年度相机",
+          "value": "1045182 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%B9%B4%E5%BA%A6%E7%9B%B8%E6%9C%BA&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 1045182",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Annual Camera of Film and Television Hurricane..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-03T11:03:34+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "No wonder a guy I know keeps saying he wants to get..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-28T14:01:43+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 奶奶喜丧女子因朋友少求助网友",
-          "value": "1151089 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B6%E5%A5%B6%E5%96%9C%E4%B8%A7%E5%A5%B3%E5%AD%90%E5%9B%A0%E6%9C%8B%E5%8F%8B%E5%B0%91%E6%B1%82%E5%8A%A9%E7%BD%91%E5%8F%8B&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1151089",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Grandma mourns, woman seeks help from netizens due to..."
-          }
-        },
-        {
-          "title": "2. 不要在车里放小玩偶了 [热]",
-          "value": "654724 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8D%E8%A6%81%E5%9C%A8%E8%BD%A6%E9%87%8C%E6%94%BE%E5%B0%8F%E7%8E%A9%E5%81%B6%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 654724",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Don't leave small toys in the car anymore..."
-          }
-        },
-        {
-          "title": "3. 中国军事年终大片太硬核了",
-          "value": "649690 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%B9%B4%E7%BB%88%E5%A4%A7%E7%89%87%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 649690",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China's military year-end blockbuster is too hardcore..."
-          }
-        },
-        {
-          "title": "4. 黄子韬因脑淤血手术缝了43针",
-          "value": "综艺 597254 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%84%91%E6%B7%A4%E8%A1%80%E6%89%8B%E6%9C%AF%E7%BC%9D%E4%BA%8643%E9%92%88&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "综艺 597254",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Huang Zitao underwent surgery for a brain hemorrhage, 43..."
-          }
-        },
-        {
-          "title": "5. 美媒关注中国网友讨论美国斩杀线",
-          "value": "560216 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A8%E8%AE%BA%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 560216",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "US media focuses on Chinese netizens discussing US kill..."
-          }
-        },
-        {
-          "title": "6. 黄晓明自曝曾救过刘亦菲的命 [新]",
-          "value": "综艺 526003 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E6%99%93%E6%98%8E%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%95%91%E8%BF%87%E5%88%98%E4%BA%A6%E8%8F%B2%E7%9A%84%E5%91%BD&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "综艺 526003",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Huang Xiaoming revealed he once saved Liu Yifei's life..."
-          }
-        },
-        {
-          "title": "7. 原来这就是软孤立",
-          "value": "510517 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E8%BD%AF%E5%AD%A4%E7%AB%8B&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 510517",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "So this is what soft isolation means..."
-          }
-        },
-        {
-          "title": "8. 日本发生57车连撞事故",
-          "value": "318525 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F57%E8%BD%A6%E8%BF%9E%E6%92%9E%E4%BA%8B%E6%95%85&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 318525",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A 57-vehicle pileup occurred in Japan..."
-          }
-        },
-        {
-          "title": "9. 逍遥",
-          "value": "剧集 239047 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%8D%E9%81%A5&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 239047",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Unfettered or carefree..."
-          }
-        },
-        {
-          "title": "10. 深圳博物馆火了 [新]",
-          "value": "232843 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B7%B1%E5%9C%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E7%81%AB%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 232843",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Shenzhen Museum has become popular..."
           }
         }
       ]
