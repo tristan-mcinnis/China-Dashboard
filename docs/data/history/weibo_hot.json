@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-03T06:04:07+08:00",
+  "generated_at": "2026-01-03T11:03:34+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-03T11:03:34+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 两外国人在重庆用筷子烫火锅",
+          "value": "1098813 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A4%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%BA%86%E7%94%A8%E7%AD%B7%E5%AD%90%E7%83%AB%E7%81%AB%E9%94%85&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1098813",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Two foreigners use chopsticks to eat hot pot in Chongqing..."
+          }
+        },
+        {
+          "title": "2. 你好星期六新年全员心动 [新]",
+          "value": "晚会 818650 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%96%B0%E5%B9%B4%E5%85%A8%E5%91%98%E5%BF%83%E5%8A%A8&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "晚会 818650",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Hello Saturday, everyone's excited for the New Year..."
+          }
+        },
+        {
+          "title": "3. 元旦假期消费新图鉴",
+          "value": "815299 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%96%B0%E5%9B%BE%E9%89%B4&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 815299",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New spending trends for the New Year's holiday..."
+          }
+        },
+        {
+          "title": "4. 日本动漫屡次出现旭日旗731部队",
+          "value": "813196 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E5%B1%A1%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%97%AD%E6%97%A5%E6%97%97731%E9%83%A8%E9%98%9F&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 813196",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Japanese anime frequently features the Rising Sun flag..."
+          }
+        },
+        {
+          "title": "5. 车厘子价格暴跌近40%",
+          "value": "808465 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%BF%9140%25&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 808465",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cherry prices plummet nearly 40%..."
+          }
+        },
+        {
+          "title": "6. 在英国痛了7周到中国四天就治好了",
+          "value": "805335 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%A8%E8%8B%B1%E5%9B%BD%E7%97%9B%E4%BA%867%E5%91%A8%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%9B%9B%E5%A4%A9%E5%B0%B1%E6%B2%BB%E5%A5%BD%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 805335",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "In the UK, I suffered for 7 weeks; in China, I healed in..."
+          }
+        },
+        {
+          "title": "7. 25岁姑娘去小城行医一待56年",
+          "value": "801227 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D25%E5%B2%81%E5%A7%91%E5%A8%98%E5%8E%BB%E5%B0%8F%E5%9F%8E%E8%A1%8C%E5%8C%BB%E4%B8%80%E5%BE%8556%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 801227",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A 25-year-old woman practiced medicine in a small town..."
+          }
+        },
+        {
+          "title": "8. 叛逆的鲁鲁修新年贺图",
+          "value": "793243 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%9B%E9%80%86%E7%9A%84%E9%B2%81%E9%B2%81%E4%BF%AE%E6%96%B0%E5%B9%B4%E8%B4%BA%E5%9B%BE&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 793243",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Rebellion's Lelouch New Year Greeting Card..."
+          }
+        },
+        {
+          "title": "9. 2025四川新生儿爆款名字",
+          "value": "788227 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%9B%9B%E5%B7%9D%E6%96%B0%E7%94%9F%E5%84%BF%E7%88%86%E6%AC%BE%E5%90%8D%E5%AD%97&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 788227",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2025 Popular Baby Names in Sichuan..."
+          }
+        },
+        {
+          "title": "10. 你的征信可能更新了",
+          "value": "785890 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A0%E7%9A%84%E5%BE%81%E4%BF%A1%E5%8F%AF%E8%83%BD%E6%9B%B4%E6%96%B0%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 785890",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Your credit report may have been updated..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-03T06:04:07+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Shenzhen Museum has become popular..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-28T11:13:22+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 台湾海域6.6级地震",
-          "value": "1079614 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1079614",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "6.6 magnitude earthquake in Taiwan waters..."
-          }
-        },
-        {
-          "title": "2. 男子爱奇艺会员充了25年遇退费难 [沸]",
-          "value": "429559 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E7%88%B1%E5%A5%87%E8%89%BA%E4%BC%9A%E5%91%98%E5%85%85%E4%BA%8625%E5%B9%B4%E9%81%87%E9%80%80%E8%B4%B9%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 429559",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Man struggles to get a refund after 25 years of iQIYI..."
-          }
-        },
-        {
-          "title": "3. 中国低温火箭年度发射新纪录",
-          "value": "387008 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BD%8E%E6%B8%A9%E7%81%AB%E7%AE%AD%E5%B9%B4%E5%BA%A6%E5%8F%91%E5%B0%84%E6%96%B0%E7%BA%AA%E5%BD%95&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 387008",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China sets new annual launch record for cryogenic rockets..."
-          }
-        },
-        {
-          "title": "4. 爱奇艺回应充25年会员退费难",
-          "value": "383278 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%BA%94%E5%85%8525%E5%B9%B4%E4%BC%9A%E5%91%98%E9%80%80%E8%B4%B9%E9%9A%BE&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 383278",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "iQIYI responds to difficulties in refunding 25-year..."
-          }
-        },
-        {
-          "title": "5. 橹穆双人舞台",
-          "value": "演出 327737 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A9%B9%E7%A9%86%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "演出 327737",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Mu Lu's duet stage..."
-          }
-        },
-        {
-          "title": "6. 大盘鸡店侮辱性回复学生差评被摘牌 [新]",
-          "value": "320848 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E7%9B%98%E9%B8%A1%E5%BA%97%E4%BE%AE%E8%BE%B1%E6%80%A7%E5%9B%9E%E5%A4%8D%E5%AD%A6%E7%94%9F%E5%B7%AE%E8%AF%84%E8%A2%AB%E6%91%98%E7%89%8C&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 320848",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Restaurant insults student in response to bad review,..."
-          }
-        },
-        {
-          "title": "7. 梁龙和花呗送花被 帮还花呗",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%81%E9%BE%99%E5%92%8C%E8%8A%B1%E5%91%97%E9%80%81%E8%8A%B1%E8%A2%AB%20%E5%B8%AE%E8%BF%98%E8%8A%B1%E5%91%97&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Liang Long and Huabei send flowers to help repay Huabei..."
-          }
-        },
-        {
-          "title": "8. 普京突然穿上军装",
-          "value": "289603 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E4%BA%AC%E7%AA%81%E7%84%B6%E7%A9%BF%E4%B8%8A%E5%86%9B%E8%A3%85&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 289603",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Putin suddenly put on military uniform..."
-          }
-        },
-        {
-          "title": "9. 一诺暂时告别赛场",
-          "value": "286786 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%AF%BA%E6%9A%82%E6%97%B6%E5%91%8A%E5%88%AB%E8%B5%9B%E5%9C%BA&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 286786",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Yinuo temporarily bids farewell to the arena..."
-          }
-        },
-        {
-          "title": "10. 剑桥硕士面试小学英语教培被刷 [新]",
-          "value": "265058 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%89%91%E6%A1%A5%E7%A1%95%E5%A3%AB%E9%9D%A2%E8%AF%95%E5%B0%8F%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%95%99%E5%9F%B9%E8%A2%AB%E5%88%B7&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 265058",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Rejected in Cambridge Master's interview for primary..."
           }
         }
       ]
