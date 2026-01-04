@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2026-01-04T14:02:11+08:00",
+  "generated_at": "2026-01-04T18:38:20+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-04T18:38:20+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息丨联合国安理会将就委内瑞拉局势举行紧急会议",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LTDNTeDVtT2VPV0Flb0NUOW1jX3JGOV93dDctUjlkeVh2bWUzYzJKaDNnUHNjelc0d2YzY1lSTDBTUFpuVkE5RHNTUlRwSVk0cUxGZU5UZVBEVjNBR0pWTlVZdF9oU1hiVlJjMk9UYXNocE85bGF3UHgzblRSUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-03T17:35:57Z",
+            "summary": "新华社消息丨联合国安理会将就委内瑞拉局势举行紧急会议 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "UN Security Council to hold emergency meeting on..."
+          }
+        },
+        {
+          "title": "纽约民众抗议美国空袭委内瑞拉",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1YwemI1cDkxd1lwcnpHWm5GRUg5NWxWRUx4WVVDRDFZcFp5Wk9EVUg4Y3ZyTlA4WkZBc1ZUWnNQc3dNMHhldVJKTVFWUEw3QUpYZWpxbGVLVW5ybUlhODlVV0pkbk4wejVNNFZHWlBsOW53NWNlOVd3Szl6LXRhTGhSTGM4Zw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-03T19:41:54Z",
+            "summary": "纽约民众抗议美国空袭委内瑞拉 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "New Yorkers protest U.S. airstrikes on Venezuela..."
+          }
+        },
+        {
+          "title": "美国交通部长：加勒比海空域限制措施即将解除",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEXzJLaS1PMFZ2TXFlX1dNZDVmSkQtVDNudE1kMHM4dW9EZy12aTlXT2pZbzJIWVhGa2xLeFhkOG9mZEZpTThYSEFlR1I3SEVDSjhtaEVOR3ZXNVlZcXFEUGFsN3VsNWVudUlTc2s5Q1EzUGFJTTU2OU5TUGRnUGs?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-03T20:17:32Z",
+            "summary": "美国交通部长：加勒比海空域限制措施即将解除 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "U.S. Transportation Secretary: Caribbean airspace..."
+          }
+        },
+        {
+          "title": "现场直击｜委内瑞拉首都街道空旷 商铺暂时关闭 空气中有烧焦气味",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1leVFoQ253NjJmdVR0U0JUSm9DZEZ6T2JyWTBuZGdmSllGa2UxTHlBVGpCX3ktc0Z4b3RBc1ZzODcxbTRhZVJRVzNRbG1iY2szTXhQelBrWUhHZXQyWGpSM2NwUmctdm5Md1ZqMml3dXQ0MXRSOGFHUXdaNHNrX28?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-03T20:16:19Z",
+            "summary": "现场直击｜委内瑞拉首都街道空旷 商铺暂时关闭 空气中有烧焦气味 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Live coverage: Caracas streets empty, shops closed,..."
+          }
+        },
+        {
+          "title": "港口作业忙 力争“开门红”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3FVWnM2cm1aZ1Y0cXU2XzJMbFpGcGhzUllLMzJ6SFU3OFFudW1YN3pCYm04a2VpWUF0Vm84MHg5eU92VmMtYUVJUHV0Sm0zMHZvOEJPUVNmaVRobHM0azVEQ3phTHJlZkM1UEFEd3F1UnBVRjBSY0tCbmhURVRLdEc2bURPM0tfenJwSlRWWQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-03T02:50:03Z",
+            "summary": "港口作业忙 力争“开门红” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Busy port operations aim for a strong start..."
+          }
+        },
+        {
+          "title": "2025年新华社年度照片·国内新闻",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMjVyMkVJN1MzaXM2aUV5MmVlYWhtWTlFRWRkampQTTFjQTB1M1lhM0tlQldyX2tCeFoxLW9FZ0VpbExJTFRWV0dDYXowdW5sSFZ2LWhMZmRCQkJMS01QYk9lQ2lHWFpncEFqTEhYS19JMk5Jdjl1Z1NZQzMyaGZRV1N3RGNCQQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-03T18:37:58Z",
+            "summary": "2025年新华社年度照片·国内新闻 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "2025 Xinhua Annual Photo: Domestic News..."
+          }
+        },
+        {
+          "title": "镜观中国·新华社国内新闻照片一周精选",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzJxeEtiRTlVU0ZRYjJiZzVTVGE2RWVfeWhoZU9WZVgwMWVhek1nUkFpeHkzZ1gtVDhMVkNzYVVkeGxxQlYzY1pSNzAwemhSS0FmVHh5d2NtNS1ZY0FfZVZlUy02Q3VxOHRYWkxFNGpKbFpteVhJYlQ3cHYwWDlnYjJhZV9wQQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-03T04:31:41Z",
+            "summary": "镜观中国·新华社国内新闻照片一周精选 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "A Week's Selection of Domestic News Photos from Xinhua..."
+          }
+        },
+        {
+          "title": "新华社消息｜元旦假期国内出游1.42亿人次",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW1MNlM2VmpFc2FXTXZiTkZWT1JxS29kdkY1Rml5UDZnYzEtWTB2VnpRd0VzRF91WjRYazFsaV9QSFE0ZWFDaU50dWhGR3ZpRkdpRnRjT3VtNVozMEFxS01RTHdESzFmal9OeXFKVkNLY3VvT3poVTlzWE5kNV9HekJteWx2Wkk0?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-04T00:04:03Z",
+            "summary": "新华社消息｜元旦假期国内出游1.42亿人次 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: 142 million domestic trips during New..."
+          }
+        },
+        {
+          "title": "海尔智家向平台服务型生态企业转型",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3BiX1FNU1dEYlZzM01tYV9mM1dtdzJRd3Z5cXNPMTN0RldYNWdFSmhPM1Q4YVdOQ0h4OHREUm03MlF4R3hLVHJnLVJTM2JmNFdHNTllSDZUaW1Gak5VX2tmOFA0aS1uNWJpZE5iNl9SVC02TS04SXRRZDNlaU5TTTFYZ0g?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-03T22:20:26Z",
+            "summary": "海尔智家向平台服务型生态企业转型 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Haier Smart Home is transforming into a platform service..."
+          }
+        },
+        {
+          "title": "新华视点丨多点发力激活高质量发展新引擎",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53WHNjUnpyRllGMUNsUlFpSzU4aGVpVGk5OWlhdldGZVI1ZDNjTko5VFE1UXNKeGhUQVpfZGN5S284clc3ZW93emFYb2lZU3VUSGxFVnZRRE5abVc5NjNIOVFCOTBaRXoxelZZelpOTldHSllRT3FFN2xQV29wdw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-03T19:24:35Z",
+            "summary": "新华视点丨多点发力激活高质量发展新引擎 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua Insights: Multiple efforts to activate new..."
+          }
+        },
+        {
+          "title": "《企业党建发展研究报告2025》实践成果征集通知",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGNYOG5nalJwRUwzbGxNNjFXc1RuZzV4VFB1UGxqYmlxYmJMamVFWEFZRlpBT1p1ZjVoc3JXRUxKaTZiSzlPc0hUUkVTZEI0cmlTSFBRb3ZveU0yMW1JenZBekg2UUhYdFdkM0hYcW9aM3VlTFJaZmpmc2hzSGRPb3BXbkNHRGUx?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-03T23:20:09Z",
+            "summary": "《企业党建发展研究报告2025》实践成果征集通知 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Notice for Collecting Practical Achievements for 2025..."
+          }
+        },
+        {
+          "title": "《变革与迷思：辛亥1911》出版发行",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzdZbjVnVUJ3SDN0U3M2V1JiRTR4SF9pOUJwdE5iVEFSOXRObzl5T25jZC1PX1Vqeld3OW1HaWZGLWZPZzBxbHpsRXplN2o0X2JUN3VlNmozb1l4OGs2WFlpRl92cVJDLU5DZDZ1R0VlZWhsM0dNWENTWkJyMGYzXzZOeEI2U0p6?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-04T00:57:01Z",
+            "summary": "《变革与迷思：辛亥1911》出版发行 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"Reform and Myth: The 1911 Xinhai Revolution\" published..."
+          }
+        },
+        {
+          "title": "泉州市行业协会商会高质量发展主题活动在晋江举办",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONU4zcEtqalJEZEVKek5FZkNoQ2VJMkQ2TEdBVThjcWJwMlZpUDl3V1hJSTc1bk1ybmh1WnlqamZIZ3pTTENGV2hRV0tjc1lfaEVNNW1ObWpjRU5va1F1enMtSElkdk1wMjlIQWRUdmlIUGVacEd4WlRYbk1LVFBVSjVCcWJ1S1Zn?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-03T19:17:29Z",
+            "summary": "泉州市行业协会商会高质量发展主题活动在晋江举办 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Quanzhou industry association's high-quality development..."
+          }
+        },
+        {
+          "title": "晋江市2026年元旦春节促消费活动启动",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUZsTS1LNTlqazVTNlE5UGljY1prUGJyMlNsaFcybjJfNjJsUFJQWmpkdEplWTEyRlpaZ3RXQ25Vd2RCQWlXak5KQlFweGg0dzFCZmdTLXdIZHlMTWZQZUFmYTRLMnBIOGNSekprTFdLaHc5NHpzTlJlbDZjVmhpV3RzdWlhZTNC?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-03T19:17:45Z",
+            "summary": "晋江市2026年元旦春节促消费活动启动 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Jinjiang City launches consumption promotion for New..."
+          }
+        },
+        {
+          "title": "组图丨福建泉港：元旦假期施工忙",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0xiSjNhQkVVY2dpQ3BEWnJEUi1PWVZORHNFaGlqTTdCeEJBalFmNkJOLXZqZHpSYUQ3Q3VZd3BsNGxyaENieHJpY0RHMmw0SmxhMC1RbDdVV2V2VjNWdzdvRTgxYmIzdm5qOUF6SDh0T29rU05BRkc1ZklFalNtY2lpMkttaUlH?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-03T19:17:12Z",
+            "summary": "组图丨福建泉港：元旦假期施工忙 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Photos: Construction busy in Quangang, Fujian during New..."
+          }
+        },
+        {
+          "title": "荆楚提升创新策源力——湖北加快打造科技创新高地",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rY3p2XzB6SlVqUHA3WEJLYVV5YnQyS1IxZ08yTkJFMkFEMmZuV1BuMEpUYkNkbTNQOHBNNFd2SjVYRXRwNHoxMTJXYXM4bE5zaHJPUWJMMmktR3kyWlFvVG51TTFHSDBPdFlOckQxeGxGemdoWXkwUmEtX1dCQQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-03T18:35:58Z",
+            "summary": "荆楚提升创新策源力——湖北加快打造科技创新高地 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hubei accelerates building a hub for technological..."
+          }
+        },
+        {
+          "title": "从“答好题”到“树标杆”——上海淬炼国际一流营商环境赋能高质量发展",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iN0Q2VTkzZDczeWV0ZE95NUdzVHVYQzdxUmdVMFRCRXlTT29Sa0hUZWZhRjNRY1RiVndERG9UdjhiRmZqN1Frb0NGZmNvNFJQY1d6MUg2SnhGSDNCaFlsYWJDZ1dQY0d5UWlIbk4yTC1aV2dOd202QWhUVnk0QQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-03T18:37:40Z",
+            "summary": "从“答好题”到“树标杆”——上海淬炼国际一流营商环境赋能高质量发展 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "From \"Answering Questions\" to \"Setting Standards\"—Shangha..."
+          }
+        },
+        {
+          "title": "匡乐成：延伸出版产业链 助力黄山市成为智算应用创新策源地",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWZMX2Y2RG92TXRJVGQwaW9ISUtNRzdtYnRlbWl4NldnRi1iazNzOVJWZjVqVnBzRXR3Q3RRR1dQc0RCdE5OckpQcElzT21UdWw0bTNGQTk4SXM4UnppZFlUV21FOURpMHktTVRtNG5aVEN6VzJibW9QTTV0SlgtTGNFVDJrQUUz?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-04T00:58:34Z",
+            "summary": "匡乐成：延伸出版产业链 助力黄山市成为智算应用创新策源地 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Kuang Lecheng: Extend publishing industry chain to boost..."
+          }
+        },
+        {
+          "title": "陈茂波：香港将乘势而上建立更蓬勃的创科产业",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWktlZVZEZVh4dGlYWWpCSXdrSm5TZTA1X1BSc3EyamZLTDRfcWJseTNpS2Z4cmt2RXFHVnYzZXVvbUppM2dTUXkzSEpWNGNvLUxIbkxaamdHMFpjTzZna2RrVndQdTRZV0xvRUU2ajdwQnExQ1dGSmkxa3JyUG9TYW9sVHFGUlU?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-03T22:43:06Z",
+            "summary": "陈茂波：香港将乘势而上建立更蓬勃的创科产业 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chan Mo-po: Hong Kong will seize the opportunity to..."
+          }
+        },
+        {
+          "title": "“数”说新跨越 中国铁路站上新起点",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWNKQXd4aDhxS21xV19kRmJfM0tDMUROM3JJbmVXUnhJeVpQTjRmM0xOT1hBcHNncU55TnJhYkhiSDR0aDcxYXRYNTFYSnA2M1h2VlZwMjhXZDFJYS00NGp1OUhBUlFWM1ZtejE5RXByU1RsVGt6Y0JsbzZsamZMNHVxRXZiOFRN?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-03T23:55:39Z",
+            "summary": "“数”说新跨越 中国铁路站上新起点 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"Data\" speaks of a new leap for China's railways..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-04T14:02:11+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "Beijing No. 20 Middle School launches talent program..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-29T18:41:04+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "受权发布丨东部战区发布联合演训区公告及示意图",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50dlBvbUI4azhzWE5OMC0tMi1HUWd3eGdHN2NvUU0xUmM5Z2M1VEx5Q3hOdjZoY1BuVG9ORkh1U0laUjhURmg5aG9VekdtUXB0QUhvcHhhbEhrVHZIaTZiWVplT3NmZmo1M1M0WjBIbDExczE2SF9jZl9Hc2RRdw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-28T15:31:31Z",
-            "summary": "受权发布丨东部战区发布联合演训区公告及示意图 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Authorized release: Eastern Theater Command announces..."
-          }
-        },
-        {
-          "title": "新华社消息｜东部战区开展“正义使命-2025”演习",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXRUJOQk9FQVFsM2ZFbm11VnpKVXhaeENRdGh5YWFOV3pUeV9vTXZKVEt5Z3AyVkxMVTRGMVhyazhUMW14OC1FSEN2UnBrdThVa19UNUlvT1lUMEVMcC10VmtNbkdnVE5JY3NJQnoxandZOU1jajN3Ync1a1liZw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-28T17:15:32Z",
-            "summary": "新华社消息｜东部战区开展“正义使命-2025”演习 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua News: Eastern Theater conducts \"Justice..."
-          }
-        },
-        {
-          "title": "中非共和国大选开始投票",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVVMYzhWcDNqNnFhUkMxX01Jbmx3bVA2QXQ2WFVQUTBOS1lOVm0yOEptdmpTdnozY1NnQUFlaXRLeE9yN052NkF3aElNUG5hYjJtNXZVZGdxZ2dDcFhNY0pvR2sxX1NXU084TXZvX2E3aWlNSm1wTTdiQkl3eURKVFVtR1BvQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-28T16:59:58Z",
-            "summary": "中非共和国大选开始投票 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Voting begins for the Central African Republic elections..."
-          }
-        },
-        {
-          "title": "这一年，乡村振兴的魅力风景",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RRXlzOVdDRGFmUGdVelNncHdVN0JwRGF2djlTR0FWVURaeERmYnFtYTMwS1Vab3V1RmsteVZTMW9JUzcyalNVUG85U3NBY1Y1YmVPQkJQZ0E1dnZSVURKaTZtczdTUVdFd2hac2g3S3A1Zy1lZTA0YkpCeFJJQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-28T17:50:56Z",
-            "summary": "这一年，乡村振兴的魅力风景 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "This year, the charming landscape of rural revitalization..."
-          }
-        },
-        {
-          "title": "以现实主义深耕“场景里的新时代”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzJsTnRNWDl2N2hGMGtMTEFmb3hyRnJFeDdkclZiMHd5N3dqMExUOWJaeXM4Um5aUXJTYkxTMGRiaUFXTHhWR2k3TG9IekZhU1d4MUF5MFlWSWFTUnUtUDkwelhrRVhDSmNqaUs1NUFsNjZzWENIVHRLNHpSdVFhdERHYw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-28T17:45:47Z",
-            "summary": "以现实主义深耕“场景里的新时代” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Deeply cultivate the \"new era in scenes\" with realism..."
-          }
-        },
-        {
-          "title": "年终报道｜新华社评出2025年国内十大新闻",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGtuMC1QLXp0OWhlNXhZS29sdUYzd1JQRldXbWdzNV9lcktNMkRUS3c0YnVGYk94R3gtSkIxQnZqNzBtcmRpZk95Y193eUpNQUlIUWRScGtTNVBSMGQ1MWUzOUhMUlk1bjVJNFJ4N05SNFRJaG1pY08yY2toY2gyMF9KbnIyZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-28T17:04:36Z",
-            "summary": "年终报道｜新华社评出2025年国内十大新闻 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Year-end report: Xinhua selects top ten domestic news of..."
-          }
-        },
-        {
-          "title": "数览成绩单·2025中国经济盘点丨激发内生动能，大市场活力加速释放",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaW5iNGxZaU5BS0Q3U0ZqNE9ocEx2R3RhUGU1RXlNWFNDdkpBN2tkOHZqc013VzB2TGdHQXNkN1R4MG5STHN3ZElUNnY0LU52MUJvUWFDaFdOY0RaUksxSDgtQkJXSDB6NGhzM2Fkclp0bUJSWHh1TGd6LVdGMTF0Z1lEMkxYYkhI?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-29T00:05:27Z",
-            "summary": "数览成绩单·2025中国经济盘点丨激发内生动能，大市场活力加速释放 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "2025 China Economic Review: Boosting internal momentum..."
-          }
-        },
-        {
-          "title": "擎旗奋进 智领新程——中国一汽“十四五”转型发展观察",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5azNNYi1La0JkMFh2M2l6dmZOZmVYWVRYTE0tUTVJMkRfbXlKcmVVdVdqMG9fbkVEOWJUQ2FFX3h4TVg4V1BtMWRKcnVqWFFqR1Z1OGZzLXQ4VThkRlNUU2ZnYXJkWVpWWnZBQ2hjcU1VVHdLVllrZ1pfeHVvQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-28T18:13:07Z",
-            "summary": "擎旗奋进 智领新程——中国一汽“十四五”转型发展观察 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Leading the way: China FAW's transformation during the..."
-          }
-        },
-        {
-          "title": "第一观察丨2025，中国经济顶压前行、向新向优的发展逻辑",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFBGN2FuNEFBY0xaYnhmWU9zYVJ3S3MwOTF3ZV85ZVJlTUR3MVB1Wm9kS3NWV19jTmd6TXZvMl83aWUtNFpDZ1QtOF8zbkMyN3c1NzFOZmVMa2JXWV9pVzJIQmlaZ1RYb0lZVzFiaHpLclcyaTFIdUkzMUJubFIyVmF1Vi1QMEd0?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-28T06:58:39Z",
-            "summary": "第一观察丨2025，中国经济顶压前行、向新向优的发展逻辑 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "First Observation: In 2025, China's economy advances..."
-          }
-        },
-        {
-          "title": "新华社权威快报丨我国明年将调整部分商品关税税率税目",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMk9ueEw2bkpCRXR4RFZJU0lNTkR2Q05Gd1RsMWl1b0szNUxQQnR3YjJubFI5dU5rMklhVlVzbXhhczlHcFN2YjNxVmdDYi11bFoxSUdUNjhUX0wwSTU3OTlpY1RFbjR0TlpNM0RXRHZ6M3VXRWpzZU9LR1VmU0lOamg1OXlOR3dQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-29T00:38:19Z",
-            "summary": "新华社权威快报丨我国明年将调整部分商品关税税率税目 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua News: China to adjust some commodity tariff rates..."
-          }
-        },
-        {
-          "title": "新华财经丨“单车”胜“赛车” 室内能“划船”——“AI+体育”让运动更有趣",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTA3LXF4WFFQOXF0djFTSVBQSWFWSzNrd2twcUxuQmlUQ0djQjIzczZvSnoyeURhQWplRi1TQXBLTHNDT2Z6SlVYRTBIQWdOaWdGLWpBdUw5dDYwcWk5Y1NWUmhWdlJ3VG93WnNSYlpuRldoN1hWMzBKR05EZ195NUpiTDZGVFFJ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T23:49:31Z",
-            "summary": "新华财经丨“单车”胜“赛车” 室内能“划船”——“AI+体育”让运动更有趣 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua Finance: \"Bikes\" beat \"race cars\"—AI+Sports makes..."
-          }
-        },
-        {
-          "title": "财政部：2026年将扩大财政支出盘子 继续安排资金支持消费品以旧换新",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41T292eUJ4Xy1ITUp3WWJuQVcwU2MtTjZWOEliY2QwZWJYRWc2cE5pZVhKUDNGUWR6cU1LaHY1TUtuM19seHl2S2Q2bTVBUEotVGpzZXZrdVMxOTdXWkZSNDhqS2Z0YUx1anBGYzJoU0dOaV9tU1VFdGoxMUhFUQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T17:22:18Z",
-            "summary": "财政部：2026年将扩大财政支出盘子 继续安排资金支持消费品以旧换新 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Ministry of Finance: Expand fiscal spending in 2026..."
-          }
-        },
-        {
-          "title": "中央经济工作会议里的民生事｜稳定就业大盘",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejFlbXZ3WnZkaTBzQ0lFc2JkaXMyYTRveThBTm9YSXZhR2RtZGkwVDFBeXRLOWdyVGZXSnlEUnhTZWNhRjN5bjRKbTNaQXFrcUU5N0hRdUxicWhkSDVKWXJEakk5OVhhaWEtV2hyd21WMGtvdUNJLTBGbXNDbWVKTHRvdkVTWHF5?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T22:55:07Z",
-            "summary": "中央经济工作会议里的民生事｜稳定就业大盘 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Central Economic Work Conference: Stabilizing Employment..."
-          }
-        },
-        {
-          "title": "部署六大重点工作 2026年积极财政政策“发力”可期",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NUTVXUzNSMndXUWNfR0xUZ201ZFltM1FQSVQtZUR1NE9XdU1XX24yMUcwTFhZZFVkcDIteW9abGdobGRRemxLVENHdmNUWHFDZDR3a3JJTmg2bnJRZkJSM3RRaVRVT3dkZVZPU2hGaVR0ZnJ5eWVrV3Zabkd0Zw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T18:48:26Z",
-            "summary": "部署六大重点工作 2026年积极财政政策“发力”可期 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Deploy six key tasks; proactive fiscal policy expected..."
-          }
-        },
-        {
-          "title": "受权发布丨东部战区发布联合演训区公告及示意图",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50dlBvbUI4azhzWE5OMC0tMi1HUWd3eGdHN2NvUU0xUmM5Z2M1VEx5Q3hOdjZoY1BuVG9ORkh1U0laUjhURmg5aG9VekdtUXB0QUhvcHhhbEhrVHZIaTZiWVplT3NmZmo1M1M0WjBIbDExczE2SF9jZl9Hc2RRdw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T15:31:31Z",
-            "summary": "受权发布丨东部战区发布联合演训区公告及示意图 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Authorized release: Eastern Theater Command announces..."
-          }
-        },
-        {
-          "title": "2025“三农”成绩单丨科技赋能添底气 品牌效应增亮色",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoZnhPWjJKbGdScm5FeUJaOUkzOElOZXVZUTNyVG1qLUpRT3JSRWpfejkwTm9FRHh1dHA4cFhmTGE1NHNPTHdFd2FfcHpmdnIyeEtjS21aVG1aNlRWUkpnVU95YzdsY0lNTE5KZk5yTWFWWmszNVUycUZOUkhHQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-28T22:31:08Z",
-            "summary": "2025“三农”成绩单丨科技赋能添底气 品牌效应增亮色 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "2025 \"Three Rural Issues\" report: Tech boosts..."
-          }
-        },
-        {
-          "title": "更高水平创新活力之城，杭州何以进阶？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XMldVRGk4MGpySGdJbHFSS3VEeTMxcUktX0dJOGxCQWlfTXdOd1AwNnMtMHlsM3hidEtxSFM3WGw1Nl9ZS3g3NkhocDQtbHJlXy0wZUpOVkRJV0UyNEJWbmFoZXp0bFU5dkVHUUdVeHVrNUk4dTgxQ0FUaDZsZw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-28T18:14:57Z",
-            "summary": "更高水平创新活力之城，杭州何以进阶？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "How will Hangzhou advance as a city of higher innovation?"
-          }
-        },
-        {
-          "title": "万亿“航母级”基金正式启动 用“耐心资本”陪跑“硬科技”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCNEE0S1FnRHJJWUpEM0FtSDNqV1lUVnBLN0ljNWJ6OXJEaWltVndlWXJobFVwLTVxMDAyOWFmRUtSU2Z1M09nT01PcEk3NXRlc2IxTDRKQ09kWS1wQzAyV1ZLOGMyQW5TMEJ3aEhwOFBOUnZkYnowVUlwVGZmdw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-28T18:16:35Z",
-            "summary": "万亿“航母级”基金正式启动 用“耐心资本”陪跑“硬科技” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Trillion-dollar \"carrier-class\" fund launched to support..."
-          }
-        },
-        {
-          "title": "北京市第二十中学联合中国科学院半导体研究所启动“黄昆半导体科学拔尖创新人才培养项目”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWRRaG9WUGxTQ19pOEtFX1h2RXZyOXpGcnI3eU9MVlhBVEh1Mjc5UWFxOWdKdXlWVVY0N2YwaDlwY0oxXy1MeERNbGp6R25odU5pM2lMWlVFZ1MtQTJUcVZ6OHlxVnpMTTNuZGt4MEpCUDFLTTJsbm1jYWNoazk5VnJvMA?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-29T02:26:06Z",
-            "summary": "北京市第二十中学联合中国科学院半导体研究所启动“黄昆半导体科学拔尖创新人才培养项目” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Beijing No. 20 Middle School launches talent program..."
-          }
-        },
-        {
-          "title": "擎旗奋进 智领新程——中国一汽“十四五”转型发展观察",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5azNNYi1La0JkMFh2M2l6dmZOZmVYWVRYTE0tUTVJMkRfbXlKcmVVdVdqMG9fbkVEOWJUQ2FFX3h4TVg4V1BtMWRKcnVqWFFqR1Z1OGZzLXQ4VThkRlNUU2ZnYXJkWVpWWnZBQ2hjcU1VVHdLVllrZ1pfeHVvQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-28T18:13:07Z",
-            "summary": "擎旗奋进 智领新程——中国一汽“十四五”转型发展观察 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Rallying Forward: Observing FAW's Transformation in the..."
           }
         }
       ]
