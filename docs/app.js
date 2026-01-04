@@ -1,3 +1,199 @@
+// News Ticker Functions
+const TICKER_SOURCES = {
+  xinhua: { label: 'Xinhua', class: 'source-xinhua' },
+  thepaper: { label: 'The Paper', class: 'source-thepaper' },
+  ladymax: { label: 'LadyMax', class: 'source-ladymax' },
+  baidu: { label: 'Baidu', class: 'source-baidu' },
+  weibo: { label: 'Weibo', class: 'source-weibo' },
+  wechat: { label: 'WeChat', class: 'source-wechat' },
+  market: { label: 'Market', class: 'source-market' },
+};
+
+function createTickerItem(text, url, sourceKey) {
+  const source = TICKER_SOURCES[sourceKey] || { label: sourceKey, class: '' };
+
+  const item = document.createElement('a');
+  item.className = 'ticker-item';
+  item.href = url || '#';
+  if (url && url !== '#') {
+    item.target = '_blank';
+    item.rel = 'noopener';
+  }
+
+  const sourceSpan = document.createElement('span');
+  sourceSpan.className = `ticker-item-source ${source.class}`;
+  sourceSpan.textContent = source.label;
+
+  const textSpan = document.createElement('span');
+  textSpan.textContent = text;
+
+  item.appendChild(sourceSpan);
+  item.appendChild(textSpan);
+
+  return item;
+}
+
+function collectTickerItems(data) {
+  const items = [];
+
+  // Add market movers (indices with significant changes)
+  if (data.indices?.items) {
+    data.indices.items.forEach(item => {
+      const pct = item.extra?.chg_pct;
+      if (pct !== null && pct !== undefined && Math.abs(pct) >= 0.5) {
+        const sign = pct > 0 ? '▲' : '▼';
+        const text = `${item.title}: ${item.value} ${sign} ${Math.abs(pct).toFixed(2)}%`;
+        items.push({ text, url: item.url, source: 'market', priority: 1 });
+      }
+    });
+  }
+
+  // Add top Baidu trends (top 3)
+  if (data.baidu?.items) {
+    data.baidu.items.slice(0, 3).forEach(item => {
+      const title = (item.title || '').replace(/^\d+\.\s*/, '');
+      const translation = item.extra?.translation;
+      const text = translation ? `${title} — ${translation}` : title;
+      items.push({ text, url: item.url, source: 'baidu', priority: 2 });
+    });
+  }
+
+  // Add top Weibo trends (top 3)
+  if (data.weibo?.items) {
+    data.weibo.items.slice(0, 3).forEach(item => {
+      const title = (item.title || '').replace(/^\d+\.\s*/, '');
+      const translation = item.extra?.translation;
+      const text = translation ? `${title} — ${translation}` : title;
+      items.push({ text, url: toMobileWeiboUrl(item.url), source: 'weibo', priority: 2 });
+    });
+  }
+
+  // Add top WeChat trends (top 2)
+  if (data.wechat?.items) {
+    data.wechat.items.slice(0, 2).forEach(item => {
+      const title = (item.title || '').replace(/^\d+\.\s*/, '');
+      const translation = item.extra?.translation;
+      const text = translation ? `${title} — ${translation}` : title;
+      items.push({ text, url: item.url, source: 'wechat', priority: 2 });
+    });
+  }
+
+  // Add latest Xinhua headlines (top 3)
+  if (data.xinhua?.items) {
+    const sortedXinhua = [...data.xinhua.items].sort((a, b) => {
+      const aTime = new Date(a?.extra?.published ?? 0).getTime();
+      const bTime = new Date(b?.extra?.published ?? 0).getTime();
+      return bTime - aTime;
+    });
+    sortedXinhua.slice(0, 3).forEach(item => {
+      const title = item.title || '';
+      const translation = item.extra?.translation;
+      const text = translation ? `${title} — ${translation}` : title;
+      items.push({ text, url: item.url, source: 'xinhua', priority: 3 });
+    });
+  }
+
+  // Add latest The Paper headlines (top 3)
+  if (data.thepaper?.items) {
+    data.thepaper.items.slice(0, 3).forEach(item => {
+      const title = item.title || '';
+      const translation = item.extra?.translation;
+      const text = translation ? `${title} — ${translation}` : title;
+      items.push({ text, url: item.url, source: 'thepaper', priority: 3 });
+    });
+  }
+
+  // Add latest LadyMax headlines (top 2)
+  if (data.ladymax?.items) {
+    data.ladymax.items.slice(0, 2).forEach(item => {
+      const title = item.title || '';
+      const translation = item.extra?.translation;
+      const text = translation ? `${title} — ${translation}` : title;
+      items.push({ text, url: item.url, source: 'ladymax', priority: 3 });
+    });
+  }
+
+  // Sort by priority then shuffle within priority groups for variety
+  items.sort((a, b) => a.priority - b.priority);
+
+  return items;
+}
+
+function renderTicker(items) {
+  const container = document.getElementById('ticker-content');
+  if (!container) return;
+
+  container.innerHTML = '';
+
+  if (items.length === 0) {
+    const loading = document.createElement('span');
+    loading.className = 'ticker-loading';
+    loading.textContent = 'No headlines available';
+    container.appendChild(loading);
+    return;
+  }
+
+  // Create items twice to enable seamless loop
+  const createItems = () => {
+    items.forEach((item, index) => {
+      const tickerItem = createTickerItem(item.text, item.url, item.source);
+      container.appendChild(tickerItem);
+
+      // Add divider between items
+      if (index < items.length - 1) {
+        const divider = document.createElement('span');
+        divider.className = 'ticker-divider';
+        divider.textContent = '•';
+        container.appendChild(divider);
+      }
+    });
+  };
+
+  // Add items twice for seamless scrolling
+  createItems();
+
+  // Add a larger gap before the repeat
+  const gap = document.createElement('span');
+  gap.style.paddingLeft = '4rem';
+  container.appendChild(gap);
+
+  createItems();
+
+  // Adjust animation speed based on content length
+  const contentWidth = container.scrollWidth / 2;
+  const pixelsPerSecond = 50; // Adjust for desired speed
+  const duration = contentWidth / pixelsPerSecond;
+  container.style.animationDuration = `${Math.max(30, duration)}s`;
+}
+
+async function updateTicker() {
+  try {
+    const [indices, baidu, weibo, wechat, xinhua, thepaper, ladymax] = await Promise.all([
+      loadJSON('data/indices.json').catch(() => ({ items: [] })),
+      loadJSON('data/baidu_top.json').catch(() => ({ items: [] })),
+      loadJSON('data/weibo_hot.json').catch(() => ({ items: [] })),
+      loadJSON('data/tencent_wechat_hot.json').catch(() => ({ items: [] })),
+      loadJSON('data/xinhua_news.json').catch(() => ({ items: [] })),
+      loadJSON('data/thepaper_news.json').catch(() => ({ items: [] })),
+      loadJSON('data/ladymax_news.json').catch(() => ({ items: [] })),
+    ]);
+
+    const tickerItems = collectTickerItems({
+      indices,
+      baidu,
+      weibo,
+      wechat,
+      xinhua,
+      thepaper,
+      ladymax,
+    });
+
+    renderTicker(tickerItems);
+  } catch (error) {
+    console.error('Failed to update ticker:', error);
+  }
+}
+
 async function loadJSON(path) {
   const bust = `?t=${Date.now()}`;
   const res = await fetch(`${path}${bust}`);
@@ -1132,12 +1328,16 @@ async function updateHealthStatus() {
 
 // Initial render
 render().then(() => {
+  // Update ticker
+  updateTicker();
+
   // Update health status
   updateHealthStatus();
 
   // After initial render, switch to incremental update checks
   setInterval(() => {
     checkForUpdates();
+    updateTicker();
     updateHealthStatus();
   }, 30_000); // Check every 30 seconds
 });
