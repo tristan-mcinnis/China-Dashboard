@@ -1193,6 +1193,11 @@ async function render() {
     }
 
     setLastRefresh();
+
+    // Re-apply search filter after data refresh
+    if (typeof searchController !== 'undefined' && searchController.reapplySearch) {
+      searchController.reapplySearch();
+    }
   } catch (error) {
     console.error(error);
   }
@@ -1325,6 +1330,207 @@ async function updateHealthStatus() {
     indicator.className = 'health-indicator error';
   }
 }
+
+// Search functionality
+class SearchController {
+  constructor() {
+    this.searchInput = document.getElementById('search-input');
+    this.clearButton = document.getElementById('search-clear');
+    this.currentQuery = '';
+    this.debounceTimer = null;
+    this.isSearchActive = false;
+
+    if (this.searchInput) {
+      this.searchInput.addEventListener('input', (e) => this.handleInput(e));
+      this.searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          this.clear();
+        }
+      });
+    }
+
+    if (this.clearButton) {
+      this.clearButton.addEventListener('click', () => this.clear());
+    }
+  }
+
+  handleInput(e) {
+    const query = e.target.value.trim();
+
+    // Debounce search to avoid excessive updates
+    clearTimeout(this.debounceTimer);
+    this.debounceTimer = setTimeout(() => {
+      this.search(query);
+    }, 150);
+  }
+
+  search(query) {
+    this.currentQuery = query.toLowerCase();
+    this.isSearchActive = query.length > 0;
+
+    // Show/hide clear button
+    if (this.clearButton) {
+      this.clearButton.style.display = this.isSearchActive ? 'flex' : 'none';
+    }
+
+    if (!this.isSearchActive) {
+      this.resetAllVisibility();
+      return;
+    }
+
+    // Search across all sections
+    this.searchTrendingLists();
+    this.searchNewsSections();
+  }
+
+  clear() {
+    if (this.searchInput) {
+      this.searchInput.value = '';
+    }
+    this.currentQuery = '';
+    this.isSearchActive = false;
+
+    if (this.clearButton) {
+      this.clearButton.style.display = 'none';
+    }
+
+    this.resetAllVisibility();
+  }
+
+  matchesQuery(text) {
+    if (!text || typeof text !== 'string') return false;
+    return text.toLowerCase().includes(this.currentQuery);
+  }
+
+  searchTrendingLists() {
+    // Search Baidu, Weibo, WeChat trending lists
+    const trendingLists = [
+      { id: 'baidu', section: null },
+      { id: 'weibo', section: null },
+      { id: 'wechat', section: null }
+    ];
+
+    trendingLists.forEach(({ id }) => {
+      const list = document.getElementById(id);
+      if (!list) return;
+
+      const items = list.querySelectorAll('li');
+      let hasVisibleItems = false;
+
+      items.forEach((li) => {
+        const chineseText = li.querySelector('.chinese-text')?.textContent || '';
+        const englishText = li.querySelector('.english-text')?.textContent || '';
+        const linkText = li.querySelector('a')?.textContent || '';
+
+        const matches = this.matchesQuery(chineseText) ||
+                       this.matchesQuery(englishText) ||
+                       this.matchesQuery(linkText);
+
+        if (matches) {
+          li.classList.remove('search-hidden');
+          hasVisibleItems = true;
+        } else {
+          li.classList.add('search-hidden');
+        }
+      });
+
+      // Show/hide the parent card
+      const card = list.closest('.card');
+      if (card) {
+        card.classList.toggle('search-hidden', !hasVisibleItems);
+      }
+    });
+
+    // Check if entire Social & Search section should be hidden
+    this.updateSectionVisibility('Social & Search');
+  }
+
+  searchNewsSections() {
+    // Search Xinhua, ThePaper, LadyMax news grids
+    const newsGrids = [
+      { id: 'xinhua-news', sectionTitle: 'Xinhua News RSS' },
+      { id: 'thepaper-news', sectionTitle: 'The Paper (澎湃新闻) RSS' },
+      { id: 'ladymax-news', sectionTitle: 'LadyMax (时尚头条网)' }
+    ];
+
+    newsGrids.forEach(({ id, sectionTitle }) => {
+      const grid = document.getElementById(id);
+      if (!grid) return;
+
+      const cards = grid.querySelectorAll('.card');
+      let hasVisibleCards = false;
+
+      cards.forEach((card) => {
+        const items = card.querySelectorAll('.news-item');
+        let hasVisibleItems = false;
+
+        items.forEach((li) => {
+          const chineseText = li.querySelector('.chinese-text')?.textContent || '';
+          const englishText = li.querySelector('.english-text')?.textContent || '';
+          const summary = li.querySelector('.news-summary')?.textContent || '';
+          const linkText = li.querySelector('a')?.textContent || '';
+
+          const matches = this.matchesQuery(chineseText) ||
+                         this.matchesQuery(englishText) ||
+                         this.matchesQuery(summary) ||
+                         this.matchesQuery(linkText);
+
+          if (matches) {
+            li.classList.remove('search-hidden');
+            hasVisibleItems = true;
+          } else {
+            li.classList.add('search-hidden');
+          }
+        });
+
+        if (hasVisibleItems) {
+          card.classList.remove('search-hidden');
+          hasVisibleCards = true;
+        } else {
+          card.classList.add('search-hidden');
+        }
+      });
+
+      // Update section visibility
+      const section = grid.closest('.section');
+      if (section) {
+        section.classList.toggle('search-hidden', !hasVisibleCards);
+      }
+    });
+  }
+
+  updateSectionVisibility(sectionTitleText) {
+    const sections = document.querySelectorAll('.section');
+    sections.forEach((section) => {
+      const title = section.querySelector('.section-title');
+      if (title && title.textContent.includes(sectionTitleText)) {
+        const cards = section.querySelectorAll('.card:not(.search-hidden)');
+        section.classList.toggle('search-hidden', cards.length === 0);
+      }
+    });
+  }
+
+  resetAllVisibility() {
+    // Remove all search-hidden classes
+    document.querySelectorAll('.search-hidden').forEach((el) => {
+      el.classList.remove('search-hidden');
+    });
+  }
+
+  // Re-apply search after data refresh
+  reapplySearch() {
+    if (this.isSearchActive && this.currentQuery) {
+      // Small delay to let DOM update
+      setTimeout(() => {
+        this.searchTrendingLists();
+        this.searchNewsSections();
+      }, 50);
+    }
+  }
+}
+
+// Initialize search controller
+const searchController = new SearchController();
 
 // Initial render
 render().then(() => {
