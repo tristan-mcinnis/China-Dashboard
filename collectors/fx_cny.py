@@ -87,7 +87,7 @@ def main() -> None:
                 },
             }
         )
-    write_json(OUT, schema(source="Yahoo Finance (fallback)", items=items))
+    write_json(OUT, schema(source="Yahoo Finance (fallback)", items=items), min_items=1)
 
 
 if __name__ == "__main__":

@@ -1101,8 +1101,43 @@ async function checkForUpdates() {
   }
 }
 
+// Health status indicator
+async function updateHealthStatus() {
+  const indicator = document.getElementById('health-indicator');
+  if (!indicator) return;
+
+  try {
+    const health = await loadJSON('data/health.json');
+    const status = health.status || 'unknown';
+    const successCount = health.success_count || 0;
+    const totalCount = health.total_count || 9;
+
+    indicator.className = `health-indicator ${status}`;
+
+    if (status === 'healthy') {
+      indicator.textContent = `${successCount}/${totalCount} OK`;
+    } else if (status === 'degraded') {
+      const failed = health.failed || [];
+      indicator.textContent = `${successCount}/${totalCount} (${failed.length} issues)`;
+      indicator.title = `Failed: ${failed.join(', ')}`;
+    } else {
+      indicator.textContent = 'Unknown';
+      indicator.className = 'health-indicator error';
+    }
+  } catch (error) {
+    indicator.textContent = 'Offline';
+    indicator.className = 'health-indicator error';
+  }
+}
+
 // Initial render
 render().then(() => {
+  // Update health status
+  updateHealthStatus();
+
   // After initial render, switch to incremental update checks
-  setInterval(checkForUpdates, 30_000); // Check every 30 seconds instead of 60
+  setInterval(() => {
+    checkForUpdates();
+    updateHealthStatus();
+  }, 30_000); // Check every 30 seconds
 });
