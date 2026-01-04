@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-04T18:37:53+08:00",
+  "generated_at": "2026-01-04T22:08:01+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-04T22:08:01+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 爱奇艺电视剧致歉",
+          "value": "1567812 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%B5%E8%A7%86%E5%89%A7%E8%87%B4%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1567812",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "iQIYI apologizes for the TV series..."
+          }
+        },
+        {
+          "title": "2. 住房公积金会变得越来越香吗",
+          "value": "884911 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E4%BC%9A%E5%8F%98%E5%BE%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%A6%99%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 884911",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Will the housing provident fund become more attractive?"
+          }
+        },
+        {
+          "title": "3. 元旦假期661.5万人次出入境",
+          "value": "725807 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F661.5%E4%B8%87%E4%BA%BA%E6%AC%A1%E5%87%BA%E5%85%A5%E5%A2%83&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 725807",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "6.615 million people traveled in and out during New..."
+          }
+        },
+        {
+          "title": "4. 2026央视春晚彩排开始了 [新]",
+          "value": "晚会 719809 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%E5%BC%80%E5%A7%8B%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "晚会 719809",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The rehearsal for the 2026 CCTV Spring Festival Gala has..."
+          }
+        },
+        {
+          "title": "5. 68岁阿姨豪掷92万养老金为男友买表",
+          "value": "667052 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D68%E5%B2%81%E9%98%BF%E5%A7%A8%E8%B1%AA%E6%8E%B792%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91%E4%B8%BA%E7%94%B7%E5%8F%8B%E4%B9%B0%E8%A1%A8&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 667052",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "68-year-old woman spends 920,000 on a watch for her..."
+          }
+        },
+        {
+          "title": "6. 老人不知儿子离婚误将20万元赠儿媳 [新]",
+          "value": "665051 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E4%BA%BA%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E7%A6%BB%E5%A9%9A%E8%AF%AF%E5%B0%8620%E4%B8%87%E5%85%83%E8%B5%A0%E5%84%BF%E5%AA%B3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 665051",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Elderly man unknowingly gifts 200,000 yuan to..."
+          }
+        },
+        {
+          "title": "7. 非遗里的河南杂技",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%9E%E9%81%97%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E6%9D%82%E6%8A%80&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Henan acrobatics in intangible cultural heritage..."
+          }
+        },
+        {
+          "title": "8. TVB颁奖典礼",
+          "value": "626277 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTVB%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 626277",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "TVB Awards Ceremony..."
+          }
+        },
+        {
+          "title": "9. 美国拒绝外部介入委内瑞拉",
+          "value": "600552 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%BB%9D%E5%A4%96%E9%83%A8%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 600552",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The U.S. rejects external intervention in Venezuela..."
+          }
+        },
+        {
+          "title": "10. 骄阳似我 你把我害惨了 [新]",
+          "value": "剧集 564758 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E4%BD%A0%E6%8A%8A%E6%88%91%E5%AE%B3%E6%83%A8%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 564758",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The blazing sun is like me; you've ruined me..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-04T18:37:53+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Official announcement on the loud noise in Xinyang..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-29T22:09:23+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 东部战区随时到台北",
-          "value": "1154280 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E9%9A%8F%E6%97%B6%E5%88%B0%E5%8F%B0%E5%8C%97&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1154280",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Eastern Theater Command is ready to reach Taipei..."
-          }
-        },
-        {
-          "title": "2. 逍遥剧情 老套",
-          "value": "剧集 486379 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%8D%E9%81%A5%E5%89%A7%E6%83%85%20%E8%80%81%E5%A5%97&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "剧集 486379",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The plot of \"Xiaoyao\" is clichéd..."
-          }
-        },
-        {
-          "title": "3. S21一路开新",
-          "value": "470215 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DS21%E4%B8%80%E8%B7%AF%E5%BC%80%E6%96%B0&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 470215",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "S21 continues to innovate..."
-          }
-        },
-        {
-          "title": "4. 张杰演唱会回应争议 [新]",
-          "value": "演出 465632 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "演出 465632",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Zhang Jie addresses controversy at concert..."
-          }
-        },
-        {
-          "title": "5. 解放军无人机俯瞰台北101大厦",
-          "value": "459562 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 459562",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "PLA drone overlooks Taipei 101 building..."
-          }
-        },
-        {
-          "title": "6. 男孩偷吃变态辣外卖住院家长索赔 [新]",
-          "value": "459166 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%A9%E5%81%B7%E5%90%83%E5%8F%98%E6%80%81%E8%BE%A3%E5%A4%96%E5%8D%96%E4%BD%8F%E9%99%A2%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%94&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 459166",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Boy hospitalized after eating extremely spicy takeout;..."
-          }
-        },
-        {
-          "title": "7. 男子编造遂平凶杀案谣言被处罚",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E9%81%82%E5%B9%B3%E5%87%B6%E6%9D%80%E6%A1%88%E8%B0%A3%E8%A8%80%E8%A2%AB%E5%A4%84%E7%BD%9A&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Man punished for fabricating rumors about Suiping murder..."
-          }
-        },
-        {
-          "title": "8. 新闻联播出现台北101大楼画面",
-          "value": "457367 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E5%87%BA%E7%8E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E6%A5%BC%E7%94%BB%E9%9D%A2&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 457367",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Taipei 101 building appears in news broadcast..."
-          }
-        },
-        {
-          "title": "9. 央视跨年晚会",
-          "value": "综艺 403854 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "综艺 403854",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "CCTV New Year's Eve Gala..."
-          }
-        },
-        {
-          "title": "10. 牛肉干焯水后变豆腐干 [新]",
-          "value": "344348 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%9B%E8%82%89%E5%B9%B2%E7%84%AF%E6%B0%B4%E5%90%8E%E5%8F%98%E8%B1%86%E8%85%90%E5%B9%B2&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 344348",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Beef jerky turns into tofu after blanching..."
           }
         }
       ]
