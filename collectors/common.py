@@ -18,7 +18,19 @@ def now_iso_tz8() -> str:
     return datetime.now(tz).isoformat(timespec="seconds")
 
 
-def write_json(path: str, payload: dict, *, indent: int | None = None) -> None:
+def write_json(path: str, payload: dict, *, indent: int | None = None, min_items: int = 0) -> bool:
+    """Write JSON payload to file with validation.
+
+    Returns True if data was written, False if skipped due to empty/invalid data.
+    This prevents overwriting good data with empty results on API failures.
+    """
+    # CRITICAL: Validate payload has actual items before overwriting existing data
+    if min_items > 0:
+        items = payload.get("items", [])
+        if not isinstance(items, list) or len(items) < min_items:
+            print(f"Skipping write to {path}: insufficient items ({len(items) if isinstance(items, list) else 0} < {min_items})")
+            return False
+
     # Security: Validate path is within expected directory
     abs_path = os.path.abspath(path)
     allowed_dirs = [
@@ -38,6 +50,8 @@ def write_json(path: str, payload: dict, *, indent: int | None = None) -> None:
     os.makedirs(os.path.dirname(abs_path), exist_ok=True)
     with open(abs_path, "w", encoding="utf-8") as f:
         f.write(json_str)
+
+    return True
 
 
 def base_headers() -> dict:
@@ -94,8 +108,19 @@ def write_with_history(
     payload: dict,
     *,
     max_entries: int = 30,
-) -> None:
-    """Persist the latest payload and append it to a bounded history file using atomic writes."""
+    min_items: int = 1,
+) -> bool:
+    """Persist the latest payload and append it to a bounded history file using atomic writes.
+
+    Returns True if data was written, False if skipped due to empty/invalid data.
+    This prevents overwriting good data with empty results on API failures.
+    """
+
+    # CRITICAL: Validate payload has actual items before overwriting existing data
+    items = payload.get("items", [])
+    if not isinstance(items, list) or len(items) < min_items:
+        print(f"Skipping write to {latest_path}: insufficient items ({len(items) if isinstance(items, list) else 0} < {min_items})")
+        return False
 
     # Write latest data first
     write_json(latest_path, payload)
@@ -140,6 +165,8 @@ def write_with_history(
         if os.path.exists(temp_path):
             os.unlink(temp_path)
         raise
+
+    return True
 
 
 def safe_get(d, key, default=""):

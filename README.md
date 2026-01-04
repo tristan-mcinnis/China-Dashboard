@@ -1,5 +1,6 @@
 <img width="1024" height="256" alt="Generated Image September 24, 2025 - 4_18PM" src="https://github.com/user-attachments/assets/af59cbb5-42a1-4230-bd48-30a6ccb2e370" />
 
+[![Data Collection](https://github.com/tristan-mcinnis/China-Dashboard/actions/workflows/collect.yml/badge.svg)](https://github.com/tristan-mcinnis/China-Dashboard/actions/workflows/collect.yml)
 
 China Snapshot is a lightweight, serverless dashboard that highlights real-time signals from across mainland China. Automated collectors gather structured JSON data and the frontend served from GitHub Pages displays the latest snapshot whenever you load the site.
 
@@ -41,3 +42,19 @@ View the site on GitHub Pages: https://tristan-mcinnis.github.io/China-Dashboard
 ### GitHub Actions
 
 The workflow runs automatically 5 times daily and commits data to `docs/data/` and `docs/data/history/`
+
+### Health Monitoring
+
+The dashboard exposes a health check endpoint at `/data/health.json` with collector status:
+
+```json
+{
+  "timestamp": "2026-01-04T14:00:00Z",
+  "success_count": 9,
+  "total_count": 9,
+  "status": "healthy",
+  "failed": []
+}
+```
+
+The frontend displays this status in the header as a health indicator badge.

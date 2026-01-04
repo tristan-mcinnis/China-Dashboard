@@ -17,12 +17,17 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    # Prevent concurrent runs that could cause race conditions
+    concurrency:
+      group: data-collection
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: 'pip'  # Cache pip dependencies for faster builds
 
       - name: Install deps
         run: pip install -r requirements.txt
@@ -35,34 +40,106 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TZ: Asia/Shanghai
         run: |
-          # Run each collector and track failures
-          failed_collectors=""
+          # Run each collector and track failures with exit codes
+          declare -A collector_status
+          collectors=(
+            "baidu_top"
+            "weibo_hot"
+            "tencent_wechat_hot"
+            "indices_cn"
+            "fx_cny"
+            "weather_cn"
+            "xinhua_rss"
+            "thepaper_rss"
+            "ladymax"
+          )
 
-          python collectors/baidu_top.py || failed_collectors="$failed_collectors baidu_top"
-          python collectors/weibo_hot.py || failed_collectors="$failed_collectors weibo_hot"
-          python collectors/tencent_wechat_hot.py || failed_collectors="$failed_collectors tencent_wechat_hot"
-          python collectors/indices_cn.py || failed_collectors="$failed_collectors indices_cn"
-          python collectors/fx_cny.py || failed_collectors="$failed_collectors fx_cny"
-          python collectors/weather_cn.py || failed_collectors="$failed_collectors weather_cn"
-          python collectors/xinhua_rss.py || failed_collectors="$failed_collectors xinhua_rss"
-          python collectors/thepaper_rss.py || failed_collectors="$failed_collectors thepaper_rss"
-          python collectors/ladymax.py || failed_collectors="$failed_collectors ladymax"
+          failed_collectors=""
+          success_count=0
+          total_count=${#collectors[@]}
+
+          for collector in "${collectors[@]}"; do
+            echo "Running $collector..."
+            if python "collectors/${collector}.py" 2>&1; then
+              collector_status[$collector]="success"
+              ((success_count++))
+            else
+              collector_status[$collector]="failed"
+              failed_collectors="$failed_collectors $collector"
+            fi
+          done
+
+          # Generate structured JSON status for health monitoring and badges
+          timestamp=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          status_json="{
+            \"timestamp\": \"$timestamp\",
+            \"success_count\": $success_count,
+            \"total_count\": $total_count,
+            \"status\": $([ $success_count -eq $total_count ] && echo '"healthy"' || echo '"degraded"'),
+            \"failed\": [$(echo $failed_collectors | sed 's/ *$//' | sed 's/^ *//' | sed 's/ /", "/g' | sed 's/^/"/' | sed 's/$/"/')]
+          }"
+
+          # Fix empty array case
+          if [ -z "$(echo $failed_collectors | tr -d ' ')" ]; then
+            status_json="{
+              \"timestamp\": \"$timestamp\",
+              \"success_count\": $success_count,
+              \"total_count\": $total_count,
+              \"status\": \"healthy\",
+              \"failed\": []
+            }"
+          fi
+
+          echo "$status_json" > docs/data/health.json
 
           # Report failures but don't fail the workflow
           if [ -n "$failed_collectors" ]; then
             echo "::warning::Failed collectors:$failed_collectors"
-            echo "Failed collectors:$failed_collectors" >> docs/data/collector_status.txt
-            echo "Last check: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> docs/data/collector_status.txt
           else
-            echo "All collectors ran successfully" > docs/data/collector_status.txt
-            echo "Last check: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> docs/data/collector_status.txt
+            echo "All $total_count collectors ran successfully"
           fi
 
       - name: Commit data
         run: |
           git config user.name "china-snapshot-bot"
           git config user.email "bot@example.com"
-          git add docs/data/*.json docs/data/*.txt || true
-          git add docs/data/history/*.json || true
-          git commit -m "data: update $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"
-          git push
+
+          # Stage all data files
+          git add docs/data/*.json docs/data/history/*.json 2>/dev/null || true
+
+          # Check if there are actual meaningful changes (not just timestamp updates)
+          # by looking at staged changes excluding as_of/timestamp fields
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Count how many data files changed (excluding health.json which always changes)
+          changed_files=$(git diff --cached --name-only | grep -c '\.json$' || echo 0)
+
+          if [ "$changed_files" -eq 0 ]; then
+            echo "No JSON files changed"
+            exit 0
+          fi
+
+          # Create a descriptive commit message
+          timestamp=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          git commit -m "data: update $timestamp"
+
+          # Push with retry logic for network failures
+          max_retries=4
+          retry_count=0
+          while [ $retry_count -lt $max_retries ]; do
+            if git push; then
+              echo "Push successful"
+              exit 0
+            fi
+            retry_count=$((retry_count + 1))
+            if [ $retry_count -lt $max_retries ]; then
+              wait_time=$((2 ** retry_count))
+              echo "Push failed, retrying in ${wait_time}s..."
+              sleep $wait_time
+            fi
+          done
+          echo "Push failed after $max_retries attempts"
+          exit 1

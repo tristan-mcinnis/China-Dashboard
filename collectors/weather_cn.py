@@ -227,7 +227,7 @@ def main() -> None:
         payload_items = items
         source = "Open-Meteo API"
 
-    write_json(OUT, schema(source=source, items=list(payload_items)))
+    write_json(OUT, schema(source=source, items=list(payload_items)), min_items=1)
 
 
 if __name__ == "__main__":
