@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2026-01-04T22:08:33+08:00",
+  "generated_at": "2026-01-06T06:04:43+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-06T06:04:43+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社快讯：习近平举行仪式欢迎韩国总统李在明访华",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUJTMTllNUlUUGJTMndETHcxUENHcjhsOGtFRnVXeC1TTkFrQmtEVkdwMnhyenJOckQyTWlkSEZlZ2hyVnM1ellXcmpFVlN1T0cxcjZrTTZ5cWpiUkdraGlJeHVXTlI3dVpIdmFETmxJUy1Dd3UybjE2dlIzS1k3Q1VWVkNDQ1hKOEdETWFtMkdTMWt3?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-05T00:36:36Z",
+            "summary": "新华社快讯：习近平举行仪式欢迎韩国总统李在明访华 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xi Jinping holds ceremony to welcome South Korean..."
+          }
+        },
+        {
+          "title": "哥伦比亚在安理会紧急会议上谴责美国对委军事行动",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aRzNlRFdRMTMyQ1R5QXB6VWE2NlB3UG9NOTFmZ2t3MDUzdFNzMF9KanZVMy0tSFcwWlBJOXZoaU9vb1BtZE5NNENidXFlblFGREpOQk9MSTdubEFCa0ZhaVR3SjVmOHJkTl9zVUd0alJRNVZrYjlsYWZhSHFkNDQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-05T07:50:44Z",
+            "summary": "哥伦比亚在安理会紧急会议上谴责美国对委军事行动 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Colombia condemns U.S. military actions against..."
+          }
+        },
+        {
+          "title": "新华图讯丨习近平同韩国总统李在明会谈",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1Vua2ZVdi1fWmN2UmpnTi1neTVIMXR0U3hrUnZRNWI1WHUxUGtxUzAyazZIWUw0NTlVOXppQlNiLVJJNFVNWTQ4djNfLTdHMVBKazZHQU4zTmVHR2VMMmtMNl9DX1QwUk9MRWVRTEZmUTdTaW1qTV9oQm12anEtbVFMTnZVYkxQSkNpSzA1OGNSdzk4?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-05T03:28:49Z",
+            "summary": "新华图讯丨习近平同韩国总统李在明会谈 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xi Jinping talks with South Korean President Lee..."
+          }
+        },
+        {
+          "title": "也门政府军收复哈德拉毛省",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYVZHZFBuZVZ5bDVWbm5SclVscDRsX3RHZG1qVVRRVU9QY0czaHhQVFdrSHFNNlFIc2hEb292eEI3eGFnN3pCUWhMZzVtSld3QmRTYmVEeW9LVWYwbEpHVUNaR1R3bDNSNU4yRnYxVERtdjJhTnpsM1dweUFYcHh6ZjJvdkZQZw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-05T08:19:15Z",
+            "summary": "也门政府军收复哈德拉毛省 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Yemeni government forces recapture Hadramaut province..."
+          }
+        },
+        {
+          "title": "马杜罗抵达纽约联邦法院",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlRHSmxPY2xIVXJoOElES3E1RkNtaHZPY2pmb3l4bFFFSFpCUGJzZE9rX1ZlWTctSzdmTDN6OTZEU2kxeTU0NTEzVmVBeXVoOHZVYlR1Y2ZmbjktMVpkNG1DeVJiZ2tnbGJEXzA2dXRVem5yRVh6TnlNdmxET0NwbjFqdnpodw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-01-05T05:43:08Z",
+            "summary": "马杜罗抵达纽约联邦法院 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Maduro arrives at New York federal court..."
+          }
+        },
+        {
+          "title": "坚持内需主导，建设强大国内市场",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXRUN2hkMlJFQ0QxRF80ZkJFT3ZTbE10YklEZUxqZGlJV1B0TVB6Zk54VVFJaEtIV2I5QXoxRFhsNUJNUjIyT3hFYjg1VzJXbzItRGhtdVlXT2c0S1loZTJuQ0VtWVBpXzhUc3pMU0NLemVheFhBdWNZZHh6S2dSTnlsbEJXdlc0?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-04T15:23:40Z",
+            "summary": "坚持内需主导，建设强大国内市场 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Focus on domestic demand to build a strong domestic..."
+          }
+        },
+        {
+          "title": "瞭望·第一学习丨构建新发展格局是把握未来发展主动权的战略部署",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00NEVCRktrazBrdXltRTBlR3MzaVFXZ1lIS3VCQkhsRFpDM0prYWhGaUxCcGdYeWZPNWxvamVLbEd0dm5sZHdTQjZzckM2WDJUTTUwZjQ1aE5yLURvWXNqYVp1YmFxUk1FYVJsS1U4dEhINUNZd2t1bTZrTS1Xdw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-04T19:31:16Z",
+            "summary": "瞭望·第一学习丨构建新发展格局是把握未来发展主动权的战略部署 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Outlook: Building a new development pattern for future..."
+          }
+        },
+        {
+          "title": "受美封锁影响 委内瑞拉被迫削减原油产量",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKUFJBa1I1MkJIWHRTVWJKU05UWVA1LWpvM2RUVDVvdk1WN3BQTi1fQWNZZ2ZnUERvT1g5MTZ5TURwUmZsM20xbHBMb3JoSDQxbEZBdHVDeVIyLW1LMVRKbHZLM0J4bTRiOVZwamh0NG9yQXphZVk4VkdnazRVWDg?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-04T19:26:56Z",
+            "summary": "受美封锁影响 委内瑞拉被迫削减原油产量 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Venezuela forced to cut oil production due to US..."
+          }
+        },
+        {
+          "title": "新华微评·万马奔腾开新局：火爆文旅燃动活力中国",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tUDgtYUxxN0VnS3FUdVJpTnkxajduZDlUOHF3cVBRWHhSZnF2dml1V0k0MXJjRVZ2Q1VFT3prMW1OUWFHTTY4VExwbWRybEdkX3ZzdDRhOC05NnNjbnFrM3hBZVlyWUNJMDZPS2VLX01yR3c1QS1Tb0ZGa2xDZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-05T03:48:48Z",
+            "summary": "新华微评·万马奔腾开新局：火爆文旅燃动活力中国 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "New Era of Thriving Tourism: Energizing China..."
+          }
+        },
+        {
+          "title": "共话中国经济新机遇丨综述：欧洲金融机构和业内人士看好中国经济增长前景",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GRDJKYTd0di1ySXJWVk9uM1g0Q3ZKcG56ZFFVZ3lUTl9Dak9CSkwzdjZtYVVlcWNscUlBcXBVcTJ1UWVOckk2ZWdqdmNDMFo1Wmd5a0Jpa0FsZ1BoNVZ5YUhrTXplOW5XZmMta1ltOE1aMnd3Zk9qbUpGWVBsZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-01-04T22:31:04Z",
+            "summary": "共话中国经济新机遇丨综述：欧洲金融机构和业内人士看好中国经济增长前景 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Discussing new opportunities in China's economy:..."
+          }
+        },
+        {
+          "title": "委内瑞拉代理总统主持首次部长理事会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTjItOTBTbDdWbm4wbVVhYVRISnh3Z3JIN29TWU5ETTh5SGxZWWhqS1dlN1NpWDQ5QVhqM2dSYXNoeVVHMkppYnhTS3V3R3hTbnowcHE3WkQ4QkY1a0RLcTJEUFROXzlEVzJRY3VEbDZldmJrRGs3ZG5fUGhocms?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-04T17:46:14Z",
+            "summary": "委内瑞拉代理总统主持首次部长理事会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Venezuela's acting president chairs first cabinet meeting..."
+          }
+        },
+        {
+          "title": "美国法院称马杜罗将于5日在纽约出庭",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZaW9uMnBteWZ4RVpXVWhNLVZpWUYwTXRIdTdVbEpHOHM2NVhqTV83WGg0TzlZbjRiU2RuZFprbXBHWjl5cDZ5WWVzRGR1Wk9KX2dCampDT1dmVV9LQU1YYUNodzBsbnBjVVhoWU5KRW1vcGtta0p5N09xdUx3R2M?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-04T16:47:44Z",
+            "summary": "美国法院称马杜罗将于5日在纽约出庭 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "U.S. court says Maduro will appear in New York on the 5th..."
+          }
+        },
+        {
+          "title": "震撼视觉冲击：邂逅北极光",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakRWc0JUX0UtcFZQMGZfYWtwV203TDhBa0lEdkNZdDkyNG52VER4R3VNS1U3emhXN3pzQ0xHUjBUY2kxcHhSeXkyeC05MkNsOGZucU4xUHI1d3EwWVNYRDNVaGl4a2VUTmxYRmxnOGh1OVB5emdibWVZRWx2VXg4ZXpIMVY?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-04T17:28:28Z",
+            "summary": "震撼视觉冲击：邂逅北极光 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Stunning visual impact: Encountering the Northern Lights..."
+          }
+        },
+        {
+          "title": "从檀谷到城市理想：京投发展以三方协同模式，解锁新型社区可持续运营密码",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0NzZExwWi1ZTXZzUERxOVlXWkxkVTJrMDEwbnFTUmtnNmpRVDByU19VdkZiM3NzUnBnaVV1QVNtR2h6YmIzWlM1R29EVFpyZ04zYjd6ZjNVT0lXZmptMF9oeG8xOUhHVXp4TW5JRkd6WFJjUHpVNTNjYUt5c0JiNEdWaWRpZjU3?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-04T23:30:07Z",
+            "summary": "从檀谷到城市理想：京投发展以三方协同模式，解锁新型社区可持续运营密码 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "From Tanggu to Urban Ideal: Jingtou Development unlocks..."
+          }
+        },
+        {
+          "title": "河南：古籍保护进校园",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbF9lSjVsWnV2d2IyRDd6YjVpVXlCVDBoNFc3bnFUc0RYM2FMVUIyWmUwMmtjd3ZVMUVldnpNUjdzOXdWUkE0VFFscjVtX1F4akM3MDRqY0UyT2xCdERTaXJKUmY0LTF6bXlmOHQ0MkctaU1DakJFUGVVTjJfbmpOX0FQczRmOVZQcFE?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-01-04T17:45:32Z",
+            "summary": "河南：古籍保护进校园 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Henan: Ancient book preservation enters schools..."
+          }
+        },
+        {
+          "title": "江苏科创板上市公司达115家 “硬科技”特色鲜明",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12b04xRmIzMm5NQkxGRWhjaldQQlhMX1JZam5GenBid3Q1NmRHN0piTHh3S01pT2N6VkY4ZGJEQ191UHdJU2pBSjZPZ0czVTlvT0hPWWJHSWhQTC1zd1VhcU9vY0ZBUjRXRElJcWVhU256OGNHbTBYMW8yMlZqUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-05T04:00:22Z",
+            "summary": "江苏科创板上市公司达115家 “硬科技”特色鲜明 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Jiangsu has 115 listed companies on the Sci-Tech..."
+          }
+        },
+        {
+          "title": "香港“兴”观察丨活力涌动 蓄势待发 —— 香港创科生态蓬勃向好",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWZEMWJXYkxBQS15eDlfRVdJX2hrWWl5SjN0Qi00dEpJYWhiSV8wQjFWeV9DM1dNMExRZ1ZMbkRjc1NwMXZmQS1HLWlWVXdWUHl3dEdfdmlEcERLQWZPSFpuVTJjVUk1TFJUMUlYTzk4VHpudWptejM0MG95dU93MFdaVTNNSzA?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-04T23:10:57Z",
+            "summary": "香港“兴”观察丨活力涌动 蓄势待发 —— 香港创科生态蓬勃向好 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hong Kong's vibrant innovation ecosystem is thriving..."
+          }
+        },
+        {
+          "title": "赶制订单忙生产 力争新年“开门红”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd1NaenlieTJxV21Rejk4VnRkVFE2Z054SGNaV0F6VnhlR2gzM2FCUUNaT0dNN3BZTXJORDViSWVzdFZ3OGNrejZkbFVWS2pVOEI1ZS1KblJUUko0Z2JyVGFTanJWakFyRzA2S01jU1AzWS0tbmdDdlRLeDBDQ2gwQ1UtMGRfZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-04T23:55:47Z",
+            "summary": "赶制订单忙生产 力争新年“开门红” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Rushing orders to achieve a strong start for the New Year..."
+          }
+        },
+        {
+          "title": "北京：18条新措施支持卓越工程师队伍建设",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ29Sd3pSXzZNWUFWelFDRVZRZ190YXpxczBDTnFVZ0Fwa1hMRkwtLThYeGgtc0cwTFlRb0tSYWJUeng3aDNqUF9MSVhIeVNObjlEQ285YkJiRmxfZzZQNWJtbnI2QnhlNVU3dHZKVi1XTHQ2M0VoMElYZDlXZ0VBTm5KaGJoYVQ2NEkycQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-04T17:01:09Z",
+            "summary": "北京：18条新措施支持卓越工程师队伍建设 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Beijing: 18 new measures to support outstanding engineers..."
+          }
+        },
+        {
+          "title": "学习手记｜始终绷紧粮食安全这根弦",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmdFUmxpWDR4Q0EyYWNpc3VBcHh4c2RhcHBLeV94UktWZTl0REQ0dlUtdDRELUVwdUNPaXRrVVlqYWNFWGpuRGROMnFTVGxQenFtMl9MQTFqYnQzMGo4cUVBeFR3VjBGTXAzaXJMbGdnYVA5Zl9Cb0dBU21xenBhakF5RmVNSm9FMmJ4LWdXVjQtS3da?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-01-05T06:55:43Z",
+            "summary": "学习手记｜始终绷紧粮食安全这根弦 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Study notes: Always keep food security a top priority..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-04T22:08:33+08:00",
       "source": "Xinhua News Agency RSS",
@@ -7712,272 +7978,6 @@
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": "From January 1, 2026, tariffs and categories on these..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-30T06:04:43+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "受权发布丨东部战区发布联合演训区公告及示意图",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50dlBvbUI4azhzWE5OMC0tMi1HUWd3eGdHN2NvUU0xUmM5Z2M1VEx5Q3hOdjZoY1BuVG9ORkh1U0laUjhURmg5aG9VekdtUXB0QUhvcHhhbEhrVHZIaTZiWVplT3NmZmo1M1M0WjBIbDExczE2SF9jZl9Hc2RRdw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-28T15:31:31Z",
-            "summary": "受权发布丨东部战区发布联合演训区公告及示意图 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Authorized release: Eastern Theater Command announces..."
-          }
-        },
-        {
-          "title": "新华社消息丨我国明年将调整部分商品关税税率税目",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16a1VqUmo0c1dYUV9DYk9ROEIzbW9lVHNKZVFkd2pDTDlTS2x6RWdVNDZXYml5cTQwQVVvTzBpQnItLWhHQWpGd095OWw0aWZ2QmNPb2EwYW5QQ3J2WWU3Sm4wZFkwSGZMMnNvLW5TdnMzb1ZNc0dER013NGtPdw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-29T01:59:59Z",
-            "summary": "新华社消息丨我国明年将调整部分商品关税税率税目 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Xinhua reports: China will adjust some tariff rates next..."
-          }
-        },
-        {
-          "title": "叙利亚首都发生爆炸",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyU3RMcXNIMHZTRG9zNGR0N1VEUU1ya1JTUGlWLUExNm9ZSUZJYjhPMnFrXzIyeEJ2ZERLZTRSTS1xUEtEa0dsd0s1QTNaQmlSRjJxTExWbmdScF9hQ0R5M29RUGdFTURqcGkyWHpPNDFQYzJtNTd2WWRRM0dBUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-29T00:24:57Z",
-            "summary": "叙利亚首都发生爆炸 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Explosion occurs in the capital of Syria..."
-          }
-        },
-        {
-          "title": "吉尔吉斯斯坦前总统阿坦巴耶夫被剥夺多项国家荣誉",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fSEdiMGR1ZWJ5aEFYMERpSkVFMDVYTE92UzRjQ2hTbkVyeXNtQm04c0V3Uld2a3ZjaWFmcDdKckIzSHhmNjNyei16QUdaWk9rc0lXeHVEQ05sVHEzNnpXZmdwV3R4NVdpX3N4QnJyaWxkSjk2czdqdmw5U1NJQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-29T03:42:28Z",
-            "summary": "吉尔吉斯斯坦前总统阿坦巴耶夫被剥夺多项国家荣誉 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Former Kyrgyz President Atambayev stripped of several..."
-          }
-        },
-        {
-          "title": "这一年，乡村振兴的魅力风景",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RRXlzOVdDRGFmUGdVelNncHdVN0JwRGF2djlTR0FWVURaeERmYnFtYTMwS1Vab3V1RmsteVZTMW9JUzcyalNVUG85U3NBY1Y1YmVPQkJQZ0E1dnZSVURKaTZtczdTUVdFd2hac2g3S3A1Zy1lZTA0YkpCeFJJQQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2025-12-28T17:50:56Z",
-            "summary": "这一年，乡村振兴的魅力风景 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": "This year, the charming landscape of rural revitalization..."
-          }
-        },
-        {
-          "title": "年终报道｜新华社评出2025年国内十大新闻",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGtuMC1QLXp0OWhlNXhZS29sdUYzd1JQRldXbWdzNV9lcktNMkRUS3c0YnVGYk94R3gtSkIxQnZqNzBtcmRpZk95Y193eUpNQUlIUWRScGtTNVBSMGQ1MWUzOUhMUlk1bjVJNFJ4N05SNFRJaG1pY08yY2toY2gyMF9KbnIyZw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-28T17:04:36Z",
-            "summary": "年终报道｜新华社评出2025年国内十大新闻 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Year-end report: Xinhua selects top ten domestic news of..."
-          }
-        },
-        {
-          "title": "数览成绩单·2025中国经济盘点丨激发内生动能，大市场活力加速释放",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaW5iNGxZaU5BS0Q3U0ZqNE9ocEx2R3RhUGU1RXlNWFNDdkpBN2tkOHZqc013VzB2TGdHQXNkN1R4MG5STHN3ZElUNnY0LU52MUJvUWFDaFdOY0RaUksxSDgtQkJXSDB6NGhzM2Fkclp0bUJSWHh1TGd6LVdGMTF0Z1lEMkxYYkhI?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-29T00:05:27Z",
-            "summary": "数览成绩单·2025中国经济盘点丨激发内生动能，大市场活力加速释放 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "2025 China Economic Review: Boosting internal momentum..."
-          }
-        },
-        {
-          "title": "协和百年薪火录 | 黄宇光：临床麻醉，每一例都是第一例",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNF9Ib2EzRDhpaGlGT3lPT01iQ0xBRmswUTl5VjVid09FN1VTci1iZ3dGUW5jYzJXZi1RUkphcy10R0tzVFNEY2NUdzRSUFBjSnVqVzA5V25LU2tsbm03N0RVaDR3SjJYSnpuY3hNWFZEd1dHWlB5NXRaQ25YQUhmYkYxNmxidW8?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-28T22:23:25Z",
-            "summary": "协和百年薪火录 | 黄宇光：临床麻醉，每一例都是第一例 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Centenary of Concord: Huang Yuguang on clinical..."
-          }
-        },
-        {
-          "title": "擎旗奋进 智领新程——中国一汽“十四五”转型发展观察",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5azNNYi1La0JkMFh2M2l6dmZOZmVYWVRYTE0tUTVJMkRfbXlKcmVVdVdqMG9fbkVEOWJUQ2FFX3h4TVg4V1BtMWRKcnVqWFFqR1Z1OGZzLXQ4VThkRlNUU2ZnYXJkWVpWWnZBQ2hjcU1VVHdLVllrZ1pfeHVvQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-28T18:13:07Z",
-            "summary": "擎旗奋进 智领新程——中国一汽“十四五”转型发展观察 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Leading the way: Insights on China FAW's transformation..."
-          }
-        },
-        {
-          "title": "2026年1月1日起，这些商品关税税率和税目将调整",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWtTQ1ZRMXpueEhhUG5vWVFYZ0xXVjRVSXBocXNObGhpNndUU05Tc1NWTTBHZ1ZsMDNvTExYY0dUSG9Nd2d4dTNfandzM096UnJtaDdHcXVDelE1YUZHLUxNSlFHOTZNeklsTzZvdWlWV3F4ZGZoNy05SmstaFRhNUtDTlRwV293?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2025-12-29T06:19:15Z",
-            "summary": "2026年1月1日起，这些商品关税税率和税目将调整 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Starting January 1, 2026, tariffs and categories for..."
-          }
-        },
-        {
-          "title": "财政部：2026年将扩大财政支出盘子 继续安排资金支持消费品以旧换新",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41T292eUJ4Xy1ITUp3WWJuQVcwU2MtTjZWOEliY2QwZWJYRWc2cE5pZVhKUDNGUWR6cU1LaHY1TUtuM19seHl2S2Q2bTVBUEotVGpzZXZrdVMxOTdXWkZSNDhqS2Z0YUx1anBGYzJoU0dOaV9tU1VFdGoxMUhFUQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T17:22:18Z",
-            "summary": "财政部：2026年将扩大财政支出盘子 继续安排资金支持消费品以旧换新 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Ministry of Finance: Expand fiscal spending in 2026..."
-          }
-        },
-        {
-          "title": "中央经济工作会议里的民生事｜稳定就业大盘",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejFlbXZ3WnZkaTBzQ0lFc2JkaXMyYTRveThBTm9YSXZhR2RtZGkwVDFBeXRLOWdyVGZXSnlEUnhTZWNhRjN5bjRKbTNaQXFrcUU5N0hRdUxicWhkSDVKWXJEakk5OVhhaWEtV2hyd21WMGtvdUNJLTBGbXNDbWVKTHRvdkVTWHF5?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T22:55:07Z",
-            "summary": "中央经济工作会议里的民生事｜稳定就业大盘 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Central economic meeting focuses on stabilizing..."
-          }
-        },
-        {
-          "title": "部署六大重点工作 2026年积极财政政策“发力”可期",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUENnTEludkxkWjJ0VFhPSmlWajZnYzhRWjNmMkF1Q2VUUTVLV0x1Ull1akxUY2JGcWRZYVRoWi1DaldZMnppZEVOcW9lakdwVmFPYmxCZDZybXNCVWhrazcxOHBhb05vZjg0T3R1TXZFbW5GVjBqaEs5RHpfN0w3YU94YWtVQVhO?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T18:48:24Z",
-            "summary": "部署六大重点工作 2026年积极财政政策“发力”可期 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Six key tasks deployed; proactive fiscal policy expected..."
-          }
-        },
-        {
-          "title": "受权发布丨东部战区发布联合演训区公告及示意图",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50dlBvbUI4azhzWE5OMC0tMi1HUWd3eGdHN2NvUU0xUmM5Z2M1VEx5Q3hOdjZoY1BuVG9ORkh1U0laUjhURmg5aG9VekdtUXB0QUhvcHhhbEhrVHZIaTZiWVplT3NmZmo1M1M0WjBIbDExczE2SF9jZl9Hc2RRdw?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-28T15:31:31Z",
-            "summary": "受权发布丨东部战区发布联合演训区公告及示意图 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Authorized release: Eastern Theater Command announces..."
-          }
-        },
-        {
-          "title": "香港“兴”观察丨“又是被资金推着跑的一天”——一位香港金融从业者的一日见证",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWpnazJLR1Z0eHZOZ0wwYkJLNU9LOFBtTzBEdkJpOHpKUmphWGxBeVY2Y1I1RGxwbTJyU0phNFRrUlNnUU05S0hYcXR5UXQ2T2pCRjJsWVV5bTktWFN3UmV5aHRyZDZGek9KalRGMU9IMDhMVWk4VjB6QkFUajJobUpxQUlvTFk?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2025-12-29T03:29:34Z",
-            "summary": "香港“兴”观察丨“又是被资金推着跑的一天”——一位香港金融从业者的一日见证 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Hong Kong \"Xing\" Observation: \"Another day driven by..."
-          }
-        },
-        {
-          "title": "2025“三农”成绩单丨科技赋能添底气 品牌效应增亮色",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoZnhPWjJKbGdScm5FeUJaOUkzOElOZXVZUTNyVG1qLUpRT3JSRWpfejkwTm9FRHh1dHA4cFhmTGE1NHNPTHdFd2FfcHpmdnIyeEtjS21aVG1aNlRWUkpnVU95YzdsY0lNTE5KZk5yTWFWWmszNVUycUZOUkhHQQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-28T22:31:08Z",
-            "summary": "2025“三农”成绩单丨科技赋能添底气 品牌效应增亮色 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "2025 \"Three Rural Issues\" report: Tech boosts..."
-          }
-        },
-        {
-          "title": "万亿“航母级”基金正式启动 用“耐心资本”陪跑“硬科技”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSnBueUpsczFjQnFCTDNPQXZnT2lzTlJKYUI4NjdpZWVfOXdzSFZBT2xCTUtnMDgybFEybGhWRDRDM1FlY1pzNzg4MmJVczR5UTBPbzQ1UnNYVnZKaC1HOXFuX3VQd2ppdUlXQlBrcVd0dG5yWkczYk9iZ1NNc2ZuS0dZOE1MaHdP?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-28T18:16:33Z",
-            "summary": "万亿“航母级”基金正式启动 用“耐心资本”陪跑“硬科技” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Trillion-level \"aircraft carrier\" fund launched to..."
-          }
-        },
-        {
-          "title": "更高水平创新活力之城，杭州何以进阶？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XMldVRGk4MGpySGdJbHFSS3VEeTMxcUktX0dJOGxCQWlfTXdOd1AwNnMtMHlsM3hidEtxSFM3WGw1Nl9ZS3g3NkhocDQtbHJlXy0wZUpOVkRJV0UyNEJWbmFoZXp0bFU5dkVHUUdVeHVrNUk4dTgxQ0FUaDZsZw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-28T18:14:57Z",
-            "summary": "更高水平创新活力之城，杭州何以进阶？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "How will Hangzhou advance as a city of higher innovation?"
-          }
-        },
-        {
-          "title": "香港“兴”观察丨“又是被资金推着跑的一天”——一位香港金融从业者的一日见证",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWpnazJLR1Z0eHZOZ0wwYkJLNU9LOFBtTzBEdkJpOHpKUmphWGxBeVY2Y1I1RGxwbTJyU0phNFRrUlNnUU05S0hYcXR5UXQ2T2pCRjJsWVV5bTktWFN3UmV5aHRyZDZGek9KalRGMU9IMDhMVWk4VjB6QkFUajJobUpxQUlvTFk?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-29T03:29:34Z",
-            "summary": "香港“兴”观察丨“又是被资金推着跑的一天”——一位香港金融从业者的一日见证 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Hong Kong \"Xing\" Observation: \"Another day driven by..."
-          }
-        },
-        {
-          "title": "年终报道｜新华社评出2025年国内十大新闻",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGtuMC1QLXp0OWhlNXhZS29sdUYzd1JQRldXbWdzNV9lcktNMkRUS3c0YnVGYk94R3gtSkIxQnZqNzBtcmRpZk95Y193eUpNQUlIUWRScGtTNVBSMGQ1MWUzOUhMUlk1bjVJNFJ4N05SNFRJaG1pY08yY2toY2gyMF9KbnIyZw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2025-12-28T17:04:36Z",
-            "summary": "年终报道｜新华社评出2025年国内十大新闻 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": "Year-end report: Xinhua names top ten domestic news of..."
           }
         }
       ]
