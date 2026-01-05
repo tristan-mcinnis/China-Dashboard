@@ -62,7 +62,7 @@ jobs:
             echo "Running $collector..."
             if python "collectors/${collector}.py" 2>&1; then
               collector_status[$collector]="success"
-              ((success_count++))
+              success_count=$((success_count + 1))
             else
               collector_status[$collector]="failed"
               failed_collectors="$failed_collectors $collector"
