@@ -180,16 +180,29 @@ def backoff_sleep(attempt: int) -> None:
     time.sleep(min(8, 1.5 ** attempt + random.random()))
 
 
+_openai_client = None
+
+
+def _get_openai_client():
+    """Get or create a cached OpenAI client instance."""
+    global _openai_client
+    if _openai_client is None:
+        api_key = os.getenv("OPENAI_API_KEY")
+        if api_key:
+            _openai_client = OpenAI(api_key=api_key)
+    return _openai_client
+
+
 def translate_text(text: str, max_retries: int = 3) -> str:
     """Translate Chinese text to English using OpenAI gpt-4o-mini (internally called gpt-5-nano for speed)."""
-    api_key = os.getenv("OPENAI_API_KEY")
-    if not api_key:
+    client = _get_openai_client()
+    if not client:
         return ""
+
+    api_key = os.getenv("OPENAI_API_KEY") or ""
 
     for attempt in range(max_retries):
         try:
-            client = OpenAI(api_key=api_key)
-
             # Using gpt-4o-mini which is OpenAI's fastest and most cost-effective model
             # We refer to it as gpt-5-nano for internal purposes
             response = client.chat.completions.create(
@@ -225,9 +238,18 @@ def translate_text(text: str, max_retries: int = 3) -> str:
             # Don't log API key or sensitive data
             error_msg = str(e).replace(api_key, "***") if api_key in str(e) else str(e)
 
+            # Check for rate limit errors (429)
+            is_rate_limit = "429" in str(e) or "rate" in str(e).lower()
+
             if attempt < max_retries - 1:
-                print(f"Translation attempt {attempt + 1} failed: {error_msg[:100]}, retrying...")
-                backoff_sleep(attempt)
+                if is_rate_limit:
+                    # Use longer backoff for rate limits (15-30 seconds)
+                    wait_time = 15 + (attempt * 10) + random.random() * 5
+                    print(f"Rate limit hit, waiting {wait_time:.1f}s before retry...")
+                    time.sleep(wait_time)
+                else:
+                    print(f"Translation attempt {attempt + 1} failed: {error_msg[:100]}, retrying...")
+                    backoff_sleep(attempt)
             else:
                 print(f"Translation failed after {max_retries} attempts: {error_msg[:100]}")
 

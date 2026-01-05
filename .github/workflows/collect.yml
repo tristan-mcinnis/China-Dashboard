@@ -102,7 +102,7 @@ jobs:
       - name: Commit data
         run: |
           git config user.name "china-snapshot-bot"
-          git config user.email "bot@example.com"
+          git config user.email "china-snapshot-bot@users.noreply.github.com"
 
           # Stage all data files
           git add docs/data/*.json docs/data/history/*.json 2>/dev/null || true

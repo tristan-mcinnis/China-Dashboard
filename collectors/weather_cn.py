@@ -16,10 +16,11 @@ if __name__ == "__main__" and __package__ is None:  # pragma: no cover
 
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from collectors.common import base_headers, schema, write_json
+from collectors.common import base_headers, schema, write_with_history
 
 
 OUT = "docs/data/weather.json"
+HISTORY_OUT = "docs/data/history/weather.json"
 OPEN_METEO_URL = "https://api.open-meteo.com/v1/forecast"
 REQUEST_TIMEOUT = 10
 TZ_CHINA = timezone(timedelta(hours=8))
@@ -227,7 +228,8 @@ def main() -> None:
         payload_items = items
         source = "Open-Meteo API"
 
-    write_json(OUT, schema(source=source, items=list(payload_items)), min_items=1)
+    payload = schema(source=source, items=list(payload_items))
+    write_with_history(OUT, HISTORY_OUT, payload, min_items=1)
 
 
 if __name__ == "__main__":

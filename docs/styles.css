@@ -853,12 +853,12 @@ a.bilingual-text {
   opacity: 1;
 }
 
-/* Percentage indicators */
-.data-list .muted:has-text("▲") {
+/* Percentage indicators - using CSS classes applied via JavaScript */
+.data-list .muted.pct-positive {
   color: var(--color-success);
 }
 
-.data-list .muted:has-text("▼") {
+.data-list .muted.pct-negative {
   color: var(--color-error);
 }
 

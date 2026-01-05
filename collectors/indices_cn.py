@@ -10,9 +10,10 @@ if __name__ == "__main__" and __package__ is None:
 
 import requests
 
-from collectors.common import backoff_sleep, schema, write_json
+from collectors.common import backoff_sleep, schema, write_with_history
 
 OUT = "docs/data/indices.json"
+HISTORY_OUT = "docs/data/history/indices.json"
 
 SYMBOLS = {
     "SSE Composite": "000001.SS",
@@ -71,7 +72,8 @@ def main() -> None:
                 },
             }
         )
-    write_json(OUT, schema(source="Yahoo Finance (fallback)", items=items), min_items=1)
+    payload = schema(source="Yahoo Finance (fallback)", items=items)
+    write_with_history(OUT, HISTORY_OUT, payload, min_items=1)
 
 
 if __name__ == "__main__":

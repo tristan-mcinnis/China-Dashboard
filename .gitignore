@@ -58,6 +58,7 @@ logs/
 *.tmp
 *.temp
 .cache/
-# Test files
-test_*.py
-test_*.json
+# Test output files (but keep tests/ directory files)
+/test_*.py
+/test_*.json
+!tests/test_*.py

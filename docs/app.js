@@ -17,7 +17,7 @@ function createTickerItem(text, url, sourceKey) {
   item.href = url || '#';
   if (url && url !== '#') {
     item.target = '_blank';
-    item.rel = 'noopener';
+    item.rel = 'noopener noreferrer';
   }
 
   const sourceSpan = document.createElement('span');
@@ -518,7 +518,7 @@ function renderTrendList(entry, listElement, { transformUrl } = {}) {
 
     if (href !== "#") {
       link.target = "_blank";
-      link.rel = "noopener";
+      link.rel = "noopener noreferrer";
     } else {
       link.setAttribute("aria-disabled", "true");
     }
@@ -645,7 +645,7 @@ function renderXinhuaSnapshot(entry, container) {
         if (href) {
           link.href = href;
           link.target = "_blank";
-          link.rel = "noopener";
+          link.rel = "noopener noreferrer";
         } else {
           link.href = "#";
           link.setAttribute("aria-disabled", "true");
@@ -814,7 +814,7 @@ function renderThepaperSnapshot(entry, container) {
       if (href) {
         link.href = href;
         link.target = "_blank";
-        link.rel = "noopener";
+        link.rel = "noopener noreferrer";
       } else {
         link.href = "#";
         link.setAttribute("aria-disabled", "true");
@@ -950,7 +950,7 @@ function renderLadymaxSnapshot(entry, container) {
       if (href) {
         link.href = href;
         link.target = "_blank";
-        link.rel = "noopener";
+        link.rel = "noopener noreferrer";
       } else {
         link.href = "#";
         link.setAttribute("aria-disabled", "true");
@@ -1144,9 +1144,29 @@ async function render() {
       ulIdx.innerHTML = "";
       indices.items.forEach((item) => {
         const li = document.createElement("li");
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
-          item.value ?? "—"
-        }</strong><span class="muted">${fmtPct(item.extra?.chg_pct)}</span>`;
+
+        const link = document.createElement("a");
+        link.href = item.url || "#";
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = item.title || "";
+
+        const separator = document.createTextNode(" — ");
+
+        const strong = document.createElement("strong");
+        strong.textContent = item.value ?? "—";
+
+        const pctSpan = document.createElement("span");
+        pctSpan.className = "muted";
+        const pctValue = item.extra?.chg_pct;
+        pctSpan.textContent = fmtPct(pctValue);
+        if (pctValue > 0) pctSpan.classList.add("pct-positive");
+        else if (pctValue < 0) pctSpan.classList.add("pct-negative");
+
+        li.appendChild(link);
+        li.appendChild(separator);
+        li.appendChild(strong);
+        li.appendChild(pctSpan);
         ulIdx.appendChild(li);
       });
     }
@@ -1156,9 +1176,29 @@ async function render() {
       ulFx.innerHTML = "";
       fx.items.forEach((item) => {
         const li = document.createElement("li");
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
-          item.value ?? "—"
-        }</strong><span class="muted">${fmtPct(item.extra?.chg_pct)}</span>`;
+
+        const link = document.createElement("a");
+        link.href = item.url || "#";
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = item.title || "";
+
+        const separator = document.createTextNode(" — ");
+
+        const strong = document.createElement("strong");
+        strong.textContent = item.value ?? "—";
+
+        const pctSpan = document.createElement("span");
+        pctSpan.className = "muted";
+        const pctValue = item.extra?.chg_pct;
+        pctSpan.textContent = fmtPct(pctValue);
+        if (pctValue > 0) pctSpan.classList.add("pct-positive");
+        else if (pctValue < 0) pctSpan.classList.add("pct-negative");
+
+        li.appendChild(link);
+        li.appendChild(separator);
+        li.appendChild(strong);
+        li.appendChild(pctSpan);
         ulFx.appendChild(li);
       });
     }

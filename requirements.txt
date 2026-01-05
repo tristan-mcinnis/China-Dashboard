@@ -5,4 +5,4 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 openai>=1.0.0
 feedparser==6.0.10
-html2text>=2025.4.15
+html2text==2025.4.15
