@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-06T18:40:29+08:00",
+  "generated_at": "2026-01-06T22:09:25+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-06T22:09:25+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 车厘子暴跌第一批受害者出现",
+          "value": "1132525 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9A%B4%E8%B7%8C%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1132525",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cherry prices plummet, first victims emerge..."
+          }
+        },
+        {
+          "title": "2. 1盒内存条堪比上海1套房 [新]",
+          "value": "834300 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D1%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%8A%E6%B5%B71%E5%A5%97%E6%88%BF&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 834300",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "A box of memory sticks is worth a Shanghai apartment..."
+          }
+        },
+        {
+          "title": "3. 元旦假期交通出行5.95亿人次",
+          "value": "650155 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E4%BA%A4%E9%80%9A%E5%87%BA%E8%A1%8C5.95%E4%BA%BF%E4%BA%BA%E6%AC%A1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 650155",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "5.95 billion trips during New Year's holiday..."
+          }
+        },
+        {
+          "title": "4. 上海下雪",
+          "value": "510618 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E4%B8%8B%E9%9B%AA&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 510618",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "It’s snowing in Shanghai..."
+          }
+        },
+        {
+          "title": "5. 武大靖官宣退役",
+          "value": "392453 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%AE%98%E5%AE%A3%E9%80%80%E5%BD%B9&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 392453",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wu Dajing officially announces retirement..."
+          }
+        },
+        {
+          "title": "6. 男子自带3瓶茅台全被服务员调包",
+          "value": "387133 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E8%87%AA%E5%B8%A63%E7%93%B6%E8%8C%85%E5%8F%B0%E5%85%A8%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B0%83%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 387133",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Man's three bottles of Moutai were swapped by staff..."
+          }
+        },
+        {
+          "title": "7. 多地裁判文书隐去法官姓名和案号",
+          "value": "380829 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E8%A3%81%E5%88%A4%E6%96%87%E4%B9%A6%E9%9A%90%E5%8E%BB%E6%B3%95%E5%AE%98%E5%A7%93%E5%90%8D%E5%92%8C%E6%A1%88%E5%8F%B7&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 380829",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Many court rulings omit judges' names and case numbers..."
+          }
+        },
+        {
+          "title": "8. 女子以油养肤导致面部疯狂掉皮",
+          "value": "374869 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4%E5%AF%BC%E8%87%B4%E9%9D%A2%E9%83%A8%E7%96%AF%E7%8B%82%E6%8E%89%E7%9A%AE&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 374869",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Woman's oily skincare causes severe facial peeling..."
+          }
+        },
+        {
+          "title": "9. 男子8.2万买的卡皮巴拉到货后死亡",
+          "value": "369775 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%908.2%E4%B8%87%E4%B9%B0%E7%9A%84%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89%E5%88%B0%E8%B4%A7%E5%90%8E%E6%AD%BB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 369775",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Man's 82,000 yuan capybara died upon arrival..."
+          }
+        },
+        {
+          "title": "10. iPhone没有一个按键是多余的",
+          "value": "364529 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhone%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E6%8C%89%E9%94%AE%E6%98%AF%E5%A4%9A%E4%BD%99%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 364529",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Every button on the iPhone serves a purpose."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-06T18:40:29+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "36-year-old sells pizzas for 20 yuan each at a market..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-30T22:08:58+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 增值税",
-          "value": "1136773 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A2%9E%E5%80%BC%E7%A8%8E&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1136773",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Value-added tax..."
-          }
-        },
-        {
-          "title": "2. 罗永浩迟到超40分钟 [新]",
-          "value": "840391 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%BF%9F%E5%88%B0%E8%B6%8540%E5%88%86%E9%92%9F&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 840391",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Luo Yonghao was over 40 minutes late..."
-          }
-        },
-        {
-          "title": "3. 明年继续领国补",
-          "value": "625559 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%8E%E5%B9%B4%E7%BB%A7%E7%BB%AD%E9%A2%86%E5%9B%BD%E8%A1%A5&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 625559",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Continue to receive national subsidies next year..."
-          }
-        },
-        {
-          "title": "4. 鸿人年度真香时刻 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%BF%E4%BA%BA%E5%B9%B4%E5%BA%A6%E7%9C%9F%E9%A6%99%E6%97%B6%E5%88%BB&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The annual highlight moment of Hongren..."
-          }
-        },
-        {
-          "title": "5. 爱吃烤红薯的人天塌了",
-          "value": "468994 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E7%83%A4%E7%BA%A2%E8%96%AF%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 468994",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Those who love baked sweet potatoes are devastated..."
-          }
-        },
-        {
-          "title": "6. 承德致20死重大火灾事故调查报告 [火热]",
-          "value": "304615 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%89%BF%E5%BE%B7%E8%87%B420%E6%AD%BB%E9%87%8D%E5%A4%A7%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 304615",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Investigation report on the major fire in Chengde that..."
-          }
-        },
-        {
-          "title": "7. 原配拿小三手机发朋友圈被拘留",
-          "value": "280887 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E9%85%8D%E6%8B%BF%E5%B0%8F%E4%B8%89%E6%89%8B%E6%9C%BA%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E6%8B%98%E7%95%99&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 280887",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wife detained for posting on social media using..."
-          }
-        },
-        {
-          "title": "8. 过贵州年 去灯会庙市",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%87%E8%B4%B5%E5%B7%9E%E5%B9%B4%20%E5%8E%BB%E7%81%AF%E4%BC%9A%E5%BA%99%E5%B8%82&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Celebrating the New Year in Guizhou, visiting lantern..."
-          }
-        },
-        {
-          "title": "9. 玉茗茶骨",
-          "value": "剧集 225158 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 225158",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Jade Ming tea bones..."
-          }
-        },
-        {
-          "title": "10. 世界上最长寿的在世猫咪30岁了 [新]",
-          "value": "222264 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E9%95%BF%E5%AF%BF%E7%9A%84%E5%9C%A8%E4%B8%96%E7%8C%AB%E5%92%AA30%E5%B2%81%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 222264",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The world's oldest living cat is 30 years old..."
           }
         }
       ]
