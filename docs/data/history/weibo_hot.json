@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-06T22:09:25+08:00",
+  "generated_at": "2026-01-07T06:04:27+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-07T06:04:27+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 英法德意等欧洲七国领导人联合声明",
+          "value": "242476 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B1%E6%B3%95%E5%BE%B7%E6%84%8F%E7%AD%89%E6%AC%A7%E6%B4%B2%E4%B8%83%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 242476",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Joint statement from leaders of seven European countries..."
+          }
+        },
+        {
+          "title": "2. 多地取消高一高二年期末统考",
+          "value": "175987 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%80%E9%AB%98%E4%BA%8C%E5%B9%B4%E6%9C%9F%E6%9C%AB%E7%BB%9F%E8%80%83&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 175987",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Many places cancel final exams for first and second-year..."
+          }
+        },
+        {
+          "title": "3. 家电以旧换新1.92亿台",
+          "value": "135688 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%B6%E7%94%B5%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B01.92%E4%BA%BF%E5%8F%B0&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 135688",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Old appliances replaced with new ones: 192 million units..."
+          }
+        },
+        {
+          "title": "4. 车厘子暴跌第一批受害者出现",
+          "value": "64632 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9A%B4%E8%B7%8C%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 64632",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cherry prices plummet, first victims emerge..."
+          }
+        },
+        {
+          "title": "5. 特朗普支持格陵兰岛独立",
+          "value": "43653 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 43653",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Trump supports Greenland's independence..."
+          }
+        },
+        {
+          "title": "6. 委内瑞拉临时总统 [沸]",
+          "value": "39114 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 39114",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Interim President of Venezuela..."
+          }
+        },
+        {
+          "title": "7. 1盒内存条堪比上海1套房",
+          "value": "33505 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D1%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%8A%E6%B5%B71%E5%A5%97%E6%88%BF&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 33505",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A box of memory sticks is comparable to a house in..."
+          }
+        },
+        {
+          "title": "8. 男子自带3瓶茅台全被服务员调包",
+          "value": "28036 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E8%87%AA%E5%B8%A63%E7%93%B6%E8%8C%85%E5%8F%B0%E5%85%A8%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B0%83%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 28036",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Man's three bottles of Moutai were swapped by the waiter..."
+          }
+        },
+        {
+          "title": "9. 印度最干净城市遭粪水污染",
+          "value": "26647 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E6%9C%80%E5%B9%B2%E5%87%80%E5%9F%8E%E5%B8%82%E9%81%AD%E7%B2%AA%E6%B0%B4%E6%B1%A1%E6%9F%93&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 26647",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "India's cleanest city faces sewage pollution..."
+          }
+        },
+        {
+          "title": "10. 部分城市试管婴儿越做越火",
+          "value": "26251 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%A8%E5%88%86%E5%9F%8E%E5%B8%82%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E8%B6%8A%E5%81%9A%E8%B6%8A%E7%81%AB&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 26251",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "In some cities, IVF is becoming increasingly popular..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-06T22:09:25+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "38-year-old Dongguan tycoon Zhang Yushua leads..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-31T06:04:03+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 印度宣布经济已超日本",
-          "value": "234884 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%8F%E6%B5%8E%E5%B7%B2%E8%B6%85%E6%97%A5%E6%9C%AC&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 234884",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "India announces its economy has surpassed Japan's..."
-          }
-        },
-        {
-          "title": "2. 湖南卫视跨年演唱会 [沸]",
-          "value": "晚会 166125 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "晚会 166125",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Hunan TV New Year's Eve Concert..."
-          }
-        },
-        {
-          "title": "3. 明年继续领国补",
-          "value": "137200 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%8E%E5%B9%B4%E7%BB%A7%E7%BB%AD%E9%A2%86%E5%9B%BD%E8%A1%A5&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 137200",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Continue to receive national subsidies next year..."
-          }
-        },
-        {
-          "title": "4. 跨晚上京东领你的2026第一份大奖",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B7%A8%E6%99%9A%E4%B8%8A%E4%BA%AC%E4%B8%9C%E9%A2%86%E4%BD%A0%E7%9A%842026%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%A4%A7%E5%A5%96&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Join JD tonight to claim your first 2026 prize..."
-          }
-        },
-        {
-          "title": "5. 解放军演习在台湾岛内引发震动",
-          "value": "63486 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E4%B9%A0%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%86%85%E5%BC%95%E5%8F%91%E9%9C%87%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 63486",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "PLA exercises cause shock within Taiwan..."
-          }
-        },
-        {
-          "title": "6. 孩子吃席打翻盘子父母让他公开道歉 [重磅]",
-          "value": "33950 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E6%89%93%E7%BF%BB%E7%9B%98%E5%AD%90%E7%88%B6%E6%AF%8D%E8%AE%A9%E4%BB%96%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 33950",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Child spills plate at dinner; parents demand public..."
-          }
-        },
-        {
-          "title": "7. 玉茗茶骨",
-          "value": "剧集 32087 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 32087",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Jade Ming tea bones..."
-          }
-        },
-        {
-          "title": "8. 这是我亲手挑选的跨年搭子",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E6%98%AF%E6%88%91%E4%BA%B2%E6%89%8B%E6%8C%91%E9%80%89%E7%9A%84%E8%B7%A8%E5%B9%B4%E6%90%AD%E5%AD%90&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "This is my carefully chosen New Year's companion..."
-          }
-        },
-        {
-          "title": "9. 爱吃烤红薯的人天塌了",
-          "value": "28445 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E7%83%A4%E7%BA%A2%E8%96%AF%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 28445",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Those who love roasted sweet potatoes are devastated..."
-          }
-        },
-        {
-          "title": "10. 36岁农村摆摊卖20元一个的披萨",
-          "value": "25780 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D36%E5%B2%81%E5%86%9C%E6%9D%91%E6%91%86%E6%91%8A%E5%8D%9620%E5%85%83%E4%B8%80%E4%B8%AA%E7%9A%84%E6%8A%AB%E8%90%A8&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 25780",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "36-year-old sells pizzas for 20 yuan each at a market..."
           }
         }
       ]
