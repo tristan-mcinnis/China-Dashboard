@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-06T11:07:40+08:00",
+  "generated_at": "2026-01-06T14:01:47+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-06T14:01:47+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 霸王茶姬通报",
+          "value": "2068640 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E9%80%9A%E6%8A%A5&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 2068640",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Announcement from BaWang Tea Princess..."
+          }
+        },
+        {
+          "title": "2. 三亚始祖鸟店排长队抢购秋冬款",
+          "value": "988659 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%89%E4%BA%9A%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%BA%97%E6%8E%92%E9%95%BF%E9%98%9F%E6%8A%A2%E8%B4%AD%E7%A7%8B%E5%86%AC%E6%AC%BE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 988659",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Long lines at Sanya's Arc'teryx store for fall/winter..."
+          }
+        },
+        {
+          "title": "3. 元旦假期带动新年消费活力满满",
+          "value": "770325 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E5%B8%A6%E5%8A%A8%E6%96%B0%E5%B9%B4%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 770325",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New Year's holiday boosts vibrant consumption..."
+          }
+        },
+        {
+          "title": "4. 流落柬埔寨街头女子毒品检测呈阳性",
+          "value": "384119 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E6%AF%92%E5%93%81%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 384119",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Woman found on Cambodian streets tests positive for drugs..."
+          }
+        },
+        {
+          "title": "5. 中国留学生在德遭袭反击致对方骨折",
+          "value": "373350 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%BE%B7%E9%81%AD%E8%A2%AD%E5%8F%8D%E5%87%BB%E8%87%B4%E5%AF%B9%E6%96%B9%E9%AA%A8%E6%8A%98&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 373350",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese student in Germany fights back, causing fracture..."
+          }
+        },
+        {
+          "title": "6. 李在明自拍 [新]",
+          "value": "359294 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%87%AA%E6%8B%8D&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 359294",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Lee Jae-myung's selfie..."
+          }
+        },
+        {
+          "title": "7. 河南濮阳万达有人持刀砍人系谣言",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E4%B8%87%E8%BE%BE%E6%9C%89%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Rumor: Knife attack at Puyang Wanda in Henan."
+          }
+        },
+        {
+          "title": "8. 印度高调宣布大米产量超越中国 [新]",
+          "value": "342844 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E9%AB%98%E8%B0%83%E5%AE%A3%E5%B8%83%E5%A4%A7%E7%B1%B3%E4%BA%A7%E9%87%8F%E8%B6%85%E8%B6%8A%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 342844",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "India proudly announces rice production surpasses China..."
+          }
+        },
+        {
+          "title": "9. 婚礼电子请柬 访客记录",
+          "value": "314189 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A9%9A%E7%A4%BC%E7%94%B5%E5%AD%90%E8%AF%B7%E6%9F%AC%20%E8%AE%BF%E5%AE%A2%E8%AE%B0%E5%BD%95&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 314189",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wedding e-invitation visitor record..."
+          }
+        },
+        {
+          "title": "10. 霸王茶姬辞退涉事店员 [新]",
+          "value": "262379 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%BE%9E%E9%80%80%E6%B6%89%E4%BA%8B%E5%BA%97%E5%91%98&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 262379",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Ba Wang Cha Ji dismisses involved staff member..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-06T11:07:40+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Taiwan military admits five major exercise areas extend..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2025-12-30T14:01:38+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 特朗普回应解放军在台岛附近军演",
-          "value": "1094160 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1094160",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Trump responds to PLA military exercises near Taiwan..."
-          }
-        },
-        {
-          "title": "2. 台湾 [新]",
-          "value": "420867 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 420867",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Taiwan..."
-          }
-        },
-        {
-          "title": "3. 2026是个什么年",
-          "value": "396425 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 396425",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "What kind of year will 2026 be?"
-          }
-        },
-        {
-          "title": "4. 用红枫准出片",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%A8%E7%BA%A2%E6%9E%AB%E5%87%86%E5%87%BA%E7%89%87&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Use red maple for shooting..."
-          }
-        },
-        {
-          "title": "5. 陶白白被逼承认射手座是最好的星座",
-          "value": "395468 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%B6%E7%99%BD%E7%99%BD%E8%A2%AB%E9%80%BC%E6%89%BF%E8%AE%A4%E5%B0%84%E6%89%8B%E5%BA%A7%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%98%9F%E5%BA%A7&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 395468",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tao Baibai was forced to admit Sagittarius is the best..."
-          }
-        },
-        {
-          "title": "6. 相恋十年中美情侣博主分手 [热映]",
-          "value": "373423 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%B8%E6%81%8B%E5%8D%81%E5%B9%B4%E4%B8%AD%E7%BE%8E%E6%83%85%E4%BE%A3%E5%8D%9A%E4%B8%BB%E5%88%86%E6%89%8B&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 373423",
-            "tag": "热映",
-            "api_source": "tianapi",
-            "translation": "After ten years, a Chinese-American couple breaks up..."
-          }
-        },
-        {
-          "title": "7. 蔡磊渐冻症病情接近终末期",
-          "value": "372948 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%94%A1%E7%A3%8A%E6%B8%90%E5%86%BB%E7%97%87%E7%97%85%E6%83%85%E6%8E%A5%E8%BF%91%E7%BB%88%E6%9C%AB%E6%9C%9F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 372948",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cai Lei's ALS is nearing its terminal stage..."
-          }
-        },
-        {
-          "title": "8. 沈腾范丞丞喊你吃乐事有乐事 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%88%E8%85%BE%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%96%8A%E4%BD%A0%E5%90%83%E4%B9%90%E4%BA%8B%E6%9C%89%E4%B9%90%E4%BA%8B&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Shen Teng and Fan Chengcheng invite you to enjoy Lays..."
-          }
-        },
-        {
-          "title": "9. 物业躺着赚钱的日子彻底到头了",
-          "value": "368489 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%A9%E4%B8%9A%E8%BA%BA%E7%9D%80%E8%B5%9A%E9%92%B1%E7%9A%84%E6%97%A5%E5%AD%90%E5%BD%BB%E5%BA%95%E5%88%B0%E5%A4%B4%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 368489",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The days of easy profits for property management are over..."
-          }
-        },
-        {
-          "title": "10. 张家界一45岁家长站护学岗时死亡 [新]",
-          "value": "365694 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E5%AE%B6%E7%95%8C%E4%B8%8045%E5%B2%81%E5%AE%B6%E9%95%BF%E7%AB%99%E6%8A%A4%E5%AD%A6%E5%B2%97%E6%97%B6%E6%AD%BB%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 365694",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "A 45-year-old parent died while guarding a school in..."
           }
         }
       ]
