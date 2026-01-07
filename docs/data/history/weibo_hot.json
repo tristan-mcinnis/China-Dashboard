@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-07T22:09:54+08:00",
+  "generated_at": "2026-01-08T06:04:10+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-08T06:04:10+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 美国在约半小时内宣称扣押两艘油轮",
+          "value": "258173 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 258173",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The U.S. claims to have seized two oil tankers in about..."
+          }
+        },
+        {
+          "title": "2. 官方回应专升本缴费显示南方航空",
+          "value": "185010 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%93%E5%8D%87%E6%9C%AC%E7%BC%B4%E8%B4%B9%E6%98%BE%E7%A4%BA%E5%8D%97%E6%96%B9%E8%88%AA%E7%A9%BA&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 185010",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Official response: Payment for transfer to undergraduate..."
+          }
+        },
+        {
+          "title": "3. 直播电商新规强化AI内容监管",
+          "value": "154326 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 154326",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New regulations enhance AI content supervision in live..."
+          }
+        },
+        {
+          "title": "4. 永川地震",
+          "value": "77331 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B8%E5%B7%9D%E5%9C%B0%E9%9C%87&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 77331",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yongchuan earthquake..."
+          }
+        },
+        {
+          "title": "5. 女子百万装新房老公每次来都像游客",
+          "value": "53711 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E7%99%BE%E4%B8%87%E8%A3%85%E6%96%B0%E6%88%BF%E8%80%81%E5%85%AC%E6%AF%8F%E6%AC%A1%E6%9D%A5%E9%83%BD%E5%83%8F%E6%B8%B8%E5%AE%A2&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 53711",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The woman decorates her new house, but her husband feels..."
+          }
+        },
+        {
+          "title": "6. 最无用的节俭行为",
+          "value": "33170 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%80%E6%97%A0%E7%94%A8%E7%9A%84%E8%8A%82%E4%BF%AD%E8%A1%8C%E4%B8%BA&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 33170",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The most useless frugal behaviors..."
+          }
+        },
+        {
+          "title": "7. 奔马得势迎新春",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%94%E9%A9%AC%E5%BE%97%E5%8A%BF%E8%BF%8E%E6%96%B0%E6%98%A5&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Galloping horses welcome the New Year..."
+          }
+        },
+        {
+          "title": "8. 博主揭露富二代卖玉骗局",
+          "value": "33146 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%9A%E4%B8%BB%E6%8F%AD%E9%9C%B2%E5%AF%8C%E4%BA%8C%E4%BB%A3%E5%8D%96%E7%8E%89%E9%AA%97%E5%B1%80&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 33146",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Blogger exposes jade scam by rich second-generation heirs..."
+          }
+        },
+        {
+          "title": "9. 山东一闲置水井突喷热水变温泉",
+          "value": "33118 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%97%B2%E7%BD%AE%E6%B0%B4%E4%BA%95%E7%AA%81%E5%96%B7%E7%83%AD%E6%B0%B4%E5%8F%98%E6%B8%A9%E6%B3%89&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 33118",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A dormant well in Shandong suddenly gushes hot water,..."
+          }
+        },
+        {
+          "title": "10. 爱吃自助餐小蛋糕的天塌了",
+          "value": "33105 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 33105",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The sky has fallen for those who love buffet cupcakes..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-07T22:09:54+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "沸",
             "api_source": "tianapi",
             "translation": "Each person can buy up to 12 bottles of Moutai per day..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-01T06:04:17+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 新年贺词",
-          "value": "229980 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 229980",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New Year greetings..."
-          }
-        },
-        {
-          "title": "2. 祖国统一历史大势不可阻挡",
-          "value": "166006 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 166006",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The trend of national reunification is unstoppable..."
-          }
-        },
-        {
-          "title": "3. 2026新年贺词金句",
-          "value": "137906 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%91%E5%8F%A5&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 137906",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "2026 New Year greetings and golden phrases..."
-          }
-        },
-        {
-          "title": "4. 2026小鹏加油",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%B0%8F%E9%B9%8F%E5%8A%A0%E6%B2%B9&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "2026, Xiaopeng, keep it up!"
-          }
-        },
-        {
-          "title": "5. 新年快乐",
-          "value": "126381 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 126381",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Happy New Year!"
-          }
-        },
-        {
-          "title": "6. 哪吒 [火热]",
-          "value": "126340 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%AA%E5%90%92&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 126340",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Nezha..."
-          }
-        },
-        {
-          "title": "7. 跨年收视率",
-          "value": "晚会 126282 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "晚会 126282",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New Year's Eve viewership ratings..."
-          }
-        },
-        {
-          "title": "8. 跨年",
-          "value": "126171 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B7%A8%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 126171",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New Year's Eve"
-          }
-        },
-        {
-          "title": "9. 马年",
-          "value": "126088 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 126088",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Year of the Horse..."
-          }
-        },
-        {
-          "title": "10. 专属天使 听哭了 [新]",
-          "value": "晚会 126029 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%93%E5%B1%9E%E5%A4%A9%E4%BD%BF%20%E5%90%AC%E5%93%AD%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "晚会 126029",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Exclusive angel, moved to tears..."
           }
         }
       ]
