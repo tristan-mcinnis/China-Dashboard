@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-08T06:04:10+08:00",
+  "generated_at": "2026-01-08T11:07:40+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-08T11:07:40+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 机票价格大跳水",
+          "value": "1173058 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1173058",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Airfare prices plummet..."
+          }
+        },
+        {
+          "title": "2. 美国一口气退66个群",
+          "value": "828184 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E9%80%8066%E4%B8%AA%E7%BE%A4&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 828184",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The U.S. abruptly withdrew from 66 groups..."
+          }
+        },
+        {
+          "title": "3. 直播电商新规强化AI内容监管",
+          "value": "684215 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 684215",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New regulations for live commerce strengthen AI content..."
+          }
+        },
+        {
+          "title": "4. 王腾从小米离开后成立新公司",
+          "value": "361277 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%85%BE%E4%BB%8E%E5%B0%8F%E7%B1%B3%E7%A6%BB%E5%BC%80%E5%90%8E%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 361277",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Teng founded a new company after leaving Xiaomi."
+          }
+        },
+        {
+          "title": "5. 3人徒步鳌太线遇难景区无责",
+          "value": "294697 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E4%BA%BA%E5%BE%92%E6%AD%A5%E9%B3%8C%E5%A4%AA%E7%BA%BF%E9%81%87%E9%9A%BE%E6%99%AF%E5%8C%BA%E6%97%A0%E8%B4%A3&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 294697",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Three hikers died on the Ao-Tai line; the scenic area is..."
+          }
+        },
+        {
+          "title": "6. 我的朋友圈点赞等级森严 [新]",
+          "value": "275918 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%82%B9%E8%B5%9E%E7%AD%89%E7%BA%A7%E6%A3%AE%E4%B8%A5&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 275918",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "My social circle has strict levels of likes..."
+          }
+        },
+        {
+          "title": "7. 看马腾父母高兴老己开心",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9C%8B%E9%A9%AC%E8%85%BE%E7%88%B6%E6%AF%8D%E9%AB%98%E5%85%B4%E8%80%81%E5%B7%B1%E5%BC%80%E5%BF%83&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Seeing Ma Teng's parents happy makes me happy too..."
+          }
+        },
+        {
+          "title": "8. 李在明希望再租借一对熊猫",
+          "value": "210014 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B8%8C%E6%9C%9B%E5%86%8D%E7%A7%9F%E5%80%9F%E4%B8%80%E5%AF%B9%E7%86%8A%E7%8C%AB&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 210014",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Li Jae-myung hopes to lease another pair of pandas..."
+          }
+        },
+        {
+          "title": "9. 中国公民被印方拒绝入境并劝返",
+          "value": "201617 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%A2%AB%E5%8D%B0%E6%96%B9%E6%8B%92%E7%BB%9D%E5%85%A5%E5%A2%83%E5%B9%B6%E5%8A%9D%E8%BF%94&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 201617",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese citizen denied entry and advised to return by..."
+          }
+        },
+        {
+          "title": "10. 鳌太线",
+          "value": "192896 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B3%8C%E5%A4%AA%E7%BA%BF&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 192896",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Aoti Line..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-08T06:04:10+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "2026 will have 5 more days off..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-01T11:14:11+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 中国5年成绩单来了",
-          "value": "1020198 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD5%E5%B9%B4%E6%88%90%E7%BB%A9%E5%8D%95%E6%9D%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1020198",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China's 5-year report card is here..."
-          }
-        },
-        {
-          "title": "2. 这3个带马成语太给劲了",
-          "value": "734719 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%993%E4%B8%AA%E5%B8%A6%E9%A9%AC%E6%88%90%E8%AF%AD%E5%A4%AA%E7%BB%99%E5%8A%B2%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 734719",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "These three horse-related idioms are really powerful..."
-          }
-        },
-        {
-          "title": "3. 十五五开局之年怎么干",
-          "value": "594461 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E4%BA%94%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E6%80%8E%E4%B9%88%E5%B9%B2&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 594461",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "How to proceed in the first year of the 14th Five-Year..."
-          }
-        },
-        {
-          "title": "4. 张晚意开奥迪E5接你跨年 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%99%9A%E6%84%8F%E5%BC%80%E5%A5%A5%E8%BF%AAE5%E6%8E%A5%E4%BD%A0%E8%B7%A8%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Zhang Wanyi picks you up in an Audi E5 for New Year's Eve..."
-          }
-        },
-        {
-          "title": "5. 2026新国补来了",
-          "value": "298040 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%96%B0%E5%9B%BD%E8%A1%A5%E6%9D%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 298040",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The new national subsidy for 2026 is here..."
-          }
-        },
-        {
-          "title": "6. 2026年新规今起施行 [重磅]",
-          "value": "298017 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%B9%B4%E6%96%B0%E8%A7%84%E4%BB%8A%E8%B5%B7%E6%96%BD%E8%A1%8C&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 298017",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "New regulations for 2026 take effect today..."
-          }
-        },
-        {
-          "title": "7. 逐玉",
-          "value": "剧集 297976 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%90%E7%8E%89&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 297976",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Pursuing jade..."
-          }
-        },
-        {
-          "title": "8. 生命树 [新]",
-          "value": "剧集 297922 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "剧集 297922",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Tree of Life..."
-          }
-        },
-        {
-          "title": "9. 土耳其免签",
-          "value": "297904 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%9F%E8%80%B3%E5%85%B6%E5%85%8D%E7%AD%BE&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 297904",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Visa-free entry to Turkey..."
-          }
-        },
-        {
-          "title": "10. i茅台每人每日最多可购12瓶 [沸]",
-          "value": "297850 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Di%E8%8C%85%E5%8F%B0%E6%AF%8F%E4%BA%BA%E6%AF%8F%E6%97%A5%E6%9C%80%E5%A4%9A%E5%8F%AF%E8%B4%AD12%E7%93%B6&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 297850",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Each person can buy up to 12 bottles of Moutai per day..."
           }
         }
       ]
