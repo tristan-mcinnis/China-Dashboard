@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-08T22:10:31+08:00",
+  "generated_at": "2026-01-09T06:04:22+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-09T06:04:22+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 中国人花六十多万买下北海道三套房",
+          "value": "273326 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%8A%B1%E5%85%AD%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%89%E5%A5%97%E6%88%BF&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 273326",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese buyers spend over 600,000 on three houses in..."
+          }
+        },
+        {
+          "title": "2. 双胞胎姐妹分别取名灿和烂",
+          "value": "199835 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 199835",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The twin sisters are named Can and Lan."
+          }
+        },
+        {
+          "title": "3. 医保新举措专治缴费排长队",
+          "value": "161375 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 161375",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New healthcare measures tackle long payment queues..."
+          }
+        },
+        {
+          "title": "4. 广汽埃安与永州队达成战略合作",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%BF%E6%B1%BD%E5%9F%83%E5%AE%89%E4%B8%8E%E6%B0%B8%E5%B7%9E%E9%98%9F%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "GAC Aion partners with Yongzhou team for strategic..."
+          }
+        },
+        {
+          "title": "5. 海底捞尿布入锅背后是监护缺位",
+          "value": "41471 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 41471",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The hot pot incident with diapers reveals a lack of..."
+          }
+        },
+        {
+          "title": "6. 体育局回应亚运三金得主实名举报 [官宣]",
+          "value": "39908 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%9A%E8%BF%90%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 39908",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "Sports Bureau responds to gold medalist's real-name..."
+          }
+        },
+        {
+          "title": "7. 再也不去理发店洗头了",
+          "value": "39571 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E6%B4%97%E5%A4%B4%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 39571",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "I'm never going to the hair salon for a wash again..."
+          }
+        },
+        {
+          "title": "8. 高校建议高数成绩落后家长陪读",
+          "value": "34392 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%AE%E9%AB%98%E6%95%B0%E6%88%90%E7%BB%A9%E8%90%BD%E5%90%8E%E5%AE%B6%E9%95%BF%E9%99%AA%E8%AF%BB&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 34392",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Universities suggest parents accompany students..."
+          }
+        },
+        {
+          "title": "9. 博主吃播室友剩饭被多平台封禁",
+          "value": "28707 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%9A%E4%B8%BB%E5%90%83%E6%92%AD%E5%AE%A4%E5%8F%8B%E5%89%A9%E9%A5%AD%E8%A2%AB%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B0%81%E7%A6%81&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 28707",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Blogger's eating show roommate banned on multiple..."
+          }
+        },
+        {
+          "title": "10. 中产涌入超市抢300元羽绒服",
+          "value": "28404 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E4%BA%A7%E6%B6%8C%E5%85%A5%E8%B6%85%E5%B8%82%E6%8A%A2300%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 28404",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Middle class rushes to supermarkets for 300 yuan down..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-08T22:10:31+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Spending New Year's alone in Iceland watching the sunrise..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-02T06:04:09+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 新年首日中国空间站过境合集",
-          "value": "231034 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E5%B9%B4%E9%A6%96%E6%97%A5%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%BF%87%E5%A2%83%E5%90%88%E9%9B%86&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 231034",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New Year's Day compilation of China's space station..."
-          }
-        },
-        {
-          "title": "2. 尔滨你是有点子浪漫在身上的",
-          "value": "163749 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%94%E6%BB%A8%E4%BD%A0%E6%98%AF%E6%9C%89%E7%82%B9%E5%AD%90%E6%B5%AA%E6%BC%AB%E5%9C%A8%E8%BA%AB%E4%B8%8A%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 163749",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "You have a touch of romance in you..."
-          }
-        },
-        {
-          "title": "3. 2026为梦想奋斗为幸福打拼",
-          "value": "138272 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E4%B8%BA%E6%A2%A6%E6%83%B3%E5%A5%8B%E6%96%97%E4%B8%BA%E5%B9%B8%E7%A6%8F%E6%89%93%E6%8B%BC&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 138272",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Striving for dreams and fighting for happiness in 2026..."
-          }
-        },
-        {
-          "title": "4. 冰雪大世界建了超大玫瑰冰瀑",
-          "value": "138074 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%BB%BA%E4%BA%86%E8%B6%85%E5%A4%A7%E7%8E%AB%E7%91%B0%E5%86%B0%E7%80%91&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 138074",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Ice and Snow World has built a giant rose ice..."
-          }
-        },
-        {
-          "title": "5. 罚罪2",
-          "value": "剧集 137819 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%9A%E7%BD%AA2&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 137819",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Punishment 2..."
-          }
-        },
-        {
-          "title": "6. 个人存取款超5万元不再登记",
-          "value": "137518 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AA%E4%BA%BA%E5%AD%98%E5%8F%96%E6%AC%BE%E8%B6%855%E4%B8%87%E5%85%83%E4%B8%8D%E5%86%8D%E7%99%BB%E8%AE%B0&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 137518",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Withdrawals over 50,000 yuan no longer require..."
-          }
-        },
-        {
-          "title": "7. 网民为涨粉拼凑灾情视频被罚",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E6%B0%91%E4%B8%BA%E6%B6%A8%E7%B2%89%E6%8B%BC%E5%87%91%E7%81%BE%E6%83%85%E8%A7%86%E9%A2%91%E8%A2%AB%E7%BD%9A&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Netizen fined for fabricating disaster videos to gain..."
-          }
-        },
-        {
-          "title": "8. 三亚元旦入境游客暴增5倍 [沸]",
-          "value": "136813 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%89%E4%BA%9A%E5%85%83%E6%97%A6%E5%85%A5%E5%A2%83%E6%B8%B8%E5%AE%A2%E6%9A%B4%E5%A2%9E5%E5%80%8D&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 136813",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Sanya sees a fivefold increase in New Year tourists..."
-          }
-        },
-        {
-          "title": "9. 二十年快滴很 弹指一挥间",
-          "value": "剧集 136508 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%BF%AB%E6%BB%B4%E5%BE%88%20%E5%BC%B9%E6%8C%87%E4%B8%80%E6%8C%A5%E9%97%B4&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 136508",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Twenty years pass in the blink of an eye..."
-          }
-        },
-        {
-          "title": "10. 小吃街共用一个收款码有后续了",
-          "value": "136240 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%90%83%E8%A1%97%E5%85%B1%E7%94%A8%E4%B8%80%E4%B8%AA%E6%94%B6%E6%AC%BE%E7%A0%81%E6%9C%89%E5%90%8E%E7%BB%AD%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 136240",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The snack street's shared payment code has updates..."
           }
         }
       ]
