@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-08T18:41:26+08:00",
+  "generated_at": "2026-01-08T22:10:31+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-08T22:10:31+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 双胞胎姐妹分别取名灿和烂",
+          "value": "1141761 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1141761",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The twin sisters are named Can and Lan."
+          }
+        },
+        {
+          "title": "2. 1818名明星网红查补税款 [新]",
+          "value": "826363 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D1818%E5%90%8D%E6%98%8E%E6%98%9F%E7%BD%91%E7%BA%A2%E6%9F%A5%E8%A1%A5%E7%A8%8E%E6%AC%BE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 826363",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "1,818 celebrities and influencers investigated for tax..."
+          }
+        },
+        {
+          "title": "3. 我国冰雪旅游正进入持续繁荣新阶段",
+          "value": "675874 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E5%86%B0%E9%9B%AA%E6%97%85%E6%B8%B8%E6%AD%A3%E8%BF%9B%E5%85%A5%E6%8C%81%E7%BB%AD%E7%B9%81%E8%8D%A3%E6%96%B0%E9%98%B6%E6%AE%B5&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 675874",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China's ice and snow tourism is entering a new..."
+          }
+        },
+        {
+          "title": "4. 新款小鹏P7+和小鹏G7今日上市 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E6%AC%BE%E5%B0%8F%E9%B9%8FP7%2B%E5%92%8C%E5%B0%8F%E9%B9%8FG7%E4%BB%8A%E6%97%A5%E4%B8%8A%E5%B8%82&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The new Xiaopeng P7+ and G7 are launched today..."
+          }
+        },
+        {
+          "title": "5. 中方驳回日方交涉",
+          "value": "321430 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E9%A9%B3%E5%9B%9E%E6%97%A5%E6%96%B9%E4%BA%A4%E6%B6%89&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 321430",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China rejects Japan's diplomatic negotiations..."
+          }
+        },
+        {
+          "title": "6. 3岁男童看挖机走失找到时出现失温 [重磅]",
+          "value": "321140 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%89%BE%E5%88%B0%E6%97%B6%E5%87%BA%E7%8E%B0%E5%A4%B1%E6%B8%A9&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 321140",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "3-year-old boy goes missing after watching excavators,..."
+          }
+        },
+        {
+          "title": "7. 深圳坪山突发山火",
+          "value": "320552 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 320552",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Shenzhen Pingshan experiences sudden wildfire..."
+          }
+        },
+        {
+          "title": "8. 奔马得势迎新春",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%94%E9%A9%AC%E5%BE%97%E5%8A%BF%E8%BF%8E%E6%96%B0%E6%98%A5&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Galloping horses welcome the New Year..."
+          }
+        },
+        {
+          "title": "9. 三九天喝苹果水",
+          "value": "319631 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%89%E4%B9%9D%E5%A4%A9%E5%96%9D%E8%8B%B9%E6%9E%9C%E6%B0%B4&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 319631",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Drink apple water during the coldest days..."
+          }
+        },
+        {
+          "title": "10. 雀巢中国已按要求实施奶粉召回",
+          "value": "318024 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%80%E5%B7%A2%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%8C%89%E8%A6%81%E6%B1%82%E5%AE%9E%E6%96%BD%E5%A5%B6%E7%B2%89%E5%8F%AC%E5%9B%9E&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 318024",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Nestlé China has implemented the milk powder recall as..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-08T18:41:26+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "The snack street's shared payment code has updates..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-01T22:08:18+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 梅里雪山日照金山上新了",
-          "value": "1029061 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%85%E9%87%8C%E9%9B%AA%E5%B1%B1%E6%97%A5%E7%85%A7%E9%87%91%E5%B1%B1%E4%B8%8A%E6%96%B0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1029061",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The sun rises over Meili Snow Mountain..."
-          }
-        },
-        {
-          "title": "2. 2026第一天的橘子味晚霞",
-          "value": "768258 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%9A%84%E6%A9%98%E5%AD%90%E5%91%B3%E6%99%9A%E9%9C%9E&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 768258",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The orange-scented sunset of the first day of 2026..."
-          }
-        },
-        {
-          "title": "3. 2026为梦想奋斗为幸福打拼",
-          "value": "598124 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E4%B8%BA%E6%A2%A6%E6%83%B3%E5%A5%8B%E6%96%97%E4%B8%BA%E5%B9%B8%E7%A6%8F%E6%89%93%E6%8B%BC&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 598124",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Striving for dreams and happiness in 2026..."
-          }
-        },
-        {
-          "title": "4. 亚马尔官宣要在马年马上牛 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%AE%98%E5%AE%A3%E8%A6%81%E5%9C%A8%E9%A9%AC%E5%B9%B4%E9%A9%AC%E4%B8%8A%E7%89%9B&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Yamal officially announces to ride the bull in the Year..."
-          }
-        },
-        {
-          "title": "5. 小吃街共用一个收款码有后续了",
-          "value": "598005 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%90%83%E8%A1%97%E5%85%B1%E7%94%A8%E4%B8%80%E4%B8%AA%E6%94%B6%E6%AC%BE%E7%A0%81%E6%9C%89%E5%90%8E%E7%BB%AD%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 598005",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The snack street will share a payment code soon..."
-          }
-        },
-        {
-          "title": "6. 元旦宝宝1月1日0点出生 [商]",
-          "value": "597406 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E6%97%A6%E5%AE%9D%E5%AE%9D1%E6%9C%881%E6%97%A50%E7%82%B9%E5%87%BA%E7%94%9F&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 597406",
-            "tag": "商",
-            "api_source": "tianapi",
-            "translation": "New Year's baby born at 0:00 on January 1st..."
-          }
-        },
-        {
-          "title": "7. 个人存取款超5万元不再登记",
-          "value": "596623 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AA%E4%BA%BA%E5%AD%98%E5%8F%96%E6%AC%BE%E8%B6%855%E4%B8%87%E5%85%83%E4%B8%8D%E5%86%8D%E7%99%BB%E8%AE%B0&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 596623",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Personal deposits and withdrawals over 50,000 no longer..."
-          }
-        },
-        {
-          "title": "8. 海军052D型导弹驱逐舰又上新",
-          "value": "596374 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%86%9B052D%E5%9E%8B%E5%AF%BC%E5%BC%B9%E9%A9%B1%E9%80%90%E8%88%B0%E5%8F%88%E4%B8%8A%E6%96%B0&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 596374",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Navy's 052D missile destroyer has new updates..."
-          }
-        },
-        {
-          "title": "9. 完美世界一个月两个特别篇",
-          "value": "595655 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%A4%E4%B8%AA%E7%89%B9%E5%88%AB%E7%AF%87&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 595655",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Perfect World has two special episodes in a month..."
-          }
-        },
-        {
-          "title": "10. 2026年第一天",
-          "value": "595363 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 595363",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The first day of 2026..."
           }
         }
       ]
