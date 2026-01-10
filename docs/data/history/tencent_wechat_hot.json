@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-01-10T22:08:01+08:00",
+  "generated_at": "2026-01-11T06:04:10+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-11T06:04:10+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 重温总书记对人民警察的殷殷嘱托",
+          "value": "指数 7903985",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%87%8D%E6%B8%A9%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E7%9A%84%E6%AE%B7%E6%AE%B7%E5%98%B1%E6%89%98",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7903985",
+            "api_source": "tianapi",
+            "translation": "Revisiting the General Secretary's earnest instructions..."
+          }
+        },
+        {
+          "title": "2. 中国“南天门计划”曝光",
+          "value": "指数 7809748",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E2%80%9C%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92%E2%80%9D%E6%9B%9D%E5%85%89",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809748",
+            "api_source": "tianapi",
+            "translation": "China's \"South Gate Project\" revealed..."
+          }
+        },
+        {
+          "title": "3. 中国新增20万颗卫星申请",
+          "value": "指数 7713998",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%A2%9E20%E4%B8%87%E9%A2%97%E5%8D%AB%E6%98%9F%E7%94%B3%E8%AF%B7",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713998",
+            "api_source": "tianapi",
+            "translation": "China adds 200,000 satellite applications..."
+          }
+        },
+        {
+          "title": "4. “去中国旅游是新潮流”",
+          "value": "指数 7618684",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E5%8E%BB%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E6%98%AF%E6%96%B0%E6%BD%AE%E6%B5%81%E2%80%9D",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7618684",
+            "api_source": "tianapi",
+            "translation": "\"Traveling to China is the new trend...\""
+          }
+        },
+        {
+          "title": "5. 韩总统：无人机“入朝”是严重犯罪",
+          "value": "指数 7520850",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%9F%A9%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%97%A0%E4%BA%BA%E6%9C%BA%E2%80%9C%E5%85%A5%E6%9C%9D%E2%80%9D%E6%98%AF%E4%B8%A5%E9%87%8D%E7%8A%AF%E7%BD%AA",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7520850",
+            "api_source": "tianapi",
+            "translation": "South Korean president: Drones entering North Korea is a..."
+          }
+        },
+        {
+          "title": "6. 在香港拿假支票存160亿欧元 1人被捕",
+          "value": "指数 7424358",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9C%A8%E9%A6%99%E6%B8%AF%E6%8B%BF%E5%81%87%E6%94%AF%E7%A5%A8%E5%AD%98160%E4%BA%BF%E6%AC%A7%E5%85%83+1%E4%BA%BA%E8%A2%AB%E6%8D%95",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7424358",
+            "api_source": "tianapi",
+            "translation": "One arrested for depositing €16 billion in fake checks..."
+          }
+        },
+        {
+          "title": "7. 云南通报运动员实名举报被索要奖金",
+          "value": "指数 7331853",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E8%BF%90%E5%8A%A8%E5%91%98%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E8%A2%AB%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7331853",
+            "api_source": "tianapi",
+            "translation": "Yunnan reports athlete's real-name complaint about bonus..."
+          }
+        },
+        {
+          "title": "8. 成都地铁1人1座 网友：建议全国推广",
+          "value": "指数 7235340",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%811%E4%BA%BA1%E5%BA%A7+%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7235340",
+            "api_source": "tianapi",
+            "translation": "Chengdu Metro: One seat per person, netizens suggest..."
+          }
+        },
+        {
+          "title": "9. 日本年轻人晒梅毒化梅毒妆是啥操作",
+          "value": "指数 7137473",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%99%92%E6%A2%85%E6%AF%92%E5%8C%96%E6%A2%85%E6%AF%92%E5%A6%86%E6%98%AF%E5%95%A5%E6%93%8D%E4%BD%9C",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7137473",
+            "api_source": "tianapi",
+            "translation": "Young Japanese are flaunting syphilis makeup... what’s..."
+          }
+        },
+        {
+          "title": "10. 中产涌入超市抢300元羽绒服",
+          "value": "指数 7041259",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E4%BA%A7%E6%B6%8C%E5%85%A5%E8%B6%85%E5%B8%82%E6%8A%A2300%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7041259",
+            "api_source": "tianapi",
+            "translation": "Middle class rushes to supermarkets for 300 yuan down..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-10T22:08:01+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7045967",
             "api_source": "tianapi",
             "translation": "Doctors warn that falling asleep immediately may signal..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-04T06:04:02+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 新年贺词里的中国信心",
-          "value": "指数 7904813",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%A1%E5%BF%83",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904813",
-            "api_source": "tianapi",
-            "translation": "Chinese confidence in New Year greetings..."
-          }
-        },
-        {
-          "title": "2. 适龄男性公民都应进行兵役登记",
-          "value": "指数 7809013",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%80%82%E9%BE%84%E7%94%B7%E6%80%A7%E5%85%AC%E6%B0%91%E9%83%BD%E5%BA%94%E8%BF%9B%E8%A1%8C%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7809013",
-            "api_source": "tianapi",
-            "translation": "Eligible male citizens should register for military..."
-          }
-        },
-        {
-          "title": "3. 女子酒店房间拉开窗帘是泳池水底",
-          "value": "指数 7713121",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E6%8B%89%E5%BC%80%E7%AA%97%E5%B8%98%E6%98%AF%E6%B3%B3%E6%B1%A0%E6%B0%B4%E5%BA%95",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713121",
-            "api_source": "tianapi",
-            "translation": "The woman's hotel room curtains reveal the pool's bottom..."
-          }
-        },
-        {
-          "title": "4. 福建舰2026年任务清单来了",
-          "value": "指数 7615865",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%A6%8F%E5%BB%BA%E8%88%B02026%E5%B9%B4%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95%E6%9D%A5%E4%BA%86",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7615865",
-            "api_source": "tianapi",
-            "translation": "Fujian ship's 2026 mission list is here..."
-          }
-        },
-        {
-          "title": "5. 92年小伙看到12岁养女作文后泪崩",
-          "value": "指数 7521774",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=92%E5%B9%B4%E5%B0%8F%E4%BC%99%E7%9C%8B%E5%88%B012%E5%B2%81%E5%85%BB%E5%A5%B3%E4%BD%9C%E6%96%87%E5%90%8E%E6%B3%AA%E5%B4%A9",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7521774",
-            "api_source": "tianapi",
-            "translation": "A 92-year-old man cried after reading his 12-year-old..."
-          }
-        },
-        {
-          "title": "6. 五星红旗在台湾台南冉冉升起",
-          "value": "指数 7427075",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%8D%97%E5%86%89%E5%86%89%E5%8D%87%E8%B5%B7",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7427075",
-            "api_source": "tianapi",
-            "translation": "The Five-Star Red Flag rises slowly in Tainan, Taiwan..."
-          }
-        },
-        {
-          "title": "7. 特朗普发布马杜罗在军舰上照片",
-          "value": "指数 7331621",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E5%86%9B%E8%88%B0%E4%B8%8A%E7%85%A7%E7%89%87",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7331621",
-            "api_source": "tianapi",
-            "translation": "Trump releases photo of Maduro on a warship..."
-          }
-        },
-        {
-          "title": "8. 凌晨3点手机竟然自动转账",
-          "value": "指数 7236884",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%87%8C%E6%99%A83%E7%82%B9%E6%89%8B%E6%9C%BA%E7%AB%9F%E7%84%B6%E8%87%AA%E5%8A%A8%E8%BD%AC%E8%B4%A6",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7236884",
-            "api_source": "tianapi",
-            "translation": "The phone unexpectedly made an automatic transfer at 3 AM..."
-          }
-        },
-        {
-          "title": "9. 入睡也有“黄金时间” 不是越快越好",
-          "value": "指数 7137014",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%A5%E7%9D%A1%E4%B9%9F%E6%9C%89%E2%80%9C%E9%BB%84%E9%87%91%E6%97%B6%E9%97%B4%E2%80%9D+%E4%B8%8D%E6%98%AF%E8%B6%8A%E5%BF%AB%E8%B6%8A%E5%A5%BD",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7137014",
-            "api_source": "tianapi",
-            "translation": "There's a \"golden time\" for falling asleep, faster isn't..."
-          }
-        },
-        {
-          "title": "10. 张伟丽首次回应能否被普通男性打过",
-          "value": "指数 7039947",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%83%BD%E5%90%A6%E8%A2%AB%E6%99%AE%E9%80%9A%E7%94%B7%E6%80%A7%E6%89%93%E8%BF%87",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7039947",
-            "api_source": "tianapi",
-            "translation": "Zhang Weili responds for the first time on being beaten..."
           }
         }
       ]
