@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-11T11:14:28+08:00",
+  "generated_at": "2026-01-11T14:01:35+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-11T14:01:35+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. AI照片竟然拿了摄影比赛第一名",
+          "value": "1106730 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1106730",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "AI photo surprisingly won first place in a photography..."
+          }
+        },
+        {
+          "title": "2. 英伟达要求中国客户预付全款 [新]",
+          "value": "829163 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%E9%A2%84%E4%BB%98%E5%85%A8%E6%AC%BE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 829163",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "NVIDIA requires Chinese customers to pay in full upfront..."
+          }
+        },
+        {
+          "title": "3. 中国扫地机器人扫全球",
+          "value": "661368 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%AB%E5%85%A8%E7%90%83&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 661368",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese robotic vacuums sweep the globe..."
+          }
+        },
+        {
+          "title": "4. 宋Pro上大电池220KM售11.98万起",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8BPro%E4%B8%8A%E5%A4%A7%E7%94%B5%E6%B1%A0220KM%E5%94%AE11.98%E4%B8%87%E8%B5%B7&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Song Pro with large battery 220KM starts at 119,800..."
+          }
+        },
+        {
+          "title": "5. 被美国奶茶的含糖量惊到了",
+          "value": "321209 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%90%AB%E7%B3%96%E9%87%8F%E6%83%8A%E5%88%B0%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 321209",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "I was shocked by the sugar content in American bubble tea..."
+          }
+        },
+        {
+          "title": "6. 小城大事生万物首日收视率对比 [上新]",
+          "value": "剧集 315624 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E7%94%9F%E4%B8%87%E7%89%A9%E9%A6%96%E6%97%A5%E6%94%B6%E8%A7%86%E7%8E%87%E5%AF%B9%E6%AF%94&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 315624",
+            "tag": "上新",
+            "api_source": "tianapi",
+            "translation": "\"Small Town Big Events\" premiere ratings comparison..."
+          }
+        },
+        {
+          "title": "7. 成都地铁实现1人1座",
+          "value": "241592 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%AE%9E%E7%8E%B01%E4%BA%BA1%E5%BA%A7&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 241592",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chengdu Metro achieves one seat per person..."
+          }
+        },
+        {
+          "title": "8. 月薪一万的试吃员 [新]",
+          "value": "223490 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E7%9A%84%E8%AF%95%E5%90%83%E5%91%98&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 223490",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "A taste tester with a monthly salary of 10,000..."
+          }
+        },
+        {
+          "title": "9. 老外被中国细糠折服的一天",
+          "value": "212015 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%BB%86%E7%B3%A0%E6%8A%98%E6%9C%8D%E7%9A%84%E4%B8%80%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 212015",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A foreigner captivated by China's fine rice flour..."
+          }
+        },
+        {
+          "title": "10. 麻六记的酸辣粉为何卖不动了 [新]",
+          "value": "200980 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BA%BB%E5%85%AD%E8%AE%B0%E7%9A%84%E9%85%B8%E8%BE%A3%E7%B2%89%E4%B8%BA%E4%BD%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 200980",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Why is Maliuji's sour and spicy noodles not selling well?"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-11T11:14:28+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Will the housing provident fund become more attractive?"
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-04T14:01:41+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 车厘子 褪黑素",
-          "value": "1087873 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%20%E8%A4%AA%E9%BB%91%E7%B4%A0&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1087873",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cherry melatonin..."
-          }
-        },
-        {
-          "title": "2. TF荣耀之战 [新]",
-          "value": "775769 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTF%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 775769",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "TF Glory Battle..."
-          }
-        },
-        {
-          "title": "3. 贺词里的中国",
-          "value": "624710 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 624710",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China in the congratulatory message..."
-          }
-        },
-        {
-          "title": "4. 荣耀WIN系列最强电竞手机发布 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8D%A3%E8%80%80WIN%E7%B3%BB%E5%88%97%E6%9C%80%E5%BC%BA%E7%94%B5%E7%AB%9E%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The strongest gaming phone in the Honor WIN series released."
-          }
-        },
-        {
-          "title": "5. 车厘子价格暴跌商家却赚麻了",
-          "value": "382259 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%95%86%E5%AE%B6%E5%8D%B4%E8%B5%9A%E9%BA%BB%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 382259",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cherry prices plummet, but merchants still profit..."
-          }
-        },
-        {
-          "title": "6. 黄景瑜跨年上台前突发耳石症 [大卖]",
-          "value": "晚会 373792 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E6%99%AF%E7%91%9C%E8%B7%A8%E5%B9%B4%E4%B8%8A%E5%8F%B0%E5%89%8D%E7%AA%81%E5%8F%91%E8%80%B3%E7%9F%B3%E7%97%87&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "晚会 373792",
-            "tag": "大卖",
-            "api_source": "tianapi",
-            "translation": "Huang Jingyu suddenly suffered from ear stone disease..."
-          }
-        },
-        {
-          "title": "7. 爸爸微信有两千个置顶",
-          "value": "372849 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B8%E7%88%B8%E5%BE%AE%E4%BF%A1%E6%9C%89%E4%B8%A4%E5%8D%83%E4%B8%AA%E7%BD%AE%E9%A1%B6&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 372849",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Dad has two thousand pinned messages on WeChat..."
-          }
-        },
-        {
-          "title": "8. 委内瑞拉石油储量世界第一",
-          "value": "360374 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%82%A8%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 360374",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Venezuela has the world's largest oil reserves..."
-          }
-        },
-        {
-          "title": "9. 娜扎把玉茗茶骨叫玉米排骨",
-          "value": "剧集 360268 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A8%9C%E6%89%8E%E6%8A%8A%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8%E5%8F%AB%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 360268",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Naza calls the jade tea ribs \"corn ribs.\""
-          }
-        },
-        {
-          "title": "10. 管晨辰演短剧了 [新]",
-          "value": "358845 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AE%A1%E6%99%A8%E8%BE%B0%E6%BC%94%E7%9F%AD%E5%89%A7%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 358845",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Guan Chenchen performed in a short play..."
           }
         }
       ]
