@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-12T18:41:51+08:00",
+  "generated_at": "2026-01-12T22:11:04+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-12T22:11:04+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 十日终焉",
+          "value": "剧集 1057317 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1057317",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The end in ten days..."
+          }
+        },
+        {
+          "title": "2. 韩国空难失事前75秒黑匣子录音",
+          "value": "773725 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E5%A4%B1%E4%BA%8B%E5%89%8D75%E7%A7%92%E9%BB%91%E5%8C%A3%E5%AD%90%E5%BD%95%E9%9F%B3&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 773725",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Korean air disaster black box recording 75 seconds..."
+          }
+        },
+        {
+          "title": "3. 尔滨的风吹到东南亚了",
+          "value": "623570 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%94%E6%BB%A8%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%B8%9C%E5%8D%97%E4%BA%9A%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 623570",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The wind from Harbin has reached Southeast Asia..."
+          }
+        },
+        {
+          "title": "4. 肖战 十日终焉",
+          "value": "剧集 514657 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%20%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 514657",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Xiao Zhan: Ten Days of Doom..."
+          }
+        },
+        {
+          "title": "5. 水泥麻辣烫",
+          "value": "408719 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E6%B3%A5%E9%BA%BB%E8%BE%A3%E7%83%AB&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 408719",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cement spicy hot pot..."
+          }
+        },
+        {
+          "title": "6. 微信通知显示头像 [热]",
+          "value": "379102 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E9%80%9A%E7%9F%A5%E6%98%BE%E7%A4%BA%E5%A4%B4%E5%83%8F&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 379102",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "WeChat notifications display profile pictures..."
+          }
+        },
+        {
+          "title": "7. 于适喊你补水啦",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8E%E9%80%82%E5%96%8A%E4%BD%A0%E8%A1%A5%E6%B0%B4%E5%95%A6&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yu Shi is reminding you to hydrate!"
+          }
+        },
+        {
+          "title": "8. 十日终焉开机时间",
+          "value": "剧集 377875 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%BC%80%E6%9C%BA%E6%97%B6%E9%97%B4&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "剧集 377875",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ten days until the end of the machine's startup time..."
+          }
+        },
+        {
+          "title": "9. 爱喝奶茶的人天塌了",
+          "value": "374564 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%96%9D%E5%A5%B6%E8%8C%B6%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 374564",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Tea lovers' world has collapsed..."
+          }
+        },
+        {
+          "title": "10. 47岁女子上班期间冲泡奶茶被辞退 [热]",
+          "value": "372376 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D47%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E7%8F%AD%E6%9C%9F%E9%97%B4%E5%86%B2%E6%B3%A1%E5%A5%B6%E8%8C%B6%E8%A2%AB%E8%BE%9E%E9%80%80&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 372376",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "47-year-old woman fired for making milk tea at work..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-12T18:41:51+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "In some cities, IVF is becoming increasingly popular..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-06T22:09:25+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 车厘子暴跌第一批受害者出现",
-          "value": "1132525 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9A%B4%E8%B7%8C%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1132525",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cherry prices plummet, first victims emerge..."
-          }
-        },
-        {
-          "title": "2. 1盒内存条堪比上海1套房 [新]",
-          "value": "834300 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D1%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%8A%E6%B5%B71%E5%A5%97%E6%88%BF&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 834300",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "A box of memory sticks is worth a Shanghai apartment..."
-          }
-        },
-        {
-          "title": "3. 元旦假期交通出行5.95亿人次",
-          "value": "650155 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E4%BA%A4%E9%80%9A%E5%87%BA%E8%A1%8C5.95%E4%BA%BF%E4%BA%BA%E6%AC%A1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 650155",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "5.95 billion trips during New Year's holiday..."
-          }
-        },
-        {
-          "title": "4. 上海下雪",
-          "value": "510618 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E4%B8%8B%E9%9B%AA&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 510618",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "It’s snowing in Shanghai..."
-          }
-        },
-        {
-          "title": "5. 武大靖官宣退役",
-          "value": "392453 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%AE%98%E5%AE%A3%E9%80%80%E5%BD%B9&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 392453",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wu Dajing officially announces retirement..."
-          }
-        },
-        {
-          "title": "6. 男子自带3瓶茅台全被服务员调包",
-          "value": "387133 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E8%87%AA%E5%B8%A63%E7%93%B6%E8%8C%85%E5%8F%B0%E5%85%A8%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B0%83%E5%8C%85&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 387133",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Man's three bottles of Moutai were swapped by staff..."
-          }
-        },
-        {
-          "title": "7. 多地裁判文书隐去法官姓名和案号",
-          "value": "380829 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E8%A3%81%E5%88%A4%E6%96%87%E4%B9%A6%E9%9A%90%E5%8E%BB%E6%B3%95%E5%AE%98%E5%A7%93%E5%90%8D%E5%92%8C%E6%A1%88%E5%8F%B7&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 380829",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Many court rulings omit judges' names and case numbers..."
-          }
-        },
-        {
-          "title": "8. 女子以油养肤导致面部疯狂掉皮",
-          "value": "374869 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4%E5%AF%BC%E8%87%B4%E9%9D%A2%E9%83%A8%E7%96%AF%E7%8B%82%E6%8E%89%E7%9A%AE&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 374869",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Woman's oily skincare causes severe facial peeling..."
-          }
-        },
-        {
-          "title": "9. 男子8.2万买的卡皮巴拉到货后死亡",
-          "value": "369775 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%908.2%E4%B8%87%E4%B9%B0%E7%9A%84%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89%E5%88%B0%E8%B4%A7%E5%90%8E%E6%AD%BB%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 369775",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Man's 82,000 yuan capybara died upon arrival..."
-          }
-        },
-        {
-          "title": "10. iPhone没有一个按键是多余的",
-          "value": "364529 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhone%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E6%8C%89%E9%94%AE%E6%98%AF%E5%A4%9A%E4%BD%99%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 364529",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Every button on the iPhone serves a purpose."
           }
         }
       ]
