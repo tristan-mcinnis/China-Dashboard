@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-12T06:04:09+08:00",
+  "generated_at": "2026-01-12T11:13:22+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-12T11:13:22+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 云初令",
+          "value": "剧集 1070877 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%91%E5%88%9D%E4%BB%A4&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1070877",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The Cloud's Initial Command..."
+          }
+        },
+        {
+          "title": "2. 贪官称世界真奇妙退休才知道 [新]",
+          "value": "755369 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%AA%E5%AE%98%E7%A7%B0%E4%B8%96%E7%95%8C%E7%9C%9F%E5%A5%87%E5%A6%99%E9%80%80%E4%BC%91%E6%89%8D%E7%9F%A5%E9%81%93&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 755369",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Corrupt officials say the world is truly wonderful after..."
+          }
+        },
+        {
+          "title": "3. 中国农民种地科技感拉满",
+          "value": "619379 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 619379",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese farmers are fully embracing agricultural..."
+          }
+        },
+        {
+          "title": "4. 云初令海报",
+          "value": "剧集 222846 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%91%E5%88%9D%E4%BB%A4%E6%B5%B7%E6%8A%A5&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 222846",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Poster for \"Yun Chu Ling\"..."
+          }
+        },
+        {
+          "title": "5. 江苏省考成绩",
+          "value": "196381 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 196381",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Jiangsu Province exam results..."
+          }
+        },
+        {
+          "title": "6. 那英 亲儿子不可能有一点瑕疵 [新]",
+          "value": "综艺 186423 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%82%A3%E8%8B%B1%20%E4%BA%B2%E5%84%BF%E5%AD%90%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E4%B8%80%E7%82%B9%E7%91%95%E7%96%B5&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "综艺 186423",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Na Ying's biological son can't have any flaws..."
+          }
+        },
+        {
+          "title": "7. 解困失眠夜松下五感开麦",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E5%9B%B0%E5%A4%B1%E7%9C%A0%E5%A4%9C%E6%9D%BE%E4%B8%8B%E4%BA%94%E6%84%9F%E5%BC%80%E9%BA%A6&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Relieving insomnia, opening the senses under the pine..."
+          }
+        },
+        {
+          "title": "8. 左眼跳财右眼跳相信科学",
+          "value": "180403 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A6%E7%9C%BC%E8%B7%B3%E8%B4%A2%E5%8F%B3%E7%9C%BC%E8%B7%B3%E7%9B%B8%E4%BF%A1%E7%A7%91%E5%AD%A6&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 180403",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Left eye twitches for wealth, right eye for believing in..."
+          }
+        },
+        {
+          "title": "9. A股",
+          "value": "174297 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DA%E8%82%A1&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 174297",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A-shares"
+          }
+        },
+        {
+          "title": "10. 烟台暴雪下冒烟了 [新]",
+          "value": "169871 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%83%9F%E5%8F%B0%E6%9A%B4%E9%9B%AA%E4%B8%8B%E5%86%92%E7%83%9F%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 169871",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yantai's heavy snow is causing smoke to rise..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-12T06:04:09+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Ba Wang Cha Ji dismisses involved staff member..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-06T11:07:40+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 特斯拉",
-          "value": "1113612 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%96%AF%E6%8B%89&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1113612",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tesla"
-          }
-        },
-        {
-          "title": "2. 特斯拉ModelYL首次推出5年0息 [新]",
-          "value": "800788 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%96%AF%E6%8B%89ModelYL%E9%A6%96%E6%AC%A1%E6%8E%A8%E5%87%BA5%E5%B9%B40%E6%81%AF&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 800788",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Tesla Model Y launches with 5 years of 0% interest..."
-          }
-        },
-        {
-          "title": "3. 长江经济带交出发展十年亮丽答卷",
-          "value": "665085 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E6%B1%9F%E7%BB%8F%E6%B5%8E%E5%B8%A6%E4%BA%A4%E5%87%BA%E5%8F%91%E5%B1%95%E5%8D%81%E5%B9%B4%E4%BA%AE%E4%B8%BD%E7%AD%94%E5%8D%B7&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 665085",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Yangtze River Economic Belt presents a decade of..."
-          }
-        },
-        {
-          "title": "4. 餐馆内死亡13岁男孩父母智力残疾",
-          "value": "540709 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A4%90%E9%A6%86%E5%86%85%E6%AD%BB%E4%BA%A113%E5%B2%81%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%99%BA%E5%8A%9B%E6%AE%8B%E7%96%BE&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 540709",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Restaurant death of 13-year-old boy; parents have..."
-          }
-        },
-        {
-          "title": "5. 鳌太线失联4人1人获救2死1坠崖",
-          "value": "442825 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B3%8C%E5%A4%AA%E7%BA%BF%E5%A4%B1%E8%81%944%E4%BA%BA1%E4%BA%BA%E8%8E%B7%E6%95%912%E6%AD%BB1%E5%9D%A0%E5%B4%96&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 442825",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Four missing on Aota Line: 1 rescued, 2 dead, 1 fell off..."
-          }
-        },
-        {
-          "title": "6. 委内瑞拉临时总统宣誓就任 [新]",
-          "value": "349240 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 349240",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Venezuela's interim president takes the oath of office..."
-          }
-        },
-        {
-          "title": "7. 原来摇粒绒真的是摇出来的",
-          "value": "326564 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E6%91%87%E7%B2%92%E7%BB%92%E7%9C%9F%E7%9A%84%E6%98%AF%E6%91%87%E5%87%BA%E6%9D%A5%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 326564",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "It turns out fleece is really made by shaking..."
-          }
-        },
-        {
-          "title": "8. 苹果马年手机壳449元 [新]",
-          "value": "282295 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A3%B3449%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 282295",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Apple Year of the Horse phone case for 449 yuan..."
-          }
-        },
-        {
-          "title": "9. 这种爱情至今为止内娱都没有演出来",
-          "value": "269947 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E7%A7%8D%E7%88%B1%E6%83%85%E8%87%B3%E4%BB%8A%E4%B8%BA%E6%AD%A2%E5%86%85%E5%A8%B1%E9%83%BD%E6%B2%A1%E6%9C%89%E6%BC%94%E5%87%BA%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 269947",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "This kind of love has yet to be portrayed in domestic..."
-          }
-        },
-        {
-          "title": "10. 中国女导演柬埔寨坠亡前被人带上楼",
-          "value": "224350 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%BC%E6%BC%94%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E4%BA%A1%E5%89%8D%E8%A2%AB%E4%BA%BA%E5%B8%A6%E4%B8%8A%E6%A5%BC&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 224350",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese female director fell to her death in Cambodia..."
           }
         }
       ]
