@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-01-12T22:11:16+08:00",
+  "generated_at": "2026-01-13T06:04:30+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-13T06:04:30+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 以更高标准更实举措推进从严治党",
+          "value": "指数 7904323",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BB%A5%E6%9B%B4%E9%AB%98%E6%A0%87%E5%87%86%E6%9B%B4%E5%AE%9E%E4%B8%BE%E6%8E%AA%E6%8E%A8%E8%BF%9B%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904323",
+            "api_source": "tianapi",
+            "translation": "Advance strict party governance with higher standards..."
+          }
+        },
+        {
+          "title": "2. 湖北省委原书记蒋超良将出镜忏悔",
+          "value": "指数 7809335",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E8%92%8B%E8%B6%85%E8%89%AF%E5%B0%86%E5%87%BA%E9%95%9C%E5%BF%8F%E6%82%94",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809335",
+            "api_source": "tianapi",
+            "translation": "Former Hubei Party Secretary Jiang Chaoliang to confess..."
+          }
+        },
+        {
+          "title": "3. 超6成中国人下一辆车预算30万元以上",
+          "value": "指数 7712269",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%B6%856%E6%88%90%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8B%E4%B8%80%E8%BE%86%E8%BD%A6%E9%A2%84%E7%AE%9730%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8A",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7712269",
+            "api_source": "tianapi",
+            "translation": "Over 60% of Chinese plan to spend over 300,000 yuan on..."
+          }
+        },
+        {
+          "title": "4. 推进乡村全面振兴",
+          "value": "指数 7617424",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%8E%A8%E8%BF%9B%E4%B9%A1%E6%9D%91%E5%85%A8%E9%9D%A2%E6%8C%AF%E5%85%B4",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617424",
+            "api_source": "tianapi",
+            "translation": "Promoting comprehensive rural revitalization..."
+          }
+        },
+        {
+          "title": "5. 张文宏：拒绝把AI引入医院病历系统",
+          "value": "指数 7519909",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7519909",
+            "api_source": "tianapi",
+            "translation": "Zhang Wenhong: Refuses to introduce AI into hospital..."
+          }
+        },
+        {
+          "title": "6. 饭店推出“水泥麻辣烫”",
+          "value": "指数 7428531",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%A5%AD%E5%BA%97%E6%8E%A8%E5%87%BA%E2%80%9C%E6%B0%B4%E6%B3%A5%E9%BA%BB%E8%BE%A3%E7%83%AB%E2%80%9D",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7428531",
+            "api_source": "tianapi",
+            "translation": "Restaurant launches \"Cement Spicy Hot Pot\"..."
+          }
+        },
+        {
+          "title": "7. 羽绒服不再只是“波司登”了",
+          "value": "指数 7333339",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E2%80%9C%E6%B3%A2%E5%8F%B8%E7%99%BB%E2%80%9D%E4%BA%86",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7333339",
+            "api_source": "tianapi",
+            "translation": "Down jackets are no longer just \"Bosideng\"..."
+          }
+        },
+        {
+          "title": "8. 手握40万却买不到满意的豪华电车",
+          "value": "指数 7232146",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%89%8B%E6%8F%A140%E4%B8%87%E5%8D%B4%E4%B9%B0%E4%B8%8D%E5%88%B0%E6%BB%A1%E6%84%8F%E7%9A%84%E8%B1%AA%E5%8D%8E%E7%94%B5%E8%BD%A6",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7232146",
+            "api_source": "tianapi",
+            "translation": "Holding 400,000 yet can't buy a satisfactory luxury EV..."
+          }
+        },
+        {
+          "title": "9. 湖南女子也邀网友帮杀猪 6个群爆满",
+          "value": "指数 7135936",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B9%96%E5%8D%97%E5%A5%B3%E5%AD%90%E4%B9%9F%E9%82%80%E7%BD%91%E5%8F%8B%E5%B8%AE%E6%9D%80%E7%8C%AA+6%E4%B8%AA%E7%BE%A4%E7%88%86%E6%BB%A1",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7135936",
+            "api_source": "tianapi",
+            "translation": "Hunan woman invites netizens to help with pig..."
+          }
+        },
+        {
+          "title": "10. 日本第一代“不婚族”开始后悔了",
+          "value": "指数 7045255",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7045255",
+            "api_source": "tianapi",
+            "translation": "Japan's first generation of \"unmarried\" regrets their..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-12T22:11:16+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7040890",
             "api_source": "tianapi",
             "translation": "12 departments join forces to regulate the stock market..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-07T06:04:36+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 以文化滋养精神家园",
-          "value": "指数 7904488",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BB%A5%E6%96%87%E5%8C%96%E6%BB%8B%E5%85%BB%E7%B2%BE%E7%A5%9E%E5%AE%B6%E5%9B%AD",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904488",
-            "api_source": "tianapi",
-            "translation": "Nourish the spiritual home with culture..."
-          }
-        },
-        {
-          "title": "2. 机长副机长驾驶舱内打架 航司回应",
-          "value": "指数 7808216",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E9%95%BF%E5%89%AF%E6%9C%BA%E9%95%BF%E9%A9%BE%E9%A9%B6%E8%88%B1%E5%86%85%E6%89%93%E6%9E%B6+%E8%88%AA%E5%8F%B8%E5%9B%9E%E5%BA%94",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808216",
-            "api_source": "tianapi",
-            "translation": "Pilot and co-pilot fight in cockpit; airline responds..."
-          }
-        },
-        {
-          "title": "3. 属马姓马名字带马 全国这些景区免费",
-          "value": "指数 7711847",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B1%9E%E9%A9%AC%E5%A7%93%E9%A9%AC%E5%90%8D%E5%AD%97%E5%B8%A6%E9%A9%AC+%E5%85%A8%E5%9B%BD%E8%BF%99%E4%BA%9B%E6%99%AF%E5%8C%BA%E5%85%8D%E8%B4%B9",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7711847",
-            "api_source": "tianapi",
-            "translation": "Horse surnamed Ma can visit these scenic spots for free..."
-          }
-        },
-        {
-          "title": "4. 2026“国补”继续升级发放",
-          "value": "指数 7616795",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=2026%E2%80%9C%E5%9B%BD%E8%A1%A5%E2%80%9D%E7%BB%A7%E7%BB%AD%E5%8D%87%E7%BA%A7%E5%8F%91%E6%94%BE",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7616795",
-            "api_source": "tianapi",
-            "translation": "2026 \"National Subsidy\" continues to upgrade and..."
-          }
-        },
-        {
-          "title": "5. 海南免税消费到底有多疯狂",
-          "value": "指数 7523280",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E6%B6%88%E8%B4%B9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%96%AF%E7%8B%82",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7523280",
-            "api_source": "tianapi",
-            "translation": "How crazy is duty-free shopping in Hainan?"
-          }
-        },
-        {
-          "title": "6. 圆明园冰场现“贪吃蛇大作战”",
-          "value": "指数 7423824",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9C%86%E6%98%8E%E5%9B%AD%E5%86%B0%E5%9C%BA%E7%8E%B0%E2%80%9C%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98%E2%80%9D",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7423824",
-            "api_source": "tianapi",
-            "translation": "The Summer Palace ice rink features \"Snake Battle\"..."
-          }
-        },
-        {
-          "title": "7. 谁会是下一个委内瑞拉",
-          "value": "指数 7328540",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%B0%81%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7328540",
-            "api_source": "tianapi",
-            "translation": "Who will be the next Venezuela..."
-          }
-        },
-        {
-          "title": "8. 中方研究收紧对日稀土出口许可审查",
-          "value": "指数 7234095",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E6%96%B9%E7%A0%94%E7%A9%B6%E6%94%B6%E7%B4%A7%E5%AF%B9%E6%97%A5%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E8%AE%B8%E5%8F%AF%E5%AE%A1%E6%9F%A5",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7234095",
-            "api_source": "tianapi",
-            "translation": "China tightens export license review for rare earths to..."
-          }
-        },
-        {
-          "title": "9. 网友奔现一场酒局没了9万",
-          "value": "指数 7142811",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BD%91%E5%8F%8B%E5%A5%94%E7%8E%B0%E4%B8%80%E5%9C%BA%E9%85%92%E5%B1%80%E6%B2%A1%E4%BA%869%E4%B8%87",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7142811",
-            "api_source": "tianapi",
-            "translation": "Netizens lost 90,000 at a meetup drinking party..."
-          }
-        },
-        {
-          "title": "10. 计划投放KOL遭粉丝抵制 小米通报",
-          "value": "指数 7046901",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7046901",
-            "api_source": "tianapi",
-            "translation": "Plan to engage KOLs faces fan backlash, Xiaomi reports..."
           }
         }
       ]
