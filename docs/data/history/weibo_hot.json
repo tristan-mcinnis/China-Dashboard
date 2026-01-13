@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-13T14:01:33+08:00",
+  "generated_at": "2026-01-13T18:41:15+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-13T18:41:15+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 国考",
+          "value": "1084224 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E8%80%83&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1084224",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "National Examination..."
+          }
+        },
+        {
+          "title": "2. 剑来 [沸]",
+          "value": "剧集 781845 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%89%91%E6%9D%A5&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "剧集 781845",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Sword Comes..."
+          }
+        },
+        {
+          "title": "3. 小砂糖橘勇闯东北新一季来了",
+          "value": "638419 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E5%8B%87%E9%97%AF%E4%B8%9C%E5%8C%97%E6%96%B0%E4%B8%80%E5%AD%A3%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 638419",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Little sugar tangerines bravely venture into Northeast's..."
+          }
+        },
+        {
+          "title": "4. 网传花少8小妹已确定 [新]",
+          "value": "综艺 274135 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E4%BC%A0%E8%8A%B1%E5%B0%918%E5%B0%8F%E5%A6%B9%E5%B7%B2%E7%A1%AE%E5%AE%9A&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "综艺 274135",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The online rumor confirms the eighth sister of \"Flower Boy.\""
+          }
+        },
+        {
+          "title": "5. 中方已经保持最大限度忍耐和克制",
+          "value": "231456 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E5%B7%B2%E7%BB%8F%E4%BF%9D%E6%8C%81%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E5%BF%8D%E8%80%90%E5%92%8C%E5%85%8B%E5%88%B6&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 231456",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China has shown maximum patience and restraint..."
+          }
+        },
+        {
+          "title": "6. 爱吃车厘子的女生天亮了 [热]",
+          "value": "230739 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E5%A5%B3%E7%94%9F%E5%A4%A9%E4%BA%AE%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 230739",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Girls who love cherries, it's dawn..."
+          }
+        },
+        {
+          "title": "7. 牛栏山品牌代言人岳云鹏",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%9B%E6%A0%8F%E5%B1%B1%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%B2%B3%E4%BA%91%E9%B9%8F&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Niulanshan brand ambassador Yue Yunpeng..."
+          }
+        },
+        {
+          "title": "8. 高市早苗迎接李在明画面",
+          "value": "230386 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%BF%8E%E6%8E%A5%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%BB%E9%9D%A2&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 230386",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Sanae Takasugi welcomes Lee Jae-myung..."
+          }
+        },
+        {
+          "title": "9. 白鹿跑男收官发文",
+          "value": "综艺 228587 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%E8%B7%91%E7%94%B7%E6%94%B6%E5%AE%98%E5%8F%91%E6%96%87&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "综艺 228587",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Bai Lu's \"Running Man\" finale post..."
+          }
+        },
+        {
+          "title": "10. 深圳多地租客突然被通知退租 [新]",
+          "value": "224259 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B7%B1%E5%9C%B3%E5%A4%9A%E5%9C%B0%E7%A7%9F%E5%AE%A2%E7%AA%81%E7%84%B6%E8%A2%AB%E9%80%9A%E7%9F%A5%E9%80%80%E7%A7%9F&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 224259",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Many tenants in Shenzhen suddenly notified to vacate..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-13T14:01:33+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Goose and Duck Kill compensation plan..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-07T18:41:05+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 夫妻做出让小个子无痛长高的鞋",
-          "value": "1066185 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AB%E5%A6%BB%E5%81%9A%E5%87%BA%E8%AE%A9%E5%B0%8F%E4%B8%AA%E5%AD%90%E6%97%A0%E7%97%9B%E9%95%BF%E9%AB%98%E7%9A%84%E9%9E%8B&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1066185",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Couple creates pain-free height-increasing shoes for..."
-          }
-        },
-        {
-          "title": "2. 大爷拍的素颜巴黎火了",
-          "value": "789026 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E7%88%B7%E6%8B%8D%E7%9A%84%E7%B4%A0%E9%A2%9C%E5%B7%B4%E9%BB%8E%E7%81%AB%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 789026",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The grandpa's makeup-free Paris photos went viral..."
-          }
-        },
-        {
-          "title": "3. 我国情绪消费市场规模超2万亿元",
-          "value": "591319 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E6%83%85%E7%BB%AA%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E8%B6%852%E4%B8%87%E4%BA%BF%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 591319",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China's emotional consumption market exceeds 2 trillion..."
-          }
-        },
-        {
-          "title": "4. 老人体验免费洗金镯洗完少了4.87克",
-          "value": "220426 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E4%BA%BA%E4%BD%93%E9%AA%8C%E5%85%8D%E8%B4%B9%E6%B4%97%E9%87%91%E9%95%AF%E6%B4%97%E5%AE%8C%E5%B0%91%E4%BA%864.87%E5%85%8B&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 220426",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Elderly person loses 4.87 grams after free gold bracelet..."
-          }
-        },
-        {
-          "title": "5. 中国留学生讲述日本梅毒扩散乱象",
-          "value": "207703 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E4%B9%B1%E8%B1%A1&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 207703",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese students discuss the rampant spread of syphilis..."
-          }
-        },
-        {
-          "title": "6. 爱吃自助餐小蛋糕的天塌了 [新]",
-          "value": "205867 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 205867",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The sky has fallen for those who love buffet cakes..."
-          }
-        },
-        {
-          "title": "7. 与追觅一起敢梦敢为",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8E%E8%BF%BD%E8%A7%85%E4%B8%80%E8%B5%B7%E6%95%A2%E6%A2%A6%E6%95%A2%E4%B8%BA&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Dare to dream and act with ZhiMi..."
-          }
-        },
-        {
-          "title": "8. 委内瑞拉发布讣告",
-          "value": "204893 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 204893",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Venezuela issues an obituary..."
-          }
-        },
-        {
-          "title": "9. 00后显老因为是90后装的",
-          "value": "202602 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D00%E5%90%8E%E6%98%BE%E8%80%81%E5%9B%A0%E4%B8%BA%E6%98%AF90%E5%90%8E%E8%A3%85%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 202602",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Post-00s look older because they dress like post-90s..."
-          }
-        },
-        {
-          "title": "10. 240万转错账户一年都没要回来 [新]",
-          "value": "201609 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D240%E4%B8%87%E8%BD%AC%E9%94%99%E8%B4%A6%E6%88%B7%E4%B8%80%E5%B9%B4%E9%83%BD%E6%B2%A1%E8%A6%81%E5%9B%9E%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 201609",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "2.4 million mistakenly transferred, hasn't been..."
           }
         }
       ]
