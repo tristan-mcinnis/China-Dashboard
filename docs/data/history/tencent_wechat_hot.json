@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-01-14T22:10:59+08:00",
+  "generated_at": "2026-01-15T06:04:33+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-15T06:04:33+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 二十届中央纪委五次全会公报发布",
+          "value": "指数 7904077",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E4%BA%94%E6%AC%A1%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904077",
+            "api_source": "tianapi",
+            "translation": "The communiqué of the 5th Plenary Session of the 20th..."
+          }
+        },
+        {
+          "title": "2. 今年“三九”不冷 后面还会冷吗",
+          "value": "指数 7809799",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BB%8A%E5%B9%B4%E2%80%9C%E4%B8%89%E4%B9%9D%E2%80%9D%E4%B8%8D%E5%86%B7+%E5%90%8E%E9%9D%A2%E8%BF%98%E4%BC%9A%E5%86%B7%E5%90%97",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809799",
+            "api_source": "tianapi",
+            "translation": "This year's \"Sanjiu\" isn't cold; will it get colder later?"
+          }
+        },
+        {
+          "title": "3. 浙江用AI抓出贪官",
+          "value": "指数 7711786",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7711786",
+            "api_source": "tianapi",
+            "translation": "Zhejiang uses AI to catch corrupt officials..."
+          }
+        },
+        {
+          "title": "4. 又是两个“连续全球第一”",
+          "value": "指数 7616621",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8F%88%E6%98%AF%E4%B8%A4%E4%B8%AA%E2%80%9C%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E2%80%9D",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616621",
+            "api_source": "tianapi",
+            "translation": "Another two \"consecutive global firsts\"..."
+          }
+        },
+        {
+          "title": "5. 国内唯一唐代金甲完成修复",
+          "value": "指数 7523394",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E5%94%90%E4%BB%A3%E9%87%91%E7%94%B2%E5%AE%8C%E6%88%90%E4%BF%AE%E5%A4%8D",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7523394",
+            "api_source": "tianapi",
+            "translation": "The only complete Tang Dynasty gold armor in the country..."
+          }
+        },
+        {
+          "title": "6. 一个悠悠球卖1万8 部分地区已断货",
+          "value": "指数 7424304",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E4%B8%AA%E6%82%A0%E6%82%A0%E7%90%83%E5%8D%961%E4%B8%878+%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%B7%B2%E6%96%AD%E8%B4%A7",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7424304",
+            "api_source": "tianapi",
+            "translation": "A yo-yo sells for 18,000; some areas are out of stock..."
+          }
+        },
+        {
+          "title": "7. 贺娇龙抢救无效离世 年仅47岁",
+          "value": "指数 7329062",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%B4%BA%E5%A8%87%E9%BE%99%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E7%A6%BB%E4%B8%96+%E5%B9%B4%E4%BB%8547%E5%B2%81",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7329062",
+            "api_source": "tianapi",
+            "translation": "He Jiao Long passed away at 47 after failed rescue..."
+          }
+        },
+        {
+          "title": "8. U23国足首进亚洲杯淘汰赛",
+          "value": "指数 7231739",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=U23%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7231739",
+            "api_source": "tianapi",
+            "translation": "U23 national football team reaches Asian Cup knockout..."
+          }
+        },
+        {
+          "title": "9. 美国将暂停对75个国家的所有签证",
+          "value": "指数 7136748",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7136748",
+            "api_source": "tianapi",
+            "translation": "The U.S. will suspend all visas for 75 countries..."
+          }
+        },
+        {
+          "title": "10. “他还是个孩子”不再是挡箭牌",
+          "value": "指数 7048454",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E4%BB%96%E8%BF%98%E6%98%AF%E4%B8%AA%E5%AD%A9%E5%AD%90%E2%80%9D%E4%B8%8D%E5%86%8D%E6%98%AF%E6%8C%A1%E7%AE%AD%E7%89%8C",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7048454",
+            "api_source": "tianapi",
+            "translation": "\"He's still a child\" is no longer an excuse..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-14T22:10:59+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7046888",
             "api_source": "tianapi",
             "translation": "Elder brother finds phone, records video to call owner..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-09T06:04:31+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 中共中央政治局常务委员会召开会议",
-          "value": "指数 7904414",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904414",
-            "api_source": "tianapi",
-            "translation": "The Standing Committee of the Political Bureau of the..."
-          }
-        },
-        {
-          "title": "2. 研究生教成人骑车2年赚27万元",
-          "value": "指数 7808726",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%99%E6%88%90%E4%BA%BA%E9%AA%91%E8%BD%A62%E5%B9%B4%E8%B5%9A27%E4%B8%87%E5%85%83",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808726",
-            "api_source": "tianapi",
-            "translation": "Graduate student earns 270,000 yuan teaching adults to..."
-          }
-        },
-        {
-          "title": "3. 辽宁：农村办席百人以上要留菜样",
-          "value": "指数 7713865",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%BE%BD%E5%AE%81%EF%BC%9A%E5%86%9C%E6%9D%91%E5%8A%9E%E5%B8%AD%E7%99%BE%E4%BA%BA%E4%BB%A5%E4%B8%8A%E8%A6%81%E7%95%99%E8%8F%9C%E6%A0%B7",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713865",
-            "api_source": "tianapi",
-            "translation": "Liaoning: Rural banquets with over 100 guests must keep..."
-          }
-        },
-        {
-          "title": "4. 2026年开年 这些小变化传递积极信号",
-          "value": "指数 7618340",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=2026%E5%B9%B4%E5%BC%80%E5%B9%B4+%E8%BF%99%E4%BA%9B%E5%B0%8F%E5%8F%98%E5%8C%96%E4%BC%A0%E9%80%92%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618340",
-            "api_source": "tianapi",
-            "translation": "Small changes in 2026 signal positive trends..."
-          }
-        },
-        {
-          "title": "5. 高校通知高数成绩差或请家长陪读",
-          "value": "指数 7522915",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%AB%98%E6%A0%A1%E9%80%9A%E7%9F%A5%E9%AB%98%E6%95%B0%E6%88%90%E7%BB%A9%E5%B7%AE%E6%88%96%E8%AF%B7%E5%AE%B6%E9%95%BF%E9%99%AA%E8%AF%BB",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7522915",
-            "api_source": "tianapi",
-            "translation": "Universities notify that poor math scores may require..."
-          }
-        },
-        {
-          "title": "6. 若美武力夺岛丹麦士兵可先开枪再请示",
-          "value": "指数 7426364",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%8B%A5%E7%BE%8E%E6%AD%A6%E5%8A%9B%E5%A4%BA%E5%B2%9B%E4%B8%B9%E9%BA%A6%E5%A3%AB%E5%85%B5%E5%8F%AF%E5%85%88%E5%BC%80%E6%9E%AA%E5%86%8D%E8%AF%B7%E7%A4%BA",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7426364",
-            "api_source": "tianapi",
-            "translation": "If the US uses force to seize the island, Danish..."
-          }
-        },
-        {
-          "title": "7. 双胞胎姐妹分别取名灿和烂",
-          "value": "指数 7332458",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7332458",
-            "api_source": "tianapi",
-            "translation": "The twin sisters are named Can and Lan."
-          }
-        },
-        {
-          "title": "8. 鼻病毒阳性率上升 无特效药和疫苗",
-          "value": "指数 7238276",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%BC%BB%E7%97%85%E6%AF%92%E9%98%B3%E6%80%A7%E7%8E%87%E4%B8%8A%E5%8D%87+%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF%E5%92%8C%E7%96%AB%E8%8B%97",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7238276",
-            "api_source": "tianapi",
-            "translation": "Rising positivity rate for rhinovirus; no effective..."
-          }
-        },
-        {
-          "title": "9. 河南趴地菠菜走红",
-          "value": "指数 7137617",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B2%B3%E5%8D%97%E8%B6%B4%E5%9C%B0%E8%8F%A0%E8%8F%9C%E8%B5%B0%E7%BA%A2",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7137617",
-            "api_source": "tianapi",
-            "translation": "Henan's flat spinach becomes popular..."
-          }
-        },
-        {
-          "title": "10. 中方驳回日方所提交涉",
-          "value": "指数 7042900",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E6%96%B9%E9%A9%B3%E5%9B%9E%E6%97%A5%E6%96%B9%E6%89%80%E6%8F%90%E4%BA%A4%E6%B6%89",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7042900",
-            "api_source": "tianapi",
-            "translation": "China rejects Japan's submitted concerns..."
           }
         }
       ]

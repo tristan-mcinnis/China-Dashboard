@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-14T22:10:50+08:00",
+  "generated_at": "2026-01-15T06:04:23+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-15T06:04:23+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 贺娇龙所有直播打赏均用于公益事业",
+          "value": "280215 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%BA%E5%A8%87%E9%BE%99%E6%89%80%E6%9C%89%E7%9B%B4%E6%92%AD%E6%89%93%E8%B5%8F%E5%9D%87%E7%94%A8%E4%BA%8E%E5%85%AC%E7%9B%8A%E4%BA%8B%E4%B8%9A&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 280215",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "He Jiaolong's live stream donations are all for charity..."
+          }
+        },
+        {
+          "title": "2. 美国将暂停对75个国家的所有签证 [热]",
+          "value": "204321 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 204321",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "The U.S. will suspend all visas for 75 countries..."
+          }
+        },
+        {
+          "title": "3. 一图速览2025年进出口情况",
+          "value": "167179 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%882025%E5%B9%B4%E8%BF%9B%E5%87%BA%E5%8F%A3%E6%83%85%E5%86%B5&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 167179",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A quick overview of import and export situation in 2025..."
+          }
+        },
+        {
+          "title": "4. 白象中国面温暖中国每一面",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E8%B1%A1%E4%B8%AD%E5%9B%BD%E9%9D%A2%E6%B8%A9%E6%9A%96%E4%B8%AD%E5%9B%BD%E6%AF%8F%E4%B8%80%E9%9D%A2&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "White Elephant warms every aspect of China..."
+          }
+        },
+        {
+          "title": "5. 马年春晚",
+          "value": "69459 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 69459",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Year of the Horse Spring Festival Gala..."
+          }
+        },
+        {
+          "title": "6. 携程涉嫌垄断 [火热]",
+          "value": "67663 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%90%BA%E7%A8%8B%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 67663",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Ctrip suspected of monopoly..."
+          }
+        },
+        {
+          "title": "7. 贺娇龙抢救无效不幸离世",
+          "value": "62812 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%BA%E5%A8%87%E9%BE%99%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 62812",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "He Jiao Long unfortunately passed away despite rescue..."
+          }
+        },
+        {
+          "title": "8. 刘晓庆鹭卓上演五谷磨房豪门商战 [沸]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E6%99%93%E5%BA%86%E9%B9%AD%E5%8D%93%E4%B8%8A%E6%BC%94%E4%BA%94%E8%B0%B7%E7%A3%A8%E6%88%BF%E8%B1%AA%E9%97%A8%E5%95%86%E6%88%98&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Liu Xiaoqing and Lu Zhuo star in a high-stakes business..."
+          }
+        },
+        {
+          "title": "9. AI查贪官准确率相当高",
+          "value": "49820 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 49820",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "AI's accuracy in detecting corrupt officials is quite..."
+          }
+        },
+        {
+          "title": "10. 当街抢小孩女子已被警方带走 [沸]",
+          "value": "47588 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%93%E8%A1%97%E6%8A%A2%E5%B0%8F%E5%AD%A9%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 47588",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Woman who snatched child in the street has been taken..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-14T22:10:50+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Driver fined 15,000 for inducing dining bill of 1,868..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-09T06:04:22+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 中国人花六十多万买下北海道三套房",
-          "value": "273326 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%8A%B1%E5%85%AD%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%89%E5%A5%97%E6%88%BF&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 273326",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese buyers spend over 600,000 on three houses in..."
-          }
-        },
-        {
-          "title": "2. 双胞胎姐妹分别取名灿和烂",
-          "value": "199835 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 199835",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The twin sisters are named Can and Lan."
-          }
-        },
-        {
-          "title": "3. 医保新举措专治缴费排长队",
-          "value": "161375 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 161375",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New healthcare measures tackle long payment queues..."
-          }
-        },
-        {
-          "title": "4. 广汽埃安与永州队达成战略合作",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%BF%E6%B1%BD%E5%9F%83%E5%AE%89%E4%B8%8E%E6%B0%B8%E5%B7%9E%E9%98%9F%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "GAC Aion partners with Yongzhou team for strategic..."
-          }
-        },
-        {
-          "title": "5. 海底捞尿布入锅背后是监护缺位",
-          "value": "41471 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 41471",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The hot pot incident with diapers reveals a lack of..."
-          }
-        },
-        {
-          "title": "6. 体育局回应亚运三金得主实名举报 [官宣]",
-          "value": "39908 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%9A%E8%BF%90%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 39908",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Sports Bureau responds to gold medalist's real-name..."
-          }
-        },
-        {
-          "title": "7. 再也不去理发店洗头了",
-          "value": "39571 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E6%B4%97%E5%A4%B4%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 39571",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "I'm never going to the hair salon for a wash again..."
-          }
-        },
-        {
-          "title": "8. 高校建议高数成绩落后家长陪读",
-          "value": "34392 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%AE%E9%AB%98%E6%95%B0%E6%88%90%E7%BB%A9%E8%90%BD%E5%90%8E%E5%AE%B6%E9%95%BF%E9%99%AA%E8%AF%BB&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 34392",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Universities suggest parents accompany students..."
-          }
-        },
-        {
-          "title": "9. 博主吃播室友剩饭被多平台封禁",
-          "value": "28707 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%9A%E4%B8%BB%E5%90%83%E6%92%AD%E5%AE%A4%E5%8F%8B%E5%89%A9%E9%A5%AD%E8%A2%AB%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B0%81%E7%A6%81&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 28707",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Blogger's eating show roommate banned on multiple..."
-          }
-        },
-        {
-          "title": "10. 中产涌入超市抢300元羽绒服",
-          "value": "28404 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E4%BA%A7%E6%B6%8C%E5%85%A5%E8%B6%85%E5%B8%82%E6%8A%A2300%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 28404",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Middle class rushes to supermarkets for 300 yuan down..."
           }
         }
       ]
