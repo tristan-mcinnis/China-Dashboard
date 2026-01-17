@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-17T22:07:47+08:00",
+  "generated_at": "2026-01-18T06:03:50+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-18T06:03:50+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 涨20元月薪公司已连续37年涨薪",
+          "value": "209225 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B6%A820%E5%85%83%E6%9C%88%E8%96%AA%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%BF%9E%E7%BB%AD37%E5%B9%B4%E6%B6%A8%E8%96%AA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 209225",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Salary increased by 20 yuan; company has raised wages..."
+          }
+        },
+        {
+          "title": "2. 轧戏 [沸]",
+          "value": "剧集 154338 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A7%E6%88%8F&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "剧集 154338",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Rolling drama..."
+          }
+        },
+        {
+          "title": "3. 冰雪热力中的中国经济新脉动",
+          "value": "119008 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E9%9B%AA%E7%83%AD%E5%8A%9B%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%84%89%E5%8A%A8&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 119008",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New dynamics of China's economy in the ice and snow heat..."
+          }
+        },
+        {
+          "title": "4. 男孩凌晨5点起床写作业突然晕倒",
+          "value": "97400 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A85%E7%82%B9%E8%B5%B7%E5%BA%8A%E5%86%99%E4%BD%9C%E4%B8%9A%E7%AA%81%E7%84%B6%E6%99%95%E5%80%92&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 97400",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A boy fainted suddenly while doing homework at 5 AM..."
+          }
+        },
+        {
+          "title": "5. 米兰男装周",
+          "value": "50025 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%B1%B3%E5%85%B0%E7%94%B7%E8%A3%85%E5%91%A8&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 50025",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Milan Men's Fashion Week..."
+          }
+        },
+        {
+          "title": "6. 王鹤棣演唱会 [热]",
+          "value": "演出 33335 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "演出 33335",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Wang Hedi's concert..."
+          }
+        },
+        {
+          "title": "7. U23国足首进亚洲杯4强",
+          "value": "28512 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DU23%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF4%E5%BC%BA&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 28512",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "U23 national football team reaches Asian Cup semifinals..."
+          }
+        },
+        {
+          "title": "8. 家中凌晨进贼女子全程装睡 [沸]",
+          "value": "24361 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%B6%E4%B8%AD%E5%87%8C%E6%99%A8%E8%BF%9B%E8%B4%BC%E5%A5%B3%E5%AD%90%E5%85%A8%E7%A8%8B%E8%A3%85%E7%9D%A1&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 24361",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Woman pretends to sleep as thief breaks in at midnight..."
+          }
+        },
+        {
+          "title": "9. 男子从喉咙痛到进ICU只用1小时",
+          "value": "24051 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E4%BB%8E%E5%96%89%E5%92%99%E7%97%9B%E5%88%B0%E8%BF%9BICU%E5%8F%AA%E7%94%A81%E5%B0%8F%E6%97%B6&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 24051",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Man's throat pain leads to ICU in just 1 hour..."
+          }
+        },
+        {
+          "title": "10. 卸妆油洗头",
+          "value": "23995 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B8%E5%A6%86%E6%B2%B9%E6%B4%97%E5%A4%B4&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 23995",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Makeup remover oil for washing hair..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-17T22:07:47+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Yantai's heavy snow is causing smoke to rise..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-12T06:04:09+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 特朗普表态让万千台湾民众看清现实",
-          "value": "236199 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 236199",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Trump's statement reveals the reality to many Taiwanese..."
-          }
-        },
-        {
-          "title": "2. 林昀儒男单冠军",
-          "value": "173109 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E6%98%80%E5%84%92%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 173109",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Lin Yun-Ju wins men's singles championship..."
-          }
-        },
-        {
-          "title": "3. 中国农民种地科技感拉满",
-          "value": "138324 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 138324",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese farmers are fully embracing technology in..."
-          }
-        },
-        {
-          "title": "4. 烟台暴雪下冒烟了",
-          "value": "63105 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%83%9F%E5%8F%B0%E6%9A%B4%E9%9B%AA%E4%B8%8B%E5%86%92%E7%83%9F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 63105",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Yantai's heavy snow is producing smoke..."
-          }
-        },
-        {
-          "title": "5. 社保工作人员用漏洞挪用养老金超百万",
-          "value": "40496 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A4%BE%E4%BF%9D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%94%A8%E6%BC%8F%E6%B4%9E%E6%8C%AA%E7%94%A8%E5%85%BB%E8%80%81%E9%87%91%E8%B6%85%E7%99%BE%E4%B8%87&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 40496",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Social security staff embezzled over a million in..."
-          }
-        },
-        {
-          "title": "6. 格陵兰岛上正发生恐慌性抢购 [沸]",
-          "value": "39029 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%B8%8A%E6%AD%A3%E5%8F%91%E7%94%9F%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%A2%E8%B4%AD&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 39029",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Panic buying is happening in Greenland..."
-          }
-        },
-        {
-          "title": "7. fino芬浓常红常银常华森",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dfino%E8%8A%AC%E6%B5%93%E5%B8%B8%E7%BA%A2%E5%B8%B8%E9%93%B6%E5%B8%B8%E5%8D%8E%E6%A3%AE&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Fino: always red, always silver, always splendid..."
-          }
-        },
-        {
-          "title": "8. 国乒WTT多哈冠军赛无缘冠军",
-          "value": "37120 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E4%B9%92WTT%E5%A4%9A%E5%93%88%E5%86%A0%E5%86%9B%E8%B5%9B%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 37120",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "National table tennis team misses out on WTT Doha title..."
-          }
-        },
-        {
-          "title": "9. 代旭好帅",
-          "value": "32397 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 32397",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Dai Xu is so handsome..."
-          }
-        },
-        {
-          "title": "10. 电视剧年度盛典出席艺人",
-          "value": "31188 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E8%A7%86%E5%89%A7%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E5%87%BA%E5%B8%AD%E8%89%BA%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 31188",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Artists attending the annual TV drama awards..."
           }
         }
       ]
