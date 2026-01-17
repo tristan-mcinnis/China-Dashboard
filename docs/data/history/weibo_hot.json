@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-17T11:03:46+08:00",
+  "generated_at": "2026-01-17T14:01:40+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-17T14:01:40+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 公积金改革大动作要来了",
+          "value": "1077796 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%B9%E9%9D%A9%E5%A4%A7%E5%8A%A8%E4%BD%9C%E8%A6%81%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1077796",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Major changes in housing fund reform are coming..."
+          }
+        },
+        {
+          "title": "2. 2026央视春晚首次联排 [热]",
+          "value": "晚会 767522 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E9%A6%96%E6%AC%A1%E8%81%94%E6%8E%92&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "晚会 767522",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "2026 CCTV Spring Festival Gala holds first rehearsal..."
+          }
+        },
+        {
+          "title": "3. 务工人员春运可预约购票",
+          "value": "606388 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8A%A1%E5%B7%A5%E4%BA%BA%E5%91%98%E6%98%A5%E8%BF%90%E5%8F%AF%E9%A2%84%E7%BA%A6%E8%B4%AD%E7%A5%A8&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 606388",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Migrant workers can book tickets for the Spring Festival..."
+          }
+        },
+        {
+          "title": "4. 可口可乐请你看一场很新的烟花",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E8%AF%B7%E4%BD%A0%E7%9C%8B%E4%B8%80%E5%9C%BA%E5%BE%88%E6%96%B0%E7%9A%84%E7%83%9F%E8%8A%B1&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Coca-Cola invites you to see a brand new fireworks show..."
+          }
+        },
+        {
+          "title": "5. 狼队487断开连接",
+          "value": "546408 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%BC%E9%98%9F487%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 546408",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wolves team 487 disconnected..."
+          }
+        },
+        {
+          "title": "6. 苏有朋 我在上升期没有情感经历 [预约]",
+          "value": "综艺 482395 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E6%9C%89%E6%9C%8B%20%E6%88%91%E5%9C%A8%E4%B8%8A%E5%8D%87%E6%9C%9F%E6%B2%A1%E6%9C%89%E6%83%85%E6%84%9F%E7%BB%8F%E5%8E%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "综艺 482395",
+            "tag": "预约",
+            "api_source": "tianapi",
+            "translation": "Su Youpeng: I had no romantic experiences during my rise..."
+          }
+        },
+        {
+          "title": "7. 她一次性换了我一辈子的衣服",
+          "value": "468349 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B9%E4%B8%80%E6%AC%A1%E6%80%A7%E6%8D%A2%E4%BA%86%E6%88%91%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E8%A1%A3%E6%9C%8D&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 468349",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "She changed my clothes for a lifetime in one go..."
+          }
+        },
+        {
+          "title": "8. QQ弹弹绝区零青溟鸟交通卡 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DQQ%E5%BC%B9%E5%BC%B9%E7%BB%9D%E5%8C%BA%E9%9B%B6%E9%9D%92%E6%BA%9F%E9%B8%9F%E4%BA%A4%E9%80%9A%E5%8D%A1&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "QQ弹弹: Zero Zone Qingming Bird transit card..."
+          }
+        },
+        {
+          "title": "9. 现身春晚联排的明星",
+          "value": "晚会 225776 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%B0%E8%BA%AB%E6%98%A5%E6%99%9A%E8%81%94%E6%8E%92%E7%9A%84%E6%98%8E%E6%98%9F&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "晚会 225776",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Stars appearing at the Spring Festival Gala rehearsal..."
+          }
+        },
+        {
+          "title": "10. 装死小羊身价30万主人仍不卖",
+          "value": "199764 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A3%85%E6%AD%BB%E5%B0%8F%E7%BE%8A%E8%BA%AB%E4%BB%B730%E4%B8%87%E4%B8%BB%E4%BA%BA%E4%BB%8D%E4%B8%8D%E5%8D%96&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 199764",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The owner won't sell the $300,000 \"playing dead\" lamb..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-17T11:03:46+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Silver's wild price swings are more thrilling than gold's..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-11T14:01:35+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. AI照片竟然拿了摄影比赛第一名",
-          "value": "1106730 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1106730",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "AI photo surprisingly won first place in a photography..."
-          }
-        },
-        {
-          "title": "2. 英伟达要求中国客户预付全款 [新]",
-          "value": "829163 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%E9%A2%84%E4%BB%98%E5%85%A8%E6%AC%BE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 829163",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "NVIDIA requires Chinese customers to pay in full upfront..."
-          }
-        },
-        {
-          "title": "3. 中国扫地机器人扫全球",
-          "value": "661368 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%AB%E5%85%A8%E7%90%83&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 661368",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese robotic vacuums sweep the globe..."
-          }
-        },
-        {
-          "title": "4. 宋Pro上大电池220KM售11.98万起",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8BPro%E4%B8%8A%E5%A4%A7%E7%94%B5%E6%B1%A0220KM%E5%94%AE11.98%E4%B8%87%E8%B5%B7&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Song Pro with large battery 220KM starts at 119,800..."
-          }
-        },
-        {
-          "title": "5. 被美国奶茶的含糖量惊到了",
-          "value": "321209 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%90%AB%E7%B3%96%E9%87%8F%E6%83%8A%E5%88%B0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 321209",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "I was shocked by the sugar content in American bubble tea..."
-          }
-        },
-        {
-          "title": "6. 小城大事生万物首日收视率对比 [上新]",
-          "value": "剧集 315624 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E7%94%9F%E4%B8%87%E7%89%A9%E9%A6%96%E6%97%A5%E6%94%B6%E8%A7%86%E7%8E%87%E5%AF%B9%E6%AF%94&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "剧集 315624",
-            "tag": "上新",
-            "api_source": "tianapi",
-            "translation": "\"Small Town Big Events\" premiere ratings comparison..."
-          }
-        },
-        {
-          "title": "7. 成都地铁实现1人1座",
-          "value": "241592 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%AE%9E%E7%8E%B01%E4%BA%BA1%E5%BA%A7&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 241592",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chengdu Metro achieves one seat per person..."
-          }
-        },
-        {
-          "title": "8. 月薪一万的试吃员 [新]",
-          "value": "223490 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E7%9A%84%E8%AF%95%E5%90%83%E5%91%98&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 223490",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "A taste tester with a monthly salary of 10,000..."
-          }
-        },
-        {
-          "title": "9. 老外被中国细糠折服的一天",
-          "value": "212015 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%BB%86%E7%B3%A0%E6%8A%98%E6%9C%8D%E7%9A%84%E4%B8%80%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 212015",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A foreigner captivated by China's fine rice flour..."
-          }
-        },
-        {
-          "title": "10. 麻六记的酸辣粉为何卖不动了 [新]",
-          "value": "200980 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BA%BB%E5%85%AD%E8%AE%B0%E7%9A%84%E9%85%B8%E8%BE%A3%E7%B2%89%E4%B8%BA%E4%BD%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 200980",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Why is Maliuji's sour and spicy noodles not selling well?"
           }
         }
       ]
