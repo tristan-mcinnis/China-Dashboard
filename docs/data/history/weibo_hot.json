@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-17T18:37:54+08:00",
+  "generated_at": "2026-01-17T22:07:47+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-17T22:07:47+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 男子从喉咙痛到进ICU只用1小时",
+          "value": "1164309 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E4%BB%8E%E5%96%89%E5%92%99%E7%97%9B%E5%88%B0%E8%BF%9BICU%E5%8F%AA%E7%94%A81%E5%B0%8F%E6%97%B6&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1164309",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Man's throat pain leads to ICU in just 1 hour..."
+          }
+        },
+        {
+          "title": "2. 我是证人 [新]",
+          "value": "电影 867343 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E6%98%AF%E8%AF%81%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "电影 867343",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "I am a witness..."
+          }
+        },
+        {
+          "title": "3. 14亿多人用电自由是怎么做到的",
+          "value": "694408 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D14%E4%BA%BF%E5%A4%9A%E4%BA%BA%E7%94%A8%E7%94%B5%E8%87%AA%E7%94%B1%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 694408",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "How did over 1.4 billion people achieve electricity freedom?"
+          }
+        },
+        {
+          "title": "4. 0118周杰伦送双重福利 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D0118%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%80%81%E5%8F%8C%E9%87%8D%E7%A6%8F%E5%88%A9&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Jay Chou offers double benefits on January 18..."
+          }
+        },
+        {
+          "title": "5. 王鹤棣演唱会",
+          "value": "演出 545625 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "演出 545625",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Hedi's concert..."
+          }
+        },
+        {
+          "title": "6. 家中凌晨进贼女子全程装睡 [火热]",
+          "value": "310587 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%B6%E4%B8%AD%E5%87%8C%E6%99%A8%E8%BF%9B%E8%B4%BC%E5%A5%B3%E5%AD%90%E5%85%A8%E7%A8%8B%E8%A3%85%E7%9D%A1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 310587",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "A woman pretended to sleep while a thief entered her..."
+          }
+        },
+        {
+          "title": "7. 毕业11年存350万的5个消费习惯",
+          "value": "292692 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%95%E4%B8%9A11%E5%B9%B4%E5%AD%98350%E4%B8%87%E7%9A%845%E4%B8%AA%E6%B6%88%E8%B4%B9%E4%B9%A0%E6%83%AF&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 292692",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Five spending habits that saved 3.5 million in 11 years..."
+          }
+        },
+        {
+          "title": "8. 王鹤棣2026DPARTY演唱会 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%B9%A4%E6%A3%A32026DPARTY%E6%BC%94%E5%94%B1%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Wang Hedi 2026 DPARTY concert"
+          }
+        },
+        {
+          "title": "9. U23国足vs乌兹别克斯坦",
+          "value": "243547 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DU23%E5%9B%BD%E8%B6%B3vs%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 243547",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "U23 National Team vs Uzbekistan"
+          }
+        },
+        {
+          "title": "10. 春晚",
+          "value": "晚会 241546 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "晚会 241546",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-17T18:37:54+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Artists attending the annual TV drama awards..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-11T22:07:52+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 国乒无缘多哈冠军赛男单决赛",
-          "value": "1110191 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%A4%9A%E5%93%88%E5%86%A0%E5%86%9B%E8%B5%9B%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1110191",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese table tennis misses men's singles final in Doha..."
-          }
-        },
-        {
-          "title": "2. 烟台暴雪下冒烟了 [新]",
-          "value": "786253 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%83%9F%E5%8F%B0%E6%9A%B4%E9%9B%AA%E4%B8%8B%E5%86%92%E7%83%9F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 786253",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Yantai's heavy snow is causing smoke to rise..."
-          }
-        },
-        {
-          "title": "3. 中国农民种地科技感拉满",
-          "value": "633405 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 633405",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese farmers are fully embracing agricultural..."
-          }
-        },
-        {
-          "title": "4. 赵丽颖台词 [新]",
-          "value": "剧集 410759 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%B0%E8%AF%8D&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "剧集 410759",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Zhao Liying's lines..."
-          }
-        },
-        {
-          "title": "5. 车厘子几个J一下看明白了",
-          "value": "336140 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%E5%87%A0%E4%B8%AAJ%E4%B8%80%E4%B8%8B%E7%9C%8B%E6%98%8E%E7%99%BD%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 336140",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "I understood a few things about cherries..."
-          }
-        },
-        {
-          "title": "6. 林诗栋已连续11个月男单无冠",
-          "value": "332746 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E8%AF%97%E6%A0%8B%E5%B7%B2%E8%BF%9E%E7%BB%AD11%E4%B8%AA%E6%9C%88%E7%94%B7%E5%8D%95%E6%97%A0%E5%86%A0&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 332746",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Lin Shidong has gone 11 months without a men's singles..."
-          }
-        },
-        {
-          "title": "7. 轧戏剧组道歉",
-          "value": "剧集 290154 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A7%E6%88%8F%E5%89%A7%E7%BB%84%E9%81%93%E6%AD%89&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 290154",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The drama crew apologizes..."
-          }
-        },
-        {
-          "title": "8. 家长背婴儿跑步致其脑袋剧烈摇晃",
-          "value": "283620 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%B6%E9%95%BF%E8%83%8C%E5%A9%B4%E5%84%BF%E8%B7%91%E6%AD%A5%E8%87%B4%E5%85%B6%E8%84%91%E8%A2%8B%E5%89%A7%E7%83%88%E6%91%87%E6%99%83&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 283620",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Parents running with a baby causes severe head shaking..."
-          }
-        },
-        {
-          "title": "9. 小城大事",
-          "value": "剧集 281347 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 281347",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Big events in a small town..."
-          }
-        },
-        {
-          "title": "10. 唐仁健生日成收割老板的盛会 [新]",
-          "value": "254545 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%94%90%E4%BB%81%E5%81%A5%E7%94%9F%E6%97%A5%E6%88%90%E6%94%B6%E5%89%B2%E8%80%81%E6%9D%BF%E7%9A%84%E7%9B%9B%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 254545",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Tang Rinjian's birthday becomes a grand harvest..."
           }
         }
       ]
