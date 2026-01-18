@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-01-18T06:03:59+08:00",
+  "generated_at": "2026-01-18T11:13:16+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-18T11:13:16+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 全面深入了解真实立体的中国",
+          "value": "指数 7904422",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E7%9C%9F%E5%AE%9E%E7%AB%8B%E4%BD%93%E7%9A%84%E4%B8%AD%E5%9B%BD",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904422",
+            "api_source": "tianapi",
+            "translation": "A comprehensive and in-depth understanding of real China..."
+          }
+        },
+        {
+          "title": "2. 央视曝光“串珠兼职”骗局",
+          "value": "指数 7809587",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E2%80%9C%E4%B8%B2%E7%8F%A0%E5%85%BC%E8%81%8C%E2%80%9D%E9%AA%97%E5%B1%80",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809587",
+            "api_source": "tianapi",
+            "translation": "CCTV exposes \"bead兼职\" scam..."
+          }
+        },
+        {
+          "title": "3. 因涨薪20元致歉公司已连续37年涨薪",
+          "value": "指数 7713857",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9B%A0%E6%B6%A8%E8%96%AA20%E5%85%83%E8%87%B4%E6%AD%89%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%BF%9E%E7%BB%AD37%E5%B9%B4%E6%B6%A8%E8%96%AA",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713857",
+            "api_source": "tianapi",
+            "translation": "Apologizing for a 20 yuan raise after 37 years of..."
+          }
+        },
+        {
+          "title": "4. 具身智能赛道 这些年轻人站上风口",
+          "value": "指数 7617237",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E8%B5%9B%E9%81%93+%E8%BF%99%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%AB%99%E4%B8%8A%E9%A3%8E%E5%8F%A3",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617237",
+            "api_source": "tianapi",
+            "translation": "Embodied intelligence track: these young people seize..."
+          }
+        },
+        {
+          "title": "5. 在义乌连失误都可能成为商机",
+          "value": "指数 7521674",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9C%A8%E4%B9%89%E4%B9%8C%E8%BF%9E%E5%A4%B1%E8%AF%AF%E9%83%BD%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E5%95%86%E6%9C%BA",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7521674",
+            "api_source": "tianapi",
+            "translation": "In Yiwu, even mistakes can turn into business..."
+          }
+        },
+        {
+          "title": "6. 北京此次降雪为何雪花这么大",
+          "value": "指数 7424465",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8C%97%E4%BA%AC%E6%AD%A4%E6%AC%A1%E9%99%8D%E9%9B%AA%E4%B8%BA%E4%BD%95%E9%9B%AA%E8%8A%B1%E8%BF%99%E4%B9%88%E5%A4%A7",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7424465",
+            "api_source": "tianapi",
+            "translation": "Why is the snowfall in Beijing so heavy this time?"
+          }
+        },
+        {
+          "title": "7. 雪后颐和园 这美景怎能错过",
+          "value": "指数 7330698",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%9B%AA%E5%90%8E%E9%A2%90%E5%92%8C%E5%9B%AD+%E8%BF%99%E7%BE%8E%E6%99%AF%E6%80%8E%E8%83%BD%E9%94%99%E8%BF%87",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7330698",
+            "api_source": "tianapi",
+            "translation": "The beauty of the Summer Palace after snow is unmissable..."
+          }
+        },
+        {
+          "title": "8. 送别“棋圣”聂卫平",
+          "value": "指数 7235550",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%80%81%E5%88%AB%E2%80%9C%E6%A3%8B%E5%9C%A3%E2%80%9D%E8%81%82%E5%8D%AB%E5%B9%B3",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7235550",
+            "api_source": "tianapi",
+            "translation": "Farewell to the \"Go Sage\" Nie Weiping..."
+          }
+        },
+        {
+          "title": "9. 美因格陵兰岛对欧洲8国加税 多国回应",
+          "value": "指数 7139344",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E+%E5%A4%9A%E5%9B%BD%E5%9B%9E%E5%BA%94",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7139344",
+            "api_source": "tianapi",
+            "translation": "Greenland raises taxes on 8 European countries; multiple..."
+          }
+        },
+        {
+          "title": "10. 以色列总理公开叫板美国",
+          "value": "指数 7044038",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%E7%BE%8E%E5%9B%BD",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7044038",
+            "api_source": "tianapi",
+            "translation": "Israeli Prime Minister openly challenges the U.S...."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-18T06:03:59+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7039580",
             "api_source": "tianapi",
             "translation": "The body flaws you think you have might be a genetic..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-12T11:13:31+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 《一步不停歇 半步不退让》播出",
-          "value": "指数 7904851",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E3%80%8A%E4%B8%80%E6%AD%A5%E4%B8%8D%E5%81%9C%E6%AD%87+%E5%8D%8A%E6%AD%A5%E4%B8%8D%E9%80%80%E8%AE%A9%E3%80%8B%E6%92%AD%E5%87%BA",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904851",
-            "api_source": "tianapi",
-            "translation": "\"Step Forward Without Stopping, Retreating Not an..."
-          }
-        },
-        {
-          "title": "2. 杀害刘胡兰真凶曾观看歌剧《刘胡兰》",
-          "value": "指数 7807921",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9D%80%E5%AE%B3%E5%88%98%E8%83%A1%E5%85%B0%E7%9C%9F%E5%87%B6%E6%9B%BE%E8%A7%82%E7%9C%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E5%88%98%E8%83%A1%E5%85%B0%E3%80%8B",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7807921",
-            "api_source": "tianapi",
-            "translation": "The true murderer of Liu Hulan watched the opera \"Liu..."
-          }
-        },
-        {
-          "title": "3. 冰雪天绿皮火车等待3名旅客慢慢上车",
-          "value": "指数 7713030",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%86%B0%E9%9B%AA%E5%A4%A9%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E7%AD%89%E5%BE%853%E5%90%8D%E6%97%85%E5%AE%A2%E6%85%A2%E6%85%A2%E4%B8%8A%E8%BD%A6",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713030",
-            "api_source": "tianapi",
-            "translation": "In the snowy weather, the green train waits for three..."
-          }
-        },
-        {
-          "title": "4. “个人医保云”建设试点启动",
-          "value": "指数 7618857",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E4%B8%AA%E4%BA%BA%E5%8C%BB%E4%BF%9D%E4%BA%91%E2%80%9D%E5%BB%BA%E8%AE%BE%E8%AF%95%E7%82%B9%E5%90%AF%E5%8A%A8",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618857",
-            "api_source": "tianapi",
-            "translation": "Pilot launch of \"Personal Health Insurance Cloud\" project..."
-          }
-        },
-        {
-          "title": "5. 不会杀猪网上求助 上千人驱车来帮忙",
-          "value": "指数 7519989",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%8D%E4%BC%9A%E6%9D%80%E7%8C%AA%E7%BD%91%E4%B8%8A%E6%B1%82%E5%8A%A9+%E4%B8%8A%E5%8D%83%E4%BA%BA%E9%A9%B1%E8%BD%A6%E6%9D%A5%E5%B8%AE%E5%BF%99",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7519989",
-            "api_source": "tianapi",
-            "translation": "Thousands drive to help with pig slaughtering request..."
-          }
-        },
-        {
-          "title": "6. 威海特大暴雪为何这么厉害",
-          "value": "指数 7424776",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A8%81%E6%B5%B7%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7424776",
-            "api_source": "tianapi",
-            "translation": "Why was the heavy snowstorm in Weihai so severe?"
-          }
-        },
-        {
-          "title": "7. 美联储主席鲍威尔遭刑事调查",
-          "value": "指数 7333226",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7333226",
-            "api_source": "tianapi",
-            "translation": "Fed Chair Powell under criminal investigation..."
-          }
-        },
-        {
-          "title": "8. 广东的冷要把老外逼疯了",
-          "value": "指数 7233213",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%86%B7%E8%A6%81%E6%8A%8A%E8%80%81%E5%A4%96%E9%80%BC%E7%96%AF%E4%BA%86",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7233213",
-            "api_source": "tianapi",
-            "translation": "The cold in Guangdong is driving foreigners crazy..."
-          }
-        },
-        {
-          "title": "9. 想要膝盖“长寿” 少做这5件事",
-          "value": "指数 7136956",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%83%B3%E8%A6%81%E8%86%9D%E7%9B%96%E2%80%9C%E9%95%BF%E5%AF%BF%E2%80%9D+%E5%B0%91%E5%81%9A%E8%BF%995%E4%BB%B6%E4%BA%8B",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7136956",
-            "api_source": "tianapi",
-            "translation": "Want your knees to last longer? Avoid these 5 things..."
-          }
-        },
-        {
-          "title": "10. 蒸饺子烧光房子 饺子一点没糊",
-          "value": "指数 7048126",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%92%B8%E9%A5%BA%E5%AD%90%E7%83%A7%E5%85%89%E6%88%BF%E5%AD%90+%E9%A5%BA%E5%AD%90%E4%B8%80%E7%82%B9%E6%B2%A1%E7%B3%8A",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7048126",
-            "api_source": "tianapi",
-            "translation": "Steamed dumplings burned the house down, but they’re fine..."
           }
         }
       ]

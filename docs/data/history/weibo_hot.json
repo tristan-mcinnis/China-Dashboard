@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-18T06:03:50+08:00",
+  "generated_at": "2026-01-18T11:13:08+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-18T11:13:08+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 北京鹅毛大雪",
+          "value": "1128777 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1128777",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Beijing's heavy snowfall..."
+          }
+        },
+        {
+          "title": "2. 大叔卖6元四寸蛋糕日收入几百元",
+          "value": "817203 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%8F%94%E5%8D%966%E5%85%83%E5%9B%9B%E5%AF%B8%E8%9B%8B%E7%B3%95%E6%97%A5%E6%94%B6%E5%85%A5%E5%87%A0%E7%99%BE%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 817203",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The uncle sells 4-inch cakes for 6 yuan, earning..."
+          }
+        },
+        {
+          "title": "3. 12306旅客误购限时免费退票",
+          "value": "789973 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D12306%E6%97%85%E5%AE%A2%E8%AF%AF%E8%B4%AD%E9%99%90%E6%97%B6%E5%85%8D%E8%B4%B9%E9%80%80%E7%A5%A8&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 789973",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "12306 passengers can get a limited-time free refund..."
+          }
+        },
+        {
+          "title": "4. 买水果发现异常提醒店员后不放心",
+          "value": "781232 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%B0%E6%B0%B4%E6%9E%9C%E5%8F%91%E7%8E%B0%E5%BC%82%E5%B8%B8%E6%8F%90%E9%86%92%E5%BA%97%E5%91%98%E5%90%8E%E4%B8%8D%E6%94%BE%E5%BF%83&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 781232",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Not at ease after notifying staff about fruit issues..."
+          }
+        },
+        {
+          "title": "5. 王安宇没参加春晚联排",
+          "value": "晚会 678491 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%AE%89%E5%AE%87%E6%B2%A1%E5%8F%82%E5%8A%A0%E6%98%A5%E6%99%9A%E8%81%94%E6%8E%92&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "晚会 678491",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Anyu did not attend the Spring Festival gala..."
+          }
+        },
+        {
+          "title": "6. 法院应避免公开处刑闹剧重演 [新]",
+          "value": "319786 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%95%E9%99%A2%E5%BA%94%E9%81%BF%E5%85%8D%E5%85%AC%E5%BC%80%E5%A4%84%E5%88%91%E9%97%B9%E5%89%A7%E9%87%8D%E6%BC%94&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 319786",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The court should avoid a repeat of public execution farce..."
+          }
+        },
+        {
+          "title": "7. 白鹿李昀锐田曦薇宋威龙 春晚合唱",
+          "value": "晚会 278157 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%E6%9D%8E%E6%98%80%E9%94%90%E7%94%B0%E6%9B%A6%E8%96%87%E5%AE%8B%E5%A8%81%E9%BE%99%20%E6%98%A5%E6%99%9A%E5%90%88%E5%94%B1&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "晚会 278157",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Bai Lu, Li Yunrui, Tian Xiwei, Song Weilong sing at..."
+          }
+        },
+        {
+          "title": "8. 喜人 春晚 [热]",
+          "value": "晚会 277783 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%96%9C%E4%BA%BA%20%E6%98%A5%E6%99%9A&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "晚会 277783",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Joyful Spring Festival Gala..."
+          }
+        },
+        {
+          "title": "9. 短剧之后漫剧火了",
+          "value": "236525 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9F%AD%E5%89%A7%E4%B9%8B%E5%90%8E%E6%BC%AB%E5%89%A7%E7%81%AB%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 236525",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "After short dramas, long dramas became popular..."
+          }
+        },
+        {
+          "title": "10. 韩国围棋界代表曹薰铉送别聂卫平 [新]",
+          "value": "137094 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%9B%BD%E5%9B%B4%E6%A3%8B%E7%95%8C%E4%BB%A3%E8%A1%A8%E6%9B%B9%E8%96%B0%E9%93%89%E9%80%81%E5%88%AB%E8%81%82%E5%8D%AB%E5%B9%B3&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 137094",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Korean Go representative Cao Xunxuan bids farewell to..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-18T06:03:50+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Social security staff embezzled pensions; many..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-12T11:13:22+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 云初令",
-          "value": "剧集 1070877 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%91%E5%88%9D%E4%BB%A4&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "剧集 1070877",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Cloud's Initial Command..."
-          }
-        },
-        {
-          "title": "2. 贪官称世界真奇妙退休才知道 [新]",
-          "value": "755369 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%AA%E5%AE%98%E7%A7%B0%E4%B8%96%E7%95%8C%E7%9C%9F%E5%A5%87%E5%A6%99%E9%80%80%E4%BC%91%E6%89%8D%E7%9F%A5%E9%81%93&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 755369",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Corrupt officials say the world is truly wonderful after..."
-          }
-        },
-        {
-          "title": "3. 中国农民种地科技感拉满",
-          "value": "619379 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 619379",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese farmers are fully embracing agricultural..."
-          }
-        },
-        {
-          "title": "4. 云初令海报",
-          "value": "剧集 222846 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%91%E5%88%9D%E4%BB%A4%E6%B5%B7%E6%8A%A5&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "剧集 222846",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Poster for \"Yun Chu Ling\"..."
-          }
-        },
-        {
-          "title": "5. 江苏省考成绩",
-          "value": "196381 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 196381",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Jiangsu Province exam results..."
-          }
-        },
-        {
-          "title": "6. 那英 亲儿子不可能有一点瑕疵 [新]",
-          "value": "综艺 186423 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%82%A3%E8%8B%B1%20%E4%BA%B2%E5%84%BF%E5%AD%90%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E4%B8%80%E7%82%B9%E7%91%95%E7%96%B5&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "综艺 186423",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Na Ying's biological son can't have any flaws..."
-          }
-        },
-        {
-          "title": "7. 解困失眠夜松下五感开麦",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E5%9B%B0%E5%A4%B1%E7%9C%A0%E5%A4%9C%E6%9D%BE%E4%B8%8B%E4%BA%94%E6%84%9F%E5%BC%80%E9%BA%A6&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Relieving insomnia, opening the senses under the pine..."
-          }
-        },
-        {
-          "title": "8. 左眼跳财右眼跳相信科学",
-          "value": "180403 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A6%E7%9C%BC%E8%B7%B3%E8%B4%A2%E5%8F%B3%E7%9C%BC%E8%B7%B3%E7%9B%B8%E4%BF%A1%E7%A7%91%E5%AD%A6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 180403",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Left eye twitches for wealth, right eye for believing in..."
-          }
-        },
-        {
-          "title": "9. A股",
-          "value": "174297 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DA%E8%82%A1&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 174297",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A-shares"
-          }
-        },
-        {
-          "title": "10. 烟台暴雪下冒烟了 [新]",
-          "value": "169871 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%83%9F%E5%8F%B0%E6%9A%B4%E9%9B%AA%E4%B8%8B%E5%86%92%E7%83%9F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 169871",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Yantai's heavy snow is causing smoke to rise..."
           }
         }
       ]
