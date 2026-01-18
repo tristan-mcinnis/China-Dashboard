@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-18T14:01:31+08:00",
+  "generated_at": "2026-01-18T18:38:03+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-18T18:38:03+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 内蒙古包头一厂区发生爆炸",
+          "value": "2153573 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E4%B8%80%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 2153573",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "An explosion occurred at a factory in Baotou, Inner..."
+          }
+        },
+        {
+          "title": "2. 骄阳似我庆功宴",
+          "value": "剧集 1530218 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E5%BA%86%E5%8A%9F%E5%AE%B4&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "剧集 1530218",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A celebration feast under the blazing sun..."
+          }
+        },
+        {
+          "title": "3. 2026春运火车票明天开售",
+          "value": "1264568 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%98%8E%E5%A4%A9%E5%BC%80%E5%94%AE&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1264568",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2026 Spring Festival train tickets go on sale tomorrow..."
+          }
+        },
+        {
+          "title": "4. 孙怡 我的朋友董子健",
+          "value": "电影 9216640 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E6%80%A1%20%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%91%A3%E5%AD%90%E5%81%A5&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "电影 9216640",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Sun Yi, my friend Dong Zijian..."
+          }
+        },
+        {
+          "title": "5. 6元4寸蛋糕店因订单太多暂停营业",
+          "value": "886389 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D6%E5%85%834%E5%AF%B8%E8%9B%8B%E7%B3%95%E5%BA%97%E5%9B%A0%E8%AE%A2%E5%8D%95%E5%A4%AA%E5%A4%9A%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 886389",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "6 Yuan 4-inch cake shop suspends business due to high..."
+          }
+        },
+        {
+          "title": "6. 梁小龙去世 [爆]",
+          "value": "872414 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%81%E5%B0%8F%E9%BE%99%E5%8E%BB%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 872414",
+            "tag": "爆",
+            "api_source": "tianapi",
+            "translation": "Liang Xiaolong has passed away..."
+          }
+        },
+        {
+          "title": "7. 临榆炸鸡腿 十天吃了八十个腿",
+          "value": "679257 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%B4%E6%A6%86%E7%82%B8%E9%B8%A1%E8%85%BF%20%E5%8D%81%E5%A4%A9%E5%90%83%E4%BA%86%E5%85%AB%E5%8D%81%E4%B8%AA%E8%85%BF&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 679257",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ate eighty chicken legs in ten days at Linyu..."
+          }
+        },
+        {
+          "title": "8. 刘文祥麻辣拌 点单配方 [新]",
+          "value": "357745 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E6%8B%8C%20%E7%82%B9%E5%8D%95%E9%85%8D%E6%96%B9&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 357745",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Liu Wenxiang's Spicy Mix Order Recipe..."
+          }
+        },
+        {
+          "title": "9. 年轻人开始拒绝升职了",
+          "value": "343951 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%8B%92%E7%BB%9D%E5%8D%87%E8%81%8C%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 343951",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Young people are starting to refuse promotions..."
+          }
+        },
+        {
+          "title": "10. 12306购票页面出现雪字 [热]",
+          "value": "342693 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D12306%E8%B4%AD%E7%A5%A8%E9%A1%B5%E9%9D%A2%E5%87%BA%E7%8E%B0%E9%9B%AA%E5%AD%97&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 342693",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "The 12306 ticketing page shows the character for snow..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-18T14:01:31+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "47-year-old woman fired for making milk tea at work..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-12T18:41:51+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 杀猪来了上千网友做清洁只剩妈妈一人",
-          "value": "1130749 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%80%E7%8C%AA%E6%9D%A5%E4%BA%86%E4%B8%8A%E5%8D%83%E7%BD%91%E5%8F%8B%E5%81%9A%E6%B8%85%E6%B4%81%E5%8F%AA%E5%89%A9%E5%A6%88%E5%A6%88%E4%B8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1130749",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Thousands joined to clean, leaving only mom behind..."
-          }
-        },
-        {
-          "title": "2. 韩国空难失事前75秒黑匣子录音 [新]",
-          "value": "827207 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E5%A4%B1%E4%BA%8B%E5%89%8D75%E7%A7%92%E9%BB%91%E5%8C%A3%E5%AD%90%E5%BD%95%E9%9F%B3&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 827207",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Korean air disaster black box recording 75 seconds..."
-          }
-        },
-        {
-          "title": "3. 青年回村让家乡变得很酷",
-          "value": "668147 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%92%E5%B9%B4%E5%9B%9E%E6%9D%91%E8%AE%A9%E5%AE%B6%E4%B9%A1%E5%8F%98%E5%BE%97%E5%BE%88%E9%85%B7&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 668147",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Young people return to their hometown, making it cool..."
-          }
-        },
-        {
-          "title": "4. 新年送家人就选波司登",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E5%B9%B4%E9%80%81%E5%AE%B6%E4%BA%BA%E5%B0%B1%E9%80%89%E6%B3%A2%E5%8F%B8%E7%99%BB&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Choose Bosideng for New Year gifts for family..."
-          }
-        },
-        {
-          "title": "5. 韩国空难黑匣子录音首次公开",
-          "value": "545632 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E9%BB%91%E5%8C%A3%E5%AD%90%E5%BD%95%E9%9F%B3%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 545632",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Korean air disaster black box recordings released for..."
-          }
-        },
-        {
-          "title": "6. 秦志戬担任国乒总教练 [上新]",
-          "value": "417097 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A7%A6%E5%BF%97%E6%88%AC%E6%8B%85%E4%BB%BB%E5%9B%BD%E4%B9%92%E6%80%BB%E6%95%99%E7%BB%83&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 417097",
-            "tag": "上新",
-            "api_source": "tianapi",
-            "translation": "Qin Zhijian appointed head coach of the national table..."
-          }
-        },
-        {
-          "title": "7. 微信通知显示头像",
-          "value": "392659 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E9%80%9A%E7%9F%A5%E6%98%BE%E7%A4%BA%E5%A4%B4%E5%83%8F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 392659",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "WeChat notifications display profile pictures..."
-          }
-        },
-        {
-          "title": "8. fino芬浓常红常银常华森",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dfino%E8%8A%AC%E6%B5%93%E5%B8%B8%E7%BA%A2%E5%B8%B8%E9%93%B6%E5%B8%B8%E5%8D%8E%E6%A3%AE&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Fino: always red, always silver, always splendid..."
-          }
-        },
-        {
-          "title": "9. 爱喝奶茶的人天塌了",
-          "value": "379355 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%96%9D%E5%A5%B6%E8%8C%B6%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 379355",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tea lovers are devastated..."
-          }
-        },
-        {
-          "title": "10. 肖战担任国乒副总教练",
-          "value": "351899 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E6%8B%85%E4%BB%BB%E5%9B%BD%E4%B9%92%E5%89%AF%E6%80%BB%E6%95%99%E7%BB%83&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 351899",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Xiao Zhan appointed as vice head coach of national table..."
           }
         }
       ]
