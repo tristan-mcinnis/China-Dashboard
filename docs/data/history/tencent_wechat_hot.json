@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-01-18T22:07:41+08:00",
+  "generated_at": "2026-01-19T06:04:00+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-19T06:04:00+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 人民城市为人民",
+          "value": "指数 7904431",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E4%B8%BA%E4%BA%BA%E6%B0%91",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904431",
+            "api_source": "tianapi",
+            "translation": "A city for the people, by the people..."
+          }
+        },
+        {
+          "title": "2. 短剧淋雨婴儿片酬仅800元",
+          "value": "指数 7809273",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%9F%AD%E5%89%A7%E6%B7%8B%E9%9B%A8%E5%A9%B4%E5%84%BF%E7%89%87%E9%85%AC%E4%BB%85800%E5%85%83",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809273",
+            "api_source": "tianapi",
+            "translation": "Short play with a rain scene pays baby only 800 yuan..."
+          }
+        },
+        {
+          "title": "3. 梁小龙账号发告别信：原谅我不辞而别",
+          "value": "指数 7713390",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%A2%81%E5%B0%8F%E9%BE%99%E8%B4%A6%E5%8F%B7%E5%8F%91%E5%91%8A%E5%88%AB%E4%BF%A1%EF%BC%9A%E5%8E%9F%E8%B0%85%E6%88%91%E4%B8%8D%E8%BE%9E%E8%80%8C%E5%88%AB",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713390",
+            "api_source": "tianapi",
+            "translation": "Liang Xiaolong's account posts farewell letter: Forgive..."
+          }
+        },
+        {
+          "title": "4. 中国汽车业拿下两个连续全球第一",
+          "value": "指数 7615978",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7615978",
+            "api_source": "tianapi",
+            "translation": "China's auto industry secures two consecutive global..."
+          }
+        },
+        {
+          "title": "5. 男子一生病就吃抗生素生出超级细菌",
+          "value": "指数 7519960",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B7%E5%AD%90%E4%B8%80%E7%94%9F%E7%97%85%E5%B0%B1%E5%90%83%E6%8A%97%E7%94%9F%E7%B4%A0%E7%94%9F%E5%87%BA%E8%B6%85%E7%BA%A7%E7%BB%86%E8%8F%8C",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7519960",
+            "api_source": "tianapi",
+            "translation": "Man develops superbugs from constant antibiotic use..."
+          }
+        },
+        {
+          "title": "6. 青岛虎界“刘亦菲”小孬火出圈了",
+          "value": "指数 7424057",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B2%9B%E8%99%8E%E7%95%8C%E2%80%9C%E5%88%98%E4%BA%A6%E8%8F%B2%E2%80%9D%E5%B0%8F%E5%AD%AC%E7%81%AB%E5%87%BA%E5%9C%88%E4%BA%86",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7424057",
+            "api_source": "tianapi",
+            "translation": "Qingdao's \"Liu Yifei\" from Tiger World goes viral..."
+          }
+        },
+        {
+          "title": "7. 6人就餐仅花19元老板要求带走垃圾",
+          "value": "指数 7331312",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=6%E4%BA%BA%E5%B0%B1%E9%A4%90%E4%BB%85%E8%8A%B119%E5%85%83%E8%80%81%E6%9D%BF%E8%A6%81%E6%B1%82%E5%B8%A6%E8%B5%B0%E5%9E%83%E5%9C%BE",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7331312",
+            "api_source": "tianapi",
+            "translation": "Six people dined for only 19 yuan; the boss asked to..."
+          }
+        },
+        {
+          "title": "8. 朱雨玲逆转击败佐藤瞳夺女单冠军",
+          "value": "指数 7232224",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9C%B1%E9%9B%A8%E7%8E%B2%E9%80%86%E8%BD%AC%E5%87%BB%E8%B4%A5%E4%BD%90%E8%97%A4%E7%9E%B3%E5%A4%BA%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7232224",
+            "api_source": "tianapi",
+            "translation": "Zhu Yuling defeats Sato Hitomi to win women's singles..."
+          }
+        },
+        {
+          "title": "9. 5名外卖员将手指砸骨折骗保32万",
+          "value": "指数 7142647",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=5%E5%90%8D%E5%A4%96%E5%8D%96%E5%91%98%E5%B0%86%E6%89%8B%E6%8C%87%E7%A0%B8%E9%AA%A8%E6%8A%98%E9%AA%97%E4%BF%9D32%E4%B8%87",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7142647",
+            "api_source": "tianapi",
+            "translation": "Five delivery workers faked injuries to defraud 320,000..."
+          }
+        },
+        {
+          "title": "10. “火云邪神”扮演者梁小龙离世",
+          "value": "指数 7039995",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E7%81%AB%E4%BA%91%E9%82%AA%E7%A5%9E%E2%80%9D%E6%89%AE%E6%BC%94%E8%80%85%E6%A2%81%E5%B0%8F%E9%BE%99%E7%A6%BB%E4%B8%96",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7039995",
+            "api_source": "tianapi",
+            "translation": "Actor Leung Siu-lung, known for \"Fire Cloud Evil God,\"..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-18T22:07:41+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7041249",
             "api_source": "tianapi",
             "translation": "Zhang Wenhong: Refuses to integrate AI into hospital..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-13T06:04:30+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 以更高标准更实举措推进从严治党",
-          "value": "指数 7904323",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BB%A5%E6%9B%B4%E9%AB%98%E6%A0%87%E5%87%86%E6%9B%B4%E5%AE%9E%E4%B8%BE%E6%8E%AA%E6%8E%A8%E8%BF%9B%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904323",
-            "api_source": "tianapi",
-            "translation": "Advance strict party governance with higher standards..."
-          }
-        },
-        {
-          "title": "2. 湖北省委原书记蒋超良将出镜忏悔",
-          "value": "指数 7809335",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E8%92%8B%E8%B6%85%E8%89%AF%E5%B0%86%E5%87%BA%E9%95%9C%E5%BF%8F%E6%82%94",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7809335",
-            "api_source": "tianapi",
-            "translation": "Former Hubei Party Secretary Jiang Chaoliang to confess..."
-          }
-        },
-        {
-          "title": "3. 超6成中国人下一辆车预算30万元以上",
-          "value": "指数 7712269",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%B6%856%E6%88%90%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8B%E4%B8%80%E8%BE%86%E8%BD%A6%E9%A2%84%E7%AE%9730%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8A",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7712269",
-            "api_source": "tianapi",
-            "translation": "Over 60% of Chinese plan to spend over 300,000 yuan on..."
-          }
-        },
-        {
-          "title": "4. 推进乡村全面振兴",
-          "value": "指数 7617424",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%8E%A8%E8%BF%9B%E4%B9%A1%E6%9D%91%E5%85%A8%E9%9D%A2%E6%8C%AF%E5%85%B4",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7617424",
-            "api_source": "tianapi",
-            "translation": "Promoting comprehensive rural revitalization..."
-          }
-        },
-        {
-          "title": "5. 张文宏：拒绝把AI引入医院病历系统",
-          "value": "指数 7519909",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7519909",
-            "api_source": "tianapi",
-            "translation": "Zhang Wenhong: Refuses to introduce AI into hospital..."
-          }
-        },
-        {
-          "title": "6. 饭店推出“水泥麻辣烫”",
-          "value": "指数 7428531",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%A5%AD%E5%BA%97%E6%8E%A8%E5%87%BA%E2%80%9C%E6%B0%B4%E6%B3%A5%E9%BA%BB%E8%BE%A3%E7%83%AB%E2%80%9D",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7428531",
-            "api_source": "tianapi",
-            "translation": "Restaurant launches \"Cement Spicy Hot Pot\"..."
-          }
-        },
-        {
-          "title": "7. 羽绒服不再只是“波司登”了",
-          "value": "指数 7333339",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E2%80%9C%E6%B3%A2%E5%8F%B8%E7%99%BB%E2%80%9D%E4%BA%86",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7333339",
-            "api_source": "tianapi",
-            "translation": "Down jackets are no longer just \"Bosideng\"..."
-          }
-        },
-        {
-          "title": "8. 手握40万却买不到满意的豪华电车",
-          "value": "指数 7232146",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%89%8B%E6%8F%A140%E4%B8%87%E5%8D%B4%E4%B9%B0%E4%B8%8D%E5%88%B0%E6%BB%A1%E6%84%8F%E7%9A%84%E8%B1%AA%E5%8D%8E%E7%94%B5%E8%BD%A6",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7232146",
-            "api_source": "tianapi",
-            "translation": "Holding 400,000 yet can't buy a satisfactory luxury EV..."
-          }
-        },
-        {
-          "title": "9. 湖南女子也邀网友帮杀猪 6个群爆满",
-          "value": "指数 7135936",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B9%96%E5%8D%97%E5%A5%B3%E5%AD%90%E4%B9%9F%E9%82%80%E7%BD%91%E5%8F%8B%E5%B8%AE%E6%9D%80%E7%8C%AA+6%E4%B8%AA%E7%BE%A4%E7%88%86%E6%BB%A1",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7135936",
-            "api_source": "tianapi",
-            "translation": "Hunan woman invites netizens to help with pig..."
-          }
-        },
-        {
-          "title": "10. 日本第一代“不婚族”开始后悔了",
-          "value": "指数 7045255",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7045255",
-            "api_source": "tianapi",
-            "translation": "Japan's first generation of \"unmarried\" regrets their..."
           }
         }
       ]
