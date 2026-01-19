@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-01-19T06:04:00+08:00",
+  "generated_at": "2026-01-19T11:13:40+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-19T11:13:40+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 人民城市为人民",
+          "value": "指数 7904895",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E4%B8%BA%E4%BA%BA%E6%B0%91",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904895",
+            "api_source": "tianapi",
+            "translation": "A city for the people, by the people..."
+          }
+        },
+        {
+          "title": "2. 2025年中国GDP同比增长5%",
+          "value": "指数 7808434",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=2025%E5%B9%B4%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5%25",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808434",
+            "api_source": "tianapi",
+            "translation": "China's GDP is expected to grow by 5% in 2025..."
+          }
+        },
+        {
+          "title": "3. 1公斤200元 “再也不敢叫破铜烂铁”",
+          "value": "指数 7713850",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=1%E5%85%AC%E6%96%A4200%E5%85%83+%E2%80%9C%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%8F%AB%E7%A0%B4%E9%93%9C%E7%83%82%E9%93%81%E2%80%9D",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713850",
+            "api_source": "tianapi",
+            "translation": "1 kilogram for 200 yuan, \"never dare to call it scrap..."
+          }
+        },
+        {
+          "title": "4. 中国汽车业拿下两个连续全球第一",
+          "value": "指数 7617846",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617846",
+            "api_source": "tianapi",
+            "translation": "China's auto industry achieves two consecutive global..."
+          }
+        },
+        {
+          "title": "5. 骂人也违法了 最高可判三年",
+          "value": "指数 7520867",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%AA%82%E4%BA%BA%E4%B9%9F%E8%BF%9D%E6%B3%95%E4%BA%86+%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E4%B8%89%E5%B9%B4",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7520867",
+            "api_source": "tianapi",
+            "translation": "Insulting others is also illegal, with a maximum..."
+          }
+        },
+        {
+          "title": "6. 上海外滩女子占道直播跳舞引公愤",
+          "value": "指数 7427943",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E5%A5%B3%E5%AD%90%E5%8D%A0%E9%81%93%E7%9B%B4%E6%92%AD%E8%B7%B3%E8%88%9E%E5%BC%95%E5%85%AC%E6%84%A4",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7427943",
+            "api_source": "tianapi",
+            "translation": "Women dancing on the Bund in Shanghai sparks public..."
+          }
+        },
+        {
+          "title": "7. 2025年国内生产总值突破140万亿元",
+          "value": "指数 7332508",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=2025%E5%B9%B4%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E7%AA%81%E7%A0%B4140%E4%B8%87%E4%BA%BF%E5%85%83",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7332508",
+            "api_source": "tianapi",
+            "translation": "By 2025, GDP will exceed 140 trillion yuan..."
+          }
+        },
+        {
+          "title": "8. 统计局介绍2025国民经济运行情况",
+          "value": "指数 7237162",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BB%9F%E8%AE%A1%E5%B1%80%E4%BB%8B%E7%BB%8D2025%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%83%85%E5%86%B5",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7237162",
+            "api_source": "tianapi",
+            "translation": "Statistics Bureau introduces 2025 national economic..."
+          }
+        },
+        {
+          "title": "9. 竹子穿透路灯生长引关注",
+          "value": "指数 7138695",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%AB%B9%E5%AD%90%E7%A9%BF%E9%80%8F%E8%B7%AF%E7%81%AF%E7%94%9F%E9%95%BF%E5%BC%95%E5%85%B3%E6%B3%A8",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7138695",
+            "api_source": "tianapi",
+            "translation": "Bamboo growing through streetlight attracts attention..."
+          }
+        },
+        {
+          "title": "10. 包钢板材厂爆炸已致2死8失联84伤",
+          "value": "指数 7039551",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8C%85%E9%92%A2%E6%9D%BF%E6%9D%90%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E6%AD%BB8%E5%A4%B1%E8%81%9484%E4%BC%A4",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7039551",
+            "api_source": "tianapi",
+            "translation": "Explosion at Baosteel plate factory: 2 dead, 8 missing,..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-19T06:04:00+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7046317",
             "api_source": "tianapi",
             "translation": "Can watching too many short videos cause \"brain fog\"?"
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-13T11:07:11+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 以更高标准更实举措推进从严治党",
-          "value": "指数 7904886",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BB%A5%E6%9B%B4%E9%AB%98%E6%A0%87%E5%87%86%E6%9B%B4%E5%AE%9E%E4%B8%BE%E6%8E%AA%E6%8E%A8%E8%BF%9B%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904886",
-            "api_source": "tianapi",
-            "translation": "Advance strict party governance with higher standards..."
-          }
-        },
-        {
-          "title": "2. 4名专家因送餐延误身体不适拒评标",
-          "value": "指数 7807880",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=4%E5%90%8D%E4%B8%93%E5%AE%B6%E5%9B%A0%E9%80%81%E9%A4%90%E5%BB%B6%E8%AF%AF%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E6%8B%92%E8%AF%84%E6%A0%87",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7807880",
-            "api_source": "tianapi",
-            "translation": "Four experts refuse to evaluate due to health issues..."
-          }
-        },
-        {
-          "title": "3. 中国一口气申报20万颗卫星意味着什么",
-          "value": "指数 7713075",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%B3%E6%8A%A520%E4%B8%87%E9%A2%97%E5%8D%AB%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713075",
-            "api_source": "tianapi",
-            "translation": "China's application for 200,000 satellites signifies..."
-          }
-        },
-        {
-          "title": "4. 推进乡村全面振兴",
-          "value": "指数 7616705",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%8E%A8%E8%BF%9B%E4%B9%A1%E6%9D%91%E5%85%A8%E9%9D%A2%E6%8C%AF%E5%85%B4",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7616705",
-            "api_source": "tianapi",
-            "translation": "Promote comprehensive rural revitalization..."
-          }
-        },
-        {
-          "title": "5. 永辉超市效仿胖东来20个月难止连亏",
-          "value": "指数 7523073",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E6%95%88%E4%BB%BF%E8%83%96%E4%B8%9C%E6%9D%A520%E4%B8%AA%E6%9C%88%E9%9A%BE%E6%AD%A2%E8%BF%9E%E4%BA%8F",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7523073",
-            "api_source": "tianapi",
-            "translation": "Yonghui Supermarket mimics Pang Donglai, struggles with..."
-          }
-        },
-        {
-          "title": "6. 8所新大学要来了",
-          "value": "指数 7424751",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=8%E6%89%80%E6%96%B0%E5%A4%A7%E5%AD%A6%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7424751",
-            "api_source": "tianapi",
-            "translation": "Eight new universities are on the way..."
-          }
-        },
-        {
-          "title": "7. 贪官8万元入股张家界大峡谷",
-          "value": "指数 7332803",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%B4%AA%E5%AE%988%E4%B8%87%E5%85%83%E5%85%A5%E8%82%A1%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%A4%A7%E5%B3%A1%E8%B0%B7",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7332803",
-            "api_source": "tianapi",
-            "translation": "Corrupt official invests 80,000 yuan in Zhangjiajie..."
-          }
-        },
-        {
-          "title": "8. 沪深两市成交额突破2万亿元",
-          "value": "指数 7236784",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E5%85%83",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7236784",
-            "api_source": "tianapi",
-            "translation": "Shanghai and Shenzhen markets' trading volume exceeds 2..."
-          }
-        },
-        {
-          "title": "9. 短视频刷多了会“脑雾”吗",
-          "value": "指数 7142790",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%9F%AD%E8%A7%86%E9%A2%91%E5%88%B7%E5%A4%9A%E4%BA%86%E4%BC%9A%E2%80%9C%E8%84%91%E9%9B%BE%E2%80%9D%E5%90%97",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7142790",
-            "api_source": "tianapi",
-            "translation": "Can watching too many short videos cause \"brain fog\"?"
-          }
-        },
-        {
-          "title": "10. 张文宏：拒绝把AI引入医院病历系统",
-          "value": "指数 7041249",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7041249",
-            "api_source": "tianapi",
-            "translation": "Zhang Wenhong: Refuses to integrate AI into hospital..."
           }
         }
       ]
