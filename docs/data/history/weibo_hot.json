@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-19T18:43:14+08:00",
+  "generated_at": "2026-01-19T22:13:19+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-19T22:13:19+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 人民日报评美国斩杀线",
+          "value": "1063808 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1063808",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "People's Daily comments on the U.S. assassination line..."
+          }
+        },
+        {
+          "title": "2. 轧戏 [沸]",
+          "value": "剧集 785850 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A7%E6%88%8F&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "剧集 785850",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Rolling drama..."
+          }
+        },
+        {
+          "title": "3. 中国GDP跨越140万亿元关口",
+          "value": "778639 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 778639",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China's GDP surpasses 140 trillion yuan..."
+          }
+        },
+        {
+          "title": "4. 天猫美食年货主理人寻味中国年",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E7%8C%AB%E7%BE%8E%E9%A3%9F%E5%B9%B4%E8%B4%A7%E4%B8%BB%E7%90%86%E4%BA%BA%E5%AF%BB%E5%91%B3%E4%B8%AD%E5%9B%BD%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Tmall Food's New Year Curators Explore Chinese Flavors..."
+          }
+        },
+        {
+          "title": "5. 陈光标喊话李亚鹏提供银行卡号",
+          "value": "775046 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E5%85%89%E6%A0%87%E5%96%8A%E8%AF%9D%E6%9D%8E%E4%BA%9A%E9%B9%8F%E6%8F%90%E4%BE%9B%E9%93%B6%E8%A1%8C%E5%8D%A1%E5%8F%B7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 775046",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chen Guangbiao calls on Li Yapeng to provide bank..."
+          }
+        },
+        {
+          "title": "6. 下雪 [大卖]",
+          "value": "767836 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8B%E9%9B%AA&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 767836",
+            "tag": "大卖",
+            "api_source": "tianapi",
+            "translation": "It’s snowing..."
+          }
+        },
+        {
+          "title": "7. 火锅店用鱼缸养鲨鱼供人观赏",
+          "value": "757757 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%81%AB%E9%94%85%E5%BA%97%E7%94%A8%E9%B1%BC%E7%BC%B8%E5%85%BB%E9%B2%A8%E9%B1%BC%E4%BE%9B%E4%BA%BA%E8%A7%82%E8%B5%8F&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 757757",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hot pot restaurant keeps sharks in tanks for viewing..."
+          }
+        },
+        {
+          "title": "8. 神20舷窗裂纹维修细节披露",
+          "value": "750845 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E20%E8%88%B7%E7%AA%97%E8%A3%82%E7%BA%B9%E7%BB%B4%E4%BF%AE%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 750845",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Details of Shen 20 window crack repair disclosed..."
+          }
+        },
+        {
+          "title": "9. 春节放假35天的公司利润一半给员工",
+          "value": "742592 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E8%8A%82%E6%94%BE%E5%81%8735%E5%A4%A9%E7%9A%84%E5%85%AC%E5%8F%B8%E5%88%A9%E6%B6%A6%E4%B8%80%E5%8D%8A%E7%BB%99%E5%91%98%E5%B7%A5&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 742592",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The company shares half its profits with employees..."
+          }
+        },
+        {
+          "title": "10. 云南地震",
+          "value": "730536 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%91%E5%8D%97%E5%9C%B0%E9%9C%87&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 730536",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yunnan earthquake..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-19T18:43:14+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Post-00s new police officer saves 1.26 million with a..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-13T22:11:07+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 国考",
-          "value": "1076137 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E8%80%83&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1076137",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "National Examination..."
-          }
-        },
-        {
-          "title": "2. 韩检方要求判尹锡悦死刑 [新]",
-          "value": "761908 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E6%A3%80%E6%96%B9%E8%A6%81%E6%B1%82%E5%88%A4%E5%B0%B9%E9%94%A1%E6%82%A6%E6%AD%BB%E5%88%91&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 761908",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Korean prosecutors demand death penalty for Yoon Suk-yeol..."
-          }
-        },
-        {
-          "title": "3. 小砂糖橘勇闯东北新一季来了",
-          "value": "614912 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E5%8B%87%E9%97%AF%E4%B8%9C%E5%8C%97%E6%96%B0%E4%B8%80%E5%AD%A3%E6%9D%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 614912",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Little sugar tangerines bravely venture into Northeast's..."
-          }
-        },
-        {
-          "title": "4. 王楚钦LV品牌大使",
-          "value": "251603 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6LV%E5%93%81%E7%89%8C%E5%A4%A7%E4%BD%BF&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 251603",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin is the brand ambassador for LV..."
-          }
-        },
-        {
-          "title": "5. 国考成绩 紧张",
-          "value": "230775 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E7%B4%A7%E5%BC%A0&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 230775",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "National exam results are nerve-wracking..."
-          }
-        },
-        {
-          "title": "6. 爱吃车厘子的女生天亮了 [新]",
-          "value": "222112 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E5%A5%B3%E7%94%9F%E5%A4%A9%E4%BA%AE%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 222112",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Girls who love cherries, dawn has arrived..."
-          }
-        },
-        {
-          "title": "7. 麦当劳回应汉堡变小了",
-          "value": "209784 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E6%B1%89%E5%A0%A1%E5%8F%98%E5%B0%8F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 209784",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "McDonald's responds to claims that burgers have shrunk..."
-          }
-        },
-        {
-          "title": "8. iPhone自带堪比打印机的软件 [新]",
-          "value": "209635 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhone%E8%87%AA%E5%B8%A6%E5%A0%AA%E6%AF%94%E6%89%93%E5%8D%B0%E6%9C%BA%E7%9A%84%E8%BD%AF%E4%BB%B6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 209635",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "iPhone has built-in software comparable to a printer..."
-          }
-        },
-        {
-          "title": "9. 新音联排",
-          "value": "演出 209528 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E9%9F%B3%E8%81%94%E6%8E%92&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "演出 209528",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New sound rehearsal..."
-          }
-        },
-        {
-          "title": "10. 小城大事收视率",
-          "value": "剧集 209179 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E6%94%B6%E8%A7%86%E7%8E%87&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "剧集 209179",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "\"Small Town Big Events\" viewership ratings"
           }
         }
       ]
