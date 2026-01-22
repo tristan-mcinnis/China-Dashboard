@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-22T18:43:01+08:00",
+  "generated_at": "2026-01-22T22:15:50+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-22T22:15:50+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 生命树",
+          "value": "剧集 1046946 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1046946",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Tree of Life..."
+          }
+        },
+        {
+          "title": "2. 清华大学拟退学2名博士 [新]",
+          "value": "781111 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%8B%9F%E9%80%80%E5%AD%A62%E5%90%8D%E5%8D%9A%E5%A3%AB&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 781111",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Tsinghua University plans to expel 2 doctoral students..."
+          }
+        },
+        {
+          "title": "3. 对预制菜国家标准等公开征求意见",
+          "value": "625723 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AF%B9%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E7%AD%89%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 625723",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Public consultation on national standards for prepared..."
+          }
+        },
+        {
+          "title": "4. 重返狼群 拖欠稿费 [新]",
+          "value": "电影 547955 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%8D%E8%BF%94%E7%8B%BC%E7%BE%A4%20%E6%8B%96%E6%AC%A0%E7%A8%BF%E8%B4%B9&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "电影 547955",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Returning to the Wolf Pack, overdue manuscript payment..."
+          }
+        },
+        {
+          "title": "5. 一超市金车厘子一箱2800元",
+          "value": "400984 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%B6%85%E5%B8%82%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%80%E7%AE%B12800%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 400984",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A box of premium cherries at a supermarket costs 2800 yuan."
+          }
+        },
+        {
+          "title": "6. 地球出现6小时特大地磁暴 [新]",
+          "value": "190910 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B06%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 190910",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "A massive geomagnetic storm lasted 6 hours on Earth..."
+          }
+        },
+        {
+          "title": "7. 揭秘周冠宇3D新战术",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8F%AD%E7%A7%98%E5%91%A8%E5%86%A0%E5%AE%873D%E6%96%B0%E6%88%98%E6%9C%AF&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Unveiling Zhou Guanyu's new 3D strategy..."
+          }
+        },
+        {
+          "title": "8. 卖霉豆腐已经有人实操上了",
+          "value": "164838 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%96%E9%9C%89%E8%B1%86%E8%85%90%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%BA%E5%AE%9E%E6%93%8D%E4%B8%8A%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 164838",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Selling stinky tofu is already being put into practice..."
+          }
+        },
+        {
+          "title": "9. TF荣耀之战双人舞台分组",
+          "value": "演出 162980 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTF%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0%E5%88%86%E7%BB%84&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "演出 162980",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "TF Glory Battle Duo Stage Grouping..."
+          }
+        },
+        {
+          "title": "10. 甲亢哥才21岁 [新]",
+          "value": "158500 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B2%E4%BA%A2%E5%93%A5%E6%89%8D21%E5%B2%81&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 158500",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Hyperthyroidism guy is only 21 years old..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-22T18:43:01+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Retired elder responds: over 200 short plays in 3 years..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-16T22:09:45+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 轧戏",
-          "value": "剧集 1119096 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A7%E6%88%8F&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "剧集 1119096",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Rolling drama..."
-          }
-        },
-        {
-          "title": "2. 胖东来599元羽绒服进价457.9元",
-          "value": "786801 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%83%96%E4%B8%9C%E6%9D%A5599%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%BF%9B%E4%BB%B7457.9%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 786801",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Pang Donglai down jacket priced at 599 yuan, cost 457.9..."
-          }
-        },
-        {
-          "title": "3. 器官也能3D打印了",
-          "value": "668342 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%99%A8%E5%AE%98%E4%B9%9F%E8%83%BD3D%E6%89%93%E5%8D%B0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 668342",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Organs can now be 3D printed..."
-          }
-        },
-        {
-          "title": "4. 抖音商城年货节好价开卖 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8A%96%E9%9F%B3%E5%95%86%E5%9F%8E%E5%B9%B4%E8%B4%A7%E8%8A%82%E5%A5%BD%E4%BB%B7%E5%BC%80%E5%8D%96&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Douyin Mall's New Year Sale is now on..."
-          }
-        },
-        {
-          "title": "5. 恋与深空直播",
-          "value": "347773 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%9B%B4%E6%92%AD&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 347773",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Love and Deep Space Live Stream..."
-          }
-        },
-        {
-          "title": "6. 薛之谦连开9场 [大卖]",
-          "value": "演出 227224 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BF%9E%E5%BC%809%E5%9C%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "演出 227224",
-            "tag": "大卖",
-            "api_source": "tianapi",
-            "translation": "Xue Zhiqian holds nine consecutive concerts..."
-          }
-        },
-        {
-          "title": "7. 新一届国乒教练员竞聘结果公示结束",
-          "value": "222927 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E4%B8%80%E5%B1%8A%E5%9B%BD%E4%B9%92%E6%95%99%E7%BB%83%E5%91%98%E7%AB%9E%E8%81%98%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA%E7%BB%93%E6%9D%9F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 222927",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Announcement of new national table tennis coaches..."
-          }
-        },
-        {
-          "title": "8. 接住这个老庙马年马上有米 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8E%A5%E4%BD%8F%E8%BF%99%E4%B8%AA%E8%80%81%E5%BA%99%E9%A9%AC%E5%B9%B4%E9%A9%AC%E4%B8%8A%E6%9C%89%E7%B1%B3&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Catch this old temple; the Year of the Horse brings rice..."
-          }
-        },
-        {
-          "title": "9. 泡泡玛特星星人",
-          "value": "210089 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%98%9F%E6%98%9F%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 210089",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Bubble Mart Star People..."
-          }
-        },
-        {
-          "title": "10. 陈丽君阿育娅",
-          "value": "电影 201472 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E4%B8%BD%E5%90%9B%E9%98%BF%E8%82%B2%E5%A8%85&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "电影 201472",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chen Lijun and A Yuya..."
           }
         }
       ]
