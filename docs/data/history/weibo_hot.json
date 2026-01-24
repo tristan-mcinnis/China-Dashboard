@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-24T18:38:28+08:00",
+  "generated_at": "2026-01-24T22:08:10+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-24T22:08:10+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 亚洲杯",
+          "value": "1119528 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%9A%E6%B4%B2%E6%9D%AF&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1119528",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "AFC Asian Cup..."
+          }
+        },
+        {
+          "title": "2. 两个消失的顶流歌手都回归了 [热]",
+          "value": "综艺 788797 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A4%E4%B8%AA%E6%B6%88%E5%A4%B1%E7%9A%84%E9%A1%B6%E6%B5%81%E6%AD%8C%E6%89%8B%E9%83%BD%E5%9B%9E%E5%BD%92%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "综艺 788797",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Two missing top singers have returned..."
+          }
+        },
+        {
+          "title": "3. 太空月季回来了",
+          "value": "637923 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AA%E7%A9%BA%E6%9C%88%E5%AD%A3%E5%9B%9E%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 637923",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The space rose has returned..."
+          }
+        },
+        {
+          "title": "4. Apple 新春限时优惠 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DApple%20%E6%96%B0%E6%98%A5%E9%99%90%E6%97%B6%E4%BC%98%E6%83%A0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Apple New Year limited-time offer..."
+          }
+        },
+        {
+          "title": "5. 平台已下架涉事娃娃菜商家商品",
+          "value": "337281 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E6%B6%89%E4%BA%8B%E5%A8%83%E5%A8%83%E8%8F%9C%E5%95%86%E5%AE%B6%E5%95%86%E5%93%81&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 337281",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The platform has removed the related baby cabbage products."
+          }
+        },
+        {
+          "title": "6. 何不同舟渡 [官宣]",
+          "value": "剧集 311436 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 311436",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "Why not share the same boat to cross?"
+          }
+        },
+        {
+          "title": "7. 俄罗斯最新涉华表态",
+          "value": "245420 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BF%84%E7%BD%97%E6%96%AF%E6%9C%80%E6%96%B0%E6%B6%89%E5%8D%8E%E8%A1%A8%E6%80%81&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 245420",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Russia's latest statements on China..."
+          }
+        },
+        {
+          "title": "8. 用智搜看声鸣远扬冠军诞生夜 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%A8%E6%99%BA%E6%90%9C%E7%9C%8B%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E5%86%A0%E5%86%9B%E8%AF%9E%E7%94%9F%E5%A4%9C&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The champion is born on the night of sound and..."
+          }
+        },
+        {
+          "title": "9. 温瑞博男单夺冠",
+          "value": "215959 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B8%A9%E7%91%9E%E5%8D%9A%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 215959",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wen Ruibo wins the men's singles championship..."
+          }
+        },
+        {
+          "title": "10. TWS中文歌舞台 [新]",
+          "value": "演出 196186 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTWS%E4%B8%AD%E6%96%87%E6%AD%8C%E8%88%9E%E5%8F%B0&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "演出 196186",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "TWS Chinese Song and Dance Stage..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-24T18:38:28+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "26-year-old woman loses 30 pounds in two months,..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-18T22:07:31+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 欢瑞世纪大跌",
-          "value": "1144907 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AC%A2%E7%91%9E%E4%B8%96%E7%BA%AA%E5%A4%A7%E8%B7%8C&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1144907",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Huanrui Century's stock plummets..."
-          }
-        },
-        {
-          "title": "2. 俄罗斯一地暴雪堆出公寓楼高雪坡 [新]",
-          "value": "820174 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E6%9A%B4%E9%9B%AA%E5%A0%86%E5%87%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E9%AB%98%E9%9B%AA%E5%9D%A1&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 820174",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "A snowdrift as high as an apartment building in Russia..."
-          }
-        },
-        {
-          "title": "3. 这个全球单一国家首次说明什么",
-          "value": "680067 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E4%B8%AA%E5%85%A8%E7%90%83%E5%8D%95%E4%B8%80%E5%9B%BD%E5%AE%B6%E9%A6%96%E6%AC%A1%E8%AF%B4%E6%98%8E%E4%BB%80%E4%B9%88&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 680067",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "This marks the first explanation from a single country..."
-          }
-        },
-        {
-          "title": "4. 梁小龙去世 [新]",
-          "value": "604966 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%81%E5%B0%8F%E9%BE%99%E5%8E%BB%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 604966",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Liang Xiaolong has passed away..."
-          }
-        },
-        {
-          "title": "5. 26岁女子两月暴瘦30斤成糖尿病前期",
-          "value": "388931 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D26%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%A4%E6%9C%88%E6%9A%B4%E7%98%A630%E6%96%A4%E6%88%90%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 388931",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "26-year-old woman loses 30 pounds in two months,..."
-          }
-        },
-        {
-          "title": "6. 6人就餐仅花19元老板要求带走垃圾 [热]",
-          "value": "382296 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D6%E4%BA%BA%E5%B0%B1%E9%A4%90%E4%BB%85%E8%8A%B119%E5%85%83%E8%80%81%E6%9D%BF%E8%A6%81%E6%B1%82%E5%B8%A6%E8%B5%B0%E5%9E%83%E5%9C%BE&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 382296",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Six people dined for only 19 yuan; the boss asked to..."
-          }
-        },
-        {
-          "title": "7. 肖战姜妍新剧拥抱路透",
-          "value": "剧集 371044 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E5%A7%9C%E5%A6%8D%E6%96%B0%E5%89%A7%E6%8B%A5%E6%8A%B1%E8%B7%AF%E9%80%8F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 371044",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Xiao Zhan and Jiang Yan's new drama embraces..."
-          }
-        },
-        {
-          "title": "8. 轧戏 [新]",
-          "value": "334004 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A7%E6%88%8F&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 334004",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Rolling drama..."
-          }
-        },
-        {
-          "title": "9. 6元4寸蛋糕店因订单太多暂停营业",
-          "value": "332569 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D6%E5%85%834%E5%AF%B8%E8%9B%8B%E7%B3%95%E5%BA%97%E5%9B%A0%E8%AE%A2%E5%8D%95%E5%A4%AA%E5%A4%9A%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 332569",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "6 yuan 4-inch cake shop suspends business due to high..."
-          }
-        },
-        {
-          "title": "10. 婴儿淋雨哭到撕心裂肺谁能忍 [新]",
-          "value": "306723 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A9%B4%E5%84%BF%E6%B7%8B%E9%9B%A8%E5%93%AD%E5%88%B0%E6%92%95%E5%BF%83%E8%A3%82%E8%82%BA%E8%B0%81%E8%83%BD%E5%BF%8D&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 306723",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "A baby crying heart-wrenchingly in the rain, who can..."
           }
         }
       ]
