@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-25T06:03:58+08:00",
+  "generated_at": "2026-01-25T11:15:38+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-25T11:15:38+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. U23国足0比4日本队",
+          "value": "1123620 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DU23%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E9%98%9F&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1123620",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "U23 national football team lost 0-4 to Japan..."
+          }
+        },
+        {
+          "title": "2. 印度男子倒奶入河避开接奶贫困儿童",
+          "value": "803048 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E5%80%92%E5%A5%B6%E5%85%A5%E6%B2%B3%E9%81%BF%E5%BC%80%E6%8E%A5%E5%A5%B6%E8%B4%AB%E5%9B%B0%E5%84%BF%E7%AB%A5&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 803048",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Indian man pours milk into river to avoid giving it to..."
+          }
+        },
+        {
+          "title": "3. 我的工位在大海上方178米",
+          "value": "663722 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%8D%E5%9C%A8%E5%A4%A7%E6%B5%B7%E4%B8%8A%E6%96%B9178%E7%B1%B3&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 663722",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "My workstation is 178 meters above the sea."
+          }
+        },
+        {
+          "title": "4. 猫的树 升咖 [新]",
+          "value": "剧集 656513 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8C%AB%E7%9A%84%E6%A0%91%20%E5%8D%87%E5%92%96&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 656513",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Cat's tree, rising coffee..."
+          }
+        },
+        {
+          "title": "5. 檀健次卢昱晓新剧开机照",
+          "value": "剧集 421783 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8D%A2%E6%98%B1%E6%99%93%E6%96%B0%E5%89%A7%E5%BC%80%E6%9C%BA%E7%85%A7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 421783",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Tan Jianji and Lu Yuxiao's new drama starts filming..."
+          }
+        },
+        {
+          "title": "6. U23国足vs日本 [热]",
+          "value": "404405 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DU23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 404405",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "U23 National Football Team vs Japan"
+          }
+        },
+        {
+          "title": "7. 曝猫的树手上现在全是现偶大项目",
+          "value": "355711 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9B%9D%E7%8C%AB%E7%9A%84%E6%A0%91%E6%89%8B%E4%B8%8A%E7%8E%B0%E5%9C%A8%E5%85%A8%E6%98%AF%E7%8E%B0%E5%81%B6%E5%A4%A7%E9%A1%B9%E7%9B%AE&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 355711",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The cat's tree is now full of current big projects..."
+          }
+        },
+        {
+          "title": "8. 买1块银砖3个月赚26万 [新]",
+          "value": "344734 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%B01%E5%9D%97%E9%93%B6%E7%A0%963%E4%B8%AA%E6%9C%88%E8%B5%9A26%E4%B8%87&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 344734",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Buy 1 silver bar, earn 260,000 in 3 months..."
+          }
+        },
+        {
+          "title": "9. U23国足球员向球迷致歉",
+          "value": "205107 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DU23%E5%9B%BD%E8%B6%B3%E7%90%83%E5%91%98%E5%90%91%E7%90%83%E8%BF%B7%E8%87%B4%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 205107",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "U23 national football players apologize to fans..."
+          }
+        },
+        {
+          "title": "10. 李昊无缘最佳门将 [热]",
+          "value": "129430 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%98%8A%E6%97%A0%E7%BC%98%E6%9C%80%E4%BD%B3%E9%97%A8%E5%B0%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 129430",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Li Hao misses out on Best Goalkeeper award..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-25T06:03:58+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Businesswoman seeks state compensation after 7 years in..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-19T11:13:31+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 镖人",
-          "value": "电影 1156966 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%96%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "电影 1156966",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Bodyguard..."
-          }
-        },
-        {
-          "title": "2. B站百大UP主 [新]",
-          "value": "859610 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DB%E7%AB%99%E7%99%BE%E5%A4%A7UP%E4%B8%BB&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 859610",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Top 100 creators on Bilibili..."
-          }
-        },
-        {
-          "title": "3. 神21乘组太空Vlog上新",
-          "value": "673622 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E21%E4%B9%98%E7%BB%84%E5%A4%AA%E7%A9%BAVlog%E4%B8%8A%E6%96%B0&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 673622",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New vlog from the Shen 21 crew in space..."
-          }
-        },
-        {
-          "title": "4. 天猫美食年货主理人寻味中国年",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E7%8C%AB%E7%BE%8E%E9%A3%9F%E5%B9%B4%E8%B4%A7%E4%B8%BB%E7%90%86%E4%BA%BA%E5%AF%BB%E5%91%B3%E4%B8%AD%E5%9B%BD%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tmall Food's New Year Curator Explores Chinese Flavors..."
-          }
-        },
-        {
-          "title": "5. 2025年GDP增长5%",
-          "value": "527242 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%B9%B4GDP%E5%A2%9E%E9%95%BF5%25&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 527242",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "2025 GDP growth at 5%..."
-          }
-        },
-        {
-          "title": "6. 陈丽君李云霄合作镖人 [大卖]",
-          "value": "电影 412936 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E4%B8%BD%E5%90%9B%E6%9D%8E%E4%BA%91%E9%9C%84%E5%90%88%E4%BD%9C%E9%95%96%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "电影 412936",
-            "tag": "大卖",
-            "api_source": "tianapi",
-            "translation": "Chen Lijun and Li Yunxiao collaborate on \"Biao Ren\"..."
-          }
-        },
-        {
-          "title": "7. 镖人预告片公布",
-          "value": "电影 312949 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%96%E4%BA%BA%E9%A2%84%E5%91%8A%E7%89%87%E5%85%AC%E5%B8%83&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "电影 312949",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The trailer for \"Biao Ren\" has been released..."
-          }
-        },
-        {
-          "title": "8. 金价波动 [新]",
-          "value": "291435 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 291435",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Gold price fluctuations..."
-          }
-        },
-        {
-          "title": "9. 吃海鲜吃到痛风的猴子",
-          "value": "288612 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%83%E6%B5%B7%E9%B2%9C%E5%90%83%E5%88%B0%E7%97%9B%E9%A3%8E%E7%9A%84%E7%8C%B4%E5%AD%90&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 288612",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A monkey with gout from eating seafood..."
-          }
-        },
-        {
-          "title": "10. 中国GDP跨越140万亿元关口 [新]",
-          "value": "188702 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 188702",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "China's GDP surpasses 140 trillion yuan..."
           }
         }
       ]
