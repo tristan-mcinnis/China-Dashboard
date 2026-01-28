@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-28T18:43:15+08:00",
+  "generated_at": "2026-01-28T22:15:26+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-28T22:15:26+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 微博之夜",
+          "value": "盛典 1113496 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "盛典 1113496",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Weibo Night..."
+          }
+        },
+        {
+          "title": "2. 男子买15元彩票中1404万 [新]",
+          "value": "779735 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E4%B9%B015%E5%85%83%E5%BD%A9%E7%A5%A8%E4%B8%AD1404%E4%B8%87&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 779735",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Man wins 14.04 million from a 15 yuan lottery ticket..."
+          }
+        },
+        {
+          "title": "3. 政务应用程序管理新规发布",
+          "value": "633521 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%94%BF%E5%8A%A1%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%AE%A1%E7%90%86%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 633521",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New regulations for government app management released..."
+          }
+        },
+        {
+          "title": "4. 刘宇宁京东年货节红运摇 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E5%AE%87%E5%AE%81%E4%BA%AC%E4%B8%9C%E5%B9%B4%E8%B4%A7%E8%8A%82%E7%BA%A2%E8%BF%90%E6%91%87&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Liu Yuning's lucky shake at JD's New Year Festival..."
+          }
+        },
+        {
+          "title": "5. 微博之夜简笔画",
+          "value": "盛典 271645 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%AE%80%E7%AC%94%E7%94%BB&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "盛典 271645",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Weibo Night doodle..."
+          }
+        },
+        {
+          "title": "6. 贝加尔湖车祸75岁中国籍女性死亡 [重磅]",
+          "value": "268613 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E8%BD%A6%E7%A5%B875%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E6%80%A7%E6%AD%BB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 268613",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "75-year-old Chinese woman dies in Baikal Lake accident..."
+          }
+        },
+        {
+          "title": "7. 美国打了美国",
+          "value": "246994 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BA%86%E7%BE%8E%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 246994",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "America fought against itself..."
+          }
+        },
+        {
+          "title": "8. 李川居然是因为裸辞而出道的",
+          "value": "综艺 233319 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%B7%9D%E5%B1%85%E7%84%B6%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%A3%B8%E8%BE%9E%E8%80%8C%E5%87%BA%E9%81%93%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "综艺 233319",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Li Chuan actually debuted after quitting his job without..."
+          }
+        },
+        {
+          "title": "9. 银价波动",
+          "value": "210939 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%93%B6%E4%BB%B7%E6%B3%A2%E5%8A%A8&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 210939",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Silver price fluctuations..."
+          }
+        },
+        {
+          "title": "10. 伊朗总统宣布启动紧急状态 [新]",
+          "value": "195217 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 195217",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Iran's president announces a state of emergency..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-28T18:43:15+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Progress on the case of a 22-year-old in Hunan raising..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-22T22:15:50+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 生命树",
-          "value": "剧集 1046946 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "剧集 1046946",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tree of Life..."
-          }
-        },
-        {
-          "title": "2. 清华大学拟退学2名博士 [新]",
-          "value": "781111 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%8B%9F%E9%80%80%E5%AD%A62%E5%90%8D%E5%8D%9A%E5%A3%AB&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 781111",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Tsinghua University plans to expel 2 doctoral students..."
-          }
-        },
-        {
-          "title": "3. 对预制菜国家标准等公开征求意见",
-          "value": "625723 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AF%B9%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E7%AD%89%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 625723",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Public consultation on national standards for prepared..."
-          }
-        },
-        {
-          "title": "4. 重返狼群 拖欠稿费 [新]",
-          "value": "电影 547955 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%8D%E8%BF%94%E7%8B%BC%E7%BE%A4%20%E6%8B%96%E6%AC%A0%E7%A8%BF%E8%B4%B9&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "电影 547955",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Returning to the Wolf Pack, overdue manuscript payment..."
-          }
-        },
-        {
-          "title": "5. 一超市金车厘子一箱2800元",
-          "value": "400984 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%B6%85%E5%B8%82%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%80%E7%AE%B12800%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 400984",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A box of premium cherries at a supermarket costs 2800 yuan."
-          }
-        },
-        {
-          "title": "6. 地球出现6小时特大地磁暴 [新]",
-          "value": "190910 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B06%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 190910",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "A massive geomagnetic storm lasted 6 hours on Earth..."
-          }
-        },
-        {
-          "title": "7. 揭秘周冠宇3D新战术",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8F%AD%E7%A7%98%E5%91%A8%E5%86%A0%E5%AE%873D%E6%96%B0%E6%88%98%E6%9C%AF&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Unveiling Zhou Guanyu's new 3D strategy..."
-          }
-        },
-        {
-          "title": "8. 卖霉豆腐已经有人实操上了",
-          "value": "164838 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%96%E9%9C%89%E8%B1%86%E8%85%90%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%BA%E5%AE%9E%E6%93%8D%E4%B8%8A%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 164838",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Selling stinky tofu is already being put into practice..."
-          }
-        },
-        {
-          "title": "9. TF荣耀之战双人舞台分组",
-          "value": "演出 162980 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTF%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0%E5%88%86%E7%BB%84&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "演出 162980",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "TF Glory Battle Duo Stage Grouping..."
-          }
-        },
-        {
-          "title": "10. 甲亢哥才21岁 [新]",
-          "value": "158500 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B2%E4%BA%A2%E5%93%A5%E6%89%8D21%E5%B2%81&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 158500",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Hyperthyroidism guy is only 21 years old..."
           }
         }
       ]
