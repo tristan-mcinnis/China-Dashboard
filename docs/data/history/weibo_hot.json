@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-28T14:02:39+08:00",
+  "generated_at": "2026-01-28T18:43:15+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-28T18:43:15+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 生育津贴到手3万却被申领10万元",
+          "value": "1117663 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E8%82%B2%E6%B4%A5%E8%B4%B4%E5%88%B0%E6%89%8B3%E4%B8%87%E5%8D%B4%E8%A2%AB%E7%94%B3%E9%A2%8610%E4%B8%87%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1117663",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Received 30,000 in maternity benefits but claimed 100,000..."
+          }
+        },
+        {
+          "title": "2. 银行取消5年期存款意味着什么 [新]",
+          "value": "803098 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%93%B6%E8%A1%8C%E5%8F%96%E6%B6%885%E5%B9%B4%E6%9C%9F%E5%AD%98%E6%AC%BE%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 803098",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The bank's cancellation of 5-year deposits means..."
+          }
+        },
+        {
+          "title": "3. 1.45万吨桥梁空中转体有多震撼",
+          "value": "628445 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D1.45%E4%B8%87%E5%90%A8%E6%A1%A5%E6%A2%81%E7%A9%BA%E4%B8%AD%E8%BD%AC%E4%BD%93%E6%9C%89%E5%A4%9A%E9%9C%87%E6%92%BC&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 628445",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The 14,500-ton bridge rotation is truly breathtaking..."
+          }
+        },
+        {
+          "title": "4. 生活问题问美团都安排",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E6%B4%BB%E9%97%AE%E9%A2%98%E9%97%AE%E7%BE%8E%E5%9B%A2%E9%83%BD%E5%AE%89%E6%8E%92&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "For life issues, just ask Meituan for arrangements..."
+          }
+        },
+        {
+          "title": "5. 1名中国籍游客俄罗斯死亡",
+          "value": "289913 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D1%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%B8%B8%E5%AE%A2%E4%BF%84%E7%BD%97%E6%96%AF%E6%AD%BB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 289913",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A Chinese tourist died in Russia."
+          }
+        },
+        {
+          "title": "6. 重庆一火锅店收1人20元辛苦费 [火热]",
+          "value": "268207 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%8D%E5%BA%86%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E6%94%B61%E4%BA%BA20%E5%85%83%E8%BE%9B%E8%8B%A6%E8%B4%B9&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 268207",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "A hotpot restaurant in Chongqing charges 20 yuan labor..."
+          }
+        },
+        {
+          "title": "7. 姜母鸭",
+          "value": "263913 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A7%9C%E6%AF%8D%E9%B8%AD&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 263913",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ginger duck..."
+          }
+        },
+        {
+          "title": "8. 宋雨琦小牛电动全球品牌代言人 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%B0%8F%E7%89%9B%E7%94%B5%E5%8A%A8%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Song Yuqi is the global brand ambassador for Niu Electric."
+          }
+        },
+        {
+          "title": "9. 烤鱼店老板投喂流浪猫躲过一劫",
+          "value": "237151 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%83%A4%E9%B1%BC%E5%BA%97%E8%80%81%E6%9D%BF%E6%8A%95%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB%E8%BA%B2%E8%BF%87%E4%B8%80%E5%8A%AB&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 237151",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The grilled fish shop owner fed stray cats and escaped..."
+          }
+        },
+        {
+          "title": "10. 那英 何老师我又来了",
+          "value": "综艺 168561 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%82%A3%E8%8B%B1%20%E4%BD%95%E8%80%81%E5%B8%88%E6%88%91%E5%8F%88%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "综艺 168561",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Na Ying, Teacher He, I'm here again..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-28T14:02:39+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Hyperthyroidism guy is only 21 years old..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-22T18:43:01+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 重庆有献血车进中学引关注",
-          "value": "1073013 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%8D%E5%BA%86%E6%9C%89%E7%8C%AE%E8%A1%80%E8%BD%A6%E8%BF%9B%E4%B8%AD%E5%AD%A6%E5%BC%95%E5%85%B3%E6%B3%A8&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1073013",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Blood donation vehicle enters high school in Chongqing..."
-          }
-        },
-        {
-          "title": "2. 内娱终于有人拍出这段沉痛的往事了 [新]",
-          "value": "788923 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%85%E5%A8%B1%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%87%BA%E8%BF%99%E6%AE%B5%E6%B2%89%E7%97%9B%E7%9A%84%E5%BE%80%E4%BA%8B%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 788923",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The entertainment industry finally depicts this painful..."
-          }
-        },
-        {
-          "title": "3. 一分钟读懂中国经济韧性",
-          "value": "611374 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 611374",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Understand China's economic resilience in one minute..."
-          }
-        },
-        {
-          "title": "4. 和肖战一起马年向更高",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8C%E8%82%96%E6%88%98%E4%B8%80%E8%B5%B7%E9%A9%AC%E5%B9%B4%E5%90%91%E6%9B%B4%E9%AB%98&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "With Xiao Zhan, aiming higher in the Year of the Horse..."
-          }
-        },
-        {
-          "title": "5. 智利车厘子园大面积被烧恐涨价",
-          "value": "297395 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%BA%E5%88%A9%E8%BD%A6%E5%8E%98%E5%AD%90%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A2%AB%E7%83%A7%E6%81%90%E6%B6%A8%E4%BB%B7&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 297395",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chilean cherry orchards burned, prices may rise..."
-          }
-        },
-        {
-          "title": "6. 何不同舟渡 [商]",
-          "value": "剧集 257128 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "剧集 257128",
-            "tag": "商",
-            "api_source": "tianapi",
-            "translation": "Why not cross the river together?"
-          }
-        },
-        {
-          "title": "7. 发生猝死的征兆",
-          "value": "253870 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%91%E7%94%9F%E7%8C%9D%E6%AD%BB%E7%9A%84%E5%BE%81%E5%85%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 253870",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Signs of sudden cardiac death..."
-          }
-        },
-        {
-          "title": "8. 赵丽颖认养一头牛品牌代言人",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AE%A4%E5%85%BB%E4%B8%80%E5%A4%B4%E7%89%9B%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zhao Liying becomes spokesperson for \"Adopt a Cow\" brand."
-          }
-        },
-        {
-          "title": "9. 卖霉豆腐已经有人实操上了",
-          "value": "251053 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%96%E9%9C%89%E8%B1%86%E8%85%90%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%BA%E5%AE%9E%E6%93%8D%E4%B8%8A%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 251053",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Selling stinky tofu is already being put into practice..."
-          }
-        },
-        {
-          "title": "10. 尾号88888888马钞被领走 [新]",
-          "value": "240255 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%BE%E5%8F%B788888888%E9%A9%AC%E9%92%9E%E8%A2%AB%E9%A2%86%E8%B5%B0&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 240255",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The banknote ending in 88888888 was taken away..."
           }
         }
       ]
