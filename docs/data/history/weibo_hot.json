@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-29T22:20:36+08:00",
+  "generated_at": "2026-01-30T06:06:16+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-30T06:06:16+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 缅甸新诈骗园区有早前获救者",
+          "value": "225340 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BC%85%E7%94%B8%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA%E6%9C%89%E6%97%A9%E5%89%8D%E8%8E%B7%E6%95%91%E8%80%85&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 225340",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New scam zone in Myanmar has previous rescue survivors..."
+          }
+        },
+        {
+          "title": "2. 年轻老板狂扫700万黄金店员报警",
+          "value": "157771 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E8%BD%BB%E8%80%81%E6%9D%BF%E7%8B%82%E6%89%AB700%E4%B8%87%E9%BB%84%E9%87%91%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 157771",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Young boss sweeps 7 million in gold, staff call police..."
+          }
+        },
+        {
+          "title": "3. 中国新能源汽车持续领跑全球",
+          "value": "129170 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 129170",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China's new energy vehicles continue to lead globally..."
+          }
+        },
+        {
+          "title": "4. 主治医生哭着说已想尽办法留住豪豪",
+          "value": "43449 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BB%E6%B2%BB%E5%8C%BB%E7%94%9F%E5%93%AD%E7%9D%80%E8%AF%B4%E5%B7%B2%E6%83%B3%E5%B0%BD%E5%8A%9E%E6%B3%95%E7%95%99%E4%BD%8F%E8%B1%AA%E8%B1%AA&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 43449",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The doctor cried, saying they had tried everything to..."
+          }
+        },
+        {
+          "title": "5. 紫金矿业创始人泪洒现场",
+          "value": "35337 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%B4%AB%E9%87%91%E7%9F%BF%E4%B8%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 35337",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zijin Mining founder weeps at the scene..."
+          }
+        },
+        {
+          "title": "6. 孙俪总台视后 [新]",
+          "value": "剧集 29960 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E4%BF%AA%E6%80%BB%E5%8F%B0%E8%A7%86%E5%90%8E&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 29960",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Sun Li wins the Best Actress award..."
+          }
+        },
+        {
+          "title": "7. Turbo5Max满配性能旗舰",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTurbo5Max%E6%BB%A1%E9%85%8D%E6%80%A7%E8%83%BD%E6%97%97%E8%88%B0&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Turbo5Max fully equipped performance flagship..."
+          }
+        },
+        {
+          "title": "8. 太平年李煜镜头被盘包浆了",
+          "value": "剧集 29484 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AA%E5%B9%B3%E5%B9%B4%E6%9D%8E%E7%85%9C%E9%95%9C%E5%A4%B4%E8%A2%AB%E7%9B%98%E5%8C%85%E6%B5%86%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "剧集 29484",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Li Yu's lens from the peaceful years has aged..."
+          }
+        },
+        {
+          "title": "9. 女子吃自制牛瘪火锅中毒双手变蓝",
+          "value": "28918 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E5%90%83%E8%87%AA%E5%88%B6%E7%89%9B%E7%98%AA%E7%81%AB%E9%94%85%E4%B8%AD%E6%AF%92%E5%8F%8C%E6%89%8B%E5%8F%98%E8%93%9D&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 28918",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Woman poisoned by homemade beef hotpot, hands turned blue..."
+          }
+        },
+        {
+          "title": "10. 中国电视剧年度盛典",
+          "value": "剧集 27526 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 27526",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Annual Chinese TV Drama Awards..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-29T22:20:36+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Buying lottery tickets won't make you a billionaire..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-24T06:03:59+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. U23国足vs日本",
-          "value": "262259 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DU23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 262259",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "U23 National Team vs Japan"
-          }
-        },
-        {
-          "title": "2. 太平年 [沸]",
-          "value": "剧集 193014 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AA%E5%B9%B3%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "剧集 193014",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Year of peace..."
-          }
-        },
-        {
-          "title": "3. 冰雪春天",
-          "value": "145651 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E9%9B%AA%E6%98%A5%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 145651",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Ice and snow in spring..."
-          }
-        },
-        {
-          "title": "4. Apple 新春限时优惠",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DApple%20%E6%96%B0%E6%98%A5%E9%99%90%E6%97%B6%E4%BC%98%E6%83%A0&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Apple's limited-time New Year promotion..."
-          }
-        },
-        {
-          "title": "5. 张杰不再参加任何需要投票的活动",
-          "value": "演出 107673 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9D%B0%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E4%BB%BB%E4%BD%95%E9%9C%80%E8%A6%81%E6%8A%95%E7%A5%A8%E7%9A%84%E6%B4%BB%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "演出 107673",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zhang Jie will no longer participate in any voting..."
-          }
-        },
-        {
-          "title": "6. 海底捞 点炮制度 [官宣]",
-          "value": "53503 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E7%82%B9%E7%82%AE%E5%88%B6%E5%BA%A6&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 53503",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Haidilao's \"Dianpao\" system..."
-          }
-        },
-        {
-          "title": "7. LPL",
-          "value": "49079 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DLPL&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 49079",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "LPL (League of Legends Pro League)"
-          }
-        },
-        {
-          "title": "8. 法国猫花5个月从西班牙走回老家 [热]",
-          "value": "32164 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%95%E5%9B%BD%E7%8C%AB%E8%8A%B15%E4%B8%AA%E6%9C%88%E4%BB%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%B0%E5%9B%9E%E8%80%81%E5%AE%B6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 32164",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "A French cat walked back home from Spain in 5 months..."
-          }
-        },
-        {
-          "title": "9. 不建议个人用SIM卡提炼黄金",
-          "value": "31352 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B8%AA%E4%BA%BA%E7%94%A8SIM%E5%8D%A1%E6%8F%90%E7%82%BC%E9%BB%84%E9%87%91&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 31352",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Not recommended for individuals to extract gold using..."
-          }
-        },
-        {
-          "title": "10. 骑手随手拍曝光幽灵外卖",
-          "value": "29165 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AA%91%E6%89%8B%E9%9A%8F%E6%89%8B%E6%8B%8D%E6%9B%9D%E5%85%89%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 29165",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Rider's casual snap exposes ghost delivery services..."
           }
         }
       ]
