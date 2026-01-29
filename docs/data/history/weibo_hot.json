@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-29T14:10:27+08:00",
+  "generated_at": "2026-01-29T18:45:25+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-29T18:45:25+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 女子因幼犬轻咬未处理引发狂犬病",
+          "value": "1046151 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%B9%BC%E7%8A%AC%E8%BD%BB%E5%92%AC%E6%9C%AA%E5%A4%84%E7%90%86%E5%BC%95%E5%8F%91%E7%8B%82%E7%8A%AC%E7%97%85&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1046151",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Woman contracts rabies after neglecting puppy's bite..."
+          }
+        },
+        {
+          "title": "2. 男子刮刮乐中100万旁边大哥羡慕了",
+          "value": "736581 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E5%88%AE%E5%88%AE%E4%B9%90%E4%B8%AD100%E4%B8%87%E6%97%81%E8%BE%B9%E5%A4%A7%E5%93%A5%E7%BE%A1%E6%85%95%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 736581",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A man wins 1 million in scratch-off, nearby guy envies..."
+          }
+        },
+        {
+          "title": "3. 中国牌晶体刷新3项世界纪录",
+          "value": "605596 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%89%8C%E6%99%B6%E4%BD%93%E5%88%B7%E6%96%B03%E9%A1%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 605596",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China's crystal brand breaks 3 world records..."
+          }
+        },
+        {
+          "title": "4. 奔驰140年",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%94%E9%A9%B0140%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Mercedes-Benz: 140 years of excellence..."
+          }
+        },
+        {
+          "title": "5. Bin疑似离队",
+          "value": "547643 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBin%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 547643",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Bin is suspected to be leaving the team..."
+          }
+        },
+        {
+          "title": "6. 神仙肉 虞书欣 [重磅]",
+          "value": "537234 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E%E4%BB%99%E8%82%89%20%E8%99%9E%E4%B9%A6%E6%AC%A3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 537234",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Divine Meat - Yu Shuxin..."
+          }
+        },
+        {
+          "title": "7. BLG Bin",
+          "value": "356066 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBLG%20Bin&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 356066",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "BLG Bin"
+          }
+        },
+        {
+          "title": "8. 体重管理好身体抵抗少 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E9%87%8D%E7%AE%A1%E7%90%86%E5%A5%BD%E8%BA%AB%E4%BD%93%E6%8A%B5%E6%8A%97%E5%B0%91&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Good weight management leads to better health..."
+          }
+        },
+        {
+          "title": "9. 茅台发声明",
+          "value": "291880 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8C%85%E5%8F%B0%E5%8F%91%E5%A3%B0%E6%98%8E&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 291880",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Moutai issues a statement..."
+          }
+        },
+        {
+          "title": "10. 父母带娃爬野山孩子坠崖 [热]",
+          "value": "247122 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B6%E6%AF%8D%E5%B8%A6%E5%A8%83%E7%88%AC%E9%87%8E%E5%B1%B1%E5%AD%A9%E5%AD%90%E5%9D%A0%E5%B4%96&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 247122",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Parents take kids to climb mountains; child falls off..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-29T14:10:27+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Snow leopard attacks tourists in Keketohai Gem Valley..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-23T18:41:54+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 老鼠干火到美国了",
-          "value": "综艺 1116306 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E9%BC%A0%E5%B9%B2%E7%81%AB%E5%88%B0%E7%BE%8E%E5%9B%BD%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "综艺 1116306",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The mouse has arrived in America..."
-          }
-        },
-        {
-          "title": "2. U23 [新]",
-          "value": "798220 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DU23&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 798220",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "U23"
-          }
-        },
-        {
-          "title": "3. 我国地理标志产品直接年产值接近1万亿元",
-          "value": "625402 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81%E7%9B%B4%E6%8E%A5%E5%B9%B4%E4%BA%A7%E5%80%BC%E6%8E%A5%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 625402",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The annual output value of China's geographical..."
-          }
-        },
-        {
-          "title": "4. 王鹤棣白鹿买了一车东西",
-          "value": "综艺 363931 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E4%B9%B0%E4%BA%86%E4%B8%80%E8%BD%A6%E4%B8%9C%E8%A5%BF&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "综艺 363931",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wang Hedi and Bai Lu bought a truckload of items..."
-          }
-        },
-        {
-          "title": "5. T1战胜KT",
-          "value": "341854 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%E6%88%98%E8%83%9CKT&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 341854",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "T1 defeats KT..."
-          }
-        },
-        {
-          "title": "6. 猝死程序员家属称找的律师都不想接 [新]",
-          "value": "334163 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8C%9D%E6%AD%BB%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%89%BE%E7%9A%84%E5%BE%8B%E5%B8%88%E9%83%BD%E4%B8%8D%E6%83%B3%E6%8E%A5&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 334163",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Family of deceased programmer says lawyers refuse to..."
-          }
-        },
-        {
-          "title": "7. 被AI狂怼90分钟",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%ABAI%E7%8B%82%E6%80%BC90%E5%88%86%E9%92%9F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Attacked by AI for 90 minutes..."
-          }
-        },
-        {
-          "title": "8. 声生不息放了肖战唱的整晚的音乐 [新]",
-          "value": "综艺 322093 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E6%94%BE%E4%BA%86%E8%82%96%E6%88%98%E5%94%B1%E7%9A%84%E6%95%B4%E6%99%9A%E7%9A%84%E9%9F%B3%E4%B9%90&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "综艺 322093",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "\"Voice Never Ends\" featured an entire night of music by..."
-          }
-        },
-        {
-          "title": "9. 开门杀撞飞外卖员后先看车门",
-          "value": "321546 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%80%E9%97%A8%E6%9D%80%E6%92%9E%E9%A3%9E%E5%A4%96%E5%8D%96%E5%91%98%E5%90%8E%E5%85%88%E7%9C%8B%E8%BD%A6%E9%97%A8&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 321546",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "After hitting the delivery worker, he checked the car..."
-          }
-        },
-        {
-          "title": "10. 中年考公三件套一年狂捞270亿 [新]",
-          "value": "316696 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%B9%B4%E8%80%83%E5%85%AC%E4%B8%89%E4%BB%B6%E5%A5%97%E4%B8%80%E5%B9%B4%E7%8B%82%E6%8D%9E270%E4%BA%BF&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 316696",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Middle-aged civil servants earn 27 billion in a year..."
           }
         }
       ]
