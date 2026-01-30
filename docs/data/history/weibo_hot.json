@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-30T11:19:49+08:00",
+  "generated_at": "2026-01-30T14:11:09+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-30T14:11:09+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 好想来零食回应",
+          "value": "1064532 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%BD%E6%83%B3%E6%9D%A5%E9%9B%B6%E9%A3%9F%E5%9B%9E%E5%BA%94&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1064532",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "I really want to respond with snacks..."
+          }
+        },
+        {
+          "title": "2. 生命树招商 [新]",
+          "value": "剧集 767044 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91%E6%8B%9B%E5%95%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "剧集 767044",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Life Tree Investment Promotion..."
+          }
+        },
+        {
+          "title": "3. 智能穿戴千亿级赛道爆发",
+          "value": "594338 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E5%8D%83%E4%BA%BF%E7%BA%A7%E8%B5%9B%E9%81%93%E7%88%86%E5%8F%91&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 594338",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Smart wearables market explodes into a trillion-dollar..."
+          }
+        },
+        {
+          "title": "4. 我使馆要求日方尽快破案",
+          "value": "270282 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E4%BD%BF%E9%A6%86%E8%A6%81%E6%B1%82%E6%97%A5%E6%96%B9%E5%B0%BD%E5%BF%AB%E7%A0%B4%E6%A1%88&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 270282",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Our embassy requests Japan to solve the case quickly..."
+          }
+        },
+        {
+          "title": "5. 乡村爱情18赵四嘎了",
+          "value": "剧集 257017 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%8518%E8%B5%B5%E5%9B%9B%E5%98%8E%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 257017",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Rural Love 18: Zhao Si is in trouble..."
+          }
+        },
+        {
+          "title": "6. 普通人上镜能有多离谱 [新]",
+          "value": "247184 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8A%E9%95%9C%E8%83%BD%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 247184",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "How absurd can an ordinary person look on camera..."
+          }
+        },
+        {
+          "title": "7. 和杨洋一起喝青岛白啤接福抱",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8C%E6%9D%A8%E6%B4%8B%E4%B8%80%E8%B5%B7%E5%96%9D%E9%9D%92%E5%B2%9B%E7%99%BD%E5%95%A4%E6%8E%A5%E7%A6%8F%E6%8A%B1&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Drink Qingdao white beer with Yang Yang for good luck..."
+          }
+        },
+        {
+          "title": "8. 赵四葬礼 [热]",
+          "value": "剧集 241318 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E5%9B%9B%E8%91%AC%E7%A4%BC&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "剧集 241318",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Zhao Si's funeral..."
+          }
+        },
+        {
+          "title": "9. 黄金白银一跌再跌",
+          "value": "237998 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 237998",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gold and silver keep falling..."
+          }
+        },
+        {
+          "title": "10. 宝可梦踩靖国神社红线不是初犯",
+          "value": "192350 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%9D%E5%8F%AF%E6%A2%A6%E8%B8%A9%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%BA%A2%E7%BA%BF%E4%B8%8D%E6%98%AF%E5%88%9D%E7%8A%AF&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 192350",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Pokémon crossing the Yasukuni Shrine red line is not a..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-30T11:19:49+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "It turns out that pilling on sweaters can be easily..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-24T14:01:40+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 白宫晒特朗普格陵兰牵企鹅照翻车",
-          "value": "1065173 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1065173",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "White House shares Trump's Greenland penguin photo fail..."
-          }
-        },
-        {
-          "title": "2. 卢凌风你的大唐完了 [新]",
-          "value": "剧集 746203 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A2%E5%87%8C%E9%A3%8E%E4%BD%A0%E7%9A%84%E5%A4%A7%E5%94%90%E5%AE%8C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "剧集 746203",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Lu Lingfeng, your Tang Dynasty is over..."
-          }
-        },
-        {
-          "title": "3. 中国专利的含金量满满",
-          "value": "594177 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%88%A9%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E6%BB%A1%E6%BB%A1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 594177",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese patents are highly valuable..."
-          }
-        },
-        {
-          "title": "4. Apple 新春限时优惠",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DApple%20%E6%96%B0%E6%98%A5%E9%99%90%E6%97%B6%E4%BC%98%E6%83%A0&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Apple's limited-time New Year promotion..."
-          }
-        },
-        {
-          "title": "5. 白鹿说这是自己最后一部打戏了",
-          "value": "剧集 332682 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%E8%AF%B4%E8%BF%99%E6%98%AF%E8%87%AA%E5%B7%B1%E6%9C%80%E5%90%8E%E4%B8%80%E9%83%A8%E6%89%93%E6%88%8F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 332682",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Bai Lu said this is her last action scene..."
-          }
-        },
-        {
-          "title": "6. QQ秀宣布回归 [官宣]",
-          "value": "260673 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DQQ%E7%A7%80%E5%AE%A3%E5%B8%83%E5%9B%9E%E5%BD%92&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 260673",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "QQ Show announces its return..."
-          }
-        },
-        {
-          "title": "7. 00后真的是各过各的",
-          "value": "219553 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D00%E5%90%8E%E7%9C%9F%E7%9A%84%E6%98%AF%E5%90%84%E8%BF%87%E5%90%84%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 219553",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Post-00s really live their own lives..."
-          }
-        },
-        {
-          "title": "8. 买钻戒送银杯如今身价被反超 [新]",
-          "value": "192943 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%B0%E9%92%BB%E6%88%92%E9%80%81%E9%93%B6%E6%9D%AF%E5%A6%82%E4%BB%8A%E8%BA%AB%E4%BB%B7%E8%A2%AB%E5%8F%8D%E8%B6%85&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 192943",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Buying diamond rings and giving silver cups, now..."
-          }
-        },
-        {
-          "title": "9. 外卖发展成这样了",
-          "value": "190555 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E5%8D%96%E5%8F%91%E5%B1%95%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 190555",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Takeout has developed to this point..."
-          }
-        },
-        {
-          "title": "10. 生命树央八定档",
-          "value": "剧集 188818 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91%E5%A4%AE%E5%85%AB%E5%AE%9A%E6%A1%A3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "剧集 188818",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Tree of Life is officially scheduled..."
           }
         }
       ]
