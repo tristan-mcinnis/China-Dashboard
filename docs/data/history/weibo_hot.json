@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-31T14:05:57+08:00",
+  "generated_at": "2026-01-31T18:41:25+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-31T18:41:25+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 应急管理部部长被查",
+          "value": "1052844 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E9%83%A8%E9%95%BF%E8%A2%AB%E6%9F%A5&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1052844",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Minister of Emergency Management under investigation..."
+          }
+        },
+        {
+          "title": "2. 王自如发年终奖了",
+          "value": "773562 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%87%AA%E5%A6%82%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 773562",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Zizhu has issued year-end bonuses..."
+          }
+        },
+        {
+          "title": "3. 北京范儿",
+          "value": "759189 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E8%8C%83%E5%84%BF&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 759189",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Beijing style..."
+          }
+        },
+        {
+          "title": "4. 王一博 春晚 [新]",
+          "value": "晚会 751069 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E6%98%A5%E6%99%9A&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "晚会 751069",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Wang Yibo at the Spring Festival Gala..."
+          }
+        },
+        {
+          "title": "5. 英国演员裴淳华给首相整笑了",
+          "value": "748032 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B1%E5%9B%BD%E6%BC%94%E5%91%98%E8%A3%B4%E6%B7%B3%E5%8D%8E%E7%BB%99%E9%A6%96%E7%9B%B8%E6%95%B4%E7%AC%91%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 748032",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "British actor Pei Chunhua made the Prime Minister laugh."
+          }
+        },
+        {
+          "title": "6. 发明洗澡吃橙子的人是个天才 [热]",
+          "value": "747610 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%91%E6%98%8E%E6%B4%97%E6%BE%A1%E5%90%83%E6%A9%99%E5%AD%90%E7%9A%84%E4%BA%BA%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 747610",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "The genius who invented bathing while eating oranges..."
+          }
+        },
+        {
+          "title": "7. 王橹杰跪地凝视",
+          "value": "演出 741870 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A9%B9%E6%9D%B0%E8%B7%AA%E5%9C%B0%E5%87%9D%E8%A7%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "演出 741870",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Lujie kneels and gazes intently..."
+          }
+        },
+        {
+          "title": "8. 深圳通报杰我睿公司经营异常事件",
+          "value": "726320 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%E6%9D%B0%E6%88%91%E7%9D%BF%E5%85%AC%E5%8F%B8%E7%BB%8F%E8%90%A5%E5%BC%82%E5%B8%B8%E4%BA%8B%E4%BB%B6&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 726320",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Shenzhen reports operational irregularities of Jie Wo..."
+          }
+        },
+        {
+          "title": "9. 萨巴伦卡vs莱巴金娜",
+          "value": "725207 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1vs%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 725207",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Sabalenka vs Rybakina..."
+          }
+        },
+        {
+          "title": "10. 女子手机被偷9年后收到1100元退赔 [新]",
+          "value": "707437 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B79%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B01100%E5%85%83%E9%80%80%E8%B5%94&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 707437",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Woman receives 1100 yuan compensation 9 years after..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-31T14:05:57+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "沸",
             "api_source": "tianapi",
             "translation": "Spring Festival Gala..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-25T18:38:41+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 江西唇腭裂女童引全网关注",
-          "value": "1099847 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%9F%E8%A5%BF%E5%94%87%E8%85%AD%E8%A3%82%E5%A5%B3%E7%AB%A5%E5%BC%95%E5%85%A8%E7%BD%91%E5%85%B3%E6%B3%A8&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1099847",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Jiangxi girl with cleft lip and palate attracts online..."
-          }
-        },
-        {
-          "title": "2. 多国加强监测应对印度疫情",
-          "value": "818140 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9B%BD%E5%8A%A0%E5%BC%BA%E7%9B%91%E6%B5%8B%E5%BA%94%E5%AF%B9%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 818140",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Multiple countries enhance monitoring to address India's..."
-          }
-        },
-        {
-          "title": "3. 又一轮雨雪天气来了",
-          "value": "654333 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%88%E4%B8%80%E8%BD%AE%E9%9B%A8%E9%9B%AA%E5%A4%A9%E6%B0%94%E6%9D%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 654333",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Another round of rain and snow is coming..."
-          }
-        },
-        {
-          "title": "4. 抖音商城年货节补贴价更低",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8A%96%E9%9F%B3%E5%95%86%E5%9F%8E%E5%B9%B4%E8%B4%A7%E8%8A%82%E8%A1%A5%E8%B4%B4%E4%BB%B7%E6%9B%B4%E4%BD%8E&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Douyin Mall's New Year Festival offers even lower..."
-          }
-        },
-        {
-          "title": "5. 印度一邦暴发疫情",
-          "value": "204543 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E4%B8%80%E9%82%A6%E6%9A%B4%E5%8F%91%E7%96%AB%E6%83%85&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 204543",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "An outbreak of disease occurs in an Indian state..."
-          }
-        },
-        {
-          "title": "6. 可是妈妈张杰不是别的黄毛 [大卖]",
-          "value": "演出 196811 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%AF%E6%98%AF%E5%A6%88%E5%A6%88%E5%BC%A0%E6%9D%B0%E4%B8%8D%E6%98%AF%E5%88%AB%E7%9A%84%E9%BB%84%E6%AF%9B&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "演出 196811",
-            "tag": "大卖",
-            "api_source": "tianapi",
-            "translation": "But Mom, Zhang Jie is not just any yellow-haired guy..."
-          }
-        },
-        {
-          "title": "7. 过度独立 心理创伤",
-          "value": "194008 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%87%E5%BA%A6%E7%8B%AC%E7%AB%8B%20%E5%BF%83%E7%90%86%E5%88%9B%E4%BC%A4&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 194008",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Excessive independence leads to psychological trauma..."
-          }
-        },
-        {
-          "title": "8. 买家电家居送家居家电真抽象 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%B0%E5%AE%B6%E7%94%B5%E5%AE%B6%E5%B1%85%E9%80%81%E5%AE%B6%E5%B1%85%E5%AE%B6%E7%94%B5%E7%9C%9F%E6%8A%BD%E8%B1%A1&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Buying home appliances is really abstract..."
-          }
-        },
-        {
-          "title": "9. 以为的淡妆vs实际上的淡妆",
-          "value": "192102 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A5%E4%B8%BA%E7%9A%84%E6%B7%A1%E5%A6%86vs%E5%AE%9E%E9%99%85%E4%B8%8A%E7%9A%84%E6%B7%A1%E5%A6%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 192102",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Perceived light makeup vs actual light makeup..."
-          }
-        },
-        {
-          "title": "10. 建议喜糖都按这个标准来 [新]",
-          "value": "185202 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E5%96%9C%E7%B3%96%E9%83%BD%E6%8C%89%E8%BF%99%E4%B8%AA%E6%A0%87%E5%87%86%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 185202",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "It is suggested that wedding candies follow this standard..."
           }
         }
       ]
