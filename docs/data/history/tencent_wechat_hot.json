@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-01-31T06:05:34+08:00",
+  "generated_at": "2026-01-31T11:18:43+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-31T11:18:43+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 中共中央政治局召开会议",
+          "value": "指数 7904761",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904761",
+            "api_source": "tianapi",
+            "translation": "The Political Bureau of the CPC Central Committee held a..."
+          }
+        },
+        {
+          "title": "2. 大堂78公斤黄金砖连夜撤走 酒店回应",
+          "value": "指数 7808789",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%A7%E5%A0%8278%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91%E7%A0%96%E8%BF%9E%E5%A4%9C%E6%92%A4%E8%B5%B0+%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808789",
+            "api_source": "tianapi",
+            "translation": "78 kg gold bars removed overnight; hotel responds..."
+          }
+        },
+        {
+          "title": "3. 解放军万吨大驱单挑外军舰队",
+          "value": "指数 7711965",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E5%8D%95%E6%8C%91%E5%A4%96%E5%86%9B%E8%88%B0%E9%98%9F",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7711965",
+            "api_source": "tianapi",
+            "translation": "The PLA's 10,000-ton destroyer challenges foreign fleets..."
+          }
+        },
+        {
+          "title": "4. 多地GDP数据发布 数字之外怎么看",
+          "value": "指数 7618245",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%9A%E5%9C%B0GDP%E6%95%B0%E6%8D%AE%E5%8F%91%E5%B8%83+%E6%95%B0%E5%AD%97%E4%B9%8B%E5%A4%96%E6%80%8E%E4%B9%88%E7%9C%8B",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7618245",
+            "api_source": "tianapi",
+            "translation": "Multiple regions release GDP data: how to interpret..."
+          }
+        },
+        {
+          "title": "5. 早睡早起和晚睡晚起的人 谁更健康",
+          "value": "指数 7521347",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%A9%E7%9D%A1%E6%97%A9%E8%B5%B7%E5%92%8C%E6%99%9A%E7%9D%A1%E6%99%9A%E8%B5%B7%E7%9A%84%E4%BA%BA+%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7521347",
+            "api_source": "tianapi",
+            "translation": "Who is healthier: early risers or night owls?"
+          }
+        },
+        {
+          "title": "6. 日本山林里发现一具中国籍女性遗体",
+          "value": "指数 7428311",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%A5%E6%9C%AC%E5%B1%B1%E6%9E%97%E9%87%8C%E5%8F%91%E7%8E%B0%E4%B8%80%E5%85%B7%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E6%80%A7%E9%81%97%E4%BD%93",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7428311",
+            "api_source": "tianapi",
+            "translation": "A body of a Chinese woman found in Japanese mountains..."
+          }
+        },
+        {
+          "title": "7. “水煮黄河”奇观出现",
+          "value": "指数 7327765",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E6%B0%B4%E7%85%AE%E9%BB%84%E6%B2%B3%E2%80%9D%E5%A5%87%E8%A7%82%E5%87%BA%E7%8E%B0",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7327765",
+            "api_source": "tianapi",
+            "translation": "The wonder of \"boiled Yellow River\" appears..."
+          }
+        },
+        {
+          "title": "8. 投保8年才知20年返本是谎言",
+          "value": "指数 7234081",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%8A%95%E4%BF%9D8%E5%B9%B4%E6%89%8D%E7%9F%A520%E5%B9%B4%E8%BF%94%E6%9C%AC%E6%98%AF%E8%B0%8E%E8%A8%80",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7234081",
+            "api_source": "tianapi",
+            "translation": "Insured for 8 years only to find 20-year return is a lie..."
+          }
+        },
+        {
+          "title": "9. 英国首相斯塔默评价中国之行",
+          "value": "指数 7142476",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E6%96%AF%E5%A1%94%E9%BB%98%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7142476",
+            "api_source": "tianapi",
+            "translation": "UK Prime Minister Starmer comments on his trip to China..."
+          }
+        },
+        {
+          "title": "10. 俄罗斯重新将14名日本人列为战犯",
+          "value": "指数 7047065",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8D%E6%96%B0%E5%B0%8614%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%88%97%E4%B8%BA%E6%88%98%E7%8A%AF",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7047065",
+            "api_source": "tianapi",
+            "translation": "Russia reclassifies 14 Japanese individuals as war..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-31T06:05:34+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7042142",
             "api_source": "tianapi",
             "translation": "These 6 seemingly dry foods are actually high in fat..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-25T11:15:47+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 总书记强调全党都会做这件事",
-          "value": "指数 7904194",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%BA%E8%B0%83%E5%85%A8%E5%85%9A%E9%83%BD%E4%BC%9A%E5%81%9A%E8%BF%99%E4%BB%B6%E4%BA%8B",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904194",
-            "api_source": "tianapi",
-            "translation": "The General Secretary emphasized that the whole party..."
-          }
-        },
-        {
-          "title": "2. U23国足不敌日本获得亚军",
-          "value": "指数 7808507",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E5%BE%97%E4%BA%9A%E5%86%9B",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808507",
-            "api_source": "tianapi",
-            "translation": "U23 national football team loses to Japan, secures..."
-          }
-        },
-        {
-          "title": "3. U23国足0比4输了不是世界末日",
-          "value": "指数 7713406",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=U23%E5%9B%BD%E8%B6%B30%E6%AF%944%E8%BE%93%E4%BA%86%E4%B8%8D%E6%98%AF%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713406",
-            "api_source": "tianapi",
-            "translation": "U23 national football team lost 0-4, not the end of the..."
-          }
-        },
-        {
-          "title": "4. 寒假来临 这份安全指南请签收",
-          "value": "指数 7617738",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%AF%92%E5%81%87%E6%9D%A5%E4%B8%B4+%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%E8%AF%B7%E7%AD%BE%E6%94%B6",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7617738",
-            "api_source": "tianapi",
-            "translation": "Winter break is here; please acknowledge this safety..."
-          }
-        },
-        {
-          "title": "5. U23国足领取亚军奖牌 全员无笑容",
-          "value": "指数 7520797",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=U23%E5%9B%BD%E8%B6%B3%E9%A2%86%E5%8F%96%E4%BA%9A%E5%86%9B%E5%A5%96%E7%89%8C+%E5%85%A8%E5%91%98%E6%97%A0%E7%AC%91%E5%AE%B9",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7520797",
-            "api_source": "tianapi",
-            "translation": "U23 national team receives silver medals, all without..."
-          }
-        },
-        {
-          "title": "6. 海霞哽咽回应任河南大学学术副校长",
-          "value": "指数 7428013",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B5%B7%E9%9C%9E%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E4%BB%BB%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%9C%AF%E5%89%AF%E6%A0%A1%E9%95%BF",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7428013",
-            "api_source": "tianapi",
-            "translation": "Hai Xia choked up responding to her appointment as VP of..."
-          }
-        },
-        {
-          "title": "7. 印度男子倒奶入河 故意避开饥饿儿童",
-          "value": "指数 7333855",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E5%80%92%E5%A5%B6%E5%85%A5%E6%B2%B3+%E6%95%85%E6%84%8F%E9%81%BF%E5%BC%80%E9%A5%A5%E9%A5%BF%E5%84%BF%E7%AB%A5",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7333855",
-            "api_source": "tianapi",
-            "translation": "Indian man pours milk into river, deliberately avoiding..."
-          }
-        },
-        {
-          "title": "8. 范志毅：这样输球我能接受",
-          "value": "指数 7232822",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%8C%83%E5%BF%97%E6%AF%85%EF%BC%9A%E8%BF%99%E6%A0%B7%E8%BE%93%E7%90%83%E6%88%91%E8%83%BD%E6%8E%A5%E5%8F%97",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7232822",
-            "api_source": "tianapi",
-            "translation": "Fan Zhiyi: I can accept losing like this..."
-          }
-        },
-        {
-          "title": "9. 球员赛后抹泪 教练组大喊：抬起头来",
-          "value": "指数 7143319",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%90%83%E5%91%98%E8%B5%9B%E5%90%8E%E6%8A%B9%E6%B3%AA+%E6%95%99%E7%BB%83%E7%BB%84%E5%A4%A7%E5%96%8A%EF%BC%9A%E6%8A%AC%E8%B5%B7%E5%A4%B4%E6%9D%A5",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7143319",
-            "api_source": "tianapi",
-            "translation": "Players wipe tears post-game; coaches shout: \"Lift your..."
-          }
-        },
-        {
-          "title": "10. 这座见证大唐盛世的国宝 日本该还了",
-          "value": "指数 7043108",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%BF%99%E5%BA%A7%E8%A7%81%E8%AF%81%E5%A4%A7%E5%94%90%E7%9B%9B%E4%B8%96%E7%9A%84%E5%9B%BD%E5%AE%9D+%E6%97%A5%E6%9C%AC%E8%AF%A5%E8%BF%98%E4%BA%86",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7043108",
-            "api_source": "tianapi",
-            "translation": "This national treasure witnessing the Tang Dynasty..."
           }
         }
       ]
