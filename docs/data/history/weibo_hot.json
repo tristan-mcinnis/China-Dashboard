@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-01-31T18:41:25+08:00",
+  "generated_at": "2026-01-31T22:10:25+08:00",
   "entries": [
+    {
+      "as_of": "2026-01-31T22:10:25+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 内娱唯一说微调结果没人信的人",
+          "value": "综艺 1265318 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%85%E5%A8%B1%E5%94%AF%E4%B8%80%E8%AF%B4%E5%BE%AE%E8%B0%83%E7%BB%93%E6%9E%9C%E6%B2%A1%E4%BA%BA%E4%BF%A1%E7%9A%84%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "综艺 1265318",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The only one in the entertainment industry who doubts..."
+          }
+        },
+        {
+          "title": "2. 公务员为离职故意旷工触发辞退条款",
+          "value": "853822 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%BA%E7%A6%BB%E8%81%8C%E6%95%85%E6%84%8F%E6%97%B7%E5%B7%A5%E8%A7%A6%E5%8F%91%E8%BE%9E%E9%80%80%E6%9D%A1%E6%AC%BE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 853822",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Civil servant's intentional absenteeism triggers..."
+          }
+        },
+        {
+          "title": "3. 2月起一批新规将施行",
+          "value": "719451 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2%E6%9C%88%E8%B5%B7%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 719451",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A new set of regulations will take effect in February..."
+          }
+        },
+        {
+          "title": "4. 生命树收视率",
+          "value": "剧集 653255 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91%E6%94%B6%E8%A7%86%E7%8E%87&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 653255",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "\"Tree of Life\" viewership ratings..."
+          }
+        },
+        {
+          "title": "5. 全球抛售美国",
+          "value": "471894 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E7%90%83%E6%8A%9B%E5%94%AE%E7%BE%8E%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 471894",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Global sell-off of the U.S."
+          }
+        },
+        {
+          "title": "6. 伊朗 [热]",
+          "value": "459245 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 459245",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Iran..."
+          }
+        },
+        {
+          "title": "7. 你好星期六今晚团建Fun4加马",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%BB%8A%E6%99%9A%E5%9B%A2%E5%BB%BAFun4%E5%8A%A0%E9%A9%AC&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hello Saturday, team building tonight Fun4 plus Ma..."
+          }
+        },
+        {
+          "title": "8. 已有4000家绝味鸭脖倒下 [新]",
+          "value": "437787 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%B2%E6%9C%894000%E5%AE%B6%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E5%80%92%E4%B8%8B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 437787",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "4,000 Juewei duck neck stores have closed down..."
+          }
+        },
+        {
+          "title": "9. 在飞机上删了五个小时的照片",
+          "value": "344062 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%88%A0%E4%BA%86%E4%BA%94%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E7%85%A7%E7%89%87&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 344062",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Deleted photos for five hours on the plane..."
+          }
+        },
+        {
+          "title": "10. 金价波动 [新]",
+          "value": "310070 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 310070",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Gold price fluctuations..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-01-31T18:41:25+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "沸",
             "api_source": "tianapi",
             "translation": "Fiery attraction..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-25T22:08:04+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 羽绒服这样洗可能会爆炸",
-          "value": "1075612 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%BF%99%E6%A0%B7%E6%B4%97%E5%8F%AF%E8%83%BD%E4%BC%9A%E7%88%86%E7%82%B8&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1075612",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Washing down jackets this way could cause an explosion..."
-          }
-        },
-        {
-          "title": "2. 印度一邦暴发疫情",
-          "value": "760220 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E4%B8%80%E9%82%A6%E6%9A%B4%E5%8F%91%E7%96%AB%E6%83%85&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 760220",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "An outbreak of disease occurs in an Indian state..."
-          }
-        },
-        {
-          "title": "3. 彩灯一亮年味就有了",
-          "value": "607183 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%A9%E7%81%AF%E4%B8%80%E4%BA%AE%E5%B9%B4%E5%91%B3%E5%B0%B1%E6%9C%89%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 607183",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The festive atmosphere comes alive with the lights..."
-          }
-        },
-        {
-          "title": "4. 刘宇宁喊你今晚8点上京东买年货 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E5%AE%87%E5%AE%81%E5%96%8A%E4%BD%A0%E4%BB%8A%E6%99%9A8%E7%82%B9%E4%B8%8A%E4%BA%AC%E4%B8%9C%E4%B9%B0%E5%B9%B4%E8%B4%A7&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Liu Yuning urges you to shop for New Year's goods at 8 PM..."
-          }
-        },
-        {
-          "title": "5. 何炅周考上岸",
-          "value": "360685 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E7%82%85%E5%91%A8%E8%80%83%E4%B8%8A%E5%B2%B8&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 360685",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "He Jiong and Zhou passed the exam..."
-          }
-        },
-        {
-          "title": "6. 江西唇腭裂女童引全网关注 [大促]",
-          "value": "263753 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%9F%E8%A5%BF%E5%94%87%E8%85%AD%E8%A3%82%E5%A5%B3%E7%AB%A5%E5%BC%95%E5%85%A8%E7%BD%91%E5%85%B3%E6%B3%A8&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 263753",
-            "tag": "大促",
-            "api_source": "tianapi",
-            "translation": "Jiangxi girl with cleft lip and palate attracts online..."
-          }
-        },
-        {
-          "title": "7. 建议喜糖都按这个标准来",
-          "value": "262431 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E5%96%9C%E7%B3%96%E9%83%BD%E6%8C%89%E8%BF%99%E4%B8%AA%E6%A0%87%E5%87%86%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 262431",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "It is suggested that wedding candies follow this standard..."
-          }
-        },
-        {
-          "title": "8. 双胞胎吵架差点把爷爷奶奶吵离婚 [新]",
-          "value": "244124 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%90%B5%E6%9E%B6%E5%B7%AE%E7%82%B9%E6%8A%8A%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E5%90%B5%E7%A6%BB%E5%A9%9A&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 244124",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The twins' quarrel nearly drove their grandparents to..."
-          }
-        },
-        {
-          "title": "9. 代旭千字长文告别裴轸",
-          "value": "剧集 219235 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A3%E6%97%AD%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E8%A3%B4%E8%BD%B8&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 219235",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Dai Xu's lengthy farewell to Pei Zhen..."
-          }
-        },
-        {
-          "title": "10. 春晚 [沸]",
-          "value": "晚会 182242 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "晚会 182242",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Spring Festival Gala..."
           }
         }
       ]
