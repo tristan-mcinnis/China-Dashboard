@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-01T14:13:24+08:00",
+  "generated_at": "2026-02-01T18:42:32+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-01T18:42:32+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 荣耀之战TOP赢了",
+          "value": "演出 1139699 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98TOP%E8%B5%A2%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "演出 1139699",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The Glory Battle TOP won..."
+          }
+        },
+        {
+          "title": "2. 爱泼斯坦案最后一批文件曝光 [新]",
+          "value": "801552 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%9C%80%E5%90%8E%E4%B8%80%E6%89%B9%E6%96%87%E4%BB%B6%E6%9B%9D%E5%85%89&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 801552",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Last batch of Epstein case documents released..."
+          }
+        },
+        {
+          "title": "3. 2026春节首日车票开售",
+          "value": "652828 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%98%A5%E8%8A%82%E9%A6%96%E6%97%A5%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 652828",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Tickets for the first day of 2026 Spring Festival go on..."
+          }
+        },
+        {
+          "title": "4. 美团外卖周末半价吃大餐 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E5%91%A8%E6%9C%AB%E5%8D%8A%E4%BB%B7%E5%90%83%E5%A4%A7%E9%A4%90&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Meituan takeout offers half-price meals on weekends..."
+          }
+        },
+        {
+          "title": "5. 左航哭了",
+          "value": "演出 616815 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A6%E8%88%AA%E5%93%AD%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "演出 616815",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zuo Hang cried..."
+          }
+        },
+        {
+          "title": "6. 深圳水贝挤满了人 [火热]",
+          "value": "570936 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E6%8C%A4%E6%BB%A1%E4%BA%86%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 570936",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Shenzhen Shuibei is crowded with people..."
+          }
+        },
+        {
+          "title": "7. 沉香如屑",
+          "value": "剧集 563911 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 563911",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Agarwood like shavings..."
+          }
+        },
+        {
+          "title": "8. 六小时了 它还在我胃里游 [新]",
+          "value": "552700 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AD%E5%B0%8F%E6%97%B6%E4%BA%86%20%E5%AE%83%E8%BF%98%E5%9C%A8%E6%88%91%E8%83%83%E9%87%8C%E6%B8%B8&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 552700",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "It's been six hours, and it's still swimming in my..."
+          }
+        },
+        {
+          "title": "9. 中国工商银行风险提示",
+          "value": "319011 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 319011",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Risk warning from Industrial and Commercial Bank of China..."
+          }
+        },
+        {
+          "title": "10. 在意失联博士床上四件套用了7年 [新]",
+          "value": "284807 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%A8%E6%84%8F%E5%A4%B1%E8%81%94%E5%8D%9A%E5%A3%AB%E5%BA%8A%E4%B8%8A%E5%9B%9B%E4%BB%B6%E5%A5%97%E7%94%A8%E4%BA%867%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 284807",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Used the missing PhD's bedding set for 7 years..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-01T14:13:24+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Customer returned the package with two yuan inside..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-26T18:42:30+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 甘肃地震",
-          "value": "1084715 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1084715",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gansu earthquake..."
-          }
-        },
-        {
-          "title": "2. 中国公民春节期间避免前往日本 [新]",
-          "value": "802995 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 802995",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Chinese citizens should avoid traveling to Japan during..."
-          }
-        },
-        {
-          "title": "3. 中国为何被称全球首个重要电力国家",
-          "value": "624386 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E9%87%8D%E8%A6%81%E7%94%B5%E5%8A%9B%E5%9B%BD%E5%AE%B6&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 624386",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Why is China called the world's first major power?"
-          }
-        },
-        {
-          "title": "4. 京东年货节送10万份家电家居好礼 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E5%B9%B4%E8%B4%A7%E8%8A%82%E9%80%8110%E4%B8%87%E4%BB%BD%E5%AE%B6%E7%94%B5%E5%AE%B6%E5%B1%85%E5%A5%BD%E7%A4%BC&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "JD's New Year Festival offers 100,000 home appliance..."
-          }
-        },
-        {
-          "title": "5. 十日终焉大男主",
-          "value": "剧集 377100 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%A4%A7%E7%94%B7%E4%B8%BB&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 377100",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The great male lead's end in ten days..."
-          }
-        },
-        {
-          "title": "6. 我国已将尼帕病毒纳入检测范围 [火热]",
-          "value": "315436 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E5%B7%B2%E5%B0%86%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%BA%B3%E5%85%A5%E6%A3%80%E6%B5%8B%E8%8C%83%E5%9B%B4&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 315436",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "China has included Nipah virus in its testing scope..."
-          }
-        },
-        {
-          "title": "7. 芒果新签女艺人做梦都想去花少8",
-          "value": "综艺 247694 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%92%E6%9E%9C%E6%96%B0%E7%AD%BE%E5%A5%B3%E8%89%BA%E4%BA%BA%E5%81%9A%E6%A2%A6%E9%83%BD%E6%83%B3%E5%8E%BB%E8%8A%B1%E5%B0%918&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "综艺 247694",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New mango signed female artist dreams of going to..."
-          }
-        },
-        {
-          "title": "8. 空姐笑了半小时才把橙汁倒下去 [新]",
-          "value": "243610 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%BA%E5%A7%90%E7%AC%91%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%89%8D%E6%8A%8A%E6%A9%99%E6%B1%81%E5%80%92%E4%B8%8B%E5%8E%BB&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 243610",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The flight attendant smiled for half an hour before..."
-          }
-        },
-        {
-          "title": "9. 靖国神社前的石狮掠自中国",
-          "value": "226329 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%89%8D%E7%9A%84%E7%9F%B3%E7%8B%AE%E6%8E%A0%E8%87%AA%E4%B8%AD%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 226329",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The stone lions in front of Yasukuni Shrine were looted..."
-          }
-        },
-        {
-          "title": "10. 紫金矿业卖一挂单40.7亿元",
-          "value": "207935 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%B4%AB%E9%87%91%E7%9F%BF%E4%B8%9A%E5%8D%96%E4%B8%80%E6%8C%82%E5%8D%9540.7%E4%BA%BF%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 207935",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zijin Mining sells a single order for 4.07 billion yuan..."
           }
         }
       ]
