@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-01T18:42:40+08:00",
+  "generated_at": "2026-02-01T22:11:28+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-01T22:11:28+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. “十五五”规划建议列出六个增长点",
+          "value": "指数 7904315",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%88%97%E5%87%BA%E5%85%AD%E4%B8%AA%E5%A2%9E%E9%95%BF%E7%82%B9",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904315",
+            "api_source": "tianapi",
+            "translation": "The 15th Five-Year Plan suggests six growth points..."
+          }
+        },
+        {
+          "title": "2. “00后”陶忆雯成央视新主播",
+          "value": "指数 7809169",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C00%E5%90%8E%E2%80%9D%E9%99%B6%E5%BF%86%E9%9B%AF%E6%88%90%E5%A4%AE%E8%A7%86%E6%96%B0%E4%B8%BB%E6%92%AD",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809169",
+            "api_source": "tianapi",
+            "translation": "\"Post-00s\" Tao Yiwen becomes a new CCTV anchor..."
+          }
+        },
+        {
+          "title": "3. 1.8亿理财剩44万 银行担责不该拖延",
+          "value": "指数 7714335",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=1.8%E4%BA%BF%E7%90%86%E8%B4%A2%E5%89%A944%E4%B8%87+%E9%93%B6%E8%A1%8C%E6%8B%85%E8%B4%A3%E4%B8%8D%E8%AF%A5%E6%8B%96%E5%BB%B6",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7714335",
+            "api_source": "tianapi",
+            "translation": "180 million in investments left with 440,000; banks must..."
+          }
+        },
+        {
+          "title": "4. 人民币现金收付施行新规",
+          "value": "指数 7616296",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E6%B0%91%E5%B8%81%E7%8E%B0%E9%87%91%E6%94%B6%E4%BB%98%E6%96%BD%E8%A1%8C%E6%96%B0%E8%A7%84",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616296",
+            "api_source": "tianapi",
+            "translation": "New regulations for cash transactions in RMB implemented..."
+          }
+        },
+        {
+          "title": "5. 人到中年容易胖 真不关代谢的事",
+          "value": "指数 7522658",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%AE%B9%E6%98%93%E8%83%96+%E7%9C%9F%E4%B8%8D%E5%85%B3%E4%BB%A3%E8%B0%A2%E7%9A%84%E4%BA%8B",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7522658",
+            "api_source": "tianapi",
+            "translation": "Gaining weight in middle age isn't just about metabolism..."
+          }
+        },
+        {
+          "title": "6. 演员宋佳任黑龙江省政协委员",
+          "value": "指数 7426277",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%BC%94%E5%91%98%E5%AE%8B%E4%BD%B3%E4%BB%BB%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7426277",
+            "api_source": "tianapi",
+            "translation": "Actress Song Jia appointed as a member of Heilongjiang..."
+          }
+        },
+        {
+          "title": "7. 小鹏机器人首秀摔倒 被抬离现场",
+          "value": "指数 7329523",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E5%80%92+%E8%A2%AB%E6%8A%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7329523",
+            "api_source": "tianapi",
+            "translation": "Xiaopeng robot's debut ends in a fall and removal..."
+          }
+        },
+        {
+          "title": "8. 工行、建行等多家银行发布风险提示",
+          "value": "指数 7237321",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B7%A5%E8%A1%8C%E3%80%81%E5%BB%BA%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7237321",
+            "api_source": "tianapi",
+            "translation": "ICBC, CCB and other banks issue risk warnings..."
+          }
+        },
+        {
+          "title": "9. 在意失联博士床上四件套用了7年",
+          "value": "指数 7141350",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9C%A8%E6%84%8F%E5%A4%B1%E8%81%94%E5%8D%9A%E5%A3%AB%E5%BA%8A%E4%B8%8A%E5%9B%9B%E4%BB%B6%E5%A5%97%E7%94%A8%E4%BA%867%E5%B9%B4",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7141350",
+            "api_source": "tianapi",
+            "translation": "Used the missing PhD's bedding set for 7 years..."
+          }
+        },
+        {
+          "title": "10. “感动的妈 命苦的他”",
+          "value": "指数 7046581",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E6%84%9F%E5%8A%A8%E7%9A%84%E5%A6%88+%E5%91%BD%E8%8B%A6%E7%9A%84%E4%BB%96%E2%80%9D",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7046581",
+            "api_source": "tianapi",
+            "translation": "\"Moved mom, unfortunate him...\""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-01T18:42:40+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7043162",
             "api_source": "tianapi",
             "translation": "The child is \"stuck\" in the embrace of the God of Wealth..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-26T22:14:00+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 保持战略定力 增强实干本领",
-          "value": "指数 7904261",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BF%9D%E6%8C%81%E6%88%98%E7%95%A5%E5%AE%9A%E5%8A%9B+%E5%A2%9E%E5%BC%BA%E5%AE%9E%E5%B9%B2%E6%9C%AC%E9%A2%86",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904261",
-            "api_source": "tianapi",
-            "translation": "Maintain strategic focus and enhance practical skills..."
-          }
-        },
-        {
-          "title": "2. 49条中日航线取消全部航班",
-          "value": "指数 7807906",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=49%E6%9D%A1%E4%B8%AD%E6%97%A5%E8%88%AA%E7%BA%BF%E5%8F%96%E6%B6%88%E5%85%A8%E9%83%A8%E8%88%AA%E7%8F%AD",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7807906",
-            "api_source": "tianapi",
-            "translation": "All flights on 49 China-Japan routes canceled..."
-          }
-        },
-        {
-          "title": "3. 外交部提醒：春节期间避免前往日本",
-          "value": "指数 7713539",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%EF%BC%9A%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713539",
-            "api_source": "tianapi",
-            "translation": "Ministry of Foreign Affairs advises against traveling to..."
-          }
-        },
-        {
-          "title": "4. 2025年国内居民出游人次超65亿",
-          "value": "指数 7618676",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=2025%E5%B9%B4%E5%9B%BD%E5%86%85%E5%B1%85%E6%B0%91%E5%87%BA%E6%B8%B8%E4%BA%BA%E6%AC%A1%E8%B6%8565%E4%BA%BF",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618676",
-            "api_source": "tianapi",
-            "translation": "By 2025, domestic tourist visits will exceed 6.5 billion..."
-          }
-        },
-        {
-          "title": "5. “垃圾不够烧了”",
-          "value": "指数 7523346",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E5%9E%83%E5%9C%BE%E4%B8%8D%E5%A4%9F%E7%83%A7%E4%BA%86%E2%80%9D",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7523346",
-            "api_source": "tianapi",
-            "translation": "\"Not enough garbage to burn...\""
-          }
-        },
-        {
-          "title": "6. 顾客试吃后往退货包裹里塞了2元钱",
-          "value": "指数 7428247",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%A1%BE%E5%AE%A2%E8%AF%95%E5%90%83%E5%90%8E%E5%BE%80%E9%80%80%E8%B4%A7%E5%8C%85%E8%A3%B9%E9%87%8C%E5%A1%9E%E4%BA%862%E5%85%83%E9%92%B1",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7428247",
-            "api_source": "tianapi",
-            "translation": "Customer put 2 yuan in the return package after tasting..."
-          }
-        },
-        {
-          "title": "7. 董明珠卸任 格力电子元器件公司换帅",
-          "value": "指数 7333639",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%8D%B8%E4%BB%BB+%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%AD%90%E5%85%83%E5%99%A8%E4%BB%B6%E5%85%AC%E5%8F%B8%E6%8D%A2%E5%B8%85",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7333639",
-            "api_source": "tianapi",
-            "translation": "Dong Mingzhu steps down; Gree Electronics gets new..."
-          }
-        },
-        {
-          "title": "8. 50万亿天量存款将到期",
-          "value": "指数 7239145",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=50%E4%B8%87%E4%BA%BF%E5%A4%A9%E9%87%8F%E5%AD%98%E6%AC%BE%E5%B0%86%E5%88%B0%E6%9C%9F",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7239145",
-            "api_source": "tianapi",
-            "translation": "500 trillion in deposits will mature..."
-          }
-        },
-        {
-          "title": "9. 甘肃居民谈地震经过：逃生时被吓哭",
-          "value": "指数 7136466",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%98%E8%82%83%E5%B1%85%E6%B0%91%E8%B0%88%E5%9C%B0%E9%9C%87%E7%BB%8F%E8%BF%87%EF%BC%9A%E9%80%83%E7%94%9F%E6%97%B6%E8%A2%AB%E5%90%93%E5%93%AD",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7136466",
-            "api_source": "tianapi",
-            "translation": "Gansu residents recount the earthquake: scared to tears..."
-          }
-        },
-        {
-          "title": "10. 大爷2万多网购“宝马” 5天趴窝4次",
-          "value": "指数 7048317",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%A7%E7%88%B72%E4%B8%87%E5%A4%9A%E7%BD%91%E8%B4%AD%E2%80%9C%E5%AE%9D%E9%A9%AC%E2%80%9D+5%E5%A4%A9%E8%B6%B4%E7%AA%9D4%E6%AC%A1",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7048317",
-            "api_source": "tianapi",
-            "translation": "Elderly man spends over 20,000 on online \"BMW,\" breaks..."
           }
         }
       ]
