@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-01T22:11:19+08:00",
+  "generated_at": "2026-02-02T06:04:44+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-02T06:04:44+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 爱泼斯坦案多名受害者指控特朗普",
+          "value": "216952 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 216952",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Multiple Epstein case victims accuse Trump..."
+          }
+        },
+        {
+          "title": "2. 洛杉矶市长候选人女儿路边身亡 [热]",
+          "value": "159954 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B8%82%E9%95%BF%E5%80%99%E9%80%89%E4%BA%BA%E5%A5%B3%E5%84%BF%E8%B7%AF%E8%BE%B9%E8%BA%AB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 159954",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Los Angeles mayoral candidate's daughter found dead by..."
+          }
+        },
+        {
+          "title": "3. 多地年味浓度超标了",
+          "value": "123467 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E5%B9%B4%E5%91%B3%E6%B5%93%E5%BA%A6%E8%B6%85%E6%A0%87%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 123467",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The festive atmosphere in many places is overwhelming..."
+          }
+        },
+        {
+          "title": "4. 于文文演唱会晕倒",
+          "value": "演出 88816 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8E%E6%96%87%E6%96%87%E6%BC%94%E5%94%B1%E4%BC%9A%E6%99%95%E5%80%92&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "演出 88816",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yu Wenwen fainted during the concert..."
+          }
+        },
+        {
+          "title": "5. 领导疯狂劝酒员工喝完口吐鲜血",
+          "value": "48959 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A2%86%E5%AF%BC%E7%96%AF%E7%8B%82%E5%8A%9D%E9%85%92%E5%91%98%E5%B7%A5%E5%96%9D%E5%AE%8C%E5%8F%A3%E5%90%90%E9%B2%9C%E8%A1%80&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 48959",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The leader urged the employee to drink, who then spat..."
+          }
+        },
+        {
+          "title": "6. 微博之夜第七波阵容 [沸]",
+          "value": "盛典 33381 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%AC%AC%E4%B8%83%E6%B3%A2%E9%98%B5%E5%AE%B9&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "盛典 33381",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Weibo Night's seventh wave lineup..."
+          }
+        },
+        {
+          "title": "7. 央视迎00后新主播",
+          "value": "29027 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E8%BF%8E00%E5%90%8E%E6%96%B0%E4%B8%BB%E6%92%AD&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 29027",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "CCTV welcomes new post-00s anchors..."
+          }
+        },
+        {
+          "title": "8. 爷爷每年都给孙子买根金条当礼物",
+          "value": "27355 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B7%E7%88%B7%E6%AF%8F%E5%B9%B4%E9%83%BD%E7%BB%99%E5%AD%99%E5%AD%90%E4%B9%B0%E6%A0%B9%E9%87%91%E6%9D%A1%E5%BD%93%E7%A4%BC%E7%89%A9&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 27355",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Grandpa buys a gold bar for his grandson every year..."
+          }
+        },
+        {
+          "title": "9. 格莱美预测",
+          "value": "演出 25682 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A0%BC%E8%8E%B1%E7%BE%8E%E9%A2%84%E6%B5%8B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "演出 25682",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Grammy predictions..."
+          }
+        },
+        {
+          "title": "10. 微博之夜",
+          "value": "盛典 25587 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "盛典 25587",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Weibo Night..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-01T22:11:19+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Two younger brothers went out to buy New Year goods..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-27T06:04:24+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 牵羊礼 屈辱",
-          "value": "剧集 203855 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B5%E7%BE%8A%E7%A4%BC%20%E5%B1%88%E8%BE%B1&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "剧集 203855",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The humiliation of the sheep-leading ceremony..."
-          }
-        },
-        {
-          "title": "2. 男子彩票中800余万交妻子淡定上班 [热]",
-          "value": "143631 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD800%E4%BD%99%E4%B8%87%E4%BA%A4%E5%A6%BB%E5%AD%90%E6%B7%A1%E5%AE%9A%E4%B8%8A%E7%8F%AD&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 143631",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Man wins over 8 million in lottery, wife calmly goes to..."
-          }
-        },
-        {
-          "title": "3. 2025中国十大科技进展新闻",
-          "value": "119388 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E8%BF%9B%E5%B1%95%E6%96%B0%E9%97%BB&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 119388",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Top 10 Tech Advances in China for 2025..."
-          }
-        },
-        {
-          "title": "4. 陈佩斯一出场年味就对了",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E4%BD%A9%E6%96%AF%E4%B8%80%E5%87%BA%E5%9C%BA%E5%B9%B4%E5%91%B3%E5%B0%B1%E5%AF%B9%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chen Peisi's appearance brings the festive spirit..."
-          }
-        },
-        {
-          "title": "5. 好利来蛋糕店店员将掉地面包捡起售卖",
-          "value": "41051 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%BD%E5%88%A9%E6%9D%A5%E8%9B%8B%E7%B3%95%E5%BA%97%E5%BA%97%E5%91%98%E5%B0%86%E6%8E%89%E5%9C%B0%E9%9D%A2%E5%8C%85%E6%8D%A1%E8%B5%B7%E5%94%AE%E5%8D%96&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 41051",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Hollyland bakery staff sold bread picked up from the..."
-          }
-        },
-        {
-          "title": "6. 中方坚决反对将疫情甩锅中国 [热映]",
-          "value": "37781 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E5%B0%86%E7%96%AB%E6%83%85%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 37781",
-            "tag": "热映",
-            "api_source": "tianapi",
-            "translation": "China firmly opposes blaming the pandemic on it..."
-          }
-        },
-        {
-          "title": "7. 49条中日航线取消全部航班",
-          "value": "36564 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D49%E6%9D%A1%E4%B8%AD%E6%97%A5%E8%88%AA%E7%BA%BF%E5%8F%96%E6%B6%88%E5%85%A8%E9%83%A8%E8%88%AA%E7%8F%AD&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 36564",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "All flights on 49 China-Japan routes canceled..."
-          }
-        },
-        {
-          "title": "8. 美军航母进入印度洋",
-          "value": "27505 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%86%9B%E8%88%AA%E6%AF%8D%E8%BF%9B%E5%85%A5%E5%8D%B0%E5%BA%A6%E6%B4%8B&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 27505",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "US aircraft carrier enters the Indian Ocean..."
-          }
-        },
-        {
-          "title": "9. 12306回应带小孩被分静音车厢",
-          "value": "26156 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D12306%E5%9B%9E%E5%BA%94%E5%B8%A6%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%88%86%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 26156",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "12306 responds to child passengers being placed in quiet..."
-          }
-        },
-        {
-          "title": "10. 中国公民春节期间避免前往日本",
-          "value": "24340 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 24340",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese citizens should avoid traveling to Japan during..."
           }
         }
       ]
