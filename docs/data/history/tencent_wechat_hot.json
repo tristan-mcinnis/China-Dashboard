@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-02T11:29:19+08:00",
+  "generated_at": "2026-02-02T14:18:18+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-02T14:18:18+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 未来产业何以加速崛起",
+          "value": "指数 7904233",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9C%AA%E6%9D%A5%E4%BA%A7%E4%B8%9A%E4%BD%95%E4%BB%A5%E5%8A%A0%E9%80%9F%E5%B4%9B%E8%B5%B7",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904233",
+            "api_source": "tianapi",
+            "translation": "How will future industries accelerate their rise..."
+          }
+        },
+        {
+          "title": "2. 白所成一审宣判后因病死亡",
+          "value": "指数 7808621",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%99%BD%E6%89%80%E6%88%90%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%E5%90%8E%E5%9B%A0%E7%97%85%E6%AD%BB%E4%BA%A1",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808621",
+            "api_source": "tianapi",
+            "translation": "Bai Suocheng died of illness after the first trial..."
+          }
+        },
+        {
+          "title": "3. 主持人李晓东宣布已从央视离职",
+          "value": "指数 7713870",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%99%93%E4%B8%9C%E5%AE%A3%E5%B8%83%E5%B7%B2%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713870",
+            "api_source": "tianapi",
+            "translation": "Host Li Xiaodong announces departure from CCTV..."
+          }
+        },
+        {
+          "title": "4. 春运今日开启 出行全攻略请查收",
+          "value": "指数 7616851",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%98%A5%E8%BF%90%E4%BB%8A%E6%97%A5%E5%BC%80%E5%90%AF+%E5%87%BA%E8%A1%8C%E5%85%A8%E6%94%BB%E7%95%A5%E8%AF%B7%E6%9F%A5%E6%94%B6",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616851",
+            "api_source": "tianapi",
+            "translation": "Spring Festival travel begins today; check the travel..."
+          }
+        },
+        {
+          "title": "5. 陈奕迅获奖100万 张学友获奖50万",
+          "value": "指数 7521058",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%99%88%E5%A5%95%E8%BF%85%E8%8E%B7%E5%A5%96100%E4%B8%87+%E5%BC%A0%E5%AD%A6%E5%8F%8B%E8%8E%B7%E5%A5%9650%E4%B8%87",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7521058",
+            "api_source": "tianapi",
+            "translation": "Eason Chan won 1 million, Jacky Cheung won 500,000..."
+          }
+        },
+        {
+          "title": "6. 螺母被认定枪支散件 五金厂老板获刑",
+          "value": "指数 7427926",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%9E%BA%E6%AF%8D%E8%A2%AB%E8%AE%A4%E5%AE%9A%E6%9E%AA%E6%94%AF%E6%95%A3%E4%BB%B6+%E4%BA%94%E9%87%91%E5%8E%82%E8%80%81%E6%9D%BF%E8%8E%B7%E5%88%91",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7427926",
+            "api_source": "tianapi",
+            "translation": "Nut classified as firearm part; hardware store owner..."
+          }
+        },
+        {
+          "title": "7. 员工多看了一眼挽损1800万被奖1万",
+          "value": "指数 7329377",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%91%98%E5%B7%A5%E5%A4%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E7%9C%BC%E6%8C%BD%E6%8D%9F1800%E4%B8%87%E8%A2%AB%E5%A5%961%E4%B8%87",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7329377",
+            "api_source": "tianapi",
+            "translation": "Employee rewarded 10,000 for saving 18 million..."
+          }
+        },
+        {
+          "title": "8. 格陵兰岛居民：商店里的枪都快卖光了",
+          "value": "指数 7238588",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%B1%85%E6%B0%91%EF%BC%9A%E5%95%86%E5%BA%97%E9%87%8C%E7%9A%84%E6%9E%AA%E9%83%BD%E5%BF%AB%E5%8D%96%E5%85%89%E4%BA%86",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7238588",
+            "api_source": "tianapi",
+            "translation": "Greenland residents: Guns in stores are nearly sold out..."
+          }
+        },
+        {
+          "title": "9. 雷军：第一代小米SU7已停售",
+          "value": "指数 7143831",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%9B%B7%E5%86%9B%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%B7%B2%E5%81%9C%E5%94%AE",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7143831",
+            "api_source": "tianapi",
+            "translation": "Lei Jun: The first generation Xiaomi SU7 has been..."
+          }
+        },
+        {
+          "title": "10. “全网最爱发钱的老板”招工了",
+          "value": "指数 7041803",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E5%85%A8%E7%BD%91%E6%9C%80%E7%88%B1%E5%8F%91%E9%92%B1%E7%9A%84%E8%80%81%E6%9D%BF%E2%80%9D%E6%8B%9B%E5%B7%A5%E4%BA%86",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7041803",
+            "api_source": "tianapi",
+            "translation": "\"The most generous boss online is hiring...\""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-02T11:29:19+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7048484",
             "api_source": "tianapi",
             "translation": "Every nearsighted person should control their sugar..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-27T14:02:21+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 习近平同苏林通电话",
-          "value": "指数 7904768",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E8%8B%8F%E6%9E%97%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904768",
-            "api_source": "tianapi",
-            "translation": "Xi Jinping spoke on the phone with Su Lintong..."
-          }
-        },
-        {
-          "title": "2. 武汉病毒研究所发现对尼帕有效药物",
-          "value": "指数 7808381",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%AD%A6%E6%B1%89%E7%97%85%E6%AF%92%E7%A0%94%E7%A9%B6%E6%89%80%E5%8F%91%E7%8E%B0%E5%AF%B9%E5%B0%BC%E5%B8%95%E6%9C%89%E6%95%88%E8%8D%AF%E7%89%A9",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808381",
-            "api_source": "tianapi",
-            "translation": "Wuhan Institute discovers effective drug for Nipah..."
-          }
-        },
-        {
-          "title": "3. 靖国神社前的石狮掠自中国",
-          "value": "指数 7712406",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%89%8D%E7%9A%84%E7%9F%B3%E7%8B%AE%E6%8E%A0%E8%87%AA%E4%B8%AD%E5%9B%BD",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7712406",
-            "api_source": "tianapi",
-            "translation": "The stone lions in front of Yasukuni Shrine were looted..."
-          }
-        },
-        {
-          "title": "4. 工业机器人当“车间主任”还有多远",
-          "value": "指数 7619413",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E2%80%9C%E8%BD%A6%E9%97%B4%E4%B8%BB%E4%BB%BB%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7619413",
-            "api_source": "tianapi",
-            "translation": "How far are we from industrial robots as \"shop managers\"?"
-          }
-        },
-        {
-          "title": "5. 日民众排队送别大熊猫 人群挤满天桥",
-          "value": "指数 7520519",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%A5%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F%E9%80%81%E5%88%AB%E5%A4%A7%E7%86%8A%E7%8C%AB+%E4%BA%BA%E7%BE%A4%E6%8C%A4%E6%BB%A1%E5%A4%A9%E6%A1%A5",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7520519",
-            "api_source": "tianapi",
-            "translation": "Public lines up to bid farewell to giant panda, bridge..."
-          }
-        },
-        {
-          "title": "6. 中央考核巡查组现场拆穿负责人狡辩",
-          "value": "指数 7424444",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E7%BB%84%E7%8E%B0%E5%9C%BA%E6%8B%86%E7%A9%BF%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%8B%A1%E8%BE%A9",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7424444",
-            "api_source": "tianapi",
-            "translation": "Central inspection team exposes the leader's excuses..."
-          }
-        },
-        {
-          "title": "7. 54年来首次 日本国内没有大熊猫了",
-          "value": "指数 7328502",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=54%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1+%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E6%B2%A1%E6%9C%89%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BA%86",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7328502",
-            "api_source": "tianapi",
-            "translation": "No giant pandas in Japan for the first time in 54 years..."
-          }
-        },
-        {
-          "title": "8. 124亿现金！安踏成彪马最大股东",
-          "value": "指数 7234722",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=124%E4%BA%BF%E7%8E%B0%E9%87%91%EF%BC%81%E5%AE%89%E8%B8%8F%E6%88%90%E5%BD%AA%E9%A9%AC%E6%9C%80%E5%A4%A7%E8%82%A1%E4%B8%9C",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7234722",
-            "api_source": "tianapi",
-            "translation": "12.4 billion cash! Anta becomes Puma's largest..."
-          }
-        },
-        {
-          "title": "9. 长期烧水喝和买桶装水喝 哪种更健康",
-          "value": "指数 7136018",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%95%BF%E6%9C%9F%E7%83%A7%E6%B0%B4%E5%96%9D%E5%92%8C%E4%B9%B0%E6%A1%B6%E8%A3%85%E6%B0%B4%E5%96%9D+%E5%93%AA%E7%A7%8D%E6%9B%B4%E5%81%A5%E5%BA%B7",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7136018",
-            "api_source": "tianapi",
-            "translation": "Is boiling water long-term healthier than bottled water?"
-          }
-        },
-        {
-          "title": "10. 世卫称尼帕病毒或引发全球大流行",
-          "value": "指数 7048101",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%96%E5%8D%AB%E7%A7%B0%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E6%88%96%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E5%A4%A7%E6%B5%81%E8%A1%8C",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7048101",
-            "api_source": "tianapi",
-            "translation": "WHO warns Nipah virus could trigger a global pandemic..."
           }
         }
       ]
