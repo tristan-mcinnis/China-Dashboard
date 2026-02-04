@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-04T14:12:00+08:00",
+  "generated_at": "2026-02-04T18:45:36+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-04T18:45:36+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 官员落马导致16亿项目烂尾",
+          "value": "1077482 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1077482",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Official's downfall causes 1.6 billion project to stall..."
+          }
+        },
+        {
+          "title": "2. 央视春晚女主持上新了 [新]",
+          "value": "晚会 796375 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%B8%8A%E6%96%B0%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "晚会 796375",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The female host of CCTV's Spring Festival Gala has been..."
+          }
+        },
+        {
+          "title": "3. 华龙一号有新进展",
+          "value": "604698 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E9%BE%99%E4%B8%80%E5%8F%B7%E6%9C%89%E6%96%B0%E8%BF%9B%E5%B1%95&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 604698",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The Hualong One has new developments..."
+          }
+        },
+        {
+          "title": "4. 雷佳音喊你来京东超市5折买年礼 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%96%8A%E4%BD%A0%E6%9D%A5%E4%BA%AC%E4%B8%9C%E8%B6%85%E5%B8%825%E6%8A%98%E4%B9%B0%E5%B9%B4%E7%A4%BC&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Lei Jiayin invites you to buy New Year gifts at JD..."
+          }
+        },
+        {
+          "title": "5. 有人替陈楚生官宣了上海演唱会",
+          "value": "演出 575128 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E4%BA%BA%E6%9B%BF%E9%99%88%E6%A5%9A%E7%94%9F%E5%AE%98%E5%AE%A3%E4%BA%86%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "演出 575128",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Someone announced Chen Chusheng's concert in Shanghai."
+          }
+        },
+        {
+          "title": "6. 立春 [火热]",
+          "value": "566672 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AB%8B%E6%98%A5&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 566672",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Beginning of Spring..."
+          }
+        },
+        {
+          "title": "7. 爱吃车厘子的人天塌了",
+          "value": "559275 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 559275",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cherry lovers are devastated..."
+          }
+        },
+        {
+          "title": "8. 二十四节气紫林知味 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%E7%B4%AB%E6%9E%97%E7%9F%A5%E5%91%B3&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The 24 Solar Terms: Zilin's Delicacies..."
+          }
+        },
+        {
+          "title": "9. 完形填狗",
+          "value": "294746 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%8B%97&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 294746",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Complete the dog..."
+          }
+        },
+        {
+          "title": "10. 小城大事",
+          "value": "剧集 294152 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 294152",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Big events in a small town..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-04T14:12:00+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Parents take kids to climb mountains; child falls off..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-29T14:10:27+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 交警回应金晨被曝肇事逃逸",
-          "value": "1183128 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1183128",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Traffic police respond to Jin Chen's hit-and-run..."
-          }
-        },
-        {
-          "title": "2. 哈工大辟谣学生捅伤两名教授 [新]",
-          "value": "864566 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%88%E5%B7%A5%E5%A4%A7%E8%BE%9F%E8%B0%A3%E5%AD%A6%E7%94%9F%E6%8D%85%E4%BC%A4%E4%B8%A4%E5%90%8D%E6%95%99%E6%8E%88&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 864566",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Harbin Institute of Technology denies student stabbed..."
-          }
-        },
-        {
-          "title": "3. 全国气温回升大趋势成定局",
-          "value": "667296 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E5%9B%BD%E6%B0%94%E6%B8%A9%E5%9B%9E%E5%8D%87%E5%A4%A7%E8%B6%8B%E5%8A%BF%E6%88%90%E5%AE%9A%E5%B1%80&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 667296",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Nationwide temperature rise trend is now a certainty..."
-          }
-        },
-        {
-          "title": "4. 明家涉案100余亿14名中国人死亡",
-          "value": "334467 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%8E%E5%AE%B6%E6%B6%89%E6%A1%88100%E4%BD%99%E4%BA%BF14%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%AD%BB%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 334467",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Over 1 billion involved in Ming family case, 14 Chinese..."
-          }
-        },
-        {
-          "title": "5. 快乐大本营创办者去世",
-          "value": "325748 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E5%88%9B%E5%8A%9E%E8%80%85%E5%8E%BB%E4%B8%96&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 325748",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The founder of Happy Camp has passed away..."
-          }
-        },
-        {
-          "title": "6. 那个创办快乐大本营的人走了",
-          "value": "286447 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%82%A3%E4%B8%AA%E5%88%9B%E5%8A%9E%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E7%9A%84%E4%BA%BA%E8%B5%B0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 286447",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The founder of Happy Camp has passed away..."
-          }
-        },
-        {
-          "title": "7. 第一个被豆包气哭的人出现了",
-          "value": "228360 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%A2%AB%E8%B1%86%E5%8C%85%E6%B0%94%E5%93%AD%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 228360",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The first person to be cried by Doubao has appeared..."
-          }
-        },
-        {
-          "title": "8. 白宫发了一张图新华社回了个动画 [沸]",
-          "value": "189904 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E5%AE%AB%E5%8F%91%E4%BA%86%E4%B8%80%E5%BC%A0%E5%9B%BE%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%9B%9E%E4%BA%86%E4%B8%AA%E5%8A%A8%E7%94%BB&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 189904",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "The White House posted a picture, Xinhua responded with..."
-          }
-        },
-        {
-          "title": "9. 金价飙涨消费者把黄金变现",
-          "value": "187850 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 187850",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gold prices soar, consumers cash in their gold..."
-          }
-        },
-        {
-          "title": "10. 花生这辈子没想到还能被切丝",
-          "value": "187087 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%B1%E7%94%9F%E8%BF%99%E8%BE%88%E5%AD%90%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%98%E8%83%BD%E8%A2%AB%E5%88%87%E4%B8%9D&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 187087",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Peanuts never expected to be shredded in this lifetime..."
           }
         }
       ]
