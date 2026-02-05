@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-05T22:23:56+08:00",
+  "generated_at": "2026-02-06T06:06:07+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-06T06:06:07+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 苏翊鸣大跳台晋级决赛",
+          "value": "263261 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E8%B7%B3%E5%8F%B0%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 263261",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Su Yiming advances to the finals in big air..."
+          }
+        },
+        {
+          "title": "2. 苏翊鸣第一跳摔倒",
+          "value": "193200 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%B8%80%E8%B7%B3%E6%91%94%E5%80%92&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 193200",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Su Yiming fell on his first jump."
+          }
+        },
+        {
+          "title": "3. 来华过大年成全球新风尚",
+          "value": "155058 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A5%E5%8D%8E%E8%BF%87%E5%A4%A7%E5%B9%B4%E6%88%90%E5%85%A8%E7%90%83%E6%96%B0%E9%A3%8E%E5%B0%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 155058",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Celebrating the Lunar New Year in China becomes a global..."
+          }
+        },
+        {
+          "title": "4. 蒙牛携张艺谋导演团队为冬奥开幕",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%92%99%E7%89%9B%E6%90%BA%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%AF%BC%E6%BC%94%E5%9B%A2%E9%98%9F%E4%B8%BA%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Mengniu collaborates with Zhang Yimou's team for the..."
+          }
+        },
+        {
+          "title": "5. 杨幂微博QUEEN",
+          "value": "盛典 129983 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E5%B9%82%E5%BE%AE%E5%8D%9AQUEEN&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "盛典 129983",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yang Mi is the QUEEN on Weibo..."
+          }
+        },
+        {
+          "title": "6. 肖战辛芷蕾让C [商]",
+          "value": "盛典 87468 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AE%A9C&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "盛典 87468",
+            "tag": "商",
+            "api_source": "tianapi",
+            "translation": "Xiao Zhan and Xin Zhilei make C..."
+          }
+        },
+        {
+          "title": "7. 沈腾遗憾错失微博KING",
+          "value": "盛典 81783 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%88%E8%85%BE%E9%81%97%E6%86%BE%E9%94%99%E5%A4%B1%E5%BE%AE%E5%8D%9AKING&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "盛典 81783",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Shen Teng regrets missing out on Weibo KING..."
+          }
+        },
+        {
+          "title": "8. 苏翊鸣冬奥首个1980 [热]",
+          "value": "58599 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%86%AC%E5%A5%A5%E9%A6%96%E4%B8%AA1980&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 58599",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Su Yiming's first 1980 at the Winter Olympics..."
+          }
+        },
+        {
+          "title": "9. 周生生涉事挂坠送检结果公布",
+          "value": "54935 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E7%94%9F%E7%94%9F%E6%B6%89%E4%BA%8B%E6%8C%82%E5%9D%A0%E9%80%81%E6%A3%80%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 54935",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zhou Shengsheng pendant inspection results announced..."
+          }
+        },
+        {
+          "title": "10. 微博之夜 [热]",
+          "value": "盛典 54408 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "盛典 54408",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Weibo Night..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-05T22:23:56+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Kudi will cancel the 9.9 yuan event..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-30T22:17:57+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 警方通报金晨事件",
-          "value": "5848374 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 5848374",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Police report on the Jin Chen incident..."
-          }
-        },
-        {
-          "title": "2. 宝可梦道歉了",
-          "value": "1435793 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%81%93%E6%AD%89%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1435793",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Pokémon has apologized..."
-          }
-        },
-        {
-          "title": "3. 中国风电硬核领跑全球",
-          "value": "1101150 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E9%A3%8E%E7%94%B5%E7%A1%AC%E6%A0%B8%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1101150",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China's wind power leads the world..."
-          }
-        },
-        {
-          "title": "4. 林孝埈新身份沃尔沃品牌挚友 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E5%AD%9D%E5%9F%88%E6%96%B0%E8%BA%AB%E4%BB%BD%E6%B2%83%E5%B0%94%E6%B2%83%E5%93%81%E7%89%8C%E6%8C%9A%E5%8F%8B&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Lin Xiaojun's new identity as a Volvo brand friend..."
-          }
-        },
-        {
-          "title": "5. 生命树热度",
-          "value": "剧集 423392 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91%E7%83%AD%E5%BA%A6&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 423392",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The popularity of the Tree of Life..."
-          }
-        },
-        {
-          "title": "6. TES战胜BLG [官宣]",
-          "value": "269956 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E6%88%98%E8%83%9CBLG&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 269956",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "TES defeats BLG..."
-          }
-        },
-        {
-          "title": "7. 一定要频繁大量的记录自己",
-          "value": "266369 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E5%A4%A7%E9%87%8F%E7%9A%84%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 266369",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Make sure to frequently and extensively record yourself..."
-          }
-        },
-        {
-          "title": "8. Turbo5Max满配性能旗舰",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTurbo5Max%E6%BB%A1%E9%85%8D%E6%80%A7%E8%83%BD%E6%97%97%E8%88%B0&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Turbo5Max fully equipped performance flagship..."
-          }
-        },
-        {
-          "title": "9. 生命树收视登顶",
-          "value": "剧集 265896 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91%E6%94%B6%E8%A7%86%E7%99%BB%E9%A1%B6&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 265896",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "\"Tree of Life\" tops the ratings..."
-          }
-        },
-        {
-          "title": "10. BLG对战TES [新]",
-          "value": "242039 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBLG%E5%AF%B9%E6%88%98TES&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 242039",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "BLG vs TES"
           }
         }
       ]
