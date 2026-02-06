@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-06T14:13:55+08:00",
+  "generated_at": "2026-02-06T18:45:48+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-06T18:45:48+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 快递停运",
+          "value": "1134407 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1134407",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Express delivery suspended..."
+          }
+        },
+        {
+          "title": "2. 千问送奶茶背后有阳谋 [新]",
+          "value": "842808 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%E9%80%81%E5%A5%B6%E8%8C%B6%E8%83%8C%E5%90%8E%E6%9C%89%E9%98%B3%E8%B0%8B&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 842808",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Behind Qianwen's milk tea delivery lies a hidden agenda..."
+          }
+        },
+        {
+          "title": "3. 冰雪春天",
+          "value": "670429 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E9%9B%AA%E6%98%A5%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 670429",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ice and Snow in Spring..."
+          }
+        },
+        {
+          "title": "4. 鸿蒙智行旗舰MPV智界V9内饰首发",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%97%97%E8%88%B0MPV%E6%99%BA%E7%95%8CV9%E5%86%85%E9%A5%B0%E9%A6%96%E5%8F%91&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hongmeng Zhixing flagship MPV ZhiJie V9 interior debut..."
+          }
+        },
+        {
+          "title": "5. 韩国运动员盒饭",
+          "value": "238911 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E7%9B%92%E9%A5%AD&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 238911",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Korean athlete's lunch box..."
+          }
+        },
+        {
+          "title": "6. 小马糕 [官宣]",
+          "value": "192639 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E9%A9%AC%E7%B3%95&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 192639",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "Little Pony Cake..."
+          }
+        },
+        {
+          "title": "7. 觉得没情商的可以看看作者文案",
+          "value": "192394 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%89%E5%BE%97%E6%B2%A1%E6%83%85%E5%95%86%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E4%BD%9C%E8%80%85%E6%96%87%E6%A1%88&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 192394",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Those who lack emotional intelligence can check the..."
+          }
+        },
+        {
+          "title": "8. 千问一分钱奶茶",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%E4%B8%80%E5%88%86%E9%92%B1%E5%A5%B6%E8%8C%B6&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Qianwen One Cent Milk Tea..."
+          }
+        },
+        {
+          "title": "9. 快手被罚1.191亿元人民币",
+          "value": "190095 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 190095",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Kuaishou fined 119.1 million yuan..."
+          }
+        },
+        {
+          "title": "10. 多名领到千问免费奶茶网友发声 [新]",
+          "value": "189217 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%90%8D%E9%A2%86%E5%88%B0%E5%8D%83%E9%97%AE%E5%85%8D%E8%B4%B9%E5%A5%B6%E8%8C%B6%E7%BD%91%E5%8F%8B%E5%8F%91%E5%A3%B0&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 189217",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Several users who received free milk tea speak out..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-06T14:13:55+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Woman receives 1100 yuan compensation 9 years after..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-01-31T14:05:57+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 将门毒后",
-          "value": "剧集 1111659 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "剧集 1111659",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Poisonous Heir of the Aristocratic Family..."
-          }
-        },
-        {
-          "title": "2. 丫丫回国两年多判若两熊",
-          "value": "822866 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E4%B8%A4%E5%B9%B4%E5%A4%9A%E5%88%A4%E8%8B%A5%E4%B8%A4%E7%86%8A&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 822866",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "YaYa has changed drastically after returning home for..."
-          }
-        },
-        {
-          "title": "3. 大回暖来了气温跳跃式起飞",
-          "value": "718214 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%9B%9E%E6%9A%96%E6%9D%A5%E4%BA%86%E6%B0%94%E6%B8%A9%E8%B7%B3%E8%B7%83%E5%BC%8F%E8%B5%B7%E9%A3%9E&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 718214",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A major warm-up is here, temperatures soar dramatically..."
-          }
-        },
-        {
-          "title": "4. 黄金遭遇40年来最大下跌 [新]",
-          "value": "716839 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E9%87%91%E9%81%AD%E9%81%8740%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E4%B8%8B%E8%B7%8C&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 716839",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Gold experiences its largest drop in 40 years..."
-          }
-        },
-        {
-          "title": "5. 网传刘冲被VOGUE辞了",
-          "value": "704419 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E4%BC%A0%E5%88%98%E5%86%B2%E8%A2%ABVOGUE%E8%BE%9E%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 704419",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Rumor has it Liu Chong was fired by VOGUE..."
-          }
-        },
-        {
-          "title": "6. 荣耀之战 [热]",
-          "value": "演出 358028 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "演出 358028",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Battle of Glory..."
-          }
-        },
-        {
-          "title": "7. 刘晓庆不知道贺峻霖是谁",
-          "value": "综艺 351790 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E6%99%93%E5%BA%86%E4%B8%8D%E7%9F%A5%E9%81%93%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%98%AF%E8%B0%81&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "综艺 351790",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Liu Xiaoqing doesn't know who He Junlin is..."
-          }
-        },
-        {
-          "title": "8. 黄金白银暴跌投资者发声 [新]",
-          "value": "283968 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%91%E5%A3%B0&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 283968",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Gold and silver plummet, investors speak out..."
-          }
-        },
-        {
-          "title": "9. 大米先生创始人怒斥穷鬼套餐",
-          "value": "273394 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E7%B1%B3%E5%85%88%E7%94%9F%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%80%92%E6%96%A5%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 273394",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Mr. Rice founder angrily criticizes the \"poor man's meal\"..."
-          }
-        },
-        {
-          "title": "10. 招聘守岛人不限男女但不能一男一女 [沸]",
-          "value": "263332 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8B%9B%E8%81%98%E5%AE%88%E5%B2%9B%E4%BA%BA%E4%B8%8D%E9%99%90%E7%94%B7%E5%A5%B3%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 263332",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Hiring island guardians, no gender limit but not one..."
           }
         }
       ]
