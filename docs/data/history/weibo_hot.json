@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-07T14:08:26+08:00",
+  "generated_at": "2026-02-07T18:42:22+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-07T18:42:22+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 谷爱凌第一滑摔倒",
+          "value": "2424541 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E6%BB%91%E6%91%94%E5%80%92&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 2424541",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing fell on her first run."
+          }
+        },
+        {
+          "title": "2. 金晨肇事逃逸被罚1500元 [新]",
+          "value": "1986194 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E6%99%A8%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E8%A2%AB%E7%BD%9A1500%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1986194",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Jin Chen fined 1500 yuan for hit-and-run..."
+          }
+        },
+        {
+          "title": "3. 冰雪春天",
+          "value": "765539 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E9%9B%AA%E6%98%A5%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 765539",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ice and snow in spring..."
+          }
+        },
+        {
+          "title": "4. 买冰雪运动同款就上淘宝",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%B0%E5%86%B0%E9%9B%AA%E8%BF%90%E5%8A%A8%E5%90%8C%E6%AC%BE%E5%B0%B1%E4%B8%8A%E6%B7%98%E5%AE%9D&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Buy the same ice and snow sports gear on Taobao..."
+          }
+        },
+        {
+          "title": "5. 千问",
+          "value": "426057 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 426057",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Thousand Questions..."
+          }
+        },
+        {
+          "title": "6. 女子独自带三娃赶火车丢了俩 [大卖]",
+          "value": "321034 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E7%8B%AC%E8%87%AA%E5%B8%A6%E4%B8%89%E5%A8%83%E8%B5%B6%E7%81%AB%E8%BD%A6%E4%B8%A2%E4%BA%86%E4%BF%A9&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 321034",
+            "tag": "大卖",
+            "api_source": "tianapi",
+            "translation": "A woman lost two of her three kids while catching a train..."
+          }
+        },
+        {
+          "title": "7. 很火但难吃的水果",
+          "value": "309210 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%88%E7%81%AB%E4%BD%86%E9%9A%BE%E5%90%83%E7%9A%84%E6%B0%B4%E6%9E%9C&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 309210",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Popular but unappetizing fruits..."
+          }
+        },
+        {
+          "title": "8. 跟着撒贝宁解锁国台酒智造魔法",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B7%9F%E7%9D%80%E6%92%92%E8%B4%9D%E5%AE%81%E8%A7%A3%E9%94%81%E5%9B%BD%E5%8F%B0%E9%85%92%E6%99%BA%E9%80%A0%E9%AD%94%E6%B3%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Unlock the magic of Guotai liquor with Sa Beining..."
+          }
+        },
+        {
+          "title": "9. 老君山一员工拍短视频5年被奖132万",
+          "value": "287180 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E5%90%9B%E5%B1%B1%E4%B8%80%E5%91%98%E5%B7%A5%E6%8B%8D%E7%9F%AD%E8%A7%86%E9%A2%915%E5%B9%B4%E8%A2%AB%E5%A5%96132%E4%B8%87&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 287180",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "An employee at Laojun Mountain won 1.32 million for 5..."
+          }
+        },
+        {
+          "title": "10. 湖南卫视春晚全阵容官宣",
+          "value": "综艺 227033 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "综艺 227033",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hunan TV Spring Festival Gala lineup officially announced..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-07T14:08:26+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Used the missing PhD's bedding set for 7 years..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-01T14:13:24+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 元宝红包",
-          "value": "1133912 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E5%AE%9D%E7%BA%A2%E5%8C%85&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1133912",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Yuanbao red envelope..."
-          }
-        },
-        {
-          "title": "2. 名侦探柯南声明",
-          "value": "827770 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E5%A3%B0%E6%98%8E&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 827770",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Detective Conan Statement..."
-          }
-        },
-        {
-          "title": "3. 国产电力心脏全球爆单",
-          "value": "674537 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%8A%9B%E5%BF%83%E8%84%8F%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 674537",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Domestic power units receive global surge in orders..."
-          }
-        },
-        {
-          "title": "4. 美团外卖周末半价吃大餐 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E5%91%A8%E6%9C%AB%E5%8D%8A%E4%BB%B7%E5%90%83%E5%A4%A7%E9%A4%90&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Meituan takeaway offers half-price meals on weekends..."
-          }
-        },
-        {
-          "title": "5. 金价遭遇过山车",
-          "value": "360147 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 360147",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gold prices experience a roller coaster..."
-          }
-        },
-        {
-          "title": "6. 高市早苗受伤了 [火热]",
-          "value": "342962 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%97%E4%BC%A4%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 342962",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Takaichi Sanae has been injured..."
-          }
-        },
-        {
-          "title": "7. 订房订到狗窝了",
-          "value": "339714 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AE%A2%E6%88%BF%E8%AE%A2%E5%88%B0%E7%8B%97%E7%AA%9D%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 339714",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Booked a room and ended up in a doghouse..."
-          }
-        },
-        {
-          "title": "8. 朱志鑫满分爱豆 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B1%E5%BF%97%E9%91%AB%E6%BB%A1%E5%88%86%E7%88%B1%E8%B1%86&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Zhu Zhixin, a perfect idol..."
-          }
-        },
-        {
-          "title": "9. 花儿与少年8",
-          "value": "综艺 328164 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B48&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "综艺 328164",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Flowers and Youth 8..."
-          }
-        },
-        {
-          "title": "10. 胡歌回复刘诗诗 [新]",
-          "value": "剧集 315960 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%A4%8D%E5%88%98%E8%AF%97%E8%AF%97&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "剧集 315960",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Hu Ge replies to Liu Shishi..."
           }
         }
       ]
