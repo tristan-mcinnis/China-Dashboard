@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-10T06:11:35+08:00",
+  "generated_at": "2026-02-10T11:34:54+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-10T11:34:54+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 易炼红被查",
+          "value": "1161248 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%93%E7%82%BC%E7%BA%A2%E8%A2%AB%E6%9F%A5&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1161248",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yi Lianhong is under investigation..."
+          }
+        },
+        {
+          "title": "2. 谷爱凌错失金牌根本原因 [新]",
+          "value": "962371 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E9%94%99%E5%A4%B1%E9%87%91%E7%89%8C%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 962371",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The fundamental reason for Gu Ailing missing the gold..."
+          }
+        },
+        {
+          "title": "3. 来北京过年吧",
+          "value": "774591 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A5%E5%8C%97%E4%BA%AC%E8%BF%87%E5%B9%B4%E5%90%A7&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 774591",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Come to Beijing for the New Year..."
+          }
+        },
+        {
+          "title": "4. 问界M8陪我平安到家 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%97%AE%E7%95%8CM8%E9%99%AA%E6%88%91%E5%B9%B3%E5%AE%89%E5%88%B0%E5%AE%B6&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The Wanjie M8 safely takes me home..."
+          }
+        },
+        {
+          "title": "5. 农村抑郁症确诊率低自杀率反而更高",
+          "value": "731555 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%9C%E6%9D%91%E6%8A%91%E9%83%81%E7%97%87%E7%A1%AE%E8%AF%8A%E7%8E%87%E4%BD%8E%E8%87%AA%E6%9D%80%E7%8E%87%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%AB%98&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 731555",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Low diagnosis rate of depression in rural areas, but..."
+          }
+        },
+        {
+          "title": "6. 黑神话钟馗 [重磅]",
+          "value": "725759 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 725759",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Black Myth: Zhong Kui..."
+          }
+        },
+        {
+          "title": "7. 22岁当村支书28岁晒成绩火了",
+          "value": "392113 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D22%E5%B2%81%E5%BD%93%E6%9D%91%E6%94%AF%E4%B9%A628%E5%B2%81%E6%99%92%E6%88%90%E7%BB%A9%E7%81%AB%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 392113",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Became village secretary at 22, gained fame at 28..."
+          }
+        },
+        {
+          "title": "8. 简醇rap出了我的新年愿望 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AE%80%E9%86%87rap%E5%87%BA%E4%BA%86%E6%88%91%E7%9A%84%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Simple rap expresses my New Year's wishes..."
+          }
+        },
+        {
+          "title": "9. 不要对AI说谢谢",
+          "value": "354052 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 354052",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Don't say thank you to AI..."
+          }
+        },
+        {
+          "title": "10. 外国游客被长白山百万皇冠整破防了 [新]",
+          "value": "317540 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E9%95%BF%E7%99%BD%E5%B1%B1%E7%99%BE%E4%B8%87%E7%9A%87%E5%86%A0%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 317540",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Foreign tourists were overwhelmed by the million crowns..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-10T06:11:35+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Doctor from Zhengda First Affiliated Hospital sentenced..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-04T11:21:57+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 立春",
-          "value": "1082455 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AB%8B%E6%98%A5&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1082455",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Beginning of Spring..."
-          }
-        },
-        {
-          "title": "2. 老头乐闯灯被撞获赔核心是生命权优先 [新]",
-          "value": "802265 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E5%A4%B4%E4%B9%90%E9%97%AF%E7%81%AF%E8%A2%AB%E6%92%9E%E8%8E%B7%E8%B5%94%E6%A0%B8%E5%BF%83%E6%98%AF%E7%94%9F%E5%91%BD%E6%9D%83%E4%BC%98%E5%85%88&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 802265",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Elderly man hit while running a red light; life rights..."
-          }
-        },
-        {
-          "title": "3. 学生优惠火车票购票攻略来了",
-          "value": "647089 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E7%81%AB%E8%BD%A6%E7%A5%A8%E8%B4%AD%E7%A5%A8%E6%94%BB%E7%95%A5%E6%9D%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 647089",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Student discount train ticket purchasing guide is here..."
-          }
-        },
-        {
-          "title": "4. 恋与深空",
-          "value": "572991 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 572991",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Love and Deep Space..."
-          }
-        },
-        {
-          "title": "5. 金饰价格涨到1600元",
-          "value": "559250 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%B6%A8%E5%88%B01600%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 559250",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gold jewelry prices have risen to 1600 yuan..."
-          }
-        },
-        {
-          "title": "6. 72岁王健林低调现身贵州",
-          "value": "331208 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D72%E5%B2%81%E7%8E%8B%E5%81%A5%E6%9E%97%E4%BD%8E%E8%B0%83%E7%8E%B0%E8%BA%AB%E8%B4%B5%E5%B7%9E&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 331208",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "72-year-old Wang Jianlin makes a low-key appearance in..."
-          }
-        },
-        {
-          "title": "7. 二十四节气紫林知味",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%E7%B4%AB%E6%9E%97%E7%9F%A5%E5%91%B3&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Twenty-four solar terms: Zilin's flavors..."
-          }
-        },
-        {
-          "title": "8. 删了吧有个00后破防了 [新]",
-          "value": "228532 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%A0%E4%BA%86%E5%90%A7%E6%9C%89%E4%B8%AA00%E5%90%8E%E7%A0%B4%E9%98%B2%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 228532",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Delete it, a post-00s kid got triggered..."
-          }
-        },
-        {
-          "title": "9. 太平年拍了赵匡胤黄袍加身",
-          "value": "剧集 191501 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AA%E5%B9%B3%E5%B9%B4%E6%8B%8D%E4%BA%86%E8%B5%B5%E5%8C%A1%E8%83%A4%E9%BB%84%E8%A2%8D%E5%8A%A0%E8%BA%AB&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 191501",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "In a peaceful year, Zhao Kuangyin donned the yellow robe..."
-          }
-        },
-        {
-          "title": "10. 哈登加盟骑士 [新]",
-          "value": "188336 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%88%E7%99%BB%E5%8A%A0%E7%9B%9F%E9%AA%91%E5%A3%AB&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 188336",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Harden joins the Cavaliers..."
           }
         }
       ]
