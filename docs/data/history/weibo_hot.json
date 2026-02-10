@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-10T11:34:54+08:00",
+  "generated_at": "2026-02-10T14:20:34+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-10T14:20:34+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 瑞幸 错别字",
+          "value": "1124512 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%91%9E%E5%B9%B8%20%E9%94%99%E5%88%AB%E5%AD%97&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1124512",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Luckin Coffee's typo..."
+          }
+        },
+        {
+          "title": "2. 元宝微信发红包 [新]",
+          "value": "821659 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E5%AE%9D%E5%BE%AE%E4%BF%A1%E5%8F%91%E7%BA%A2%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 821659",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yuanbao WeChat red envelope distribution..."
+          }
+        },
+        {
+          "title": "3. 中国人自己的新年气氛组",
+          "value": "658172 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%B0%E5%B9%B4%E6%B0%94%E6%B0%9B%E7%BB%84&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 658172",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A New Year atmosphere group for Chinese people..."
+          }
+        },
+        {
+          "title": "4. 李现喊你上淘宝闪购点年味",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E7%8E%B0%E5%96%8A%E4%BD%A0%E4%B8%8A%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E7%82%B9%E5%B9%B4%E5%91%B3&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Li Xian invites you to shop for New Year vibes on Taobao..."
+          }
+        },
+        {
+          "title": "5. 易炼红被查",
+          "value": "330304 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%93%E7%82%BC%E7%BA%A2%E8%A2%AB%E6%9F%A5&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 330304",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yi Lianhong is under investigation..."
+          }
+        },
+        {
+          "title": "6. 黑神话钟馗 [火热]",
+          "value": "294179 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 294179",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Black Myth: Zhong Kui..."
+          }
+        },
+        {
+          "title": "7. 我们的少年时代2",
+          "value": "剧集 253108 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 253108",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Our Youth Era 2..."
+          }
+        },
+        {
+          "title": "8. 王濛的金牌DNA动了",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%BF%9B%E7%9A%84%E9%87%91%E7%89%8CDNA%E5%8A%A8%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Meng's golden DNA has been activated..."
+          }
+        },
+        {
+          "title": "9. 外卖员跑腿买药被判贩卖毒品罪",
+          "value": "249648 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E5%8D%96%E5%91%98%E8%B7%91%E8%85%BF%E4%B9%B0%E8%8D%AF%E8%A2%AB%E5%88%A4%E8%B4%A9%E5%8D%96%E6%AF%92%E5%93%81%E7%BD%AA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 249648",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Delivery worker sentenced for drug trafficking..."
+          }
+        },
+        {
+          "title": "10. AI短剧 [沸]",
+          "value": "232745 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAI%E7%9F%AD%E5%89%A7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 232745",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "AI Short Play..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-10T11:34:54+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Big events in a small town..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-04T14:12:00+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 2026春晚主持人阵容",
-          "value": "1048902 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1048902",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "2026 Spring Festival Gala host lineup..."
-          }
-        },
-        {
-          "title": "2. 立春",
-          "value": "774882 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AB%8B%E6%98%A5&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 774882",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Beginning of Spring..."
-          }
-        },
-        {
-          "title": "3. 我国已实现3亿人参与冰雪运动目标",
-          "value": "619472 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%9B%BD%E5%B7%B2%E5%AE%9E%E7%8E%B03%E4%BA%BF%E4%BA%BA%E5%8F%82%E4%B8%8E%E5%86%B0%E9%9B%AA%E8%BF%90%E5%8A%A8%E7%9B%AE%E6%A0%87&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 619472",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China has achieved its goal of 300 million people in..."
-          }
-        },
-        {
-          "title": "4. 雷佳音喊你来京东超市5折买年礼",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%96%8A%E4%BD%A0%E6%9D%A5%E4%BA%AC%E4%B8%9C%E8%B6%85%E5%B8%825%E6%8A%98%E4%B9%B0%E5%B9%B4%E7%A4%BC&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Lei Jiayin invites you to buy New Year gifts at 50% off..."
-          }
-        },
-        {
-          "title": "5. 爱吃车厘子的人天塌了",
-          "value": "565727 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%90%83%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 565727",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cherry lovers are devastated..."
-          }
-        },
-        {
-          "title": "6. 上2休2再上6休9 [火热]",
-          "value": "224575 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A2%E4%BC%912%E5%86%8D%E4%B8%8A6%E4%BC%919&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 224575",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Work 2 days, rest 2 days, then work 6 days, rest 9..."
-          }
-        },
-        {
-          "title": "7. 很多公司已经取消年会了",
-          "value": "220714 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%88%E5%A4%9A%E5%85%AC%E5%8F%B8%E5%B7%B2%E7%BB%8F%E5%8F%96%E6%B6%88%E5%B9%B4%E4%BC%9A%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 220714",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Many companies have canceled their annual meetings..."
-          }
-        },
-        {
-          "title": "8. 39岁刘心悦成春晚主持人新面孔 [热]",
-          "value": "晚会 199628 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D39%E5%B2%81%E5%88%98%E5%BF%83%E6%82%A6%E6%88%90%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%96%B0%E9%9D%A2%E5%AD%94&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "晚会 199628",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "39-year-old Liu Xinyue is a new host for the Spring..."
-          }
-        },
-        {
-          "title": "9. 胡歌说杨紫的戏不是一般的好",
-          "value": "剧集 197968 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%83%A1%E6%AD%8C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%9A%84%E6%88%8F%E4%B8%8D%E6%98%AF%E4%B8%80%E8%88%AC%E7%9A%84%E5%A5%BD&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 197968",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Hu Ge said Yang Zi's acting is exceptionally good..."
-          }
-        },
-        {
-          "title": "10. 郑大一附院医生诈骗94名患者获刑",
-          "value": "190384 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E5%8C%BB%E7%94%9F%E8%AF%88%E9%AA%9794%E5%90%8D%E6%82%A3%E8%80%85%E8%8E%B7%E5%88%91&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 190384",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Doctor from Zhengda First Affiliated Hospital sentenced..."
           }
         }
       ]
