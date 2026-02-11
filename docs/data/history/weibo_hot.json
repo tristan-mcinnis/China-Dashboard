@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-11T22:30:17+08:00",
+  "generated_at": "2026-02-12T06:07:42+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-12T06:07:42+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 廉子文被取消成绩",
+          "value": "243939 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 243939",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Lian Ziwen's grades have been canceled..."
+          }
+        },
+        {
+          "title": "2. KK园区2.0内部照首曝光 [热]",
+          "value": "172194 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKK%E5%9B%AD%E5%8C%BA2.0%E5%86%85%E9%83%A8%E7%85%A7%E9%A6%96%E6%9B%9D%E5%85%89&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 172194",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "KK Park 2.0 internal photos revealed..."
+          }
+        },
+        {
+          "title": "3. 春运路上藏着这些马年彩蛋",
+          "value": "135625 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E8%BF%90%E8%B7%AF%E4%B8%8A%E8%97%8F%E7%9D%80%E8%BF%99%E4%BA%9B%E9%A9%AC%E5%B9%B4%E5%BD%A9%E8%9B%8B&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 135625",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hidden surprises of the Year of the Horse during Spring..."
+          }
+        },
+        {
+          "title": "4. 比亚迪与曼城足球俱乐部达成合作",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8E%E6%9B%BC%E5%9F%8E%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "BYD partners with Manchester City Football Club..."
+          }
+        },
+        {
+          "title": "5. 250桌婚宴52万嫌贵拒付款进展",
+          "value": "46489 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D250%E6%A1%8C%E5%A9%9A%E5%AE%B452%E4%B8%87%E5%AB%8C%E8%B4%B5%E6%8B%92%E4%BB%98%E6%AC%BE%E8%BF%9B%E5%B1%95&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 46489",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Refused to pay 520,000 for a 250-table wedding banquet..."
+          }
+        },
+        {
+          "title": "6. 伊朗总统道歉 [重磅]",
+          "value": "46422 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%81%93%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 46422",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Iranian president apologizes..."
+          }
+        },
+        {
+          "title": "7. 郑钦文vs莱巴金娜",
+          "value": "39058 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E9%92%A6%E6%96%87vs%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 39058",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zheng Qinwen vs. Elena Rybakina..."
+          }
+        },
+        {
+          "title": "8. 新加坡女子误以为中大奖",
+          "value": "37545 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A5%B3%E5%AD%90%E8%AF%AF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E5%A4%A7%E5%A5%96&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 37545",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Singapore woman mistakenly thinks she won the lottery..."
+          }
+        },
+        {
+          "title": "9. 生命树",
+          "value": "35772 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 35772",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Tree of Life..."
+          }
+        },
+        {
+          "title": "10. 以前的宠妃美貌都是这种级别",
+          "value": "35613 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A5%E5%89%8D%E7%9A%84%E5%AE%A0%E5%A6%83%E7%BE%8E%E8%B2%8C%E9%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E7%BA%A7%E5%88%AB&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 35613",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Former favored concubines were all this beautiful..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-11T22:30:17+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Xie Na says she messages Xiao Zhan about his new works..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-06T06:06:07+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 苏翊鸣大跳台晋级决赛",
-          "value": "263261 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E8%B7%B3%E5%8F%B0%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 263261",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Su Yiming advances to the finals in big air..."
-          }
-        },
-        {
-          "title": "2. 苏翊鸣第一跳摔倒",
-          "value": "193200 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%B8%80%E8%B7%B3%E6%91%94%E5%80%92&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 193200",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Su Yiming fell on his first jump."
-          }
-        },
-        {
-          "title": "3. 来华过大年成全球新风尚",
-          "value": "155058 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A5%E5%8D%8E%E8%BF%87%E5%A4%A7%E5%B9%B4%E6%88%90%E5%85%A8%E7%90%83%E6%96%B0%E9%A3%8E%E5%B0%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 155058",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Celebrating the Lunar New Year in China becomes a global..."
-          }
-        },
-        {
-          "title": "4. 蒙牛携张艺谋导演团队为冬奥开幕",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%92%99%E7%89%9B%E6%90%BA%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%AF%BC%E6%BC%94%E5%9B%A2%E9%98%9F%E4%B8%BA%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Mengniu collaborates with Zhang Yimou's team for the..."
-          }
-        },
-        {
-          "title": "5. 杨幂微博QUEEN",
-          "value": "盛典 129983 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E5%B9%82%E5%BE%AE%E5%8D%9AQUEEN&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "盛典 129983",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Yang Mi is the QUEEN on Weibo..."
-          }
-        },
-        {
-          "title": "6. 肖战辛芷蕾让C [商]",
-          "value": "盛典 87468 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AE%A9C&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "盛典 87468",
-            "tag": "商",
-            "api_source": "tianapi",
-            "translation": "Xiao Zhan and Xin Zhilei make C..."
-          }
-        },
-        {
-          "title": "7. 沈腾遗憾错失微博KING",
-          "value": "盛典 81783 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%88%E8%85%BE%E9%81%97%E6%86%BE%E9%94%99%E5%A4%B1%E5%BE%AE%E5%8D%9AKING&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "盛典 81783",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Shen Teng regrets missing out on Weibo KING..."
-          }
-        },
-        {
-          "title": "8. 苏翊鸣冬奥首个1980 [热]",
-          "value": "58599 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%86%AC%E5%A5%A5%E9%A6%96%E4%B8%AA1980&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 58599",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Su Yiming's first 1980 at the Winter Olympics..."
-          }
-        },
-        {
-          "title": "9. 周生生涉事挂坠送检结果公布",
-          "value": "54935 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E7%94%9F%E7%94%9F%E6%B6%89%E4%BA%8B%E6%8C%82%E5%9D%A0%E9%80%81%E6%A3%80%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 54935",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zhou Shengsheng pendant inspection results announced..."
-          }
-        },
-        {
-          "title": "10. 微博之夜 [热]",
-          "value": "盛典 54408 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "盛典 54408",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Weibo Night..."
           }
         }
       ]

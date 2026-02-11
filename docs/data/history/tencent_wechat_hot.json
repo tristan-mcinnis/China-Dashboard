@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-11T22:30:25+08:00",
+  "generated_at": "2026-02-12T06:07:50+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-12T06:07:50+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 习近平春节前夕慰问部队",
+          "value": "指数 7904018",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E6%85%B0%E9%97%AE%E9%83%A8%E9%98%9F",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904018",
+            "api_source": "tianapi",
+            "translation": "Xi Jinping visits troops before the Spring Festival..."
+          }
+        },
+        {
+          "title": "2. 女子骑电动车近2个月从上海回广西",
+          "value": "指数 7809494",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%90%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BF%912%E4%B8%AA%E6%9C%88%E4%BB%8E%E4%B8%8A%E6%B5%B7%E5%9B%9E%E5%B9%BF%E8%A5%BF",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809494",
+            "api_source": "tianapi",
+            "translation": "A woman rides an electric bike from Shanghai to Guangxi..."
+          }
+        },
+        {
+          "title": "3. 手机出现这些问题可能是被控屏了",
+          "value": "指数 7713904",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E4%BA%9B%E9%97%AE%E9%A2%98%E5%8F%AF%E8%83%BD%E6%98%AF%E8%A2%AB%E6%8E%A7%E5%B1%8F%E4%BA%86",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713904",
+            "api_source": "tianapi",
+            "translation": "These phone issues may indicate screen control."
+          }
+        },
+        {
+          "title": "4. 外国人也赶春运 ChinaTravel说走就走",
+          "value": "指数 7617590",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B9%9F%E8%B5%B6%E6%98%A5%E8%BF%90+ChinaTravel%E8%AF%B4%E8%B5%B0%E5%B0%B1%E8%B5%B0",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617590",
+            "api_source": "tianapi",
+            "translation": "Foreigners also join the Spring Festival travel rush..."
+          }
+        },
+        {
+          "title": "5. 罕见！岛内多党派人士声援高金素梅",
+          "value": "指数 7523800",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BD%95%E8%A7%81%EF%BC%81%E5%B2%9B%E5%86%85%E5%A4%9A%E5%85%9A%E6%B4%BE%E4%BA%BA%E5%A3%AB%E5%A3%B0%E6%8F%B4%E9%AB%98%E9%87%91%E7%B4%A0%E6%A2%85",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7523800",
+            "api_source": "tianapi",
+            "translation": "Rare! Multiple parties in Taiwan support Kao Chin Su-mei..."
+          }
+        },
+        {
+          "title": "6. 比尔·盖茨再度访华并演讲",
+          "value": "指数 7423965",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E5%86%8D%E5%BA%A6%E8%AE%BF%E5%8D%8E%E5%B9%B6%E6%BC%94%E8%AE%B2",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7423965",
+            "api_source": "tianapi",
+            "translation": "Bill Gates visits China again and gives a speech..."
+          }
+        },
+        {
+          "title": "7. 夫妻8年还清百万债务首次回家过年",
+          "value": "指数 7331226",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%AB%E5%A6%BB8%E5%B9%B4%E8%BF%98%E6%B8%85%E7%99%BE%E4%B8%87%E5%80%BA%E5%8A%A1%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7331226",
+            "api_source": "tianapi",
+            "translation": "After 8 years, couple clears million debt, returns home..."
+          }
+        },
+        {
+          "title": "8. 女生带回家的男友是堂弟初中同学",
+          "value": "指数 7237973",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E7%94%9F%E5%B8%A6%E5%9B%9E%E5%AE%B6%E7%9A%84%E7%94%B7%E5%8F%8B%E6%98%AF%E5%A0%82%E5%BC%9F%E5%88%9D%E4%B8%AD%E5%90%8C%E5%AD%A6",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7237973",
+            "api_source": "tianapi",
+            "translation": "The girl brought home a boyfriend who is her cousin's..."
+          }
+        },
+        {
+          "title": "9. 涉及中国产品 印企急催：赶紧审批",
+          "value": "指数 7143381",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E4%BA%A7%E5%93%81+%E5%8D%B0%E4%BC%81%E6%80%A5%E5%82%AC%EF%BC%9A%E8%B5%B6%E7%B4%A7%E5%AE%A1%E6%89%B9",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7143381",
+            "api_source": "tianapi",
+            "translation": "Involving Chinese products, printing companies urge:..."
+          }
+        },
+        {
+          "title": "10. 爱泼斯坦死后监狱用假尸骗过记者",
+          "value": "指数 7048037",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%AD%BB%E5%90%8E%E7%9B%91%E7%8B%B1%E7%94%A8%E5%81%87%E5%B0%B8%E9%AA%97%E8%BF%87%E8%AE%B0%E8%80%85",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7048037",
+            "api_source": "tianapi",
+            "translation": "After Epstein's death, prison used a fake corpse to..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-11T22:30:25+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7040276",
             "api_source": "tianapi",
             "translation": "Man paralyzed right after retirement, girlfriend's care..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-06T06:06:15+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 做关键时顶得住的干部",
-          "value": "指数 7904840",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%81%9A%E5%85%B3%E9%94%AE%E6%97%B6%E9%A1%B6%E5%BE%97%E4%BD%8F%E7%9A%84%E5%B9%B2%E9%83%A8",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904840",
-            "api_source": "tianapi",
-            "translation": "Be a leader who can stand firm in critical moments..."
-          }
-        },
-        {
-          "title": "2. 周生生足金挂坠事件检测结果公布",
-          "value": "指数 7808056",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%91%A8%E7%94%9F%E7%94%9F%E8%B6%B3%E9%87%91%E6%8C%82%E5%9D%A0%E4%BA%8B%E4%BB%B6%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808056",
-            "api_source": "tianapi",
-            "translation": "Zhou Sheng Sheng gold pendant incident test results..."
-          }
-        },
-        {
-          "title": "3. 年轻人青睐“新三金”",
-          "value": "指数 7714305",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%9D%92%E7%9D%90%E2%80%9C%E6%96%B0%E4%B8%89%E9%87%91%E2%80%9D",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7714305",
-            "api_source": "tianapi",
-            "translation": "Young people favor the \"new three golds\"..."
-          }
-        },
-        {
-          "title": "4. “10万亿之省”有哪些“独门绝技”",
-          "value": "指数 7616258",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C10%E4%B8%87%E4%BA%BF%E4%B9%8B%E7%9C%81%E2%80%9D%E6%9C%89%E5%93%AA%E4%BA%9B%E2%80%9C%E7%8B%AC%E9%97%A8%E7%BB%9D%E6%8A%80%E2%80%9D",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7616258",
-            "api_source": "tianapi",
-            "translation": "What \"unique skills\" does the \"trillion yuan province\" have?"
-          }
-        },
-        {
-          "title": "5. 这座城每6个人就有1个老板",
-          "value": "指数 7520544",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%BF%99%E5%BA%A7%E5%9F%8E%E6%AF%8F6%E4%B8%AA%E4%BA%BA%E5%B0%B1%E6%9C%891%E4%B8%AA%E8%80%81%E6%9D%BF",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7520544",
-            "api_source": "tianapi",
-            "translation": "In this city, there's one boss for every six people..."
-          }
-        },
-        {
-          "title": "6. 中国汽车将不再使用隐藏式车门把手",
-          "value": "指数 7428982",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7428982",
-            "api_source": "tianapi",
-            "translation": "Chinese cars will no longer use hidden door handles..."
-          }
-        },
-        {
-          "title": "7. 夺刀女警脸上伤疤无法恢复如初",
-          "value": "指数 7330900",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%BA%E5%88%80%E5%A5%B3%E8%AD%A6%E8%84%B8%E4%B8%8A%E4%BC%A4%E7%96%A4%E6%97%A0%E6%B3%95%E6%81%A2%E5%A4%8D%E5%A6%82%E5%88%9D",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7330900",
-            "api_source": "tianapi",
-            "translation": "The scar on the female officer's face cannot fully heal..."
-          }
-        },
-        {
-          "title": "8. 云南男子从起火车中救3人：实为过错方",
-          "value": "指数 7235057",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BA%91%E5%8D%97%E7%94%B7%E5%AD%90%E4%BB%8E%E8%B5%B7%E7%81%AB%E8%BD%A6%E4%B8%AD%E6%95%913%E4%BA%BA%EF%BC%9A%E5%AE%9E%E4%B8%BA%E8%BF%87%E9%94%99%E6%96%B9",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7235057",
-            "api_source": "tianapi",
-            "translation": "Yunnan man saves 3 from burning train: actually at fault..."
-          }
-        },
-        {
-          "title": "9. 中部第一城这次要冲击“一线城市”",
-          "value": "指数 7142805",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E9%83%A8%E7%AC%AC%E4%B8%80%E5%9F%8E%E8%BF%99%E6%AC%A1%E8%A6%81%E5%86%B2%E5%87%BB%E2%80%9C%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E2%80%9D",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7142805",
-            "api_source": "tianapi",
-            "translation": "The first city in central China aims to become a..."
-          }
-        },
-        {
-          "title": "10. 女孩喂大鹅遭袭击当场霸气还击",
-          "value": "指数 7039458",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%A9%E5%96%82%E5%A4%A7%E9%B9%85%E9%81%AD%E8%A2%AD%E5%87%BB%E5%BD%93%E5%9C%BA%E9%9C%B8%E6%B0%94%E8%BF%98%E5%87%BB",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7039458",
-            "api_source": "tianapi",
-            "translation": "Girl feeding goose gets attacked, retaliates fiercely..."
           }
         }
       ]
