@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-12T22:27:30+08:00",
+  "generated_at": "2026-02-13T06:07:34+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-13T06:07:34+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 孙龙",
+          "value": "327075 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%BE%99&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 327075",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Sun Long"
+          }
+        },
+        {
+          "title": "2. 孙龙银牌 [新]",
+          "value": "218248 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%BE%99%E9%93%B6%E7%89%8C&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 218248",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Sun Long wins silver medal..."
+          }
+        },
+        {
+          "title": "3. 我家的C位年货",
+          "value": "159509 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%AE%B6%E7%9A%84C%E4%BD%8D%E5%B9%B4%E8%B4%A7&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 159509",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The C-position of my family's New Year goods..."
+          }
+        },
+        {
+          "title": "4. 任子威 黄大宪成功淘汰",
+          "value": "130927 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%BB%E5%AD%90%E5%A8%81%20%E9%BB%84%E5%A4%A7%E5%AE%AA%E6%88%90%E5%8A%9F%E6%B7%98%E6%B1%B0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 130927",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ren Ziwei and Huang Daxian successfully eliminated..."
+          }
+        },
+        {
+          "title": "5. 林孝埈无缘男子1000米半决赛",
+          "value": "124499 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E5%AD%9D%E5%9F%88%E6%97%A0%E7%BC%98%E7%94%B7%E5%AD%901000%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 124499",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Lin Xiaojun misses the men's 1000m semifinals..."
+          }
+        },
+        {
+          "title": "6. 短道速滑 [热]",
+          "value": "80684 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 80684",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Short track speed skating..."
+          }
+        },
+        {
+          "title": "7. 刘少昂1000米无缘决赛",
+          "value": "75407 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E5%B0%91%E6%98%821000%E7%B1%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 75407",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liu Shaoang misses the finals in the 1000m event..."
+          }
+        },
+        {
+          "title": "8. Deepseek被指变冷淡了",
+          "value": "74005 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DDeepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 74005",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Deepseek is accused of becoming indifferent..."
+          }
+        },
+        {
+          "title": "9. 22岁主播每天焊妆两次确诊肺炎",
+          "value": "60455 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D22%E5%B2%81%E4%B8%BB%E6%92%AD%E6%AF%8F%E5%A4%A9%E7%84%8A%E5%A6%86%E4%B8%A4%E6%AC%A1%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%82%8E&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 60455",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "22-year-old streamer diagnosed with pneumonia after..."
+          }
+        },
+        {
+          "title": "10. 刘少昂好稳",
+          "value": "48756 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E5%B0%91%E6%98%82%E5%A5%BD%E7%A8%B3&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 48756",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liu Shao'ang is very steady..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-12T22:27:30+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Lang Lang, authority..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-07T06:04:31+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 冬奥会开幕式",
-          "value": "305470 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 305470",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Winter Olympics opening ceremony..."
-          }
-        },
-        {
-          "title": "2. 米兰开幕式 好正常好好看",
-          "value": "221768 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%B1%B3%E5%85%B0%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%A5%BD%E6%AD%A3%E5%B8%B8%E5%A5%BD%E5%A5%BD%E7%9C%8B&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 221768",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Milan opening ceremony was very normal and beautiful..."
-          }
-        },
-        {
-          "title": "3. 节前夜间高铁列车车票已陆续开售",
-          "value": "175971 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%82%E5%89%8D%E5%A4%9C%E9%97%B4%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BD%A6%E7%A5%A8%E5%B7%B2%E9%99%86%E7%BB%AD%E5%BC%80%E5%94%AE&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 175971",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "High-speed train tickets for the night before the..."
-          }
-        },
-        {
-          "title": "4. 揭秘 Apple 新春大片",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8F%AD%E7%A7%98%20Apple%20%E6%96%B0%E6%98%A5%E5%A4%A7%E7%89%87&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Unveiling Apple's New Year blockbuster..."
-          }
-        },
-        {
-          "title": "5. 王楚钦尊重国家队的安排",
-          "value": "96693 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B0%8A%E9%87%8D%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%9A%84%E5%AE%89%E6%8E%92&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 96693",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wang Chuqin respects the national team's arrangements..."
-          }
-        },
-        {
-          "title": "6. 中国队蓝羽绒服 好看 [热映]",
-          "value": "74234 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%93%9D%E7%BE%BD%E7%BB%92%E6%9C%8D%20%E5%A5%BD%E7%9C%8B&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 74234",
-            "tag": "热映",
-            "api_source": "tianapi",
-            "translation": "The Chinese team's blue down jacket is beautiful..."
-          }
-        },
-        {
-          "title": "7. 意大利手势",
-          "value": "64409 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%84%8F%E5%A4%A7%E5%88%A9%E6%89%8B%E5%8A%BF&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 64409",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Italian gestures..."
-          }
-        },
-        {
-          "title": "8. 美团闪购神价日抽免单 [热]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A2%E9%97%AA%E8%B4%AD%E7%A5%9E%E4%BB%B7%E6%97%A5%E6%8A%BD%E5%85%8D%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Meituan flash sale: daily draw for free orders..."
-          }
-        },
-        {
-          "title": "9. 成何体统",
-          "value": "剧集 58781 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 58781",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "What kind of order is this..."
-          }
-        },
-        {
-          "title": "10. 巴拿马正成为第二个立陶宛 [新]",
-          "value": "52597 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%AD%A3%E6%88%90%E4%B8%BA%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%AB%8B%E9%99%B6%E5%AE%9B&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 52597",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Panama is becoming the second Lithuania..."
           }
         }
       ]
