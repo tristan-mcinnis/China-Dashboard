@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-12T06:07:42+08:00",
+  "generated_at": "2026-02-12T11:30:51+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-12T11:30:51+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 微博红包",
+          "value": "1113273 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E7%BA%A2%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1113273",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Weibo red envelope..."
+          }
+        },
+        {
+          "title": "2. 体操运动员坠楼涉事教练被立案调查 [热]",
+          "value": "833519 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E6%93%8D%E8%BF%90%E5%8A%A8%E5%91%98%E5%9D%A0%E6%A5%BC%E6%B6%89%E4%BA%8B%E6%95%99%E7%BB%83%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 833519",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Gymnast's fall leads to investigation of involved coach..."
+          }
+        },
+        {
+          "title": "3. 春运路上藏着这些马年彩蛋",
+          "value": "629641 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E8%BF%90%E8%B7%AF%E4%B8%8A%E8%97%8F%E7%9D%80%E8%BF%99%E4%BA%9B%E9%A9%AC%E5%B9%B4%E5%BD%A9%E8%9B%8B&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 629641",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hidden surprises of the Year of the Horse during Spring..."
+          }
+        },
+        {
+          "title": "4. 奥运村里的中国年",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%A5%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese New Year in the Olympic Village..."
+          }
+        },
+        {
+          "title": "5. 两名小孩扔爆竹致1200年古树起火",
+          "value": "511048 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A4%E5%90%8D%E5%B0%8F%E5%AD%A9%E6%89%94%E7%88%86%E7%AB%B9%E8%87%B41200%E5%B9%B4%E5%8F%A4%E6%A0%91%E8%B5%B7%E7%81%AB&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 511048",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Two children set fire to a 1200-year-old tree with..."
+          }
+        },
+        {
+          "title": "6. 玫瑰丛生定档 [焕新]",
+          "value": "剧集 471364 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%AB%E7%91%B0%E4%B8%9B%E7%94%9F%E5%AE%9A%E6%A1%A3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 471364",
+            "tag": "焕新",
+            "api_source": "tianapi",
+            "translation": "\"Rose Bush\" is officially scheduled for release..."
+          }
+        },
+        {
+          "title": "7. 生小孩需要一个发达的前额叶",
+          "value": "316496 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%B0%8F%E5%AD%A9%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%8F%91%E8%BE%BE%E7%9A%84%E5%89%8D%E9%A2%9D%E5%8F%B6&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 316496",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Having a developed prefrontal cortex is essential for..."
+          }
+        },
+        {
+          "title": "8. 春节中国赴日旅客量腰斩了",
+          "value": "313359 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E8%8A%82%E4%B8%AD%E5%9B%BD%E8%B5%B4%E6%97%A5%E6%97%85%E5%AE%A2%E9%87%8F%E8%85%B0%E6%96%A9%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 313359",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The number of Chinese travelers to Japan during Spring..."
+          }
+        },
+        {
+          "title": "9. 12家第三方火车票网售平台被约谈",
+          "value": "304549 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D12%E5%AE%B6%E7%AC%AC%E4%B8%89%E6%96%B9%E7%81%AB%E8%BD%A6%E7%A5%A8%E7%BD%91%E5%94%AE%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BA%A6%E8%B0%88&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 304549",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "12 third-party train ticket platforms summoned for talks..."
+          }
+        },
+        {
+          "title": "10. 阚清子演技 [新]",
+          "value": "剧集 249137 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%9A%E6%B8%85%E5%AD%90%E6%BC%94%E6%8A%80&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 249137",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Kan Qingzi's acting skills."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-12T06:07:42+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Light and Night's Love..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-06T11:22:46+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 外国网友请求中国帮助网友回复爆火",
-          "value": "1110913 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AF%B7%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9%E7%BD%91%E5%8F%8B%E5%9B%9E%E5%A4%8D%E7%88%86%E7%81%AB&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1110913",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Foreign netizens request China's help to respond to..."
-          }
-        },
-        {
-          "title": "2. 家长举报家委会3年收10多万元班费",
-          "value": "786787 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5%E5%AE%B6%E5%A7%94%E4%BC%9A3%E5%B9%B4%E6%94%B610%E5%A4%9A%E4%B8%87%E5%85%83%E7%8F%AD%E8%B4%B9&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 786787",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Parents report class committee collected over 100,000..."
-          }
-        },
-        {
-          "title": "3. 来华过大年成全球新风尚",
-          "value": "663009 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A5%E5%8D%8E%E8%BF%87%E5%A4%A7%E5%B9%B4%E6%88%90%E5%85%A8%E7%90%83%E6%96%B0%E9%A3%8E%E5%B0%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 663009",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Celebrating the Lunar New Year in China becomes a global..."
-          }
-        },
-        {
-          "title": "4. 华为马年新春贺岁手机电影",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E9%A9%AC%E5%B9%B4%E6%96%B0%E6%98%A5%E8%B4%BA%E5%B2%81%E6%89%8B%E6%9C%BA%E7%94%B5%E5%BD%B1&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Huawei's Year of the Horse New Year mobile movie..."
-          }
-        },
-        {
-          "title": "5. 千问 免费奶茶",
-          "value": "648338 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%20%E5%85%8D%E8%B4%B9%E5%A5%B6%E8%8C%B6&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 648338",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Qianwen Free Milk Tea..."
-          }
-        },
-        {
-          "title": "6. 杨幂微博QUEEN [官宣]",
-          "value": "盛典 534275 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E5%B9%82%E5%BE%AE%E5%8D%9AQUEEN&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "盛典 534275",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Yang Mi, the Weibo QUEEN..."
-          }
-        },
-        {
-          "title": "7. 微博之夜",
-          "value": "盛典 328393 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "盛典 328393",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Weibo Night..."
-          }
-        },
-        {
-          "title": "8. 成龙新片悬疑贺岁颠覆上演 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E9%BE%99%E6%96%B0%E7%89%87%E6%82%AC%E7%96%91%E8%B4%BA%E5%B2%81%E9%A2%A0%E8%A6%86%E4%B8%8A%E6%BC%94&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Jackie Chan's new film features a suspenseful New Year..."
-          }
-        },
-        {
-          "title": "9. 女演员开箱取出100克黄金500克白银",
-          "value": "287092 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E6%BC%94%E5%91%98%E5%BC%80%E7%AE%B1%E5%8F%96%E5%87%BA100%E5%85%8B%E9%BB%84%E9%87%91500%E5%85%8B%E7%99%BD%E9%93%B6&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 287092",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The actress unboxes 100 grams of gold and 500 grams of..."
-          }
-        },
-        {
-          "title": "10. 谢娜说肖战出新作品都会给他发信息 [热]",
-          "value": "盛典 240649 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%A2%E5%A8%9C%E8%AF%B4%E8%82%96%E6%88%98%E5%87%BA%E6%96%B0%E4%BD%9C%E5%93%81%E9%83%BD%E4%BC%9A%E7%BB%99%E4%BB%96%E5%8F%91%E4%BF%A1%E6%81%AF&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "盛典 240649",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Xie Na says she messages Xiao Zhan about his new works..."
           }
         }
       ]
