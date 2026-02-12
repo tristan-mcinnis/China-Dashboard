@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-12T14:19:06+08:00",
+  "generated_at": "2026-02-12T18:46:25+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-12T18:46:25+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 车厘子卖家赌涨价压货",
+          "value": "1114406 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BD%A6%E5%8E%98%E5%AD%90%E5%8D%96%E5%AE%B6%E8%B5%8C%E6%B6%A8%E4%BB%B7%E5%8E%8B%E8%B4%A7&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1114406",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cherry sellers bet on price increases by withholding..."
+          }
+        },
+        {
+          "title": "2. 谷爱凌不是输给第一名的第二名",
+          "value": "822269 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%8D%E6%98%AF%E8%BE%93%E7%BB%99%E7%AC%AC%E4%B8%80%E5%90%8D%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%90%8D&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 822269",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing is not the second place behind the first..."
+          }
+        },
+        {
+          "title": "3. 跨海列车背后的守护",
+          "value": "614772 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B7%A8%E6%B5%B7%E5%88%97%E8%BD%A6%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%88%E6%8A%A4&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 614772",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The guardians behind the cross-sea train..."
+          }
+        },
+        {
+          "title": "4. 王者荣耀马年全明星表演赛 [新]",
+          "value": "601375 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%A9%AC%E5%B9%B4%E5%85%A8%E6%98%8E%E6%98%9F%E8%A1%A8%E6%BC%94%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 601375",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Honor of Kings Year of the Horse All-Star Exhibition..."
+          }
+        },
+        {
+          "title": "5. 20岁邓恩熙演30岁蒋龙的妈",
+          "value": "剧集 596244 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D20%E5%B2%81%E9%82%93%E6%81%A9%E7%86%99%E6%BC%9430%E5%B2%81%E8%92%8B%E9%BE%99%E7%9A%84%E5%A6%88&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 596244",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "20-year-old Deng Enxi plays 30-year-old Jiang Long's mom..."
+          }
+        },
+        {
+          "title": "6. 第一次看到一箱草莓毫无食欲 [新]",
+          "value": "592747 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%88%B0%E4%B8%80%E7%AE%B1%E8%8D%89%E8%8E%93%E6%AF%AB%E6%97%A0%E9%A3%9F%E6%AC%B2&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 592747",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The first time I saw a box of strawberries, I felt no..."
+          }
+        },
+        {
+          "title": "7. 中戏表演系原主任陈刚主动投案",
+          "value": "203250 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%88%8F%E8%A1%A8%E6%BC%94%E7%B3%BB%E5%8E%9F%E4%B8%BB%E4%BB%BB%E9%99%88%E5%88%9A%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 203250",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Former head of the Central Academy of Drama Chen Gang..."
+          }
+        },
+        {
+          "title": "8. 团购12箱车厘子收到陈年僵尸果 [新]",
+          "value": "184551 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%A2%E8%B4%AD12%E7%AE%B1%E8%BD%A6%E5%8E%98%E5%AD%90%E6%94%B6%E5%88%B0%E9%99%88%E5%B9%B4%E5%83%B5%E5%B0%B8%E6%9E%9C&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 184551",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Group purchase of 12 boxes of cherries received old..."
+          }
+        },
+        {
+          "title": "9. 上海地铁嘉闵线发生局部渗漏",
+          "value": "184189 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%98%89%E9%97%B5%E7%BA%BF%E5%8F%91%E7%94%9F%E5%B1%80%E9%83%A8%E6%B8%97%E6%BC%8F&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 184189",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Shanghai Metro's Jiamin Line experiences localized..."
+          }
+        },
+        {
+          "title": "10. 为什么奶茶封口还要盖盖子 [新]",
+          "value": "180805 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B6%E8%8C%B6%E5%B0%81%E5%8F%A3%E8%BF%98%E8%A6%81%E7%9B%96%E7%9B%96%E5%AD%90&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 180805",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Why seal bubble tea and cover it with a lid?"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-12T14:19:06+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Knight has a high heart rate and seeks medical attention..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-06T18:45:48+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 快递停运",
-          "value": "1134407 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1134407",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Express delivery suspended..."
-          }
-        },
-        {
-          "title": "2. 千问送奶茶背后有阳谋 [新]",
-          "value": "842808 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%E9%80%81%E5%A5%B6%E8%8C%B6%E8%83%8C%E5%90%8E%E6%9C%89%E9%98%B3%E8%B0%8B&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 842808",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Behind Qianwen's milk tea delivery lies a hidden agenda..."
-          }
-        },
-        {
-          "title": "3. 冰雪春天",
-          "value": "670429 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%B0%E9%9B%AA%E6%98%A5%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 670429",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Ice and Snow in Spring..."
-          }
-        },
-        {
-          "title": "4. 鸿蒙智行旗舰MPV智界V9内饰首发",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%97%97%E8%88%B0MPV%E6%99%BA%E7%95%8CV9%E5%86%85%E9%A5%B0%E9%A6%96%E5%8F%91&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Hongmeng Zhixing flagship MPV ZhiJie V9 interior debut..."
-          }
-        },
-        {
-          "title": "5. 韩国运动员盒饭",
-          "value": "238911 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E7%9B%92%E9%A5%AD&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 238911",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Korean athlete's lunch box..."
-          }
-        },
-        {
-          "title": "6. 小马糕 [官宣]",
-          "value": "192639 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E9%A9%AC%E7%B3%95&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 192639",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Little Pony Cake..."
-          }
-        },
-        {
-          "title": "7. 觉得没情商的可以看看作者文案",
-          "value": "192394 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%89%E5%BE%97%E6%B2%A1%E6%83%85%E5%95%86%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E4%BD%9C%E8%80%85%E6%96%87%E6%A1%88&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 192394",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Those who lack emotional intelligence can check the..."
-          }
-        },
-        {
-          "title": "8. 千问一分钱奶茶",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%E4%B8%80%E5%88%86%E9%92%B1%E5%A5%B6%E8%8C%B6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Qianwen One Cent Milk Tea..."
-          }
-        },
-        {
-          "title": "9. 快手被罚1.191亿元人民币",
-          "value": "190095 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 190095",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Kuaishou fined 119.1 million yuan..."
-          }
-        },
-        {
-          "title": "10. 多名领到千问免费奶茶网友发声 [新]",
-          "value": "189217 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%90%8D%E9%A2%86%E5%88%B0%E5%8D%83%E9%97%AE%E5%85%8D%E8%B4%B9%E5%A5%B6%E8%8C%B6%E7%BD%91%E5%8F%8B%E5%8F%91%E5%A3%B0&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 189217",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Several users who received free milk tea speak out..."
           }
         }
       ]
