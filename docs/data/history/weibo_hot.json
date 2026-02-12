@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-12T11:30:51+08:00",
+  "generated_at": "2026-02-12T14:19:06+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-12T14:19:06+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 钟南山院士说会用证据让全世界服气",
+          "value": "1082336 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E8%AF%B4%E4%BC%9A%E7%94%A8%E8%AF%81%E6%8D%AE%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%8D%E6%B0%94&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1082336",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Academician Zhong Nanshan said he would convince the..."
+          }
+        },
+        {
+          "title": "2. 从Deepseek到Seedance中国AI成了",
+          "value": "787978 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 787978",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "From Deepseek to Seedance, AI in China has evolved..."
+          }
+        },
+        {
+          "title": "3. 中国人离登月又近了一步",
+          "value": "633104 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%A6%BB%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%BA%86%E4%B8%80%E6%AD%A5&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 633104",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese people are one step closer to landing on the moon..."
+          }
+        },
+        {
+          "title": "4. 比亚迪与曼城足球俱乐部达成合作 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8E%E6%9B%BC%E5%9F%8E%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "BYD partners with Manchester City Football Club..."
+          }
+        },
+        {
+          "title": "5. 2025年全国结婚登记676.3万对",
+          "value": "212866 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0676.3%E4%B8%87%E5%AF%B9&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 212866",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "In 2025, there were 6.763 million marriage registrations..."
+          }
+        },
+        {
+          "title": "6. 杭州有一趟永不发车的列车 [重磅]",
+          "value": "182806 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%B8%80%E8%B6%9F%E6%B0%B8%E4%B8%8D%E5%8F%91%E8%BD%A6%E7%9A%84%E5%88%97%E8%BD%A6&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 182806",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Hangzhou has a train that never departs..."
+          }
+        },
+        {
+          "title": "7. 相亲吃烤肉",
+          "value": "181111 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%B8%E4%BA%B2%E5%90%83%E7%83%A4%E8%82%89&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 181111",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Blind date at a barbecue..."
+          }
+        },
+        {
+          "title": "8. 两名小孩扔爆竹致1200年古树起火",
+          "value": "179140 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A4%E5%90%8D%E5%B0%8F%E5%AD%A9%E6%89%94%E7%88%86%E7%AB%B9%E8%87%B41200%E5%B9%B4%E5%8F%A4%E6%A0%91%E8%B5%B7%E7%81%AB&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 179140",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Two children set fire to a 1200-year-old tree with..."
+          }
+        },
+        {
+          "title": "9. 陈妍希官宣喜综",
+          "value": "综艺 168453 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E5%A6%8D%E5%B8%8C%E5%AE%98%E5%AE%A3%E5%96%9C%E7%BB%BC&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "综艺 168453",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chen Yanxi officially announces her joy..."
+          }
+        },
+        {
+          "title": "10. 法国3名婴儿因食用问题奶粉死亡 [新]",
+          "value": "137823 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%95%E5%9B%BD3%E5%90%8D%E5%A9%B4%E5%84%BF%E5%9B%A0%E9%A3%9F%E7%94%A8%E9%97%AE%E9%A2%98%E5%A5%B6%E7%B2%89%E6%AD%BB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 137823",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Three infants in France died from contaminated formula..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-12T11:30:51+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Several users who received free milk tea speak out..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-06T14:13:55+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 千问回应免费奶茶活动",
-          "value": "1360254 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%E5%9B%9E%E5%BA%94%E5%85%8D%E8%B4%B9%E5%A5%B6%E8%8C%B6%E6%B4%BB%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1360254",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Qianwen responds to the free milk tea event..."
-          }
-        },
-        {
-          "title": "2. 成何体统 [沸]",
-          "value": "剧集 855032 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "剧集 855032",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "What kind of order is this..."
-          }
-        },
-        {
-          "title": "3. 一人一句为中国冬奥健儿加油",
-          "value": "796238 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 796238",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Everyone cheers for China's Winter Olympic athletes!"
-          }
-        },
-        {
-          "title": "4. 尊界S800携众星亮相微博之夜",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8A%E7%95%8CS800%E6%90%BA%E4%BC%97%E6%98%9F%E4%BA%AE%E7%9B%B8%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "ZunJie S800 shines at Weibo Night with many stars..."
-          }
-        },
-        {
-          "title": "5. 千问 免费奶茶",
-          "value": "782003 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%20%E5%85%8D%E8%B4%B9%E5%A5%B6%E8%8C%B6&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 782003",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Thousand Questions Free Milk Tea..."
-          }
-        },
-        {
-          "title": "6. 杨幂微博QUEEN [重磅]",
-          "value": "盛典 465998 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E5%B9%82%E5%BE%AE%E5%8D%9AQUEEN&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "盛典 465998",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Yang Mi, the queen of Weibo..."
-          }
-        },
-        {
-          "title": "7. 小鳄鱼爱洗澡",
-          "value": "438924 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E9%B3%84%E9%B1%BC%E7%88%B1%E6%B4%97%E6%BE%A1&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 438924",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The little crocodile loves to take baths..."
-          }
-        },
-        {
-          "title": "8. 千问一分钱奶茶",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%E4%B8%80%E5%88%86%E9%92%B1%E5%A5%B6%E8%8C%B6&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Qianwen One Cent Milk Tea..."
-          }
-        },
-        {
-          "title": "9. 肖战 这群显眼包给我整这么大屏",
-          "value": "盛典 370024 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%20%E8%BF%99%E7%BE%A4%E6%98%BE%E7%9C%BC%E5%8C%85%E7%BB%99%E6%88%91%E6%95%B4%E8%BF%99%E4%B9%88%E5%A4%A7%E5%B1%8F&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "盛典 370024",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Xiao Zhan, this group is so eye-catching, give me a big..."
-          }
-        },
-        {
-          "title": "10. 光与夜之恋 [热]",
-          "value": "249215 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 249215",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Light and Night's Love..."
           }
         }
       ]
