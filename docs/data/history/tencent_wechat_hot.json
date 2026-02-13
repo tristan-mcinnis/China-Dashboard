@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-13T14:17:04+08:00",
+  "generated_at": "2026-02-13T18:45:51+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-13T18:45:51+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 中央领导同志看望老同志",
+          "value": "指数 7904899",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%A4%AE%E9%A2%86%E5%AF%BC%E5%90%8C%E5%BF%97%E7%9C%8B%E6%9C%9B%E8%80%81%E5%90%8C%E5%BF%97",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904899",
+            "api_source": "tianapi",
+            "translation": "Central leaders visit senior comrades..."
+          }
+        },
+        {
+          "title": "2. 杭州大哥开1人公司靠AI月入200万",
+          "value": "指数 7808490",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808490",
+            "api_source": "tianapi",
+            "translation": "Hangzhou man earns 2 million a month with AI in his solo..."
+          }
+        },
+        {
+          "title": "3. 男子卖前女友送的银镯发现是银包金",
+          "value": "指数 7712674",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B7%E5%AD%90%E5%8D%96%E5%89%8D%E5%A5%B3%E5%8F%8B%E9%80%81%E7%9A%84%E9%93%B6%E9%95%AF%E5%8F%91%E7%8E%B0%E6%98%AF%E9%93%B6%E5%8C%85%E9%87%91",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7712674",
+            "api_source": "tianapi",
+            "translation": "Man sells silver bracelet from ex-girlfriend, finds it's..."
+          }
+        },
+        {
+          "title": "4. 春运坐火车 请查收这份指南",
+          "value": "指数 7616159",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%98%A5%E8%BF%90%E5%9D%90%E7%81%AB%E8%BD%A6+%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E6%8C%87%E5%8D%97",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616159",
+            "api_source": "tianapi",
+            "translation": "Spring Festival travel by train, please check this guide..."
+          }
+        },
+        {
+          "title": "5. 白天爱晒太阳的人赚到了",
+          "value": "指数 7523047",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%99%BD%E5%A4%A9%E7%88%B1%E6%99%92%E5%A4%AA%E9%98%B3%E7%9A%84%E4%BA%BA%E8%B5%9A%E5%88%B0%E4%BA%86",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7523047",
+            "api_source": "tianapi",
+            "translation": "Those who love sunbathing during the day benefit..."
+          }
+        },
+        {
+          "title": "6. 公司利润2.7亿拿1.8亿发年终奖",
+          "value": "指数 7425066",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%AC%E5%8F%B8%E5%88%A9%E6%B6%A62.7%E4%BA%BF%E6%8B%BF1.8%E4%BA%BF%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7425066",
+            "api_source": "tianapi",
+            "translation": "The company made a profit of 270 million, distributing..."
+          }
+        },
+        {
+          "title": "7. 中方回应日本扣押中国渔船",
+          "value": "指数 7330494",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7330494",
+            "api_source": "tianapi",
+            "translation": "China responds to Japan's seizure of Chinese fishing..."
+          }
+        },
+        {
+          "title": "8. 广东湛江发现疑似儒艮尸体",
+          "value": "指数 7232416",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%84%92%E8%89%AE%E5%B0%B8%E4%BD%93",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7232416",
+            "api_source": "tianapi",
+            "translation": "Suspected manatee carcass found in Zhanjiang, Guangdong..."
+          }
+        },
+        {
+          "title": "9. 这趟火车不一般 上车就是热乎炕",
+          "value": "指数 7143098",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%BF%99%E8%B6%9F%E7%81%AB%E8%BD%A6%E4%B8%8D%E4%B8%80%E8%88%AC+%E4%B8%8A%E8%BD%A6%E5%B0%B1%E6%98%AF%E7%83%AD%E4%B9%8E%E7%82%95",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7143098",
+            "api_source": "tianapi",
+            "translation": "This train is special; it has warm heated beds..."
+          }
+        },
+        {
+          "title": "10. 春节假期有两次降水降温过程",
+          "value": "指数 7044512",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E6%9C%89%E4%B8%A4%E6%AC%A1%E9%99%8D%E6%B0%B4%E9%99%8D%E6%B8%A9%E8%BF%87%E7%A8%8B",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7044512",
+            "api_source": "tianapi",
+            "translation": "There will be two precipitation and cooling events..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-13T14:17:04+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -3362,122 +3478,6 @@
             "raw_score": "7048720",
             "api_source": "tianapi",
             "translation": "Thanked 97 times in the video on the way home..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-07T18:42:29+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 总书记勉励冰雪健儿",
-          "value": "指数 7904103",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%8B%89%E5%8A%B1%E5%86%B0%E9%9B%AA%E5%81%A5%E5%84%BF",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904103",
-            "api_source": "tianapi",
-            "translation": "The General Secretary encourages winter sports athletes..."
-          }
-        },
-        {
-          "title": "2. 中国黄金今起调整回购规则",
-          "value": "指数 7808589",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E4%BB%8A%E8%B5%B7%E8%B0%83%E6%95%B4%E5%9B%9E%E8%B4%AD%E8%A7%84%E5%88%99",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808589",
-            "api_source": "tianapi",
-            "translation": "China Gold adjusts repurchase rules starting today..."
-          }
-        },
-        {
-          "title": "3. 谷爱凌米兰冬奥会第一滑摔倒",
-          "value": "指数 7713073",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%B0%B7%E7%88%B1%E5%87%8C%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%BB%91%E6%91%94%E5%80%92",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7713073",
-            "api_source": "tianapi",
-            "translation": "Gu Ailing falls on her first run at the Milan Winter..."
-          }
-        },
-        {
-          "title": "4. 米兰冬奥会观赛指南",
-          "value": "指数 7618504",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%8C%87%E5%8D%97",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618504",
-            "api_source": "tianapi",
-            "translation": "Milan Winter Olympics Viewing Guide..."
-          }
-        },
-        {
-          "title": "5. 妈妈独自带三娃赶火车丢了俩",
-          "value": "指数 7522007",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A6%88%E5%A6%88%E7%8B%AC%E8%87%AA%E5%B8%A6%E4%B8%89%E5%A8%83%E8%B5%B6%E7%81%AB%E8%BD%A6%E4%B8%A2%E4%BA%86%E4%BF%A9",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7522007",
-            "api_source": "tianapi",
-            "translation": "Mom lost two kids while rushing to catch a train with..."
-          }
-        },
-        {
-          "title": "6. 开了6年生蚝的老板首次开出蚝珠",
-          "value": "指数 7429400",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E4%BA%866%E5%B9%B4%E7%94%9F%E8%9A%9D%E7%9A%84%E8%80%81%E6%9D%BF%E9%A6%96%E6%AC%A1%E5%BC%80%E5%87%BA%E8%9A%9D%E7%8F%A0",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7429400",
-            "api_source": "tianapi",
-            "translation": "The oyster farmer found a pearl after 6 years..."
-          }
-        },
-        {
-          "title": "7. 第一批被草莓“报复”的网友出现了",
-          "value": "指数 7327671",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%AC%AC%E4%B8%80%E6%89%B9%E8%A2%AB%E8%8D%89%E8%8E%93%E2%80%9C%E6%8A%A5%E5%A4%8D%E2%80%9D%E7%9A%84%E7%BD%91%E5%8F%8B%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7327671",
-            "api_source": "tianapi",
-            "translation": "The first batch of netizens \"retaliated\" by strawberries..."
-          }
-        },
-        {
-          "title": "8. 政务窗口工作人员8年收好处费1614万",
-          "value": "指数 7237772",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%94%BF%E5%8A%A1%E7%AA%97%E5%8F%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%988%E5%B9%B4%E6%94%B6%E5%A5%BD%E5%A4%84%E8%B4%B91614%E4%B8%87",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7237772",
-            "api_source": "tianapi",
-            "translation": "Government staff received 16.14 million in bribes over 8..."
-          }
-        },
-        {
-          "title": "9. 29元韭菜炒蚌壳肉吃出粉色珍珠",
-          "value": "指数 7138081",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=29%E5%85%83%E9%9F%AD%E8%8F%9C%E7%82%92%E8%9A%8C%E5%A3%B3%E8%82%89%E5%90%83%E5%87%BA%E7%B2%89%E8%89%B2%E7%8F%8D%E7%8F%A0",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7138081",
-            "api_source": "tianapi",
-            "translation": "29 yuan stir-fried chives with clam meat yields pink..."
-          }
-        },
-        {
-          "title": "10. 上海人大代表谈为何总打到“臭车”",
-          "value": "指数 7045034",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B0%88%E4%B8%BA%E4%BD%95%E6%80%BB%E6%89%93%E5%88%B0%E2%80%9C%E8%87%AD%E8%BD%A6%E2%80%9D",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7045034",
-            "api_source": "tianapi",
-            "translation": "Shanghai representatives discuss why they target \"smelly..."
           }
         }
       ]
