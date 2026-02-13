@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-13T11:30:55+08:00",
+  "generated_at": "2026-02-13T14:16:55+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-13T14:16:55+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 中戏发生了什么",
+          "value": "1102727 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%88%8F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1102727",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "What happened at the Central Academy of Drama?"
+          }
+        },
+        {
+          "title": "2. 公司利润2.7亿拿1.8亿发年终奖",
+          "value": "783020 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AC%E5%8F%B8%E5%88%A9%E6%B6%A62.7%E4%BA%BF%E6%8B%BF1.8%E4%BA%BF%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 783020",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The company made a profit of 270 million, distributing..."
+          }
+        },
+        {
+          "title": "3. 春节回家看老师",
+          "value": "627279 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E8%8A%82%E5%9B%9E%E5%AE%B6%E7%9C%8B%E8%80%81%E5%B8%88&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 627279",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Returning home for Spring Festival to see my teacher..."
+          }
+        },
+        {
+          "title": "4. 鸿蒙智行春运安心加马",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%98%A5%E8%BF%90%E5%AE%89%E5%BF%83%E5%8A%A0%E9%A9%AC&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "HarmonyOS ensures safe travel during the Spring Festival..."
+          }
+        },
+        {
+          "title": "5. 中戏已有两位表演系主任主动投案",
+          "value": "543904 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%88%8F%E5%B7%B2%E6%9C%89%E4%B8%A4%E4%BD%8D%E8%A1%A8%E6%BC%94%E7%B3%BB%E4%B8%BB%E4%BB%BB%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 543904",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Two directors of the acting department at CUC have..."
+          }
+        },
+        {
+          "title": "6. 丞磊王楚然 京洛再无佳人 [官宣]",
+          "value": "剧集 354283 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9E%E7%A3%8A%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%BA%AC%E6%B4%9B%E5%86%8D%E6%97%A0%E4%BD%B3%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 354283",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "Cheng Lei and Wang Churan, no more beauties in Jingluo..."
+          }
+        },
+        {
+          "title": "7. 微信 贴图",
+          "value": "340172 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%20%E8%B4%B4%E5%9B%BE&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 340172",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "WeChat stickers..."
+          }
+        },
+        {
+          "title": "8. 有爱就是年",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E7%88%B1%E5%B0%B1%E6%98%AF%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Love is what makes a year..."
+          }
+        },
+        {
+          "title": "9. 湛江一海滩发现疑似儒艮尸体",
+          "value": "314769 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%9B%E6%B1%9F%E4%B8%80%E6%B5%B7%E6%BB%A9%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%84%92%E8%89%AE%E5%B0%B8%E4%BD%93&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 314769",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A suspected manatee corpse found at a beach in Zhanjiang..."
+          }
+        },
+        {
+          "title": "10. 王鑫被查",
+          "value": "289155 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%91%AB%E8%A2%AB%E6%9F%A5&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 289155",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Xin is under investigation..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-13T11:30:55+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Hunan TV Spring Festival Gala lineup officially announced..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-07T14:08:26+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 千问",
-          "value": "2853494 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 2853494",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Thousand Questions..."
-          }
-        },
-        {
-          "title": "2. 网友挽留倒闭火锅店房东霸气免租",
-          "value": "2059457 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E5%8F%8B%E6%8C%BD%E7%95%99%E5%80%92%E9%97%AD%E7%81%AB%E9%94%85%E5%BA%97%E6%88%BF%E4%B8%9C%E9%9C%B8%E6%B0%94%E5%85%8D%E7%A7%9F&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 2059457",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Netizens plead to save closed hotpot restaurant;..."
-          }
-        },
-        {
-          "title": "3. 2026新春走基层",
-          "value": "1667160 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1667160",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "2026 Spring Festival at the grassroots..."
-          }
-        },
-        {
-          "title": "4. 美团外卖周末半价吃大餐",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E5%91%A8%E6%9C%AB%E5%8D%8A%E4%BB%B7%E5%90%83%E5%A4%A7%E9%A4%90&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Meituan takeout offers half-price meals on weekends..."
-          }
-        },
-        {
-          "title": "5. 王昶钱天一结婚",
-          "value": "12386962 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%98%B6%E9%92%B1%E5%A4%A9%E4%B8%80%E7%BB%93%E5%A9%9A&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 12386962",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Wang Chang and Qian Tianyi got married..."
-          }
-        },
-        {
-          "title": "6. 王楚然只贴三片黄瓜美成这样 [火热]",
-          "value": "剧集 511453 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8F%AA%E8%B4%B4%E4%B8%89%E7%89%87%E9%BB%84%E7%93%9C%E7%BE%8E%E6%88%90%E8%BF%99%E6%A0%B7&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "剧集 511453",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Wang Churan looks stunning with just three cucumber..."
-          }
-        },
-        {
-          "title": "7. 局长收370元礼品被免职",
-          "value": "255172 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%80%E9%95%BF%E6%94%B6370%E5%85%83%E7%A4%BC%E5%93%81%E8%A2%AB%E5%85%8D%E8%81%8C&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 255172",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Director dismissed for accepting a 370 yuan gift..."
-          }
-        },
-        {
-          "title": "8. TCL硬核科技霸屏米兰冬奥 [爆]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTCL%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E9%9C%B8%E5%B1%8F%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "爆",
-            "api_source": "tianapi",
-            "translation": "TCL's cutting-edge technology dominates the Milan Winter..."
-          }
-        },
-        {
-          "title": "9. 印度飞饼师傅凭什么认定为外籍专家",
-          "value": "218315 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E9%A3%9E%E9%A5%BC%E5%B8%88%E5%82%85%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A4%E5%AE%9A%E4%B8%BA%E5%A4%96%E7%B1%8D%E4%B8%93%E5%AE%B6&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 218315",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Why is the Indian roti maker recognized as a foreign expert?"
-          }
-        },
-        {
-          "title": "10. 脚底藏毒太味被闻出 [新]",
-          "value": "209608 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%84%9A%E5%BA%95%E8%97%8F%E6%AF%92%E5%A4%AA%E5%91%B3%E8%A2%AB%E9%97%BB%E5%87%BA&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 209608",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Toxic substance hidden in the sole detected..."
           }
         }
       ]
