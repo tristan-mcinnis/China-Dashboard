@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-14T14:09:23+08:00",
+  "generated_at": "2026-02-14T18:42:40+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-14T18:42:40+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 红包",
+          "value": "1135040 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1135040",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Red envelope..."
+          }
+        },
+        {
+          "title": "2. 红包分组 [新]",
+          "value": "818222 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E5%8C%85%E5%88%86%E7%BB%84&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 818222",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Red envelope grouping..."
+          }
+        },
+        {
+          "title": "3. 年夜饭送到家搜索量暴增600%",
+          "value": "662262 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E5%A4%9C%E9%A5%AD%E9%80%81%E5%88%B0%E5%AE%B6%E6%90%9C%E7%B4%A2%E9%87%8F%E6%9A%B4%E5%A2%9E600%25&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 662262",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Search volume for New Year's Eve dinner delivery surged..."
+          }
+        },
+        {
+          "title": "4. 妈妈回应林孝埈加入中国队 [新]",
+          "value": "315658 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%9E%97%E5%AD%9D%E5%9F%88%E5%8A%A0%E5%85%A5%E4%B8%AD%E5%9B%BD%E9%98%9F&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 315658",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Mom responds to Lin Xiaojun joining the Chinese team..."
+          }
+        },
+        {
+          "title": "5. 哈尔滨18米雪王鸡王被连夜拆除",
+          "value": "241213 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%88%E5%B0%94%E6%BB%A818%E7%B1%B3%E9%9B%AA%E7%8E%8B%E9%B8%A1%E7%8E%8B%E8%A2%AB%E8%BF%9E%E5%A4%9C%E6%8B%86%E9%99%A4&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 241213",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Harbin's 18-meter Snow King Chicken was dismantled..."
+          }
+        },
+        {
+          "title": "6. 这么大的架子竟然一点官都没有 [新]",
+          "value": "228610 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E4%B9%88%E5%A4%A7%E7%9A%84%E6%9E%B6%E5%AD%90%E7%AB%9F%E7%84%B6%E4%B8%80%E7%82%B9%E5%AE%98%E9%83%BD%E6%B2%A1%E6%9C%89&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 228610",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Such a big shelf has no official recognition at all..."
+          }
+        },
+        {
+          "title": "7. 微博竞团圆",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E7%AB%9E%E5%9B%A2%E5%9C%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Weibo competition for reunion..."
+          }
+        },
+        {
+          "title": "8. 汉尼拔用的是张小泉菜刀 [新]",
+          "value": "220761 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%89%E5%B0%BC%E6%8B%94%E7%94%A8%E7%9A%84%E6%98%AF%E5%BC%A0%E5%B0%8F%E6%B3%89%E8%8F%9C%E5%88%80&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 220761",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Hannibal uses a Zhang Xiaoquan kitchen knife..."
+          }
+        },
+        {
+          "title": "9. 突然发现朋友圈没人晒花了",
+          "value": "218833 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B2%A1%E4%BA%BA%E6%99%92%E8%8A%B1%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 218833",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Suddenly noticed no one is posting flowers in their..."
+          }
+        },
+        {
+          "title": "10. 王鹤棣让黄子韬跟徐艺洋离婚 [新]",
+          "value": "综艺 212822 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AE%A9%E9%BB%84%E5%AD%90%E9%9F%AC%E8%B7%9F%E5%BE%90%E8%89%BA%E6%B4%8B%E7%A6%BB%E5%A9%9A&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "综艺 212822",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Wang Hedi urged Huang Zitao to divorce Xu Yiyang..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-14T14:09:23+08:00",
       "source": "Weibo Hot Search",
@@ -3652,132 +3778,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Cai Xukun's live stream..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-08T18:42:44+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 中国军网点名张本智和",
-          "value": "1946805 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E7%82%B9%E5%90%8D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1946805",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "China's military network names Zhang Benzhihui..."
-          }
-        },
-        {
-          "title": "2. 35岁国企女掌门受贿4900万 [新]",
-          "value": "970743 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D35%E5%B2%81%E5%9B%BD%E4%BC%81%E5%A5%B3%E6%8E%8C%E9%97%A8%E5%8F%97%E8%B4%BF4900%E4%B8%87&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 970743",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "35-year-old female head of state-owned enterprise bribed..."
-          }
-        },
-        {
-          "title": "3. 新一轮大范围雨雪天气来袭",
-          "value": "745697 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E5%A4%A9%E6%B0%94%E6%9D%A5%E8%A2%AD&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 745697",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A new round of widespread rain and snow is coming..."
-          }
-        },
-        {
-          "title": "4. 苏翊鸣大跳台高燃上场时刻",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%AB%98%E7%87%83%E4%B8%8A%E5%9C%BA%E6%97%B6%E5%88%BB&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Su Yiming's thrilling moment on the big jump stage..."
-          }
-        },
-        {
-          "title": "5. 外卖小哥打翻32杯奶茶原地发愣",
-          "value": "359691 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%89%93%E7%BF%BB32%E6%9D%AF%E5%A5%B6%E8%8C%B6%E5%8E%9F%E5%9C%B0%E5%8F%91%E6%84%A3&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 359691",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Delivery guy stunned after spilling 32 cups of milk tea..."
-          }
-        },
-        {
-          "title": "6. 日本军国主义渗透文体领域 [重磅]",
-          "value": "338930 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%B8%97%E9%80%8F%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 338930",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Japanese militarism infiltrates the literary field..."
-          }
-        },
-        {
-          "title": "7. 牛奶炸鸡",
-          "value": "310273 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%9B%E5%A5%B6%E7%82%B8%E9%B8%A1&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 310273",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Milk fried chicken..."
-          }
-        },
-        {
-          "title": "8. 扫走旧情绪新年马上有米",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%89%AB%E8%B5%B0%E6%97%A7%E6%83%85%E7%BB%AA%E6%96%B0%E5%B9%B4%E9%A9%AC%E4%B8%8A%E6%9C%89%E7%B1%B3&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Sweep away old emotions, the New Year brings abundance..."
-          }
-        },
-        {
-          "title": "9. 古茗回应外卖小哥打翻32杯奶茶",
-          "value": "304186 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%A4%E8%8C%97%E5%9B%9E%E5%BA%94%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%89%93%E7%BF%BB32%E6%9D%AF%E5%A5%B6%E8%8C%B6&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 304186",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gu Ming responds to delivery guy spilling 32 cups of..."
-          }
-        },
-        {
-          "title": "10. 爸爸弯了一辈子的腰终于断了 [新]",
-          "value": "271263 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B8%E7%88%B8%E5%BC%AF%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E8%85%B0%E7%BB%88%E4%BA%8E%E6%96%AD%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 271263",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Dad's back, bent for a lifetime, finally broke..."
           }
         }
       ]
