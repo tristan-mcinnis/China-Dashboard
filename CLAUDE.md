@@ -37,6 +37,8 @@ python collectors/ladymax.py
 python collectors/indices_cn.py
 python collectors/fx_cny.py
 python collectors/weather_cn.py
+python collectors/pboc_rates.py
+python collectors/nbs_monthly.py
 ```
 
 ### GitHub Pages Setup
@@ -80,12 +82,32 @@ Current collectors:
 - `indices_cn.py`: Chinese stock market indices
 - `fx_cny.py`: Currency exchange rates (optional FX_API_KEY)
 - `weather_cn.py`: Beijing weather data
+- `pboc_rates.py`: PBOC policy rates (LPR, MLF, RRR) from EastMoney/Trading Economics
+- `nbs_monthly.py`: NBS monthly indicators (CPI, PPI, PMI) from EastMoney
+- `trade_data.py`: China trade data (exports, imports, balance) from EastMoney
+- `property_cn.py`: 70-city home price index from EastMoney/NBS
+- `gov_regulatory.py`: CSRC, CAC, SAMR regulatory announcements with gpt-5-nano translations
+- `db_writer.py`: Utility to write collector data to Neon Postgres (requires DATABASE_URL)
+
+## Neon Postgres (Long-term Storage)
+
+- **Project**: china-dashboard (quiet-king-62917095)
+- **Tables**: `snapshots`, `indicators`, `news_items`
+- **Connection**: Set DATABASE_URL secret in GitHub Actions
+- **Usage**: Dual-write — JSON files for GitHub Pages, Neon for historical queries
+- Data writes happen after JSON collection in the workflow
+
+## Vercel Deployment
+
+- **URL**: https://china-dashboard.vercel.app
+- **Config**: `vercel.json` — serves `docs/` as static output
+- Linked to GitHub repo for auto-deployments
 
 ## GitHub Actions
 
-- **Trigger**: Every 30 minutes via cron or manual dispatch
+- **Trigger**: 5 times per day (06:00, 10:30, 14:00, 18:30, 22:00 Beijing time)
 - **Environment**: Runs on ubuntu-latest with Python 3.11
-- **Secrets**: TIANAPI_API_KEY, OPENAI_API_KEY (required), FX_API_KEY (optional)
+- **Secrets**: TIANAPI_API_KEY, OPENAI_API_KEY (required), FX_API_KEY, DATABASE_URL (optional)
 - **Timezone**: Asia/Shanghai
 - **Commit**: Auto-commits data updates to `docs/data/*.json`
 

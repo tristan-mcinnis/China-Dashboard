@@ -1019,6 +1019,77 @@ a.bilingual-text {
   border: 1px solid rgba(239, 68, 68, 0.2);
 }
 
+/* Sparkline */
+.sparkline {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: var(--space-1);
+}
+
+/* Category filter bar */
+.category-filter {
+  display: flex;
+  gap: var(--space-2);
+  padding: var(--space-3) 0;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  background: var(--color-bg-tertiary);
+  color: var(--color-text-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: var(--space-1) var(--space-3);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.filter-btn:hover {
+  color: var(--color-text-primary);
+  border-color: var(--color-text-secondary);
+}
+
+.filter-btn.active {
+  background: var(--color-text-brand);
+  color: #fff;
+  border-color: var(--color-text-brand);
+}
+
+/* Stale data badge */
+.stale-badge {
+  font-size: 0.7rem;
+  color: var(--color-warning);
+  font-weight: 500;
+  margin-left: var(--space-1);
+}
+
+/* Export button */
+.export-bar {
+  display: flex;
+  gap: var(--space-2);
+  justify-content: flex-end;
+  padding: var(--space-2) 0;
+}
+
+.export-btn {
+  background: var(--color-bg-tertiary);
+  color: var(--color-text-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: var(--space-1) var(--space-3);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.export-btn:hover {
+  color: var(--color-text-primary);
+  border-color: var(--color-text-secondary);
+}
+
 /* Footer */
 .footer { 
   border-top: 1px solid var(--color-border-subtle);

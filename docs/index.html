@@ -49,7 +49,16 @@
     </header>
 
     <main class="main">
-      <section class="section">
+      <div id="category-filter" class="category-filter">
+        <button class="filter-btn active" data-category="all">All</button>
+        <button class="filter-btn" data-category="markets">Markets</button>
+        <button class="filter-btn" data-category="macro">Macro</button>
+        <button class="filter-btn" data-category="social">Social</button>
+        <button class="filter-btn" data-category="news">News</button>
+        <button class="filter-btn" data-category="regulatory">Regulatory</button>
+      </div>
+
+      <section class="section" data-category="markets">
         <div class="section-header">
           <h2 class="section-title">Markets & FX</h2>
           <div class="section-subtitle">Real-time financial indicators</div>
@@ -76,7 +85,52 @@
         </div>
       </section>
 
-      <section class="section">
+      <section class="section" data-category="macro">
+        <div class="section-header">
+          <h2 class="section-title">Macro Indicators</h2>
+          <div class="section-subtitle">Key economic and policy rates</div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">PBOC Policy Rates</h3>
+              <div class="card-subtitle">LPR, MLF, RRR</div>
+            </div>
+            <div class="card-content">
+              <ul id="pboc-rates" class="data-list"></ul>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">Monthly Indicators</h3>
+              <div class="card-subtitle">CPI, PPI, PMI</div>
+            </div>
+            <div class="card-content">
+              <ul id="nbs-monthly" class="data-list"></ul>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">Trade</h3>
+              <div class="card-subtitle">Imports, exports, trade balance</div>
+            </div>
+            <div class="card-content">
+              <ul id="trade-data" class="data-list"></ul>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">Property</h3>
+              <div class="card-subtitle">70-city home price index</div>
+            </div>
+            <div class="card-content">
+              <ul id="property-data" class="data-list"></ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" data-category="social">
         <div class="section-header">
           <h2 class="section-title">Social & Search</h2>
           <div class="section-subtitle">Trending topics and discussions</div>
@@ -127,7 +181,7 @@
         </div>
       </section>
 
-      <section class="section">
+      <section class="section" data-category="news">
         <div class="section-header">
           <div class="section-header-text">
             <h2 class="section-title">Xinhua News RSS</h2>
@@ -142,7 +196,7 @@
         <div id="xinhua-news" class="grid-3" aria-live="polite"></div>
       </section>
 
-      <section class="section">
+      <section class="section" data-category="news">
         <div class="section-header">
           <div class="section-header-text">
             <h2 class="section-title">The Paper (澎湃新闻) RSS</h2>
@@ -157,7 +211,7 @@
         <div id="thepaper-news" class="grid-3" aria-live="polite"></div>
       </section>
 
-      <section class="section">
+      <section class="section" data-category="news">
         <div class="section-header">
           <div class="section-header-text">
             <h2 class="section-title">LadyMax (时尚头条网)</h2>
@@ -172,7 +226,27 @@
         <div id="ladymax-news" class="grid-3" aria-live="polite"></div>
       </section>
 
+      <section class="section" data-category="regulatory">
+        <div class="section-header">
+          <div class="section-header-text">
+            <h2 class="section-title">Regulatory (CSRC · CAC · SAMR)</h2>
+            <div class="section-subtitle">Government regulatory announcements with bilingual titles</div>
+          </div>
+          <div class="history-bar history-bar-inline" aria-live="polite">
+            <button type="button" class="history-button" id="regulatory-prev" aria-label="Previous regulatory snapshot">‹</button>
+            <span class="history-meta" id="regulatory-timestamp">No snapshots</span>
+            <button type="button" class="history-button" id="regulatory-next" aria-label="Next regulatory snapshot">›</button>
+          </div>
+        </div>
+        <div id="regulatory-news" class="grid-3" aria-live="polite"></div>
+      </section>
+
     </main>
+
+    <div class="export-bar">
+        <button class="export-btn" id="export-json">Export JSON</button>
+        <button class="export-btn" id="export-csv">Export CSV</button>
+      </div>
 
     <footer class="footer">
       <div class="footer-content">

@@ -38,6 +38,7 @@ jobs:
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
           FX_API_KEY: ${{ secrets.FX_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
           TZ: Asia/Shanghai
         run: |
           # Run each collector and track failures with exit codes
@@ -52,6 +53,11 @@ jobs:
             "xinhua_rss"
             "thepaper_rss"
             "ladymax"
+            "pboc_rates"
+            "nbs_monthly"
+            "trade_data"
+            "property_cn"
+            "gov_regulatory"
           )
 
           failed_collectors=""
@@ -98,6 +104,38 @@ jobs:
           else
             echo "All $total_count collectors ran successfully"
           fi
+
+      - name: Write to Neon DB
+        if: env.DATABASE_URL != ''
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          python -c "
+          import json, glob
+          from collectors.db_writer import write_to_db
+
+          category_map = {
+            'indices': 'market', 'fx': 'fx', 'pboc_rates': 'rates',
+            'nbs_monthly': 'macro', 'trade_data': 'trade', 'property': 'property',
+            'weather': 'market',
+            'baidu_top': 'social', 'weibo_hot': 'social', 'tencent_wechat_hot': 'social',
+            'xinhua_news': 'news', 'thepaper_news': 'news', 'ladymax_news': 'news',
+            'gov_regulatory': 'regulatory',
+          }
+
+          for path in glob.glob('docs/data/*.json'):
+            name = path.split('/')[-1].replace('.json', '')
+            if name == 'health':
+              continue
+            try:
+              with open(path) as f:
+                data = json.load(f)
+              cat = category_map.get(name, 'general')
+              write_to_db(data, category=cat)
+              print(f'DB write OK: {name}')
+            except Exception as e:
+              print(f'DB write failed for {name}: {e}')
+          " 2>&1 || echo "::warning::DB writes had errors"
 
       - name: Commit data
         run: |

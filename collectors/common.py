@@ -107,7 +107,7 @@ def write_with_history(
     history_path: str,
     payload: dict,
     *,
-    max_entries: int = 30,
+    max_entries: int = 100,
     min_items: int = 1,
 ) -> bool:
     """Persist the latest payload and append it to a bounded history file using atomic writes.

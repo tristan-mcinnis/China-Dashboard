@@ -10,9 +10,10 @@ if __name__ == "__main__" and __package__ is None:
 
 import requests
 
-from collectors.common import backoff_sleep, schema, write_json
+from collectors.common import backoff_sleep, schema, write_with_history
 
 OUT = "docs/data/fx.json"
+HISTORY = "docs/data/history/fx.json"
 
 PAIRS = {
     "USD/CNY": "CNY=X",
@@ -64,11 +65,11 @@ def fetch_fx(symbol: str):
     except Exception:
         pass
 
-    # Fallback with realistic FX rates
+    # Fallback with realistic FX rates — marked as stale
     fallback_rates = {
         "CNY=X": 7.25, "CNH=X": 7.24, "EURCNY=X": 7.95, "JPYCNY=X": 0.049
     }
-    return {"value": fallback_rates.get(symbol, 7.25), "chg_pct": 0, "ts": None}
+    return {"value": fallback_rates.get(symbol, 7.25), "chg_pct": 0, "ts": None, "stale": True}
 
 
 def main() -> None:
@@ -84,10 +85,11 @@ def main() -> None:
                     "symbol": symbol,
                     "chg_pct": quote["chg_pct"],
                     "ts": quote["ts"],
+                    **({"stale": True} if quote.get("stale") else {}),
                 },
             }
         )
-    write_json(OUT, schema(source="Yahoo Finance (fallback)", items=items), min_items=1)
+    write_with_history(OUT, HISTORY, schema(source="Yahoo Finance (fallback)", items=items), min_items=1)
 
 
 if __name__ == "__main__":

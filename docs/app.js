@@ -1106,28 +1106,224 @@ function createHistoryControllers() {
     render: (entry) => renderLadymaxSnapshot(entry, ladymaxGrid),
   });
 
+  const regulatoryGrid = document.getElementById("regulatory-news");
+  controllers.regulatory = new HistoryController({
+    container: regulatoryGrid,
+    prevButton: document.getElementById("regulatory-prev"),
+    nextButton: document.getElementById("regulatory-next"),
+    timestampElement: document.getElementById("regulatory-timestamp"),
+    render: (entry) => renderRegulatorySnapshot(entry, regulatoryGrid),
+  });
+
   return controllers;
 }
 
+function renderRegulatorySnapshot(entry, container) {
+  if (!container) return;
+  container.innerHTML = "";
+
+  const items = Array.isArray(entry?.items) ? entry.items : [];
+
+  if (items.length === 0) {
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="card-header">
+        <h3 class="card-title">Regulatory</h3>
+        <div class="card-subtitle">No announcements available</div>
+      </div>
+      <div class="card-content"><p class="muted">No recent items fetched.</p></div>
+    `;
+    container.appendChild(card);
+    return;
+  }
+
+  // Group by agency
+  const agencies = new Map();
+  items.forEach((item) => {
+    const agency = item?.extra?.agency || "Other";
+    if (!agencies.has(agency)) agencies.set(agency, []);
+    agencies.get(agency).push(item);
+  });
+
+  agencies.forEach((agencyItems, agency) => {
+    const agencyZh = agencyItems[0]?.extra?.agency_zh || agency;
+    const card = document.createElement("div");
+    card.className = "card";
+
+    const header = document.createElement("div");
+    header.className = "card-header";
+
+    const title = document.createElement("h3");
+    title.className = "card-title card-title-bilingual";
+
+    const titleZh = document.createElement("span");
+    titleZh.className = "card-title-zh";
+    titleZh.textContent = agencyZh;
+
+    const titleEn = document.createElement("span");
+    titleEn.className = "card-title-en";
+    titleEn.textContent = agency;
+
+    title.appendChild(titleZh);
+    title.appendChild(titleEn);
+
+    const subtitle = document.createElement("div");
+    subtitle.className = "card-subtitle";
+    subtitle.textContent = formatHeadlineSubtitle(agencyItems.length);
+
+    header.appendChild(title);
+    header.appendChild(subtitle);
+    card.appendChild(header);
+
+    const content = document.createElement("div");
+    content.className = "card-content";
+
+    const ul = document.createElement("ul");
+    ul.className = "data-list";
+
+    agencyItems.forEach((item) => {
+      const li = document.createElement("li");
+      li.className = "news-item";
+
+      const link = document.createElement("a");
+      const href = (item?.url || "").trim();
+      if (href) {
+        link.href = href;
+        link.target = "_blank";
+        link.rel = "noopener";
+      } else {
+        link.href = "#";
+        link.setAttribute("aria-disabled", "true");
+      }
+
+      const rawTitle = (item?.title || "").trim() || "(无标题)";
+      const translation = item?.extra?.translation || "";
+
+      if (translation) {
+        link.className = "bilingual-text";
+        const zh = document.createElement("div");
+        zh.className = "chinese-text";
+        zh.textContent = rawTitle;
+        const en = document.createElement("div");
+        en.className = "english-text";
+        en.textContent = translation;
+        link.appendChild(zh);
+        link.appendChild(en);
+      } else {
+        link.textContent = rawTitle;
+      }
+
+      li.appendChild(link);
+      ul.appendChild(li);
+    });
+
+    content.appendChild(ul);
+    card.appendChild(content);
+    container.appendChild(card);
+  });
+}
+
 const historyControllers = createHistoryControllers();
+
+// Sparkline: renders an inline SVG sparkline from an array of numeric values
+function sparklineSVG(values, { width = 60, height = 16, color } = {}) {
+  if (!values || values.length < 2) return '';
+  const nums = values.filter(v => typeof v === 'number' && Number.isFinite(v));
+  if (nums.length < 2) return '';
+
+  const min = Math.min(...nums);
+  const max = Math.max(...nums);
+  const range = max - min || 1;
+  const strokeColor = color || (nums[nums.length - 1] >= nums[0] ? 'var(--color-success)' : 'var(--color-error)');
+
+  const points = nums.map((v, i) => {
+    const x = (i / (nums.length - 1)) * width;
+    const y = height - ((v - min) / range) * (height - 2) - 1;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+
+  return `<svg class="sparkline" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"><polyline fill="none" stroke="${strokeColor}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="${points}"/></svg>`;
+}
+
+// Extract sparkline data from history entries for a specific item title
+function extractSparklineValues(historyEntries, itemTitle) {
+  if (!Array.isArray(historyEntries)) return [];
+  const values = [];
+  // Entries are newest-first, reverse for chronological order
+  const chronological = [...historyEntries].reverse();
+  for (const entry of chronological) {
+    const items = entry?.items || [];
+    const match = items.find(i => i?.title === itemTitle);
+    if (match) {
+      const val = typeof match.value === 'number' ? match.value : parseFloat(match.value);
+      if (Number.isFinite(val)) values.push(val);
+    }
+  }
+  return values;
+}
+
+// Category filter state
+let activeCategoryFilter = 'all';
+
+function initCategoryFilter() {
+  const filterBar = document.getElementById('category-filter');
+  if (!filterBar) return;
+
+  filterBar.addEventListener('click', (e) => {
+    const btn = e.target.closest('[data-category]');
+    if (!btn) return;
+
+    activeCategoryFilter = btn.dataset.category;
+    filterBar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    applyCategoryFilter();
+  });
+}
+
+function applyCategoryFilter() {
+  const sections = document.querySelectorAll('.section[data-category]');
+  sections.forEach(section => {
+    if (activeCategoryFilter === 'all' || section.dataset.category === activeCategoryFilter) {
+      section.style.display = '';
+    } else {
+      section.style.display = 'none';
+    }
+  });
+}
+
+document.addEventListener('DOMContentLoaded', initCategoryFilter);
 
 async function render() {
   try {
     const [
       indices,
       fx,
+      indicesHistory,
+      fxHistory,
       weather,
+      pbocRates,
+      nbsMonthly,
+      tradeData,
+      propertyData,
       baiduHistory,
       weiboHistory,
       wechatHistory,
       xinhuaHistory,
       thepaperHistory,
       ladymaxHistory,
+      regulatoryHistory,
     ] =
       await Promise.all([
         loadJSON("data/indices.json"),
         loadJSON("data/fx.json"),
+        loadHistoryEntries("data/indices.json", "data/history/indices.json"),
+        loadHistoryEntries("data/fx.json", "data/history/fx.json"),
         loadJSON("data/weather.json").catch(() => ({ items: [] })),
+        loadJSON("data/pboc_rates.json").catch(() => ({ items: [] })),
+        loadJSON("data/nbs_monthly.json").catch(() => ({ items: [] })),
+        loadJSON("data/trade_data.json").catch(() => ({ items: [] })),
+        loadJSON("data/property.json").catch(() => ({ items: [] })),
         loadHistoryEntries("data/baidu_top.json", "data/history/baidu_top.json"),
         loadHistoryEntries("data/weibo_hot.json", "data/history/weibo_hot.json"),
         loadHistoryEntries(
@@ -1137,6 +1333,7 @@ async function render() {
         loadHistoryEntries("data/xinhua_news.json", "data/history/xinhua_news.json"),
         loadHistoryEntries("data/thepaper_news.json", "data/history/thepaper_news.json"),
         loadHistoryEntries("data/ladymax_news.json", "data/history/ladymax_news.json"),
+        loadHistoryEntries("data/gov_regulatory.json", "data/history/gov_regulatory.json"),
       ]);
 
     const ulIdx = document.getElementById("indices");
@@ -1144,9 +1341,10 @@ async function render() {
       ulIdx.innerHTML = "";
       indices.items.forEach((item) => {
         const li = document.createElement("li");
+        const spark = sparklineSVG(extractSparklineValues(indicesHistory, item.title));
         li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
           item.value ?? "—"
-        }</strong><span class="muted">${fmtPct(item.extra?.chg_pct)}</span>`;
+        }</strong><span class="muted">${fmtPct(item.extra?.chg_pct)}</span> ${spark}`;
         ulIdx.appendChild(li);
       });
     }
@@ -1156,10 +1354,65 @@ async function render() {
       ulFx.innerHTML = "";
       fx.items.forEach((item) => {
         const li = document.createElement("li");
+        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback rate — live data unavailable">⚠ stale</span>' : '';
+        const spark = sparklineSVG(extractSparklineValues(fxHistory, item.title));
         li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
           item.value ?? "—"
-        }</strong><span class="muted">${fmtPct(item.extra?.chg_pct)}</span>`;
+        }</strong><span class="muted">${fmtPct(item.extra?.chg_pct)}</span> ${spark}${staleWarning}`;
         ulFx.appendChild(li);
+      });
+    }
+
+    // Render PBOC rates
+    const ulPboc = document.getElementById("pboc-rates");
+    if (ulPboc) {
+      ulPboc.innerHTML = "";
+      pbocRates.items.forEach((item) => {
+        const li = document.createElement("li");
+        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback data">⚠ stale</span>' : '';
+        const desc = item.extra?.description ? ` <span class="muted">${item.extra.description}</span>` : '';
+        const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
+        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
+        ulPboc.appendChild(li);
+      });
+    }
+
+    // Render NBS monthly indicators
+    const ulNbs = document.getElementById("nbs-monthly");
+    if (ulNbs) {
+      ulNbs.innerHTML = "";
+      nbsMonthly.items.forEach((item) => {
+        const li = document.createElement("li");
+        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback data">⚠ stale</span>' : '';
+        const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
+        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
+        ulNbs.appendChild(li);
+      });
+    }
+
+    // Render trade data
+    const ulTrade = document.getElementById("trade-data");
+    if (ulTrade) {
+      ulTrade.innerHTML = "";
+      tradeData.items.forEach((item) => {
+        const li = document.createElement("li");
+        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback data">⚠ stale</span>' : '';
+        const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
+        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
+        ulTrade.appendChild(li);
+      });
+    }
+
+    // Render property data
+    const ulProperty = document.getElementById("property-data");
+    if (ulProperty) {
+      ulProperty.innerHTML = "";
+      propertyData.items.forEach((item) => {
+        const li = document.createElement("li");
+        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback data">⚠ stale</span>' : '';
+        const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
+        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
+        ulProperty.appendChild(li);
       });
     }
 
@@ -1190,6 +1443,10 @@ async function render() {
 
     if (historyControllers.ladymax) {
       historyControllers.ladymax.setEntries(ladymaxHistory);
+    }
+
+    if (historyControllers.regulatory) {
+      historyControllers.regulatory.setEntries(regulatoryHistory);
     }
 
     setLastRefresh();
@@ -1265,12 +1522,17 @@ async function checkForUpdates() {
       { key: 'indices', path: 'data/indices.json' },
       { key: 'fx', path: 'data/fx.json' },
       { key: 'weather', path: 'data/weather.json' },
+      { key: 'pboc', path: 'data/pboc_rates.json' },
+      { key: 'nbs', path: 'data/nbs_monthly.json' },
       { key: 'baidu', path: 'data/baidu_top.json' },
       { key: 'weibo', path: 'data/weibo_hot.json' },
       { key: 'wechat', path: 'data/tencent_wechat_hot.json' },
       { key: 'xinhua', path: 'data/xinhua_news.json' },
       { key: 'thepaper', path: 'data/thepaper_news.json' },
-      { key: 'ladymax', path: 'data/ladymax_news.json' }
+      { key: 'ladymax', path: 'data/ladymax_news.json' },
+      { key: 'trade', path: 'data/trade_data.json' },
+      { key: 'property', path: 'data/property.json' },
+      { key: 'regulatory', path: 'data/gov_regulatory.json' }
     ];
 
     let hasUpdates = false;
@@ -1528,6 +1790,73 @@ class SearchController {
     }
   }
 }
+
+// Data export functionality
+function downloadFile(filename, content, mimeType) {
+  const blob = new Blob([content], { type: mimeType });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+async function exportData(format) {
+  const sources = [
+    { key: 'indices', path: 'data/indices.json' },
+    { key: 'fx', path: 'data/fx.json' },
+    { key: 'baidu', path: 'data/baidu_top.json' },
+    { key: 'weibo', path: 'data/weibo_hot.json' },
+    { key: 'wechat', path: 'data/tencent_wechat_hot.json' },
+    { key: 'xinhua', path: 'data/xinhua_news.json' },
+    { key: 'thepaper', path: 'data/thepaper_news.json' },
+    { key: 'ladymax', path: 'data/ladymax_news.json' },
+    { key: 'pboc_rates', path: 'data/pboc_rates.json' },
+    { key: 'nbs_monthly', path: 'data/nbs_monthly.json' },
+    { key: 'weather', path: 'data/weather.json' },
+  ];
+
+  const allData = {};
+  await Promise.all(sources.map(async ({ key, path }) => {
+    try { allData[key] = await loadJSON(path); } catch { allData[key] = null; }
+  }));
+
+  const timestamp = new Date().toISOString().slice(0, 19).replace(/[T:]/g, '-');
+
+  if (format === 'json') {
+    downloadFile(`china-snapshot-${timestamp}.json`, JSON.stringify(allData, null, 2), 'application/json');
+  } else {
+    // CSV: flatten all items across sources
+    const rows = [['source', 'as_of', 'title', 'value', 'url', 'translation', 'chg_pct']];
+    for (const [key, data] of Object.entries(allData)) {
+      if (!data?.items) continue;
+      for (const item of data.items) {
+        rows.push([
+          key,
+          data.as_of || '',
+          (item.title || '').replace(/"/g, '""'),
+          item.value ?? '',
+          item.url || '',
+          (item.extra?.translation || '').replace(/"/g, '""'),
+          item.extra?.chg_pct ?? '',
+        ]);
+      }
+    }
+    const csv = rows.map(r => r.map(v => `"${v}"`).join(',')).join('\n');
+    downloadFile(`china-snapshot-${timestamp}.csv`, csv, 'text/csv');
+  }
+}
+
+// Wire up export buttons
+document.addEventListener('DOMContentLoaded', () => {
+  const jsonBtn = document.getElementById('export-json');
+  const csvBtn = document.getElementById('export-csv');
+  if (jsonBtn) jsonBtn.addEventListener('click', () => exportData('json'));
+  if (csvBtn) csvBtn.addEventListener('click', () => exportData('csv'));
+});
 
 // Initialize search controller
 const searchController = new SearchController();
