@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-15T18:42:31+08:00",
+  "generated_at": "2026-02-15T22:12:58+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-15T22:12:58+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 2026红包分组",
+          "value": "1140770 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E7%BA%A2%E5%8C%85%E5%88%86%E7%BB%84&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1140770",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2026 Red Envelope Grouping"
+          }
+        },
+        {
+          "title": "2. 千问红包雨",
+          "value": "801235 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85%E9%9B%A8&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 801235",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Qianwen Red Envelope Rain..."
+          }
+        },
+        {
+          "title": "3. 咱们空间站过年氛围拉满了",
+          "value": "638976 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%B1%E4%BB%AC%E7%A9%BA%E9%97%B4%E7%AB%99%E8%BF%87%E5%B9%B4%E6%B0%9B%E5%9B%B4%E6%8B%89%E6%BB%A1%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 638976",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Our space station is filled with a festive atmosphere..."
+          }
+        },
+        {
+          "title": "4. 年味vlog不打烊",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E5%91%B3vlog%E4%B8%8D%E6%89%93%E7%83%8A&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The New Year vibe vlog never stops..."
+          }
+        },
+        {
+          "title": "5. 生命树大结局",
+          "value": "剧集 454107 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E6%A0%91%E5%A4%A7%E7%BB%93%E5%B1%80&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 454107",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The grand finale of the Tree of Life..."
+          }
+        },
+        {
+          "title": "6. 春晚彩排 [荐]",
+          "value": "晚会 445979 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "晚会 445979",
+            "tag": "荐",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala rehearsal..."
+          }
+        },
+        {
+          "title": "7. 元宝红包",
+          "value": "413008 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E5%AE%9D%E7%BA%A2%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 413008",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yuanbao red envelope..."
+          }
+        },
+        {
+          "title": "8. WBG彩虹六号再创CN最佳战绩",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DWBG%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7%E5%86%8D%E5%88%9BCN%E6%9C%80%E4%BD%B3%E6%88%98%E7%BB%A9&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "WBG sets a new best record for CN in Rainbow Six..."
+          }
+        },
+        {
+          "title": "9. 王菲只需轻轻出手",
+          "value": "晚会 368385 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%8F%B2%E5%8F%AA%E9%9C%80%E8%BD%BB%E8%BD%BB%E5%87%BA%E6%89%8B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "晚会 368385",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Faye Wong only needs to make a gentle move..."
+          }
+        },
+        {
+          "title": "10. 辽宁卫视春晚",
+          "value": "晚会 365725 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "晚会 365725",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liaoning TV Spring Festival Gala..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-15T18:42:31+08:00",
       "source": "Weibo Hot Search",
