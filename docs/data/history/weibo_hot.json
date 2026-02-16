@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-16T22:23:59+08:00",
+  "generated_at": "2026-02-17T06:06:06+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-17T06:06:06+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 谷爱凌大跳台银牌",
+          "value": "528941 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%93%B6%E7%89%8C&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 528941",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing wins silver in big air..."
+          }
+        },
+        {
+          "title": "2. 春晚收视率 [热]",
+          "value": "晚会 291483 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "晚会 291483",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala viewership ratings..."
+          }
+        },
+        {
+          "title": "3. 春晚分会场上大分",
+          "value": "169832 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E4%B8%8A%E5%A4%A7%E5%88%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 169832",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala's sub-venue features a grand..."
+          }
+        },
+        {
+          "title": "4. 与捷途共赴新年第一缕曙光",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8E%E6%8D%B7%E9%80%94%E5%85%B1%E8%B5%B4%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E7%BC%95%E6%9B%99%E5%85%89&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Embrace the first light of the New Year with Jietu..."
+          }
+        },
+        {
+          "title": "5. 王菲接了李谷一的班",
+          "value": "晚会 117867 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%8F%B2%E6%8E%A5%E4%BA%86%E6%9D%8E%E8%B0%B7%E4%B8%80%E7%9A%84%E7%8F%AD&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "晚会 117867",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Faye Wong took over Li Guyi's role..."
+          }
+        },
+        {
+          "title": "6. 春晚 [火热]",
+          "value": "110221 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 110221",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala..."
+          }
+        },
+        {
+          "title": "7. 马丽单飞了 沈腾怎么办",
+          "value": "晚会 100822 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E4%B8%BD%E5%8D%95%E9%A3%9E%E4%BA%86%20%E6%B2%88%E8%85%BE%E6%80%8E%E4%B9%88%E5%8A%9E&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "晚会 100822",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ma Li goes solo, what will Shen Teng do?"
+          }
+        },
+        {
+          "title": "8. 首秀封神魔法原子智造未来 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%96%E7%A7%80%E5%B0%81%E7%A5%9E%E9%AD%94%E6%B3%95%E5%8E%9F%E5%AD%90%E6%99%BA%E9%80%A0%E6%9C%AA%E6%9D%A5&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Debut of divine magic: atomic manufacturing for the..."
+          }
+        },
+        {
+          "title": "9. 谷爱凌刘梦婷大跳台决赛",
+          "value": "83994 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%88%98%E6%A2%A6%E5%A9%B7%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 83994",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing and Liu Mengting in the big air final..."
+          }
+        },
+        {
+          "title": "10. 王一博这一脚用了多大力气",
+          "value": "晚会 77562 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%99%E4%B8%80%E8%84%9A%E7%94%A8%E4%BA%86%E5%A4%9A%E5%A4%A7%E5%8A%9B%E6%B0%94&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "晚会 77562",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "How much force did Wang Yibo use for that kick?"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-16T22:23:59+08:00",
       "source": "Weibo Hot Search",
