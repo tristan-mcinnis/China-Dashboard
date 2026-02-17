@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-17T06:06:06+08:00",
+  "generated_at": "2026-02-17T11:25:52+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-17T11:25:52+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 红包",
+          "value": "盛典 1570221 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "盛典 1570221",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Red envelope..."
+          }
+        },
+        {
+          "title": "2. 明星红包 [新]",
+          "value": "盛典 906938 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%8E%E6%98%9F%E7%BA%A2%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "盛典 906938",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Star red envelope..."
+          }
+        },
+        {
+          "title": "3. 北京台春晚神马都好看",
+          "value": "694446 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%E7%A5%9E%E9%A9%AC%E9%83%BD%E5%A5%BD%E7%9C%8B&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 694446",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Beijing TV Spring Festival Gala is visually stunning..."
+          }
+        },
+        {
+          "title": "4. 央妈不会找王一博赔地板吧 [新]",
+          "value": "536692 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E5%A6%88%E4%B8%8D%E4%BC%9A%E6%89%BE%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%94%E5%9C%B0%E6%9D%BF%E5%90%A7&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 536692",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The central bank won't ask Wang Yibo to pay for the..."
+          }
+        },
+        {
+          "title": "5. 马宝宝出生",
+          "value": "287764 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%AE%9D%E5%AE%9D%E5%87%BA%E7%94%9F&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 287764",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Baby horse is born..."
+          }
+        },
+        {
+          "title": "6. 春晚总导演回应机器人浓度高 [新]",
+          "value": "晚会 287365 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%93%E5%BA%A6%E9%AB%98&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "晚会 287365",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala director responds to high robot..."
+          }
+        },
+        {
+          "title": "7. 有熊出没才是完整的年",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E7%86%8A%E5%87%BA%E6%B2%A1%E6%89%8D%E6%98%AF%E5%AE%8C%E6%95%B4%E7%9A%84%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Only with \"Bears Are Coming\" is the year complete..."
+          }
+        },
+        {
+          "title": "8. 春晚分会场上大分 [新]",
+          "value": "275599 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E4%B8%8A%E5%A4%A7%E5%88%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 275599",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala held at sub-venues..."
+          }
+        },
+        {
+          "title": "9. 春晚",
+          "value": "274642 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 274642",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Spring Festival Gala..."
+          }
+        },
+        {
+          "title": "10. 谷爱凌大跳台银牌 [热]",
+          "value": "267285 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%93%B6%E7%89%8C&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 267285",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing wins silver in big air event..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-17T06:06:06+08:00",
       "source": "Weibo Hot Search",

@@ -1,7 +1,53 @@
 {
   "source": "Yahoo Finance (fallback)",
-  "generated_at": "2026-02-17T06:06:17+08:00",
+  "generated_at": "2026-02-17T11:26:03+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-17T11:26:03+08:00",
+      "source": "Yahoo Finance (fallback)",
+      "items": [
+        {
+          "title": "USD/CNY",
+          "value": 6.9075,
+          "url": "https://finance.yahoo.com/quote/CNY=X",
+          "extra": {
+            "symbol": "CNY=X",
+            "chg_pct": 0.0,
+            "ts": 1771298365
+          }
+        },
+        {
+          "title": "USD/CNH",
+          "value": 6.8866,
+          "url": "https://finance.yahoo.com/quote/CNH=X",
+          "extra": {
+            "symbol": "CNH=X",
+            "chg_pct": 0.0799290811062129,
+            "ts": 1771298762
+          }
+        },
+        {
+          "title": "EUR/CNY",
+          "value": 8.1782,
+          "url": "https://finance.yahoo.com/quote/EURCNY=X",
+          "extra": {
+            "symbol": "EURCNY=X",
+            "chg_pct": -0.09528463229904209,
+            "ts": 1771298607
+          }
+        },
+        {
+          "title": "JPY/CNY",
+          "value": 0.0451,
+          "url": "https://finance.yahoo.com/quote/JPYCNY=X",
+          "extra": {
+            "symbol": "JPYCNY=X",
+            "chg_pct": 0.2222222222222286,
+            "ts": 1771298607
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-17T06:06:17+08:00",
       "source": "Yahoo Finance (fallback)",
