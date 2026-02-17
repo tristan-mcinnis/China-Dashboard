@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-17T11:25:52+08:00",
+  "generated_at": "2026-02-17T14:16:11+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-17T14:16:11+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 票房",
+          "value": "电影 1138793 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%A8%E6%88%BF&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "电影 1138793",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Box office"
+          }
+        },
+        {
+          "title": "2. 准爸爸拿B超单替宝宝给爷奶拜年",
+          "value": "798385 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%86%E7%88%B8%E7%88%B8%E6%8B%BFB%E8%B6%85%E5%8D%95%E6%9B%BF%E5%AE%9D%E5%AE%9D%E7%BB%99%E7%88%B7%E5%A5%B6%E6%8B%9C%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 798385",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Expectant dad uses ultrasound to wish grandparents a..."
+          }
+        },
+        {
+          "title": "3. 祖国大江南北子弟兵声声祝福",
+          "value": "646741 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%96%E5%9B%BD%E5%A4%A7%E6%B1%9F%E5%8D%97%E5%8C%97%E5%AD%90%E5%BC%9F%E5%85%B5%E5%A3%B0%E5%A3%B0%E7%A5%9D%E7%A6%8F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 646741",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Soldiers from north to south send blessings to the..."
+          }
+        },
+        {
+          "title": "4. 春节在家教爸妈用阿福",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E8%8A%82%E5%9C%A8%E5%AE%B6%E6%95%99%E7%88%B8%E5%A6%88%E7%94%A8%E9%98%BF%E7%A6%8F&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Teaching my parents to use Afu at home during Spring..."
+          }
+        },
+        {
+          "title": "5. 红包",
+          "value": "盛典 646435 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%A2%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "盛典 646435",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Red envelope..."
+          }
+        },
+        {
+          "title": "6. 宇树今年目标出货量1至2万台 [火热]",
+          "value": "622186 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%87%E6%A0%91%E4%BB%8A%E5%B9%B4%E7%9B%AE%E6%A0%87%E5%87%BA%E8%B4%A7%E9%87%8F1%E8%87%B32%E4%B8%87%E5%8F%B0&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 622186",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Yushu's target shipment this year is 10,000 to 20,000..."
+          }
+        },
+        {
+          "title": "7. 王菲连续两年带火小众耳环",
+          "value": "晚会 621009 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%8F%B2%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B9%B4%E5%B8%A6%E7%81%AB%E5%B0%8F%E4%BC%97%E8%80%B3%E7%8E%AF&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "晚会 621009",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Faye Wong popularizes niche earrings for two consecutive..."
+          }
+        },
+        {
+          "title": "8. 星河入梦一张票闯N个梦境 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E6%B2%B3%E5%85%A5%E6%A2%A6%E4%B8%80%E5%BC%A0%E7%A5%A8%E9%97%AFN%E4%B8%AA%E6%A2%A6%E5%A2%83&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "A ticket to the galaxy, entering N dream worlds..."
+          }
+        },
+        {
+          "title": "9. 央妈不会找王一博赔地板吧",
+          "value": "晚会 617039 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E5%A6%88%E4%B8%8D%E4%BC%9A%E6%89%BE%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%94%E5%9C%B0%E6%9D%BF%E5%90%A7&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "晚会 617039",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The central bank won't ask Wang Yibo to pay for the..."
+          }
+        },
+        {
+          "title": "10. 交卷的时候才看见学霸的题",
+          "value": "586596 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%A4%E5%8D%B7%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8D%E7%9C%8B%E8%A7%81%E5%AD%A6%E9%9C%B8%E7%9A%84%E9%A2%98&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 586596",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Only saw the top student's questions when submitting..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-17T11:25:52+08:00",
       "source": "Weibo Hot Search",
