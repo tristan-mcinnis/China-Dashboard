@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-18T22:24:10+08:00",
+  "generated_at": "2026-02-19T06:08:30+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-19T06:08:30+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 刘少昂摔了",
+          "value": "234038 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E5%B0%91%E6%98%82%E6%91%94%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 234038",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liu Shaoang fell down..."
+          }
+        },
+        {
+          "title": "2. 林孝埈 遗憾",
+          "value": "169446 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E5%AD%9D%E5%9F%88%20%E9%81%97%E6%86%BE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 169446",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Lin Xiaojun's regret..."
+          }
+        },
+        {
+          "title": "3. 00后新兵有啥心愿",
+          "value": "130343 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D00%E5%90%8E%E6%96%B0%E5%85%B5%E6%9C%89%E5%95%A5%E5%BF%83%E6%84%BF&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 130343",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "What wishes do the new recruits born after 2000 have?"
+          }
+        },
+        {
+          "title": "4. 初三一定记得睡懒觉",
+          "value": "115793 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%9D%E4%B8%89%E4%B8%80%E5%AE%9A%E8%AE%B0%E5%BE%97%E7%9D%A1%E6%87%92%E8%A7%89&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 115793",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Remember to sleep in during the third year of middle..."
+          }
+        },
+        {
+          "title": "5. 苏翊鸣甜蜜回复朱易",
+          "value": "93375 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%94%9C%E8%9C%9C%E5%9B%9E%E5%A4%8D%E6%9C%B1%E6%98%93&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 93375",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Su Yiming sweetly replies to Zhu Yi..."
+          }
+        },
+        {
+          "title": "6. 林孝埈无缘500米半决赛 [热]",
+          "value": "76858 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E5%AD%9D%E5%9F%88%E6%97%A0%E7%BC%98500%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 76858",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Lin Xiaojun misses out on 500m semifinals..."
+          }
+        },
+        {
+          "title": "7. 浪姐首位冬奥会卫冕冠军",
+          "value": "69639 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%AA%E5%A7%90%E9%A6%96%E4%BD%8D%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%8D%AB%E5%86%95%E5%86%A0%E5%86%9B&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 69639",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "First Winter Olympics defending champion from \"Sisters..."
+          }
+        },
+        {
+          "title": "8. 韩国短道女子3000米接力夺金 [热]",
+          "value": "48777 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%9B%BD%E7%9F%AD%E9%81%93%E5%A5%B3%E5%AD%903000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%A4%BA%E9%87%91&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 48777",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "South Korea wins gold in women's 3000m relay..."
+          }
+        },
+        {
+          "title": "9. 徐梦桃金牌",
+          "value": "41954 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%90%E6%A2%A6%E6%A1%83%E9%87%91%E7%89%8C&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 41954",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Xu Mengtao wins gold medal..."
+          }
+        },
+        {
+          "title": "10. 刘少昂无缘500米决赛",
+          "value": "39897 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E5%B0%91%E6%98%82%E6%97%A0%E7%BC%98500%E7%B1%B3%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 39897",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liu Shaoang misses the 500m final..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-18T22:24:10+08:00",
       "source": "Weibo Hot Search",
