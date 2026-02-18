@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-18T06:07:08+08:00",
+  "generated_at": "2026-02-18T11:27:42+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-18T11:27:42+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 总书记的新春家国情",
+          "value": "指数 7904670",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%96%B0%E6%98%A5%E5%AE%B6%E5%9B%BD%E6%83%85",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904670",
+            "api_source": "tianapi",
+            "translation": "The General Secretary's feelings for the nation in the..."
+          }
+        },
+        {
+          "title": "2. 一半女婿在村里瞎晃悠 一半在家诉苦",
+          "value": "指数 7809104",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%8D%8A%E5%A5%B3%E5%A9%BF%E5%9C%A8%E6%9D%91%E9%87%8C%E7%9E%8E%E6%99%83%E6%82%A0+%E4%B8%80%E5%8D%8A%E5%9C%A8%E5%AE%B6%E8%AF%89%E8%8B%A6",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809104",
+            "api_source": "tianapi",
+            "translation": "Half the son-in-law wanders in the village, half..."
+          }
+        },
+        {
+          "title": "3. “爸妈来后冰箱都变老了”",
+          "value": "指数 7713578",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E7%88%B8%E5%A6%88%E6%9D%A5%E5%90%8E%E5%86%B0%E7%AE%B1%E9%83%BD%E5%8F%98%E8%80%81%E4%BA%86%E2%80%9D",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713578",
+            "api_source": "tianapi",
+            "translation": "\"Since my parents came, the fridge has aged...\""
+          }
+        },
+        {
+          "title": "4. 春晚钟声来自这里",
+          "value": "指数 7617053",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%98%A5%E6%99%9A%E9%92%9F%E5%A3%B0%E6%9D%A5%E8%87%AA%E8%BF%99%E9%87%8C",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7617053",
+            "api_source": "tianapi",
+            "translation": "The Spring Festival Gala's bell rings from here..."
+          }
+        },
+        {
+          "title": "5. 机器人能否代替官兵？长沙舰官兵回答",
+          "value": "指数 7521129",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E5%90%A6%E4%BB%A3%E6%9B%BF%E5%AE%98%E5%85%B5%EF%BC%9F%E9%95%BF%E6%B2%99%E8%88%B0%E5%AE%98%E5%85%B5%E5%9B%9E%E7%AD%94",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7521129",
+            "api_source": "tianapi",
+            "translation": "Can robots replace soldiers? Answers from Changsha..."
+          }
+        },
+        {
+          "title": "6. 大年初二这天的午饭叫“开年饭”",
+          "value": "指数 7429306",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%E8%BF%99%E5%A4%A9%E7%9A%84%E5%8D%88%E9%A5%AD%E5%8F%AB%E2%80%9C%E5%BC%80%E5%B9%B4%E9%A5%AD%E2%80%9D",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7429306",
+            "api_source": "tianapi",
+            "translation": "The lunch on the second day of the New Year is called..."
+          }
+        },
+        {
+          "title": "7. 机票价格大跳水 不少人“抄底”",
+          "value": "指数 7332251",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%B8%8D%E5%B0%91%E4%BA%BA%E2%80%9C%E6%8A%84%E5%BA%95%E2%80%9D",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7332251",
+            "api_source": "tianapi",
+            "translation": "Airfare prices plummet, many are \"buying the dip\"..."
+          }
+        },
+        {
+          "title": "8. 大年初二为何最好不要午睡",
+          "value": "指数 7234306",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%E4%B8%BA%E4%BD%95%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E5%8D%88%E7%9D%A1",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7234306",
+            "api_source": "tianapi",
+            "translation": "Why it's best not to nap on the second day of the New..."
+          }
+        },
+        {
+          "title": "9. 王楚然春晚20秒镜头破2亿阅读量",
+          "value": "指数 7140685",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%98%A5%E6%99%9A20%E7%A7%92%E9%95%9C%E5%A4%B4%E7%A0%B42%E4%BA%BF%E9%98%85%E8%AF%BB%E9%87%8F",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7140685",
+            "api_source": "tianapi",
+            "translation": "Wang Churan's 20-second clip at the Spring Festival Gala..."
+          }
+        },
+        {
+          "title": "10. 听说全国女婿到丈母娘家都这样",
+          "value": "指数 7047305",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%90%AC%E8%AF%B4%E5%85%A8%E5%9B%BD%E5%A5%B3%E5%A9%BF%E5%88%B0%E4%B8%88%E6%AF%8D%E5%A8%98%E5%AE%B6%E9%83%BD%E8%BF%99%E6%A0%B7",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7047305",
+            "api_source": "tianapi",
+            "translation": "I've heard that nationwide, sons-in-law visit their..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-18T06:07:08+08:00",
       "source": "Tencent WeChat Hot Topics",
