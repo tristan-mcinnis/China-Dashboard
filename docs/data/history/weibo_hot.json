@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-18T14:18:34+08:00",
+  "generated_at": "2026-02-18T18:46:18+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-18T18:46:18+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 镖人",
+          "value": "电影 1080728 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%96%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "电影 1080728",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Bodyguard or escort..."
+          }
+        },
+        {
+          "title": "2. 谷爱凌大跳台决赛第三跳前眼神 [新]",
+          "value": "779297 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%E7%AC%AC%E4%B8%89%E8%B7%B3%E5%89%8D%E7%9C%BC%E7%A5%9E&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 779297",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing's gaze before her third jump in the final..."
+          }
+        },
+        {
+          "title": "3. AI眼中的二十四节气",
+          "value": "639778 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAI%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 639778",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The 24 Solar Terms Through the Eyes of AI..."
+          }
+        },
+        {
+          "title": "4. 奥迪抽奖送车除夕福利返场",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%A5%E8%BF%AA%E6%8A%BD%E5%A5%96%E9%80%81%E8%BD%A6%E9%99%A4%E5%A4%95%E7%A6%8F%E5%88%A9%E8%BF%94%E5%9C%BA&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Audi lottery returns with car giveaways for New Year's..."
+          }
+        },
+        {
+          "title": "5. 龙洋主持完春晚哭了",
+          "value": "晚会 569038 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BE%99%E6%B4%8B%E4%B8%BB%E6%8C%81%E5%AE%8C%E6%98%A5%E6%99%9A%E5%93%AD%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "晚会 569038",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Long Yang cried after hosting the Spring Festival Gala..."
+          }
+        },
+        {
+          "title": "6. 孩子存1000比你存20万利息高 [火热]",
+          "value": "392544 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%A9%E5%AD%90%E5%AD%981000%E6%AF%94%E4%BD%A0%E5%AD%9820%E4%B8%87%E5%88%A9%E6%81%AF%E9%AB%98&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 392544",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "A child's 1,000 earns more interest than your 200,000..."
+          }
+        },
+        {
+          "title": "7. 徐梦桃第一跳89.29分",
+          "value": "285838 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%90%E6%A2%A6%E6%A1%83%E7%AC%AC%E4%B8%80%E8%B7%B389.29%E5%88%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 285838",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Xu Mengtao scored 89.29 in her first jump..."
+          }
+        },
+        {
+          "title": "8. 马年第一条微博 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "First Weibo post of the Year of the Horse..."
+          }
+        },
+        {
+          "title": "9. 贡菜是莴笋",
+          "value": "249929 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%A1%E8%8F%9C%E6%98%AF%E8%8E%B4%E7%AC%8B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 249929",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gongcai is asparagus lettuce."
+          }
+        },
+        {
+          "title": "10. 16个月宝宝拜年收红包当场验货",
+          "value": "227917 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D16%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E6%8B%9C%E5%B9%B4%E6%94%B6%E7%BA%A2%E5%8C%85%E5%BD%93%E5%9C%BA%E9%AA%8C%E8%B4%A7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 227917",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "16-month-old baby checks red envelope on New Year's..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-18T14:18:34+08:00",
       "source": "Weibo Hot Search",
