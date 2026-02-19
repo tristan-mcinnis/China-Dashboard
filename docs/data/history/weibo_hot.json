@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-19T14:18:00+08:00",
+  "generated_at": "2026-02-19T18:46:09+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-19T18:46:09+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 苏翊鸣 为了露表手忙脚乱",
+          "value": "1092849 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%20%E4%B8%BA%E4%BA%86%E9%9C%B2%E8%A1%A8%E6%89%8B%E5%BF%99%E8%84%9A%E4%B9%B1&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1092849",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Su Yiming fumbles to show off..."
+          }
+        },
+        {
+          "title": "2. 尹锡悦听宣判后叹气面色凝重 [新]",
+          "value": "776601 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%B9%E9%94%A1%E6%82%A6%E5%90%AC%E5%AE%A3%E5%88%A4%E5%90%8E%E5%8F%B9%E6%B0%94%E9%9D%A2%E8%89%B2%E5%87%9D%E9%87%8D&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 776601",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yoon Suk-yeol sighed and looked serious after the verdict..."
+          }
+        },
+        {
+          "title": "3. 春节不归人坚守汇成动人团圆",
+          "value": "621774 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E8%8A%82%E4%B8%8D%E5%BD%92%E4%BA%BA%E5%9D%9A%E5%AE%88%E6%B1%87%E6%88%90%E5%8A%A8%E4%BA%BA%E5%9B%A2%E5%9C%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 621774",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Those who can't return for the Spring Festival create a..."
+          }
+        },
+        {
+          "title": "4. 易烊千玺弟弟13岁近照",
+          "value": "电影 495306 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BC%9F%E5%BC%9F13%E5%B2%81%E8%BF%91%E7%85%A7&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "电影 495306",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yi Yangqianxi's younger brother, 13 years old, recent..."
+          }
+        },
+        {
+          "title": "5. 尹锡悦被判无期徒刑",
+          "value": "347300 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%B9%E9%94%A1%E6%82%A6%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 347300",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yoon Suk-yeol sentenced to life imprisonment..."
+          }
+        },
+        {
+          "title": "6. 旺旺雪饼vs仙贝",
+          "value": "265462 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%BA%E6%97%BA%E9%9B%AA%E9%A5%BCvs%E4%BB%99%E8%B4%9D&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 265462",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Wang Snow Cake vs. Senbei..."
+          }
+        },
+        {
+          "title": "7. 被熊猫计划唤起的心软软瞬间",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB%E7%86%8A%E7%8C%AB%E8%AE%A1%E5%88%92%E5%94%A4%E8%B5%B7%E7%9A%84%E5%BF%83%E8%BD%AF%E8%BD%AF%E7%9E%AC%E9%97%B4&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Moments of softness awakened by the Panda Project..."
+          }
+        },
+        {
+          "title": "8. 双轨还有售后",
+          "value": "232866 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%8C%E8%BD%A8%E8%BF%98%E6%9C%89%E5%94%AE%E5%90%8E&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 232866",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Dual-track system still has after-sales service..."
+          }
+        },
+        {
+          "title": "9. 过年 二手烟",
+          "value": "206623 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%87%E5%B9%B4%20%E4%BA%8C%E6%89%8B%E7%83%9F&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 206623",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "New Year and secondhand smoke..."
+          }
+        },
+        {
+          "title": "10. 我将学会谷爱凌这个大笑方式",
+          "value": "200063 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%B0%86%E5%AD%A6%E4%BC%9A%E8%B0%B7%E7%88%B1%E5%87%8C%E8%BF%99%E4%B8%AA%E5%A4%A7%E7%AC%91%E6%96%B9%E5%BC%8F&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 200063",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "I will learn Gu Ailing's big laugh..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-19T14:18:00+08:00",
       "source": "Weibo Hot Search",
