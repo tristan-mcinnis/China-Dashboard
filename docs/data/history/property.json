@@ -1,7 +1,22 @@
 {
   "source": "NBS (fallback)",
-  "generated_at": "2026-02-19T11:27:58+08:00",
+  "generated_at": "2026-02-19T14:19:05+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-19T14:19:05+08:00",
+      "source": "NBS (fallback)",
+      "items": [
+        {
+          "title": "New Home Prices YoY",
+          "value": "-4.5%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "70-City New Home Price Index YoY",
+            "stale": true
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-19T11:27:58+08:00",
       "source": "NBS (fallback)",
