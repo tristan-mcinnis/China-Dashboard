@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-19T18:46:09+08:00",
+  "generated_at": "2026-02-19T22:27:07+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-19T22:27:07+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 将门独后官宣节奏",
+          "value": "剧集 1132379 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%AE%98%E5%AE%A3%E8%8A%82%E5%A5%8F&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1132379",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The official announcement of the \"Jiangmen Duhu\" rhythm..."
+          }
+        },
+        {
+          "title": "2. 苏翊鸣因北京冬奥会放弃当演员",
+          "value": "801943 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9B%A0%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%94%BE%E5%BC%83%E5%BD%93%E6%BC%94%E5%91%98&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 801943",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Su Yiming gave up acting for the Beijing Winter Olympics..."
+          }
+        },
+        {
+          "title": "3. 2026逐梦中国",
+          "value": "636774 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E9%80%90%E6%A2%A6%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 636774",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chasing dreams in China 2026..."
+          }
+        },
+        {
+          "title": "4. 杨幂开车都能出神图 [新]",
+          "value": "电影 470946 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E5%B9%82%E5%BC%80%E8%BD%A6%E9%83%BD%E8%83%BD%E5%87%BA%E7%A5%9E%E5%9B%BE&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "电影 470946",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yang Mi can even create stunning photos while driving..."
+          }
+        },
+        {
+          "title": "5. 美国若武力介入台湾代价巨大",
+          "value": "455161 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E8%8B%A5%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E4%BB%A3%E4%BB%B7%E5%B7%A8%E5%A4%A7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 455161",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The cost of U.S. military intervention in Taiwan would..."
+          }
+        },
+        {
+          "title": "6. 湖南新化6名消防员因公牺牲",
+          "value": "452823 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%96%E5%8D%97%E6%96%B0%E5%8C%966%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 452823",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Six firefighters in Xinhua, Hunan, died in the line of..."
+          }
+        },
+        {
+          "title": "7. 去哪儿28251什么意思",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%BB%E5%93%AA%E5%84%BF28251%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "\"去哪儿28251\" means \"Where to 28251?\"..."
+          }
+        },
+        {
+          "title": "8. 镖人票房逆跌 [新]",
+          "value": "电影 445046 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%96%E4%BA%BA%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "电影 445046",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "\"Bodyguard's box office declines unexpectedly...\""
+          }
+        },
+        {
+          "title": "9. 人的心气是能重新养回来的",
+          "value": "355224 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E7%9A%84%E5%BF%83%E6%B0%94%E6%98%AF%E8%83%BD%E9%87%8D%E6%96%B0%E5%85%BB%E5%9B%9E%E6%9D%A5%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 355224",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A person's spirit can be rejuvenated..."
+          }
+        },
+        {
+          "title": "10. 王鹤棣孟子义 将门独后 [新]",
+          "value": "剧集 257746 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "剧集 257746",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Wang Hedi and Meng Ziyi: The Last of the Generals..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-19T18:46:09+08:00",
       "source": "Weibo Hot Search",
