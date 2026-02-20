@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-20T18:45:25+08:00",
+  "generated_at": "2026-02-20T22:21:20+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-20T22:21:20+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 总书记新春“典”论家国",
+          "value": "指数 7904455",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E6%98%A5%E2%80%9C%E5%85%B8%E2%80%9D%E8%AE%BA%E5%AE%B6%E5%9B%BD",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904455",
+            "api_source": "tianapi",
+            "translation": "The General Secretary's New Year discourse on the nation..."
+          }
+        },
+        {
+          "title": "2. 第4金！王心迪夺男子空中技巧冠军",
+          "value": "指数 7808193",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%AC%AC4%E9%87%91%EF%BC%81%E7%8E%8B%E5%BF%83%E8%BF%AA%E5%A4%BA%E7%94%B7%E5%AD%90%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E5%86%A0%E5%86%9B",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808193",
+            "api_source": "tianapi",
+            "translation": "Fourth gold! Wang Xindi wins men's aerials championship..."
+          }
+        },
+        {
+          "title": "3. 王心迪徐梦桃夫妻双双夺金",
+          "value": "指数 7711787",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E5%BF%83%E8%BF%AA%E5%BE%90%E6%A2%A6%E6%A1%83%E5%A4%AB%E5%A6%BB%E5%8F%8C%E5%8F%8C%E5%A4%BA%E9%87%91",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7711787",
+            "api_source": "tianapi",
+            "translation": "Wang Xindi and Xu Mengtao both win gold as a couple."
+          }
+        },
+        {
+          "title": "4. “变成中国人”在中国过春节",
+          "value": "指数 7616201",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E5%8F%98%E6%88%90%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%87%E6%98%A5%E8%8A%82",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616201",
+            "api_source": "tianapi",
+            "translation": "\"Become Chinese\" and celebrate Spring Festival in China..."
+          }
+        },
+        {
+          "title": "5. 返乡年轻人“挤爆”县城酒店",
+          "value": "指数 7523439",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%BF%94%E4%B9%A1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E6%8C%A4%E7%88%86%E2%80%9D%E5%8E%BF%E5%9F%8E%E9%85%92%E5%BA%97",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7523439",
+            "api_source": "tianapi",
+            "translation": "Young returnees \"overcrowd\" county hotels..."
+          }
+        },
+        {
+          "title": "6. 火锅店春节4天赚33.9万全给员工",
+          "value": "指数 7423869",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%81%AB%E9%94%85%E5%BA%97%E6%98%A5%E8%8A%824%E5%A4%A9%E8%B5%9A33.9%E4%B8%87%E5%85%A8%E7%BB%99%E5%91%98%E5%B7%A5",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7423869",
+            "api_source": "tianapi",
+            "translation": "Hot pot restaurant earns 339,000 in 4 days for staff..."
+          }
+        },
+        {
+          "title": "7. 李天马获自由式滑雪空中技巧铜牌",
+          "value": "指数 7329172",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9D%8E%E5%A4%A9%E9%A9%AC%E8%8E%B7%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%93%9C%E7%89%8C",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7329172",
+            "api_source": "tianapi",
+            "translation": "Li Tianma wins bronze in freestyle skiing aerials..."
+          }
+        },
+        {
+          "title": "8. 王心迪完美一跳 徐梦桃拥抱丈夫庆祝",
+          "value": "指数 7233572",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E5%BF%83%E8%BF%AA%E5%AE%8C%E7%BE%8E%E4%B8%80%E8%B7%B3+%E5%BE%90%E6%A2%A6%E6%A1%83%E6%8B%A5%E6%8A%B1%E4%B8%88%E5%A4%AB%E5%BA%86%E7%A5%9D",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7233572",
+            "api_source": "tianapi",
+            "translation": "Wang Xindi's perfect jump, Xu Mengtao hugs husband to..."
+          }
+        },
+        {
+          "title": "9. 特斯拉新车没有方向盘没有脚踏板",
+          "value": "指数 7140318",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%98%E6%B2%A1%E6%9C%89%E8%84%9A%E8%B8%8F%E6%9D%BF",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7140318",
+            "api_source": "tianapi",
+            "translation": "Tesla's new car has no steering wheel or pedals..."
+          }
+        },
+        {
+          "title": "10. 小伙撕去年对联天塌了",
+          "value": "指数 7041372",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B0%8F%E4%BC%99%E6%92%95%E5%8E%BB%E5%B9%B4%E5%AF%B9%E8%81%94%E5%A4%A9%E5%A1%8C%E4%BA%86",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7041372",
+            "api_source": "tianapi",
+            "translation": "Young man tears last year's couplets, the sky falls..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-20T18:45:25+08:00",
       "source": "Tencent WeChat Hot Topics",
