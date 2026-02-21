@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-21T22:10:28+08:00",
+  "generated_at": "2026-02-22T06:04:10+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-22T06:04:10+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 谷爱凌U型场地决赛推迟",
+          "value": "249661 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8CU%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%E6%8E%A8%E8%BF%9F&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 249661",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing's U-shaped venue final postponed..."
+          }
+        },
+        {
+          "title": "2. 大年初六",
+          "value": "181749 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%85%AD&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 181749",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The sixth day of the Lunar New Year..."
+          }
+        },
+        {
+          "title": "3. 热气腾腾的中国年",
+          "value": "146174 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 146174",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A steaming Chinese New Year..."
+          }
+        },
+        {
+          "title": "4. 王传君录综艺崩溃爆哭",
+          "value": "综艺 71228 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%BD%95%E7%BB%BC%E8%89%BA%E5%B4%A9%E6%BA%83%E7%88%86%E5%93%AD&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "综艺 71228",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Chuanjun breaks down and cries on variety show..."
+          }
+        },
+        {
+          "title": "5. 前方无厕所无烤肠无茶叶蛋",
+          "value": "47647 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%89%8D%E6%96%B9%E6%97%A0%E5%8E%95%E6%89%80%E6%97%A0%E7%83%A4%E8%82%A0%E6%97%A0%E8%8C%B6%E5%8F%B6%E8%9B%8B&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 47647",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "No toilets, no sausages, no tea eggs ahead..."
+          }
+        },
+        {
+          "title": "6. 谷爱凌决赛时间 [热]",
+          "value": "37092 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B3%E8%B5%9B%E6%97%B6%E9%97%B4&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 37092",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing's final competition time..."
+          }
+        },
+        {
+          "title": "7. 白鹿 我家923",
+          "value": "演出 36872 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%20%E6%88%91%E5%AE%B6923&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "演出 36872",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "White Deer, my home 923..."
+          }
+        },
+        {
+          "title": "8. 将门毒后 [热]",
+          "value": "剧集 28075 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "剧集 28075",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "The Poisonous Heir of the Aristocratic Family..."
+          }
+        },
+        {
+          "title": "9. 苏翊鸣闭幕式旗手",
+          "value": "27072 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 27072",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Su Yiming is the flag bearer at the closing ceremony..."
+          }
+        },
+        {
+          "title": "10. 镖人",
+          "value": "电影 26394 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%96%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "电影 26394",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Bodyguard..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-21T22:10:28+08:00",
       "source": "Weibo Hot Search",
