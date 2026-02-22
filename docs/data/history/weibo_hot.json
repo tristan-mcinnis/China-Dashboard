@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-22T18:41:39+08:00",
+  "generated_at": "2026-02-22T22:11:27+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-22T22:11:27+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 官方通报网传妈祖巡游换童事件",
+          "value": "7555818 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A6%88%E7%A5%96%E5%B7%A1%E6%B8%B8%E6%8D%A2%E7%AB%A5%E4%BA%8B%E4%BB%B6&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 7555818",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Official report on the circulating Mazu procession..."
+          }
+        },
+        {
+          "title": "2. 谷爱凌金牌 [热]",
+          "value": "1582157 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1582157",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing wins gold medal..."
+          }
+        },
+        {
+          "title": "3. 2026新春走基层",
+          "value": "1222019 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1222019",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2026 Spring Festival at the grassroots..."
+          }
+        },
+        {
+          "title": "4. 虞书欣何与 神仙肉 [新]",
+          "value": "剧集 554724 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BD%95%E4%B8%8E%20%E7%A5%9E%E4%BB%99%E8%82%89&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 554724",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Yu Shuxin and the divine meat..."
+          }
+        },
+        {
+          "title": "5. 谷爱凌第三滑94.75分",
+          "value": "505502 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%89%E6%BB%9194.75%E5%88%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 505502",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing scored 94.75 in her third run..."
+          }
+        },
+        {
+          "title": "6. 谷爱凌唱国歌 [新]",
+          "value": "373004 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%94%B1%E5%9B%BD%E6%AD%8C&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 373004",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing sings the national anthem..."
+          }
+        },
+        {
+          "title": "7. 王濛祝贺谷爱凌李方慧",
+          "value": "367039 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%BF%9B%E7%A5%9D%E8%B4%BA%E8%B0%B7%E7%88%B1%E5%87%8C%E6%9D%8E%E6%96%B9%E6%85%A7&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 367039",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Meng congratulates Gu Ailing and Li Fanghui..."
+          }
+        },
+        {
+          "title": "8. 女子U型场地决赛",
+          "value": "365739 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 365739",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Women's U-shaped venue final..."
+          }
+        },
+        {
+          "title": "9. 张凌赫 刺棠",
+          "value": "349093 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E5%88%BA%E6%A3%A0&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 349093",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zhang Linghe - Citang..."
+          }
+        },
+        {
+          "title": "10. 谷爱凌追平王濛冬奥奖牌纪录",
+          "value": "271547 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E8%BF%BD%E5%B9%B3%E7%8E%8B%E6%BF%9B%E5%86%AC%E5%A5%A5%E5%A5%96%E7%89%8C%E7%BA%AA%E5%BD%95&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 271547",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing ties Wang Meng's Olympic medal record..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-22T18:41:39+08:00",
       "source": "Weibo Hot Search",
