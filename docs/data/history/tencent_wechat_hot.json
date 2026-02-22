@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-22T11:26:40+08:00",
+  "generated_at": "2026-02-22T14:11:19+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-22T14:11:19+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 锦绣中华文脉兴",
+          "value": "指数 7904090",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%94%A6%E7%BB%A3%E4%B8%AD%E5%8D%8E%E6%96%87%E8%84%89%E5%85%B4",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904090",
+            "api_source": "tianapi",
+            "translation": "The splendid Chinese culture thrives..."
+          }
+        },
+        {
+          "title": "2. 一家3口春节自驾11天游7城 花费曝光",
+          "value": "指数 7808911",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%AE%B63%E5%8F%A3%E6%98%A5%E8%8A%82%E8%87%AA%E9%A9%BE11%E5%A4%A9%E6%B8%B87%E5%9F%8E+%E8%8A%B1%E8%B4%B9%E6%9B%9D%E5%85%89",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808911",
+            "api_source": "tianapi",
+            "translation": "A family of three travels 7 cities in 11 days for Spring..."
+          }
+        },
+        {
+          "title": "3. 美宇航员从太空俯瞰中国春节万家灯火",
+          "value": "指数 7713257",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E5%AE%87%E8%88%AA%E5%91%98%E4%BB%8E%E5%A4%AA%E7%A9%BA%E4%BF%AF%E7%9E%B0%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713257",
+            "api_source": "tianapi",
+            "translation": "American astronaut views festive lights of Chinese New..."
+          }
+        },
+        {
+          "title": "4. 2026中国电影票房暂列全球第一",
+          "value": "指数 7618676",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=2026%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E6%9A%82%E5%88%97%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7618676",
+            "api_source": "tianapi",
+            "translation": "China's box office ranks first globally in 2026..."
+          }
+        },
+        {
+          "title": "5. 年轻人流行“重新养父母”",
+          "value": "指数 7524418",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B5%81%E8%A1%8C%E2%80%9C%E9%87%8D%E6%96%B0%E5%85%BB%E7%88%B6%E6%AF%8D%E2%80%9D",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7524418",
+            "api_source": "tianapi",
+            "translation": "Young people are popularizing \"re-parenting.\""
+          }
+        },
+        {
+          "title": "6. 东北独生女回娘家 岳父紧急呼叫姑爷",
+          "value": "指数 7426289",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%9C%E5%8C%97%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%9B%9E%E5%A8%98%E5%AE%B6+%E5%B2%B3%E7%88%B6%E7%B4%A7%E6%80%A5%E5%91%BC%E5%8F%AB%E5%A7%91%E7%88%B7",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7426289",
+            "api_source": "tianapi",
+            "translation": "Northeast only child returns home, father-in-law..."
+          }
+        },
+        {
+          "title": "7. 父亲屋外透气偶遇儿子坠楼接住",
+          "value": "指数 7329757",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%88%B6%E4%BA%B2%E5%B1%8B%E5%A4%96%E9%80%8F%E6%B0%94%E5%81%B6%E9%81%87%E5%84%BF%E5%AD%90%E5%9D%A0%E6%A5%BC%E6%8E%A5%E4%BD%8F",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7329757",
+            "api_source": "tianapi",
+            "translation": "Father catches son falling from a building outside..."
+          }
+        },
+        {
+          "title": "8. 若决赛取消谷爱凌将无缘奖牌",
+          "value": "指数 7236815",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%8B%A5%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88%E8%B0%B7%E7%88%B1%E5%87%8C%E5%B0%86%E6%97%A0%E7%BC%98%E5%A5%96%E7%89%8C",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7236815",
+            "api_source": "tianapi",
+            "translation": "If the final is canceled, Gu Ailing will miss the medal..."
+          }
+        },
+        {
+          "title": "9. 刚还清车贷的宝马撞毁 小伙微笑合影",
+          "value": "指数 7136076",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%88%9A%E8%BF%98%E6%B8%85%E8%BD%A6%E8%B4%B7%E7%9A%84%E5%AE%9D%E9%A9%AC%E6%92%9E%E6%AF%81+%E5%B0%8F%E4%BC%99%E5%BE%AE%E7%AC%91%E5%90%88%E5%BD%B1",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7136076",
+            "api_source": "tianapi",
+            "translation": "Young man smiles for a photo with his wrecked BMW after..."
+          }
+        },
+        {
+          "title": "10. 女子晒在婆家和在娘家过年对比",
+          "value": "指数 7046588",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%90%E6%99%92%E5%9C%A8%E5%A9%86%E5%AE%B6%E5%92%8C%E5%9C%A8%E5%A8%98%E5%AE%B6%E8%BF%87%E5%B9%B4%E5%AF%B9%E6%AF%94",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7046588",
+            "api_source": "tianapi",
+            "translation": "Comparison of celebrating New Year at in-laws vs...."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-22T11:26:40+08:00",
       "source": "Tencent WeChat Hot Topics",
