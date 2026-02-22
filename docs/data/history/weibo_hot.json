@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-22T06:04:10+08:00",
+  "generated_at": "2026-02-22T11:26:31+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-22T11:26:31+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 谷爱凌U型场地决赛或取消",
+          "value": "1131536 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8CU%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%E6%88%96%E5%8F%96%E6%B6%88&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1131536",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Gu Ailing's U-shaped venue final may be canceled..."
+          }
+        },
+        {
+          "title": "2. 沈妙原型 王艳 [新]",
+          "value": "795303 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%88%E5%A6%99%E5%8E%9F%E5%9E%8B%20%E7%8E%8B%E8%89%B3&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 795303",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Shen Miao prototype Wang Yan..."
+          }
+        },
+        {
+          "title": "3. 热气腾腾的中国年",
+          "value": "647536 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B9%B4&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 647536",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The steaming Chinese New Year..."
+          }
+        },
+        {
+          "title": "4. 谢景行原型是胡歌",
+          "value": "剧集 537395 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%A2%E6%99%AF%E8%A1%8C%E5%8E%9F%E5%9E%8B%E6%98%AF%E8%83%A1%E6%AD%8C&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 537395",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The character Xie Jingxing is based on Hu Ge..."
+          }
+        },
+        {
+          "title": "5. 女生被催婚6岁侄子帮忙反击",
+          "value": "334573 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%82%AC%E5%A9%9A6%E5%B2%81%E4%BE%84%E5%AD%90%E5%B8%AE%E5%BF%99%E5%8F%8D%E5%87%BB&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 334573",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Girl gets help from 6-year-old nephew to counter..."
+          }
+        },
+        {
+          "title": "6. 杨洋周洁琼不让江山开机同框 [热]",
+          "value": "剧集 322511 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E6%B4%8B%E5%91%A8%E6%B4%81%E7%90%BC%E4%B8%8D%E8%AE%A9%E6%B1%9F%E5%B1%B1%E5%BC%80%E6%9C%BA%E5%90%8C%E6%A1%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "剧集 322511",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Yang Yang and Zhou Jieqiong won't appear together on set."
+          }
+        },
+        {
+          "title": "7. 突然意识到经常习惯性霸凌自己",
+          "value": "299718 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E7%BB%8F%E5%B8%B8%E4%B9%A0%E6%83%AF%E6%80%A7%E9%9C%B8%E5%87%8C%E8%87%AA%E5%B7%B1&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 299718",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Suddenly realized I often habitually bully myself..."
+          }
+        },
+        {
+          "title": "8. 75岁钓帝黑大爷去世",
+          "value": "270633 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D75%E5%B2%81%E9%92%93%E5%B8%9D%E9%BB%91%E5%A4%A7%E7%88%B7%E5%8E%BB%E4%B8%96&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 270633",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "75-year-old fishing master Hei passed away..."
+          }
+        },
+        {
+          "title": "9. 这才是我想要的将门毒后",
+          "value": "剧集 217783 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E6%89%8D%E6%98%AF%E6%88%91%E6%83%B3%E8%A6%81%E7%9A%84%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 217783",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "This is the kind of noble family's poisonous heir I want..."
+          }
+        },
+        {
+          "title": "10. 撒娇时没控制好力度的小狗 [新]",
+          "value": "178225 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%92%92%E5%A8%87%E6%97%B6%E6%B2%A1%E6%8E%A7%E5%88%B6%E5%A5%BD%E5%8A%9B%E5%BA%A6%E7%9A%84%E5%B0%8F%E7%8B%97&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 178225",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "A puppy that didn't control its strength while being cute..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-22T06:04:10+08:00",
       "source": "Weibo Hot Search",
