@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2026-02-24T11:26:12+08:00",
+  "generated_at": "2026-02-24T14:17:31+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-24T14:17:31+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "新华社消息丨全国铁路迎来返程客流最高峰",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzVCa05TenhrYzVCRkN3SUtfU3NWZVd1VmNleUdxQmd2RHQ3eVZ6dzZ4YlBGNE82TWhtUHItalNNbjg0Vl9JakdOeG1PYkVHb2xZUFN6Q2JiSzFrZW9QLTVqaEl6ODdFRFdUWV9VSEs5cnNuaVlqOVAyR0hLTWFOUXBLYzFhMy1IWFRJ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-22T23:34:50Z",
+            "summary": "新华社消息丨全国铁路迎来返程客流最高峰 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua reports: National railways see peak return..."
+          }
+        },
+        {
+          "title": "新春走基层|“仡佬毛龙”传承的两对“黄金搭档”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXJHdl84cGRFMDgza2hKbW00ZmxTcmtLVi1Ca2gyVHMtcFNRYm5XMEhkblRzenVaQTBMX1ZZYWdSTk15MXVUNjJULTJrX2RFOUlDTjZncTVVTEtsTDB6MmhsclhLVmZObmIwRjR4cjMwUzZJMXgyTFByYmlRWURTWWpB?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-23T17:14:17Z",
+            "summary": "新春走基层|“仡佬毛龙”传承的两对“黄金搭档” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "New Year grassroots: Two \"golden partners\" of \"Gelao..."
+          }
+        },
+        {
+          "title": "马年春节假日盘点·旅游篇|旅游迎春一“马”当先——新春文旅市场暖意浓",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVV9TS2FldGJ5SDNFdHJPUXFKOWotQUhNOHJTZ0wzc0ZRWEpWQzVjck9wSzRKWGhJaVl5NnQwazZjT1pDWGJOWWswLVp1c3lZd0phdkxEdUh2dWN0ak9qRGFKYzBHQUtnSjVtd2pGdzhpcXNEWk40N2dpQmdtWXYzaXNtVTdSN3M?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-23T18:09:06Z",
+            "summary": "马年春节假日盘点·旅游篇|旅游迎春一“马”当先——新春文旅市场暖意浓 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Year of the Horse Spring Festival: Tourism market warms..."
+          }
+        },
+        {
+          "title": "年俗为“撬”点 数智作“潮”头——马年新春消费“多面精彩”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObF9SajQtazN3d241c0ZIandwbVFVLWRVNzY0RnJub01FLVFSWFIyOGh3WWEwSExROWJvMFd4bGVYbTl3SWREbGNIMnBveGtrWkFaZy1CSFVQSlBWeFA3NVI3VHlaem0wSHNmTmo5R241TUFkZ1UxeWwxQnlXRjQ0SUR3?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-23T17:14:20Z",
+            "summary": "年俗为“撬”点 数智作“潮”头——马年新春消费“多面精彩” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Traditional customs \"pry\" open new trends in consumption..."
+          }
+        },
+        {
+          "title": "冬奥会｜巴西创冬奥会队史参赛最佳战绩",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSThrVzNpT2VVSmtIODdPdmI3S0U5SXhxd0kyamlLUXdnODJFdXlseWNfTXJrMnBER0dLMVR6TjBkR2dNdHJZMTJTRndOUEg0aEk2T0txVWdpLWtnME9wUDNZSVdfa05mcGt0Q2hzcFVJOFUwM0R2Wm8zS2pxd2hkY01n?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-23T00:32:14Z",
+            "summary": "冬奥会｜巴西创冬奥会队史参赛最佳战绩 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Winter Olympics: Brazil achieves best performance in..."
+          }
+        },
+        {
+          "title": "云南春节假期旅游市场火热",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JX2Q3TFZHQ1hmbzVHSy1JUkpyeDFVRU1tV2VXTDFxNmRUbU1EcmRCejF3TW52aDF2ZDRiUTVtczNKWkxqSkpTV0hUVVV1R2Q1dW9RUEtEQVdra1JrdzNSTnlXWWtDUU14UVNYQnFDZUZWVThOOWlWdlh4SlF6UQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-23T21:59:31Z",
+            "summary": "云南春节假期旅游市场火热 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Yunnan's tourism market is booming during the Spring..."
+          }
+        },
+        {
+          "title": "年俗为“撬”点 数智作“潮”头——马年新春消费“多面精彩”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObF9SajQtazN3d241c0ZIandwbVFVLWRVNzY0RnJub01FLVFSWFIyOGh3WWEwSExROWJvMFd4bGVYbTl3SWREbGNIMnBveGtrWkFaZy1CSFVQSlBWeFA3NVI3VHlaem0wSHNmTmo5R241TUFkZ1UxeWwxQnlXRjQ0SUR3?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-23T17:14:20Z",
+            "summary": "年俗为“撬”点 数智作“潮”头——马年新春消费“多面精彩” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Traditional customs \"pry\" open new trends for the Year..."
+          }
+        },
+        {
+          "title": "综述丨多方关注对美贸易不确定性",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yZUYyU1NMS3VYNXlZaEF4NlBGemo4Ym9WVUFpY1c4ai1xb24wVHJHcV9xbzFoYjUxbmxpX0pEaDdyR3dBVzBSeWdLZnBNU1VGUjU4WnRvUUhvc3EzajA3N1N3VDVEem81eG1EYnhvMGlaT2doTV9fckpTT0QwZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-23T02:28:32Z",
+            "summary": "综述丨多方关注对美贸易不确定性 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Overview: Multiple parties focus on trade uncertainty..."
+          }
+        },
+        {
+          "title": "冬奥会｜自由式和单板滑雪综述：中国队“雪强”态势浮现，人才厚度仍待增强",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOME84Ykw4Z3p5dWZ5bFdpeUxpZ0VMdWF6OVZkTHNXbTBGOFU5QU1TbWJLSUFSclR2TkFXcF82Zm54UndMZHVxX1dnSklDTGFsQXROa0NNMlk3T0RHaXpGOHVoUEo5WV90NmdnWF8tY0pheGltTnBVTFZ0SFcwU1dhWlNBd1hHdlU?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-23T00:32:11Z",
+            "summary": "冬奥会｜自由式和单板滑雪综述：中国队“雪强”态势浮现，人才厚度仍待增强 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Winter Olympics: China's freestyle and snowboard..."
+          }
+        },
+        {
+          "title": "新春走基层丨从“等浪”到“造浪”——日月湾冲浪爱好者的别样春节",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZW1QdS1qaXpMeUZmVHRkVWd3bndBWXRHaVdZZFJEUmZwVWtIN2lNU0dreEI4ZGptUUFzaWJpckVGenA5dU8zY3ZMSjVqZ3lvMFdaOENnWFZnZ0pIUm9ILXhILWthbWh4OVVQR0pLU0lIU2dpOVRjVDBXOE9IZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-23T01:56:15Z",
+            "summary": "新春走基层丨从“等浪”到“造浪”——日月湾冲浪爱好者的别样春节 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "New Year at the grassroots: Surfing enthusiasts' unique..."
+          }
+        },
+        {
+          "title": "人文经济激活消费新动能丨“蒜鸟”走红、解压焕新，“为情绪买单”成湖北消费新趋势",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pNFA2SU9WQzhNbHFZZ0t0eFpSV2NoVm80cVllOElBWHpDZk8xd1I5Vm01ampPV0ZPLUNvRGRaQy1FVi1vUThJc1FyTFd2YWdXb3NjLVhWWXFOSzZzUDFhNzhQRm5ZaTVaZENmNGRpd0JwdDNDalhySV9ucTlzQQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-23T18:48:31Z",
+            "summary": "人文经济激活消费新动能丨“蒜鸟”走红、解压焕新，“为情绪买单”成湖北消费新趋势 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Cultural economy boosts new consumption trends in Hubei..."
+          }
+        },
+        {
+          "title": "新春走基层|“仡佬毛龙”传承的两对“黄金搭档”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXJHdl84cGRFMDgza2hKbW00ZmxTcmtLVi1Ca2gyVHMtcFNRYm5XMEhkblRzenVaQTBMX1ZZYWdSTk15MXVUNjJULTJrX2RFOUlDTjZncTVVTEtsTDB6MmhsclhLVmZObmIwRjR4cjMwUzZJMXgyTFByYmlRWURTWWpB?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-23T17:14:17Z",
+            "summary": "新春走基层|“仡佬毛龙”传承的两对“黄金搭档” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Spring Festival at the grassroots: \"Gelao Maolong\" and..."
+          }
+        },
+        {
+          "title": "马年春节假日盘点·旅游篇|旅游迎春一“马”当先——新春文旅市场暖意浓",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVV9TS2FldGJ5SDNFdHJPUXFKOWotQUhNOHJTZ0wzc0ZRWEpWQzVjck9wSzRKWGhJaVl5NnQwazZjT1pDWGJOWWswLVp1c3lZd0phdkxEdUh2dWN0ak9qRGFKYzBHQUtnSjVtd2pGdzhpcXNEWk40N2dpQmdtWXYzaXNtVTdSN3M?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-23T18:09:06Z",
+            "summary": "马年春节假日盘点·旅游篇|旅游迎春一“马”当先——新春文旅市场暖意浓 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Year of the Horse Spring Festival Review: Tourism Leads..."
+          }
+        },
+        {
+          "title": "全球瞭望丨塞内加尔智库：中国对非零关税举措具有重要意义",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CTE9BWVlhN1JBb2tzdWJDaGs5RVJHSlVPM0VMRHZCSXRNem1fUkNzZUt2WVh1eU5QMkZubmx2dzFPLWFhaHJNQ1FoZTB5dUtxWnd1ZTZyZlZwWHppTHQ5WnlBaUR1bzQ1aWJBck1TMFZ0dE5Bc1NlLVBJSDRaZw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-22T23:56:02Z",
+            "summary": "全球瞭望丨塞内加尔智库：中国对非零关税举措具有重要意义 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Global Outlook: Senegal Think Tank on China's..."
+          }
+        },
+        {
+          "title": "年俗为“撬”点 数智作“潮”头——马年新春消费“多面精彩”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObF9SajQtazN3d241c0ZIandwbVFVLWRVNzY0RnJub01FLVFSWFIyOGh3WWEwSExROWJvMFd4bGVYbTl3SWREbGNIMnBveGtrWkFaZy1CSFVQSlBWeFA3NVI3VHlaem0wSHNmTmo5R241TUFkZ1UxeWwxQnlXRjQ0SUR3?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-23T17:14:20Z",
+            "summary": "年俗为“撬”点 数智作“潮”头——马年新春消费“多面精彩” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Traditional customs \"lift\" the festive spirit for a..."
+          }
+        },
+        {
+          "title": "全国科技馆春节期间接待观众超350万人次",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XaXA3MnJLRXpkSldLbGRhY0xnZTdpY3hqYmxiV2pJWkdkVFE0bWp5VDgtR3Eybk5QQWtJN3Y3b1BXTE9RbG5yR3hKTms4a1JrYkNtLW9qTnc0N011YmdnVjVKUmM2b2lZVWh5aXd3YWYtSFBxVFhhaTFUcnhYQQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-23T05:38:19Z",
+            "summary": "全国科技馆春节期间接待观众超350万人次 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "National Science Museum welcomed over 3.5 million..."
+          }
+        },
+        {
+          "title": "马年春节假日盘点·科技篇丨融入传统年俗 加快应用落地——机器人点燃新春新体验",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBITXR4dGJZNjhzaUNNLU1jX0dUTER0Rzdfd0ZxcFVNTkUzRFkxbTU2aTBUamVGU2YxM2VYQjNId0IxaVlPUHR1Wnd6aElVM0hLOHo5RHQ2eEg1eEtLa3FIMUR4S25Uck1kbVIyTWRqMk80bHdEYTRqMnJGellsQQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-23T05:13:15Z",
+            "summary": "马年春节假日盘点·科技篇丨融入传统年俗 加快应用落地——机器人点燃新春新体验 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Year of the Horse Spring Festival Review: Tech Enhances..."
+          }
+        },
+        {
+          "title": "机器人租赁增长超六成 科技解锁“新”年味",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXFQcjI5UWJRR2ZRdVNtX3dEQVp6WVFQbDJMSUJpdUtLYk03elJHZ1hudnBUUFR2NHFjS3FGQzFJalFKNFFwRE9VRGphRFRBYVZ6TXZWZ015VUdHdFZ2VF9hRjJqeFdlWUV0c0E2bzV3djFtY25VNFdwWnhrQ0pkU0gxbzBwSnp4?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-23T20:30:26Z",
+            "summary": "机器人租赁增长超六成 科技解锁“新”年味 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Robot rentals grow over 60%, tech unlocks new festive..."
+          }
+        },
+        {
+          "title": "新春中国行丨丙午马年春节：中华文化在创新传承中走向世界",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XbWY0T1pjcld4M3kxMEVCaG1Pbzd6Q1ltTUgyQWIxNnliTkNXOTBSMDNRMFhUZk93N1NpTXVnQ0dNTUVLN3JLM0xVS1FLdFFxNDJ0aThEbkI2NVlXSzZNUVRTNnhPRXNUQXdZNXQ1TE1BZ1hyekNhMGVfTGZ2Zw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-23T00:28:29Z",
+            "summary": "新春中国行丨丙午马年春节：中华文化在创新传承中走向世界 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chinese New Year 2014: Cultural innovation spreads..."
+          }
+        },
+        {
+          "title": "从人工值守到智能管控 春节煤矿提“智”保供",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wRTN6d2k3am4ya0gtUXhHOTBxUjhzWFdwQzJwZktRNmpUV2pBa1RrSzFndG9mR3VSaHpEeHNJbEdyckdWY3E4OGJjd2U3ZlQ2NlB2cWUxci1LbjJOX0E0TzN5VklIdjdOUGZWZEU0V2Z1MUloYUs0akhSWDRLZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-23T02:24:45Z",
+            "summary": "从人工值守到智能管控 春节煤矿提“智”保供 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "From manual oversight to smart management, coal supply..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-24T11:26:12+08:00",
       "source": "Xinhua News Agency RSS",
