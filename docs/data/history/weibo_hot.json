@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-25T14:19:33+08:00",
+  "generated_at": "2026-02-25T18:47:14+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-25T18:47:14+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 北京一独居女子去世房产归国家",
+          "value": "1100098 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E4%B8%80%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%E6%88%BF%E4%BA%A7%E5%BD%92%E5%9B%BD%E5%AE%B6&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1100098",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A solitary woman in Beijing passed away; property..."
+          }
+        },
+        {
+          "title": "2. 中秋请3天假堪比春节 [热]",
+          "value": "782455 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E7%A7%8B%E8%AF%B73%E5%A4%A9%E5%81%87%E5%A0%AA%E6%AF%94%E6%98%A5%E8%8A%82&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 782455",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Taking three days off for Mid-Autumn is like Spring..."
+          }
+        },
+        {
+          "title": "3. 春节消费节节高",
+          "value": "643665 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E8%8A%82%E6%B6%88%E8%B4%B9%E8%8A%82%E8%8A%82%E9%AB%98&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 643665",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Spring Festival consumption is on the rise..."
+          }
+        },
+        {
+          "title": "4. 年到香港福运全城",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B4%E5%88%B0%E9%A6%99%E6%B8%AF%E7%A6%8F%E8%BF%90%E5%85%A8%E5%9F%8E&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The New Year brings fortune to all in Hong Kong..."
+          }
+        },
+        {
+          "title": "5. 代露娃 短剧",
+          "value": "591211 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A3%E9%9C%B2%E5%A8%83%20%E7%9F%AD%E5%89%A7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 591211",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Dai Luwa Short Play..."
+          }
+        },
+        {
+          "title": "6. 韩女子用ChatGPT策划连环杀人案 [商]",
+          "value": "369441 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 369441",
+            "tag": "商",
+            "api_source": "tianapi",
+            "translation": "Korean woman plans serial murders using ChatGPT..."
+          }
+        },
+        {
+          "title": "7. 一顿饭付了63张五块钱",
+          "value": "321000 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E9%A1%BF%E9%A5%AD%E4%BB%98%E4%BA%8663%E5%BC%A0%E4%BA%94%E5%9D%97%E9%92%B1&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 321000",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Paid 63 five-yuan bills for a meal..."
+          }
+        },
+        {
+          "title": "8. 星痕退役 [热]",
+          "value": "293939 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E7%97%95%E9%80%80%E5%BD%B9&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 293939",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Star Mark retires..."
+          }
+        },
+        {
+          "title": "9. 宇宙少女回归",
+          "value": "音乐 284103 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%87%E5%AE%99%E5%B0%91%E5%A5%B3%E5%9B%9E%E5%BD%92&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "音乐 284103",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Cosmic Girls return..."
+          }
+        },
+        {
+          "title": "10. 华策 狂野时代 [新]",
+          "value": "电影 262215 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E7%AD%96%20%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "电影 262215",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Hua Ce: Wild Era..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-25T14:19:33+08:00",
       "source": "Weibo Hot Search",
