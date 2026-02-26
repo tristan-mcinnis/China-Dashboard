@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-26T14:16:36+08:00",
+  "generated_at": "2026-02-26T18:46:50+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-26T18:46:50+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 中央政治局委员、书记处书记等述职",
+          "value": "指数 7904395",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98%E3%80%81%E4%B9%A6%E8%AE%B0%E5%A4%84%E4%B9%A6%E8%AE%B0%E7%AD%89%E8%BF%B0%E8%81%8C",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904395",
+            "api_source": "tianapi",
+            "translation": "Members of the Political Bureau report on their duties..."
+          }
+        },
+        {
+          "title": "2. 美用技术霸权收割全球虚拟货币资产",
+          "value": "指数 7808503",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E7%94%A8%E6%8A%80%E6%9C%AF%E9%9C%B8%E6%9D%83%E6%94%B6%E5%89%B2%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E8%B5%84%E4%BA%A7",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808503",
+            "api_source": "tianapi",
+            "translation": "The US exploits tech hegemony to harvest global crypto..."
+          }
+        },
+        {
+          "title": "3. “15后”娃开始整顿亲戚",
+          "value": "指数 7712896",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C15%E5%90%8E%E2%80%9D%E5%A8%83%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E4%BA%B2%E6%88%9A",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7712896",
+            "api_source": "tianapi",
+            "translation": "\"Post-15\" kids start managing their relatives..."
+          }
+        },
+        {
+          "title": "4. 中国经济如何“落子”",
+          "value": "指数 7616779",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A6%82%E4%BD%95%E2%80%9C%E8%90%BD%E5%AD%90%E2%80%9D",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616779",
+            "api_source": "tianapi",
+            "translation": "How does China's economy \"make its move\"?"
+          }
+        },
+        {
+          "title": "5. 彩礼究竟归女方父母还是女方自己",
+          "value": "指数 7521377",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BD%A9%E7%A4%BC%E7%A9%B6%E7%AB%9F%E5%BD%92%E5%A5%B3%E6%96%B9%E7%88%B6%E6%AF%8D%E8%BF%98%E6%98%AF%E5%A5%B3%E6%96%B9%E8%87%AA%E5%B7%B1",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7521377",
+            "api_source": "tianapi",
+            "translation": "Should the bride price go to the bride's parents or herself?"
+          }
+        },
+        {
+          "title": "6. 女孩27年后与照片里的陌生人再相遇",
+          "value": "指数 7424548",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%A927%E5%B9%B4%E5%90%8E%E4%B8%8E%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E9%99%8C%E7%94%9F%E4%BA%BA%E5%86%8D%E7%9B%B8%E9%81%87",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7424548",
+            "api_source": "tianapi",
+            "translation": "Girl reunites with a stranger from a photo after 27 years..."
+          }
+        },
+        {
+          "title": "7. 中国手机厂商或将集体涨价",
+          "value": "指数 7333537",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7333537",
+            "api_source": "tianapi",
+            "translation": "Chinese smartphone manufacturers may collectively raise..."
+          }
+        },
+        {
+          "title": "8. 陪看：世预赛中国男篮vs日本",
+          "value": "指数 7237168",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%99%AA%E7%9C%8B%EF%BC%9A%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7237168",
+            "api_source": "tianapi",
+            "translation": "Watch together: China vs Japan in World Cup qualifiers..."
+          }
+        },
+        {
+          "title": "9. 牧民放牧偶遇2只雪豹 双方都很淡定",
+          "value": "指数 7137214",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%89%A7%E6%B0%91%E6%94%BE%E7%89%A7%E5%81%B6%E9%81%872%E5%8F%AA%E9%9B%AA%E8%B1%B9+%E5%8F%8C%E6%96%B9%E9%83%BD%E5%BE%88%E6%B7%A1%E5%AE%9A",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7137214",
+            "api_source": "tianapi",
+            "translation": "Herders encounter two snow leopards, both remain calm..."
+          }
+        },
+        {
+          "title": "10. 《飞驰人生3》票房超《飞驰人生2》",
+          "value": "指数 7044593",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E3%80%8A%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F3%E3%80%8B%E7%A5%A8%E6%88%BF%E8%B6%85%E3%80%8A%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%E3%80%8B",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7044593",
+            "api_source": "tianapi",
+            "translation": "\"Fast and Furious 3\" surpasses box office of \"Fast and..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-26T14:16:36+08:00",
       "source": "Tencent WeChat Hot Topics",
