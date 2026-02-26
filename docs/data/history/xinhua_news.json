@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2026-02-26T18:47:12+08:00",
+  "generated_at": "2026-02-26T22:27:05+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-26T22:27:05+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "秀我中国丨罕见黄色兰花螳螂现身云南西双版纳",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFJjUVBDU2RjSDQyMFhsYmo2dlh1N0d5aXFSVlJBb0g1RzJjZVRpTDcyUHZ0Q3NBOExfVEdPem9DSmhlNnhkd2I3enpzSE8zTU1KZmFjWDNzWHNBR0ZMQlo4WFBzR2c0V1c5dkNRdHNFZS11WXZ3Tzd2UzIxRFZGdVZ1eG5IdTJib3VV?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-25T21:41:15Z",
+            "summary": "秀我中国丨罕见黄色兰花螳螂现身云南西双版纳 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Rare yellow orchid mantis spotted in Xishuangbanna,..."
+          }
+        },
+        {
+          "title": "300秒看家乡︱湖南省益阳市桃江县：浪漫桃花江 竹乡遇见美",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkVHQUJqRW54UE1LM2lxLVlIMVlVQnluR25WMDR1RkdDMHIzbk91MzZvQUd2VU5WUWZBX0l0ZXI4VmJJZWRGeGk3RE1fbENpV0RXWFZOekRBSzkzVVhOTE9RcGhiX21kMmdHX3p3OVYtcnBZYXlyaVlKcWtXUDNsVlpMYk0tdE0?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-25T18:32:33Z",
+            "summary": "300秒看家乡︱湖南省益阳市桃江县：浪漫桃花江 竹乡遇见美 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "300 seconds in my hometown: Taoyuan County, Hunan..."
+          }
+        },
+        {
+          "title": "零下50度仍续航！我国科学家实现高比能锂电池新突破",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41X2tzTDU5c3U4OFlEd0Utdl9pLUV3WXB6Z05ybVE2X2JZQkhwMkFtR1UzMHNaM3JBeU11QkRCS1FGU1lVek5qemhEVmZpNXViYTU2c25OSzZaLVVBV29RWTlETEtfcTNZa3hWUzZoRFByLXJhX3BXOVFRUExLdw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-25T23:54:50Z",
+            "summary": "零下50度仍续航！我国科学家实现高比能锂电池新突破 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Endurance at -50°C! Chinese scientists achieve..."
+          }
+        },
+        {
+          "title": "新华视点丨新春文旅市场活力迸发",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGtCNHBPUGJiRTBsYkltWXRMa3FqTWcwZGNSbm8yS1VBTXFqNkZ2SGRuZ3gtaWFBeU9tZGt0NW56S0xKWTAxb3lwREdyLUZkVk1BU1FDQXo4VXRjY2dDYlF5dTIxWE4zZl9FWkNhQ2dMYUwtcXR2dm00UzRsVVltUkphdjBubFhl?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-25T22:09:32Z",
+            "summary": "新华视点丨新春文旅市场活力迸发 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua Insights: Spring Festival tourism market surges..."
+          }
+        },
+        {
+          "title": "金正恩：韩国是“彻底的敌国、永远的敌人”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zbGpFTTNUWVVUNEE4OVpNWGR5cUhZZmJUTjN6UGdNUmFheDBoazN0RGM4OVVsVHVkRFIzWXhIOGRZZVJzNmN1YlY2VjgweVUzY1ZJbG9FZlo3YlNHM2EtZmhrQ2EycjhHV1lPWmpDWEZTTnZVb3U3VnBadjRrZVU?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-02-25T19:55:13Z",
+            "summary": "金正恩：韩国是“彻底的敌国、永远的敌人” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Kim Jong-un: South Korea is a \"thorough enemy, eternal..."
+          }
+        },
+        {
+          "title": "我国发明专利申请量连续多年全球居首",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0NzVjgza19qV21PNy1PVlY4dzZHUUxUZ01aRU82M09HNzJBODNkcXU3TFgzcFpYQlNFSng5WkFiMkdtTTVOcTJ3VEtPQmRZUENoVGFNM3Q3NEVrSTFXRlJsZjJadnhLb21aWm93LXNJR2hzUkFzbk1aa1Qtd1Z2VXdtU1NTeHFH?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-25T16:25:33Z",
+            "summary": "我国发明专利申请量连续多年全球居首 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China has topped the world in invention patent..."
+          }
+        },
+        {
+          "title": "综述丨IMF警告美国经济存在多重风险",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fVmp5WE1TUk5LalNwWnMyNzBPZGRsdzU3ck8xSzJvcFRyRkw4eFpieU5yb3JRdDJ3VTM4dTJEMm14bUpWQXFBZkVyNE5Kd0J4bk9nVldtbHU5VFpqeFRXVkdaZ0xjZ05BMDZoc2tvMDR3dUlNOXF6OVF1cE1KZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-26T02:46:16Z",
+            "summary": "综述丨IMF警告美国经济存在多重风险 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Overview: IMF warns of multiple risks to the U.S. economy..."
+          }
+        },
+        {
+          "title": "联合国报告：2026年阿拉伯地区经济预计增长3.7%",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxOHBjQ3FKcFMxMHZLM3dWdkxfT0FkNmplSG55WTlGSGtkWnFsbFA4N3NQTjZycm1FSlRUZ2NKSDE4R0hJYkpKazdxMjU0bkc0cnRPNy1QNFhZeGRNMDVodUdPMzIyUi1qYVRTUmlyVk1PNmFydGtHemFGZzN1dw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-26T02:54:48Z",
+            "summary": "联合国报告：2026年阿拉伯地区经济预计增长3.7% 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "UN report: Arab region's economy expected to grow 3.7%..."
+          }
+        },
+        {
+          "title": "美国封锁致材料短缺 古巴暂停制发身份证件",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVFp3aTlSaC1qRnZGUFNDeUIzLXhNXzlSeUtXc3Fod0MxWUFPSUtVdk94b2FMLVFZa3Y1VlNubzNKTmNlQ3BMRXNYcnRMQ0doQl9ISjZ6bGtoUHNKS085MlZjUm5uOUJ6WEJ2aWtXb3JvbGF0c2hDMnB1WlBvaWM?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-25T19:39:23Z",
+            "summary": "美国封锁致材料短缺 古巴暂停制发身份证件 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "U.S. blockade causes material shortages, Cuba halts ID..."
+          }
+        },
+        {
+          "title": "追光｜骑过山海，跑过雨林！在海南体育旅游过大年",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Td3dVeGxEbk1hR2VISU5nTU5vZHBHLVNsNTU0MldKSWNReEkxWlI4NEZodTBQNERHVjRoTGRhb1dMV3dvSU1tTm5yRF9ReEtxYWtUTmYwTE9QWHhtRk9ub2c0UmQyTUtkQ1VoM09YSTRpTkczZzVMcnpLbXBhQQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-02-25T23:59:15Z",
+            "summary": "追光｜骑过山海，跑过雨林！在海南体育旅游过大年 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Chasing light: Riding mountains, running through..."
+          }
+        },
+        {
+          "title": "金正恩：韩国是“彻底的敌国、永远的敌人”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zbGpFTTNUWVVUNEE4OVpNWGR5cUhZZmJUTjN6UGdNUmFheDBoazN0RGM4OVVsVHVkRFIzWXhIOGRZZVJzNmN1YlY2VjgweVUzY1ZJbG9FZlo3YlNHM2EtZmhrQ2EycjhHV1lPWmpDWEZTTnZVb3U3VnBadjRrZVU?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-25T19:55:13Z",
+            "summary": "金正恩：韩国是“彻底的敌国、永远的敌人” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Kim Jong-un: South Korea is a \"complete enemy, eternal..."
+          }
+        },
+        {
+          "title": "老顾客告别30多年老商场 蓝岛大厦将转型时尚潮流IP首发地",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTnA3aEV0Q2NrbXVidHQzeEEzSHJTN3JoazFjejFiX3V2N2ZtMFo4X2ZNczItUlFOVTVLckFZNnoxVE5lN1dHVjBpNFZuQWwtMmZLSEFyRE5fVURHWTctQnFyWVJaOUhacjVzS3lrYnUxY25KM0RseTNfVWdQZE04TUh3Zk5OQQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-25T18:42:51Z",
+            "summary": "老顾客告别30多年老商场 蓝岛大厦将转型时尚潮流IP首发地 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Longtime customer bids farewell to 30-year-old mall;..."
+          }
+        },
+        {
+          "title": "美国拟有条件放松对古巴石油封锁",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TVGRKeW55d1htM0lqazZwNTNBODN5OUwwQmE4TGo3TDdua1JsUFVrNk9BSGhQNnVmVnF1aWNOV09oQ05TUHRNTDZfRDE1QXpZeHk5b042YzVleGJWM3gwOHk3ZlJBaTB6Uk1vVXhjYWJPRXROdUtQNjNKTWl6Tk0?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-25T13:39:53Z",
+            "summary": "美国拟有条件放松对古巴石油封锁 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The U.S. plans to conditionally ease the oil embargo on..."
+          }
+        },
+        {
+          "title": "江苏无锡：泰伯庙会展吴韵风采",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0tlaDN2S3JGM2o4M2hZZjlwQmI5T2lacjFURGdFc2dyakFTWU8wVU85TG04OGdpbFh5TzJmNy1JWEZsbkJiejZWbXMyNTNaem9xTWZzcXprWTVvb3ZneDktYW5kTXI2QUR6WllWajFnU284UDJjZVowNFYyaEh4RjJINGVRN3hLOTcxV1dCWktUNnc?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-25T17:05:26Z",
+            "summary": "江苏无锡：泰伯庙会展吴韵风采 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Wuxi, Jiangsu: Taibo Temple Fair showcases Wu culture..."
+          }
+        },
+        {
+          "title": "AI玩具如何有效陪伴",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUVVbGh6TVh2ODRSWmtobTgtbjlaNkVIeFF4Szd3cUtzLTJEOEtwSTNJc0oxVzh4ZHI1MjVVc3FCT2RwcmFxeXl4U1ZRRV9lc1JmSFl5VzZjbkZpVnE4d0pGX2V5VkVzeFBYOWxwb3RDWmNQT1VYdENXeDc0cXROalBaakw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-02-25T17:31:06Z",
+            "summary": "AI玩具如何有效陪伴 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "How AI toys can effectively provide companionship..."
+          }
+        },
+        {
+          "title": "港股科技“冰火两重天” 投资逻辑或已深度重构",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KRGp1aHROMHRGVWJWWHdIRDYxZWxyUUJvY1RXNXZQbHJ6Vm0tRXJMZERBcG5tc0xuM2hodHQzTjAwaGVGc0tzYlQ4Q0FGVi1MTGxEdjNEQkdMSUNxUWhvMUVkQTJLM3VmdWdZcGhDM28xUGZ2OFJTZQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-25T18:08:45Z",
+            "summary": "港股科技“冰火两重天” 投资逻辑或已深度重构 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Hong Kong tech stocks face stark contrasts; investment..."
+          }
+        },
+        {
+          "title": "中国冰雪运动的“科技后援团”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMW9TRFBjQXRQdDhrdGRCbEJuZTJEN2lCMGJKYU1xT3l5cGpZa0xidXN5YkRuNmZod0toVjZCS0Q3a3VaMTdzQW85cGl5aU9sVEhVWWNxSWdPWnNnck5HZEhSSGJlcGJHVkltY0luZ293a2ZVY3U5NmFoczVUTlNHU3NmRHp2UTQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-25T19:32:06Z",
+            "summary": "中国冰雪运动的“科技后援团” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "The \"Tech Support Team\" for China's ice and snow sports..."
+          }
+        },
+        {
+          "title": "以“耐心”之道 突围“硬科技”深水区——南京科创金融改革实践观察述评",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnFxM3VnbEpXQXUxbWtabGRYaUpMT05ndmlNcFBLbzUzLWxOcXVxTU0yQ0NVOURldjZCZHMzQ0VqanFfUURlNVBScmo0NzhJYVVfaFpaMUlGOVlobFNNaHp1MXdTZFdrQ3RmTTJKN0Q3YnNEUkpHWlFhejJUeVdyY2oxdzBHTlBPMDhZ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-25T17:52:35Z",
+            "summary": "以“耐心”之道 突围“硬科技”深水区——南京科创金融改革实践观察述评 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Using \"patience\" to break through the depths of \"hard..."
+          }
+        },
+        {
+          "title": "《自然》子刊刊发国药集团科技创新重要研究成果",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pUjlPTXBCckZFQmU0QnZuRHhWVDduOEwzQ1hEa25YSGRHV1MwMEVXY0huQTk4RFZSRmZsQnRGUDZ4YUpsQUVyUDRMVEN2U3JqVnUzSGl4NW1FRmhWMGt4R18yOF8wQUdRelEtWXVuVWJrUUJKUkQ3ZTljRlFKUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-25T18:47:10Z",
+            "summary": "《自然》子刊刊发国药集团科技创新重要研究成果 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Nature's sub-journal publishes important research by..."
+          }
+        },
+        {
+          "title": "学习规划建议每日问答丨如何理解巩固提升香港国际金融、航运、贸易中心地位，支持香港建设国际创新科技中心",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04MzhGWUpySkVNOWZhajhuVzhIM0hNN2lLQ2VJeEx0LUFiRTRRNGt0SXI4SDNFazd4cFJ4SXlnei0wNmowTmhYNHJfMXhjM2N0eEgwTTlHRFl3OVVNb3BKQjhqSlpQZ0MyV2U2WXpFNEIyaHpidHpVeXlQb0FGZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-02-25T19:04:18Z",
+            "summary": "学习规划建议每日问答丨如何理解巩固提升香港国际金融、航运、贸易中心地位，支持香港建设国际创新科技中心 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Suggestions for daily Q&A on enhancing Hong Kong's..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-26T18:47:12+08:00",
       "source": "Xinhua News Agency RSS",
