@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-26T11:23:59+08:00",
+  "generated_at": "2026-02-26T14:16:27+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-26T14:16:27+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 微信能看图片使用次数了",
+          "value": "1162445 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E8%83%BD%E7%9C%8B%E5%9B%BE%E7%89%87%E4%BD%BF%E7%94%A8%E6%AC%A1%E6%95%B0%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1162445",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "WeChat can now track image viewing frequency..."
+          }
+        },
+        {
+          "title": "2. 俄乌冲突 [沸]",
+          "value": "818847 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 818847",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Russia-Ukraine conflict..."
+          }
+        },
+        {
+          "title": "3. 美国从陈志案获利150亿美元",
+          "value": "690992 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 690992",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The U.S. profits $15 billion from the Chen Zhi case..."
+          }
+        },
+        {
+          "title": "4. 女子泰国机场1110元金价买了周大福",
+          "value": "398362 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 398362",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A woman bought Chow Tai Fook jewelry for 1110 yuan at a..."
+          }
+        },
+        {
+          "title": "5. 花10万做折角腰整形醒来浑身血水",
+          "value": "304715 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%B110%E4%B8%87%E5%81%9A%E6%8A%98%E8%A7%92%E8%85%B0%E6%95%B4%E5%BD%A2%E9%86%92%E6%9D%A5%E6%B5%91%E8%BA%AB%E8%A1%80%E6%B0%B4&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 304715",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Spent 100,000 on waist contouring, woke up covered in..."
+          }
+        },
+        {
+          "title": "6. 刘晓庆75岁再演少女 [新]",
+          "value": "266334 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E6%99%93%E5%BA%8675%E5%B2%81%E5%86%8D%E6%BC%94%E5%B0%91%E5%A5%B3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 266334",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Liu Xiaoqing, 75, plays a young girl again..."
+          }
+        },
+        {
+          "title": "7. 董宇辉休了工作以来最长春节假",
+          "value": "224517 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%91%A3%E5%AE%87%E8%BE%89%E4%BC%91%E4%BA%86%E5%B7%A5%E4%BD%9C%E4%BB%A5%E6%9D%A5%E6%9C%80%E9%95%BF%E6%98%A5%E8%8A%82%E5%81%87&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 224517",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Dong Yuhui took the longest Spring Festival holiday..."
+          }
+        },
+        {
+          "title": "8. 女子嘴角起泡未重视竟脑死亡",
+          "value": "213784 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E5%98%B4%E8%A7%92%E8%B5%B7%E6%B3%A1%E6%9C%AA%E9%87%8D%E8%A7%86%E7%AB%9F%E8%84%91%E6%AD%BB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 213784",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Woman's lip blister ignored, leads to brain death..."
+          }
+        },
+        {
+          "title": "9. 考研成绩",
+          "value": "187940 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 187940",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Postgraduate entrance exam results..."
+          }
+        },
+        {
+          "title": "10. 企业招聘限男性限已婚已育",
+          "value": "138330 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%81%E4%B8%9A%E6%8B%9B%E8%81%98%E9%99%90%E7%94%B7%E6%80%A7%E9%99%90%E5%B7%B2%E5%A9%9A%E5%B7%B2%E8%82%B2&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 138330",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Job openings limited to married men with children..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-26T11:23:59+08:00",
       "source": "Weibo Hot Search",
