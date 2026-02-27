@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-02-27T18:45:13+08:00",
+  "generated_at": "2026-02-27T22:20:06+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-27T22:20:06+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 提醒在伊朗的中国公民尽快撤离",
+          "value": "1156613 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1156613",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese citizens in Iran are urged to evacuate promptly..."
+          }
+        },
+        {
+          "title": "2. 草莓价格跌至1元一斤",
+          "value": "819587 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%87%B31%E5%85%83%E4%B8%80%E6%96%A4&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 819587",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Strawberry prices drop to 1 yuan per pound..."
+          }
+        },
+        {
+          "title": "3. 关注2026全国两会",
+          "value": "795226 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%B3%E6%B3%A82026%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 795226",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Focus on the 2026 National Two Sessions..."
+          }
+        },
+        {
+          "title": "4. Gucci直播 [新]",
+          "value": "772330 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DGucci%E7%9B%B4%E6%92%AD&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 772330",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Gucci live stream..."
+          }
+        },
+        {
+          "title": "5. 美国双航母已就位",
+          "value": "285573 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E5%8F%8C%E8%88%AA%E6%AF%8D%E5%B7%B2%E5%B0%B1%E4%BD%8D&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 285573",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "U.S. dual aircraft carriers are in position..."
+          }
+        },
+        {
+          "title": "6. 纯真年代的爱情 [新]",
+          "value": "283601 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%AF%E7%9C%9F%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%88%B1%E6%83%85&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 283601",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Love in the Era of Innocence..."
+          }
+        },
+        {
+          "title": "7. FENDI2026秋冬时装秀",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DFENDI2026%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E7%A7%80&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "FENDI 2026 Autumn/Winter Fashion Show..."
+          }
+        },
+        {
+          "title": "8. 中国驻以色列使馆紧急通知 [新]",
+          "value": "270735 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BB%A5%E8%89%B2%E5%88%97%E4%BD%BF%E9%A6%86%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 270735",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Emergency notice from the Chinese Embassy in Israel..."
+          }
+        },
+        {
+          "title": "9. 00后员工年薪80万是老板的6倍",
+          "value": "249293 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D00%E5%90%8E%E5%91%98%E5%B7%A5%E5%B9%B4%E8%96%AA80%E4%B8%87%E6%98%AF%E8%80%81%E6%9D%BF%E7%9A%846%E5%80%8D&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 249293",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Post-00s employees earn 800,000, six times their boss's..."
+          }
+        },
+        {
+          "title": "10. 退房的时候前台拿了个徐福记的糖纸 [沸]",
+          "value": "214206 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%80%E6%88%BF%E7%9A%84%E6%97%B6%E5%80%99%E5%89%8D%E5%8F%B0%E6%8B%BF%E4%BA%86%E4%B8%AA%E5%BE%90%E7%A6%8F%E8%AE%B0%E7%9A%84%E7%B3%96%E7%BA%B8&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 214206",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "At checkout, the front desk took a Xu Fu Ji candy wrapper."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-27T18:45:13+08:00",
       "source": "Weibo Hot Search",
