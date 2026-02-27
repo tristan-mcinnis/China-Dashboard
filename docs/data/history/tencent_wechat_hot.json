@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-02-27T14:13:06+08:00",
+  "generated_at": "2026-02-27T18:45:23+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-27T18:45:23+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 中共中央政治局召开会议",
+          "value": "指数 7904873",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904873",
+            "api_source": "tianapi",
+            "translation": "The Political Bureau of the CPC Central Committee held a..."
+          }
+        },
+        {
+          "title": "2. 男子开工3天签下3000万大单笑开花",
+          "value": "指数 7809379",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B7%E5%AD%90%E5%BC%80%E5%B7%A53%E5%A4%A9%E7%AD%BE%E4%B8%8B3000%E4%B8%87%E5%A4%A7%E5%8D%95%E7%AC%91%E5%BC%80%E8%8A%B1",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809379",
+            "api_source": "tianapi",
+            "translation": "Man signs a 30 million deal in just 3 days of work..."
+          }
+        },
+        {
+          "title": "3. 车价大跳水：宝马降30万 雅阁降10万",
+          "value": "指数 7714268",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%BD%A6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%9A%E5%AE%9D%E9%A9%AC%E9%99%8D30%E4%B8%87+%E9%9B%85%E9%98%81%E9%99%8D10%E4%B8%87",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7714268",
+            "api_source": "tianapi",
+            "translation": "Car prices plummet: BMW down 300,000, Accord down 100,000..."
+          }
+        },
+        {
+          "title": "4. 中国年味 飘向全球",
+          "value": "指数 7616652",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%91%B3+%E9%A3%98%E5%90%91%E5%85%A8%E7%90%83",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616652",
+            "api_source": "tianapi",
+            "translation": "Chinese New Year flavors spread worldwide..."
+          }
+        },
+        {
+          "title": "5. 被帮扶男孩家人：千元手表是凑钱买的",
+          "value": "指数 7523702",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%A2%AB%E5%B8%AE%E6%89%B6%E7%94%B7%E5%AD%A9%E5%AE%B6%E4%BA%BA%EF%BC%9A%E5%8D%83%E5%85%83%E6%89%8B%E8%A1%A8%E6%98%AF%E5%87%91%E9%92%B1%E4%B9%B0%E7%9A%84",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7523702",
+            "api_source": "tianapi",
+            "translation": "Boy's family: The thousand-yuan watch was bought together..."
+          }
+        },
+        {
+          "title": "6. 减重药将步入“白菜价”时代",
+          "value": "指数 7427402",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%87%8F%E9%87%8D%E8%8D%AF%E5%B0%86%E6%AD%A5%E5%85%A5%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D%E6%97%B6%E4%BB%A3",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7427402",
+            "api_source": "tianapi",
+            "translation": "Weight loss drugs will enter the \"cabbage price\" era..."
+          }
+        },
+        {
+          "title": "7. 外交部提醒中国公民暂勿前往伊朗",
+          "value": "指数 7330912",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7330912",
+            "api_source": "tianapi",
+            "translation": "The Foreign Ministry advises Chinese citizens to avoid..."
+          }
+        },
+        {
+          "title": "8. 千元机正在消失",
+          "value": "指数 7234631",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8D%83%E5%85%83%E6%9C%BA%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7234631",
+            "api_source": "tianapi",
+            "translation": "Budget smartphones are disappearing..."
+          }
+        },
+        {
+          "title": "9. 女子捡手机藏4个月 失主定位找上门",
+          "value": "指数 7142007",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%AD%90%E6%8D%A1%E6%89%8B%E6%9C%BA%E8%97%8F4%E4%B8%AA%E6%9C%88+%E5%A4%B1%E4%B8%BB%E5%AE%9A%E4%BD%8D%E6%89%BE%E4%B8%8A%E9%97%A8",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7142007",
+            "api_source": "tianapi",
+            "translation": "Woman hides phone for 4 months; owner tracks her down..."
+          }
+        },
+        {
+          "title": "10. 承认抄袭的杨本芬 只是个例吗",
+          "value": "指数 7041081",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%89%BF%E8%AE%A4%E6%8A%84%E8%A2%AD%E7%9A%84%E6%9D%A8%E6%9C%AC%E8%8A%AC+%E5%8F%AA%E6%98%AF%E4%B8%AA%E4%BE%8B%E5%90%97",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7041081",
+            "api_source": "tianapi",
+            "translation": "Is Yang Benfen's admission of plagiarism just an exception?"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-27T14:13:06+08:00",
       "source": "Tencent WeChat Hot Topics",
