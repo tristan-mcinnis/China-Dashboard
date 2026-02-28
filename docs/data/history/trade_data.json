@@ -1,7 +1,40 @@
 {
   "source": "GACC (fallback)",
-  "generated_at": "2026-02-28T11:16:27+08:00",
+  "generated_at": "2026-02-28T14:05:14+08:00",
   "entries": [
+    {
+      "as_of": "2026-02-28T14:05:14+08:00",
+      "source": "GACC (fallback)",
+      "items": [
+        {
+          "title": "Exports YoY",
+          "value": "7.1%",
+          "url": "http://english.customs.gov.cn/",
+          "extra": {
+            "description": "Total Exports Growth",
+            "stale": true
+          }
+        },
+        {
+          "title": "Imports YoY",
+          "value": "1.0%",
+          "url": "http://english.customs.gov.cn/",
+          "extra": {
+            "description": "Total Imports Growth",
+            "stale": true
+          }
+        },
+        {
+          "title": "Trade Balance",
+          "value": "$104.8B",
+          "url": "http://english.customs.gov.cn/",
+          "extra": {
+            "description": "Monthly Trade Balance (USD)",
+            "stale": true
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-02-28T11:16:27+08:00",
       "source": "GACC (fallback)",
