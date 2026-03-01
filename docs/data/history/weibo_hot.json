@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-01T18:41:31+08:00",
+  "generated_at": "2026-03-01T22:09:42+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-01T22:09:42+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 伊朗前总统内贾德遇袭身亡",
+          "value": "2943483 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 2943483",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Former Iranian President Ahmadinejad killed in attack..."
+          }
+        },
+        {
+          "title": "2. 王楚钦男单夺冠 [新]",
+          "value": "2200006 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 2200006",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Wang Chuqin wins men's singles championship..."
+          }
+        },
+        {
+          "title": "3. 2026新春走基层",
+          "value": "2083425 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 2083425",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2026 Spring Festival at the grassroots..."
+          }
+        },
+        {
+          "title": "4. 浙江地震 [新]",
+          "value": "2045985 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%99%E6%B1%9F%E5%9C%B0%E9%9C%87&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 2045985",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Zhejiang earthquake..."
+          }
+        },
+        {
+          "title": "5. 赵今麦流浪地球3造型",
+          "value": "电影 1016225 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E9%80%A0%E5%9E%8B&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "电影 1016225",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Zhao Jinmai's look in \"The Wandering Earth 3\"..."
+          }
+        },
+        {
+          "title": "6. 伊朗袭击27个美军基地 [新]",
+          "value": "986899 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB27%E4%B8%AA%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 986899",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Iran attacks 27 US military bases..."
+          }
+        },
+        {
+          "title": "7. 王楚钦4比0战胜林昀儒",
+          "value": "660582 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%940%E6%88%98%E8%83%9C%E6%9E%97%E6%98%80%E5%84%92&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 660582",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Wang Chuqin defeated Lin Yun-ju 4-0."
+          }
+        },
+        {
+          "title": "8. 孙颖莎女单夺冠 [新]",
+          "value": "654103 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 654103",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Sun Yingsha wins women's singles championship..."
+          }
+        },
+        {
+          "title": "9. 2026电影总票房破100亿",
+          "value": "463584 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4100%E4%BA%BF&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 463584",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "2026 movie box office exceeds 10 billion..."
+          }
+        },
+        {
+          "title": "10. 王楚钦vs林昀儒 [热]",
+          "value": "445095 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E6%98%80%E5%84%92&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 445095",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Wang Chuqin vs Lin Yun-Ju..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-01T18:41:31+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Little Pony Cake..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-09T22:29:38+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 南京博物院事件最新通报",
-          "value": "1818667 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1818667",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Latest update on the Nanjing Museum incident..."
-          }
-        },
-        {
-          "title": "2. 谷爱凌决赛 [热]",
-          "value": "1568007 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B3%E8%B5%9B&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1568007",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Gu Ailing's final match..."
-          }
-        },
-        {
-          "title": "3. 动车组终点站有科幻片那味儿了",
-          "value": "720909 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8A%A8%E8%BD%A6%E7%BB%84%E7%BB%88%E7%82%B9%E7%AB%99%E6%9C%89%E7%A7%91%E5%B9%BB%E7%89%87%E9%82%A3%E5%91%B3%E5%84%BF%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 720909",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The train station feels like a scene from a sci-fi movie..."
-          }
-        },
-        {
-          "title": "4. 张晚意林允希林娜依高为AUDI开麦 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%99%9A%E6%84%8F%E6%9E%97%E5%85%81%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E4%B8%BAAUDI%E5%BC%80%E9%BA%A6&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Zhang Wanyi, Lin Yunxi, and Lin Naiyi promote AUDI..."
-          }
-        },
-        {
-          "title": "5. 谷爱凌冬奥银牌",
-          "value": "706984 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%AC%E5%A5%A5%E9%93%B6%E7%89%8C&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 706984",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gu Ailing wins silver medal at Winter Olympics..."
-          }
-        },
-        {
-          "title": "6. 郑钦文vs肯宁 [火热]",
-          "value": "375499 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E9%92%A6%E6%96%87vs%E8%82%AF%E5%AE%81&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 375499",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Zheng Qinwen vs Kenin..."
-          }
-        },
-        {
-          "title": "7. 谷爱凌第一跳后哭了",
-          "value": "366753 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E8%B7%B3%E5%90%8E%E5%93%AD%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 366753",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gu Ailing cried after her first jump."
-          }
-        },
-        {
-          "title": "8. 新年上千问让美好生成 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E5%B9%B4%E4%B8%8A%E5%8D%83%E9%97%AE%E8%AE%A9%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%88%90&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "New Year brings a thousand questions for a beautiful..."
-          }
-        },
-        {
-          "title": "9. 多只小鸟撞西安万象城玻璃墙死亡",
-          "value": "358503 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%8F%AA%E5%B0%8F%E9%B8%9F%E6%92%9E%E8%A5%BF%E5%AE%89%E4%B8%87%E8%B1%A1%E5%9F%8E%E7%8E%BB%E7%92%83%E5%A2%99%E6%AD%BB%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 358503",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Several birds died after hitting the glass wall in Xi'an..."
-          }
-        },
-        {
-          "title": "10. 开始推理吧4 [新]",
-          "value": "综艺 326410 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%80%E5%A7%8B%E6%8E%A8%E7%90%86%E5%90%A74&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "综艺 326410",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Let's start reasoning 4..."
           }
         }
       ]
