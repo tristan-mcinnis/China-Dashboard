@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-01T06:04:01+08:00",
+  "generated_at": "2026-03-01T11:30:15+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-01T11:30:15+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 哈梅内伊遇害",
+          "value": "12517681 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%87%E5%AE%B3&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 12517681",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Khamenei assassinated..."
+          }
+        },
+        {
+          "title": "2. 中方呼吁军事行动立即停止",
+          "value": "2287010 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 2287010",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China calls for an immediate halt to military actions..."
+          }
+        },
+        {
+          "title": "3. 3月起一批国家标准开始实施",
+          "value": "1737642 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E6%9C%88%E8%B5%B7%E4%B8%80%E6%89%B9%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%BC%80%E5%A7%8B%E5%AE%9E%E6%96%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1737642",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A batch of national standards will be implemented from..."
+          }
+        },
+        {
+          "title": "4. 哈梅内伊的女儿女婿等遇难",
+          "value": "1416879 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E7%9A%84%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E7%AD%89%E9%81%87%E9%9A%BE&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 1416879",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Khamenei's daughter and son-in-law among the victims..."
+          }
+        },
+        {
+          "title": "5. 伊朗称将开启最猛烈进攻",
+          "value": "631900 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%BC%80%E5%90%AF%E6%9C%80%E7%8C%9B%E7%83%88%E8%BF%9B%E6%94%BB&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 631900",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Iran claims it will launch the fiercest offensive..."
+          }
+        },
+        {
+          "title": "6. 伊朗政府宣布40天全国哀悼 [热]",
+          "value": "611611 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%8340%E5%A4%A9%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 611611",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Iranian government announces 40 days of national mourning..."
+          }
+        },
+        {
+          "title": "7. 寿星千万种海底捞都宠",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AF%BF%E6%98%9F%E5%8D%83%E4%B8%87%E7%A7%8D%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%83%BD%E5%AE%A0&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Birthday stars are spoiled by countless Haidilao..."
+          }
+        },
+        {
+          "title": "8. 国防部回应美方指责中方 [新]",
+          "value": "603774 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%8C%87%E8%B4%A3%E4%B8%AD%E6%96%B9&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 603774",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "The Ministry of Defense responds to U.S. accusations..."
+          }
+        },
+        {
+          "title": "9. 油价或出现历史性飙升",
+          "value": "584019 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%B9%E4%BB%B7%E6%88%96%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E9%A3%99%E5%8D%87&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 584019",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Oil prices may see a historic surge..."
+          }
+        },
+        {
+          "title": "10. 这样的房子才配收我的房租",
+          "value": "552476 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E6%A0%B7%E7%9A%84%E6%88%BF%E5%AD%90%E6%89%8D%E9%85%8D%E6%94%B6%E6%88%91%E7%9A%84%E6%88%BF%E7%A7%9F&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 552476",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Only a house like this deserves my rent..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-01T06:04:01+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Women's denim jeans..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-09T11:30:37+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 超级碗",
-          "value": "1078381 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%85%E7%BA%A7%E7%A2%97&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1078381",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Super Bowl..."
-          }
-        },
-        {
-          "title": "2. 中国19岁速滑小将齐天大圣造型 [新]",
-          "value": "756170 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD19%E5%B2%81%E9%80%9F%E6%BB%91%E5%B0%8F%E5%B0%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3%E9%80%A0%E5%9E%8B&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 756170",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "19-year-old Chinese speed skater's Monkey King look..."
-          }
-        },
-        {
-          "title": "3. 2026央视新春走基层",
-          "value": "613661 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%A4%AE%E8%A7%86%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 613661",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "2026 CCTV Spring Festival grassroots activities..."
-          }
-        },
-        {
-          "title": "4. 京东年货节送到村还能马上装 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E5%B9%B4%E8%B4%A7%E8%8A%82%E9%80%81%E5%88%B0%E6%9D%91%E8%BF%98%E8%83%BD%E9%A9%AC%E4%B8%8A%E8%A3%85&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "JD's New Year goods can be delivered and installed in..."
-          }
-        },
-        {
-          "title": "5. 老外来中国过年的订单爆了",
-          "value": "296039 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%81%E5%A4%96%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E7%9A%84%E8%AE%A2%E5%8D%95%E7%88%86%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 296039",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Foreign orders for Chinese New Year have surged..."
-          }
-        },
-        {
-          "title": "6. 中国军网点名张本智和 [重磅]",
-          "value": "224398 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E7%82%B9%E5%90%8D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 224398",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "China's military network names Zhang Benzhihe..."
-          }
-        },
-        {
-          "title": "7. 谷爱凌冲击首金",
-          "value": "199147 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B2%E5%87%BB%E9%A6%96%E9%87%91&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 199147",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gu Ailing aims for her first gold medal..."
-          }
-        },
-        {
-          "title": "8. 男子为蹭热度网络发布不实信息 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B9%AD%E7%83%AD%E5%BA%A6%E7%BD%91%E7%BB%9C%E5%8F%91%E5%B8%83%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Man spreads false information online for attention..."
-          }
-        },
-        {
-          "title": "9. 日本众议院选举结果",
-          "value": "190381 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 190381",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Results of the Japanese House of Representatives election..."
-          }
-        },
-        {
-          "title": "10. 网友称买到无座票在静音车厢被劝离",
-          "value": "175060 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B9%B0%E5%88%B0%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%9C%A8%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E8%A2%AB%E5%8A%9D%E7%A6%BB&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 175060",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "A passenger was asked to leave the quiet carriage for..."
           }
         }
       ]
