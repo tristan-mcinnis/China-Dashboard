@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-02T14:13:13+08:00",
+  "generated_at": "2026-03-02T18:46:17+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-02T18:46:17+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 伊朗一名中国公民遇难",
+          "value": "1298242 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E9%9A%BE&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1298242",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "A Chinese citizen died in Iran..."
+          }
+        },
+        {
+          "title": "2. 莫斯科遭炸弹袭击 [热]",
+          "value": "1128840 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1128840",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Moscow hit by a bomb attack..."
+          }
+        },
+        {
+          "title": "3. 十四届全国人大四次会议发布会",
+          "value": "880530 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%8F%91%E5%B8%83%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 880530",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Press conference of the 14th National People's Congress..."
+          }
+        },
+        {
+          "title": "4. 多架美军战机坠毁",
+          "value": "741180 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 741180",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Multiple U.S. military aircraft have crashed..."
+          }
+        },
+        {
+          "title": "5. 豆瓣称无法承受异常订单巨额损失",
+          "value": "611740 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E7%93%A3%E7%A7%B0%E6%97%A0%E6%B3%95%E6%89%BF%E5%8F%97%E5%BC%82%E5%B8%B8%E8%AE%A2%E5%8D%95%E5%B7%A8%E9%A2%9D%E6%8D%9F%E5%A4%B1&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 611740",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Douban claims it cannot bear the huge losses from..."
+          }
+        },
+        {
+          "title": "6. 刘文祥麻辣烫 [沸]",
+          "value": "611260 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E7%83%AB&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 611260",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Liu Wenxiang Spicy Hot Pot..."
+          }
+        },
+        {
+          "title": "7. 海澜之家被暂停全军采购资格",
+          "value": "578497 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 578497",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Hailan Home's procurement qualifications suspended..."
+          }
+        },
+        {
+          "title": "8. 20后都避开网红名了吗 [新]",
+          "value": "421273 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D20%E5%90%8E%E9%83%BD%E9%81%BF%E5%BC%80%E7%BD%91%E7%BA%A2%E5%90%8D%E4%BA%86%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 421273",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Have those born after 2000 avoided influencer names?"
+          }
+        },
+        {
+          "title": "9. 日本遭遇霍尔木兹休克",
+          "value": "312719 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E9%81%AD%E9%81%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%BC%91%E5%85%8B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 312719",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Japan faces a shock from the Hormuz Strait..."
+          }
+        },
+        {
+          "title": "10. 陈昊宇剧宣 低头 [沸]",
+          "value": "291452 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E6%98%8A%E5%AE%87%E5%89%A7%E5%AE%A3%20%E4%BD%8E%E5%A4%B4&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 291452",
+            "tag": "沸",
+            "api_source": "tianapi",
+            "translation": "Chen Haoyu's drama announcement: bowing his head..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-02T14:13:13+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Tree of Life..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-10T18:48:00+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 男子短道速滑1000米预赛",
-          "value": "1109044 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%911000%E7%B1%B3%E9%A2%84%E8%B5%9B&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1109044",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Men's short track speed skating 1000m preliminaries..."
-          }
-        },
-        {
-          "title": "2. 女子短道速滑500米预赛 [新]",
-          "value": "791764 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91500%E7%B1%B3%E9%A2%84%E8%B5%9B&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 791764",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Women's short track speed skating 500m preliminaries..."
-          }
-        },
-        {
-          "title": "3. 提供无人机破解服务是犯罪",
-          "value": "636754 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8F%90%E4%BE%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A0%B4%E8%A7%A3%E6%9C%8D%E5%8A%A1%E6%98%AF%E7%8A%AF%E7%BD%AA&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 636754",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Providing drone hacking services is a crime..."
-          }
-        },
-        {
-          "title": "4. 问界M8陪我平安到家",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%97%AE%E7%95%8CM8%E9%99%AA%E6%88%91%E5%B9%B3%E5%AE%89%E5%88%B0%E5%AE%B6&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Wanjie M8 safely takes me home..."
-          }
-        },
-        {
-          "title": "5. 洪世贤掉到榜二了",
-          "value": "剧集 581090 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%AA%E4%B8%96%E8%B4%A4%E6%8E%89%E5%88%B0%E6%A6%9C%E4%BA%8C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 581090",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Hong Shixian has dropped to second place..."
-          }
-        },
-        {
-          "title": "6. 元宝微信发红包 [重磅]",
-          "value": "419855 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E5%AE%9D%E5%BE%AE%E4%BF%A1%E5%8F%91%E7%BA%A2%E5%8C%85&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 419855",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": "Yuanbao WeChat red envelope distribution..."
-          }
-        },
-        {
-          "title": "7. 关系再好也不要说的事",
-          "value": "413817 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%B3%E7%B3%BB%E5%86%8D%E5%A5%BD%E4%B9%9F%E4%B8%8D%E8%A6%81%E8%AF%B4%E7%9A%84%E4%BA%8B&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 413817",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Things you shouldn't say, no matter how good the..."
-          }
-        },
-        {
-          "title": "8. 简醇rap出了我的新年愿望 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AE%80%E9%86%87rap%E5%87%BA%E4%BA%86%E6%88%91%E7%9A%84%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Simple rap expresses my New Year wishes..."
-          }
-        },
-        {
-          "title": "9. 我们的少年时代2",
-          "value": "剧集 377167 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 377167",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Our Youth Era 2..."
-          }
-        },
-        {
-          "title": "10. 薛之谦万兽之王演唱会官宣 [沸]",
-          "value": "演出 373609 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%B8%87%E5%85%BD%E4%B9%8B%E7%8E%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "演出 373609",
-            "tag": "沸",
-            "api_source": "tianapi",
-            "translation": "Xue Zhiqian's \"King of Beasts\" concert officially..."
           }
         }
       ]
