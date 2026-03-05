@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-05T18:45:47+08:00",
+  "generated_at": "2026-03-05T22:23:09+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-05T22:23:09+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 建议短视频凌晨1点至5点深夜静默",
+          "value": "1061548 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E7%9F%AD%E8%A7%86%E9%A2%91%E5%87%8C%E6%99%A81%E7%82%B9%E8%87%B35%E7%82%B9%E6%B7%B1%E5%A4%9C%E9%9D%99%E9%BB%98&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1061548",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Suggest short videos to be silent from 1 AM to 5 AM..."
+          }
+        },
+        {
+          "title": "2. 郭艾伦受伤 [新]",
+          "value": "761179 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%AD%E8%89%BE%E4%BC%A6%E5%8F%97%E4%BC%A4&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 761179",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Guo Ailun injured..."
+          }
+        },
+        {
+          "title": "3. 中国将在哪些方向发力",
+          "value": "590634 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%9C%A8%E5%93%AA%E4%BA%9B%E6%96%B9%E5%90%91%E5%8F%91%E5%8A%9B&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 590634",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "In which areas will China focus its efforts?"
+          }
+        },
+        {
+          "title": "4. 华为乾崑896线激光雷达再创巅峰 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91896%E7%BA%BF%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E5%86%8D%E5%88%9B%E5%B7%85%E5%B3%B0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Huawei QianKun 896-line lidar reaches new heights..."
+          }
+        },
+        {
+          "title": "5. 春假清明连休6天家长称很无奈",
+          "value": "585753 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E5%81%87%E6%B8%85%E6%98%8E%E8%BF%9E%E4%BC%916%E5%A4%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E5%BE%88%E6%97%A0%E5%A5%88&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 585753",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Parents feel helpless about the 6-day Qingming spring..."
+          }
+        },
+        {
+          "title": "6. 建议不调休的代表被记者围住了 [重磅]",
+          "value": "231604 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%B0%83%E4%BC%91%E7%9A%84%E4%BB%A3%E8%A1%A8%E8%A2%AB%E8%AE%B0%E8%80%85%E5%9B%B4%E4%BD%8F%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 231604",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "The representative against time off was surrounded by..."
+          }
+        },
+        {
+          "title": "7. 伊朗发射带1吨重弹头导弹打以色列",
+          "value": "227241 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%B8%A61%E5%90%A8%E9%87%8D%E5%BC%B9%E5%A4%B4%E5%AF%BC%E5%BC%B9%E6%89%93%E4%BB%A5%E8%89%B2%E5%88%97&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 227241",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Iran launches missile with 1-ton warhead at Israel..."
+          }
+        },
+        {
+          "title": "8. 李宁品牌代言人白鹿 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%AE%81%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%E7%99%BD%E9%B9%BF&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "Li Ning brand ambassador Bai Lu..."
+          }
+        },
+        {
+          "title": "9. 两女子相隔7公里长得一模一样",
+          "value": "226975 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%9B%B8%E9%9A%947%E5%85%AC%E9%87%8C%E9%95%BF%E5%BE%97%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 226975",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Two women, 7 kilometers apart, look identical..."
+          }
+        },
+        {
+          "title": "10. 吕严我家那小子录制路透",
+          "value": "综艺 221211 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%95%E4%B8%A5%E6%88%91%E5%AE%B6%E9%82%A3%E5%B0%8F%E5%AD%90%E5%BD%95%E5%88%B6%E8%B7%AF%E9%80%8F&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "综艺 221211",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Lu Yan's son recorded behind-the-scenes footage..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-05T18:45:47+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Suicide case confirmed at Yichang psychiatric hospital..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-13T22:22:14+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 豆包红包",
-          "value": "1363019 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E7%BA%A2%E5%8C%85&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1363019",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Bean bag red envelope..."
-          }
-        },
-        {
-          "title": "2. 我家那小子首发阵容官宣",
-          "value": "综艺 875603 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%AE%B6%E9%82%A3%E5%B0%8F%E5%AD%90%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "综艺 875603",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The official announcement of my son's starting lineup..."
-          }
-        },
-        {
-          "title": "3. 回家路上随手拍",
-          "value": "700485 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%9E%E5%AE%B6%E8%B7%AF%E4%B8%8A%E9%9A%8F%E6%89%8B%E6%8B%8D&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 700485",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Casually snapped on the way home..."
-          }
-        },
-        {
-          "title": "4. 湖北精神病医院有关问题调查结果 [新]",
-          "value": "550541 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%96%E5%8C%97%E7%B2%BE%E7%A5%9E%E7%97%85%E5%8C%BB%E9%99%A2%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 550541",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Investigation results on issues at Hubei Psychiatric..."
-          }
-        },
-        {
-          "title": "5. 主人回应边牧凌晨下单100多个灯笼",
-          "value": "243030 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BB%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%BE%B9%E7%89%A7%E5%87%8C%E6%99%A8%E4%B8%8B%E5%8D%95100%E5%A4%9A%E4%B8%AA%E7%81%AF%E7%AC%BC&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 243030",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The owner responds to the border collie ordering over..."
-          }
-        },
-        {
-          "title": "6. 21岁孙子97岁奶奶都觉得对方很好带 [新]",
-          "value": "242955 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D21%E5%B2%81%E5%AD%99%E5%AD%9097%E5%B2%81%E5%A5%B6%E5%A5%B6%E9%83%BD%E8%A7%89%E5%BE%97%E5%AF%B9%E6%96%B9%E5%BE%88%E5%A5%BD%E5%B8%A6&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 242955",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "21-year-old grandson and 97-year-old grandma get along..."
-          }
-        },
-        {
-          "title": "7. 微博之夜 二刷",
-          "value": "盛典 210308 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E4%BA%8C%E5%88%B7&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "盛典 210308",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Weibo Night, second viewing..."
-          }
-        },
-        {
-          "title": "8. 官方回应湛江发现儒艮尸体",
-          "value": "174177 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B9%9B%E6%B1%9F%E5%8F%91%E7%8E%B0%E5%84%92%E8%89%AE%E5%B0%B8%E4%BD%93&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 174177",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Official response to dugong carcass found in Zhanjiang..."
-          }
-        },
-        {
-          "title": "9. 丞磊第20集6分47秒",
-          "value": "剧集 173757 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9E%E7%A3%8A%E7%AC%AC20%E9%9B%866%E5%88%8647%E7%A7%92&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 173757",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Cheng Lei, Episode 20, 6 minutes 47 seconds..."
-          }
-        },
-        {
-          "title": "10. 王者荣耀农家乐村晚",
-          "value": "172644 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%9C%E5%AE%B6%E4%B9%90%E6%9D%91%E6%99%9A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 172644",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Honor of Kings rural family gathering evening..."
           }
         }
       ]
