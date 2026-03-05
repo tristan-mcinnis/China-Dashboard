@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-05T14:11:08+08:00",
+  "generated_at": "2026-03-05T18:45:47+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-05T18:45:47+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 建议不调休的代表被记者围住了",
+          "value": "1092194 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%B0%83%E4%BC%91%E7%9A%84%E4%BB%A3%E8%A1%A8%E8%A2%AB%E8%AE%B0%E8%80%85%E5%9B%B4%E4%BD%8F%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1092194",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Representatives against time off were surrounded by..."
+          }
+        },
+        {
+          "title": "2. 建议医务人员薪酬不得与创收挂钩 [新]",
+          "value": "782010 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E8%96%AA%E9%85%AC%E4%B8%8D%E5%BE%97%E4%B8%8E%E5%88%9B%E6%94%B6%E6%8C%82%E9%92%A9&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 782010",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "It is suggested that medical staff salaries should not..."
+          }
+        },
+        {
+          "title": "3. 政府工作报告里的民生红包",
+          "value": "606109 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E7%BA%A2%E5%8C%85&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 606109",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The livelihood red envelope in the government work report..."
+          }
+        },
+        {
+          "title": "4. 尚界Z7双箭齐发",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%9A%E7%95%8CZ7%E5%8F%8C%E7%AE%AD%E9%BD%90%E5%8F%91&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Shangjie Z7 launches dual arrows simultaneously..."
+          }
+        },
+        {
+          "title": "5. 纯真年代的爱情 烂尾",
+          "value": "剧集 490514 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%AF%E7%9C%9F%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%88%B1%E6%83%85%20%E7%83%82%E5%B0%BE&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 490514",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The love of a pure era ended poorly..."
+          }
+        },
+        {
+          "title": "6. 建议优化大学生婚育教育体系 [官宣]",
+          "value": "291138 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E4%BC%98%E5%8C%96%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A9%9A%E8%82%B2%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 291138",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": "Suggest optimizing the marriage and childbirth education..."
+          }
+        },
+        {
+          "title": "7. 伊朗首次使用最快自杀式无人机",
+          "value": "279484 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%9C%80%E5%BF%AB%E8%87%AA%E6%9D%80%E5%BC%8F%E6%97%A0%E4%BA%BA%E6%9C%BA&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 279484",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Iran uses fastest suicide drone for the first time..."
+          }
+        },
+        {
+          "title": "8. 猫 讨厌和瘦子拍照 [新]",
+          "value": "247881 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8C%AB%20%E8%AE%A8%E5%8E%8C%E5%92%8C%E7%98%A6%E5%AD%90%E6%8B%8D%E7%85%A7&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 247881",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Cats hate taking photos with skinny people..."
+          }
+        },
+        {
+          "title": "9. 少夫人来自东北",
+          "value": "剧集 197372 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%91%E5%A4%AB%E4%BA%BA%E6%9D%A5%E8%87%AA%E4%B8%9C%E5%8C%97&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 197372",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The young lady is from Northeast China..."
+          }
+        },
+        {
+          "title": "10. 现在就出发",
+          "value": "综艺 197371 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "综艺 197371",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Let's set off now..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-05T14:11:08+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Honor of Kings rural family gathering evening..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-13T18:45:43+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 杭州大哥开1人公司靠AI月入200万",
-          "value": "1072637 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1072637",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Hangzhou man earns 2 million a month with AI in his solo..."
-          }
-        },
-        {
-          "title": "2. 13年后天娱又签了选秀冠军 [新]",
-          "value": "综艺 762905 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D13%E5%B9%B4%E5%90%8E%E5%A4%A9%E5%A8%B1%E5%8F%88%E7%AD%BE%E4%BA%86%E9%80%89%E7%A7%80%E5%86%A0%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "综艺 762905",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "After 13 years, Tianyu signed another talent show..."
-          }
-        },
-        {
-          "title": "3. 战马贺春热血沸腾",
-          "value": "619234 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%98%E9%A9%AC%E8%B4%BA%E6%98%A5%E7%83%AD%E8%A1%80%E6%B2%B8%E8%85%BE&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 619234",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "War horses celebrate spring with passionate fervor..."
-          }
-        },
-        {
-          "title": "4. TF家族新年音乐会纪录片",
-          "value": "演出 556369 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTF%E5%AE%B6%E6%97%8F%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "演出 556369",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "TF Family New Year Concert Documentary..."
-          }
-        },
-        {
-          "title": "5. 任子威首个且唯一1000米奥运冠军",
-          "value": "268923 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%BB%E5%AD%90%E5%A8%81%E9%A6%96%E4%B8%AA%E4%B8%94%E5%94%AF%E4%B8%801000%E7%B1%B3%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 268923",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Ren Ziwei, the first and only 1000m Olympic champion..."
-          }
-        },
-        {
-          "title": "6. 父母花了几十万装修的房子 [新]",
-          "value": "176637 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B6%E6%AF%8D%E8%8A%B1%E4%BA%86%E5%87%A0%E5%8D%81%E4%B8%87%E8%A3%85%E4%BF%AE%E7%9A%84%E6%88%BF%E5%AD%90&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 176637",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Parents spent hundreds of thousands on house renovations..."
-          }
-        },
-        {
-          "title": "7. 章若楠王安宇新剧开机",
-          "value": "176622 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%8E%8B%E5%AE%89%E5%AE%87%E6%96%B0%E5%89%A7%E5%BC%80%E6%9C%BA&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 176622",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zhang Ruonan and Wang Anyu's new drama begins filming..."
-          }
-        },
-        {
-          "title": "8. 公司利润2.7亿拿1.8亿发年终奖 [新]",
-          "value": "176082 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AC%E5%8F%B8%E5%88%A9%E6%B6%A62.7%E4%BA%BF%E6%8B%BF1.8%E4%BA%BF%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 176082",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "The company made a profit of 270 million, giving 180..."
-          }
-        },
-        {
-          "title": "9. 华为内部反腐通报",
-          "value": "175804 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E5%86%85%E9%83%A8%E5%8F%8D%E8%85%90%E9%80%9A%E6%8A%A5&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 175804",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Huawei's internal anti-corruption report..."
-          }
-        },
-        {
-          "title": "10. 沙特空军第一款隐身战机来自中国",
-          "value": "175370 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%99%E7%89%B9%E7%A9%BA%E5%86%9B%E7%AC%AC%E4%B8%80%E6%AC%BE%E9%9A%90%E8%BA%AB%E6%88%98%E6%9C%BA%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 175370",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Saudi Air Force's first stealth fighter jet comes from..."
           }
         }
       ]
