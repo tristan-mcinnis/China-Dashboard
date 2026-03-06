@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-06T11:20:05+08:00",
+  "generated_at": "2026-03-06T14:09:46+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-06T14:09:46+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 千问",
+          "value": "1078875 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AE&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1078875",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Thousand Questions..."
+          }
+        },
+        {
+          "title": "2. 多地官宣春假清明连休6天",
+          "value": "766553 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E6%98%A5%E5%81%87%E6%B8%85%E6%98%8E%E8%BF%9E%E4%BC%916%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 766553",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Multiple regions announce a 6-day spring holiday for..."
+          }
+        },
+        {
+          "title": "3. 十五五规划109项重大工程项目一览",
+          "value": "642321 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92109%E9%A1%B9%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E9%A1%B9%E7%9B%AE%E4%B8%80%E8%A7%88&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 642321",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Overview of 109 major projects in the 14th Five-Year Plan..."
+          }
+        },
+        {
+          "title": "4. 丰田铂智7预售权益价15.68万起",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%B0%E7%94%B0%E9%93%82%E6%99%BA7%E9%A2%84%E5%94%AE%E6%9D%83%E7%9B%8A%E4%BB%B715.68%E4%B8%87%E8%B5%B7&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Toyota Platinum Smart 7 pre-sale starts at 156,800..."
+          }
+        },
+        {
+          "title": "5. 被骂了千年的小动物们该翻身了",
+          "value": "307205 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB%E9%AA%82%E4%BA%86%E5%8D%83%E5%B9%B4%E7%9A%84%E5%B0%8F%E5%8A%A8%E7%89%A9%E4%BB%AC%E8%AF%A5%E7%BF%BB%E8%BA%AB%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 307205",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The little animals scorned for a thousand years should..."
+          }
+        },
+        {
+          "title": "6. 霸王茶姬免单 [上新]",
+          "value": "292979 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%85%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 292979",
+            "tag": "上新",
+            "api_source": "tianapi",
+            "translation": "Free order at Ba Wang Cha Ji..."
+          }
+        },
+        {
+          "title": "7. 伊朗军队誓为遭击沉军舰复仇",
+          "value": "286839 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%86%9B%E9%98%9F%E8%AA%93%E4%B8%BA%E9%81%AD%E5%87%BB%E6%B2%89%E5%86%9B%E8%88%B0%E5%A4%8D%E4%BB%87&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 286839",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Iranian military vows revenge for sunk warship..."
+          }
+        },
+        {
+          "title": "8. 柳州辟谣本地女子出轨同事感染HIV",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9F%B3%E5%B7%9E%E8%BE%9F%E8%B0%A3%E6%9C%AC%E5%9C%B0%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A8%E5%90%8C%E4%BA%8B%E6%84%9F%E6%9F%93HIV&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Liuzhou debunks rumor of local woman infecting colleague..."
+          }
+        },
+        {
+          "title": "9. 外国朋友以为中国也是一人一道菜",
+          "value": "268624 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E5%9B%BD%E6%9C%8B%E5%8F%8B%E4%BB%A5%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%B9%9F%E6%98%AF%E4%B8%80%E4%BA%BA%E4%B8%80%E9%81%93%E8%8F%9C&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 268624",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Foreign friends think each person in China has a dish..."
+          }
+        },
+        {
+          "title": "10. 村口小卖部里的全国人大代表 [热]",
+          "value": "259200 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%91%E5%8F%A3%E5%B0%8F%E5%8D%96%E9%83%A8%E9%87%8C%E7%9A%84%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 259200",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "The NPC representative at the village store..."
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-06T11:20:05+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Wang Hedi urged Huang Zitao to divorce Xu Yiyang..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-14T14:09:23+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 产检正常生出畸形儿医院被罚2.5万",
-          "value": "1083139 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E7%94%9F%E5%87%BA%E7%95%B8%E5%BD%A2%E5%84%BF%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A2.5%E4%B8%87&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1083139",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Hospital fined 25,000 for delivering deformed baby..."
-          }
-        },
-        {
-          "title": "2. 情人节",
-          "value": "765586 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%83%85%E4%BA%BA%E8%8A%82&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 765586",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Valentine's Day..."
-          }
-        },
-        {
-          "title": "3. 看电影的快乐正全面升级",
-          "value": "647002 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9C%8B%E7%94%B5%E5%BD%B1%E7%9A%84%E5%BF%AB%E4%B9%90%E6%AD%A3%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 647002",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The joy of watching movies is fully upgrading..."
-          }
-        },
-        {
-          "title": "4. 张萌说浪姐收手机是因为黄圣依",
-          "value": "626414 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E8%90%8C%E8%AF%B4%E6%B5%AA%E5%A7%90%E6%94%B6%E6%89%8B%E6%9C%BA%E6%98%AF%E5%9B%A0%E4%B8%BA%E9%BB%84%E5%9C%A3%E4%BE%9D&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 626414",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Zhang Meng said the phone ban on \"Sisters\" was due to..."
-          }
-        },
-        {
-          "title": "5. 成都天府大道事故酒驾司机全责",
-          "value": "328037 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%A4%A7%E9%81%93%E4%BA%8B%E6%95%85%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E5%85%A8%E8%B4%A3&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 328037",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chengdu Tianfu Avenue accident: drunk driver fully..."
-          }
-        },
-        {
-          "title": "6. 情人节红包 [新]",
-          "value": "277071 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%83%85%E4%BA%BA%E8%8A%82%E7%BA%A2%E5%8C%85&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 277071",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Valentine's Day red envelope..."
-          }
-        },
-        {
-          "title": "7. KPL春节太有福了",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKPL%E6%98%A5%E8%8A%82%E5%A4%AA%E6%9C%89%E7%A6%8F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "KPL is so blessed this Spring Festival..."
-          }
-        },
-        {
-          "title": "8. 黄大宪一直盯着看林孝埈 [新]",
-          "value": "209453 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%A4%A7%E5%AE%AA%E4%B8%80%E7%9B%B4%E7%9B%AF%E7%9D%80%E7%9C%8B%E6%9E%97%E5%AD%9D%E5%9F%88&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 209453",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Huang Daxian kept staring at Lin Xiaojun..."
-          }
-        },
-        {
-          "title": "9. 羽生结弦的含金量还在上升",
-          "value": "195305 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 195305",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Yuzuru Hanyu's value continues to rise..."
-          }
-        },
-        {
-          "title": "10. 百果园回应一根甘蔗卖87元",
-          "value": "175806 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%9B%9E%E5%BA%94%E4%B8%80%E6%A0%B9%E7%94%98%E8%94%97%E5%8D%9687%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 175806",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Baiguoyuan responds to selling a sugarcane for 87 yuan..."
           }
         }
       ]
