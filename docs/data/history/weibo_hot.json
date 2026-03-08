@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-08T22:12:30+08:00",
+  "generated_at": "2026-03-09T06:06:44+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-09T06:06:44+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 两艘万吨大驱亮相",
+          "value": "228610 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A4%E8%89%98%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E4%BA%AE%E7%9B%B8&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 228610",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 王毅向日本发出灵魂4问",
+          "value": "163816 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%AF%85%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E7%81%B5%E9%AD%824%E9%97%AE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 163816",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 从海底1万米到距地球4300万公里",
+          "value": "128692 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8E%E6%B5%B7%E5%BA%951%E4%B8%87%E7%B1%B3%E5%88%B0%E8%B7%9D%E5%9C%B0%E7%90%834300%E4%B8%87%E5%85%AC%E9%87%8C&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 128692",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 狂飙",
+          "value": "剧集 114650 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%82%E9%A3%99&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "剧集 114650",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 多家黄金品牌宣布调价",
+          "value": "90141 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E5%93%81%E7%89%8C%E5%AE%A3%E5%B8%83%E8%B0%83%E4%BB%B7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 90141",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 伊朗最高权力平稳过渡 [热]",
+          "value": "79158 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%9D%83%E5%8A%9B%E5%B9%B3%E7%A8%B3%E8%BF%87%E6%B8%A1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 79158",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 武大食堂4元熬夜水日销百斤",
+          "value": "46206 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%A6%E5%A4%A7%E9%A3%9F%E5%A0%824%E5%85%83%E7%86%AC%E5%A4%9C%E6%B0%B4%E6%97%A5%E9%94%80%E7%99%BE%E6%96%A4&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 46206",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 金晨孙阳偏偏喜欢你2杀青捧花 [热]",
+          "value": "电影 25092 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E6%99%A8%E5%AD%99%E9%98%B3%E5%81%8F%E5%81%8F%E5%96%9C%E6%AC%A2%E4%BD%A02%E6%9D%80%E9%9D%92%E6%8D%A7%E8%8A%B1&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "电影 25092",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 中国式现代化圈粉全球",
+          "value": "24143 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9C%88%E7%B2%89%E5%85%A8%E7%90%83&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 24143",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 我妈以为的早熟vs实际上的早熟 [热]",
+          "value": "23817 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E5%A6%88%E4%BB%A5%E4%B8%BA%E7%9A%84%E6%97%A9%E7%86%9Fvs%E5%AE%9E%E9%99%85%E4%B8%8A%E7%9A%84%E6%97%A9%E7%86%9F&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 23817",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-08T22:12:30+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "热",
             "api_source": "tianapi",
             "translation": "Gu Ailing wins silver in big air event..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-17T06:06:06+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 谷爱凌大跳台银牌",
-          "value": "528941 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%93%B6%E7%89%8C&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 528941",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gu Ailing wins silver in big air..."
-          }
-        },
-        {
-          "title": "2. 春晚收视率 [热]",
-          "value": "晚会 291483 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "晚会 291483",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Spring Festival Gala viewership ratings..."
-          }
-        },
-        {
-          "title": "3. 春晚分会场上大分",
-          "value": "169832 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E4%B8%8A%E5%A4%A7%E5%88%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 169832",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Spring Festival Gala's sub-venue features a grand..."
-          }
-        },
-        {
-          "title": "4. 与捷途共赴新年第一缕曙光",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8E%E6%8D%B7%E9%80%94%E5%85%B1%E8%B5%B4%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E7%BC%95%E6%9B%99%E5%85%89&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Embrace the first light of the New Year with Jietu..."
-          }
-        },
-        {
-          "title": "5. 王菲接了李谷一的班",
-          "value": "晚会 117867 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%8F%B2%E6%8E%A5%E4%BA%86%E6%9D%8E%E8%B0%B7%E4%B8%80%E7%9A%84%E7%8F%AD&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "晚会 117867",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Faye Wong took over Li Guyi's role..."
-          }
-        },
-        {
-          "title": "6. 春晚 [火热]",
-          "value": "110221 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%99%9A&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 110221",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Spring Festival Gala..."
-          }
-        },
-        {
-          "title": "7. 马丽单飞了 沈腾怎么办",
-          "value": "晚会 100822 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E4%B8%BD%E5%8D%95%E9%A3%9E%E4%BA%86%20%E6%B2%88%E8%85%BE%E6%80%8E%E4%B9%88%E5%8A%9E&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "晚会 100822",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Ma Li goes solo, what will Shen Teng do?"
-          }
-        },
-        {
-          "title": "8. 首秀封神魔法原子智造未来 [热]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%96%E7%A7%80%E5%B0%81%E7%A5%9E%E9%AD%94%E6%B3%95%E5%8E%9F%E5%AD%90%E6%99%BA%E9%80%A0%E6%9C%AA%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Debut of divine magic: atomic manufacturing for the..."
-          }
-        },
-        {
-          "title": "9. 谷爱凌刘梦婷大跳台决赛",
-          "value": "83994 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%B7%E7%88%B1%E5%87%8C%E5%88%98%E6%A2%A6%E5%A9%B7%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 83994",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Gu Ailing and Liu Mengting in the big air final..."
-          }
-        },
-        {
-          "title": "10. 王一博这一脚用了多大力气",
-          "value": "晚会 77562 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%99%E4%B8%80%E8%84%9A%E7%94%A8%E4%BA%86%E5%A4%9A%E5%A4%A7%E5%8A%9B%E6%B0%94&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "晚会 77562",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "How much force did Wang Yibo use for that kick?"
           }
         }
       ]
