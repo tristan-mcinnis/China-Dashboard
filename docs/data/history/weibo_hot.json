@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-15T22:17:22+08:00",
+  "generated_at": "2026-03-16T06:08:23+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-16T06:08:23+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 315曝光名单",
+          "value": "309945 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D315%E6%9B%9D%E5%85%89%E5%90%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 309945",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 有友食品声明 [热]",
+          "value": "216335 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E5%8F%8B%E9%A3%9F%E5%93%81%E5%A3%B0%E6%98%8E&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 216335",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 网警提醒看不见的虚假更要防",
+          "value": "175280 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%92%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E8%99%9A%E5%81%87%E6%9B%B4%E8%A6%81%E9%98%B2&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 175280",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 周小闹回应刘文祥塌房",
+          "value": "65647 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E5%B0%8F%E9%97%B9%E5%9B%9E%E5%BA%94%E5%88%98%E6%96%87%E7%A5%A5%E5%A1%8C%E6%88%BF&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 65647",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 315曝光的鸡爪公司股东也在看晚会",
+          "value": "56099 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D315%E6%9B%9D%E5%85%89%E7%9A%84%E9%B8%A1%E7%88%AA%E5%85%AC%E5%8F%B8%E8%82%A1%E4%B8%9C%E4%B9%9F%E5%9C%A8%E7%9C%8B%E6%99%9A%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 56099",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 伊朗发射泥石弹道导弹 [热]",
+          "value": "55641 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E6%B3%A5%E7%9F%B3%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 55641",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 椰子水 兑水加糖",
+          "value": "48622 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A4%B0%E5%AD%90%E6%B0%B4%20%E5%85%91%E6%B0%B4%E5%8A%A0%E7%B3%96&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 48622",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 给AI投毒",
+          "value": "43373 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%99AI%E6%8A%95%E6%AF%92&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 43373",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 外泌体",
+          "value": "42683 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E6%B3%8C%E4%BD%93&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 42683",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 医美骗局 [热]",
+          "value": "39769 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E7%BE%8E%E9%AA%97%E5%B1%80&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 39769",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-15T22:17:22+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Last minute footage of free highway access..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-02-24T06:15:21+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 误转69万公款对方拒绝退款",
-          "value": "265667 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AF%AF%E8%BD%AC69%E4%B8%87%E5%85%AC%E6%AC%BE%E5%AF%B9%E6%96%B9%E6%8B%92%E7%BB%9D%E9%80%80%E6%AC%BE&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 265667",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Transferred 690,000 public funds by mistake; refund refused."
-          }
-        },
-        {
-          "title": "2. 夜王 尺度 [热]",
-          "value": "电影 197232 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9C%E7%8E%8B%20%E5%B0%BA%E5%BA%A6&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "电影 197232",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Night King Scale..."
-          }
-        },
-        {
-          "title": "3. 在全党开展树立和践行正确政绩观学习教育",
-          "value": "157305 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%A8%E5%85%A8%E5%85%9A%E5%BC%80%E5%B1%95%E6%A0%91%E7%AB%8B%E5%92%8C%E8%B7%B5%E8%A1%8C%E6%AD%A3%E7%A1%AE%E6%94%BF%E7%BB%A9%E8%A7%82%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 157305",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Promote education on establishing a correct view of..."
-          }
-        },
-        {
-          "title": "4. 和汪苏泷上淘宝闪购喝开工第一杯",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8C%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%B8%8A%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%96%9D%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E6%9D%AF&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Shop on Taobao with Wang Sulong for the first cup..."
-          }
-        },
-        {
-          "title": "5. 墨西哥毒枭身亡事件华人发声",
-          "value": "58970 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%AF%92%E6%9E%AD%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E5%8D%8E%E4%BA%BA%E5%8F%91%E5%A3%B0&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 58970",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Chinese community speaks out on Mexican drug lord's death..."
-          }
-        },
-        {
-          "title": "6. 原来全麻手术不是睡着了 [火热]",
-          "value": "38414 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E5%85%A8%E9%BA%BB%E6%89%8B%E6%9C%AF%E4%B8%8D%E6%98%AF%E7%9D%A1%E7%9D%80%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 38414",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "It turns out general anesthesia doesn't mean you're..."
-          }
-        },
-        {
-          "title": "7. 鸟中刘亦菲也扛不了后置镜头怼脸拍",
-          "value": "33345 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B8%9F%E4%B8%AD%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BA%86%E5%90%8E%E7%BD%AE%E9%95%9C%E5%A4%B4%E6%80%BC%E8%84%B8%E6%8B%8D&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 33345",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Even Liu Yifei can't handle being filmed up close..."
-          }
-        },
-        {
-          "title": "8. 徐梦桃拆台说并不享受做家务 [热]",
-          "value": "30871 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%90%E6%A2%A6%E6%A1%83%E6%8B%86%E5%8F%B0%E8%AF%B4%E5%B9%B6%E4%B8%8D%E4%BA%AB%E5%8F%97%E5%81%9A%E5%AE%B6%E5%8A%A1&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 30871",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": "Xu Mengtao admits she doesn't enjoy doing housework..."
-          }
-        },
-        {
-          "title": "9. 不让江山剧组声明",
-          "value": "剧集 30738 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8D%E8%AE%A9%E6%B1%9F%E5%B1%B1%E5%89%A7%E7%BB%84%E5%A3%B0%E6%98%8E&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 30738",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The Jiangshan crew's statement is not allowed..."
-          }
-        },
-        {
-          "title": "10. 上班",
-          "value": "29768 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E7%8F%AD&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 29768",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Going to work..."
           }
         }
       ]
