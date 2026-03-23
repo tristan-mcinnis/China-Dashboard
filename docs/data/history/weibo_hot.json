@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-23T14:22:08+08:00",
+  "generated_at": "2026-03-23T18:49:56+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-23T18:49:56+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 对国内成品油价格采取临时调控",
+          "value": "1124331 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AF%B9%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E9%87%87%E5%8F%96%E4%B8%B4%E6%97%B6%E8%B0%83%E6%8E%A7&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1124331",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 教师称退群后家长转为点对点私聊 [新]",
+          "value": "819908 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%95%99%E5%B8%88%E7%A7%B0%E9%80%80%E7%BE%A4%E5%90%8E%E5%AE%B6%E9%95%BF%E8%BD%AC%E4%B8%BA%E7%82%B9%E5%AF%B9%E7%82%B9%E7%A7%81%E8%81%8A&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 819908",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 微厘空间02组卫星发射圆满成功",
+          "value": "627251 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E5%8E%98%E7%A9%BA%E9%97%B402%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 627251",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 华为春季全场景新品发布会",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E6%98%A5%E5%AD%A3%E5%85%A8%E5%9C%BA%E6%99%AF%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 开始推理吧",
+          "value": "综艺 343806 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%80%E5%A7%8B%E6%8E%A8%E7%90%86%E5%90%A7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "综艺 343806",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 去年没换手机的人后悔了吗 [官宣]",
+          "value": "293198 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%BB%E5%B9%B4%E6%B2%A1%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 293198",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 逐玉第二",
+          "value": "剧集 285600 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%90%E7%8E%89%E7%AC%AC%E4%BA%8C&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 285600",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 今日辟谣 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 豆瓣评分",
+          "value": "225450 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 225450",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 周大生回应戒指印着周大金",
+          "value": "212073 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E5%A4%A7%E7%94%9F%E5%9B%9E%E5%BA%94%E6%88%92%E6%8C%87%E5%8D%B0%E7%9D%80%E5%91%A8%E5%A4%A7%E9%87%91&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 212073",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-23T14:22:08+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "新",
             "api_source": "tianapi",
             "translation": "Four Beauties of the Lantern Festival Gala..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-03T18:45:44+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 月全食",
-          "value": "1142899 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%88%E5%85%A8%E9%A3%9F&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1142899",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Total lunar eclipse..."
-          }
-        },
-        {
-          "title": "2. 深圳租金涨了 [新]",
-          "value": "825596 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B7%B1%E5%9C%B3%E7%A7%9F%E9%87%91%E6%B6%A8%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 825596",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Rent in Shenzhen has increased."
-          }
-        },
-        {
-          "title": "3. 全国政协十四届四次会议新闻发布会",
-          "value": "666595 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 666595",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Press conference for the 14th National Committee of CPPCC..."
-          }
-        },
-        {
-          "title": "4. 建议禁止16岁以下使用社媒",
-          "value": "597405 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E7%A6%81%E6%AD%A216%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BD%BF%E7%94%A8%E7%A4%BE%E5%AA%92&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 597405",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Suggest banning social media for those under 16..."
-          }
-        },
-        {
-          "title": "5. 元宵节",
-          "value": "560715 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%83%E5%AE%B5%E8%8A%82&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 560715",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Lantern Festival..."
-          }
-        },
-        {
-          "title": "6. 伊朗称向美航母发射4枚巡航导弹",
-          "value": "552042 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%90%91%E7%BE%8E%E8%88%AA%E6%AF%8D%E5%8F%91%E5%B0%844%E6%9E%9A%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 552042",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Iran claims to have launched 4 cruise missiles at a US..."
-          }
-        },
-        {
-          "title": "7. AI先锋天团亮相MWC",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAI%E5%85%88%E9%94%8B%E5%A4%A9%E5%9B%A2%E4%BA%AE%E7%9B%B8MWC&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "AI pioneer team debuts at MWC..."
-          }
-        },
-        {
-          "title": "8. 世界油阀关闭",
-          "value": "363436 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%96%E7%95%8C%E6%B2%B9%E9%98%80%E5%85%B3%E9%97%AD&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 363436",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Global oil valves shut down..."
-          }
-        },
-        {
-          "title": "9. 刘文祥麻辣烫暂停新合作",
-          "value": "292433 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%9A%82%E5%81%9C%E6%96%B0%E5%90%88%E4%BD%9C&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 292433",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Liu Wenxiang's spicy hot pot suspends new collaborations..."
-          }
-        },
-        {
-          "title": "10. 刘文祥头像",
-          "value": "209269 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E6%96%87%E7%A5%A5%E5%A4%B4%E5%83%8F&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 209269",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Liu Wenxiang's profile picture..."
           }
         }
       ]
