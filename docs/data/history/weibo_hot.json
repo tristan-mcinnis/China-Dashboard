@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-24T14:20:48+08:00",
+  "generated_at": "2026-03-24T18:49:46+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-24T18:49:46+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 张雪峰",
+          "value": "9029954 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9B%AA%E5%B3%B0&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 9029954",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 合伙人回应张雪峰心脏骤停抢救传闻 [新]",
+          "value": "2329945 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%88%E4%BC%99%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%8A%A2%E6%95%91%E4%BC%A0%E9%97%BB&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 2329945",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 打卡春天里的大美中国",
+          "value": "1899059 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%89%93%E5%8D%A1%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1899059",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 助理回应张雪峰心脏骤停抢救传闻",
+          "value": "5809273 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8A%A9%E7%90%86%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%8A%A2%E6%95%91%E4%BC%A0%E9%97%BB&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 5809273",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 4岁女童就诊177次患者是母亲",
+          "value": "583980 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D4%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B0%B1%E8%AF%8A177%E6%AC%A1%E6%82%A3%E8%80%85%E6%98%AF%E6%AF%8D%E4%BA%B2&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 583980",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 以色列被打穿了 [爆]",
+          "value": "438460 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AB%E6%89%93%E7%A9%BF%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 438460",
+            "tag": "爆",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 上京东买王濛的大魔王一加15T",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E4%BA%AC%E4%B8%9C%E4%B9%B0%E7%8E%8B%E6%BF%9B%E7%9A%84%E5%A4%A7%E9%AD%94%E7%8E%8B%E4%B8%80%E5%8A%A015T&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 53岁独身女子去世留下600万遗产",
+          "value": "347829 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D53%E5%B2%81%E7%8B%AC%E8%BA%AB%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B600%E4%B8%87%E9%81%97%E4%BA%A7&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 347829",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 中方要求日方立即彻查严惩",
+          "value": "294159 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E8%A6%81%E6%B1%82%E6%97%A5%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%BD%BB%E6%9F%A5%E4%B8%A5%E6%83%A9&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 294159",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 外交部回应日方拟将中日关系降级 [热]",
+          "value": "247697 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E6%8B%9F%E5%B0%86%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E9%99%8D%E7%BA%A7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 247697",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-24T14:20:48+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "IF Coconut Water's solemn statement..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-04T18:45:11+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 委员建议00后不要进入加班文化",
-          "value": "1080808 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE00%E5%90%8E%E4%B8%8D%E8%A6%81%E8%BF%9B%E5%85%A5%E5%8A%A0%E7%8F%AD%E6%96%87%E5%8C%96&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1080808",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Committee suggests post-00s avoid overtime culture..."
-          }
-        },
-        {
-          "title": "2. IF椰子水严正声明 [新]",
-          "value": "796735 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DIF%E6%A4%B0%E5%AD%90%E6%B0%B4%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 796735",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "IF Coconut Water's solemn statement..."
-          }
-        },
-        {
-          "title": "3. 开放的中国现代化的中国",
-          "value": "641816 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E4%B8%AD%E5%9B%BD&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 641816",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "An open and modernized China..."
-          }
-        },
-        {
-          "title": "4. 奥迪破马年吉尼斯世界纪录",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%A5%E8%BF%AA%E7%A0%B4%E9%A9%AC%E5%B9%B4%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Audi sets Guinness World Record for Year of the Rabbit..."
-          }
-        },
-        {
-          "title": "5. 热水器不能一开一关",
-          "value": "563916 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%83%AD%E6%B0%B4%E5%99%A8%E4%B8%8D%E8%83%BD%E4%B8%80%E5%BC%80%E4%B8%80%E5%85%B3&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 563916",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The water heater shouldn't be turned on and off..."
-          }
-        },
-        {
-          "title": "6. 建议推广农村不超过2万彩礼 [火热]",
-          "value": "276071 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E6%8E%A8%E5%B9%BF%E5%86%9C%E6%9D%91%E4%B8%8D%E8%B6%85%E8%BF%872%E4%B8%87%E5%BD%A9%E7%A4%BC&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 276071",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": "Suggest promoting a bride price of no more than 20,000..."
-          }
-        },
-        {
-          "title": "7. 中东局势彻底失控",
-          "value": "275346 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 275346",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The situation in the Middle East is completely out of..."
-          }
-        },
-        {
-          "title": "8. 天猫全明星春日来新",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E7%8C%AB%E5%85%A8%E6%98%8E%E6%98%9F%E6%98%A5%E6%97%A5%E6%9D%A5%E6%96%B0&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Tmall All-Star Spring is here..."
-          }
-        },
-        {
-          "title": "9. 2025年立法工作取得新进展",
-          "value": "250774 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%B9%B4%E7%AB%8B%E6%B3%95%E5%B7%A5%E4%BD%9C%E5%8F%96%E5%BE%97%E6%96%B0%E8%BF%9B%E5%B1%95&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 250774",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "New progress in legislative work by 2025..."
-          }
-        },
-        {
-          "title": "10. 花店老板 死手快点绑啊",
-          "value": "238751 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%B1%E5%BA%97%E8%80%81%E6%9D%BF%20%E6%AD%BB%E6%89%8B%E5%BF%AB%E7%82%B9%E7%BB%91%E5%95%8A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 238751",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Florist, hurry up and tie him up..."
           }
         }
       ]
