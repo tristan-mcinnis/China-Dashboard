@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-03-25T14:20:42+08:00",
+  "generated_at": "2026-03-25T18:49:09+08:00",
   "entries": [
+    {
+      "as_of": "2026-03-25T18:49:09+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 于东来宣布每人退3000元",
+          "value": "1258514 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%AE%A3%E5%B8%83%E6%AF%8F%E4%BA%BA%E9%80%803000%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1258514",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 统一后台湾民众可以自驾直达北京",
+          "value": "872074 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%9F%E4%B8%80%E5%90%8E%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E5%8F%AF%E4%BB%A5%E8%87%AA%E9%A9%BE%E7%9B%B4%E8%BE%BE%E5%8C%97%E4%BA%AC&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 872074",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 9年时间雄安新区长成了啥模样",
+          "value": "698985 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D9%E5%B9%B4%E6%97%B6%E9%97%B4%E9%9B%84%E5%AE%89%E6%96%B0%E5%8C%BA%E9%95%BF%E6%88%90%E4%BA%86%E5%95%A5%E6%A8%A1%E6%A0%B7&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 698985",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 896线版智界R7发布即交付",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D896%E7%BA%BF%E7%89%88%E6%99%BA%E7%95%8CR7%E5%8F%91%E5%B8%83%E5%8D%B3%E4%BA%A4%E4%BB%98&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 王俊凯专辑概念预告",
+          "value": "音乐 449560 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%93%E8%BE%91%E6%A6%82%E5%BF%B5%E9%A2%84%E5%91%8A&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "音乐 449560",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 四川乐山一公交车车身广告语引争议 [焕新]",
+          "value": "441021 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%BD%A6%E8%BA%AB%E5%B9%BF%E5%91%8A%E8%AF%AD%E5%BC%95%E4%BA%89%E8%AE%AE&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 441021",
+            "tag": "焕新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 伊朗声明通行霍尔木兹海峡船只条件",
+          "value": "437924 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%A3%B0%E6%98%8E%E9%80%9A%E8%A1%8C%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%88%B9%E5%8F%AA%E6%9D%A1%E4%BB%B6&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 437924",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 小猫不洗头为什么脑袋不臭 [新]",
+          "value": "429098 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%8C%AB%E4%B8%8D%E6%B4%97%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%84%91%E8%A2%8B%E4%B8%8D%E8%87%AD&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 429098",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 耳帝评价周杰伦新专辑",
+          "value": "音乐 421105 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%80%B3%E5%B8%9D%E8%AF%84%E4%BB%B7%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "音乐 421105",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 3个旧手机能换一台iPhone",
+          "value": "338739 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E4%B8%AA%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8D%A2%E4%B8%80%E5%8F%B0iPhone&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 338739",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-03-25T14:20:42+08:00",
       "source": "Weibo Hot Search",
@@ -12472,132 +12598,6 @@
             "tag": "",
             "api_source": "tianapi",
             "translation": "Lu Yan's son recorded behind-the-scenes footage..."
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-05T18:45:47+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 建议不调休的代表被记者围住了",
-          "value": "1092194 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%B0%83%E4%BC%91%E7%9A%84%E4%BB%A3%E8%A1%A8%E8%A2%AB%E8%AE%B0%E8%80%85%E5%9B%B4%E4%BD%8F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1092194",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Representatives against time off were surrounded by..."
-          }
-        },
-        {
-          "title": "2. 建议医务人员薪酬不得与创收挂钩 [新]",
-          "value": "782010 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E8%96%AA%E9%85%AC%E4%B8%8D%E5%BE%97%E4%B8%8E%E5%88%9B%E6%94%B6%E6%8C%82%E9%92%A9&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 782010",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "It is suggested that medical staff salaries should not..."
-          }
-        },
-        {
-          "title": "3. 政府工作报告里的民生红包",
-          "value": "606109 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E7%BA%A2%E5%8C%85&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 606109",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The livelihood red envelope in the government work report..."
-          }
-        },
-        {
-          "title": "4. 尚界Z7双箭齐发",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%9A%E7%95%8CZ7%E5%8F%8C%E7%AE%AD%E9%BD%90%E5%8F%91&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Shangjie Z7 launches dual arrows simultaneously..."
-          }
-        },
-        {
-          "title": "5. 纯真年代的爱情 烂尾",
-          "value": "剧集 490514 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BA%AF%E7%9C%9F%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%88%B1%E6%83%85%20%E7%83%82%E5%B0%BE&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 490514",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The love of a pure era ended poorly..."
-          }
-        },
-        {
-          "title": "6. 建议优化大学生婚育教育体系 [官宣]",
-          "value": "291138 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E4%BC%98%E5%8C%96%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A9%9A%E8%82%B2%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 291138",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": "Suggest optimizing the marriage and childbirth education..."
-          }
-        },
-        {
-          "title": "7. 伊朗首次使用最快自杀式无人机",
-          "value": "279484 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%9C%80%E5%BF%AB%E8%87%AA%E6%9D%80%E5%BC%8F%E6%97%A0%E4%BA%BA%E6%9C%BA&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 279484",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Iran uses fastest suicide drone for the first time..."
-          }
-        },
-        {
-          "title": "8. 猫 讨厌和瘦子拍照 [新]",
-          "value": "247881 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8C%AB%20%E8%AE%A8%E5%8E%8C%E5%92%8C%E7%98%A6%E5%AD%90%E6%8B%8D%E7%85%A7&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 247881",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": "Cats hate taking photos with skinny people..."
-          }
-        },
-        {
-          "title": "9. 少夫人来自东北",
-          "value": "剧集 197372 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%91%E5%A4%AB%E4%BA%BA%E6%9D%A5%E8%87%AA%E4%B8%9C%E5%8C%97&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 197372",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "The young lady is from Northeast China..."
-          }
-        },
-        {
-          "title": "10. 现在就出发",
-          "value": "综艺 197371 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "综艺 197371",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": "Let's set off now..."
           }
         }
       ]
