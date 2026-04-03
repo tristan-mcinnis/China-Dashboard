@@ -1,4 +1,4 @@
-"""Collector for The Paper (澎湃新闻) RSS feed with GPT-powered translations."""
+"""Collector for The Paper (澎湃新闻) RSS feed with DeepSeek translations."""
 
 from __future__ import annotations
 
@@ -8,6 +8,7 @@ from html import unescape
 from pathlib import Path
 from typing import Iterable, List
 from datetime import datetime, timezone
+from urllib.parse import urlencode
 import re
 
 if __name__ == "__main__" and __package__ is None:
@@ -30,8 +31,22 @@ OUT = "docs/data/thepaper_news.json"
 HISTORY_OUT = "docs/data/history/thepaper_news.json"
 MAX_ITEMS = 20
 
-# The Paper RSS feed URL
-FEED_URL = "https://feedx.net/rss/thepaper.xml"
+# Use Google News RSS as proxy — the previous feedx.net/rss/thepaper.xml
+# feed stopped updating in December 2025.
+GOOGLE_NEWS_BASE = "https://news.google.com/rss/search"
+GOOGLE_COMMON_PARAMS = {
+    "hl": "zh-CN",
+    "gl": "CN",
+    "ceid": "CN:zh-Hans",
+}
+
+FEED_QUERY = "site:thepaper.cn when:1d"
+
+
+def _google_feed_url(query: str) -> str:
+    params = dict(GOOGLE_COMMON_PARAMS)
+    params["q"] = query
+    return f"{GOOGLE_NEWS_BASE}?{urlencode(params)}"
 
 
 def _entry_timestamp(entry: feedparser.FeedParserDict) -> str:
@@ -62,7 +77,7 @@ def _strip_html(text: str) -> str:
 
 
 def fetch_thepaper_news(max_items: int = MAX_ITEMS) -> List[dict]:
-    """Fetch and translate top stories from The Paper RSS feed."""
+    """Fetch and translate top stories from The Paper via Google News RSS."""
 
     headers = base_headers()
     headers["User-Agent"] = (
@@ -72,8 +87,9 @@ def fetch_thepaper_news(max_items: int = MAX_ITEMS) -> List[dict]:
 
     all_items: List[dict] = []
 
+    feed_url = _google_feed_url(FEED_QUERY)
     try:
-        feed = feedparser.parse(FEED_URL, request_headers=dict(headers))
+        feed = feedparser.parse(feed_url, request_headers=dict(headers))
     except Exception as exc:
         print(f"Failed to fetch The Paper RSS feed: {exc}")
         return all_items
@@ -103,11 +119,11 @@ def fetch_thepaper_news(max_items: int = MAX_ITEMS) -> List[dict]:
             or ""
         )
 
-        # Clean up title if needed
+        # Clean up title — Google News appends " - thepaper.cn" or source name
         if " - " in title:
             title = title.split(" - ", 1)[0].strip()
 
-        # Translate the title using GPT-4o-mini
+        # Translate the title using DeepSeek
         translation = translate_text(title) if title else ""
 
         # Extract category from entry tags if available
@@ -125,7 +141,7 @@ def fetch_thepaper_news(max_items: int = MAX_ITEMS) -> List[dict]:
                     "category": category or "新闻",
                     "published": _entry_timestamp(entry),
                     "summary": summary,
-                    "source_feed": FEED_URL,
+                    "source_feed": feed_url,
                     "source_name": "澎湃新闻",
                     "translation": translation,
                 },
@@ -138,7 +154,7 @@ def fetch_thepaper_news(max_items: int = MAX_ITEMS) -> List[dict]:
 def main() -> None:
     items = fetch_thepaper_news()
     payload = schema("The Paper (澎湃新闻)", items)
-    write_with_history(OUT, HISTORY_OUT, payload)
+    write_with_history(OUT, HISTORY_OUT, payload, min_items=1)
 
 
 if __name__ == "__main__":

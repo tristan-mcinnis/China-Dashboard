@@ -259,7 +259,7 @@ def fetch_baidu_top(max_items: int = 10):
 def main() -> None:
     items = fetch_baidu_top()
     payload = schema(source="Baidu Top Realtime", items=items)
-    write_with_history(OUT, HISTORY_OUT, payload)
+    write_with_history(OUT, HISTORY_OUT, payload, min_items=1)
 
 
 if __name__ == "__main__":

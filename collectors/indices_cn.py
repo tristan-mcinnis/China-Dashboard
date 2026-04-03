@@ -43,13 +43,15 @@ def fetch_quote(symbol: str):
                         result = data["chart"]["result"][0]
                         meta = result.get("meta", {})
                         if meta.get("regularMarketPrice"):
+                            prev = meta.get("previousClose")
+                            price = meta.get("regularMarketPrice")
                             return {
-                                "value": meta.get("regularMarketPrice"),
-                                "chg_pct": ((meta.get("regularMarketPrice", 0) - meta.get("previousClose", 0)) / meta.get("previousClose", 1)) * 100 if meta.get("previousClose") else None,
+                                "value": price,
+                                "chg_pct": ((price - prev) / prev) * 100 if prev else None,
                                 "ts": meta.get("regularMarketTime"),
                             }
-            except Exception:
-                pass
+            except Exception as e:
+                print(f"Index fetch attempt {attempt + 1} failed for {symbol}: {e}")
             backoff_sleep(attempt)
 
     # Fallback with sample-like data but clearly marked

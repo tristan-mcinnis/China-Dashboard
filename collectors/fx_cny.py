@@ -43,13 +43,15 @@ def fetch_fx(symbol: str):
                         result = data["chart"]["result"][0]
                         meta = result.get("meta", {})
                         if meta.get("regularMarketPrice"):
+                            prev = meta.get("previousClose")
+                            price = meta.get("regularMarketPrice")
                             return {
-                                "value": meta.get("regularMarketPrice"),
-                                "chg_pct": ((meta.get("regularMarketPrice", 0) - meta.get("previousClose", 0)) / meta.get("previousClose", 1)) * 100 if meta.get("previousClose") else None,
+                                "value": price,
+                                "chg_pct": ((price - prev) / prev) * 100 if prev else None,
                                 "ts": meta.get("regularMarketTime"),
                             }
-            except Exception:
-                pass
+            except Exception as e:
+                print(f"FX fetch attempt {attempt + 1} failed for {symbol}: {e}")
             backoff_sleep(attempt)
 
     # Try alternative free FX API
@@ -62,8 +64,8 @@ def fetch_fx(symbol: str):
             if "rates" in data and "CNY" in data["rates"]:
                 cny_rate = data["rates"]["CNY"]
                 return {"value": cny_rate, "chg_pct": 0, "ts": None}
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"FX fallback API failed for {symbol}: {e}")
 
     # Fallback with realistic FX rates — marked as stale
     fallback_rates = {

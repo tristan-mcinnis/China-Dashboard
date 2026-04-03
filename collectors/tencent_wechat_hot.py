@@ -139,23 +139,23 @@ def fetch_wechat_hot(max_items: int = 10):
                             else:
                                 score_display = f"指数 {heat_index}"
 
-                        url = ""
+                        link = ""
                         for url_key in ("url", "link", "source_url", "newsurl"):
                             raw_url = item.get(url_key)
                             if isinstance(raw_url, str) and raw_url.strip():
-                                url = raw_url.strip()
+                                link = raw_url.strip()
                                 break
 
-                        if not url:
+                        if not link:
                             encoded_query = quote_plus(topic)
-                            url = f"https://weixin.sogou.com/weixin?type=2&query={encoded_query}"
+                            link = f"https://weixin.sogou.com/weixin?type=2&query={encoded_query}"
 
                         translation = translate_text(topic)
 
                         items.append({
                             "title": f"{i}. {topic}",
                             "value": score_display,
-                            "url": url,
+                            "url": link,
                             "extra": {
                                 "rank": i,
                                 "raw_score": heat_index,
@@ -180,7 +180,7 @@ def fetch_wechat_hot(max_items: int = 10):
 
 def main() -> None:
     items = fetch_wechat_hot()
-    write_with_history(OUT, HISTORY_OUT, schema("Tencent WeChat Hot Topics", items))
+    write_with_history(OUT, HISTORY_OUT, schema("Tencent WeChat Hot Topics", items), min_items=1)
 
 
 if __name__ == "__main__":

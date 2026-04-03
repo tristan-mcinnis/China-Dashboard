@@ -70,8 +70,8 @@ def fetch_property_data():
                         "url": "https://data.stats.gov.cn/english/easyquery.htm",
                         "extra": {"description": "70-City Second-hand Home Price Index MoM", "date": report_date},
                     })
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"NBS national property data fetch failed: {e}")
 
     # Also try to get tier-1 city data (Beijing, Shanghai, Shenzhen, Guangzhou)
     tier1_cities = ["北京", "上海", "深圳", "广州"]
@@ -100,7 +100,8 @@ def fetch_property_data():
                             "url": "https://data.stats.gov.cn/english/easyquery.htm",
                             "extra": {"description": f"{city_en[city]} New Home Price Index YoY", "date": report_date},
                         })
-        except Exception:
+        except Exception as e:
+            print(f"Property data fetch failed for {city}: {e}")
             continue
 
     return items

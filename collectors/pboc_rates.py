@@ -78,8 +78,8 @@ def fetch_rates():
                     "url": "https://tradingeconomics.com/china/interest-rate",
                     "extra": {"description": "PBOC Benchmark Interest Rate"},
                 })
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"Trading Economics fetch failed: {e}")
 
     # Source 2: Try East Money API (Chinese financial data)
     try:
@@ -113,8 +113,8 @@ def fetch_rates():
                         "url": "http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/index.html",
                         "extra": {"description": "5-Year Loan Prime Rate", "date": report_date},
                     })
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"EastMoney LPR fetch failed: {e}")
 
     # If we got real data, return it
     if items:

@@ -295,7 +295,7 @@ def fetch_ladymax_news(max_items: int = MAX_ITEMS) -> List[dict]:
 def main() -> None:
     items = fetch_ladymax_news()
     payload = schema("LadyMax 时尚头条网", items)
-    write_with_history(OUT, HISTORY_OUT, payload)
+    write_with_history(OUT, HISTORY_OUT, payload, min_items=1)
 
 
 if __name__ == "__main__":

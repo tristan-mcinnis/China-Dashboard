@@ -153,7 +153,7 @@ def fetch_xinhua_news(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
 def main() -> None:
     items = fetch_xinhua_news()
     payload = schema("Xinhua News Agency RSS", items)
-    write_with_history(OUT, HISTORY_OUT, payload)
+    write_with_history(OUT, HISTORY_OUT, payload, min_items=1)
 
 
 if __name__ == "__main__":
