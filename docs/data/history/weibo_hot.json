@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-03T22:21:55+08:00",
+  "generated_at": "2026-04-04T06:07:35+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-04T06:07:35+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 女生午睡5小时被领导警告发视频哭诉",
+          "value": "242259 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E8%A2%AB%E9%A2%86%E5%AF%BC%E8%AD%A6%E5%91%8A%E5%8F%91%E8%A7%86%E9%A2%91%E5%93%AD%E8%AF%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 242259",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 与辉同行宣布全额退款 [热]",
+          "value": "177135 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%AE%A3%E5%B8%83%E5%85%A8%E9%A2%9D%E9%80%80%E6%AC%BE&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 177135",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 赏花踏青特色主题专列来了",
+          "value": "144534 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%8F%E8%8A%B1%E8%B8%8F%E9%9D%92%E7%89%B9%E8%89%B2%E4%B8%BB%E9%A2%98%E4%B8%93%E5%88%97%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 144534",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 美战机在伊朗坠毁美军展开搜救",
+          "value": "60931 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E6%88%98%E6%9C%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%9D%A0%E6%AF%81%E7%BE%8E%E5%86%9B%E5%B1%95%E5%BC%80%E6%90%9C%E6%95%91&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 60931",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 当你过午不食六个月",
+          "value": "57437 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%93%E4%BD%A0%E8%BF%87%E5%8D%88%E4%B8%8D%E9%A3%9F%E5%85%AD%E4%B8%AA%E6%9C%88&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 57437",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 工信部紧急提醒苹果用户",
+          "value": "57082 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 57082",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 以色列铁穹被伊朗击穿",
+          "value": "53442 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A5%E8%89%B2%E5%88%97%E9%93%81%E7%A9%B9%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E7%A9%BF&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 53442",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 马兴瑞涉嫌严重违纪违法",
+          "value": "47338 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 47338",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 优思益称无力售后",
+          "value": "43598 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%98%E6%80%9D%E7%9B%8A%E7%A7%B0%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 43598",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 孟村杀妻案金昊已被执行死刑 [热]",
+          "value": "39498 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 39498",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-03T22:21:55+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 206729",
             "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-15T06:07:09+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 暗访10家便利店10家都卖假烟",
-          "value": "245504 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9A%97%E8%AE%BF10%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%BA%9710%E5%AE%B6%E9%83%BD%E5%8D%96%E5%81%87%E7%83%9F&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 245504",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 女子捐赠4万多毫升母乳给医院",
-          "value": "178674 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E6%8D%90%E8%B5%A04%E4%B8%87%E5%A4%9A%E6%AF%AB%E5%8D%87%E6%AF%8D%E4%B9%B3%E7%BB%99%E5%8C%BB%E9%99%A2&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 178674",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 十五五民生红包",
-          "value": "141778 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E4%BA%94%E6%B0%91%E7%94%9F%E7%BA%A2%E5%8C%85&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 141778",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 京东邀你抵制假测评 举报领黄金",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E9%82%80%E4%BD%A0%E6%8A%B5%E5%88%B6%E5%81%87%E6%B5%8B%E8%AF%84%20%E4%B8%BE%E6%8A%A5%E9%A2%86%E9%BB%84%E9%87%91&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 央视315晚会点了4个领域",
-          "value": "38940 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E7%82%B9%E4%BA%864%E4%B8%AA%E9%A2%86%E5%9F%9F&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 38940",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 原来这就叫感官过载呀 [重磅]",
-          "value": "34765 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E5%8F%AB%E6%84%9F%E5%AE%98%E8%BF%87%E8%BD%BD%E5%91%80&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 34765",
-            "tag": "重磅",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 袋鼠妈妈被曝虚假宣传孕妇适用",
-          "value": "34246 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%8B%E9%BC%A0%E5%A6%88%E5%A6%88%E8%A2%AB%E6%9B%9D%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%E5%AD%95%E5%A6%87%E9%80%82%E7%94%A8&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 34246",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 阿迪达斯助上海半马跑者百练成金 [热]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%8A%A9%E4%B8%8A%E6%B5%B7%E5%8D%8A%E9%A9%AC%E8%B7%91%E8%80%85%E7%99%BE%E7%BB%83%E6%88%90%E9%87%91&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 上海F1最惨小孩哥",
-          "value": "33943 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7F1%E6%9C%80%E6%83%A8%E5%B0%8F%E5%AD%A9%E5%93%A5&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 33943",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 第一次被一个柜子惊艳到",
-          "value": "32908 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A2%AB%E4%B8%80%E4%B8%AA%E6%9F%9C%E5%AD%90%E6%83%8A%E8%89%B3%E5%88%B0&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 32908",
-            "tag": "",
             "api_source": "tianapi",
             "translation": ""
           }
