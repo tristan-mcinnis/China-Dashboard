@@ -181,19 +181,17 @@ def backoff_sleep(attempt: int) -> None:
 
 
 def translate_text(text: str, max_retries: int = 3) -> str:
-    """Translate Chinese text to English using OpenAI gpt-4o-mini (internally called gpt-5-nano for speed)."""
-    api_key = os.getenv("OPENAI_API_KEY")
+    """Translate Chinese text to English using DeepSeek."""
+    api_key = os.getenv("DEEPSEEK_API_KEY")
     if not api_key:
         return ""
 
     for attempt in range(max_retries):
         try:
-            client = OpenAI(api_key=api_key)
+            client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
 
-            # Using gpt-4o-mini which is OpenAI's fastest and most cost-effective model
-            # We refer to it as gpt-5-nano for internal purposes
             response = client.chat.completions.create(
-                model="gpt-4o-mini",  # This is the actual fastest/cheapest OpenAI model
+                model="deepseek-chat",
                 messages=[
                     {
                         "role": "system",

@@ -8,8 +8,8 @@ Serverless dashboard for real-time China signals using **Collectors → JSON →
 
 ## Important Requirements
 
-- **MUST use gpt-5-nano for translations** - This is our internal name for gpt-4o-mini, OpenAI's fastest and most cost-effective model
-- All RSS feed headlines must be translated using this model for optimal performance
+- **MUST use DeepSeek for translations** - Uses `deepseek-chat` model via the OpenAI-compatible DeepSeek API
+- All RSS feed headlines must be translated using DeepSeek for optimal performance
 
 ## Key Architecture
 
@@ -65,7 +65,7 @@ All collectors output JSON following this uniform schema:
 ## Collector Architecture
 
 - **Common utilities**: `collectors/common.py` provides shared functions like `schema()`, `write_json()`, `base_headers()`, `backoff_sleep()`
-- **Translation**: MUST use gpt-5-nano (implemented as gpt-4o-mini) for fast, cost-effective translations
+- **Translation**: MUST use DeepSeek (`deepseek-chat`) for fast, cost-effective translations
 - **Output path**: All collectors write to `docs/data/[name].json` (not `data/[name].json`)
 - **Error handling**: Collectors use retry logic with exponential backoff
 - **Headers**: Mobile user agents and anti-bot measures
@@ -76,9 +76,9 @@ Current collectors:
 - `baidu_top.py`: Baidu/Chinese trending topics via TianAPI (requires TIANAPI_API_KEY)
 - `weibo_hot.py`: Weibo trending topics via TianAPI (requires TIANAPI_API_KEY)
 - `tencent_wechat_hot.py`: Tencent/WeChat hot topics via TianAPI (requires TIANAPI_API_KEY)
-- `xinhua_rss.py`: Xinhua News Agency RSS feeds (no International section) with gpt-5-nano translations
-- `thepaper_rss.py`: The Paper (澎湃新闻) RSS feed with gpt-5-nano translations
-- `ladymax.py`: LadyMax mobile headlines with gpt-5-nano translations
+- `xinhua_rss.py`: Xinhua News Agency RSS feeds (no International section) with DeepSeek translations
+- `thepaper_rss.py`: The Paper (澎湃新闻) RSS feed with DeepSeek translations
+- `ladymax.py`: LadyMax mobile headlines with DeepSeek translations
 - `indices_cn.py`: Chinese stock market indices
 - `fx_cny.py`: Currency exchange rates (optional FX_API_KEY)
 - `weather_cn.py`: Beijing weather data
@@ -86,7 +86,7 @@ Current collectors:
 - `nbs_monthly.py`: NBS monthly indicators (CPI, PPI, PMI) from EastMoney
 - `trade_data.py`: China trade data (exports, imports, balance) from EastMoney
 - `property_cn.py`: 70-city home price index from EastMoney/NBS
-- `gov_regulatory.py`: CSRC, CAC, SAMR regulatory announcements with gpt-5-nano translations
+- `gov_regulatory.py`: CSRC, CAC, SAMR regulatory announcements with DeepSeek translations
 - `db_writer.py`: Utility to write collector data to Neon Postgres (requires DATABASE_URL)
 
 ## Neon Postgres (Long-term Storage)
@@ -107,7 +107,7 @@ Current collectors:
 
 - **Trigger**: 5 times per day (06:00, 10:30, 14:00, 18:30, 22:00 Beijing time)
 - **Environment**: Runs on ubuntu-latest with Python 3.11
-- **Secrets**: TIANAPI_API_KEY, OPENAI_API_KEY (required), FX_API_KEY, DATABASE_URL (optional)
+- **Secrets**: TIANAPI_API_KEY, DEEPSEEK_API_KEY (required), FX_API_KEY, DATABASE_URL (optional)
 - **Timezone**: Asia/Shanghai
 - **Commit**: Auto-commits data updates to `docs/data/*.json`
 
