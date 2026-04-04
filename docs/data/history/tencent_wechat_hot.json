@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-04-04T06:07:37+08:00",
+  "generated_at": "2026-04-04T11:24:33+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-04T11:24:33+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 天地英雄气",
+          "value": "指数 7904839",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%A9%E5%9C%B0%E8%8B%B1%E9%9B%84%E6%B0%94",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904839",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 3岁孙女第一次见到“29岁”爷爷",
+          "value": "指数 7808801",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=3%E5%B2%81%E5%AD%99%E5%A5%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E2%80%9C29%E5%B2%81%E2%80%9D%E7%88%B7%E7%88%B7",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808801",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 威力巨大！传说中的武器来了",
+          "value": "指数 7711802",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A8%81%E5%8A%9B%E5%B7%A8%E5%A4%A7%EF%BC%81%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E6%AD%A6%E5%99%A8%E6%9D%A5%E4%BA%86",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7711802",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 清明之际 追思公安英烈",
+          "value": "指数 7615821",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B8%85%E6%98%8E%E4%B9%8B%E9%99%85+%E8%BF%BD%E6%80%9D%E5%85%AC%E5%AE%89%E8%8B%B1%E7%83%88",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7615821",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 何小鹏：不碰10万元以下的汽车",
+          "value": "指数 7520426",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BD%95%E5%B0%8F%E9%B9%8F%EF%BC%9A%E4%B8%8D%E7%A2%B010%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E7%9A%84%E6%B1%BD%E8%BD%A6",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7520426",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 王艺迪vs温特冲击4强",
+          "value": "指数 7425167",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E8%89%BA%E8%BF%AAvs%E6%B8%A9%E7%89%B9%E5%86%B2%E5%87%BB4%E5%BC%BA",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7425167",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 美军两架搜救直升机被伊朗击中",
+          "value": "指数 7333057",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E5%86%9B%E4%B8%A4%E6%9E%B6%E6%90%9C%E6%95%91%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E4%B8%AD",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7333057",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 清明之前还曾有个寒食节",
+          "value": "指数 7232762",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B8%85%E6%98%8E%E4%B9%8B%E5%89%8D%E8%BF%98%E6%9B%BE%E6%9C%89%E4%B8%AA%E5%AF%92%E9%A3%9F%E8%8A%82",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7232762",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. “干了这么多年 第1次把展厅卖空了”",
+          "value": "指数 7140734",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E5%B9%B2%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4+%E7%AC%AC1%E6%AC%A1%E6%8A%8A%E5%B1%95%E5%8E%85%E5%8D%96%E7%A9%BA%E4%BA%86%E2%80%9D",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7140734",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 上海迪士尼28名盗窃嫌疑人被抓",
+          "value": "指数 7048152",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC28%E5%90%8D%E7%9B%97%E7%AA%83%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8A%93",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7048152",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-04T06:07:37+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -11480,122 +11596,6 @@
           "extra": {
             "rank": 10,
             "raw_score": "7044061",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-15T11:39:26+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 春天 种下一粒“种子”",
-          "value": "指数 7904428",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%98%A5%E5%A4%A9+%E7%A7%8D%E4%B8%8B%E4%B8%80%E7%B2%92%E2%80%9C%E7%A7%8D%E5%AD%90%E2%80%9D",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904428",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 央视315晚会点了4个领域",
-          "value": "指数 7808862",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E7%82%B9%E4%BA%864%E4%B8%AA%E9%A2%86%E5%9F%9F",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808862",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 暗访10家便利店10家都卖假烟",
-          "value": "指数 7712635",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9A%97%E8%AE%BF10%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%BA%9710%E5%AE%B6%E9%83%BD%E5%8D%96%E5%81%87%E7%83%9F",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7712635",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 94.1亿人次创历史新高",
-          "value": "指数 7618943",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=94.1%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618943",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 盗号养号再卖号 黑灰产养号工厂曝光",
-          "value": "指数 7522504",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%9B%97%E5%8F%B7%E5%85%BB%E5%8F%B7%E5%86%8D%E5%8D%96%E5%8F%B7+%E9%BB%91%E7%81%B0%E4%BA%A7%E5%85%BB%E5%8F%B7%E5%B7%A5%E5%8E%82%E6%9B%9D%E5%85%89",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7522504",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 女儿生病父母寄来“一整头牛”",
-          "value": "指数 7423867",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A5%B3%E5%84%BF%E7%94%9F%E7%97%85%E7%88%B6%E6%AF%8D%E5%AF%84%E6%9D%A5%E2%80%9C%E4%B8%80%E6%95%B4%E5%A4%B4%E7%89%9B%E2%80%9D",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7423867",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 机器人正要进电梯被人一脚踹倒",
-          "value": "指数 7329326",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7329326",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. “苗族祖传苗药”竟是化学剂",
-          "value": "指数 7235063",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E2%80%9C%E8%8B%97%E6%97%8F%E7%A5%96%E4%BC%A0%E8%8B%97%E8%8D%AF%E2%80%9D%E7%AB%9F%E6%98%AF%E5%8C%96%E5%AD%A6%E5%89%82",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7235063",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 战争第15天 伊朗开出两个停火条件",
-          "value": "指数 7138037",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%88%98%E4%BA%89%E7%AC%AC15%E5%A4%A9+%E4%BC%8A%E6%9C%97%E5%BC%80%E5%87%BA%E4%B8%A4%E4%B8%AA%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7138037",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 胖东来回应鸡蛋被指人工色素超标",
-          "value": "指数 7042582",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8C%87%E4%BA%BA%E5%B7%A5%E8%89%B2%E7%B4%A0%E8%B6%85%E6%A0%87",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7042582",
             "api_source": "tianapi",
             "translation": ""
           }
