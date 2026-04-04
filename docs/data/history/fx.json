@@ -1,7 +1,53 @@
 {
   "source": "Yahoo Finance (fallback)",
-  "generated_at": "2026-04-04T14:16:49+08:00",
+  "generated_at": "2026-04-04T18:44:24+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-04T18:44:24+08:00",
+      "source": "Yahoo Finance (fallback)",
+      "items": [
+        {
+          "title": "USD/CNY",
+          "value": 6.8942,
+          "url": "https://finance.yahoo.com/quote/CNY=X",
+          "extra": {
+            "symbol": "CNY=X",
+            "chg_pct": 0.1321694674006074,
+            "ts": 1775273403
+          }
+        },
+        {
+          "title": "USD/CNH",
+          "value": 6.8846,
+          "url": "https://finance.yahoo.com/quote/CNH=X",
+          "extra": {
+            "symbol": "CNH=X",
+            "chg_pct": -0.04065394778872404,
+            "ts": 1775249951
+          }
+        },
+        {
+          "title": "EUR/CNY",
+          "value": 7.9269,
+          "url": "https://finance.yahoo.com/quote/EURCNY=X",
+          "extra": {
+            "symbol": "EURCNY=X",
+            "chg_pct": -0.1913851500232949,
+            "ts": 1775251629
+          }
+        },
+        {
+          "title": "JPY/CNY",
+          "value": 0.043,
+          "url": "https://finance.yahoo.com/quote/JPYCNY=X",
+          "extra": {
+            "symbol": "JPYCNY=X",
+            "chg_pct": -0.23201856148492547,
+            "ts": 1775251629
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-04T14:16:49+08:00",
       "source": "Yahoo Finance (fallback)",
@@ -4512,52 +4558,6 @@
     },
     {
       "as_of": "2026-03-15T22:18:46+08:00",
-      "source": "Yahoo Finance (fallback)",
-      "items": [
-        {
-          "title": "USD/CNY",
-          "value": 6.8954,
-          "url": "https://finance.yahoo.com/quote/CNY=X",
-          "extra": {
-            "symbol": "CNY=X",
-            "chg_pct": 0.38579685248002465,
-            "ts": 1773459037
-          }
-        },
-        {
-          "title": "USD/CNH",
-          "value": 6.9064,
-          "url": "https://finance.yahoo.com/quote/CNH=X",
-          "extra": {
-            "symbol": "CNH=X",
-            "chg_pct": 0.3910167890108217,
-            "ts": 1773435540
-          }
-        },
-        {
-          "title": "EUR/CNY",
-          "value": 7.872,
-          "url": "https://finance.yahoo.com/quote/EURCNY=X",
-          "extra": {
-            "symbol": "EURCNY=X",
-            "chg_pct": -0.4564939745324445,
-            "ts": 1773436785
-          }
-        },
-        {
-          "title": "JPY/CNY",
-          "value": 0.0431,
-          "url": "https://finance.yahoo.com/quote/JPYCNY=X",
-          "extra": {
-            "symbol": "JPYCNY=X",
-            "chg_pct": 0.2325581395348904,
-            "ts": 1773436785
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-15T18:47:42+08:00",
       "source": "Yahoo Finance (fallback)",
       "items": [
         {
