@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-13T22:41:26+08:00",
+  "generated_at": "2026-04-14T06:15:26+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-14T06:15:26+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 嫣然医院不再续租",
+          "value": "260196 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E4%B8%8D%E5%86%8D%E7%BB%AD%E7%A7%9F&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 260196",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 演出服遭集体退货家属称表演取消 [热]",
+          "value": "193735 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BC%94%E5%87%BA%E6%9C%8D%E9%81%AD%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 193735",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 2026世界互联网大会亚太峰会",
+          "value": "148259 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%BA%9A%E5%A4%AA%E5%B3%B0%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 148259",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 特朗普警告伊朗攻击艇勿靠近封锁线",
+          "value": "57665 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 57665",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 美若封锁霍尔木兹就将失去曼德海峡",
+          "value": "57128 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E8%8B%A5%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B0%B1%E5%B0%86%E5%A4%B1%E5%8E%BB%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 57128",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 田曦薇发言",
+          "value": "53229 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B0%E6%9B%A6%E8%96%87%E5%8F%91%E8%A8%80&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 53229",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 外交部回应美方将封锁霍尔木兹海峡",
+          "value": "43701 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%B0%86%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 43701",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 网友一句提醒外卖小哥查出尿毒症",
+          "value": "31206 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E5%8F%8B%E4%B8%80%E5%8F%A5%E6%8F%90%E9%86%92%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%9F%A5%E5%87%BA%E5%B0%BF%E6%AF%92%E7%97%87&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 31206",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 伊朗强硬回应特朗普封锁威胁",
+          "value": "30271 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 30271",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 伊朗总统称准备达成平衡公平协议 [热]",
+          "value": "26126 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%87%86%E5%A4%87%E8%BE%BE%E6%88%90%E5%B9%B3%E8%A1%A1%E5%85%AC%E5%B9%B3%E5%8D%8F%E8%AE%AE&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 26126",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-13T22:41:26+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 330567",
             "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-25T06:11:25+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 峰学蔚来总经理称学员员工权益均有保障",
-          "value": "295963 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%80%BB%E7%BB%8F%E7%90%86%E7%A7%B0%E5%AD%A6%E5%91%98%E5%91%98%E5%B7%A5%E6%9D%83%E7%9B%8A%E5%9D%87%E6%9C%89%E4%BF%9D%E9%9A%9C&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 295963",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 早睡",
-          "value": "213670 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A9%E7%9D%A1&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 213670",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 太空加油站新进展",
-          "value": "173971 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AA%E7%A9%BA%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%96%B0%E8%BF%9B%E5%B1%95&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 173971",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 华境S遭高速侧碰后坠落高坡",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E5%A2%83S%E9%81%AD%E9%AB%98%E9%80%9F%E4%BE%A7%E7%A2%B0%E5%90%8E%E5%9D%A0%E8%90%BD%E9%AB%98%E5%9D%A1&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 猝死前1小时身体的预警",
-          "value": "154778 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8C%9D%E6%AD%BB%E5%89%8D1%E5%B0%8F%E6%97%B6%E8%BA%AB%E4%BD%93%E7%9A%84%E9%A2%84%E8%AD%A6&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 154778",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 高强度工作 不要运动 [官宣]",
-          "value": "113062 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E5%BC%BA%E5%BA%A6%E5%B7%A5%E4%BD%9C%20%E4%B8%8D%E8%A6%81%E8%BF%90%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 113062",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 人生真好玩 下辈子还来",
-          "value": "107573 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E7%94%9F%E7%9C%9F%E5%A5%BD%E7%8E%A9%20%E4%B8%8B%E8%BE%88%E5%AD%90%E8%BF%98%E6%9D%A5&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 107573",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 警惕嘴唇发紫可能是心肺重症信号 [热]",
-          "value": "101694 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AD%A6%E6%83%95%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%8F%AF%E8%83%BD%E6%98%AF%E5%BF%83%E8%82%BA%E9%87%8D%E7%97%87%E4%BF%A1%E5%8F%B7&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 101694",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 张雪峰公司发布讣告",
-          "value": "98598 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 98598",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 周杰伦新歌口碑",
-          "value": "音乐 62272 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E5%8F%A3%E7%A2%91&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "音乐 62272",
-            "tag": "",
             "api_source": "tianapi",
             "translation": ""
           }
