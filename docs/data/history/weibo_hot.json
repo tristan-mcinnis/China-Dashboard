@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-16T22:43:28+08:00",
+  "generated_at": "2026-04-17T06:14:03+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-17T06:14:03+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 陈泽",
+          "value": "301122 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E6%B3%BD&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 301122",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 心源性猝死为什么盯上年轻人 [热]",
+          "value": "213336 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 213336",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 十五五首季中国经济增长好于预期",
+          "value": "168458 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E4%BA%94%E4%BA%94%E9%A6%96%E5%AD%A3%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E5%A5%BD%E4%BA%8E%E9%A2%84%E6%9C%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 168458",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 美国多位机密领域科学家失踪或死亡",
+          "value": "76085 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%BD%8D%E6%9C%BA%E5%AF%86%E9%A2%86%E5%9F%9F%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A4%B1%E8%B8%AA%E6%88%96%E6%AD%BB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 76085",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 中国不吸烟女性二手烟暴露率达70%",
+          "value": "60871 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%90%B8%E7%83%9F%E5%A5%B3%E6%80%A7%E4%BA%8C%E6%89%8B%E7%83%9F%E6%9A%B4%E9%9C%B2%E7%8E%87%E8%BE%BE70%25&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 60871",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 被强拉开车门泼水女子称或将追责",
+          "value": "53779 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB%E5%BC%BA%E6%8B%89%E5%BC%80%E8%BD%A6%E9%97%A8%E6%B3%BC%E6%B0%B4%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%88%96%E5%B0%86%E8%BF%BD%E8%B4%A3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 53779",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 辛芷蕾代言大众含金量飙升",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BB%A3%E8%A8%80%E5%A4%A7%E4%BC%97%E5%90%AB%E9%87%91%E9%87%8F%E9%A3%99%E5%8D%87&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 张伦硕妈妈曾遗憾没有亲孙子",
+          "value": "50629 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E4%BC%A6%E7%A1%95%E5%A6%88%E5%A6%88%E6%9B%BE%E9%81%97%E6%86%BE%E6%B2%A1%E6%9C%89%E4%BA%B2%E5%AD%99%E5%AD%90&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 50629",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 最不困的人叫醒最困的人",
+          "value": "42103 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%80%E4%B8%8D%E5%9B%B0%E7%9A%84%E4%BA%BA%E5%8F%AB%E9%86%92%E6%9C%80%E5%9B%B0%E7%9A%84%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 42103",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 低精力都去查一下维d",
+          "value": "40195 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%8E%E7%B2%BE%E5%8A%9B%E9%83%BD%E5%8E%BB%E6%9F%A5%E4%B8%80%E4%B8%8B%E7%BB%B4d&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 40195",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-16T22:43:28+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": "剧集 423655",
             "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-28T06:09:33+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 孩子生病后买彩票中500万妈妈发声",
-          "value": "213726 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%A9%E5%AD%90%E7%94%9F%E7%97%85%E5%90%8E%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 213726",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 3D还原女子因停车纠纷摔倒身亡",
-          "value": "152480 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3D%E8%BF%98%E5%8E%9F%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%81%9C%E8%BD%A6%E7%BA%A0%E7%BA%B7%E6%91%94%E5%80%92%E8%BA%AB%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 152480",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 为奋进中国打call",
-          "value": "127475 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BA%E5%A5%8B%E8%BF%9B%E4%B8%AD%E5%9B%BD%E6%89%93call&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 127475",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 特朗普揭晓所谓伊朗大礼",
-          "value": "72361 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 72361",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 伊朗无人机群袭以色列最大运输中心",
-          "value": "50047 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%BE%A4%E8%A2%AD%E4%BB%A5%E8%89%B2%E5%88%97%E6%9C%80%E5%A4%A7%E8%BF%90%E8%BE%93%E4%B8%AD%E5%BF%83&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 50047",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 伊朗禁往返敌方盟友港船只通过海峡",
-          "value": "38634 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E7%A6%81%E5%BE%80%E8%BF%94%E6%95%8C%E6%96%B9%E7%9B%9F%E5%8F%8B%E6%B8%AF%E8%88%B9%E5%8F%AA%E9%80%9A%E8%BF%87%E6%B5%B7%E5%B3%A1&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 38634",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 怡宝不好卖了",
-          "value": "34737 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%80%A1%E5%AE%9D%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 34737",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 大部分人觉得旅游累的原因",
-          "value": "34687 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 34687",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 央视网评罗技侮辱性广告",
-          "value": "27911 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E7%BD%97%E6%8A%80%E4%BE%AE%E8%BE%B1%E6%80%A7%E5%B9%BF%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 27911",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 世界第一高楼被闪电击中",
-          "value": "27902 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E8%A2%AB%E9%97%AA%E7%94%B5%E5%87%BB%E4%B8%AD&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 27902",
-            "tag": "",
             "api_source": "tianapi",
             "translation": ""
           }
