@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-17T14:31:16+08:00",
+  "generated_at": "2026-04-17T18:47:21+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-17T18:47:21+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 拼多多美团京东淘天抖音被罚35亿",
+          "value": "1616486 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%B7%98%E5%A4%A9%E6%8A%96%E9%9F%B3%E8%A2%AB%E7%BD%9A35%E4%BA%BF&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1616486",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 幽灵外卖 [新]",
+          "value": "1240781 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1240781",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 优质网络主播中国行山西行",
+          "value": "1061280 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%B1%B1%E8%A5%BF%E8%A1%8C&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1061280",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 张晚意实现巧乐兹自由",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%99%9A%E6%84%8F%E5%AE%9E%E7%8E%B0%E5%B7%A7%E4%B9%90%E5%85%B9%E8%87%AA%E7%94%B1&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 责令7平台暂停新增蛋糕店铺",
+          "value": "976373 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%A3%E4%BB%A47%E5%B9%B3%E5%8F%B0%E6%9A%82%E5%81%9C%E6%96%B0%E5%A2%9E%E8%9B%8B%E7%B3%95%E5%BA%97%E9%93%BA&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 976373",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 摊主因借给学生手机被家长逼到下跪 [官宣]",
+          "value": "923928 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%91%8A%E4%B8%BB%E5%9B%A0%E5%80%9F%E7%BB%99%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%BC%E5%88%B0%E4%B8%8B%E8%B7%AA&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 923928",
+            "tag": "官宣",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 一日本自卫队舰艇进入台湾海峡",
+          "value": "716286 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%88%B0%E8%89%87%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 716286",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. AI上郑州文化很简单",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAI%E4%B8%8A%E9%83%91%E5%B7%9E%E6%96%87%E5%8C%96%E5%BE%88%E7%AE%80%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 温峥嵘二公选人被拒绝五次",
+          "value": "综艺 609595 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%BA%8C%E5%85%AC%E9%80%89%E4%BA%BA%E8%A2%AB%E6%8B%92%E7%BB%9D%E4%BA%94%E6%AC%A1&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "综艺 609595",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 狗 出大事了没空跟你解释",
+          "value": "605313 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%97%20%E5%87%BA%E5%A4%A7%E4%BA%8B%E4%BA%86%E6%B2%A1%E7%A9%BA%E8%B7%9F%E4%BD%A0%E8%A7%A3%E9%87%8A&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 605313",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-17T14:31:16+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 279825",
             "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-28T18:46:39+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 李昌钰母亲把13个子女培养成博士",
-          "value": "1073392 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%98%8C%E9%92%B0%E6%AF%8D%E4%BA%B2%E6%8A%8A13%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9F%B9%E5%85%BB%E6%88%90%E5%8D%9A%E5%A3%AB&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1073392",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 奔跑吧直播 [新]",
-          "value": "综艺 795774 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%94%E8%B7%91%E5%90%A7%E7%9B%B4%E6%92%AD&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "综艺 795774",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 正能量创作者大会",
-          "value": "636373 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%A3%E8%83%BD%E9%87%8F%E5%88%9B%E4%BD%9C%E8%80%85%E5%A4%A7%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 636373",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 一念江南",
-          "value": "剧集 583852 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "剧集 583852",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 40岁心梗幸存者已辞职回农村静养",
-          "value": "303299 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D40%E5%B2%81%E5%BF%83%E6%A2%97%E5%B9%B8%E5%AD%98%E8%80%85%E5%B7%B2%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%86%9C%E6%9D%91%E9%9D%99%E5%85%BB&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 303299",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 终于懂大学面积小的含金量了 [新]",
-          "value": "276534 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%88%E4%BA%8E%E6%87%82%E5%A4%A7%E5%AD%A6%E9%9D%A2%E7%A7%AF%E5%B0%8F%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 276534",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 女子断碳水2月确诊糖尿病前期",
-          "value": "269992 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E6%96%AD%E7%A2%B3%E6%B0%B42%E6%9C%88%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 269992",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 45岁男子心梗离世2天前还在跑马拉松",
-          "value": "236466 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D45%E5%B2%81%E7%94%B7%E5%AD%90%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%962%E5%A4%A9%E5%89%8D%E8%BF%98%E5%9C%A8%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 236466",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 白日提灯直播",
-          "value": "剧集 234616 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E7%9B%B4%E6%92%AD&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 234616",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 金价急速飙涨",
-          "value": "229344 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E9%A3%99%E6%B6%A8&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 229344",
-            "tag": "",
             "api_source": "tianapi",
             "translation": ""
           }
