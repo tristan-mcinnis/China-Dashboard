@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-18T18:45:12+08:00",
+  "generated_at": "2026-04-18T22:19:49+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-18T22:19:49+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 宿迁vs南京",
+          "value": "1959969 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%BF%E8%BF%81vs%E5%8D%97%E4%BA%AC&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1959969",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 苏超",
+          "value": "933452 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E8%B6%85&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 933452",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 生态文旅激活消费新活力",
+          "value": "767896 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E6%80%81%E6%96%87%E6%97%85%E6%BF%80%E6%B4%BB%E6%B6%88%E8%B4%B9%E6%96%B0%E6%B4%BB%E5%8A%9B&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 767896",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 陈紫函不上浪姐的原因 [新]",
+          "value": "综艺 716428 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E7%B4%AB%E5%87%BD%E4%B8%8D%E4%B8%8A%E6%B5%AA%E5%A7%90%E7%9A%84%E5%8E%9F%E5%9B%A0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "综艺 716428",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 日本在马关条约签订日闯入台海",
+          "value": "713034 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%A9%AC%E5%85%B3%E6%9D%A1%E7%BA%A6%E7%AD%BE%E8%AE%A2%E6%97%A5%E9%97%AF%E5%85%A5%E5%8F%B0%E6%B5%B7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 713034",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 姜贞羽淘汰 [新]",
+          "value": "综艺 670337 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A7%9C%E8%B4%9E%E7%BE%BD%E6%B7%98%E6%B1%B0&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "综艺 670337",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 中国城市宜居水平排行榜",
+          "value": "664093 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E5%AE%9C%E5%B1%85%E6%B0%B4%E5%B9%B3%E6%8E%92%E8%A1%8C%E6%A6%9C&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 664093",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 张雪机车首回合第4",
+          "value": "649140 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E9%A6%96%E5%9B%9E%E5%90%88%E7%AC%AC4&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 649140",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 张雪机车",
+          "value": "534796 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 534796",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 解放军凌晨四点管控日舰过航台湾海峡",
+          "value": "516957 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E6%94%BE%E5%86%9B%E5%87%8C%E6%99%A8%E5%9B%9B%E7%82%B9%E7%AE%A1%E6%8E%A7%E6%97%A5%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 516957",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-18T18:45:12+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": "演出 175279",
             "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-29T22:18:47+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 雀巢12吨巧克力被盗",
-          "value": "1058017 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%80%E5%B7%A212%E5%90%A8%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%A2%AB%E7%9B%97&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1058017",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 儿子一家去世老人骑行30年治愈自己",
-          "value": "1049757 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%84%BF%E5%AD%90%E4%B8%80%E5%AE%B6%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E9%AA%91%E8%A1%8C30%E5%B9%B4%E6%B2%BB%E6%84%88%E8%87%AA%E5%B7%B1&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1049757",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 数据感知中国经济活力满满",
-          "value": "1031479 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%95%B0%E6%8D%AE%E6%84%9F%E7%9F%A5%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1031479",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 薛之谦因为下雨退票",
-          "value": "演出 1021979 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%A0%E4%B8%BA%E4%B8%8B%E9%9B%A8%E9%80%80%E7%A5%A8&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "演出 1021979",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 凌晨3点孩子等家长睡熟偷平板玩",
-          "value": "1016951 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%8C%E6%99%A83%E7%82%B9%E5%AD%A9%E5%AD%90%E7%AD%89%E5%AE%B6%E9%95%BF%E7%9D%A1%E7%86%9F%E5%81%B7%E5%B9%B3%E6%9D%BF%E7%8E%A9&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 1016951",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 檀健次美甲 [新]",
-          "value": "演出 997995 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AA%80%E5%81%A5%E6%AC%A1%E7%BE%8E%E7%94%B2&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "演出 997995",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 娃综天花板回来了",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A8%83%E7%BB%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%9B%9E%E6%9D%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 狼队KSG巅峰对决",
-          "value": "989622 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8B%BC%E9%98%9FKSG%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 989622",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 中国将在长江水下开高铁",
-          "value": "969529 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%9C%A8%E9%95%BF%E6%B1%9F%E6%B0%B4%E4%B8%8B%E5%BC%80%E9%AB%98%E9%93%81&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 969529",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 蔡磊感觉最对不起的就是妻子 [新]",
-          "value": "961219 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%94%A1%E7%A3%8A%E6%84%9F%E8%A7%89%E6%9C%80%E5%AF%B9%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%B0%B1%E6%98%AF%E5%A6%BB%E5%AD%90&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 961219",
-            "tag": "新",
             "api_source": "tianapi",
             "translation": ""
           }
