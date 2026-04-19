@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-19T11:44:06+08:00",
+  "generated_at": "2026-04-19T14:29:06+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-19T14:29:06+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 攻玉回应换男主",
+          "value": "剧集 1098080 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%94%BB%E7%8E%89%E5%9B%9E%E5%BA%94%E6%8D%A2%E7%94%B7%E4%B8%BB&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1098080",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 宇树机器人打破人类1500米世界纪录",
+          "value": "801748 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E7%B1%BB1500%E7%B1%B3%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 801748",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 五一列车增开",
+          "value": "628794 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E4%B8%80%E5%88%97%E8%BD%A6%E5%A2%9E%E5%BC%80&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 628794",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 曝李小冉退出浪姐",
+          "value": "综艺 609566 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9B%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E9%80%80%E5%87%BA%E6%B5%AA%E5%A7%90&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "综艺 609566",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 谁家猫怀孕都怀到脖子上了",
+          "value": "605982 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E5%AE%B6%E7%8C%AB%E6%80%80%E5%AD%95%E9%83%BD%E6%80%80%E5%88%B0%E8%84%96%E5%AD%90%E4%B8%8A%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 605982",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 生命缘官宣 [新]",
+          "value": "585945 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%9F%E5%91%BD%E7%BC%98%E5%AE%98%E5%AE%A3&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 585945",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 官方通报卸沙现场出现一具男尸",
+          "value": "496382 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%B8%E6%B2%99%E7%8E%B0%E5%9C%BA%E5%87%BA%E7%8E%B0%E4%B8%80%E5%85%B7%E7%94%B7%E5%B0%B8&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 496382",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 自家孩子趴桌睡为何给别人捐躺椅",
+          "value": "439244 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%B6%B4%E6%A1%8C%E7%9D%A1%E4%B8%BA%E4%BD%95%E7%BB%99%E5%88%AB%E4%BA%BA%E6%8D%90%E8%BA%BA%E6%A4%85&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 439244",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 机器人马拉松 豆包变豆脚了",
+          "value": "347251 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%20%E8%B1%86%E5%8C%85%E5%8F%98%E8%B1%86%E8%84%9A%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 347251",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 睡觉时被空调砸到头了 [新]",
+          "value": "339220 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9D%A1%E8%A7%89%E6%97%B6%E8%A2%AB%E7%A9%BA%E8%B0%83%E7%A0%B8%E5%88%B0%E5%A4%B4%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 339220",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-19T11:44:06+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 184297",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-30T14:32:56+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 黑龙江海林楼房坍塌致7死",
-          "value": "1053562 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%91%E9%BE%99%E6%B1%9F%E6%B5%B7%E6%9E%97%E6%A5%BC%E6%88%BF%E5%9D%8D%E5%A1%8C%E8%87%B47%E6%AD%BB&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1053562",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 身份证号的X到底咋读",
-          "value": "756393 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E7%9A%84X%E5%88%B0%E5%BA%95%E5%92%8B%E8%AF%BB&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 756393",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 2026中国网络媒体论坛",
-          "value": "599373 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93%E8%AE%BA%E5%9D%9B&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 599373",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 迪丽热巴陈飞宇同框被吐槽有年龄感",
-          "value": "剧集 482622 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E9%A3%9E%E5%AE%87%E5%90%8C%E6%A1%86%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89%E5%B9%B4%E9%BE%84%E6%84%9F&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "剧集 482622",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 广州下暴雨高架桥变高架河",
-          "value": "278441 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%BF%E5%B7%9E%E4%B8%8B%E6%9A%B4%E9%9B%A8%E9%AB%98%E6%9E%B6%E6%A1%A5%E5%8F%98%E9%AB%98%E6%9E%B6%E6%B2%B3&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 278441",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 瑞幸新品椰子蛋遭网友吐槽 [新]",
-          "value": "277050 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%91%9E%E5%B9%B8%E6%96%B0%E5%93%81%E6%A4%B0%E5%AD%90%E8%9B%8B%E9%81%AD%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 277050",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 全新QQ3上市王者归来一部到位",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E6%96%B0QQ3%E4%B8%8A%E5%B8%82%E7%8E%8B%E8%80%85%E5%BD%92%E6%9D%A5%E4%B8%80%E9%83%A8%E5%88%B0%E4%BD%8D&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 感受一下广州超级大暴雨 [新]",
-          "value": "268489 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%84%9F%E5%8F%97%E4%B8%80%E4%B8%8B%E5%B9%BF%E5%B7%9E%E8%B6%85%E7%BA%A7%E5%A4%A7%E6%9A%B4%E9%9B%A8&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 268489",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 我跳一天200他坐一天400",
-          "value": "203605 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E8%B7%B3%E4%B8%80%E5%A4%A9200%E4%BB%96%E5%9D%90%E4%B8%80%E5%A4%A9400&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 203605",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 床上最脏的一个地方很多人从没洗过 [新]",
-          "value": "186288 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BA%8A%E4%B8%8A%E6%9C%80%E8%84%8F%E7%9A%84%E4%B8%80%E4%B8%AA%E5%9C%B0%E6%96%B9%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%BB%8E%E6%B2%A1%E6%B4%97%E8%BF%87&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 186288",
             "tag": "新",
             "api_source": "tianapi",
             "translation": ""
