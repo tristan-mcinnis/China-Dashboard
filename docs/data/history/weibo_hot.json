@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-20T14:37:18+08:00",
+  "generated_at": "2026-04-20T19:02:09+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-20T19:02:09+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 日本7.5级地震",
+          "value": "1946144 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1946144",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 演员集体辟谣AI授权 [新]",
+          "value": "综艺 942226 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BC%94%E5%91%98%E9%9B%86%E4%BD%93%E8%BE%9F%E8%B0%A3AI%E6%8E%88%E6%9D%83&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "综艺 942226",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 2025年我国人均读书8.39本",
+          "value": "812204 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2025%E5%B9%B4%E6%88%91%E5%9B%BD%E4%BA%BA%E5%9D%87%E8%AF%BB%E4%B9%A68.39%E6%9C%AC&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 812204",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 五花肉里有一块绿色的东西",
+          "value": "788651 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E8%8A%B1%E8%82%89%E9%87%8C%E6%9C%89%E4%B8%80%E5%9D%97%E7%BB%BF%E8%89%B2%E7%9A%84%E4%B8%9C%E8%A5%BF&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 788651",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 中方回应美国截停中国驶往伊朗油轮",
+          "value": "387906 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%88%AA%E5%81%9C%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 387906",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 美媒承认中国年轻人对美国幻灭了",
+          "value": "377281 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%AA%92%E6%89%BF%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%B9%BB%E7%81%AD%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 377281",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 今日辟谣",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 美国发生2024年以来最严重枪击案",
+          "value": "368076 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F2024%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E6%9E%AA%E5%87%BB%E6%A1%88&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 368076",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 张若昀工作室 没签过AI授权",
+          "value": "综艺 368031 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%B2%A1%E7%AD%BE%E8%BF%87AI%E6%8E%88%E6%9D%83&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "综艺 368031",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 华为余承东称手机可能涨价",
+          "value": "367511 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BA%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E6%B6%A8%E4%BB%B7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 367511",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-20T14:37:18+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 264037",
             "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-03-31T18:50:06+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 瑞幸 紫椰子",
-          "value": "1136373 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%91%9E%E5%B9%B8%20%E7%B4%AB%E6%A4%B0%E5%AD%90&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1136373",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 乘风2026排名 [新]",
-          "value": "综艺 821993 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%98%E9%A3%8E2026%E6%8E%92%E5%90%8D&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "综艺 821993",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 4月一批新规将施行",
-          "value": "654301 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D4%E6%9C%88%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 654301",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 全新坦克700预售43.8万元起",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E6%96%B0%E5%9D%A6%E5%85%8B700%E9%A2%84%E5%94%AE43.8%E4%B8%87%E5%85%83%E8%B5%B7&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 十日终焉",
-          "value": "剧集 505130 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 505130",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 王者荣耀返场 [上新]",
-          "value": "242319 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%BF%94%E5%9C%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 242319",
-            "tag": "上新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 张雪",
-          "value": "240664 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9B%AA&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 240664",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 麻辣烫里最夯的是啥菜 [新]",
-          "value": "240386 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E6%9C%80%E5%A4%AF%E7%9A%84%E6%98%AF%E5%95%A5%E8%8F%9C&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 240386",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 国足负于10人喀麦隆",
-          "value": "238683 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E8%B6%B3%E8%B4%9F%E4%BA%8E10%E4%BA%BA%E5%96%80%E9%BA%A6%E9%9A%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 238683",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 李健硬要给许飞版权费 [新]",
-          "value": "音乐 232346 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%81%A5%E7%A1%AC%E8%A6%81%E7%BB%99%E8%AE%B8%E9%A3%9E%E7%89%88%E6%9D%83%E8%B4%B9&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "音乐 232346",
-            "tag": "新",
             "api_source": "tianapi",
             "translation": ""
           }
