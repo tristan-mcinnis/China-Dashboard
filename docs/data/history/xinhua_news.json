@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2026-04-23T06:15:57+08:00",
+  "generated_at": "2026-04-23T11:42:26+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-23T11:42:26+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "美媒：美军需6个月才能完成霍尔木兹海峡扫雷",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdjdNSGJiS2tMdXFTUGlaeGdHTEIwa1FPeG1yUmhkaWFwdXd6bkU5MXZTcGlZV09jRTFjV205MGVOMk1hdHJkdG9KeXkyaVlnMnByNWU4d0wwLXRFX1ZlUFNTdTAwbTdVaE91MWVSQkVDVllhVm1OYkRERjFodw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-04-22T11:59:24Z",
+            "summary": "美媒：美军需6个月才能完成霍尔木兹海峡扫雷 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "更好发挥节能降碳对推进碳达峰碳中和支撑作用——解读《关于更高水平更高质量做好节能降碳工作的意见》",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtVnVNVmZqVzhoM3NISFBmV1B1UzBSSWNud0hKQnJoYmhoNm90UDlKcEN6NzRXR1pqN21uaGxmajhZWk1INkJBal9YRHVHRU5ORTFWYkRWTUFOSnQtc1V0SmR5Qm13d29ZN1Q4bEpzcmdlTUczSVFCYmUxQTFLdw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-04-22T05:50:34Z",
+            "summary": "更好发挥节能降碳对推进碳达峰碳中和支撑作用——解读《关于更高水平更高质量做好节能降碳工作的意见》 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "世界读书日丨沉浸式体验图书馆馆员的工作",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0pIdTZhZWFWM3JVdE5nWU4wT2VKWTdXbEQ3TV9NZHBtRHV1U2UwcUxtOURJTFJVSk5TWHhZa18zOGNib3FKaGt0Qy1EWmF4dFRLX3o0RHlRdmoxVXo0alJ5WS1YYlpOZlktVExQOEtDR1dNdlo3eGxoNTBEekZyTnhxSFNwWGJQaTlv?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-04-22T19:18:30Z",
+            "summary": "世界读书日丨沉浸式体验图书馆馆员的工作 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "农业农村部：春耕生产进展顺利 全年粮食意向播种面积总体稳定",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRi1LTGxrbnprNklzbXhwOW5PbnhpM3JBSkZCeUlVTUxhRDdnSi03aV8tNjlZQXNSOS1JT0pJN094cHBQSXFtdmw5cW1iVmRKVHJLUVdSTmIxLVpuTDNIeFRSSzFhZVk5cm5FcDJTdDNGSFBZNmk2NTczSXZKcUlxTTRvVXRpNnB1aGdz?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-04-22T19:14:47Z",
+            "summary": "农业农村部：春耕生产进展顺利 全年粮食意向播种面积总体稳定 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "秀我中国丨数字光影唤活甲骨文明",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTUdtbmhJTzFwSDZkT2tLZm5Scm9LdXhXZVZZOWhYdWZPVDZsakt2b2hFOUdhS3RJWU1GRWVLTElkMG5CNUtveExGSEJkWkQ5alpUY2FmQkprZU41VDZqREtqOWpwSjZYNU1ya3huTk8tYVhTa1lDaE9mOXNJWjA?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-04-22T16:57:02Z",
+            "summary": "秀我中国丨数字光影唤活甲骨文明 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "近300家国内外企业和组织亮相中国国际核工业展览会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0waVBJYWRmUlVqMGpJalhvRU91bEdRc2ZjVUM5bVEzaXlqQ19vSlgtY0ZmeFRJN0JWZV9TREVfdzJUallncG8yS200T2FNUEZlZi1jcUFwNVVWWmJtMmtZT0xPUmV3MmEyUlpsWW5YVHl6bWtpVElRX055a01LZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-04-22T01:56:57Z",
+            "summary": "近300家国内外企业和组织亮相中国国际核工业展览会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "“2026全民阅读新风向·机工好书论坛”在雄安举办",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUlzWS1XNWJjcHlBLWFvc1gwdjM1VWU3dS1rZlkzMkozSUl4UU1vemN5bU0wQ29Sb1FvSjktdzhQNVYtS1FCMzRwYWV0eUxmRy1JN2k5M2dTam5TeUVoVG9FLWZuZzBVWUdhY0xzSVFjSDFhdXJuam9lSXBPaFRSczBoUU8?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-04-21T20:08:57Z",
+            "summary": "“2026全民阅读新风向·机工好书论坛”在雄安举办 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "首席记者谈首季经济丨平坦的河南，崛起的中原",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iMUdKZFd4bzQwdFA0ZmVramJDRmt4N3lLdEhzbFpTcEF2LTYxeG9IdG9oZ1BWcHUyOFo0RWlkTW5KUzJadmtGcFZKTTYzUnU0YzU0dHg3cVlpMVJzRE1TM1BDbHl3aFpEUklUOHNUZjVtUHJFQmdyTnJjbURRZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-04-22T02:57:44Z",
+            "summary": "首席记者谈首季经济丨平坦的河南，崛起的中原 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "西北地区面积最大民航单体机库落地乌鲁木齐",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45RXEyak1MRUFOWDJ6MEMxdFphbWprVkY5MjFKZWdZWUkzNDhqSmpKSVFWV2ZpWmdvTmpBODdpempDZ0VlRXVwUjNpbmpYRUpuZF9PbzNsZHNBNjROUWthUVJzX1RSbVJaMjg3VnAtd2V2TXRzZnFZNHB6c2RHUQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-04-22T02:08:31Z",
+            "summary": "西北地区面积最大民航单体机库落地乌鲁木齐 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "外交部：日本涉靖国神社一系列消极动向公然挑衅国际正义",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12Mklzcmx0eVlqUmJ3QlVHWUFZWTVGMzZHRm5DR3ZKeGJYel96Rl9pc2xkZk1SOEQyVWZqeGVVNGJYeFBoSHQ4V2Z6STB5bC03SWhkb29rQ3hmRmRlel9KSWx3MHFXRFBOamVFYVF3blBXbTIxc1dTVXpLa2lPZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-04-21T23:33:50Z",
+            "summary": "外交部：日本涉靖国神社一系列消极动向公然挑衅国际正义 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "新华社旗下四大财经媒体看首季经济丨从多项数据“两位数增长”看产业新跃动",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UWHhGVS0xcDdpOEc3bVh5QW9sbmJiRkFMdEl2QzlIRm5jQ3pmREVhUU00WkVzbzB2RTBQT0E3dEZtTHQycW1OOVFIcXZMYUk1TUk2cFllSG1kLWpGdHFpWTRMWHB1a0RnM3E4a2Y5aVVaNjFMUXF1bW04RXBGQQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-04-22T06:22:26Z",
+            "summary": "新华社旗下四大财经媒体看首季经济丨从多项数据“两位数增长”看产业新跃动 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "“社区食堂+银发学堂”：中国打造养老服务圈温暖老年人生活",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkbGpTOVgyRi1fNENESklwZDNmMDlTdVdEdTFBUXNDYWxmci1meFh1OHlaV3BiTkkwelFRandXd2R5Sm93MDBNcHZERUs2T3BLbGh1a0VwSXI3Y0F2Z3RocjNpcXplejBlemdnTnR6ZVNWb2NqVUpCWmo4dVV2UQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-04-21T22:41:47Z",
+            "summary": "“社区食堂+银发学堂”：中国打造养老服务圈温暖老年人生活 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "李坤说教育 | 读书是为了什么？网友的这些回答太戳心！",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzWko1SV8wRmdXRFczNlpNNGs2MFZORDE5TFQwcERENnJXZ0lTVkxIemJMN0ZNb1V3dk0tdW5Dd2g5dXZKdEJZU1FCeVNmSHE2d0ppb1JlWWZQWkR0bHE3T2hPVklyS1NaTFhvV0V0ZFppekIwQmRUWnUwYkM1Zw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-04-22T17:06:07Z",
+            "summary": "李坤说教育 | 读书是为了什么？网友的这些回答太戳心！ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "美国务院要求美在伊朗公民立即离境",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lcFZsNzJma1pTWklzazhLblB1aTlJYlRwZFBlcHRRRzhORk05V0ZEWXpQMDljM09UTFRTSlRmOWhsYjlNWVdlVUk0VnlrNmlBQWpLcE5lZVBVWlhIRkFHM2ozdm9NZHNoYWNYbE54T3hXSlhMcmc0dFlfM0xoZw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-04-22T18:34:04Z",
+            "summary": "美国务院要求美在伊朗公民立即离境 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "国际海事组织：袭船扣船不可接受 呼吁立即放人放船",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hV0JrdW9SRHFnUHZYRnNXTnJROGk5SFFRRGliWXhSVVhpbUF6QmdSTU94emx3Tms0U2YwWlhiZVFrSWU4S2x0cklrcHFWNkJjUkZPUFo2MVpwUFo4MWZQUzVXOHBRaU1wZC0xOXEyR1hpQS1BZ0tqazROSklEQQ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-04-22T10:45:07Z",
+            "summary": "国际海事组织：袭船扣船不可接受 呼吁立即放人放船 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "电影《马到功成》亮相北影节科技单元",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdngwOEZCYmJnVTB5WjI4QVVrc18wcUE4SDdGc3RfTFJQMW80YnJ3YVVSWEJLNG1EV0tMWUdhV3BWYUM3cHhDX3F1cnlzdVdLdExtdGlEX0ZudWVQUVh0MGJHRFVvMExpYVhDUm9mS0tBOF8yTkttN0xTRHZYSUVYM2lRTQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-04-22T16:59:50Z",
+            "summary": "电影《马到功成》亮相北影节科技单元 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "15家科创板公司长成千亿市值大个头 “科特估”重塑硬科技价值",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kbEZucWkzbEh3bnpDbmFIVW85SXVQSTVZd016RXpqQ1BYek43WEJKbDFBYm9YUGtyUXY1aVpwRWw3N0ZBR2Fub1N6WVZGTUphdEp0V2lqZEN3ZG1lNFB2TG05YXdUWDJPOGo3R2d6S083UkZic1R2bXQwbkJtQQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-04-22T18:14:58Z",
+            "summary": "15家科创板公司长成千亿市值大个头 “科特估”重塑硬科技价值 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "我国科技人员揭秘44.8亿年的“太阳系活化石”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IS05DbVppWFJEWnBkSGl6OGdqQUFUN29JQnRsdzhWbjR1RmlxRUdTQ3VJbl9LNWVlTmJwYjIwdjlOYzRjNnA4R3RxUEI2Q3ZVbXRSNTVmSWVhODdLZm54blRaZ0FFcWFEQmM4OU9HdnNHUWlrMlVrVGlhQXBzdw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-04-22T03:53:17Z",
+            "summary": "我国科技人员揭秘44.8亿年的“太阳系活化石” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "经济大省调研行丨在这里，钢厂开始造卫星，一粒种子能撬动一个产业链……",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PSzhNYldZZ09TVWZDYXQ3aWlPN0VweUp4N1FiMVZsdGlfU3I5am95bzhVS1IyRUtBQVdGLUtOYnBVcGZ3S1pQWTRsZFVUeXY2engxNnBtdUNNLUV5MHlXMEdmcUVuaDNEdElINDZUSVhUVUVCbDJlODNDMDRqUQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-04-22T00:59:51Z",
+            "summary": "经济大省调研行丨在这里，钢厂开始造卫星，一粒种子能撬动一个产业链…… 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        },
+        {
+          "title": "近300家国内外企业和组织亮相中国国际核工业展览会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0waVBJYWRmUlVqMGpJalhvRU91bEdRc2ZjVUM5bVEzaXlqQ19vSlgtY0ZmeFRJN0JWZV9TREVfdzJUallncG8yS200T2FNUEZlZi1jcUFwNVVWWmJtMmtZT0xPUmV3MmEyUlpsWW5YVHl6bWtpVElRX055a01LZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-04-22T01:56:57Z",
+            "summary": "近300家国内外企业和组织亮相中国国际核工业展览会 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-23T06:15:57+08:00",
       "source": "Xinhua News Agency RSS",
@@ -26264,272 +26530,6 @@
             "category": "财经",
             "published": "2026-04-02T01:03:21Z",
             "summary": "以文字的方式打开联工大的春天 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "科技助力高原“植绿”闯过“五道生死关”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53NWNRNDJ1UmZwN0EzN3NXMzZyRWZpM1lOSzB5QkU0ZTFBYW9sM3RTOWo2WF9vRnE1clJKN1hKQXM5WkhGRl9uTkdXUVlXdGh4dWNYQm9aSl9Eemg1SW5UemRmUE9LeW5jZnE4dy1tR1lZWTBhVUhhczFKWmV4UQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-04-02T17:40:03Z",
-            "summary": "科技助力高原“植绿”闯过“五道生死关” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "果园里的“科技密码”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WMkZhUjYtOFo3MEdvSUw0THBSX3JOQmd5d25MRElzdHB4S09Eam02N1pjbGNuZmxvZm5ieS11c3pPZVU0eHNORVBYUzViZnZnZENJQnZBV1dVVlVLQ1ZSZXR4VnY0OUczT09RbHFDVFU2RWpJWnF5VlpFeW42Zw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-04-02T17:41:39Z",
-            "summary": "果园里的“科技密码” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "外交部：中国的科技创新坚持开放合作",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RckVSWWxVRkZyZzE4Xzc2WTh3R3pCZUVGWmRVOFFua19JV2tTRFdkVVRQVTQtelcyZ0hKNVB6NzZMd1RFcnc5cEJmZmtzWnliUmZqSDgtVGxKYlhlZUcxOHZXckEwUUVESi11ejI1OHpBZnlpbjhvYUhvVDFUdw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-04-02T01:10:24Z",
-            "summary": "外交部：中国的科技创新坚持开放合作 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "北控水务携多项科技创新成果亮相2026中关村论坛年会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNmExVU90a21femlzZ1NvXzVpcnhWcTdwdU5NM3d3cGk0NUx0ZFFwY0paMlU4TjM3TE5pRWtHZUNKVEx3anNRM3UyTUhQYmxFczd6b3RDTnRVVlFDMzY5SVRtUDVORmJqZnJXTXdGT0U0OVFlLWRIUjYwZ29NdGFtcEZrTWt3a00?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-04-02T01:34:49Z",
-            "summary": "北控水务携多项科技创新成果亮相2026中关村论坛年会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "伊朗称将打击中东地区与18家美高科技公司有关机构",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmVXX2dPSk54N1RfeDJQMHpvRVo1c19tOHpRRFFlT2phTzhfYk1yTThpVFBiRV9SX3FvbjJzeWlGMHdTaDdLSVBzd2dSWTFQQWhsZkdEZDRQbk03WndRam5zVy05eG5tM091SE45VWVpNEVSVEItZUdxdExQNVNyNFlmMElkWm8?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-04-02T01:11:03Z",
-            "summary": "伊朗称将打击中东地区与18家美高科技公司有关机构 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-03T11:39:29+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "2026世界孤独症关注日， 愿每颗“星星”都有归处",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWptSFNtb1VUVUNQOTduYUlfS0lON1h1SklUbTh2enkydEgzckQzYWhobFBKVzE1REdKSHVaVUczUGRELV9wN3I0TkRHMnVmYVp5ZVp0UFIxajJkY3hsWmtfamVKVXpkQWVWUUxJSHVxWFIxN1ZDNFlvYVJNd19Ua2VQeWJhbjQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-04-02T01:31:26Z",
-            "summary": "2026世界孤独症关注日， 愿每颗“星星”都有归处 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "伊朗军队总司令谈可能的地面战：“不允许敌方一人生还”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KUzhiZEdwTTZJY3FfZ2drenpnNmlzWWhtMXc2WkRXQ2F0Z3JTTzN0dlJZNVVFWnpvYU1ER0RfMlRNUzhFaFVFMUhyV0dfTFhKcFBzOUV6bEloeXBjVWxwRkVlZzN0Y2k0ZUQxSUZvaXJERXVWS1VBdmdUWE54QUE?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-04-02T01:06:56Z",
-            "summary": "伊朗军队总司令谈可能的地面战：“不允许敌方一人生还” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "特朗普做了件史无前例的事",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRjlzTkpiS2daYXZRYVlRVlZnTFhaa0N4ZS1ZMWR4cmJCSWh5OTRnU3hIYXB1UTdmV3Y4cUZkT1JkXzlVelJUWl9EUmtTQ2hxUnB6eXMybEpfRGZaMTBjZzdBQ1ViYl91N0xqNmFZcktSaGNwWEVYS21hRU5tdk0?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-04-02T01:05:26Z",
-            "summary": "特朗普做了件史无前例的事 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "俄外交部：日本部署远程导弹的后果不堪设想",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12TGpBa0tITkFhbjZIeXk4dUZBWUp4UmhXLVlFVm9qU1pEU0FMQVl6ZDlHOEFKUkl1YXJrNlEwb1ExWVNrSTJBNGdlTnc1TW5IZzFXdjhybEplbTBxVFV2Z3hHTlBtU2FETU5iWHhsUXM4R05aMmZfR3diTDNhUQ?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-04-01T21:21:16Z",
-            "summary": "俄外交部：日本部署远程导弹的后果不堪设想 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "盐碱地上麦又青丨改土治盐，荒滩变身良田",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GaXZKaER3Z2g3QUYybnBPaF9UX0U3d1NKakkyTG8yYS04X1c2N050SWVSQW9pdDhyMGFLY2V0ZVFQOE1ldXl1VTFzSTB1VVlLTzR2amtFV3RGSGx1cS0yUVJKam1tTHh3YWlLOTA0Q092TC1lMk9WaGdEZ2haZw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-04-02T19:02:46Z",
-            "summary": "盐碱地上麦又青丨改土治盐，荒滩变身良田 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "受国内业务拖累，迈瑞医疗上市后业绩首次下滑，预计国内业务今年有望实现正增长",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFVnRVJDVmMtYm4wc253U3ZqUkNTZktzRjMyTU04emVaZDdMeVhuY0hLX3BETklLbnM1OE5jemRja0xxY2pabTdTUXBDa2xrUGNVZjZycWNWVVRWb2szQi13SUtqdUpTZUdXYXBGWlpsZ3FhbUI3Q1k2Q2p6Z3F1VFlxZUpwTTA?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-04-02T18:53:57Z",
-            "summary": "受国内业务拖累，迈瑞医疗上市后业绩首次下滑，预计国内业务今年有望实现正增长 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "外部危机如何成为丹麦选举“助推器”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDhyeG1WUGxMb0IzYk5kQmEwZkxVb1dpT2lzRGNYT3ZDZ3ktLUtRcU8wSGJLc0JGamNKRzVkMm9VRFZsYVhiU2F2dVFaX3pUTDk5TXRmWDJUXzV6dDg0Q2lXUUR0SjhoOHpHekVzVk5ncGh1LUhqeXNyTlFmSnhyZlA5VXB6UQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-04-01T22:31:32Z",
-            "summary": "外部危机如何成为丹麦选举“助推器” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "特朗普讲话遭美国舆论花式吐槽",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4MUNQekkxQXpKdUtIMElfRVI4T2VTWnpGSXVXYXIyNHVLa1lsZHdpQWtzdU0wdDJEMlkybVNVLXJOd0dsdGpmMHV4N2JpdFkzWnVRbjJDLVVSYVcxZmdFcVhNbzh6YUIyeGtRQ1NIX3B3TzNvVG5ESFlLa0Rldw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-04-02T05:05:57Z",
-            "summary": "特朗普讲话遭美国舆论花式吐槽 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "伊朗国防部：美以在多个方面挫败",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OOVByWXJNbEtHMUs1WEJ2Qk1vcjBTdEZBTDNXWWJGa3ltQ290N2F5TmpKdENUZ1JpWDdScEw4c3JpM3c1YnZaUVMtbXFpUkN0OU94NDUwbm85SWdxME52dG1MQm5WcmZQYmdUYjVQVmhLNlZobGMtc0NqZ3pTQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-04-02T00:42:08Z",
-            "summary": "伊朗国防部：美以在多个方面挫败 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "国际观察丨解析特朗普“赢学”讲话：嘴上一直“赢”，心里确实“慌”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtUlVWNG9QUkVyMEg0WVR1ZlBJSFdtSlBRTFlBTmNubVZzcHZ4T0dsTmtRSDJVbWRRWVhpWm9vX3BCQXVES3NkQm5lRjBUZjNRbWRaVzJyaGNvZ3FTNVR0a0l4RldKN0kyOGNDQXVtbXV4OGQ1T2JYanlBYkF0dw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-04-02T02:37:58Z",
-            "summary": "国际观察丨解析特朗普“赢学”讲话：嘴上一直“赢”，心里确实“慌” 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "财经聚焦丨从“张雪机车”夺冠，看中国摩托车产业新趋势",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOel9pU0RuWWVFRF9mU00yWm5vMm9nWm43b1hodzhFb1IyekZDNDJmak9SQzZ6cUFyXzEzbzBkdGFMdkVJU2R6T05hS1FjS3VHZVVJbHJqNk1MTHNwR18yUGs0anY3Y2tkQ2ZxbFFSeTloV3RBVk9ac0FGYTQ0VHVUbERHMGhITlM2?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-04-02T05:04:22Z",
-            "summary": "财经聚焦丨从“张雪机车”夺冠，看中国摩托车产业新趋势 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "南非军队进驻开普敦协助打击犯罪",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yckp4M21nT1JQbFBiV2MyYjRWcnZWZTgzRGZicXhJM0tnM29BMzZSSTZ5dy1XQUJtNUwyQ1dDWHRydHI5VjBaWVlHMWcycWw5NkZmN1A3c3ZVajROM2t0cWZ5cGtyaUdmOGpvcUhOdWx2UVJRclhtYklEeHBDUQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-04-01T22:07:40Z",
-            "summary": "南非军队进驻开普敦协助打击犯罪 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "受国内业务拖累，迈瑞医疗上市后业绩首次下滑，预计国内业务今年有望实现正增长",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFVnRVJDVmMtYm4wc253U3ZqUkNTZktzRjMyTU04emVaZDdMeVhuY0hLX3BETklLbnM1OE5jemRja0xxY2pabTdTUXBDa2xrUGNVZjZycWNWVVRWb2szQi13SUtqdUpTZUdXYXBGWlpsZ3FhbUI3Q1k2Q2p6Z3F1VFlxZUpwTTA?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-04-02T18:53:57Z",
-            "summary": "受国内业务拖累，迈瑞医疗上市后业绩首次下滑，预计国内业务今年有望实现正增长 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "蓝莓不开心？——探访科技感满满的智慧农业基地",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnd1oxZDZ0cS14dl9fNlRJS1RnSFdjUUdGazVoMndkUzJYZkY0U19OQzJ4Wi12bzNmV1JfY1dvdkh1SHpTWDluVzF4MkR3Q25KanpNZjdkVDZOMTg0aXItUWxjcWJFRWJfMTNkaWsyUmFZVy1DY3BwUExJaDBWQQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-04-01T20:40:31Z",
-            "summary": "蓝莓不开心？——探访科技感满满的智慧农业基地 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "伊朗军队总司令谈可能的地面战：“不允许敌方一人生还”",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yNzNKNHVqbUNCMnlUOGM3TG5qV0t6cU42RW5OSmloWDhRQ3k2enhJZnRtVFNIam1UUzVQQTU1RGlkSHpnNi01eUtXX2pDVlY1Vl85a2hqNkY2eDdKR3k5VzJZMXJSSWZIMU5PcC01YnJ4RC1FRTRWM2RrOWRyQQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-04-02T01:06:56Z",
-            "summary": "伊朗军队总司令谈可能的地面战：“不允许敌方一人生还” 新华网",
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
             "source_name": "新华网",
             "translation": ""
