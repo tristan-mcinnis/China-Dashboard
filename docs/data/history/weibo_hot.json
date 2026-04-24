@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-24T11:43:28+08:00",
+  "generated_at": "2026-04-24T14:32:37+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-24T14:32:37+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 这些图片居然都是AI的",
+          "value": "2956129 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%99%E4%BA%9B%E5%9B%BE%E7%89%87%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AFAI%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 2956129",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 浪姐 [新]",
+          "value": "综艺 1075460 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%AA%E5%A7%90&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "综艺 1075460",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 第11个中国航天日",
+          "value": "882960 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC11%E4%B8%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 882960",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 2026北京车展",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 爷爷得知孙女怀孕立刻搭了个鸡窝",
+          "value": "601994 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%A5%B3%E6%80%80%E5%AD%95%E7%AB%8B%E5%88%BB%E6%90%AD%E4%BA%86%E4%B8%AA%E9%B8%A1%E7%AA%9D&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 601994",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 伊朗巨幅海报宣告霍尔木兹海峡控制权 [火热]",
+          "value": "601848 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%E5%AE%A3%E5%91%8A%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%8E%A7%E5%88%B6%E6%9D%83&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 601848",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 谭松韵心疼沈月",
+          "value": "综艺 535350 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%BF%83%E7%96%BC%E6%B2%88%E6%9C%88&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "综艺 535350",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 华莱士魔道祖师动画新谷秒吃 [热]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E8%8E%B1%E5%A3%AB%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%E5%8A%A8%E7%94%BB%E6%96%B0%E8%B0%B7%E7%A7%92%E5%90%83&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 建议装修一定要去家务化",
+          "value": "427779 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E8%A3%85%E4%BF%AE%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%BB%E5%AE%B6%E5%8A%A1%E5%8C%96&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 427779",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 设计师办公室猝死微信定格在凌晨3点",
+          "value": "416580 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%8C%9D%E6%AD%BB%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%A0%BC%E5%9C%A8%E5%87%8C%E6%99%A83%E7%82%B9&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 416580",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-24T11:43:28+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 153371",
             "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-04T14:16:45+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 清明上山扫墓却发现母亲的墓不见了",
-          "value": "1073206 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B8%85%E6%98%8E%E4%B8%8A%E5%B1%B1%E6%89%AB%E5%A2%93%E5%8D%B4%E5%8F%91%E7%8E%B0%E6%AF%8D%E4%BA%B2%E7%9A%84%E5%A2%93%E4%B8%8D%E8%A7%81%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1073206",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 1层3户只有1家被贴满小广告",
-          "value": "788883 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D1%E5%B1%823%E6%88%B7%E5%8F%AA%E6%9C%891%E5%AE%B6%E8%A2%AB%E8%B4%B4%E6%BB%A1%E5%B0%8F%E5%B9%BF%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 788883",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 属于中国人的清明仪式感",
-          "value": "601047 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B8%85%E6%98%8E%E4%BB%AA%E5%BC%8F%E6%84%9F&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 601047",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 张雪称5亿设计logo害死哪吒",
-          "value": "309325 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%9B%AA%E7%A7%B05%E4%BA%BF%E8%AE%BE%E8%AE%A1logo%E5%AE%B3%E6%AD%BB%E5%93%AA%E5%90%92&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 309325",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 孙颖莎vs高达",
-          "value": "290038 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%AB%98%E8%BE%BE&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 290038",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 李兰迪回应何宣林wink [新]",
-          "value": "综艺 248157 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%9B%9E%E5%BA%94%E4%BD%95%E5%AE%A3%E6%9E%97wink&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "综艺 248157",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 凡人修仙传",
-          "value": "229985 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 229985",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 原来真有人住的房子这么大 [新]",
-          "value": "221967 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E4%BD%8F%E7%9A%84%E6%88%BF%E5%AD%90%E8%BF%99%E4%B9%88%E5%A4%A7&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 221967",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. TXT新专 万妮达",
-          "value": "音乐 175980 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTXT%E6%96%B0%E4%B8%93%20%E4%B8%87%E5%A6%AE%E8%BE%BE&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "音乐 175980",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 林昀儒4比1张本智和 [新]",
-          "value": "136316 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9E%97%E6%98%80%E5%84%924%E6%AF%941%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 136316",
-            "tag": "新",
             "api_source": "tianapi",
             "translation": ""
           }
