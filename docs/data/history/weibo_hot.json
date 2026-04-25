@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-25T18:45:34+08:00",
+  "generated_at": "2026-04-25T22:21:50+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-25T22:21:50+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 篇章好听",
+          "value": "综艺 1256569 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AF%87%E7%AB%A0%E5%A5%BD%E5%90%AC&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "综艺 1256569",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 青岛警方致歉",
+          "value": "881347 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%87%B4%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 881347",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 新业态新赛道催生新职业新岗位",
+          "value": "671780 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E4%B8%9A%E6%80%81%E6%96%B0%E8%B5%9B%E9%81%93%E5%82%AC%E7%94%9F%E6%96%B0%E8%81%8C%E4%B8%9A%E6%96%B0%E5%B2%97%E4%BD%8D&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 671780",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 海洋8系大电池加闪充真王牌真旗舰 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B7%E6%B4%8B8%E7%B3%BB%E5%A4%A7%E7%94%B5%E6%B1%A0%E5%8A%A0%E9%97%AA%E5%85%85%E7%9C%9F%E7%8E%8B%E7%89%8C%E7%9C%9F%E6%97%97%E8%88%B0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 阚清子老公是她的榜一大哥",
+          "value": "综艺 665751 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%9A%E6%B8%85%E5%AD%90%E8%80%81%E5%85%AC%E6%98%AF%E5%A5%B9%E7%9A%84%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "综艺 665751",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 五一原来是放假七天的 [重磅]",
+          "value": "630338 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E4%B8%80%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%94%BE%E5%81%87%E4%B8%83%E5%A4%A9%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 630338",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 曾沛慈赢了",
+          "value": "综艺 561162 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9B%BE%E6%B2%9B%E6%85%88%E8%B5%A2%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "综艺 561162",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 北京车展夯爆的MPV你问道了吗 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E5%A4%AF%E7%88%86%E7%9A%84MPV%E4%BD%A0%E9%97%AE%E9%81%93%E4%BA%86%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 东方甄选明明离职原因",
+          "value": "490566 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%98%8E%E6%98%8E%E7%A6%BB%E8%81%8C%E5%8E%9F%E5%9B%A0&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 490566",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 瘦人无法理解的吃饭习惯",
+          "value": "484733 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%98%A6%E4%BA%BA%E6%97%A0%E6%B3%95%E7%90%86%E8%A7%A3%E7%9A%84%E5%90%83%E9%A5%AD%E4%B9%A0%E6%83%AF&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 484733",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-25T18:45:34+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 34270",
             "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-05T22:16:24+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 王楚钦vs松岛辉空",
-          "value": "1782209 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1782209",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 郭艾伦被诈骗近千万 [新]",
-          "value": "1623518 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%AD%E8%89%BE%E4%BC%A6%E8%A2%AB%E8%AF%88%E9%AA%97%E8%BF%91%E5%8D%83%E4%B8%87&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1623518",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 三代人同框敬礼祭奠先烈",
-          "value": "754359 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%89%E4%BB%A3%E4%BA%BA%E5%90%8C%E6%A1%86%E6%95%AC%E7%A4%BC%E7%A5%AD%E5%A5%A0%E5%85%88%E7%83%88&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 754359",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 李小冉我P都不敢P这么白 [新]",
-          "value": "693183 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%B0%8F%E5%86%89%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E8%BF%99%E4%B9%88%E7%99%BD&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 693183",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 孙颖莎冠军",
-          "value": "624679 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 624679",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 王楚钦9比11松岛辉空 [新]",
-          "value": "508243 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%A5%9A%E9%92%A69%E6%AF%9411%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 508243",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 妈妈不知儿子去世跟AI儿子聊了1年",
-          "value": "459291 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 459291",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 孙颖莎创造历史 [新]",
-          "value": "421624 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%A2%96%E8%8E%8E%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 421624",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. TES举报宁王",
-          "value": "294204 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E4%B8%BE%E6%8A%A5%E5%AE%81%E7%8E%8B&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 294204",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. AL对战TES [新]",
-          "value": "260783 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAL%E5%AF%B9%E6%88%98TES&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 260783",
-            "tag": "新",
             "api_source": "tianapi",
             "translation": ""
           }
