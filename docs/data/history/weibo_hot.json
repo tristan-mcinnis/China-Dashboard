@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-04-27T11:45:06+08:00",
+  "generated_at": "2026-04-27T14:45:30+08:00",
   "entries": [
+    {
+      "as_of": "2026-04-27T14:45:30+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 上海迪士尼男子被劝烟殴打劝烟者",
+          "value": "1257353 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%94%B7%E5%AD%90%E8%A2%AB%E5%8A%9D%E7%83%9F%E6%AE%B4%E6%89%93%E5%8A%9D%E7%83%9F%E8%80%85&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1257353",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 上海迪士尼回应游客劝阻吸烟被打 [新]",
+          "value": "844738 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E5%8A%9D%E9%98%BB%E5%90%B8%E7%83%9F%E8%A2%AB%E6%89%93&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 844738",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 五一叠加春假加出文旅消费新活力",
+          "value": "827249 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E4%B8%80%E5%8F%A0%E5%8A%A0%E6%98%A5%E5%81%87%E5%8A%A0%E5%87%BA%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E6%96%B0%E6%B4%BB%E5%8A%9B&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 827249",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 王一博终于等到他的康师傅冰红茶",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E4%BB%96%E7%9A%84%E5%BA%B7%E5%B8%88%E5%82%85%E5%86%B0%E7%BA%A2%E8%8C%B6&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 马龙送国乒出征",
+          "value": "812097 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E9%BE%99%E9%80%81%E5%9B%BD%E4%B9%92%E5%87%BA%E5%BE%81&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 812097",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 醋酸美甲 [重磅]",
+          "value": "689342 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%86%8B%E9%85%B8%E7%BE%8E%E7%94%B2&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 689342",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 买纸巾得多个心眼",
+          "value": "676769 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%B0%E7%BA%B8%E5%B7%BE%E5%BE%97%E5%A4%9A%E4%B8%AA%E5%BF%83%E7%9C%BC&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 676769",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 宝藏家庭读书计划 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%9D%E8%97%8F%E5%AE%B6%E5%BA%AD%E8%AF%BB%E4%B9%A6%E8%AE%A1%E5%88%92&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 卢昱晓方确认演恰逢雨连天",
+          "value": "剧集 555770 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A2%E6%98%B1%E6%99%93%E6%96%B9%E7%A1%AE%E8%AE%A4%E6%BC%94%E6%81%B0%E9%80%A2%E9%9B%A8%E8%BF%9E%E5%A4%A9&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 555770",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 被我爸的道歉方式震惊了",
+          "value": "517725 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A2%AB%E6%88%91%E7%88%B8%E7%9A%84%E9%81%93%E6%AD%89%E6%96%B9%E5%BC%8F%E9%9C%87%E6%83%8A%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 517725",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-04-27T11:45:06+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 193968",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-07T14:25:10+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 郭艾伦否认被骗",
-          "value": "1214571 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%A6%E8%AE%A4%E8%A2%AB%E9%AA%97&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1214571",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 5月放假12天 [热]",
-          "value": "894201 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D5%E6%9C%88%E6%94%BE%E5%81%8712%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 894201",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 电商要更好服务实体经济",
-          "value": "712016 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B5%E5%95%86%E8%A6%81%E6%9B%B4%E5%A5%BD%E6%9C%8D%E5%8A%A1%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 712016",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 曝某牛奶直播间涉黄涉低俗",
-          "value": "587923 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9B%9D%E6%9F%90%E7%89%9B%E5%A5%B6%E7%9B%B4%E6%92%AD%E9%97%B4%E6%B6%89%E9%BB%84%E6%B6%89%E4%BD%8E%E4%BF%97&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 587923",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 情侣因换座与女乘客发生争执",
-          "value": "461643 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%83%85%E4%BE%A3%E5%9B%A0%E6%8D%A2%E5%BA%A7%E4%B8%8E%E5%A5%B3%E4%B9%98%E5%AE%A2%E5%8F%91%E7%94%9F%E4%BA%89%E6%89%A7&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 461643",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 妻子的浪漫旅行嘉宾阵容 [新]",
-          "value": "综艺 426033 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A6%BB%E5%AD%90%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%97%85%E8%A1%8C%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "综艺 426033",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 原来这叫软孤立啊",
-          "value": "388579 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%8F%AB%E8%BD%AF%E5%AD%A4%E7%AB%8B%E5%95%8A&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 388579",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 金莎孙丞潇上夫妻综艺了 [新]",
-          "value": "综艺 372235 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E4%B8%8A%E5%A4%AB%E5%A6%BB%E7%BB%BC%E8%89%BA%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "综艺 372235",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 郑丽文率团抵达",
-          "value": "319819 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E4%B8%BD%E6%96%87%E7%8E%87%E5%9B%A2%E6%8A%B5%E8%BE%BE&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 319819",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 郭艾伦将追责 [热]",
-          "value": "297221 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%AD%E8%89%BE%E4%BC%A6%E5%B0%86%E8%BF%BD%E8%B4%A3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 297221",
             "tag": "热",
             "api_source": "tianapi",
             "translation": ""
