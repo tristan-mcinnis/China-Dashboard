@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-03T11:45:27+08:00",
+  "generated_at": "2026-05-03T14:45:25+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-03T14:45:25+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. NPC小黄鱼互动改送簪花",
+          "value": "1148639 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DNPC%E5%B0%8F%E9%BB%84%E9%B1%BC%E4%BA%92%E5%8A%A8%E6%94%B9%E9%80%81%E7%B0%AA%E8%8A%B1&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1148639",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 景区NPC擦边涉嫌违法违规",
+          "value": "848369 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AF%E5%8C%BANPC%E6%93%A6%E8%BE%B9%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 848369",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 五一假期绿色出行热度攀升",
+          "value": "728310 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%BF%E8%89%B2%E5%87%BA%E8%A1%8C%E7%83%AD%E5%BA%A6%E6%94%80%E5%8D%87&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 728310",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 白鹿被孟子义说挂相",
+          "value": "综艺 727919 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%E8%A2%AB%E5%AD%9F%E5%AD%90%E4%B9%89%E8%AF%B4%E6%8C%82%E7%9B%B8&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "综艺 727919",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 榴莲价格",
+          "value": "648352 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 648352",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 大睡特睡 修复前额叶 [新]",
+          "value": "372191 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E7%9D%A1%E7%89%B9%E7%9D%A1%20%E4%BF%AE%E5%A4%8D%E5%89%8D%E9%A2%9D%E5%8F%B6&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 372191",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 国乒男团1比3韩国",
+          "value": "365599 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A21%E6%AF%943%E9%9F%A9%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 365599",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 严浩翔回应演唱会哭了",
+          "value": "演出 359277 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "演出 359277",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 美国街头吸毒者众多如丧尸聚集",
+          "value": "357275 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E8%A1%97%E5%A4%B4%E5%90%B8%E6%AF%92%E8%80%85%E4%BC%97%E5%A4%9A%E5%A6%82%E4%B8%A7%E5%B0%B8%E8%81%9A%E9%9B%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 357275",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. TOP团综 [新]",
+          "value": "356175 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTOP%E5%9B%A2%E7%BB%BC&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 356175",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-03T11:45:27+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 285782",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-13T11:44:52+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 员工中了1500万彩票后直接离职",
-          "value": "1160657 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%98%E5%B7%A5%E4%B8%AD%E4%BA%861500%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%90%8E%E7%9B%B4%E6%8E%A5%E7%A6%BB%E8%81%8C&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1160657",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 9岁男孩偷偷给爷爷带肉当地已介入 [新]",
-          "value": "856230 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D9%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%81%B7%E7%BB%99%E7%88%B7%E7%88%B7%E5%B8%A6%E8%82%89%E5%BD%93%E5%9C%B0%E5%B7%B2%E4%BB%8B%E5%85%A5&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 856230",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 中国航天不断刷新宇宙级精彩",
-          "value": "795760 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%B8%8D%E6%96%AD%E5%88%B7%E6%96%B0%E5%AE%87%E5%AE%99%E7%BA%A7%E7%B2%BE%E5%BD%A9&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 795760",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 陈赫 短剧",
-          "value": "755156 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%99%88%E8%B5%AB%20%E7%9F%AD%E5%89%A7&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 755156",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 美将封锁霍尔木兹海峡",
-          "value": "585599 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%B0%86%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 585599",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 何猷君晒与何超蕸合照 [新]",
-          "value": "535809 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E7%8C%B7%E5%90%9B%E6%99%92%E4%B8%8E%E4%BD%95%E8%B6%85%E8%95%B8%E5%90%88%E7%85%A7&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 535809",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 女子单独坐过夜火车被乘警拉进群",
-          "value": "450208 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E5%8D%95%E7%8B%AC%E5%9D%90%E8%BF%87%E5%A4%9C%E7%81%AB%E8%BD%A6%E8%A2%AB%E4%B9%98%E8%AD%A6%E6%8B%89%E8%BF%9B%E7%BE%A4&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 450208",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 华为PuraXMax [新]",
-          "value": "340449 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%8E%E4%B8%BAPuraXMax&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 340449",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 十日终焉防代拍",
-          "value": "剧集 298723 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%98%B2%E4%BB%A3%E6%8B%8D&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 298723",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 超级巨星孙颖莎 [新]",
-          "value": "296233 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%85%E7%BA%A7%E5%B7%A8%E6%98%9F%E5%AD%99%E9%A2%96%E8%8E%8E&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 296233",
             "tag": "新",
             "api_source": "tianapi",
             "translation": ""
