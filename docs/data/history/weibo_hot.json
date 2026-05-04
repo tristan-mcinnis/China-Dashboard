@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-04T06:13:48+08:00",
+  "generated_at": "2026-05-04T11:45:29+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-04T11:45:29+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 国乒淘汰赛签表",
+          "value": "1103035 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E4%B9%92%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%AD%BE%E8%A1%A8&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1103035",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 莫雷加德回应击败中国男团",
+          "value": "786269 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E5%9B%9E%E5%BA%94%E5%87%BB%E8%B4%A5%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 786269",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 心有热爱永远正值青春",
+          "value": "652462 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%83%E6%9C%89%E7%83%AD%E7%88%B1%E6%B0%B8%E8%BF%9C%E6%AD%A3%E5%80%BC%E9%9D%92%E6%98%A5&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 652462",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 前男友香辣蟹 [新]",
+          "value": "634923 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%89%8D%E7%94%B7%E5%8F%8B%E9%A6%99%E8%BE%A3%E8%9F%B9&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 634923",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 五一排队现状",
+          "value": "605646 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E4%B8%80%E6%8E%92%E9%98%9F%E7%8E%B0%E7%8A%B6&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 605646",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 3天2位父亲为救娃遇难 [新]",
+          "value": "425708 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D3%E5%A4%A92%E4%BD%8D%E7%88%B6%E4%BA%B2%E4%B8%BA%E6%95%91%E5%A8%83%E9%81%87%E9%9A%BE&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 425708",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 马龙夏露自费飞赴伦敦支持国乒",
+          "value": "415880 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E9%BE%99%E5%A4%8F%E9%9C%B2%E8%87%AA%E8%B4%B9%E9%A3%9E%E8%B5%B4%E4%BC%A6%E6%95%A6%E6%94%AF%E6%8C%81%E5%9B%BD%E4%B9%92&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 415880",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 王濛叫李小冉祖宗 [新]",
+          "value": "综艺 410906 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%BF%9B%E5%8F%AB%E6%9D%8E%E5%B0%8F%E5%86%89%E7%A5%96%E5%AE%97&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "综艺 410906",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 周深追不上伴舞气笑了",
+          "value": "演出 410797 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E6%B7%B1%E8%BF%BD%E4%B8%8D%E4%B8%8A%E4%BC%B4%E8%88%9E%E6%B0%94%E7%AC%91%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "演出 410797",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 公司引进AI后将员工降薪裁员",
+          "value": "410755 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E5%B0%86%E5%91%98%E5%B7%A5%E9%99%8D%E8%96%AA%E8%A3%81%E5%91%98&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 410755",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-04T06:13:48+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 234637",
             "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-14T06:15:26+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 嫣然医院不再续租",
-          "value": "260196 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E4%B8%8D%E5%86%8D%E7%BB%AD%E7%A7%9F&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 260196",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 演出服遭集体退货家属称表演取消 [热]",
-          "value": "193735 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BC%94%E5%87%BA%E6%9C%8D%E9%81%AD%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 193735",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 2026世界互联网大会亚太峰会",
-          "value": "148259 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%BA%9A%E5%A4%AA%E5%B3%B0%E4%BC%9A&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 148259",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 特朗普警告伊朗攻击艇勿靠近封锁线",
-          "value": "57665 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 57665",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 美若封锁霍尔木兹就将失去曼德海峡",
-          "value": "57128 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E8%8B%A5%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B0%B1%E5%B0%86%E5%A4%B1%E5%8E%BB%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 57128",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 田曦薇发言",
-          "value": "53229 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B0%E6%9B%A6%E8%96%87%E5%8F%91%E8%A8%80&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 53229",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 外交部回应美方将封锁霍尔木兹海峡",
-          "value": "43701 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%B0%86%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 43701",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 网友一句提醒外卖小哥查出尿毒症",
-          "value": "31206 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E5%8F%8B%E4%B8%80%E5%8F%A5%E6%8F%90%E9%86%92%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%9F%A5%E5%87%BA%E5%B0%BF%E6%AF%92%E7%97%87&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 31206",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 伊朗强硬回应特朗普封锁威胁",
-          "value": "30271 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 30271",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 伊朗总统称准备达成平衡公平协议 [热]",
-          "value": "26126 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%87%86%E5%A4%87%E8%BE%BE%E6%88%90%E5%B9%B3%E8%A1%A1%E5%85%AC%E5%B9%B3%E5%8D%8F%E8%AE%AE&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 26126",
-            "tag": "热",
             "api_source": "tianapi",
             "translation": ""
           }
