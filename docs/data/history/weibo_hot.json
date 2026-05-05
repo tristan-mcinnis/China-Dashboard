@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-05T11:43:21+08:00",
+  "generated_at": "2026-05-05T14:38:54+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-05T14:38:54+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 浏阳烟花厂爆炸致26死61伤",
+          "value": "13512440 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B426%E6%AD%BB61%E4%BC%A4&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 13512440",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 奔跑吧打假 [新]",
+          "value": "综艺 2191482 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%94%E8%B7%91%E5%90%A7%E6%89%93%E5%81%87&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "综艺 2191482",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 数字技术催生文旅新业态",
+          "value": "1667215 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%82%AC%E7%94%9F%E6%96%87%E6%97%85%E6%96%B0%E4%B8%9A%E6%80%81&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1667215",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 导致脊柱侧弯的姿势都好舒服",
+          "value": "708473 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AF%BC%E8%87%B4%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E7%9A%84%E5%A7%BF%E5%8A%BF%E9%83%BD%E5%A5%BD%E8%88%92%E6%9C%8D&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 708473",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 穆祉丞没发大合照",
+          "value": "演出 678761 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%86%E7%A5%89%E4%B8%9E%E6%B2%A1%E5%8F%91%E5%A4%A7%E5%90%88%E7%85%A7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "演出 678761",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 国内一年仅卖2763万台彩电",
+          "value": "630238 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E5%86%85%E4%B8%80%E5%B9%B4%E4%BB%85%E5%8D%962763%E4%B8%87%E5%8F%B0%E5%BD%A9%E7%94%B5&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 630238",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 白日梦我",
+          "value": "577606 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E6%97%A5%E6%A2%A6%E6%88%91&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 577606",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 你根本没意识到自己有多年轻 [新]",
+          "value": "548195 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A0%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E6%9C%89%E5%A4%9A%E5%B9%B4%E8%BD%BB&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 548195",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 浏阳烟花厂爆炸事故新闻发布会",
+          "value": "509476 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 509476",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 王俊凯 中餐厅10 [新]",
+          "value": "综艺 424799 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E4%B8%AD%E9%A4%90%E5%8E%8510&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "综艺 424799",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-05T11:43:21+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 284143",
             "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-15T11:39:35+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 神仙肉",
-          "value": "剧集 1067974 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A5%9E%E4%BB%99%E8%82%89&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "剧集 1067974",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 云南泼水节车前喷水小鸡袭击路人",
-          "value": "759055 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%91%E5%8D%97%E6%B3%BC%E6%B0%B4%E8%8A%82%E8%BD%A6%E5%89%8D%E5%96%B7%E6%B0%B4%E5%B0%8F%E9%B8%A1%E8%A2%AD%E5%87%BB%E8%B7%AF%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 759055",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 全民国家安全教育日",
-          "value": "703578 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E6%B0%91%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E6%97%A5&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 703578",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 成毅绽家首位品牌全球代言人 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E6%AF%85%E7%BB%BD%E5%AE%B6%E9%A6%96%E4%BD%8D%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 你以为吃的是素菜其实全是油脂",
-          "value": "669648 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%90%83%E7%9A%84%E6%98%AF%E7%B4%A0%E8%8F%9C%E5%85%B6%E5%AE%9E%E5%85%A8%E6%98%AF%E6%B2%B9%E8%84%82&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 669648",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 女子生产坚持不打无痛老公苦苦哀求 [官宣]",
-          "value": "539831 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E7%94%9F%E4%BA%A7%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%89%93%E6%97%A0%E7%97%9B%E8%80%81%E5%85%AC%E8%8B%A6%E8%8B%A6%E5%93%80%E6%B1%82&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 539831",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 苹果官方发文提醒",
-          "value": "486317 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E5%8F%91%E6%96%87%E6%8F%90%E9%86%92&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 486317",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 千问AI眼镜S1现货开售 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%83%E9%97%AEAI%E7%9C%BC%E9%95%9CS1%E7%8E%B0%E8%B4%A7%E5%BC%80%E5%94%AE&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 军工人员疯狂泄密却被开空头支票",
-          "value": "338383 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%9B%E5%B7%A5%E4%BA%BA%E5%91%98%E7%96%AF%E7%8B%82%E6%B3%84%E5%AF%86%E5%8D%B4%E8%A2%AB%E5%BC%80%E7%A9%BA%E5%A4%B4%E6%94%AF%E7%A5%A8&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 338383",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 卧床吸烟致母子二人葬身火海",
-          "value": "283207 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A7%E5%BA%8A%E5%90%B8%E7%83%9F%E8%87%B4%E6%AF%8D%E5%AD%90%E4%BA%8C%E4%BA%BA%E8%91%AC%E8%BA%AB%E7%81%AB%E6%B5%B7&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 283207",
-            "tag": "",
             "api_source": "tianapi",
             "translation": ""
           }
