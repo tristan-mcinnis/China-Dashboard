@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-06T23:01:45+08:00",
+  "generated_at": "2026-05-07T06:17:05+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-07T06:17:05+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 暴发致命病毒邮轮或出现人传人现象",
+          "value": "304967 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9A%B4%E5%8F%91%E8%87%B4%E5%91%BD%E7%97%85%E6%AF%92%E9%82%AE%E8%BD%AE%E6%88%96%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E4%BA%BA%E7%8E%B0%E8%B1%A1&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 304967",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 伦敦世乒赛团体赛",
+          "value": "215098 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%A6%E6%95%A6%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%A2%E4%BD%93%E8%B5%9B&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 215098",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 来中国玩的外国人更多了",
+          "value": "175440 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%8E%A9%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9B%B4%E5%A4%9A%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 175440",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 白鹿跑男争议 内娱综艺审美巨变",
+          "value": "综艺 160968 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%E8%B7%91%E7%94%B7%E4%BA%89%E8%AE%AE%20%E5%86%85%E5%A8%B1%E7%BB%BC%E8%89%BA%E5%AE%A1%E7%BE%8E%E5%B7%A8%E5%8F%98&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "综艺 160968",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 解除台独刘世芳亲属全部职务",
+          "value": "139164 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E9%99%A4%E5%8F%B0%E7%8B%AC%E5%88%98%E4%B8%96%E8%8A%B3%E4%BA%B2%E5%B1%9E%E5%85%A8%E9%83%A8%E8%81%8C%E5%8A%A1&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 139164",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 为什么户外千万不要穿迷彩 [热]",
+          "value": "91281 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%B7%E5%A4%96%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%A9%BF%E8%BF%B7%E5%BD%A9&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 91281",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 主角OST请来了王菲",
+          "value": "88817 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BB%E8%A7%92OST%E8%AF%B7%E6%9D%A5%E4%BA%86%E7%8E%8B%E8%8F%B2&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 88817",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 网友曝三亚4只皮皮虾收费1035元",
+          "value": "81277 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E5%8F%8B%E6%9B%9D%E4%B8%89%E4%BA%9A4%E5%8F%AA%E7%9A%AE%E7%9A%AE%E8%99%BE%E6%94%B6%E8%B4%B91035%E5%85%83&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 81277",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 有AI真好 放以前没十几亿下不来",
+          "value": "69232 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 69232",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 中国女子在西班牙被刺身亡",
+          "value": "61673 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 61673",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-06T23:01:45+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 156552",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-16T18:50:26+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 中国驻日大使馆接连遭到恐怖威胁",
-          "value": "1038624 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8E%A5%E8%BF%9E%E9%81%AD%E5%88%B0%E6%81%90%E6%80%96%E5%A8%81%E8%83%81&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1038624",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 雷军再次回应中间只充一次电言论",
-          "value": "760315 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%B7%E5%86%9B%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E4%B8%AD%E9%97%B4%E5%8F%AA%E5%85%85%E4%B8%80%E6%AC%A1%E7%94%B5%E8%A8%80%E8%AE%BA&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 760315",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 2026年一季度GDP同比增长5.0%",
-          "value": "618603 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E5%B9%B4%E4%B8%80%E5%AD%A3%E5%BA%A6GDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5.0%25&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 618603",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 谁来救救孙丞潇",
-          "value": "综艺 552581 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E5%AD%99%E4%B8%9E%E6%BD%87&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "综艺 552581",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 人一退休面相都跟着变舒展了",
-          "value": "209324 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E4%B8%80%E9%80%80%E4%BC%91%E9%9D%A2%E7%9B%B8%E9%83%BD%E8%B7%9F%E7%9D%80%E5%8F%98%E8%88%92%E5%B1%95%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 209324",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 宋亚轩回归音综 [热]",
-          "value": "综艺 202446 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%9B%9E%E5%BD%92%E9%9F%B3%E7%BB%BC&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "综艺 202446",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 今日辟谣",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 豆包帮挑的西瓜",
-          "value": "192177 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E5%B8%AE%E6%8C%91%E7%9A%84%E8%A5%BF%E7%93%9C&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 192177",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 莫氏鸡煲老板回应商家排队送产品",
-          "value": "186634 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%95%86%E5%AE%B6%E6%8E%92%E9%98%9F%E9%80%81%E4%BA%A7%E5%93%81&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 186634",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 商家笑了半个月才舍得发货 [新]",
-          "value": "154753 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%95%86%E5%AE%B6%E7%AC%91%E4%BA%86%E5%8D%8A%E4%B8%AA%E6%9C%88%E6%89%8D%E8%88%8D%E5%BE%97%E5%8F%91%E8%B4%A7&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 154753",
             "tag": "新",
             "api_source": "tianapi",
             "translation": ""
