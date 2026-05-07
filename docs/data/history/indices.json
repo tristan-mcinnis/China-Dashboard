@@ -1,7 +1,53 @@
 {
   "source": "Yahoo Finance (fallback)",
-  "generated_at": "2026-05-07T06:17:07+08:00",
+  "generated_at": "2026-05-07T11:45:20+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-07T11:45:20+08:00",
+      "source": "Yahoo Finance (fallback)",
+      "items": [
+        {
+          "title": "SSE Composite",
+          "value": 4170.726,
+          "url": "https://finance.yahoo.com/quote/000001.SS",
+          "extra": {
+            "symbol": "000001.SS",
+            "chg_pct": 1.424215011089058,
+            "ts": 1778124610
+          }
+        },
+        {
+          "title": "Shenzhen Component",
+          "value": 15569.458,
+          "url": "https://finance.yahoo.com/quote/399001.SZ",
+          "extra": {
+            "symbol": "399001.SZ",
+            "chg_pct": 3.057805725632967,
+            "ts": 1778124604
+          }
+        },
+        {
+          "title": "ChiNext",
+          "value": 3815.2397,
+          "url": "https://finance.yahoo.com/quote/399006.SZ",
+          "extra": {
+            "symbol": "399006.SZ",
+            "chg_pct": 0.9814382103624342,
+            "ts": 1778124604
+          }
+        },
+        {
+          "title": "STAR 50",
+          "value": 1664.397,
+          "url": "https://finance.yahoo.com/quote/000688.SS",
+          "extra": {
+            "symbol": "000688.SS",
+            "chg_pct": 0.44968272955183947,
+            "ts": 1778124610
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-07T06:17:07+08:00",
       "source": "Yahoo Finance (fallback)",
@@ -4512,52 +4558,6 @@
     },
     {
       "as_of": "2026-04-17T06:14:05+08:00",
-      "source": "Yahoo Finance (fallback)",
-      "items": [
-        {
-          "title": "SSE Composite",
-          "value": 4055.547,
-          "url": "https://finance.yahoo.com/quote/000001.SS",
-          "extra": {
-            "symbol": "000001.SS",
-            "chg_pct": 0.7183940873486978,
-            "ts": 1776322829
-          }
-        },
-        {
-          "title": "Shenzhen Component",
-          "value": 14796.335,
-          "url": "https://finance.yahoo.com/quote/399001.SZ",
-          "extra": {
-            "symbol": "399001.SZ",
-            "chg_pct": 1.0678620218579176,
-            "ts": 1776328147
-          }
-        },
-        {
-          "title": "ChiNext",
-          "value": 3626.271,
-          "url": "https://finance.yahoo.com/quote/399006.SZ",
-          "extra": {
-            "symbol": "399006.SZ",
-            "chg_pct": 3.166766829008948,
-            "ts": 1776328162
-          }
-        },
-        {
-          "title": "STAR 50",
-          "value": 1422.2275,
-          "url": "https://finance.yahoo.com/quote/000688.SS",
-          "extra": {
-            "symbol": "000688.SS",
-            "chg_pct": 1.1309711059142589,
-            "ts": 1776322829
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-16T22:43:31+08:00",
       "source": "Yahoo Finance (fallback)",
       "items": [
         {
