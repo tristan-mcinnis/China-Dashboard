@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-08T18:55:34+08:00",
+  "generated_at": "2026-05-08T22:43:06+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-08T22:43:06+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 国乒男团进四强",
+          "value": "2588013 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E8%BF%9B%E5%9B%9B%E5%BC%BA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 2588013",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 中国男团vs韩国 [热]",
+          "value": "1864387 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2vs%E9%9F%A9%E5%9B%BD&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1864387",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 五一消费潜力充分释放",
+          "value": "1726924 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E4%B8%80%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B%E5%85%85%E5%88%86%E9%87%8A%E6%94%BE&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1726924",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 再有消息就是要结婚了",
+          "value": "1705212 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%86%8D%E6%9C%89%E6%B6%88%E6%81%AF%E5%B0%B1%E6%98%AF%E8%A6%81%E7%BB%93%E5%A9%9A%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 1705212",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 偏偏宠爱 宋威龙",
+          "value": "剧集 978548 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%81%8F%E5%81%8F%E5%AE%A0%E7%88%B1%20%E5%AE%8B%E5%A8%81%E9%BE%99&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 978548",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 裴秀智林允儿红毯撞衫 [热]",
+          "value": "盛典 959288 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A3%B4%E7%A7%80%E6%99%BA%E6%9E%97%E5%85%81%E5%84%BF%E7%BA%A2%E6%AF%AF%E6%92%9E%E8%A1%AB&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "盛典 959288",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 杨采钰优衣库松弛感教科书",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E9%87%87%E9%92%B0%E4%BC%98%E8%A1%A3%E5%BA%93%E6%9D%BE%E5%BC%9B%E6%84%9F%E6%95%99%E7%A7%91%E4%B9%A6&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 梁靖崑vs安宰贤 [新]",
+          "value": "710323 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%AE%89%E5%AE%B0%E8%B4%A4&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 710323",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 21世纪大君夫人",
+          "value": "698872 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D21%E4%B8%96%E7%BA%AA%E5%A4%A7%E5%90%9B%E5%A4%AB%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 698872",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 增距镜成为韩国人必买中国特产 [热]",
+          "value": "672023 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A2%9E%E8%B7%9D%E9%95%9C%E6%88%90%E4%B8%BA%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%BF%85%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%89%B9%E4%BA%A7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 672023",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-08T18:55:34+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 621989",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-18T14:20:44+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 谁敢听达拉崩吧小考",
-          "value": "综艺 1171283 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E6%95%A2%E5%90%AC%E8%BE%BE%E6%8B%89%E5%B4%A9%E5%90%A7%E5%B0%8F%E8%80%83&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "综艺 1171283",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 一个蛋糕引出7平台35.97亿元罚单",
-          "value": "1041458 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E4%B8%AA%E8%9B%8B%E7%B3%95%E5%BC%95%E5%87%BA7%E5%B9%B3%E5%8F%B035.97%E4%BA%BF%E5%85%83%E7%BD%9A%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1041458",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 中国新能源产品成了海外抢手货",
-          "value": "1014612 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%A7%E5%93%81%E6%88%90%E4%BA%86%E6%B5%B7%E5%A4%96%E6%8A%A2%E6%89%8B%E8%B4%A7&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1014612",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 麻辣烫阿姨下跪道歉后家长仍嘲讽",
-          "value": "1012742 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%98%BF%E5%A7%A8%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%E5%90%8E%E5%AE%B6%E9%95%BF%E4%BB%8D%E5%98%B2%E8%AE%BD&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 1012742",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 大冰一句话解决买二手房的膈应",
-          "value": "1009242 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%86%B0%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%A7%A3%E5%86%B3%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%88%BF%E7%9A%84%E8%86%88%E5%BA%94&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 1009242",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 王濛cue黎明 [热]",
-          "value": "综艺 997558 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%BF%9Bcue%E9%BB%8E%E6%98%8E&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "综艺 997558",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 看张康乐打戏不用开倍速",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9C%8B%E5%BC%A0%E5%BA%B7%E4%B9%90%E6%89%93%E6%88%8F%E4%B8%8D%E7%94%A8%E5%BC%80%E5%80%8D%E9%80%9F&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 公积金功能上新了",
-          "value": "645282 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%AC%E7%A7%AF%E9%87%91%E5%8A%9F%E8%83%BD%E4%B8%8A%E6%96%B0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 645282",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 曾沛慈 垫完你的垫你的",
-          "value": "综艺 643523 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9B%BE%E6%B2%9B%E6%85%88%20%E5%9E%AB%E5%AE%8C%E4%BD%A0%E7%9A%84%E5%9E%AB%E4%BD%A0%E7%9A%84&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "综艺 643523",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 403元凉拌土鸡放20多勺糖 [新]",
-          "value": "381465 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D403%E5%85%83%E5%87%89%E6%8B%8C%E5%9C%9F%E9%B8%A1%E6%94%BE20%E5%A4%9A%E5%8B%BA%E7%B3%96&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 381465",
             "tag": "新",
             "api_source": "tianapi",
             "translation": ""
