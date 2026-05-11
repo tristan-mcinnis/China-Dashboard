@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-11T06:15:47+08:00",
+  "generated_at": "2026-05-11T11:45:52+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-11T11:45:52+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 藏海传2",
+          "value": "剧集 1717361 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%97%8F%E6%B5%B7%E4%BC%A02&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "剧集 1717361",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 中方宣布特朗普访华日期 [热]",
+          "value": "1541189 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1541189",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 目光聚焦赛场掌声送给拼搏",
+          "value": "1540702 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%AE%E5%85%89%E8%81%9A%E7%84%A6%E8%B5%9B%E5%9C%BA%E6%8E%8C%E5%A3%B0%E9%80%81%E7%BB%99%E6%8B%BC%E6%90%8F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1540702",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 无忧传媒回应与王暖暖解约 [新]",
+          "value": "1540663 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A0%E5%BF%A7%E4%BC%A0%E5%AA%92%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%8E%8B%E6%9A%96%E6%9A%96%E8%A7%A3%E7%BA%A6&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 1540663",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 暗河传2官宣",
+          "value": "剧集 1488164 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9A%97%E6%B2%B3%E4%BC%A02%E5%AE%98%E5%AE%A3&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "剧集 1488164",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 广东地震局短信 [新]",
+          "value": "1270983 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B1%80%E7%9F%AD%E4%BF%A1&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 1270983",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 藏海传导演回应和肖战二搭",
+          "value": "剧集 844483 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E5%92%8C%E8%82%96%E6%88%98%E4%BA%8C%E6%90%AD&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 844483",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 是世界第一也是MVP [新]",
+          "value": "801024 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%AF%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B9%9F%E6%98%AFMVP&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 801024",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 县城理发店取名东尼被英国公司起诉",
+          "value": "762234 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%BF%E5%9F%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%8F%96%E5%90%8D%E4%B8%9C%E5%B0%BC%E8%A2%AB%E8%8B%B1%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%B5%B7%E8%AF%89&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 762234",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 贾跃亭被任命为FF全球CEO [新]",
+          "value": "761051 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BAFF%E5%85%A8%E7%90%83CEO&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 761051",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-11T06:15:47+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": "综艺 51579",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-20T22:40:59+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 日本7.7级地震",
-          "value": "1282994 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1282994",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 爱奇艺称AI艺人库仅是合作意愿",
-          "value": "综艺 911712 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "综艺 911712",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 当中文遇上锦绣山河的中国传统色",
-          "value": "749340 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%93%E4%B8%AD%E6%96%87%E9%81%87%E4%B8%8A%E9%94%A6%E7%BB%A3%E5%B1%B1%E6%B2%B3%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 749340",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 19岁女孩挪用1700万当榜一大姐",
-          "value": "629963 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D19%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%A7%90&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 629963",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 赵继伟 呵呵",
-          "value": "578233 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E7%BB%A7%E4%BC%9F%20%E5%91%B5%E5%91%B5&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 578233",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 各国网民线上嘲讽日本人 [热]",
-          "value": "491013 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%84%E5%9B%BD%E7%BD%91%E6%B0%91%E7%BA%BF%E4%B8%8A%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 491013",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 檀健次再造洞门名场面",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AA%80%E5%81%A5%E6%AC%A1%E5%86%8D%E9%80%A0%E6%B4%9E%E9%97%A8%E5%90%8D%E5%9C%BA%E9%9D%A2&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. MCN回应女孩挪用1700万打赏主播 [新]",
-          "value": "380176 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DMCN%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 380176",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 逐玉的成功在于第三集续看率95%",
-          "value": "剧集 380127 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%80%90%E7%8E%89%E7%9A%84%E6%88%90%E5%8A%9F%E5%9C%A8%E4%BA%8E%E7%AC%AC%E4%B8%89%E9%9B%86%E7%BB%AD%E7%9C%8B%E7%8E%8795%25&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 380127",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. EWC2026英雄联盟预选赛",
-          "value": "379890 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DEWC2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%A2%84%E9%80%89%E8%B5%9B&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 379890",
             "tag": "",
             "api_source": "tianapi",
             "translation": ""
