@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-12T19:17:06+08:00",
+  "generated_at": "2026-05-12T23:04:29+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-12T23:04:29+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 特朗普访华",
+          "value": "2146856 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 2146856",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 4月汽车销量前10仅1款油车",
+          "value": "1550120 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D4%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1550120",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 从4月先行指标看我国经济持续向好",
+          "value": "1152373 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%8E4%E6%9C%88%E5%85%88%E8%A1%8C%E6%8C%87%E6%A0%87%E7%9C%8B%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1152373",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 白鹿演唱会过审",
+          "value": "演出 1094854 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%87%E5%AE%A1&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "演出 1094854",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 下午休是性价比最高的半天假",
+          "value": "914248 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8B%E5%8D%88%E4%BC%91%E6%98%AF%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%80%E9%AB%98%E7%9A%84%E5%8D%8A%E5%A4%A9%E5%81%87&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 914248",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 樊振东加盟杜塞上百家企业竞价赞助 [热]",
+          "value": "903607 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8A%A0%E7%9B%9F%E6%9D%9C%E5%A1%9E%E4%B8%8A%E7%99%BE%E5%AE%B6%E4%BC%81%E4%B8%9A%E7%AB%9E%E4%BB%B7%E8%B5%9E%E5%8A%A9&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 903607",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 一念江南通告单有黄杨钿甜朱志鑫",
+          "value": "剧集 815185 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E9%80%9A%E5%91%8A%E5%8D%95%E6%9C%89%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E6%9C%B1%E5%BF%97%E9%91%AB&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 815185",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 给阿嬷的情书",
+          "value": "电影 605181 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "电影 605181",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 建议不要在小环境中待太久",
+          "value": "555142 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%B0%8F%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%BE%85%E5%A4%AA%E4%B9%85&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 555142",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 超级心脏全球爆单 [新]",
+          "value": "532802 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%85%E7%BA%A7%E5%BF%83%E8%84%8F%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 532802",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-12T19:17:06+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 630404",
             "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-22T14:31:21+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 中国大蒜竟被列为国家安全威胁",
-          "value": "1185211 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E7%AB%9F%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1185211",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 湖人2比0火箭 [新]",
-          "value": "852114 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%96%E4%BA%BA2%E6%AF%940%E7%81%AB%E7%AE%AD&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 852114",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 在繁花盛放的春天接英雄回家",
-          "value": "800721 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9C%A8%E7%B9%81%E8%8A%B1%E7%9B%9B%E6%94%BE%E7%9A%84%E6%98%A5%E5%A4%A9%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 800721",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 还好戴着它",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%98%E5%A5%BD%E6%88%B4%E7%9D%80%E5%AE%83&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 王安宇见面会票价",
-          "value": "演出 796062 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%AE%89%E5%AE%87%E8%A7%81%E9%9D%A2%E4%BC%9A%E7%A5%A8%E4%BB%B7&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "演出 796062",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 星巴克免费咖啡 [好物]",
-          "value": "784026 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%9F%E5%B7%B4%E5%85%8B%E5%85%8D%E8%B4%B9%E5%92%96%E5%95%A1&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 784026",
-            "tag": "好物",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 全糖的写0脂 全脂的写0糖",
-          "value": "758745 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E7%B3%96%E7%9A%84%E5%86%990%E8%84%82%20%E5%85%A8%E8%84%82%E7%9A%84%E5%86%990%E7%B3%96&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 758745",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 吴磊骑行社成团 [热]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E7%A3%8A%E9%AA%91%E8%A1%8C%E7%A4%BE%E6%88%90%E5%9B%A2&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 段奕宏参加烈士遗骸迎回仪式",
-          "value": "676737 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AE%B5%E5%A5%95%E5%AE%8F%E5%8F%82%E5%8A%A0%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E8%BF%8E%E5%9B%9E%E4%BB%AA%E5%BC%8F&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 676737",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 曹德旺说大不了把美国工厂关掉",
-          "value": "675929 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9B%B9%E5%BE%B7%E6%97%BA%E8%AF%B4%E5%A4%A7%E4%B8%8D%E4%BA%86%E6%8A%8A%E7%BE%8E%E5%9B%BD%E5%B7%A5%E5%8E%82%E5%85%B3%E6%8E%89&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 675929",
-            "tag": "",
             "api_source": "tianapi",
             "translation": ""
           }
