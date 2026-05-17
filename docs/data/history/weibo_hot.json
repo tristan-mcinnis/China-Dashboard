@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-17T11:45:43+08:00",
+  "generated_at": "2026-05-17T14:51:30+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-17T14:51:30+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 卢昱晓道歉",
+          "value": "电影 11554491 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%A2%E6%98%B1%E6%99%93%E9%81%93%E6%AD%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "电影 11554491",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 特朗普警告台独 [热]",
+          "value": "2114732 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 2114732",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 算力版国家电网要来了",
+          "value": "1736524 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1736524",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 给阿嬷的情书 屏摄",
+          "value": "电影 1598448 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%20%E5%B1%8F%E6%91%84&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "电影 1598448",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 咬壳吃荔枝 不上火",
+          "value": "803457 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%AC%E5%A3%B3%E5%90%83%E8%8D%94%E6%9E%9D%20%E4%B8%8D%E4%B8%8A%E7%81%AB&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 803457",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 猫的树我找到你的新女主了 [热]",
+          "value": "电影 539419 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8C%AB%E7%9A%84%E6%A0%91%E6%88%91%E6%89%BE%E5%88%B0%E4%BD%A0%E7%9A%84%E6%96%B0%E5%A5%B3%E4%B8%BB%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "电影 539419",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 罕见病确诊 这才是互联网的意义",
+          "value": "517734 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%95%E8%A7%81%E7%97%85%E7%A1%AE%E8%AF%8A%20%E8%BF%99%E6%89%8D%E6%98%AF%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%84%8F%E4%B9%89&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 517734",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 央视追踪四川大摆荡坠亡事件",
+          "value": "427835 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E8%BF%BD%E8%B8%AA%E5%9B%9B%E5%B7%9D%E5%A4%A7%E6%91%86%E8%8D%A1%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 427835",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 苹果华为小米集体降价",
+          "value": "392492 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 392492",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 台舆论称特朗普不许台独视美为靠山",
+          "value": "243017 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 243017",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-17T11:45:43+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 387043",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-27T06:15:53+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 身份证照片最接近别人肉眼看到的自己",
-          "value": "370138 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E6%9C%80%E6%8E%A5%E8%BF%91%E5%88%AB%E4%BA%BA%E8%82%89%E7%9C%BC%E7%9C%8B%E5%88%B0%E7%9A%84%E8%87%AA%E5%B7%B1&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 370138",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 歌手2026 [热]",
-          "value": "综艺 219521 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%8C%E6%89%8B2026&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "综艺 219521",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 影视文旅成消费新风口",
-          "value": "184318 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%B1%E8%A7%86%E6%96%87%E6%97%85%E6%88%90%E6%B6%88%E8%B4%B9%E6%96%B0%E9%A3%8E%E5%8F%A3&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 184318",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 迪丽热巴跑男只录了12天",
-          "value": "综艺 139374 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%91%E7%94%B7%E5%8F%AA%E5%BD%95%E4%BA%8612%E5%A4%A9&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "综艺 139374",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 伊朗最高领袖突然发文",
-          "value": "126039 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AA%81%E7%84%B6%E5%8F%91%E6%96%87&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 126039",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 世界上两个最离不开手的东西合体了",
-          "value": "111962 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%96%E7%95%8C%E4%B8%8A%E4%B8%A4%E4%B8%AA%E6%9C%80%E7%A6%BB%E4%B8%8D%E5%BC%80%E6%89%8B%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%88%E4%BD%93%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 111962",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 风筝节大人误把孩子放上天系谣言",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A3%8E%E7%AD%9D%E8%8A%82%E5%A4%A7%E4%BA%BA%E8%AF%AF%E6%8A%8A%E5%AD%A9%E5%AD%90%E6%94%BE%E4%B8%8A%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. AG确认晋级挑杯十六强 [热]",
-          "value": "105862 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAG%E7%A1%AE%E8%AE%A4%E6%99%8B%E7%BA%A7%E6%8C%91%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 105862",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 张月 挂电",
-          "value": "综艺 103485 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9C%88%20%E6%8C%82%E7%94%B5&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "综艺 103485",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 浴室除霉菌 霉菌视角",
-          "value": "87252 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%B4%E5%AE%A4%E9%99%A4%E9%9C%89%E8%8F%8C%20%E9%9C%89%E8%8F%8C%E8%A7%86%E8%A7%92&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 87252",
             "tag": "",
             "api_source": "tianapi",
             "translation": ""
