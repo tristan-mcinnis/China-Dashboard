@@ -1,7 +1,40 @@
 {
   "source": "NBS/EastMoney",
-  "generated_at": "2026-05-20T19:29:40+08:00",
+  "generated_at": "2026-05-20T23:12:00+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-20T23:12:00+08:00",
+      "source": "NBS/EastMoney",
+      "items": [
+        {
+          "title": "CPI YoY",
+          "value": "1.2%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "Consumer Price Index, Year-over-Year",
+            "date": "2026-04-01"
+          }
+        },
+        {
+          "title": "PMI Manufacturing",
+          "value": "50.3",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "Official Manufacturing PMI",
+            "date": "2026-04-01"
+          }
+        },
+        {
+          "title": "PMI Non-Manufacturing",
+          "value": "49.4",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "Official Non-Manufacturing PMI",
+            "date": "2026-04-01"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-20T19:29:40+08:00",
       "source": "NBS/EastMoney",
@@ -3238,39 +3271,6 @@
     },
     {
       "as_of": "2026-04-30T22:49:28+08:00",
-      "source": "NBS/EastMoney",
-      "items": [
-        {
-          "title": "CPI YoY",
-          "value": "1%",
-          "url": "https://data.stats.gov.cn/english/easyquery.htm",
-          "extra": {
-            "description": "Consumer Price Index, Year-over-Year",
-            "date": "2026-03-01"
-          }
-        },
-        {
-          "title": "PMI Manufacturing",
-          "value": "50.3",
-          "url": "https://data.stats.gov.cn/english/easyquery.htm",
-          "extra": {
-            "description": "Official Manufacturing PMI",
-            "date": "2026-04-01"
-          }
-        },
-        {
-          "title": "PMI Non-Manufacturing",
-          "value": "49.4",
-          "url": "https://data.stats.gov.cn/english/easyquery.htm",
-          "extra": {
-            "description": "Official Non-Manufacturing PMI",
-            "date": "2026-04-01"
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-04-30T19:07:45+08:00",
       "source": "NBS/EastMoney",
       "items": [
         {
