@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-22T11:46:12+08:00",
+  "generated_at": "2026-05-22T15:04:03+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-22T15:04:03+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 女子捡到金项链发现异常立马扔掉",
+          "value": "1392802 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE%E5%8F%91%E7%8E%B0%E5%BC%82%E5%B8%B8%E7%AB%8B%E9%A9%AC%E6%89%94%E6%8E%89&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1392802",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 微信回应只能撤回2分钟内消息",
+          "value": "877118 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%8F%AA%E8%83%BD%E6%92%A4%E5%9B%9E2%E5%88%86%E9%92%9F%E5%86%85%E6%B6%88%E6%81%AF&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 877118",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 走近第二十二届文博会",
+          "value": "680702 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B0%E8%BF%91%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%B1%8A%E6%96%87%E5%8D%9A%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 680702",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 舒淇演绎小米YU7伟大旅程",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%88%92%E6%B7%87%E6%BC%94%E7%BB%8E%E5%B0%8F%E7%B1%B3YU7%E4%BC%9F%E5%A4%A7%E6%97%85%E7%A8%8B&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 晚上一定要拉窗帘",
+          "value": "668104 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%9A%E4%B8%8A%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8B%89%E7%AA%97%E5%B8%98&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 668104",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 水果含糖量金字塔 [火热]",
+          "value": "634535 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E6%9E%9C%E5%90%AB%E7%B3%96%E9%87%8F%E9%87%91%E5%AD%97%E5%A1%94&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 634535",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 第一次觉得excel好吵",
+          "value": "551183 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97excel%E5%A5%BD%E5%90%B5&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 551183",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 朱自清散文AI率超60% [新]",
+          "value": "441701 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 441701",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 赵丽颖易烊千玺三搭",
+          "value": "370185 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%89%E6%90%AD&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 370185",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 伊能静大战庾澄庆 宋妍霏大战窦靖童 [新]",
+          "value": "综艺 367266 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E8%83%BD%E9%9D%99%E5%A4%A7%E6%88%98%E5%BA%BE%E6%BE%84%E5%BA%86%20%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%A4%A7%E6%88%98%E7%AA%A6%E9%9D%96%E7%AB%A5&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": "综艺 367266",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-22T11:46:12+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 303876",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-02T11:43:35+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 爷爷过世请假奔丧被开除",
-          "value": "1098629 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E5%81%87%E5%A5%94%E4%B8%A7%E8%A2%AB%E5%BC%80%E9%99%A4&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1098629",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 湖人vs火箭",
-          "value": "806279 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 806279",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 用最美镜头致敬铁路劳动者",
-          "value": "605663 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%A8%E6%9C%80%E7%BE%8E%E9%95%9C%E5%A4%B4%E8%87%B4%E6%95%AC%E9%93%81%E8%B7%AF%E5%8A%B3%E5%8A%A8%E8%80%85&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 605663",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 新SU7卡布里蓝带你慢游五一 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0SU7%E5%8D%A1%E5%B8%83%E9%87%8C%E8%93%9D%E5%B8%A6%E4%BD%A0%E6%85%A2%E6%B8%B8%E4%BA%94%E4%B8%80&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 何洁听跳楼机还没到副歌就直接关掉了",
-          "value": "音乐 588763 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E6%B4%81%E5%90%AC%E8%B7%B3%E6%A5%BC%E6%9C%BA%E8%BF%98%E6%B2%A1%E5%88%B0%E5%89%AF%E6%AD%8C%E5%B0%B1%E7%9B%B4%E6%8E%A5%E5%85%B3%E6%8E%89%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "音乐 588763",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 巴雷特绝杀骑士 [火热]",
-          "value": "318056 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%B4%E9%9B%B7%E7%89%B9%E7%BB%9D%E6%9D%80%E9%AA%91%E5%A3%AB&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 318056",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 王濛张月抢同一首歌是为了同一个人",
-          "value": "综艺 315559 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%BF%9B%E5%BC%A0%E6%9C%88%E6%8A%A2%E5%90%8C%E4%B8%80%E9%A6%96%E6%AD%8C%E6%98%AF%E4%B8%BA%E4%BA%86%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "综艺 315559",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 普通家庭对孩子最好的托举就这11点 [新]",
-          "value": "253357 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE%E5%B0%B1%E8%BF%9911%E7%82%B9&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 253357",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 火车票开售即售罄的原因找到了",
-          "value": "178036 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE%E5%8D%B3%E5%94%AE%E7%BD%84%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 178036",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 5月锦鲤附体的星座 [新]",
-          "value": "174544 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D5%E6%9C%88%E9%94%A6%E9%B2%A4%E9%99%84%E4%BD%93%E7%9A%84%E6%98%9F%E5%BA%A7&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 174544",
             "tag": "新",
             "api_source": "tianapi",
             "translation": ""
