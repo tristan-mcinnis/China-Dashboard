@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-24T14:59:27+08:00",
+  "generated_at": "2026-05-24T18:57:36+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-24T18:57:36+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 武汉停课停业",
+          "value": "1356493 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%A6%E6%B1%89%E5%81%9C%E8%AF%BE%E5%81%9C%E4%B8%9A&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1356493",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 煤矿19点半爆炸工人22点才被通知 [新]",
+          "value": "964551 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%85%A4%E7%9F%BF19%E7%82%B9%E5%8D%8A%E7%88%86%E7%82%B8%E5%B7%A5%E4%BA%BA22%E7%82%B9%E6%89%8D%E8%A2%AB%E9%80%9A%E7%9F%A5&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 964551",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 国产600公斤推力级涡扇发动机首飞成功",
+          "value": "907943 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E4%BA%A7600%E5%85%AC%E6%96%A4%E6%8E%A8%E5%8A%9B%E7%BA%A7%E6%B6%A1%E6%89%87%E5%8F%91%E5%8A%A8%E6%9C%BA%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 907943",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 王鹤棣 沈月",
+          "value": "综艺 893277 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%B2%88%E6%9C%88&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "综艺 893277",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 两个淡人生了个浓人宝宝",
+          "value": "873614 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%A4%E4%B8%AA%E6%B7%A1%E4%BA%BA%E7%94%9F%E4%BA%86%E4%B8%AA%E6%B5%93%E4%BA%BA%E5%AE%9D%E5%AE%9D&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 873614",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 李晨郑恺跑男停宣了 [热]",
+          "value": "综艺 854722 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%99%A8%E9%83%91%E6%81%BA%E8%B7%91%E7%94%B7%E5%81%9C%E5%AE%A3%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "综艺 854722",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 将门独后台词 你只是谢景行而已",
+          "value": "剧集 755634 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%8F%B0%E8%AF%8D%20%E4%BD%A0%E5%8F%AA%E6%98%AF%E8%B0%A2%E6%99%AF%E8%A1%8C%E8%80%8C%E5%B7%B2&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 755634",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 小猫等了28年终于被收养了",
+          "value": "380753 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%8C%AB%E7%AD%89%E4%BA%8628%E5%B9%B4%E7%BB%88%E4%BA%8E%E8%A2%AB%E6%94%B6%E5%85%BB%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 380753",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 法网",
+          "value": "379612 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%95%E7%BD%91&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 379612",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 仙逆 [热]",
+          "value": "378688 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%99%E9%80%86&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 378688",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-24T14:59:27+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 422429",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-04T14:53:55+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 豆包 付费",
-          "value": "22382717 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 22382717",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 用烧烤签给狗撸串顾客账号已私密",
-          "value": "2105004 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%A8%E7%83%A7%E7%83%A4%E7%AD%BE%E7%BB%99%E7%8B%97%E6%92%B8%E4%B8%B2%E9%A1%BE%E5%AE%A2%E8%B4%A6%E5%8F%B7%E5%B7%B2%E7%A7%81%E5%AF%86&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 2105004",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 心有热爱永远正值青春",
-          "value": "1697311 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%83%E6%9C%89%E7%83%AD%E7%88%B1%E6%B0%B8%E8%BF%9C%E6%AD%A3%E5%80%BC%E9%9D%92%E6%98%A5&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1697311",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 龚俊和蒙牛续杯青春",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BE%9A%E4%BF%8A%E5%92%8C%E8%92%99%E7%89%9B%E7%BB%AD%E6%9D%AF%E9%9D%92%E6%98%A5&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 二十七八岁什么感觉",
-          "value": "767772 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8C%E5%8D%81%E4%B8%83%E5%85%AB%E5%B2%81%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 767772",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 布洛芬头一回累晕菜了 [火热]",
-          "value": "575298 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B8%83%E6%B4%9B%E8%8A%AC%E5%A4%B4%E4%B8%80%E5%9B%9E%E7%B4%AF%E6%99%95%E8%8F%9C%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 575298",
-            "tag": "火热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 高铁ABC座很暧昧",
-          "value": "511038 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E9%93%81ABC%E5%BA%A7%E5%BE%88%E6%9A%A7%E6%98%A7&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 511038",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 女子搭网约车强抢方向盘酿车祸 [新]",
-          "value": "388389 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%90%E6%90%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%BC%BA%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98%E9%85%BF%E8%BD%A6%E7%A5%B8&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 388389",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 余额宝收益率破1是什么情况",
-          "value": "330205 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%99%E9%A2%9D%E5%AE%9D%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B41%E6%98%AF%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 330205",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 央视五四晚会官宣",
-          "value": "晚会 329334 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E8%A7%86%E4%BA%94%E5%9B%9B%E6%99%9A%E4%BC%9A%E5%AE%98%E5%AE%A3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "晚会 329334",
             "tag": "",
             "api_source": "tianapi",
             "translation": ""
