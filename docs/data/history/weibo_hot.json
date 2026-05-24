@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-24T18:57:36+08:00",
+  "generated_at": "2026-05-24T22:36:54+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-24T22:36:54+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 白玉兰",
+          "value": "盛典 1385809 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E7%8E%89%E5%85%B0&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "盛典 1385809",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 武汉停课停业 [热]",
+          "value": "977095 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%A6%E6%B1%89%E5%81%9C%E8%AF%BE%E5%81%9C%E4%B8%9A&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 977095",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 直播神23发射",
+          "value": "976822 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9B%B4%E6%92%AD%E7%A5%9E23%E5%8F%91%E5%B0%84&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 976822",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 温峥嵘 可不可以我走 [新]",
+          "value": "综艺 971123 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B8%A9%E5%B3%A5%E5%B5%98%20%E5%8F%AF%E4%B8%8D%E5%8F%AF%E4%BB%A5%E6%88%91%E8%B5%B0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": "综艺 971123",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 浪姐改赛制",
+          "value": "综艺 964838 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%AA%E5%A7%90%E6%94%B9%E8%B5%9B%E5%88%B6&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "综艺 964838",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 男子钓鱼捞起一溺水婴儿 [新]",
+          "value": "962422 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E9%92%93%E9%B1%BC%E6%8D%9E%E8%B5%B7%E4%B8%80%E6%BA%BA%E6%B0%B4%E5%A9%B4%E5%84%BF&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 962422",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 奈丝公主卢昱晓京东见面会",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%88%E4%B8%9D%E5%85%AC%E4%B8%BB%E5%8D%A2%E6%98%B1%E6%99%93%E4%BA%AC%E4%B8%9C%E8%A7%81%E9%9D%A2%E4%BC%9A&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 煤矿19点半爆炸工人22点才被通知 [新]",
+          "value": "954930 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%85%A4%E7%9F%BF19%E7%82%B9%E5%8D%8A%E7%88%86%E7%82%B8%E5%B7%A5%E4%BA%BA22%E7%82%B9%E6%89%8D%E8%A2%AB%E9%80%9A%E7%9F%A5&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 954930",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 李斯丹妮忘词",
+          "value": "综艺 949594 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E5%BF%98%E8%AF%8D&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "综艺 949594",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 燃油车被时代抛弃了吗 [新]",
+          "value": "944942 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%97%B6%E4%BB%A3%E6%8A%9B%E5%BC%83%E4%BA%86%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 944942",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-24T18:57:36+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 505312",
             "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-04T19:12:32+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 辽宁丹东交通事故已致8人死亡",
-          "value": "1290305 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BE%BD%E5%AE%81%E4%B8%B9%E4%B8%9C%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1290305",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 莫雷加德认证樊振东定海神针",
-          "value": "882662 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E8%AE%A4%E8%AF%81%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 882662",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 他们的青春闪闪发光",
-          "value": "678724 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%96%E4%BB%AC%E7%9A%84%E9%9D%92%E6%98%A5%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 678724",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 突然意识到开封就是开封的意思",
-          "value": "486946 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E5%BC%80%E5%B0%81%E5%B0%B1%E6%98%AF%E5%BC%80%E5%B0%81%E7%9A%84%E6%84%8F%E6%80%9D&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 486946",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 中国向联合国发出警告",
-          "value": "482785 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 482785",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 强烈建议大家去狂刷考公综艺",
-          "value": "429018 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8E%BB%E7%8B%82%E5%88%B7%E8%80%83%E5%85%AC%E7%BB%BC%E8%89%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 429018",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 张翅 音乐节",
-          "value": "演出 427461 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E7%BF%85%20%E9%9F%B3%E4%B9%90%E8%8A%82&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "演出 427461",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 太湖湾音乐节 [新]",
-          "value": "演出 425699 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "演出 425699",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 伊朗向美军舰发射导弹",
-          "value": "423709 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%86%9B%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 423709",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 樊振东寄语所有青年",
-          "value": "422429 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AF%84%E8%AF%AD%E6%89%80%E6%9C%89%E9%9D%92%E5%B9%B4&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 422429",
-            "tag": "",
             "api_source": "tianapi",
             "translation": ""
           }
