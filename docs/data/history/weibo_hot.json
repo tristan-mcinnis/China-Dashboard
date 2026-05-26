@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-05-26T23:11:03+08:00",
+  "generated_at": "2026-05-27T06:29:02+08:00",
   "entries": [
+    {
+      "as_of": "2026-05-27T06:29:02+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 五个女博士被投诉喝了过敏",
+          "value": "365767 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E4%B8%AA%E5%A5%B3%E5%8D%9A%E5%A3%AB%E8%A2%AB%E6%8A%95%E8%AF%89%E5%96%9D%E4%BA%86%E8%BF%87%E6%95%8F&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 365767",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "2. 雷军回应武契奇说小米车漂亮但买不起 [热]",
+          "value": "270206 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 270206",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "3. 多地和降雨赛跑全力保粮",
+          "value": "207151 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E5%92%8C%E9%99%8D%E9%9B%A8%E8%B5%9B%E8%B7%91%E5%85%A8%E5%8A%9B%E4%BF%9D%E7%B2%AE&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 207151",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "4. 我运气好因为我一直在往前走",
+          "value": "127368 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E8%BF%90%E6%B0%94%E5%A5%BD%E5%9B%A0%E4%B8%BA%E6%88%91%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%BE%80%E5%89%8D%E8%B5%B0&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 127368",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "5. 入围过白玉兰的古装剧",
+          "value": "盛典 101255 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A5%E5%9B%B4%E8%BF%87%E7%99%BD%E7%8E%89%E5%85%B0%E7%9A%84%E5%8F%A4%E8%A3%85%E5%89%A7&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": "盛典 101255",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "6. 浪姐四公小考排名",
+          "value": "综艺 84892 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%B0%8F%E8%80%83%E6%8E%92%E5%90%8D&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "综艺 84892",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "7. 京东健康618 蓝盈莹送同仁堂百万免单",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E5%81%A5%E5%BA%B7618%20%E8%93%9D%E7%9B%88%E8%8E%B9%E9%80%81%E5%90%8C%E4%BB%81%E5%A0%82%E7%99%BE%E4%B8%87%E5%85%8D%E5%8D%95&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "8. 给阿嬷的情书 成本",
+          "value": "电影 81631 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%20%E6%88%90%E6%9C%AC&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "电影 81631",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "9. 青云直上 肖战",
+          "value": "剧集 76530 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9D%92%E4%BA%91%E7%9B%B4%E4%B8%8A%20%E8%82%96%E6%88%98&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": "剧集 76530",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        },
+        {
+          "title": "10. 洗衣机长时间不清理比马桶还脏",
+          "value": "75956 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%97%E8%A1%A3%E6%9C%BA%E9%95%BF%E6%97%B6%E9%97%B4%E4%B8%8D%E6%B8%85%E7%90%86%E6%AF%94%E9%A9%AC%E6%A1%B6%E8%BF%98%E8%84%8F&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 75956",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": ""
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-05-26T23:11:03+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 61673",
             "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-06T23:01:45+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 花少8最新阵容",
-          "value": "综艺 1440826 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%B1%E5%B0%918%E6%9C%80%E6%96%B0%E9%98%B5%E5%AE%B9&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": "综艺 1440826",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 新人结婚被丢高速口路过宾利变婚车",
-          "value": "1181039 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F%E5%8F%A3%E8%B7%AF%E8%BF%87%E5%AE%BE%E5%88%A9%E5%8F%98%E5%A9%9A%E8%BD%A6&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 1181039",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 来中国玩的外国人更多了",
-          "value": "1008444 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%8E%A9%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9B%B4%E5%A4%9A%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 1008444",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 白鹿跑男争议 内娱综艺审美巨变",
-          "value": "综艺 990877 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E9%B9%BF%E8%B7%91%E7%94%B7%E4%BA%89%E8%AE%AE%20%E5%86%85%E5%A8%B1%E7%BB%BC%E8%89%BA%E5%AE%A1%E7%BE%8E%E5%B7%A8%E5%8F%98&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": "综艺 990877",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 解除台独刘世芳亲属全部职务",
-          "value": "952857 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%A7%A3%E9%99%A4%E5%8F%B0%E7%8B%AC%E5%88%98%E4%B8%96%E8%8A%B3%E4%BA%B2%E5%B1%9E%E5%85%A8%E9%83%A8%E8%81%8C%E5%8A%A1&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 952857",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 张杰谢娜合唱 [热]",
-          "value": "演出 919183 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%90%88%E5%94%B1&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "演出 919183",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 全国电动自行车淘汰赛系谣言",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%85%A8%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%B3%BB%E8%B0%A3%E8%A8%80&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 网友曝三亚4只皮皮虾收费1035元 [新]",
-          "value": "806826 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E5%8F%8B%E6%9B%9D%E4%B8%89%E4%BA%9A4%E5%8F%AA%E7%9A%AE%E7%9A%AE%E8%99%BE%E6%94%B6%E8%B4%B91035%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " 806826",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. meiko赛后发文",
-          "value": "580051 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dmeiko%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 580051",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 国乒男团进世乒赛8强 [新]",
-          "value": "459982 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E8%BF%9B%E4%B8%96%E4%B9%92%E8%B5%9B8%E5%BC%BA&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 459982",
-            "tag": "新",
             "api_source": "tianapi",
             "translation": ""
           }
