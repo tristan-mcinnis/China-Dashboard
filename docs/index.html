@@ -49,6 +49,26 @@
     </header>
 
     <main class="main">
+      <!-- Today's Brief: DeepSeek cross-source synthesis -->
+      <section class="brief" id="brief" aria-live="polite">
+        <div class="brief-header">
+          <div class="brief-title-row">
+            <h2 class="brief-title">Today's Brief</h2>
+            <span class="brief-meta" id="brief-meta">Synthesizing…</span>
+          </div>
+          <div class="brief-actions">
+            <button type="button" class="brief-action" id="brief-copy" title="Copy the Markdown brief to clipboard">Copy MD</button>
+            <a class="brief-action" id="brief-md-link" href="data/digest.md" target="_blank" rel="noopener">.md</a>
+            <a class="brief-action" id="brief-json-link" href="data/daily_digest.json" target="_blank" rel="noopener">.json</a>
+          </div>
+        </div>
+        <p class="brief-headline" id="brief-headline"></p>
+        <p class="brief-narrative" id="brief-narrative"></p>
+        <div class="brief-market" id="brief-market"></div>
+        <div class="brief-themes" id="brief-themes"></div>
+        <ol class="brief-stories" id="brief-stories"></ol>
+      </section>
+
       <div id="category-filter" class="category-filter">
         <button class="filter-btn active" data-category="all">All</button>
         <button class="filter-btn" data-category="markets">Markets</button>
