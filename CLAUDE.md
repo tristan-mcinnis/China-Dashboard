@@ -8,7 +8,7 @@ Serverless dashboard for real-time China signals using **Collectors → JSON →
 
 ## Important Requirements
 
-- **MUST use DeepSeek for translations** - Uses `deepseek-chat` model via the OpenAI-compatible DeepSeek API
+- **MUST use DeepSeek for translations** - Uses `deepseek-v4-flash` model via the OpenAI-compatible DeepSeek API
 - All RSS feed headlines must be translated using DeepSeek for optimal performance
 
 ## Key Architecture
@@ -16,7 +16,7 @@ Serverless dashboard for real-time China signals using **Collectors → JSON →
 - **Data Collection**: Python collectors (`collectors/*.py`) scrape various Chinese sources and output standardized JSON
 - **Data Storage**: JSON files stored in `/docs/data/` for GitHub Pages serving
 - **Frontend**: Static HTML/JS dashboard in `/docs/` served via GitHub Pages
-- **Automation**: GitHub Actions workflow runs collectors every 30 minutes
+- **Automation**: GitHub Actions workflow runs collectors 5 times per day (Beijing time), then regenerates the daily digest
 
 ## Common Commands
 
@@ -39,6 +39,9 @@ python collectors/fx_cny.py
 python collectors/weather_cn.py
 python collectors/pboc_rates.py
 python collectors/nbs_monthly.py
+
+# Generate the daily digest (run AFTER collectors; reads fresh docs/data/*.json)
+python collectors/daily_digest.py
 ```
 
 ### GitHub Pages Setup
@@ -65,7 +68,7 @@ All collectors output JSON following this uniform schema:
 ## Collector Architecture
 
 - **Common utilities**: `collectors/common.py` provides shared functions like `schema()`, `write_json()`, `base_headers()`, `backoff_sleep()`
-- **Translation**: MUST use DeepSeek (`deepseek-chat`) for fast, cost-effective translations
+- **Translation**: MUST use DeepSeek (`deepseek-v4-flash`) for fast, cost-effective translations
 - **Output path**: All collectors write to `docs/data/[name].json` (not `data/[name].json`)
 - **Error handling**: Collectors use retry logic with exponential backoff
 - **Headers**: Mobile user agents and anti-bot measures
@@ -88,6 +91,19 @@ Current collectors:
 - `property_cn.py`: 70-city home price index from EastMoney/NBS
 - `gov_regulatory.py`: CSRC, CAC, SAMR regulatory announcements with DeepSeek translations
 - `db_writer.py`: Utility to write collector data to Neon Postgres (requires DATABASE_URL)
+- `daily_digest.py`: Cross-source synthesis run after all collectors. Ranks stories by cross-platform salience, uses DeepSeek (`deepseek-v4-flash`) to write the narrative brief + per-story "why it matters", and falls back to a deterministic digest if DeepSeek is unavailable.
+
+## Daily Digest Outputs
+
+`daily_digest.py` is the aggregation/utility layer on top of the collectors. It does
+NOT follow the standard `items` schema. Outputs (all under `docs/data/`):
+- `daily_digest.json`: rich feed — `headline`, `narrative`/`narrative_zh`, `market_snapshot`, `themes`, `entities`, and ranked `top_stories[]` (each with `weight`, `platforms`, `platform_count`, `primary_title`, `english_title`, `why_it_matters`, `category`, `url`).
+- `digest.md`: human/LLM-friendly Markdown brief for downstream daily-digest pipelines.
+- `digest_archive/<date>/<slot>.json`: point-in-time snapshot (`slot` = morning/midday/evening).
+
+These are intended for OTHER repos to consume via the GitHub Pages raw URL. The digest
+is rendered as the "Today's Brief" hero at the top of the dashboard. It is skipped in
+the Neon DB writer loop (no `items` array).
 
 ## Neon Postgres (Long-term Storage)
 

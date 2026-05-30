@@ -1294,8 +1294,135 @@ function applyCategoryFilter() {
 
 document.addEventListener('DOMContentLoaded', initCategoryFilter);
 
+const PLATFORM_BADGES = {
+  baidu_top: 'Baidu',
+  weibo_hot: 'Weibo',
+  tencent_wechat_hot: 'WeChat',
+  xinhua_news: 'Xinhua',
+  thepaper_news: 'The Paper',
+  gov_regulatory: 'Regulatory',
+};
+
+// Today's Brief — render the DeepSeek cross-source digest
+async function renderDigest() {
+  const meta = document.getElementById('brief-meta');
+  try {
+    const digest = await loadJSON('data/daily_digest.json');
+
+    if (meta) {
+      const by = (digest.generated_by || '').startsWith('deepseek') ? 'DeepSeek' : 'auto';
+      meta.textContent = `${digest.time_label || ''} · ${digest.date || ''} ${digest.beijing_time || ''} CST · ${by}`;
+    }
+
+    const headline = document.getElementById('brief-headline');
+    if (headline) headline.textContent = digest.headline || '';
+
+    const narrative = document.getElementById('brief-narrative');
+    if (narrative) narrative.textContent = digest.narrative || '';
+
+    const market = document.getElementById('brief-market');
+    if (market) {
+      market.textContent = digest.market_snapshot || '';
+      market.style.display = digest.market_snapshot ? '' : 'none';
+    }
+
+    const themes = document.getElementById('brief-themes');
+    if (themes) {
+      themes.innerHTML = '';
+      (digest.themes || []).forEach((t) => {
+        const chip = document.createElement('span');
+        chip.className = 'brief-theme';
+        chip.textContent = t;
+        themes.appendChild(chip);
+      });
+    }
+
+    const stories = document.getElementById('brief-stories');
+    if (stories) {
+      stories.innerHTML = '';
+      (digest.top_stories || []).forEach((s) => {
+        const li = document.createElement('li');
+        li.className = 'brief-story';
+
+        const title = document.createElement('div');
+        title.className = 'brief-story-title';
+        const titleText = s.english_title || s.primary_title || '';
+        if (s.url) {
+          const a = document.createElement('a');
+          a.href = s.url;
+          a.target = '_blank';
+          a.rel = 'noopener';
+          a.textContent = titleText;
+          title.appendChild(a);
+        } else {
+          title.textContent = titleText;
+        }
+        li.appendChild(title);
+
+        if (s.primary_title && s.english_title) {
+          const zh = document.createElement('div');
+          zh.className = 'brief-story-zh';
+          zh.textContent = s.primary_title;
+          li.appendChild(zh);
+        }
+
+        if (s.why_it_matters) {
+          const why = document.createElement('div');
+          why.className = 'brief-story-why';
+          why.textContent = s.why_it_matters;
+          li.appendChild(why);
+        }
+
+        const badges = document.createElement('div');
+        badges.className = 'brief-story-badges';
+        (s.platforms || []).forEach((p) => {
+          const b = document.createElement('span');
+          b.className = 'brief-badge';
+          b.textContent = PLATFORM_BADGES[p] || p;
+          badges.appendChild(b);
+        });
+        if (s.platform_count > 1) {
+          const cross = document.createElement('span');
+          cross.className = 'brief-badge brief-badge-cross';
+          cross.textContent = `×${s.platform_count} platforms`;
+          badges.appendChild(cross);
+        }
+        li.appendChild(badges);
+
+        stories.appendChild(li);
+      });
+    }
+  } catch (error) {
+    if (meta) meta.textContent = 'Brief unavailable';
+    console.error('Failed to load digest:', error);
+  }
+}
+
+// Copy the Markdown brief to clipboard
+async function copyDigestMarkdown(button) {
+  try {
+    const res = await fetch(`data/digest.md?t=${Date.now()}`);
+    const text = await res.text();
+    await navigator.clipboard.writeText(text);
+    const original = button.textContent;
+    button.textContent = 'Copied ✓';
+    setTimeout(() => { button.textContent = original; }, 1800);
+  } catch (e) {
+    console.error('Copy failed:', e);
+    button.textContent = 'Copy failed';
+    setTimeout(() => { button.textContent = 'Copy MD'; }, 1800);
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const copyBtn = document.getElementById('brief-copy');
+  if (copyBtn) copyBtn.addEventListener('click', () => copyDigestMarkdown(copyBtn));
+});
+
 async function render() {
   try {
+    renderDigest();
+
     const [
       indices,
       fx,

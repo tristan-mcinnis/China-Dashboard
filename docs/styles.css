@@ -1188,3 +1188,212 @@ a.bilingual-text {
     gap: var(--space-4);
   }
 }
+/* ---------------------------------------------------------------------- */
+/* Today's Brief — DeepSeek cross-source digest hero                       */
+/* ---------------------------------------------------------------------- */
+.brief {
+  background: linear-gradient(180deg, var(--color-bg-secondary), var(--color-bg-card));
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  position: relative;
+  overflow: hidden;
+}
+
+.brief::before {
+  content: '';
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 3px;
+  background: linear-gradient(180deg, var(--color-text-brand), var(--color-text-accent));
+}
+
+.brief-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
+
+.brief-title-row {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.brief-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--color-text-primary);
+}
+
+.brief-meta {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--color-text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.brief-actions {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.brief-action {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--color-text-secondary);
+  background: var(--color-bg-tertiary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-1) var(--space-2);
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.brief-action:hover {
+  color: var(--color-text-accent);
+  border-color: var(--color-text-accent);
+}
+
+.brief-headline {
+  font-size: 1.4rem;
+  line-height: 1.3;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin: 0;
+}
+
+.brief-narrative {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--color-text-secondary);
+  margin: 0;
+  white-space: pre-line;
+}
+
+.brief-market {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--color-text-tertiary);
+  padding: var(--space-2) var(--space-3);
+  background: var(--color-bg-tertiary);
+  border-radius: var(--radius-sm);
+}
+
+.brief-themes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.brief-theme {
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-accent);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  padding: 2px var(--space-3);
+}
+
+.brief-stories {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-3);
+  counter-reset: brief;
+}
+
+.brief-story {
+  counter-increment: brief;
+  position: relative;
+  padding: var(--space-3) var(--space-3) var(--space-3) var(--space-8);
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border-subtle);
+  border-radius: var(--radius-md);
+}
+
+.brief-story::before {
+  content: counter(brief);
+  position: absolute;
+  left: var(--space-3);
+  top: var(--space-3);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text-brand);
+}
+
+.brief-story-title {
+  font-size: 0.92rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--color-text-primary);
+}
+
+.brief-story-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.brief-story-title a:hover {
+  color: var(--color-text-accent);
+}
+
+.brief-story-zh {
+  font-size: 0.8rem;
+  color: var(--color-text-tertiary);
+  margin-top: 2px;
+}
+
+.brief-story-why {
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--color-text-secondary);
+  margin-top: var(--space-2);
+}
+
+.brief-story-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+  margin-top: var(--space-2);
+}
+
+.brief-badge {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--color-text-tertiary);
+  background: var(--color-bg-tertiary);
+  border-radius: var(--radius-sm);
+  padding: 1px var(--space-2);
+}
+
+.brief-badge-cross {
+  color: var(--color-text-brand);
+  background: transparent;
+  border: 1px solid var(--color-text-brand);
+}
+
+@media (max-width: 768px) {
+  .brief-stories {
+    grid-template-columns: 1fr;
+  }
+  .brief-headline {
+    font-size: 1.15rem;
+  }
+}

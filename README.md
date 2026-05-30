@@ -13,6 +13,25 @@ China Snapshot is a lightweight, serverless dashboard that highlights real-time 
 - **FX Rates** – currency moves for the renminbi against major trading partners.
 - **Weather & Alerts** – quick read on current conditions in major cities.
 - **Xinhua Headlines** – fresh policy and state-media updates that set the official narrative.
+- **Today's Brief** – a DeepSeek-generated cross-source digest that ranks the day's stories by how many platforms they trend on, summarises why they matter, and attaches a market snapshot.
+
+## Daily Digest (for downstream use)
+
+Every collection run regenerates a single synthesized brief so other tools (daily
+digests, newsletters, LLM pipelines) can consume China signals without re-scraping:
+
+- **`docs/data/daily_digest.json`** – rich, machine-readable feed: ranked stories
+  with cross-platform salience weights, bilingual titles, "why it matters" lines,
+  themes, entities, and a deterministic market snapshot.
+- **`docs/data/digest.md`** – a clean Markdown brief, ready to paste into another
+  digest or hand to an LLM.
+
+Both are served from GitHub Pages, so any repo can fetch them by raw URL, e.g.
+`https://tristan-mcinnis.github.io/China-Dashboard/data/digest.md`.
+
+Synthesis uses DeepSeek (`deepseek-v4-flash`). If `DEEPSEEK_API_KEY` is absent or the
+call fails, the generator falls back to a deterministic salience-ranked digest so
+the artifact is always present and valid.
 
 ## Live dashboard
 
@@ -26,9 +45,10 @@ View the site on GitHub Pages: https://tristan-mcinnis.github.io/China-Dashboard
    - Get a free API key from: https://www.tianapi.com/
    - Add to GitHub Secrets as `TIANAPI_API_KEY`
 
-2. **OpenAI API** (Required for translations)
-   - Get your API key from: https://platform.openai.com/api-keys
-   - Add to GitHub Secrets as `OPENAI_API_KEY`
+2. **DeepSeek API** (Required for translations and the daily digest)
+   - Get your API key from: https://platform.deepseek.com/
+   - Add to GitHub Secrets as `DEEPSEEK_API_KEY`
+   - Uses the `deepseek-v4-flash` model via the OpenAI-compatible DeepSeek API
 
 3. **FX API Key** (Optional, for currency rates)
    - Add to GitHub Secrets as `FX_API_KEY`
@@ -50,8 +70,8 @@ The dashboard exposes a health check endpoint at `/data/health.json` with collec
 ```json
 {
   "timestamp": "2026-01-04T14:00:00Z",
-  "success_count": 9,
-  "total_count": 9,
+  "success_count": 14,
+  "total_count": 14,
   "status": "healthy",
   "failed": []
 }
