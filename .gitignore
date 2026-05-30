@@ -58,7 +58,9 @@ logs/
 *.tmp
 *.temp
 .cache/
-# Test files
-test_*.py
-test_*.json
+# Scratch test files (but keep the real suite under tests/)
+/test_*.py
+/test_*.json
+collectors/test_*.py
+!tests/
 .vercel
