@@ -8,7 +8,7 @@ Serverless dashboard for real-time China signals using **Collectors → JSON →
 
 ## Important Requirements
 
-- **MUST use DeepSeek for translations** - Uses `deepseek-chat` model via the OpenAI-compatible DeepSeek API
+- **MUST use DeepSeek for translations** - Uses `deepseek-v4-flash` model via the OpenAI-compatible DeepSeek API
 - All RSS feed headlines must be translated using DeepSeek for optimal performance
 
 ## Key Architecture
@@ -68,7 +68,7 @@ All collectors output JSON following this uniform schema:
 ## Collector Architecture
 
 - **Common utilities**: `collectors/common.py` provides shared functions like `schema()`, `write_json()`, `base_headers()`, `backoff_sleep()`
-- **Translation**: MUST use DeepSeek (`deepseek-chat`) for fast, cost-effective translations
+- **Translation**: MUST use DeepSeek (`deepseek-v4-flash`) for fast, cost-effective translations
 - **Output path**: All collectors write to `docs/data/[name].json` (not `data/[name].json`)
 - **Error handling**: Collectors use retry logic with exponential backoff
 - **Headers**: Mobile user agents and anti-bot measures
@@ -91,7 +91,7 @@ Current collectors:
 - `property_cn.py`: 70-city home price index from EastMoney/NBS
 - `gov_regulatory.py`: CSRC, CAC, SAMR regulatory announcements with DeepSeek translations
 - `db_writer.py`: Utility to write collector data to Neon Postgres (requires DATABASE_URL)
-- `daily_digest.py`: Cross-source synthesis run after all collectors. Ranks stories by cross-platform salience, uses DeepSeek (`deepseek-chat`) to write the narrative brief + per-story "why it matters", and falls back to a deterministic digest if DeepSeek is unavailable.
+- `daily_digest.py`: Cross-source synthesis run after all collectors. Ranks stories by cross-platform salience, uses DeepSeek (`deepseek-v4-flash`) to write the narrative brief + per-story "why it matters", and falls back to a deterministic digest if DeepSeek is unavailable.
 
 ## Daily Digest Outputs
 

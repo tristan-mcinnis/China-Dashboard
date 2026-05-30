@@ -6,7 +6,7 @@ are scored by cross-platform salience (a story that is hot on Baidu *and* Weibo
 *and* WeChat outranks one that is hot on a single platform), news and regulatory
 items are folded in, and a deterministic market snapshot is always attached.
 
-DeepSeek (``deepseek-chat``) is used to write a real narrative brief and concise
+DeepSeek (``deepseek-v4-flash``) is used to write a real narrative brief and concise
 per-story "why it matters" lines. If ``DEEPSEEK_API_KEY`` is missing or the API
 call fails, the generator falls back to a fully deterministic digest so the
 pipeline never produces a broken or empty artifact.
@@ -247,7 +247,7 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
     try:
         client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
         resp = client.chat.completions.create(
-            model="deepseek-chat",
+            model="deepseek-v4-flash",
             messages=[
                 {"role": "system", "content": "You are a precise geopolitical news analyst. Output valid JSON only."},
                 {"role": "user", "content": prompt},
@@ -375,7 +375,7 @@ def build_digest() -> dict:
     stories = candidates[:MAX_STORIES]
 
     synthesis = _deepseek_synthesis(stories, market, now.strftime("%Y-%m-%d"))
-    generated_by = "deepseek-chat"
+    generated_by = "deepseek-v4-flash"
     if synthesis is None:
         meta, overrides = _heuristic_meta(stories, market), {}
         generated_by = "heuristic"

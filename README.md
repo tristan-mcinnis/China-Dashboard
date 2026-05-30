@@ -29,7 +29,7 @@ digests, newsletters, LLM pipelines) can consume China signals without re-scrapi
 Both are served from GitHub Pages, so any repo can fetch them by raw URL, e.g.
 `https://tristan-mcinnis.github.io/China-Dashboard/data/digest.md`.
 
-Synthesis uses DeepSeek (`deepseek-chat`). If `DEEPSEEK_API_KEY` is absent or the
+Synthesis uses DeepSeek (`deepseek-v4-flash`). If `DEEPSEEK_API_KEY` is absent or the
 call fails, the generator falls back to a deterministic salience-ranked digest so
 the artifact is always present and valid.
 
@@ -48,7 +48,7 @@ View the site on GitHub Pages: https://tristan-mcinnis.github.io/China-Dashboard
 2. **DeepSeek API** (Required for translations and the daily digest)
    - Get your API key from: https://platform.deepseek.com/
    - Add to GitHub Secrets as `DEEPSEEK_API_KEY`
-   - Uses the `deepseek-chat` model via the OpenAI-compatible DeepSeek API
+   - Uses the `deepseek-v4-flash` model via the OpenAI-compatible DeepSeek API
 
 3. **FX API Key** (Optional, for currency rates)
    - Add to GitHub Secrets as `FX_API_KEY`

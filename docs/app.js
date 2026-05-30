@@ -1310,7 +1310,7 @@ async function renderDigest() {
     const digest = await loadJSON('data/daily_digest.json');
 
     if (meta) {
-      const by = digest.generated_by === 'deepseek-chat' ? 'DeepSeek' : 'auto';
+      const by = (digest.generated_by || '').startsWith('deepseek') ? 'DeepSeek' : 'auto';
       meta.textContent = `${digest.time_label || ''} · ${digest.date || ''} ${digest.beijing_time || ''} CST · ${by}`;
     }
 
