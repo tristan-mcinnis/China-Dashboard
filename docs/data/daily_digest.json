@@ -1,18 +1,29 @@
 {
   "digest_type": "midday",
-  "as_of": "2026-06-01T15:09:39+08:00",
+  "as_of": "2026-06-01T15:15:10+08:00",
   "date": "2026-06-01",
   "time_label": "Midday Brief",
-  "beijing_time": "15:09",
-  "generated_by": "heuristic",
-  "headline": "“自古英雄出少年”",
-  "narrative": "Top of mind: “自古英雄出少年”. 7 stories are trending across multiple major platforms, signalling broad public attention. Markets: SSE Composite 4056.448 ▼0.30% · Shenzhen Component 15335.922 ▼1.54% · ChiNext 3950.069 ▼2.18% · USD/CNY 6.7657 →0.00% · USD/CNH 6.765 ▲0.03%.",
-  "narrative_zh": "本简报由跨平台热度自动汇总生成（未经语言模型润色）。",
-  "market_snapshot": "SSE Composite 4056.448 ▼0.30% · Shenzhen Component 15335.922 ▼1.54% · ChiNext 3950.069 ▼2.18% · USD/CNY 6.7657 →0.00% · USD/CNH 6.765 ▲0.03%",
+  "beijing_time": "15:14",
+  "generated_by": "deepseek-v4-flash",
+  "headline": "Xi's Children's Day Letter, Youth Vaping Drinks Top China's Trending Topics",
+  "narrative": "On June 1, 2026, International Children's Day, President Xi Jinping's letter to Young Pioneer guides at two major memorial halls dominated Chinese social media, emphasizing the importance of patriotic education among youth. This positive news was juxtaposed with growing concern over 'herbal atomizers'—vaping-like drinks sold to minors online, sparking calls for stronger regulation. The contrasting themes reflected the dual focus on celebrating childhood and safeguarding youth health.\n\nMeanwhile, the relaunch of Tianya Community after a three-year shutdown crashed due to overwhelming traffic, signaling enduring nostalgia for early internet culture. Other trending items included nostalgia posts about childhood games, a boy selling a gold bar for a fraction of its value, debates on enlarging parking spaces for bigger cars, and a bizarre case of photoshopped seatbelts in a vehicle. These stories collectively highlight a mix of sentimentality, safety concerns, and evolving social norms.\n\nThe market closed mostly lower, with the ChiNext index falling over 2%, as investor sentiment remained cautious amid the broad mix of news.",
+  "narrative_zh": "2026年6月1日国际儿童节当天，习近平总书记给中共一大纪念馆和南湖革命纪念馆的少先队讲解员回信，鼓励少年儿童传承红色基因，此消息在社交媒体上热度最高。与此同时，'草本雾化器'——一种外形酷似电子烟、面向未成年人销售的'饮料'引发担忧，促使舆论呼吁加强监管。这两种信息形成鲜明对比，既体现了对儿童的关怀，也暴露了青少年健康风险。\n\n此外，停服三年的天涯社区重启首日因流量过大崩溃，凸显公众对早期互联网文化的怀旧。其他热门话题包括童年游戏怀旧、男童低价出售金条、停车位扩容争议以及车辆安全带被PS造假的离奇事件。这些新闻反映了怀旧情绪、安全隐患和社会变迁的混合图景。\n\nA股市场普遍收跌，创业板指跌幅超2%，投资者情绪受多空消息交织影响保持谨慎。",
+  "market_snapshot": "SSE Composite 4057.712 ▼0.27% · Shenzhen Component 15336.017 ▼1.54% · ChiNext 3949.75 ▼2.18% · USD/CNY 6.7651 ▼0.01% · USD/CNH 6.7655 ▲0.04%",
   "themes": [
-    "social"
+    "Children's Day",
+    "Youth protection",
+    "Patriotic education",
+    "Internet nostalgia",
+    "Health regulation",
+    "Safety fraud"
   ],
-  "entities": [],
+  "entities": [
+    "Xi Jinping",
+    "Tianya Community",
+    "Shandong",
+    "SSE Composite",
+    "ChiNext"
+  ],
   "top_stories": [
     {
       "rank": 1,
@@ -23,8 +34,8 @@
       ],
       "platform_count": 2,
       "primary_title": "“自古英雄出少年”",
-      "english_title": "",
-      "why_it_matters": "",
+      "english_title": "Xi Jinping Replies to Young Pioneer Guides for Children's Day",
+      "why_it_matters": "Reinforces state-led patriotic education and leadership focus on youth development.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%87%AA%E5%8F%A4%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4%E2%80%9D",
       "appearances": [
@@ -47,8 +58,8 @@
       ],
       "platform_count": 2,
       "primary_title": "“能过肺”的饮料流向未成年人",
-      "english_title": "",
-      "why_it_matters": "",
+      "english_title": "Vaping-Like 'Herbal Atomizers' Sold to Minors Raises Alarm",
+      "why_it_matters": "Exposes regulatory gap in youth-targeted nicotine-alternative products and public health risks.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%83%BD%E8%BF%87%E8%82%BA%E2%80%9D%E7%9A%84%E9%A5%AE%E6%96%99%E6%B5%81%E5%90%91%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA",
       "appearances": [
@@ -71,8 +82,8 @@
       ],
       "platform_count": 2,
       "primary_title": "天涯社区重启首日崩了",
-      "english_title": "",
-      "why_it_matters": "",
+      "english_title": "Tianya Community Relaunch Crashes Due to Overwhelming Traffic",
+      "why_it_matters": "Highlights enduring nostalgia for early Chinese internet culture and challenges of reviving legacy platforms.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%E9%87%8D%E5%90%AF%E9%A6%96%E6%97%A5%E5%B4%A9%E4%BA%86",
       "appearances": [
@@ -95,8 +106,8 @@
       ],
       "platform_count": 2,
       "primary_title": "中国科技期刊影响力提升 底气何来",
-      "english_title": "",
-      "why_it_matters": "",
+      "english_title": "China's Scientific Journals Gain Influence Amid Research Boom",
+      "why_it_matters": "Signals China's rising soft power in global scientific publishing and quality of domestic research.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%9C%9F%E5%88%8A%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%8F%90%E5%8D%87+%E5%BA%95%E6%B0%94%E4%BD%95%E6%9D%A5",
       "appearances": [
@@ -119,8 +130,8 @@
       ],
       "platform_count": 2,
       "primary_title": "今天突然被小时候的记忆暴击了",
-      "english_title": "",
-      "why_it_matters": "",
+      "english_title": "Childhood Nostalgia Posts Trend on Children's Day",
+      "why_it_matters": "Reflects collective sentiment and cultural memory triggered by the holiday.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%AE%B0%E5%BF%86%E6%9A%B4%E5%87%BB%E4%BA%86",
       "appearances": [
@@ -143,8 +154,8 @@
       ],
       "platform_count": 2,
       "primary_title": "男童100元卖20克金条 店主立马报警",
-      "english_title": "",
-      "why_it_matters": "",
+      "english_title": "Boy Sells 20g Gold Bar for 100 Yuan, Shopkeeper Alerts Police",
+      "why_it_matters": "Raises issues of child safety, financial literacy, and legal responsibility of businesses.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5100%E5%85%83%E5%8D%9620%E5%85%8B%E9%87%91%E6%9D%A1+%E5%BA%97%E4%B8%BB%E7%AB%8B%E9%A9%AC%E6%8A%A5%E8%AD%A6",
       "appearances": [
@@ -167,8 +178,8 @@
       ],
       "platform_count": 2,
       "primary_title": "车辆越来越大 车位要不要扩容",
-      "english_title": "",
-      "why_it_matters": "",
+      "english_title": "Debate Over Parking Space Expansion for Larger Cars",
+      "why_it_matters": "Points to urban planning challenges due to changing vehicle sizes and infrastructure standards.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%A7+%E8%BD%A6%E4%BD%8D%E8%A6%81%E4%B8%8D%E8%A6%81%E6%89%A9%E5%AE%B9",
       "appearances": [
@@ -190,8 +201,8 @@
       ],
       "platform_count": 1,
       "primary_title": "一车安全带全是P上去的",
-      "english_title": "",
-      "why_it_matters": "",
+      "english_title": "Car's Seatbelts Found Photoshop-Faked in Safety Inspection",
+      "why_it_matters": "Exposes potential fraud in vehicle safety checks and risks to road safety.",
       "category": "social",
       "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E8%BD%A6%E5%AE%89%E5%85%A8%E5%B8%A6%E5%85%A8%E6%98%AFP%E4%B8%8A%E5%8E%BB%E7%9A%84&v_p=42",
       "appearances": [
