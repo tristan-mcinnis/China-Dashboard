@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-06-02T00:06:13+08:00",
+  "generated_at": "2026-06-02T06:43:37+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-02T06:43:37+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 豆包将正式付费",
+          "value": "599319 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E5%B0%86%E6%AD%A3%E5%BC%8F%E4%BB%98%E8%B4%B9&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 599319",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Doubao will officially charge"
+          }
+        },
+        {
+          "title": "2. 豆包免费部分",
+          "value": "361857 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E5%85%8D%E8%B4%B9%E9%83%A8%E5%88%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 361857",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Free portion of Doubao"
+          }
+        },
+        {
+          "title": "3. 长征十二号乙运载火箭首飞成功",
+          "value": "290842 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E5%BE%81%E5%8D%81%E4%BA%8C%E5%8F%B7%E4%B9%99%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 290842",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Long March 12B carrier rocket maiden flight successful"
+          }
+        },
+        {
+          "title": "4. 台湾岛内统一声浪持续高涨",
+          "value": "160533 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%86%85%E7%BB%9F%E4%B8%80%E5%A3%B0%E6%B5%AA%E6%8C%81%E7%BB%AD%E9%AB%98%E6%B6%A8&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " 160533",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Unification sentiment in Taiwan continues to rise"
+          }
+        },
+        {
+          "title": "5. 记者卧底500人群聊揭秘崩老头内幕",
+          "value": "123890 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95500%E4%BA%BA%E7%BE%A4%E8%81%8A%E6%8F%AD%E7%A7%98%E5%B4%A9%E8%80%81%E5%A4%B4%E5%86%85%E5%B9%95&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 123890",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Journalist goes undercover in 500-person group chat to expose 'Crash Old..."
+          }
+        },
+        {
+          "title": "6. 白云机场一航班落地滑行58分钟",
+          "value": "108498 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E4%BA%91%E6%9C%BA%E5%9C%BA%E4%B8%80%E8%88%AA%E7%8F%AD%E8%90%BD%E5%9C%B0%E6%BB%91%E8%A1%8C58%E5%88%86%E9%92%9F&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 108498",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Flight at Baiyun Airport taxis 58 minutes after landing"
+          }
+        },
+        {
+          "title": "7. 高考前发热怎么办",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E8%80%83%E5%89%8D%E5%8F%91%E7%83%AD%E6%80%8E%E4%B9%88%E5%8A%9E&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "What to do if fever before college entrance exam"
+          }
+        },
+        {
+          "title": "8. 伊朗暂停通过中间人同美国对话",
+          "value": "105997 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%AF%9D&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 105997",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Iran suspends talks with US via intermediaries"
+          }
+        },
+        {
+          "title": "9. 人糊涂起来就这样莫名其妙",
+          "value": "98593 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E7%B3%8A%E6%B6%82%E8%B5%B7%E6%9D%A5%E5%B0%B1%E8%BF%99%E6%A0%B7%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 98593",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "When people get confused, it's so inexplicable"
+          }
+        },
+        {
+          "title": "10. 虞书欣演长剧导短剧",
+          "value": "88103 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%BC%94%E9%95%BF%E5%89%A7%E5%AF%BC%E7%9F%AD%E5%89%A7&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 88103",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Yu Shuxin acts in long drama, directs short play"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-02T00:06:13+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": "剧集 400486",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-13T14:54:56+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 特朗普访华",
-          "value": "1896297 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1896297",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 金曲奖入围名单 [新]",
-          "value": "音乐 1507893 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%87%91%E6%9B%B2%E5%A5%96%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "音乐 1507893",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 月壤用拔丝地瓜手法做成纤维",
-          "value": "741246 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%88%E5%A3%A4%E7%94%A8%E6%8B%94%E4%B8%9D%E5%9C%B0%E7%93%9C%E6%89%8B%E6%B3%95%E5%81%9A%E6%88%90%E7%BA%A4%E7%BB%B4&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 741246",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 李健放大招了",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%81%A5%E6%94%BE%E5%A4%A7%E6%8B%9B%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 怎么现在不垃圾分类了",
-          "value": "733833 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%80%8E%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 733833",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 李小冉知道自己笑起来像森碟 [荐]",
-          "value": "综艺 724071 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E5%B0%8F%E5%86%89%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E7%AC%91%E8%B5%B7%E6%9D%A5%E5%83%8F%E6%A3%AE%E7%A2%9F&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "综艺 724071",
-            "tag": "荐",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 单依纯入围金曲奖",
-          "value": "音乐 660653 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%85%A5%E5%9B%B4%E9%87%91%E6%9B%B2%E5%A5%96&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "音乐 660653",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 丁禹兮范思哲全球香水代言人",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%81%E7%A6%B9%E5%85%AE%E8%8C%83%E6%80%9D%E5%93%B2%E5%85%A8%E7%90%83%E9%A6%99%E6%B0%B4%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 孙铭阳退出国家队",
-          "value": "617115 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E9%93%AD%E9%98%B3%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 617115",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 黄仁勋年薪约2.47亿元",
-          "value": "545907 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E4%BB%81%E5%8B%8B%E5%B9%B4%E8%96%AA%E7%BA%A62.47%E4%BA%BF%E5%85%83&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 545907",
             "tag": "",
             "api_source": "tianapi",
             "translation": ""

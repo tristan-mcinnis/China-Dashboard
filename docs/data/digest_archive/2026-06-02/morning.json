@@ -1,31 +1,32 @@
 {
   "digest_type": "morning",
-  "as_of": "2026-06-02T00:07:28+08:00",
+  "as_of": "2026-06-02T06:44:45+08:00",
   "date": "2026-06-02",
   "time_label": "Morning Brief",
-  "beijing_time": "00:07",
+  "beijing_time": "06:44",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Xi encourages youth; floods, Strait risk, and AI robotics lead China's daily agenda",
-  "narrative": "President Xi Jinping's reply to young museum guides, released ahead of Children's Day, reinforces the regime's emphasis on ideological continuity and 'historical relay race' messaging. This tops social media discourse alongside emerging tech stories like ByteDance's Doubao paid content launch in late June and Nvidia's partnership with Unitree on humanoid robots. These signal China's push in AI commercialization and advanced manufacturing.\n\nMeanwhile, severe flood warnings as China enters the annual flood season, with southern regions under watch. Geopolitically, Iran's reported plan to 'completely block the Strait of Hormuz' elevates energy security risks for China, the world's top oil importer. Socially, complaints about a 58-minute taxiing delay at Guangzhou Baiyun Airport and a viral marketing controversy of Adidas's 'town errand' jacket highlight consumer and service grievances.\n\nMarkets showed slight declines: SSE Composite down 0.27%, ChiNext weaker by 2.15%, reflecting cautious sentiment amid mixed signals.",
-  "narrative_zh": "习近平主席在儿童节前夕给少先队讲解员回信，强调‘历史接力赛’，强化意识形态宣传，占据社交媒体头条。科技方面，字节跳动旗下豆包将在6月下旬推出付费内容，英伟达与宇树科技合作开发1.8米人形机器人，显示中国在AI商业化和高端制造领域的进展。\n\n同时，中国全面进入汛期，南方主汛期防汛形势严峻。地缘政治层面，伊朗计划‘彻底封锁霍尔木兹海峡’的消息增加中国能源安全风险。社会热点包括广州白云机场航班滑行58分钟引发旅客不满，以及阿迪达斯夹克‘在城里办事’广告争议。\n\n市场方面，上证综指微跌0.27%，创业板指下跌2.15%，市场情绪谨慎。",
-  "market_snapshot": "SSE Composite 4057.74 ▼0.27% · Shenzhen Component 15340.356 ▼1.51% · ChiNext 3950.943 ▼2.15% · USD/CNY 6.7645 ▼0.02% · USD/CNH 6.7667 ▲0.06%",
+  "headline": "Xi replies to Young Pioneers; Doubao to monetize; NVIDIA partners with Unitree on humanoid robot; China enters flood season",
+  "narrative": "President Xi Jinping's letter to Young Pioneer docents at two revolutionary memorials ahead of Children's Day underscores the regime's continued emphasis on ideological education for youth. This reinforces the narrative of historical mission and patriotic indoctrination among the next generation. Separately, Doubao, the AI assistant by ByteDance, is expected to begin charging users in late June, marking a significant step toward monetization of AI products in China. The move will be accompanied by product updates at the Force conference.\n\nIn tech news, NVIDIA CEO Jensen Huang announced a partnership with Chinese robotics firm Unitree to develop a 1.8-meter humanoid robot reference design, H2+, aimed at accelerating innovation in the global humanoid robotics sector. Meanwhile, China has officially entered the flood season, with authorities urging public safety measures as southern regions brace for heavy rainfall. A viral photo of a 'mud man' official who survived a mudslide while evacuating residents has drawn attention to disaster response efforts.\n\nOther trending stories include a flight delay complaint during taxiing in Guangzhou, a young teacher who turned a bottom-ranked class into top performers, and ByteDance's Doubao charging news (repeated). These stories reflect public concerns over service quality, education, and internet business models.",
+  "narrative_zh": "习近平主席在儿童节前夕给中共一大纪念馆和南湖革命纪念馆的少先队红领巾讲解员回信，强调对青少年的意识形态教育，延续历史使命和爱国主义宣传。字节跳动旗下AI助手豆包预计6月下旬正式收费，标志着中国AI产品商业化的重要一步，同时将在Force大会上更新功能。\n\n英伟达CEO黄仁勋宣布与宇树科技合作开发1.8米人形机器人参考设计H2+，旨在加速全球人形机器人创新。我国6月1日全面进入汛期，南方进入主汛期，水利部提醒公众注意安全。一位在疏散群众时被泥石流冲走又奇迹生还的“泥人干部”田如良引发网络关注。\n\n其他热点包括广州白云机场一航班落地滑行58分钟引旅客不满、00后班主任将垫底班带到年级第一的事迹，以及豆包即将收费的重复信息。这些故事反映了公众对服务质量、教育和互联网商业模式的关注。",
+  "market_snapshot": "SSE Composite 4057.74 ▼0.27% · Shenzhen Component 15340.356 ▼1.51% · ChiNext 3950.943 ▼2.15% · USD/CNY 6.7645 ▼0.02% · USD/CNH 6.7633 ▲0.01%",
   "themes": [
-    "Political messaging",
-    "AI and robotics commercialisation",
-    "Energy security & geopolitics",
-    "Natural disaster preparedness",
-    "Consumer and service quality"
+    "Ideological indoctrination",
+    "AI monetization",
+    "Humanoid robotics",
+    "Flood season preparedness",
+    "Social media virality",
+    "Education success"
   ],
   "entities": [
     "Xi Jinping",
     "ByteDance (Doubao)",
-    "Nvidia",
-    "Unitree Robotics",
-    "Iran",
-    "Strait of Hormuz",
-    "Guangzhou Baiyun Airport",
-    "Adidas",
-    "Tang Zenghui (teacher)"
+    "NVIDIA",
+    "Jensen Huang",
+    "Unitree Technology",
+    "Ministry of Water Resources",
+    "Tian Ruliang",
+    "Western Air",
+    "Guangzhou Baiyun Airport"
   ],
   "top_stories": [
     {
@@ -37,8 +38,8 @@
       ],
       "platform_count": 2,
       "primary_title": "在新征程上跑好历史接力赛",
-      "english_title": "Xi replies to young museum guides ahead of Children's Day",
-      "why_it_matters": "Reinforces CPC's youth propaganda narrative and ideological continuity.",
+      "english_title": "Xi Jinping replies to young docents at revolutionary memorials",
+      "why_it_matters": "Signals continued emphasis on patriotic education for youth under the Party's guidance.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E8%B7%91%E5%A5%BD%E5%8E%86%E5%8F%B2%E6%8E%A5%E5%8A%9B%E8%B5%9B",
       "appearances": [
@@ -61,8 +62,8 @@
       ],
       "platform_count": 2,
       "primary_title": "豆包预计6月下旬正式收费",
-      "english_title": "ByteDance's Doubao to start charging for content in late June",
-      "why_it_matters": "Indicates monetization push in China's competitive AI assistant market.",
+      "english_title": "ByteDance's Doubao to start charging in late June",
+      "why_it_matters": "First major step toward monetizing AI assistants in China, indicating market maturity.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E9%A2%84%E8%AE%A16%E6%9C%88%E4%B8%8B%E6%97%AC%E6%AD%A3%E5%BC%8F%E6%94%B6%E8%B4%B9",
       "appearances": [
@@ -78,6 +79,35 @@
     },
     {
       "rank": 3,
+      "weight": 28.6,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot",
+        "weibo_hot"
+      ],
+      "platform_count": 3,
+      "primary_title": "广州白云机场一航班落地滑行58分钟",
+      "english_title": "Guangzhou flight delays 58 minutes after landing",
+      "why_it_matters": "Raises public concerns over airport ground handling and passenger rights.",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E7%99%BD%E4%BA%91%E6%9C%BA%E5%9C%BA%E4%B8%80%E8%88%AA%E7%8F%AD%E8%90%BD%E5%9C%B0%E6%BB%91%E8%A1%8C58%E5%88%86%E9%92%9F",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 7
+        },
+        {
+          "platform": "weibo_hot",
+          "rank": 6
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "weight": 25.6,
       "platforms": [
         "baidu_top",
@@ -85,8 +115,8 @@
       ],
       "platform_count": 2,
       "primary_title": "黄仁勋联手宇树打造1.8米机器人",
-      "english_title": "Nvidia partners with Unitree to develop 1.8m humanoid robot",
-      "why_it_matters": "Advances China's humanoid robotics sector and Nvidia's ecosystem influence.",
+      "english_title": "NVIDIA and Unitree partner on 1.8m humanoid robot",
+      "why_it_matters": "Highlights China's role in global humanoid robot development and US-China tech collaboration.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%81%94%E6%89%8B%E5%AE%87%E6%A0%91%E6%89%93%E9%80%A01.8%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA",
       "appearances": [
@@ -101,35 +131,6 @@
       ]
     },
     {
-      "rank": 4,
-      "weight": 24.2,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot",
-        "weibo_hot"
-      ],
-      "platform_count": 3,
-      "primary_title": "广州白云机场一航班落地滑行58分钟",
-      "english_title": "Flight taxiing for 58 minutes at Guangzhou Baiyun Airport sparks complaints",
-      "why_it_matters": "Highlights operational inefficiency and passenger rights concerns.",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E7%99%BD%E4%BA%91%E6%9C%BA%E5%9C%BA%E4%B8%80%E8%88%AA%E7%8F%AD%E8%90%BD%E5%9C%B0%E6%BB%91%E8%A1%8C58%E5%88%86%E9%92%9F",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 8
-        },
-        {
-          "platform": "weibo_hot",
-          "rank": 6
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 8
-        }
-      ]
-    },
-    {
       "rank": 5,
       "weight": 22.4,
       "platforms": [
@@ -138,8 +139,8 @@
       ],
       "platform_count": 2,
       "primary_title": "我国全面进入汛期 如何安全度汛",
-      "english_title": "China enters annual flood season with southern regions on alert",
-      "why_it_matters": "Directly threatens lives, infrastructure, and agriculture in populated areas.",
+      "english_title": "China enters flood season; safety warnings issued",
+      "why_it_matters": "Annual natural disaster preparedness is critical for public safety and infrastructure resilience.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E6%B1%9B%E6%9C%9F+%E5%A6%82%E4%BD%95%E5%AE%89%E5%85%A8%E5%BA%A6%E6%B1%9B",
       "appearances": [
@@ -155,35 +156,6 @@
     },
     {
       "rank": 6,
-      "weight": 19.8,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot",
-        "weibo_hot"
-      ],
-      "platform_count": 3,
-      "primary_title": "伊朗计划彻底封锁霍尔木兹海峡",
-      "english_title": "Iran plans to completely block Strait of Hormuz",
-      "why_it_matters": "Critical energy chokepoint disruption threatens global oil supply and China's imports.",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 7
-        },
-        {
-          "platform": "weibo_hot",
-          "rank": 10
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 7
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "weight": 19.2,
       "platforms": [
         "baidu_top",
@@ -191,8 +163,8 @@
       ],
       "platform_count": 2,
       "primary_title": "00后班主任把垫底班带到年级第一",
-      "english_title": "Post-00s homeroom teacher leads last-place class to top of grade",
-      "why_it_matters": "Positive education story highlighting generational shift in teaching approaches.",
+      "english_title": "Post-00s teacher turns bottom-ranked class into top performer",
+      "why_it_matters": "Inspires discussion on innovative teaching methods and generational shift in education.",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8A%8A%E5%9E%AB%E5%BA%95%E7%8F%AD%E5%B8%A6%E5%88%B0%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80",
       "appearances": [
@@ -207,18 +179,18 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "weight": 16.0,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "阿迪达斯可用于在城里办事？客服回应",
-      "english_title": "Adidas jacket ad slogan 'suitable for town errands' draws controversy",
-      "why_it_matters": "Reflects consumer sensitivity to brand messaging and potential cultural missteps.",
+      "primary_title": "“泥人干部”被泥石流冲走画面曝光",
+      "english_title": "Mud-covered official survives mudslide while evacuating villagers",
+      "why_it_matters": "Symbolizes grassroots dedication and raises awareness of disaster relief risks.",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%8F%AF%E7%94%A8%E4%BA%8E%E5%9C%A8%E5%9F%8E%E9%87%8C%E5%8A%9E%E4%BA%8B%EF%BC%9F%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B3%A5%E4%BA%BA%E5%B9%B2%E9%83%A8%E2%80%9D%E8%A2%AB%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%86%B2%E8%B5%B0%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -227,6 +199,25 @@
         {
           "platform": "tencent_wechat_hot",
           "rank": 6
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "weight": 10.0,
+      "platforms": [
+        "weibo_hot"
+      ],
+      "platform_count": 1,
+      "primary_title": "豆包将正式付费",
+      "english_title": "Doubao to charge users (repeat)",
+      "why_it_matters": "Reinforces the trend of AI products moving to paid models.",
+      "category": "social",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E5%B0%86%E6%AD%A3%E5%BC%8F%E4%BB%98%E8%B4%B9&v_p=42",
+      "appearances": [
+        {
+          "platform": "weibo_hot",
+          "rank": 1
         }
       ]
     }
