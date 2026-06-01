@@ -232,6 +232,30 @@ function fmtPct(value) {
   return ` ${sign} ${number.toFixed(2)}%`;
 }
 
+// Map a change to a red/green direction class, so deltas read at a glance like
+// a real markets dashboard. Numbers (e.g. index chg%) are always treated as
+// deltas; strings are only colored when they carry an explicit sign (+/-/▲/▼)
+// so absolute levels like "3.10%" policy rates or index prices stay neutral.
+function deltaClass(value) {
+  let n;
+  if (typeof value === "number") {
+    n = value;
+  } else {
+    const s = String(value ?? "").trim();
+    if (!/^[+\-▲▼]/.test(s)) return "";
+    n = parseFloat(s.replace("▲", "+").replace("▼", "-"));
+  }
+  if (Number.isNaN(n) || n === 0) return "";
+  return n > 0 ? "delta-up" : "delta-down";
+}
+
+// fmtPct wrapped in a colored span for innerHTML templates.
+function pctSpan(value) {
+  const txt = fmtPct(value);
+  if (!txt) return "";
+  return `<span class="delta ${deltaClass(value)}">${txt.trim()}</span>`;
+}
+
 const HEADLINE_LIMIT = 5;
 
 const XINHUA_CATEGORY_LABELS = new Map([
@@ -450,7 +474,10 @@ class HistoryController {
 
   update() {
     const entry = this.entries[this.index] || null;
-    this.renderEntry(entry);
+    // The chronologically older snapshot (entries are newest-first), so
+    // renderers can diff "what changed" since the previous capture.
+    const prevEntry = this.entries[this.index + 1] || null;
+    this.renderEntry(entry, prevEntry);
     this.updateTimestamp(entry);
     this.updateButtons();
   }
@@ -504,7 +531,17 @@ class HistoryController {
   }
 }
 
-function renderTrendList(entry, listElement, { transformUrl } = {}) {
+// Normalize a trending title for cross-snapshot matching (strip rank prefix,
+// tags and whitespace) so we can detect new entries and rank moves.
+function trendKey(title) {
+  return String(title || "")
+    .replace(/^\d+\.\s*/, "")
+    .replace(/\s*\[[^\]]*\]\s*$/, "")
+    .replace(/\s+/g, "")
+    .toLowerCase();
+}
+
+function renderTrendList(entry, listElement, { transformUrl, prevEntry } = {}) {
   if (!listElement) {
     return;
   }
@@ -512,6 +549,16 @@ function renderTrendList(entry, listElement, { transformUrl } = {}) {
   listElement.innerHTML = "";
 
   const items = Array.isArray(entry?.items) ? entry.items.slice(0, 10) : [];
+
+  // Map each topic to its rank in the previous snapshot, for change badges.
+  const prevRank = new Map();
+  if (Array.isArray(prevEntry?.items)) {
+    prevEntry.items.forEach((it, i) => {
+      const k = trendKey(it?.title);
+      if (k && !prevRank.has(k)) prevRank.set(k, i + 1);
+    });
+  }
+  const hasPrev = prevRank.size > 0;
 
   if (items.length === 0) {
     const li = document.createElement("li");
@@ -523,7 +570,7 @@ function renderTrendList(entry, listElement, { transformUrl } = {}) {
 
   const transform = typeof transformUrl === "function" ? transformUrl : (value) => value;
 
-  items.forEach((item) => {
+  items.forEach((item, idx) => {
     if (!item || typeof item !== "object") {
       return;
     }
@@ -531,6 +578,19 @@ function renderTrendList(entry, listElement, { transformUrl } = {}) {
     const li = document.createElement("li");
     const rawTitle = typeof item.title === "string" ? item.title : String(item.title ?? "");
     const cleanTitle = rawTitle.replace(/^\d+\.\s*/, "");
+
+    // "What changed" vs the previous snapshot: NEW entries and rank jumps.
+    let changeBadge = null;
+    if (hasPrev) {
+      const k = trendKey(rawTitle);
+      if (k && !prevRank.has(k)) {
+        changeBadge = { text: "NEW", cls: "trend-new" };
+      } else if (k) {
+        const move = prevRank.get(k) - (idx + 1);
+        if (move >= 2) changeBadge = { text: `▲${move}`, cls: "trend-up" };
+        else if (move <= -2) changeBadge = { text: `▼${-move}`, cls: "trend-down" };
+      }
+    }
     const translation = item?.extra?.translation || "";
     const value = item?.value || "";
     const transformedUrl = transform(item?.url || "");
@@ -569,6 +629,15 @@ function renderTrendList(entry, listElement, { transformUrl } = {}) {
     const meta = document.createElement("span");
     meta.className = "muted";
     meta.textContent = value;
+    if (changeBadge) {
+      const b = document.createElement("span");
+      b.className = `trend-badge ${changeBadge.cls}`;
+      b.textContent = changeBadge.text;
+      b.title = changeBadge.cls === "trend-new"
+        ? "New in this snapshot"
+        : "Moved vs the previous snapshot";
+      meta.appendChild(b);
+    }
     li.appendChild(meta);
 
     listElement.appendChild(li);
@@ -1131,7 +1200,7 @@ function createHistoryControllers() {
     prevButton: document.getElementById("baidu-prev"),
     nextButton: document.getElementById("baidu-next"),
     timestampElement: document.getElementById("baidu-timestamp"),
-    render: (entry) => renderTrendList(entry, baiduList, {}),
+    render: (entry, prevEntry) => renderTrendList(entry, baiduList, { prevEntry }),
   });
 
   const weiboList = document.getElementById("weibo");
@@ -1140,7 +1209,7 @@ function createHistoryControllers() {
     prevButton: document.getElementById("weibo-prev"),
     nextButton: document.getElementById("weibo-next"),
     timestampElement: document.getElementById("weibo-timestamp"),
-    render: (entry) => renderTrendList(entry, weiboList, { transformUrl: toMobileWeiboUrl }),
+    render: (entry, prevEntry) => renderTrendList(entry, weiboList, { transformUrl: toMobileWeiboUrl, prevEntry }),
   });
 
   const wechatList = document.getElementById("wechat");
@@ -1149,7 +1218,7 @@ function createHistoryControllers() {
     prevButton: document.getElementById("wechat-prev"),
     nextButton: document.getElementById("wechat-next"),
     timestampElement: document.getElementById("wechat-timestamp"),
-    render: (entry) => renderTrendList(entry, wechatList, {}),
+    render: (entry, prevEntry) => renderTrendList(entry, wechatList, { prevEntry }),
   });
 
   const xinhuaGrid = document.getElementById("xinhua-news");
@@ -1530,6 +1599,60 @@ document.addEventListener('DOMContentLoaded', () => {
   if (copyBtn) copyBtn.addEventListener('click', () => copyDigestMarkdown(copyBtn));
 });
 
+// At-a-glance KPI bar: the state of China today in one scannable row, built
+// entirely from data already loaded for the cards below (no extra requests).
+function renderKpiStrip({ indices, fx, nbsMonthly, tradeData, propertyData, trendingCount }) {
+  const strip = document.getElementById("kpi-strip");
+  if (!strip) return;
+
+  const find = (payload, title) =>
+    (payload?.items || []).find((it) => (it.title || "") === title) || null;
+
+  const kpis = [];
+  const pushIndex = (payload, title, label) => {
+    const it = find(payload, title);
+    if (it) kpis.push({ label, value: it.value, delta: it.extra?.chg_pct });
+  };
+  pushIndex(indices, "SSE Composite", "Shanghai");
+  pushIndex(indices, "ChiNext", "ChiNext");
+  pushIndex(fx, "USD/CNY", "USD/CNY");
+
+  const cpi = find(nbsMonthly, "CPI YoY");
+  if (cpi) kpis.push({ label: "CPI YoY", value: cpi.value, deltaStr: cpi.value });
+  const exp = find(tradeData, "Exports YoY");
+  if (exp) kpis.push({ label: "Exports YoY", value: exp.value, deltaStr: exp.value });
+  const home = find(propertyData, "New Home Prices YoY");
+  if (home) kpis.push({ label: "Home Prices YoY", value: home.value, deltaStr: home.value });
+
+  strip.innerHTML = "";
+  kpis.forEach((k) => {
+    const cell = document.createElement("div");
+    cell.className = "kpi";
+    const label = document.createElement("span");
+    label.className = "kpi-label";
+    label.textContent = k.label;
+    const value = document.createElement("span");
+    const dcls = k.delta !== undefined ? deltaClass(k.delta) : deltaClass(k.deltaStr);
+    value.className = `kpi-value ${dcls}`;
+    value.textContent = k.value ?? "—";
+    cell.appendChild(label);
+    cell.appendChild(value);
+    if (k.delta !== undefined && k.delta !== null && k.delta !== "") {
+      const d = document.createElement("span");
+      d.className = `kpi-delta ${deltaClass(k.delta)}`;
+      d.textContent = fmtPct(k.delta).trim();
+      cell.appendChild(d);
+    }
+    strip.appendChild(cell);
+  });
+  if (typeof trendingCount === "number" && trendingCount > 0) {
+    const cell = document.createElement("div");
+    cell.className = "kpi";
+    cell.innerHTML = `<span class="kpi-label">Trending</span><span class="kpi-value">🔥 ${trendingCount}</span>`;
+    strip.appendChild(cell);
+  }
+}
+
 async function render() {
   try {
     renderDigest();
@@ -1574,6 +1697,15 @@ async function render() {
         loadHistoryEntries("data/gov_regulatory.json", "data/history/gov_regulatory.json"),
       ]);
 
+    renderKpiStrip({
+      indices,
+      fx,
+      nbsMonthly,
+      tradeData,
+      propertyData,
+      trendingCount: baiduHistory?.[0]?.items?.length || 0,
+    });
+
     const ulIdx = document.getElementById("indices");
     if (ulIdx) {
       ulIdx.innerHTML = "";
@@ -1582,7 +1714,7 @@ async function render() {
         const spark = sparklineSVG(extractSparklineValues(indicesHistory, item.title));
         li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
           item.value ?? "—"
-        }</strong><span class="muted">${fmtPct(item.extra?.chg_pct)}</span> ${spark}`;
+        }</strong>${pctSpan(item.extra?.chg_pct)} ${spark}`;
         ulIdx.appendChild(li);
       });
     }
@@ -1596,7 +1728,7 @@ async function render() {
         const spark = sparklineSVG(extractSparklineValues(fxHistory, item.title));
         li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
           item.value ?? "—"
-        }</strong><span class="muted">${fmtPct(item.extra?.chg_pct)}</span> ${spark}${staleWarning}`;
+        }</strong>${pctSpan(item.extra?.chg_pct)} ${spark}${staleWarning}`;
         ulFx.appendChild(li);
       });
     }
@@ -1612,7 +1744,7 @@ async function render() {
           : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const desc = item.extra?.description ? ` <span class="muted">${item.extra.description}</span>` : '';
         const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
-        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
+        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong class="${deltaClass(item.value)}">${item.value ?? "—"}</strong>${date}${staleWarning}`;
         ulPboc.appendChild(li);
       });
     }
@@ -1627,7 +1759,7 @@ async function render() {
           ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
           : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
-        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
+        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong class="${deltaClass(item.value)}">${item.value ?? "—"}</strong>${date}${staleWarning}`;
         ulNbs.appendChild(li);
       });
     }
@@ -1642,7 +1774,7 @@ async function render() {
           ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
           : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
-        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
+        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong class="${deltaClass(item.value)}">${item.value ?? "—"}</strong>${date}${staleWarning}`;
         ulTrade.appendChild(li);
       });
     }
@@ -1657,7 +1789,7 @@ async function render() {
           ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
           : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
-        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
+        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong class="${deltaClass(item.value)}">${item.value ?? "—"}</strong>${date}${staleWarning}`;
         ulProperty.appendChild(li);
       });
     }
