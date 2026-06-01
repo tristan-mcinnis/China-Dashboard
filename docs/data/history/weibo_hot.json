@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-06-01T20:23:08+08:00",
+  "generated_at": "2026-06-02T00:06:13+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-02T00:06:13+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 豆包将正式付费",
+          "value": "8282367 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E5%B0%86%E6%AD%A3%E5%BC%8F%E4%BB%98%E8%B4%B9&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 8282367",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Doubao to officially charge fees"
+          }
+        },
+        {
+          "title": "2. 豆包免费部分",
+          "value": "1827979 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E5%85%8D%E8%B4%B9%E9%83%A8%E5%88%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 1827979",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Doubao's free portion"
+          }
+        },
+        {
+          "title": "3. 长征十二号乙运载火箭首飞成功",
+          "value": "1336756 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%95%BF%E5%BE%81%E5%8D%81%E4%BA%8C%E5%8F%B7%E4%B9%99%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 1336756",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Long March 12B carrier rocket maiden flight successful"
+          }
+        },
+        {
+          "title": "4. 和蒙牛三大球星一起踢球吧",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8C%E8%92%99%E7%89%9B%E4%B8%89%E5%A4%A7%E7%90%83%E6%98%9F%E4%B8%80%E8%B5%B7%E8%B8%A2%E7%90%83%E5%90%A7&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Let's play football with Mengniu's three star players"
+          }
+        },
+        {
+          "title": "5. 台湾岛内统一声浪持续高涨",
+          "value": "368735 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%86%85%E7%BB%9F%E4%B8%80%E5%A3%B0%E6%B5%AA%E6%8C%81%E7%BB%AD%E9%AB%98%E6%B6%A8&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 368735",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Unification sentiment in Taiwan continues to rise"
+          }
+        },
+        {
+          "title": "6. 白云机场一航班落地滑行58分钟 [火热]",
+          "value": "365382 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E4%BA%91%E6%9C%BA%E5%9C%BA%E4%B8%80%E8%88%AA%E7%8F%AD%E8%90%BD%E5%9C%B0%E6%BB%91%E8%A1%8C58%E5%88%86%E9%92%9F&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 365382",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Flight at Baiyun Airport taxis 58 minutes after landing"
+          }
+        },
+        {
+          "title": "7. 苏新皓歌手全民举荐第一",
+          "value": "综艺 294586 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%8F%E6%96%B0%E7%9A%93%E6%AD%8C%E6%89%8B%E5%85%A8%E6%B0%91%E4%B8%BE%E8%8D%90%E7%AC%AC%E4%B8%80&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "综艺 294586",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Su Xinhao tops public recommendation for singer"
+          }
+        },
+        {
+          "title": "8. 取消固定分时电价电费涨价系谣言 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%96%E6%B6%88%E5%9B%BA%E5%AE%9A%E5%88%86%E6%97%B6%E7%94%B5%E4%BB%B7%E7%94%B5%E8%B4%B9%E6%B6%A8%E4%BB%B7%E7%B3%BB%E8%B0%A3%E8%A8%80&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Rumor about abolishing fixed time-of-use electricity rates and price increase"
+          }
+        },
+        {
+          "title": "9. 记者卧底500人群聊揭秘崩老头内幕",
+          "value": "292274 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95500%E4%BA%BA%E7%BE%A4%E8%81%8A%E6%8F%AD%E7%A7%98%E5%B4%A9%E8%80%81%E5%A4%B4%E5%86%85%E5%B9%95&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 292274",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Reporter goes undercover in 500-person chat to reveal 'Beng Laotou' secrets"
+          }
+        },
+        {
+          "title": "10. 伊朗计划彻底封锁霍尔木兹",
+          "value": "271781 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 271781",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Iran plans to completely blockade Hormuz"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-01T20:23:08+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 545907",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-13T11:45:48+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 特朗普访华",
-          "value": "1795056 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1795056",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 75岁的天赐爸爸还要挣钱养家",
-          "value": "913342 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D75%E5%B2%81%E7%9A%84%E5%A4%A9%E8%B5%90%E7%88%B8%E7%88%B8%E8%BF%98%E8%A6%81%E6%8C%A3%E9%92%B1%E5%85%BB%E5%AE%B6&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 913342",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 月壤用拔丝地瓜手法做成纤维",
-          "value": "709483 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%88%E5%A3%A4%E7%94%A8%E6%8B%94%E4%B8%9D%E5%9C%B0%E7%93%9C%E6%89%8B%E6%B3%95%E5%81%9A%E6%88%90%E7%BA%A4%E7%BB%B4&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 709483",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 成毅usmile笑容加全球品牌代言人 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E6%AF%85usmile%E7%AC%91%E5%AE%B9%E5%8A%A0%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 阿云嘎发视频道歉",
-          "value": "电影 690894 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%BF%E4%BA%91%E5%98%8E%E5%8F%91%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "电影 690894",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 小米17Max来了 [官宣]",
-          "value": "656555 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%B1%B317Max%E6%9D%A5%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 656555",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 阿娇 短剧",
-          "value": "剧集 646755 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%BF%E5%A8%87%20%E7%9F%AD%E5%89%A7&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "剧集 646755",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 丁禹兮范思哲全球香水代言人 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%81%E7%A6%B9%E5%85%AE%E8%8C%83%E6%80%9D%E5%93%B2%E5%85%A8%E7%90%83%E9%A6%99%E6%B0%B4%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 任何关系都是阶段性陪伴",
-          "value": "598180 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%BB%E4%BD%95%E5%85%B3%E7%B3%BB%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E6%80%A7%E9%99%AA%E4%BC%B4&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 598180",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 迪士尼优速通",
-          "value": "546127 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BC%98%E9%80%9F%E9%80%9A&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 546127",
             "tag": "",
             "api_source": "tianapi",
             "translation": ""
