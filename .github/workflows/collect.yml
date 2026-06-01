@@ -75,12 +75,16 @@ jobs:
             fi
           done
 
-          # Generate structured JSON status for health monitoring and badges
+          # Generate structured JSON status for health monitoring and badges.
+          # deepseek_configured surfaces the most common silent failure (missing key),
+          # which leaves translations empty and the digest on the heuristic fallback.
           timestamp=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          deepseek_configured=$([ -n "$DEEPSEEK_API_KEY" ] && echo 'true' || echo 'false')
           status_json="{
             \"timestamp\": \"$timestamp\",
             \"success_count\": $success_count,
             \"total_count\": $total_count,
+            \"deepseek_configured\": $deepseek_configured,
             \"status\": $([ $success_count -eq $total_count ] && echo '"healthy"' || echo '"degraded"'),
             \"failed\": [$(echo $failed_collectors | sed 's/ *$//' | sed 's/^ *//' | sed 's/ /", "/g' | sed 's/^/"/' | sed 's/$/"/')]
           }"
@@ -91,6 +95,7 @@ jobs:
               \"timestamp\": \"$timestamp\",
               \"success_count\": $success_count,
               \"total_count\": $total_count,
+              \"deepseek_configured\": $deepseek_configured,
               \"status\": \"healthy\",
               \"failed\": []
             }"
@@ -113,6 +118,11 @@ jobs:
           # Cross-source synthesis from the fresh collector outputs.
           # Falls back to a deterministic digest if DeepSeek is unavailable.
           python collectors/daily_digest.py || echo "::warning::Daily digest generation failed"
+
+      - name: Build public data manifest
+        run: |
+          # Regenerate the machine-readable endpoints manifest for downstream consumers.
+          python collectors/build_endpoints.py || echo "::warning::Endpoints manifest build failed"
 
       - name: Write to Neon DB
         if: env.DATABASE_URL != ''

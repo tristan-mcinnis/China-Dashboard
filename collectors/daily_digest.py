@@ -215,7 +215,19 @@ def _market_snapshot(data: dict) -> str:
 def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
     """Return (meta, story_overrides) from DeepSeek, or None on any failure."""
     api_key = os.getenv("DEEPSEEK_API_KEY")
-    if not api_key or OpenAI is None:
+    if not api_key:
+        print(
+            "[digest] DEEPSEEK_API_KEY is not set — skipping LLM synthesis, "
+            "falling back to the deterministic heuristic digest.",
+            file=sys.stderr,
+        )
+        return None
+    if OpenAI is None:
+        print(
+            "[digest] openai package is not importable — skipping LLM synthesis, "
+            "falling back to the deterministic heuristic digest.",
+            file=sys.stderr,
+        )
         return None
 
     story_lines = []
@@ -379,8 +391,14 @@ def build_digest() -> dict:
     if synthesis is None:
         meta, overrides = _heuristic_meta(stories, market), {}
         generated_by = "heuristic"
+        print(
+            "[digest] generated_by=heuristic (DeepSeek synthesis unavailable). "
+            "Set/refresh the DEEPSEEK_API_KEY secret to restore LLM synthesis.",
+            file=sys.stderr,
+        )
     else:
         meta, overrides = synthesis
+        print("[digest] generated_by=deepseek-v4-flash", file=sys.stderr)
 
     top_stories = []
     for i, s in enumerate(stories):

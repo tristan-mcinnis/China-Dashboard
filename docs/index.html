@@ -272,8 +272,11 @@
       <div class="footer-content">
         <div class="footer-left">
           <span class="footer-text">Powered by GitHub Actions</span>
+          <span class="footer-sep">·</span>
+          <a class="footer-link" href="data/endpoints.json" target="_blank" rel="noopener" title="Machine-readable list of all feeds — pull this data into your own dashboard">Data API</a>
         </div>
         <div class="footer-right">
+          <span id="visitor-count" class="footer-text visitor-count" aria-live="polite"></span>
           <span class="footer-text">Auto-refreshing every 30s</span>
         </div>
       </div>
@@ -281,6 +284,15 @@
       <p class="footer-disclaimer">本仪表板所提供的信息仅按“原样”提供，供一般信息参考之用。我们不就其完整性、准确性、可靠性或适用性作出任何形式的陈述或保证，对于因使用该信息而产生的任何损失，我们概不承担责任。</p>
     </footer>
   </div>
+
+  <!--
+    Visitor analytics via GoatCounter (privacy-friendly: no cookies, no personal data).
+    SETUP: create a free site at https://www.goatcounter.com/, then replace MYCODE
+    below AND the GOATCOUNTER_CODE constant at the top of app.js with your site code.
+    Until then this is inert and the on-page visitor count stays hidden.
+  -->
+  <script data-goatcounter="https://MYCODE.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
 
   <script src="app.js"></script>
 </body>

@@ -31,7 +31,23 @@ Both are served from GitHub Pages, so any repo can fetch them by raw URL, e.g.
 
 Synthesis uses DeepSeek (`deepseek-v4-flash`). If `DEEPSEEK_API_KEY` is absent or the
 call fails, the generator falls back to a deterministic salience-ranked digest so
-the artifact is always present and valid.
+the artifact is always present and valid. You can confirm which path ran via
+`generated_by` in `daily_digest.json` (`deepseek-v4-flash` vs `heuristic`) and
+`deepseek_configured` in `health.json`.
+
+## Public data API
+
+Every feed is plain static JSON with CORS enabled (`Access-Control-Allow-Origin: *`)
+and short caching, so anyone can pull this data into their own dashboard, newsletter,
+or LLM pipeline without re-scraping. The discovery manifest lists every endpoint:
+
+- **`docs/data/endpoints.json`** – machine-readable catalogue of all feeds, their
+  categories, raw URLs, freshness (`as_of`), and schema notes. Regenerated each run
+  by `collectors/build_endpoints.py`.
+
+Primary base (Vercel, browser-friendly): `https://china-dashboard.vercel.app/data/<feed>.json`.
+GitHub raw mirror: `https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/<feed>.json`.
+Bilingual feeds carry the English title in `extra.translation`.
 
 ## Live dashboard
 
@@ -52,6 +68,14 @@ View the site on GitHub Pages: https://tristan-mcinnis.github.io/China-Dashboard
 
 3. **FX API Key** (Optional, for currency rates)
    - Add to GitHub Secrets as `FX_API_KEY`
+
+### Visitor analytics (optional)
+
+Privacy-friendly visitor counts use [GoatCounter](https://www.goatcounter.com/)
+(no cookies, no personal data). To enable: create a free site, then replace
+`MYCODE` in both `docs/index.html` (the `data-goatcounter` attribute) and the
+`GOATCOUNTER_CODE` constant in `docs/app.js` with your site code. Until then it
+stays inert and the on-page unique-visitor count is hidden.
 
 ### Local Development
 
