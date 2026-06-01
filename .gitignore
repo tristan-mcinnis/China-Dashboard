@@ -64,3 +64,6 @@ logs/
 collectors/test_*.py
 !tests/
 .vercel
+
+# Local agent tooling
+.omc/
