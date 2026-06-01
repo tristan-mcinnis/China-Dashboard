@@ -832,6 +832,31 @@ function renderThepaperSnapshot(entry, container) {
       const li = document.createElement("li");
       li.className = "news-item";
 
+      // Thumbnail when the source provides an https article image (LadyMax).
+      // Guarded, so sources without images render exactly as before.
+      const imageUrl = (item?.extra?.image || "").trim();
+      if (imageUrl) {
+        li.classList.add("has-thumb");
+        const thumbLink = document.createElement("a");
+        thumbLink.className = "news-thumb";
+        const thumbHref = (item?.url || "#").trim() || "#";
+        thumbLink.href = thumbHref;
+        if (thumbHref !== "#") {
+          thumbLink.target = "_blank";
+          thumbLink.rel = "noopener";
+        }
+        const img = document.createElement("img");
+        img.loading = "lazy";
+        img.src = imageUrl;
+        img.alt = "";
+        img.addEventListener("error", () => {
+          li.classList.remove("has-thumb");
+          thumbLink.remove();
+        });
+        thumbLink.appendChild(img);
+        li.appendChild(thumbLink);
+      }
+
       const link = document.createElement("a");
       const href = (item?.url || "").trim();
       if (href) {
@@ -967,6 +992,31 @@ function renderLadymaxSnapshot(entry, container) {
     category.items.forEach((item) => {
       const li = document.createElement("li");
       li.className = "news-item";
+
+      // Thumbnail when the source provides an https article image (LadyMax).
+      // Guarded, so sources without images render exactly as before.
+      const imageUrl = (item?.extra?.image || "").trim();
+      if (imageUrl) {
+        li.classList.add("has-thumb");
+        const thumbLink = document.createElement("a");
+        thumbLink.className = "news-thumb";
+        const thumbHref = (item?.url || "#").trim() || "#";
+        thumbLink.href = thumbHref;
+        if (thumbHref !== "#") {
+          thumbLink.target = "_blank";
+          thumbLink.rel = "noopener";
+        }
+        const img = document.createElement("img");
+        img.loading = "lazy";
+        img.src = imageUrl;
+        img.alt = "";
+        img.addEventListener("error", () => {
+          li.classList.remove("has-thumb");
+          thumbLink.remove();
+        });
+        thumbLink.appendChild(img);
+        li.appendChild(thumbLink);
+      }
 
       const link = document.createElement("a");
       const href = (item?.url || "").trim();
@@ -1334,19 +1384,52 @@ async function renderDigest() {
 
     if (meta) {
       const isLLM = (digest.generated_by || '').startsWith('deepseek');
-      const by = isLLM ? 'DeepSeek' : 'auto (LLM offline)';
-      meta.textContent = `${digest.time_label || ''} · ${digest.date || ''} ${digest.beijing_time || ''} CST · ${by}`;
+      const suffix = isLLM ? '' : ' · auto';
+      meta.textContent = `${digest.time_label || ''} · ${digest.date || ''} ${digest.beijing_time || ''} CST${suffix}`;
       meta.classList.toggle('brief-meta-degraded', !isLLM);
       meta.title = isLLM
-        ? 'Synthesized by DeepSeek'
-        : 'DeepSeek synthesis unavailable — showing the deterministic fallback brief. Check the DEEPSEEK_API_KEY secret.';
+        ? ''
+        : 'AI synthesis temporarily offline — showing the deterministic fallback brief.';
     }
 
     const headline = document.getElementById('brief-headline');
     if (headline) headline.textContent = digest.headline || '';
 
     const narrative = document.getElementById('brief-narrative');
-    if (narrative) narrative.textContent = digest.narrative || '';
+    if (narrative) {
+      // Snapshot mode: show only the first paragraph up front so the top
+      // stories are visible without scrolling; tuck the rest behind a toggle.
+      narrative.innerHTML = '';
+      const paras = (digest.narrative || '').trim().split(/\n\s*\n/).filter(Boolean);
+      if (paras.length) {
+        const lead = document.createElement('p');
+        lead.className = 'brief-para';
+        lead.textContent = paras[0];
+        narrative.appendChild(lead);
+        if (paras.length > 1) {
+          const rest = document.createElement('div');
+          rest.className = 'brief-rest';
+          rest.hidden = true;
+          paras.slice(1).forEach((p) => {
+            const el = document.createElement('p');
+            el.className = 'brief-para';
+            el.textContent = p;
+            rest.appendChild(el);
+          });
+          narrative.appendChild(rest);
+          const toggle = document.createElement('button');
+          toggle.type = 'button';
+          toggle.className = 'brief-toggle';
+          toggle.textContent = 'Show full brief ▾';
+          toggle.addEventListener('click', () => {
+            const reveal = rest.hidden;
+            rest.hidden = !reveal;
+            toggle.textContent = reveal ? 'Show less ▴' : 'Show full brief ▾';
+          });
+          narrative.appendChild(toggle);
+        }
+      }
+    }
 
     const market = document.getElementById('brief-market');
     if (market) {
@@ -1509,7 +1592,7 @@ async function render() {
       ulFx.innerHTML = "";
       fx.items.forEach((item) => {
         const li = document.createElement("li");
-        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback rate — live data unavailable">⚠ stale</span>' : '';
+        const staleWarning = item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const spark = sparklineSVG(extractSparklineValues(fxHistory, item.title));
         li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
           item.value ?? "—"
@@ -1524,7 +1607,9 @@ async function render() {
       ulPboc.innerHTML = "";
       pbocRates.items.forEach((item) => {
         const li = document.createElement("li");
-        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback data">⚠ stale</span>' : '';
+        const staleWarning = item.extra?.official
+          ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
+          : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const desc = item.extra?.description ? ` <span class="muted">${item.extra.description}</span>` : '';
         const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
         li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
@@ -1538,7 +1623,9 @@ async function render() {
       ulNbs.innerHTML = "";
       nbsMonthly.items.forEach((item) => {
         const li = document.createElement("li");
-        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback data">⚠ stale</span>' : '';
+        const staleWarning = item.extra?.official
+          ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
+          : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
         li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
         ulNbs.appendChild(li);
@@ -1551,7 +1638,9 @@ async function render() {
       ulTrade.innerHTML = "";
       tradeData.items.forEach((item) => {
         const li = document.createElement("li");
-        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback data">⚠ stale</span>' : '';
+        const staleWarning = item.extra?.official
+          ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
+          : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
         li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
         ulTrade.appendChild(li);
@@ -1564,7 +1653,9 @@ async function render() {
       ulProperty.innerHTML = "";
       propertyData.items.forEach((item) => {
         const li = document.createElement("li");
-        const staleWarning = item.extra?.stale ? ' <span class="stale-badge" title="Using fallback data">⚠ stale</span>' : '';
+        const staleWarning = item.extra?.official
+          ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
+          : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
         const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
         li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong>${item.value ?? "—"}</strong>${date}${staleWarning}`;
         ulProperty.appendChild(li);

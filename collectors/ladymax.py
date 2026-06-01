@@ -127,6 +127,33 @@ def _extract_datetime(node: BeautifulSoup) -> str:
     return ""
 
 
+def _extract_image(node) -> str:
+    """Pull a usable https image URL out of a parsed <a> node, if any.
+
+    LadyMax serves thumbnails from images.ladymax.cn (which supports https),
+    sometimes lazy-loaded via data-original/data-src. Upgrade to https so the
+    images render on the https-served dashboard (no mixed-content blocking).
+    """
+    img = node.find("img") if node else None
+    if not img:
+        return ""
+    src = (
+        img.get("data-original")
+        or img.get("data-src")
+        or img.get("src")
+        or ""
+    ).strip()
+    if not src or src.startswith("data:"):
+        return ""
+    if src.startswith("//"):
+        src = "https:" + src
+    elif src.startswith("http://"):
+        src = "https://" + src[len("http://"):]
+    elif src.startswith("/"):
+        src = urljoin(BASE_URL, src)
+    return src
+
+
 def _fetch_homepage() -> str:
     # Try with better headers to avoid anti-scraping blocks
     headers = {
@@ -205,13 +232,15 @@ def _parse_articles(html: str, max_items: int) -> List[dict]:
 
             seen_urls.add(absolute_url)
 
-            # Try to get category from the span in the image link
+            # Try to get category + thumbnail from the image link
             category = "资讯"
+            image = ""
             img_link = item.find("a", class_="p")
             if img_link:
                 cat_span = img_link.find("span")
                 if cat_span:
                     category = cat_span.get_text(strip=True)
+                image = _extract_image(img_link)
 
             results.append(
                 {
@@ -220,6 +249,7 @@ def _parse_articles(html: str, max_items: int) -> List[dict]:
                     "summary": "",  # No summary in this format
                     "published": published,
                     "category": category,
+                    "image": image,
                 }
             )
 
@@ -284,6 +314,7 @@ def fetch_ladymax_news(max_items: int = MAX_ITEMS) -> List[dict]:
                     "source_feed": BASE_URL,
                     "source_name": "LadyMax 时尚头条网",
                     "translation": "",
+                    "image": article.get("image", ""),
                 },
             }
         )

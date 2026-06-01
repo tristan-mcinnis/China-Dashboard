@@ -120,16 +120,20 @@ def fetch_rates():
     if items:
         return items, sources_tried
 
-    # Fallback to known rates (marked as stale)
+    # No live feed available for the policy-rate complex (LPR/MLF/RRR change
+    # only a few times a year, on PBOC announcement). Surface the standing
+    # official rates as a *reference*, not a scary "stale" warning — these
+    # are the rates currently in force, so flag them official rather than
+    # implying the dashboard failed to update.
     for name, info in FALLBACK_RATES.items():
         items.append({
             "title": name,
             "value": info["value"],
             "url": "http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/index.html",
-            "extra": {"description": info["description"], "stale": True},
+            "extra": {"description": info["description"], "official": True},
         })
 
-    return items, ["fallback"]
+    return items, ["official"]
 
 
 def main() -> None:

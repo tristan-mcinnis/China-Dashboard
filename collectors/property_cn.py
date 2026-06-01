@@ -17,92 +17,91 @@ HISTORY = "docs/data/history/property.json"
 REQUEST_TIMEOUT = 15
 
 
-def fetch_property_data():
-    """Fetch 70-city home price index from EastMoney."""
-    items = []
+NBS_URL = "https://data.stats.gov.cn/english/easyquery.htm"
+CITY_EN = {"北京": "Beijing", "上海": "Shanghai", "深圳": "Shenzhen", "广州": "Guangzhou"}
 
-    # NBS 70-city new home price index
+
+def fetch_property_data():
+    """Fetch the NBS 70-city home price index from EastMoney.
+
+    EastMoney's RPT_ECONOMY_HOUSE_PRICE is reported per-city as a base-100
+    index (e.g. 96.6 = -3.4% YoY). There is no national row, so we pull the
+    latest month's full city list and average it into a 70-city headline,
+    then surface the four tier-1 cities. Returns [] on failure.
+    """
     try:
         url = (
             "https://datacenter.eastmoney.com/api/data/v1/get?"
-            "sortColumns=REPORT_DATE&sortTypes=-1&pageSize=1&pageNumber=1"
+            "sortColumns=REPORT_DATE&sortTypes=-1&pageSize=200&pageNumber=1"
             "&reportName=RPT_ECONOMY_HOUSE_PRICE"
-            "&columns=REPORT_DATE,CITY,NEW_HOUSE_SAME,NEW_HOUSE_SEQUENTIAL,SECOND_HOUSE_SAME,SECOND_HOUSE_SEQUENTIAL"
-            "&filter=(CITY=%22全国%22)"
+            "&columns=REPORT_DATE,CITY,FIRST_COMHOUSE_SAME,FIRST_COMHOUSE_SEQUENTIAL,SECOND_HOUSE_SAME"
         )
         resp = requests.get(url, headers=base_headers(), timeout=REQUEST_TIMEOUT)
-        if resp.status_code == 200:
-            data = resp.json()
-            if data.get("success") and data.get("result", {}).get("data"):
-                row = data["result"]["data"][0]
-                report_date = row.get("REPORT_DATE", "")[:10]
+        if resp.status_code != 200:
+            return []
+        data = resp.json()
+        rows = data.get("result", {}).get("data") if data.get("success") else None
+        if not rows:
+            return []
+    except Exception as exc:
+        print(f"Property data fetch failed: {exc}")
+        return []
 
-                new_yoy = row.get("NEW_HOUSE_SAME")
-                new_mom = row.get("NEW_HOUSE_SEQUENTIAL")
-                second_yoy = row.get("SECOND_HOUSE_SAME")
-                second_mom = row.get("SECOND_HOUSE_SEQUENTIAL")
+    latest = rows[0].get("REPORT_DATE", "")
+    month = latest[:7]
+    month_rows = [r for r in rows if r.get("REPORT_DATE") == latest]
 
-                if new_yoy is not None:
-                    items.append({
-                        "title": "New Home Prices YoY",
-                        "value": f"{new_yoy}%",
-                        "url": "https://data.stats.gov.cn/english/easyquery.htm",
-                        "extra": {"description": "70-City New Home Price Index YoY", "date": report_date},
-                    })
-                if new_mom is not None:
-                    items.append({
-                        "title": "New Home Prices MoM",
-                        "value": f"{new_mom}%",
-                        "url": "https://data.stats.gov.cn/english/easyquery.htm",
-                        "extra": {"description": "70-City New Home Price Index MoM", "date": report_date},
-                    })
-                if second_yoy is not None:
-                    items.append({
-                        "title": "Second-hand Home Prices YoY",
-                        "value": f"{second_yoy}%",
-                        "url": "https://data.stats.gov.cn/english/easyquery.htm",
-                        "extra": {"description": "70-City Second-hand Home Price Index YoY", "date": report_date},
-                    })
-                if second_mom is not None:
-                    items.append({
-                        "title": "Second-hand Home Prices MoM",
-                        "value": f"{second_mom}%",
-                        "url": "https://data.stats.gov.cn/english/easyquery.htm",
-                        "extra": {"description": "70-City Second-hand Home Price Index MoM", "date": report_date},
-                    })
-    except Exception as e:
-        print(f"NBS national property data fetch failed: {e}")
+    def avg_yoy(field):
+        vals = [r[field] for r in month_rows if isinstance(r.get(field), (int, float))]
+        if not vals:
+            return None
+        # Index is base-100; subtract 100 to express as YoY % change.
+        return sum(vals) / len(vals) - 100
 
-    # Also try to get tier-1 city data (Beijing, Shanghai, Shenzhen, Guangzhou)
-    tier1_cities = ["北京", "上海", "深圳", "广州"]
-    city_en = {"北京": "Beijing", "上海": "Shanghai", "深圳": "Shenzhen", "广州": "Guangzhou"}
+    def avg_mom(field):
+        vals = [r[field] for r in month_rows if isinstance(r.get(field), (int, float))]
+        if not vals:
+            return None
+        return sum(vals) / len(vals) - 100
 
-    for city in tier1_cities:
-        try:
-            url = (
-                f"https://datacenter.eastmoney.com/api/data/v1/get?"
-                f"sortColumns=REPORT_DATE&sortTypes=-1&pageSize=1&pageNumber=1"
-                f"&reportName=RPT_ECONOMY_HOUSE_PRICE"
-                f"&columns=REPORT_DATE,CITY,NEW_HOUSE_SAME,NEW_HOUSE_SEQUENTIAL"
-                f"&filter=(CITY=%22{city}%22)"
-            )
-            resp = requests.get(url, headers=base_headers(), timeout=REQUEST_TIMEOUT)
-            if resp.status_code == 200:
-                data = resp.json()
-                if data.get("success") and data.get("result", {}).get("data"):
-                    row = data["result"]["data"][0]
-                    report_date = row.get("REPORT_DATE", "")[:10]
-                    val = row.get("NEW_HOUSE_SAME")
-                    if val is not None:
-                        items.append({
-                            "title": f"{city_en[city]} New Home YoY",
-                            "value": f"{val}%",
-                            "url": "https://data.stats.gov.cn/english/easyquery.htm",
-                            "extra": {"description": f"{city_en[city]} New Home Price Index YoY", "date": report_date},
-                        })
-        except Exception as e:
-            print(f"Property data fetch failed for {city}: {e}")
-            continue
+    items = []
+    new_yoy = avg_yoy("FIRST_COMHOUSE_SAME")
+    new_mom = avg_mom("FIRST_COMHOUSE_SEQUENTIAL")
+    second_yoy = avg_yoy("SECOND_HOUSE_SAME")
+    n = len(month_rows)
+
+    if new_yoy is not None:
+        items.append({
+            "title": "New Home Prices YoY",
+            "value": f"{new_yoy:+.1f}%",
+            "url": NBS_URL,
+            "extra": {"description": f"{n}-City New Home Price Index, avg YoY", "date": month},
+        })
+    if new_mom is not None:
+        items.append({
+            "title": "New Home Prices MoM",
+            "value": f"{new_mom:+.1f}%",
+            "url": NBS_URL,
+            "extra": {"description": f"{n}-City New Home Price Index, avg MoM", "date": month},
+        })
+    if second_yoy is not None:
+        items.append({
+            "title": "Resale Prices YoY",
+            "value": f"{second_yoy:+.1f}%",
+            "url": NBS_URL,
+            "extra": {"description": f"{n}-City Second-hand Home Price Index, avg YoY", "date": month},
+        })
+
+    # Tier-1 cities (most-watched property markets)
+    for city, en in CITY_EN.items():
+        row = next((r for r in month_rows if r.get("CITY") == city), None)
+        if row and isinstance(row.get("FIRST_COMHOUSE_SAME"), (int, float)):
+            items.append({
+                "title": f"{en} New Home YoY",
+                "value": f"{row['FIRST_COMHOUSE_SAME'] - 100:+.1f}%",
+                "url": NBS_URL,
+                "extra": {"description": f"{en} New Home Price Index YoY", "date": month},
+            })
 
     return items
 

@@ -24,57 +24,59 @@ FALLBACK_DATA = [
 
 
 def fetch_from_eastmoney():
-    """Fetch trade data from EastMoney API."""
+    """Fetch China customs trade data from EastMoney's live RPT_ECONOMY_CUSTOMS.
+
+    Provides monthly export/import value (千美元 = thousand USD), their YoY
+    growth, from which we derive exports YoY, imports YoY and the monthly
+    trade balance. Returns [] on any failure so the caller can fall back.
+    """
+    try:
+        url = (
+            "https://datacenter.eastmoney.com/api/data/v1/get?"
+            "sortColumns=REPORT_DATE&sortTypes=-1&pageSize=1&pageNumber=1"
+            "&reportName=RPT_ECONOMY_CUSTOMS"
+            "&columns=REPORT_DATE,TIME,EXIT_BASE,IMPORT_BASE,EXIT_BASE_SAME,IMPORT_BASE_SAME"
+        )
+        resp = requests.get(url, headers=base_headers(), timeout=REQUEST_TIMEOUT)
+        if resp.status_code != 200:
+            return []
+        data = resp.json()
+        if not data.get("success") or not data.get("result", {}).get("data"):
+            return []
+        row = data["result"]["data"][0]
+    except Exception as exc:
+        print(f"Customs trade fetch failed: {exc}")
+        return []
+
+    month = (row.get("REPORT_DATE") or "")[:7]  # e.g. 2026-04
+    exit_base = row.get("EXIT_BASE")      # thousand USD
+    import_base = row.get("IMPORT_BASE")  # thousand USD
+    exit_yoy = row.get("EXIT_BASE_SAME")
+    import_yoy = row.get("IMPORT_BASE_SAME")
+
     items = []
-
-    indicators = [
-        {
-            "report": "RPT_ECONOMY_EXPORT",
-            "columns": "REPORT_DATE,EXIT_SAME,IMPORT_SAME,EXIT_ACCUMULATE_SAME,IMPORT_ACCUMULATE_SAME",
-            "fields": {
-                "EXIT_SAME": ("Exports YoY", "Total Exports Growth", "%"),
-                "IMPORT_SAME": ("Imports YoY", "Total Imports Growth", "%"),
-            },
-        },
-        {
-            "report": "RPT_ECONOMY_TRADE",
-            "columns": "REPORT_DATE,EXPORT_BASE,IMPORT_BASE,EXIT_SURPLUS",
-            "fields": {
-                "EXIT_SURPLUS": ("Trade Balance", "Monthly Trade Balance (USD $100M)", ""),
-            },
-        },
-    ]
-
-    for ind in indicators:
-        try:
-            url = (
-                f"https://datacenter.eastmoney.com/api/data/v1/get?"
-                f"sortColumns=REPORT_DATE&sortTypes=-1&pageSize=1&pageNumber=1"
-                f"&reportName={ind['report']}&columns={ind['columns']}"
-            )
-            resp = requests.get(url, headers=base_headers(), timeout=REQUEST_TIMEOUT)
-            if resp.status_code != 200:
-                continue
-
-            data = resp.json()
-            if not data.get("success") or not data.get("result", {}).get("data"):
-                continue
-
-            row = data["result"]["data"][0]
-            report_date = row.get("REPORT_DATE", "")[:10]
-
-            for field, (title, description, suffix) in ind["fields"].items():
-                val = row.get(field)
-                if val is not None:
-                    display_val = f"{val}{suffix}" if suffix else str(val)
-                    items.append({
-                        "title": title,
-                        "value": display_val,
-                        "url": "http://english.customs.gov.cn/",
-                        "extra": {"description": description, "date": report_date},
-                    })
-        except Exception:
-            continue
+    if exit_yoy is not None:
+        items.append({
+            "title": "Exports YoY",
+            "value": f"{exit_yoy:+.1f}%",
+            "url": "http://english.customs.gov.cn/",
+            "extra": {"description": "Total Exports Growth (USD)", "date": month},
+        })
+    if import_yoy is not None:
+        items.append({
+            "title": "Imports YoY",
+            "value": f"{import_yoy:+.1f}%",
+            "url": "http://english.customs.gov.cn/",
+            "extra": {"description": "Total Imports Growth (USD)", "date": month},
+        })
+    if exit_base is not None and import_base is not None:
+        balance_bn = (float(exit_base) - float(import_base)) / 1e6  # → USD billions
+        items.append({
+            "title": "Trade Balance",
+            "value": f"${balance_bn:,.1f}B",
+            "url": "http://english.customs.gov.cn/",
+            "extra": {"description": "Monthly Trade Surplus (USD)", "date": month},
+        })
 
     return items
 
