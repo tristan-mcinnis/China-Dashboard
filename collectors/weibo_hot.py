@@ -17,7 +17,7 @@ from collectors.common import (
     base_headers,
     backoff_sleep,
     schema,
-    translate_text,
+    translate_batch,
     write_with_history,
 )
 
@@ -75,9 +75,6 @@ def fetch_weibo_hot(max_items: int = 10):
                                     if hottag and hottag.strip():
                                         title_with_tag += f" [{hottag.strip()}]"
 
-                                    # Get translation for the hotword (without numbering and tags)
-                                    translation = translate_text(hotword)
-
                                     items.append({
                                         "title": title_with_tag,
                                         "value": hot_display,
@@ -87,9 +84,17 @@ def fetch_weibo_hot(max_items: int = 10):
                                             "raw_score": hotwordnum,
                                             "tag": hottag,
                                             "api_source": "tianapi",
-                                            "translation": translation
+                                            "translation": "",
+                                            "_topic": hotword,
                                         }
                                     })
+
+                        # Translate every hotword in a single batched call.
+                        translations = translate_batch(
+                            [it["extra"].pop("_topic") for it in items]
+                        )
+                        for it, en in zip(items, translations):
+                            it["extra"]["translation"] = en
 
                         return items
                 elif data.get("code") != 200:

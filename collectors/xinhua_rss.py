@@ -23,7 +23,7 @@ load_dotenv()
 from collectors.common import (
     base_headers,
     schema,
-    translate_text,
+    translate_batch,
     write_with_history,
 )
 
@@ -129,8 +129,6 @@ def fetch_xinhua_news(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
             if " - " in title:
                 title = title.split(" - ", 1)[0].strip()
 
-            translation = translate_text(title) if title else ""
-
             all_items.append(
                 {
                     "title": title or "(无标题)",
@@ -142,10 +140,15 @@ def fetch_xinhua_news(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
                         "summary": summary,
                         "source_feed": feed_url,
                         "source_name": entry.get("source", {}).get("title"),
-                        "translation": translation,
+                        "translation": "",
                     },
                 }
             )
+
+    # Translate every headline in a single batched DeepSeek call.
+    translations = translate_batch([it["title"] for it in all_items])
+    for it, en in zip(all_items, translations):
+        it["extra"]["translation"] = en
 
     return all_items
 

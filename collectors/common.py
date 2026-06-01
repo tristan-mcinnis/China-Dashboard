@@ -208,16 +208,20 @@ def translate_text(text: str, max_retries: int = 3) -> str:
                 messages=[
                     {
                         "role": "system",
-                        "content": "You are a translator. Translate Chinese text to English in one concise line (max 60 characters, add ellipsis if needed)."
+                        "content": "You are a translator. Translate the Chinese text to natural, concise English. Output ONLY the English translation on a single line — no notes, no pinyin, no quotes."
                     },
                     {
                         "role": "user",
                         "content": text
                     }
                 ],
-                max_tokens=100,
+                # deepseek-v4-flash is a reasoning model: it spends completion
+                # tokens on hidden reasoning BEFORE emitting `content`. A tight
+                # budget (the old 100) gets fully consumed by reasoning and
+                # returns empty content. Give enough headroom for a short line.
+                max_tokens=600,
                 temperature=0.3,
-                timeout=10  # Add 10 second timeout
+                timeout=30,
             )
 
             translation = response.choices[0].message.content.strip()
@@ -243,3 +247,93 @@ def translate_text(text: str, max_retries: int = 3) -> str:
                 print(f"Translation failed after {max_retries} attempts: {error_msg[:100]}")
 
     return ""
+
+
+def translate_batch(texts: list[str], max_retries: int = 3) -> list[str]:
+    """Translate a list of Chinese strings to English in ONE DeepSeek call.
+
+    This is the cost- and latency-smart path: instead of one API request per
+    headline (dozens per collector run), all headlines are translated in a
+    single request and the reasoning-model overhead is amortized across them.
+
+    Returns a list aligned 1:1 with ``texts``; any item that cannot be
+    translated comes back as ``""`` so callers can safely fall back to the
+    original Chinese. Empty/whitespace inputs map to ``""`` without an API call.
+    """
+    results = ["" for _ in texts]
+    # Indices that actually need translating (non-empty), de-duplicated so we
+    # never pay to translate the same headline twice in one batch.
+    unique: dict[str, list[int]] = {}
+    for i, t in enumerate(texts):
+        s = (t or "").strip()
+        if s:
+            unique.setdefault(s, []).append(i)
+    if not unique:
+        return results
+
+    api_key = os.getenv("DEEPSEEK_API_KEY")
+    if not api_key:
+        global _TRANSLATE_KEY_WARNED
+        if not _TRANSLATE_KEY_WARNED:
+            print(
+                "[translate] DEEPSEEK_API_KEY is not set — translations will be "
+                "empty. Set the DEEPSEEK_API_KEY secret to enable bilingual titles.",
+                file=sys.stderr,
+            )
+            _TRANSLATE_KEY_WARNED = True
+        return results
+
+    phrases = list(unique.keys())
+    numbered = "\n".join(f"{idx}. {p}" for idx, p in enumerate(phrases))
+    # Headroom for hidden reasoning tokens + the JSON body, scaled to the count.
+    max_tokens = min(4000, 400 + 80 * len(phrases))
+
+    for attempt in range(max_retries):
+        try:
+            client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
+            response = client.chat.completions.create(
+                model="deepseek-v4-flash",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": (
+                            "You translate Chinese trending-topic and news headlines "
+                            "into natural, concise English. Return STRICT JSON: an "
+                            "object mapping each input number (as a string key) to its "
+                            "English translation. Translations only — no pinyin, no "
+                            "notes, no commentary."
+                        ),
+                    },
+                    {
+                        "role": "user",
+                        "content": (
+                            f"Translate these {len(phrases)} headlines:\n{numbered}"
+                        ),
+                    },
+                ],
+                response_format={"type": "json_object"},
+                max_tokens=max_tokens,
+                temperature=0.2,
+                timeout=60,
+            )
+            parsed = json.loads(response.choices[0].message.content)
+            for idx, phrase in enumerate(phrases):
+                en = parsed.get(str(idx)) or parsed.get(idx) or ""
+                if isinstance(en, str):
+                    en = en.strip()
+                    if len(en) > 80:
+                        cut = en[:77]
+                        sp = cut.rfind(" ")
+                        en = (cut[:sp] if sp > 50 else cut) + "..."
+                    for target in unique[phrase]:
+                        results[target] = en
+            return results
+        except Exception as e:
+            error_msg = str(e).replace(api_key, "***") if api_key in str(e) else str(e)
+            if attempt < max_retries - 1:
+                print(f"Batch translation attempt {attempt + 1} failed: {error_msg[:120]}, retrying...")
+                backoff_sleep(attempt)
+            else:
+                print(f"Batch translation failed after {max_retries} attempts: {error_msg[:120]}")
+
+    return results

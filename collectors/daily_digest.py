@@ -265,9 +265,13 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
                 {"role": "user", "content": prompt},
             ],
             response_format={"type": "json_object"},
-            max_tokens=2000,
+            # deepseek-v4-flash is a reasoning model: hidden reasoning tokens are
+            # billed against max_tokens before any JSON is emitted. 2000 was too
+            # tight — reasoning ate the budget and `content` came back empty,
+            # silently forcing the heuristic fallback. Give generous headroom.
+            max_tokens=8000,
             temperature=0.4,
-            timeout=60,
+            timeout=120,
         )
         parsed = json.loads(resp.choices[0].message.content)
         overrides = {}

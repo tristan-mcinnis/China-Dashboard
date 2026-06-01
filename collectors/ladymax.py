@@ -24,7 +24,7 @@ from collectors.common import (
     backoff_sleep,
     base_headers,
     schema,
-    translate_text,
+    translate_batch,
     write_with_history,
 )
 
@@ -268,7 +268,6 @@ def fetch_ladymax_news(max_items: int = MAX_ITEMS) -> List[dict]:
     items: List[dict] = []
     for article in articles:
         title = article.get("title", "").strip()
-        translation = translate_text(title) if title else ""
         summary = article.get("summary", "").strip()
         if len(summary) > 300:
             summary = summary[:297] + "..."
@@ -284,10 +283,15 @@ def fetch_ladymax_news(max_items: int = MAX_ITEMS) -> List[dict]:
                     "summary": summary,
                     "source_feed": BASE_URL,
                     "source_name": "LadyMax 时尚头条网",
-                    "translation": translation,
+                    "translation": "",
                 },
             }
         )
+
+    # Translate every headline in a single batched DeepSeek call.
+    translations = translate_batch([it["title"] for it in items])
+    for it, en in zip(items, translations):
+        it["extra"]["translation"] = en
 
     return items
 

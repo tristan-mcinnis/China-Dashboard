@@ -18,7 +18,7 @@ from collectors.common import (
     base_headers,
     backoff_sleep,
     schema,
-    translate_text,
+    translate_batch,
     write_with_history,
 )
 
@@ -150,8 +150,6 @@ def fetch_wechat_hot(max_items: int = 10):
                             encoded_query = quote_plus(topic)
                             link = f"https://weixin.sogou.com/weixin?type=2&query={encoded_query}"
 
-                        translation = translate_text(topic)
-
                         items.append({
                             "title": f"{i}. {topic}",
                             "value": score_display,
@@ -160,9 +158,17 @@ def fetch_wechat_hot(max_items: int = 10):
                                 "rank": i,
                                 "raw_score": heat_index,
                                 "api_source": "tianapi",
-                                "translation": translation,
+                                "translation": "",
+                                "_topic": topic,
                             },
                         })
+
+                    # Translate all topics in a single batched call.
+                    translations = translate_batch(
+                        [it["extra"].pop("_topic") for it in items]
+                    )
+                    for it, en in zip(items, translations):
+                        it["extra"]["translation"] = en
 
                     return items
                 elif data.get("code") != 200:

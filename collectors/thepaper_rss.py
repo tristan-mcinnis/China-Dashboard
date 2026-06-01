@@ -23,7 +23,7 @@ load_dotenv()
 from collectors.common import (
     base_headers,
     schema,
-    translate_text,
+    translate_batch,
     write_with_history,
 )
 
@@ -123,9 +123,6 @@ def fetch_thepaper_news(max_items: int = MAX_ITEMS) -> List[dict]:
         if " - " in title:
             title = title.split(" - ", 1)[0].strip()
 
-        # Translate the title using DeepSeek
-        translation = translate_text(title) if title else ""
-
         # Extract category from entry tags if available
         category = ""
         tags = entry.get("tags", [])
@@ -143,10 +140,15 @@ def fetch_thepaper_news(max_items: int = MAX_ITEMS) -> List[dict]:
                     "summary": summary,
                     "source_feed": feed_url,
                     "source_name": "澎湃新闻",
-                    "translation": translation,
+                    "translation": "",
                 },
             }
         )
+
+    # Translate every headline in a single batched DeepSeek call.
+    translations = translate_batch([it["title"] for it in all_items])
+    for it, en in zip(all_items, translations):
+        it["extra"]["translation"] = en
 
     return all_items
 

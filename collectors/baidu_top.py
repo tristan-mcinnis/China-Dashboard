@@ -17,7 +17,7 @@ from collectors.common import (
     base_headers,
     backoff_sleep,
     schema,
-    translate_text,
+    translate_batch,
     write_with_history,
 )
 
@@ -232,8 +232,6 @@ def fetch_baidu_top(max_items: int = 10):
                         description = raw_desc.strip()
                         break
 
-                translation = translate_text(topic)
-
                 items.append(
                     {
                         "title": f"{idx}. {topic}",
@@ -244,10 +242,17 @@ def fetch_baidu_top(max_items: int = 10):
                             "raw_score": heat_value,
                             "api_source": "tianapi",
                             "description": description,
-                            "translation": translation,
+                            "translation": "",
+                            "_topic": topic,
                         },
                     }
                 )
+
+            # Translate all topics in a single batched DeepSeek call (cheaper
+            # and faster than one request per headline).
+            translations = translate_batch([it["extra"].pop("_topic") for it in items])
+            for it, en in zip(items, translations):
+                it["extra"]["translation"] = en
 
             return items
 

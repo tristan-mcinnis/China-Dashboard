@@ -12,7 +12,7 @@ import re
 
 import requests
 
-from collectors.common import base_headers, schema, translate_text, write_with_history
+from collectors.common import base_headers, schema, translate_batch, write_with_history
 
 OUT = "docs/data/gov_regulatory.json"
 HISTORY = "docs/data/history/gov_regulatory.json"
@@ -60,7 +60,6 @@ def scrape_csrc():
                 if not title.strip():
                     continue
                 url = href if href.startswith("http") else f"http://www.csrc.gov.cn{href}"
-                translation = translate_text(title)
                 items.append({
                     "title": title.strip(),
                     "value": "",
@@ -68,7 +67,7 @@ def scrape_csrc():
                     "extra": {
                         "agency": "CSRC",
                         "agency_zh": "证监会",
-                        "translation": translation,
+                        "translation": "",
                     },
                 })
     except Exception:
@@ -98,7 +97,6 @@ def scrape_cac():
                 if any(c in title for c in ["通知", "公告", "意见", "规定", "办法", "条例", "政策", "发布", "会议"]):
                     seen.add(title)
                     url = href if href.startswith("http") else f"http://www.cac.gov.cn{href}"
-                    translation = translate_text(title)
                     items.append({
                         "title": title,
                         "value": "",
@@ -106,7 +104,7 @@ def scrape_cac():
                         "extra": {
                             "agency": "CAC",
                             "agency_zh": "网信办",
-                            "translation": translation,
+                            "translation": "",
                         },
                     })
                     if len(items) >= 5:
@@ -133,7 +131,6 @@ def scrape_samr():
                 if not title.strip():
                     continue
                 url = href if href.startswith("http") else f"https://www.samr.gov.cn{href}"
-                translation = translate_text(title)
                 items.append({
                     "title": title.strip(),
                     "value": "",
@@ -141,7 +138,7 @@ def scrape_samr():
                     "extra": {
                         "agency": "SAMR",
                         "agency_zh": "市场监管总局",
-                        "translation": translation,
+                        "translation": "",
                     },
                 })
     except Exception:
@@ -154,6 +151,13 @@ def main() -> None:
     items.extend(scrape_csrc())
     items.extend(scrape_cac())
     items.extend(scrape_samr())
+
+    # Translate every announcement title in a single batched DeepSeek call.
+    if items:
+        translations = translate_batch([it["title"] for it in items])
+        for it, en in zip(items, translations):
+            if en:
+                it["extra"]["translation"] = en
 
     if not items:
         # Provide at least placeholder entries
