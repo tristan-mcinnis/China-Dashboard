@@ -1,0 +1,129 @@
+{
+  "name": "China Snapshot Dashboard — public data API",
+  "description": "Serverless China-signals feeds, refreshed 5x/day (Beijing time). All endpoints are static JSON with CORS enabled, free to consume.",
+  "generated_at": "2026-06-01T14:35:35+08:00",
+  "license": "Data is provided as-is for informational purposes (see dashboard disclaimer).",
+  "schema": {
+    "feeds": "Standard feeds use {as_of, source, items[]}, each item {title, value, url, extra{}}. Bilingual feeds add extra.translation (English).",
+    "digest": "daily_digest.json is a synthesis feed (headline, narrative, market_snapshot, themes, entities, top_stories[]) — not the items schema."
+  },
+  "special": {
+    "daily_digest": "https://china-dashboard.vercel.app/data/daily_digest.json",
+    "daily_digest_markdown": "https://china-dashboard.vercel.app/data/digest.md",
+    "health": "https://china-dashboard.vercel.app/data/health.json"
+  },
+  "feeds": [
+    {
+      "name": "indices",
+      "category": "markets",
+      "description": "Shanghai & Shenzhen stock market indices",
+      "url": "https://china-dashboard.vercel.app/data/indices.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/indices.json",
+      "as_of": "2026-06-01T11:46:57+08:00"
+    },
+    {
+      "name": "fx",
+      "category": "markets",
+      "description": "CNY currency exchange rates",
+      "url": "https://china-dashboard.vercel.app/data/fx.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/fx.json",
+      "as_of": "2026-06-01T11:46:57+08:00"
+    },
+    {
+      "name": "pboc_rates",
+      "category": "macro",
+      "description": "PBOC policy rates (LPR, MLF, RRR)",
+      "url": "https://china-dashboard.vercel.app/data/pboc_rates.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/pboc_rates.json",
+      "as_of": "2026-06-01T11:47:05+08:00"
+    },
+    {
+      "name": "nbs_monthly",
+      "category": "macro",
+      "description": "NBS monthly indicators (CPI, PPI, PMI)",
+      "url": "https://china-dashboard.vercel.app/data/nbs_monthly.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/nbs_monthly.json",
+      "as_of": "2026-06-01T11:47:07+08:00"
+    },
+    {
+      "name": "trade_data",
+      "category": "macro",
+      "description": "China trade data (exports, imports, balance)",
+      "url": "https://china-dashboard.vercel.app/data/trade_data.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/trade_data.json",
+      "as_of": "2026-06-01T11:47:08+08:00"
+    },
+    {
+      "name": "property",
+      "category": "macro",
+      "description": "70-city home price index",
+      "url": "https://china-dashboard.vercel.app/data/property.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/property.json",
+      "as_of": "2026-06-01T11:47:09+08:00"
+    },
+    {
+      "name": "weather",
+      "category": "markets",
+      "description": "Beijing weather",
+      "url": "https://china-dashboard.vercel.app/data/weather.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/weather.json",
+      "as_of": "2026-06-01T11:46:59+08:00"
+    },
+    {
+      "name": "baidu_top",
+      "category": "social",
+      "description": "Baidu trending search topics (bilingual)",
+      "url": "https://china-dashboard.vercel.app/data/baidu_top.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/baidu_top.json",
+      "as_of": "2026-06-01T11:46:54+08:00"
+    },
+    {
+      "name": "weibo_hot",
+      "category": "social",
+      "description": "Weibo hot search topics (bilingual)",
+      "url": "https://china-dashboard.vercel.app/data/weibo_hot.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/weibo_hot.json",
+      "as_of": "2026-06-01T11:46:55+08:00"
+    },
+    {
+      "name": "tencent_wechat_hot",
+      "category": "social",
+      "description": "Tencent/WeChat hot topics (bilingual)",
+      "url": "https://china-dashboard.vercel.app/data/tencent_wechat_hot.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/tencent_wechat_hot.json",
+      "as_of": "2026-06-01T11:46:56+08:00"
+    },
+    {
+      "name": "xinhua_news",
+      "category": "news",
+      "description": "Xinhua News Agency headlines (bilingual)",
+      "url": "https://china-dashboard.vercel.app/data/xinhua_news.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/xinhua_news.json",
+      "as_of": "2026-06-01T11:47:01+08:00"
+    },
+    {
+      "name": "thepaper_news",
+      "category": "news",
+      "description": "The Paper (澎湃新闻) headlines (bilingual)",
+      "url": "https://china-dashboard.vercel.app/data/thepaper_news.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/thepaper_news.json",
+      "as_of": "2026-06-01T11:47:02+08:00"
+    },
+    {
+      "name": "ladymax_news",
+      "category": "news",
+      "description": "LadyMax fashion-business headlines (bilingual)",
+      "url": "https://china-dashboard.vercel.app/data/ladymax_news.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/ladymax_news.json",
+      "as_of": "2026-06-01T11:47:04+08:00"
+    },
+    {
+      "name": "gov_regulatory",
+      "category": "regulatory",
+      "description": "CSRC / CAC / SAMR announcements (bilingual)",
+      "url": "https://china-dashboard.vercel.app/data/gov_regulatory.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/gov_regulatory.json",
+      "as_of": "2026-06-01T11:47:15+08:00"
+    }
+  ]
+}

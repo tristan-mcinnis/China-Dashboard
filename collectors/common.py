@@ -1,11 +1,15 @@
 import json
 import os
 import random
+import sys
 import time
 import fcntl
 import tempfile
 from datetime import datetime, timedelta, timezone
 from openai import OpenAI
+
+# Warn only once per process when the DeepSeek key is missing (see translate_text).
+_TRANSLATE_KEY_WARNED = False
 
 USER_AGENTS = [
     "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
@@ -184,6 +188,15 @@ def translate_text(text: str, max_retries: int = 3) -> str:
     """Translate Chinese text to English using DeepSeek."""
     api_key = os.getenv("DEEPSEEK_API_KEY")
     if not api_key:
+        # Warn once per process so the empty-translation cause is visible in logs.
+        global _TRANSLATE_KEY_WARNED
+        if not _TRANSLATE_KEY_WARNED:
+            print(
+                "[translate] DEEPSEEK_API_KEY is not set — translations will be "
+                "empty. Set the DEEPSEEK_API_KEY secret to enable bilingual titles.",
+                file=sys.stderr,
+            )
+            _TRANSLATE_KEY_WARNED = True
         return ""
 
     for attempt in range(max_retries):

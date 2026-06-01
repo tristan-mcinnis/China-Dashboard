@@ -1112,6 +1112,38 @@ a.bilingual-text {
   letter-spacing: 0.05em;
 }
 
+.footer-left,
+.footer-right {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.footer-sep {
+  color: var(--color-text-tertiary);
+  opacity: 0.6;
+}
+
+.footer-link {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--color-text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--color-text-tertiary);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.footer-link:hover {
+  color: var(--color-text-primary);
+  border-color: var(--color-text-primary);
+}
+
+.visitor-count:empty {
+  display: none;
+}
+
 .footer-disclaimer {
   margin-top: var(--space-4);
   font-family: var(--font-sans);
@@ -1239,6 +1271,11 @@ a.bilingual-text {
   color: var(--color-text-tertiary);
   text-transform: uppercase;
   letter-spacing: 0.04em;
+}
+
+.brief-meta-degraded {
+  color: var(--color-warning);
+  cursor: help;
 }
 
 .brief-actions {

@@ -1,3 +1,26 @@
+// GoatCounter site code for the on-page visitor count. Keep this in sync with the
+// data-goatcounter attribute in index.html. Leave as "MYCODE" to disable the counter.
+const GOATCOUNTER_CODE = 'MYCODE';
+
+// Fetch the site-wide unique visitor total from GoatCounter and show it in the footer.
+// Privacy-friendly and best-effort: any failure (or unconfigured code) just hides it.
+async function renderVisitorCount() {
+  const el = document.getElementById('visitor-count');
+  if (!el || GOATCOUNTER_CODE === 'MYCODE') return;
+  try {
+    const res = await fetch(`https://${GOATCOUNTER_CODE}.goatcounter.com/counter/TOTAL.json`);
+    if (!res.ok) return;
+    const data = await res.json();
+    const visitors = data.count_unique || data.count;
+    if (visitors) {
+      el.textContent = `${visitors} visitors`;
+      el.title = 'Unique visitors (via GoatCounter)';
+    }
+  } catch (_) {
+    /* best-effort; leave the counter hidden on failure */
+  }
+}
+
 // News Ticker Functions
 const TICKER_SOURCES = {
   xinhua: { label: 'Xinhua', class: 'source-xinhua' },
@@ -1310,8 +1333,13 @@ async function renderDigest() {
     const digest = await loadJSON('data/daily_digest.json');
 
     if (meta) {
-      const by = (digest.generated_by || '').startsWith('deepseek') ? 'DeepSeek' : 'auto';
+      const isLLM = (digest.generated_by || '').startsWith('deepseek');
+      const by = isLLM ? 'DeepSeek' : 'auto (LLM offline)';
       meta.textContent = `${digest.time_label || ''} · ${digest.date || ''} ${digest.beijing_time || ''} CST · ${by}`;
+      meta.classList.toggle('brief-meta-degraded', !isLLM);
+      meta.title = isLLM
+        ? 'Synthesized by DeepSeek'
+        : 'DeepSeek synthesis unavailable — showing the deterministic fallback brief. Check the DEEPSEEK_API_KEY secret.';
     }
 
     const headline = document.getElementById('brief-headline');
@@ -1995,6 +2023,9 @@ render().then(() => {
 
   // Update health status
   updateHealthStatus();
+
+  // Visitor count (best-effort, privacy-friendly)
+  renderVisitorCount();
 
   // After initial render, switch to incremental update checks
   setInterval(() => {
