@@ -30,8 +30,9 @@
         </div>
         <div class="header-right">
           <div class="search-container">
-            <input type="text" id="search-input" class="search-input" placeholder="Search articles..." aria-label="Search articles">
+            <input type="text" id="search-input" class="search-input" placeholder="Search articles &amp; archive…" aria-label="Search articles" autocomplete="off">
             <button id="search-clear" class="search-clear" aria-label="Clear search" style="display: none;">×</button>
+            <div id="search-dropdown" class="search-dropdown" role="listbox" hidden></div>
           </div>
           <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
             <span class="theme-icon">◑</span>
@@ -67,30 +68,135 @@
         </div>
         <p class="brief-headline" id="brief-headline"></p>
         <p class="brief-narrative" id="brief-narrative"></p>
-        <div class="brief-market" id="brief-market"></div>
         <div class="brief-themes" id="brief-themes"></div>
         <ol class="brief-stories" id="brief-stories"></ol>
       </section>
 
       <div id="category-filter" class="category-filter">
         <button class="filter-btn active" data-category="all">All</button>
-        <button class="filter-btn" data-category="markets">Markets</button>
-        <button class="filter-btn" data-category="macro">Macro</button>
         <button class="filter-btn" data-category="social">Social</button>
         <button class="filter-btn" data-category="news">News</button>
+        <button class="filter-btn" data-category="markets">Markets</button>
+        <button class="filter-btn" data-category="macro">Macro</button>
         <button class="filter-btn" data-category="regulatory">Regulatory</button>
       </div>
 
+      <!-- Active tag filter banner + historical stories for the clicked tag -->
+      <div id="tag-filter-banner" class="tag-filter-banner" aria-live="polite" hidden></div>
+      <div id="tag-results" class="tag-results" hidden></div>
+
+      <section class="section" data-category="social">
+        <div class="section-header">
+          <h2 class="section-title">Social & Search</h2>
+          <div class="section-subtitle">Trending topics and discussions</div>
+        </div>
+        <div class="grid-3">
+          <div class="card">
+            <div class="card-header card-header-with-history">
+              <div class="card-header-text">
+                <h3 class="card-title">Baidu Top</h3>
+                <div class="card-subtitle">Most searched topics</div>
+              </div>
+              <div class="history-bar history-bar-inline" aria-live="polite">
+                <button type="button" class="history-button" id="baidu-prev" aria-label="Previous Baidu snapshot">‹</button>
+                <span class="history-meta" id="baidu-timestamp">No snapshots</span>
+                <button type="button" class="history-button" id="baidu-next" aria-label="Next Baidu snapshot">›</button>
+              </div>
+            </div>
+            <div class="card-content">
+              <ol id="baidu" class="data-list numbered"></ol>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header card-header-with-history">
+              <div class="card-header-text">
+                <h3 class="card-title">Weibo Hot</h3>
+                <div class="card-subtitle">Trending social discussions</div>
+              </div>
+              <div class="history-bar history-bar-inline" aria-live="polite">
+                <button type="button" class="history-button" id="weibo-prev" aria-label="Previous Weibo snapshot">‹</button>
+                <span class="history-meta" id="weibo-timestamp">No snapshots</span>
+                <button type="button" class="history-button" id="weibo-next" aria-label="Next Weibo snapshot">›</button>
+              </div>
+            </div>
+            <div class="card-content">
+              <ol id="weibo" class="data-list numbered"></ol>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header card-header-with-history">
+              <div class="card-header-text">
+                <h3 class="card-title">WeChat Hot</h3>
+                <div class="card-subtitle">Trending WeChat topics</div>
+              </div>
+              <div class="history-bar history-bar-inline" aria-live="polite">
+                <button type="button" class="history-button" id="wechat-prev" aria-label="Previous WeChat snapshot">‹</button>
+                <span class="history-meta" id="wechat-timestamp">No snapshots</span>
+                <button type="button" class="history-button" id="wechat-next" aria-label="Next WeChat snapshot">›</button>
+              </div>
+            </div>
+            <div class="card-content">
+              <ol id="wechat" class="data-list numbered"></ol>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" data-category="news">
+        <div class="section-header section-header-with-history">
+          <div class="section-header-text">
+            <h2 class="section-title">Xinhua News RSS</h2>
+            <div class="section-subtitle">Up to five headlines per category with bilingual titles</div>
+          </div>
+          <div class="history-bar history-bar-inline" aria-live="polite">
+            <button type="button" class="history-button" id="xinhua-prev" aria-label="Previous Xinhua snapshot">‹</button>
+            <span class="history-meta" id="xinhua-timestamp">No snapshots</span>
+            <button type="button" class="history-button" id="xinhua-next" aria-label="Next Xinhua snapshot">›</button>
+          </div>
+        </div>
+        <div id="xinhua-news" class="grid-3" aria-live="polite"></div>
+      </section>
+
+      <section class="section" data-category="news">
+        <div class="section-header section-header-with-history">
+          <div class="section-header-text">
+            <h2 class="section-title">The Paper (澎湃新闻) RSS</h2>
+            <div class="section-subtitle">Latest headlines with bilingual titles</div>
+          </div>
+          <div class="history-bar history-bar-inline" aria-live="polite">
+            <button type="button" class="history-button" id="thepaper-prev" aria-label="Previous The Paper snapshot">‹</button>
+            <span class="history-meta" id="thepaper-timestamp">No snapshots</span>
+            <button type="button" class="history-button" id="thepaper-next" aria-label="Next The Paper snapshot">›</button>
+          </div>
+        </div>
+        <div id="thepaper-news" class="grid-3" aria-live="polite"></div>
+      </section>
+
+      <section class="section" data-category="news">
+        <div class="section-header section-header-with-history">
+          <div class="section-header-text">
+            <h2 class="section-title">LadyMax (时尚头条网)</h2>
+            <div class="section-subtitle">Fashion business headlines with bilingual titles</div>
+          </div>
+          <div class="history-bar history-bar-inline" aria-live="polite">
+            <button type="button" class="history-button" id="ladymax-prev" aria-label="Previous LadyMax snapshot">‹</button>
+            <span class="history-meta" id="ladymax-timestamp">No snapshots</span>
+            <button type="button" class="history-button" id="ladymax-next" aria-label="Next LadyMax snapshot">›</button>
+          </div>
+        </div>
+        <div id="ladymax-news" class="grid-3" aria-live="polite"></div>
+      </section>
+
       <section class="section" data-category="markets">
         <div class="section-header">
-          <h2 class="section-title">Markets & FX</h2>
+          <h2 class="section-title">Markets &amp; FX</h2>
           <div class="section-subtitle">Real-time financial indicators</div>
         </div>
         <div class="grid-2">
           <div class="card">
             <div class="card-header">
               <h3 class="card-title">Indices</h3>
-              <div class="card-subtitle">Shanghai & Shenzhen markets</div>
+              <div class="card-subtitle">Shanghai &amp; Shenzhen markets</div>
             </div>
             <div class="card-content">
               <ul id="indices" class="data-list"></ul>
@@ -113,7 +219,7 @@
           <h2 class="section-title">Macro Indicators</h2>
           <div class="section-subtitle">Key economic and policy rates</div>
         </div>
-        <div class="grid-2">
+        <div class="grid-4">
           <div class="card">
             <div class="card-header">
               <h3 class="card-title">PBOC Policy Rates</h3>
@@ -153,104 +259,8 @@
         </div>
       </section>
 
-      <section class="section" data-category="social">
-        <div class="section-header">
-          <h2 class="section-title">Social & Search</h2>
-          <div class="section-subtitle">Trending topics and discussions</div>
-        </div>
-        <div class="grid-2">
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">Baidu Top</h3>
-              <div class="card-subtitle">Most searched topics</div>
-            </div>
-            <div class="card-content">
-              <ol id="baidu" class="data-list numbered"></ol>
-              <div class="history-bar" aria-live="polite">
-                <button type="button" class="history-button" id="baidu-prev" aria-label="Previous Baidu snapshot">‹</button>
-                <span class="history-meta" id="baidu-timestamp">No snapshots</span>
-                <button type="button" class="history-button" id="baidu-next" aria-label="Next Baidu snapshot">›</button>
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">Weibo Hot</h3>
-              <div class="card-subtitle">Trending social discussions</div>
-            </div>
-            <div class="card-content">
-              <ol id="weibo" class="data-list numbered"></ol>
-              <div class="history-bar" aria-live="polite">
-                <button type="button" class="history-button" id="weibo-prev" aria-label="Previous Weibo snapshot">‹</button>
-                <span class="history-meta" id="weibo-timestamp">No snapshots</span>
-                <button type="button" class="history-button" id="weibo-next" aria-label="Next Weibo snapshot">›</button>
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">WeChat Hot</h3>
-              <div class="card-subtitle">Trending WeChat topics</div>
-            </div>
-            <div class="card-content">
-              <ol id="wechat" class="data-list numbered"></ol>
-              <div class="history-bar" aria-live="polite">
-                <button type="button" class="history-button" id="wechat-prev" aria-label="Previous WeChat snapshot">‹</button>
-                <span class="history-meta" id="wechat-timestamp">No snapshots</span>
-                <button type="button" class="history-button" id="wechat-next" aria-label="Next WeChat snapshot">›</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" data-category="news">
-        <div class="section-header">
-          <div class="section-header-text">
-            <h2 class="section-title">Xinhua News RSS</h2>
-            <div class="section-subtitle">Up to five headlines per category with bilingual titles</div>
-          </div>
-          <div class="history-bar history-bar-inline" aria-live="polite">
-            <button type="button" class="history-button" id="xinhua-prev" aria-label="Previous Xinhua snapshot">‹</button>
-            <span class="history-meta" id="xinhua-timestamp">No snapshots</span>
-            <button type="button" class="history-button" id="xinhua-next" aria-label="Next Xinhua snapshot">›</button>
-          </div>
-        </div>
-        <div id="xinhua-news" class="grid-3" aria-live="polite"></div>
-      </section>
-
-      <section class="section" data-category="news">
-        <div class="section-header">
-          <div class="section-header-text">
-            <h2 class="section-title">The Paper (澎湃新闻) RSS</h2>
-            <div class="section-subtitle">Latest headlines with bilingual titles</div>
-          </div>
-          <div class="history-bar history-bar-inline" aria-live="polite">
-            <button type="button" class="history-button" id="thepaper-prev" aria-label="Previous The Paper snapshot">‹</button>
-            <span class="history-meta" id="thepaper-timestamp">No snapshots</span>
-            <button type="button" class="history-button" id="thepaper-next" aria-label="Next The Paper snapshot">›</button>
-          </div>
-        </div>
-        <div id="thepaper-news" class="grid-3" aria-live="polite"></div>
-      </section>
-
-      <section class="section" data-category="news">
-        <div class="section-header">
-          <div class="section-header-text">
-            <h2 class="section-title">LadyMax (时尚头条网)</h2>
-            <div class="section-subtitle">Fashion business headlines with bilingual titles</div>
-          </div>
-          <div class="history-bar history-bar-inline" aria-live="polite">
-            <button type="button" class="history-button" id="ladymax-prev" aria-label="Previous LadyMax snapshot">‹</button>
-            <span class="history-meta" id="ladymax-timestamp">No snapshots</span>
-            <button type="button" class="history-button" id="ladymax-next" aria-label="Next LadyMax snapshot">›</button>
-          </div>
-        </div>
-        <div id="ladymax-news" class="grid-3" aria-live="polite"></div>
-      </section>
-
       <section class="section" data-category="regulatory">
-        <div class="section-header">
+        <div class="section-header section-header-with-history">
           <div class="section-header-text">
             <h2 class="section-title">Regulatory (CSRC · CAC · SAMR)</h2>
             <div class="section-subtitle">Government regulatory announcements with bilingual titles</div>
@@ -266,17 +276,17 @@
 
     </main>
 
-    <div class="export-bar">
-        <button class="export-btn" id="export-json">Export JSON</button>
-        <button class="export-btn" id="export-csv">Export CSV</button>
-      </div>
-
     <footer class="footer">
       <div class="footer-content">
         <div class="footer-left">
           <span class="footer-text">Powered by GitHub Actions</span>
           <span class="footer-sep">·</span>
           <a class="footer-link" href="data/endpoints.json" target="_blank" rel="noopener" title="Machine-readable list of all feeds — pull this data into your own dashboard">Data API</a>
+          <span class="footer-sep">·</span>
+          <div class="export-bar">
+            <button class="export-btn" id="export-json">Export JSON</button>
+            <button class="export-btn" id="export-csv">Export CSV</button>
+          </div>
         </div>
         <div class="footer-right">
           <span id="visitor-count" class="footer-text visitor-count" aria-live="polite"></span>

@@ -31,6 +31,7 @@ if __name__ == "__main__" and __package__ is None:
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from collectors.common import now_iso_tz8, write_json
+from collectors import tags_index as tags
 
 try:  # OpenAI client is optional at import time; only needed for LLM synthesis
     from openai import OpenAI
@@ -455,6 +456,20 @@ def main() -> None:
 
     archive_path = f"{ARCHIVE_DIR}/{digest['date']}/{digest['digest_type']}.json"
     write_json(archive_path, digest, indent=2, min_items=0)
+
+    # Fold this run's themed stories into the cumulative tag index so the
+    # dashboard's clickable tags accrue historical depth over time.
+    try:
+        index = tags.load_index()
+        added = tags.apply_digest(
+            index, digest.get("themes", []), digest.get("top_stories", []), digest["date"]
+        )
+        index["updated_at"] = digest["as_of"]
+        write_json(tags.INDEX_PATH, index, indent=2, min_items=0)
+        print(f"Tag index updated: +{added} story-tag links "
+              f"({len(index['tags'])} tags) → {tags.INDEX_PATH}")
+    except Exception as e:  # never let tag indexing break the digest
+        print(f"::warning::Tag index update failed: {e}", file=sys.stderr)
 
     print(
         f"Daily digest written: {len(digest['top_stories'])} stories "
