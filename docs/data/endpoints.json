@@ -1,7 +1,7 @@
 {
   "name": "China Snapshot Dashboard — public data API",
   "description": "Serverless China-signals feeds, refreshed 5x/day (Beijing time). All endpoints are static JSON with CORS enabled, free to consume.",
-  "generated_at": "2026-06-02T06:44:46+08:00",
+  "generated_at": "2026-06-02T11:48:08+08:00",
   "license": "Data is provided as-is for informational purposes (see dashboard disclaimer).",
   "schema": {
     "feeds": "Standard feeds use {as_of, source, items[]}, each item {title, value, url, extra{}}. Bilingual feeds add extra.translation (English).",
@@ -19,7 +19,7 @@
       "description": "Shanghai & Shenzhen stock market indices",
       "url": "https://china-dashboard.vercel.app/data/indices.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/indices.json",
-      "as_of": "2026-06-02T06:43:53+08:00"
+      "as_of": "2026-06-02T11:47:04+08:00"
     },
     {
       "name": "fx",
@@ -27,7 +27,7 @@
       "description": "CNY currency exchange rates",
       "url": "https://china-dashboard.vercel.app/data/fx.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/fx.json",
-      "as_of": "2026-06-02T06:43:54+08:00"
+      "as_of": "2026-06-02T11:47:05+08:00"
     },
     {
       "name": "pboc_rates",
@@ -35,7 +35,7 @@
       "description": "PBOC policy rates (LPR, MLF, RRR)",
       "url": "https://china-dashboard.vercel.app/data/pboc_rates.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/pboc_rates.json",
-      "as_of": "2026-06-02T06:44:19+08:00"
+      "as_of": "2026-06-02T11:47:38+08:00"
     },
     {
       "name": "nbs_monthly",
@@ -43,7 +43,7 @@
       "description": "NBS monthly indicators (CPI, PPI, PMI)",
       "url": "https://china-dashboard.vercel.app/data/nbs_monthly.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/nbs_monthly.json",
-      "as_of": "2026-06-02T06:44:21+08:00"
+      "as_of": "2026-06-02T11:47:40+08:00"
     },
     {
       "name": "trade_data",
@@ -51,7 +51,7 @@
       "description": "China trade data (exports, imports, balance)",
       "url": "https://china-dashboard.vercel.app/data/trade_data.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/trade_data.json",
-      "as_of": "2026-06-02T06:44:21+08:00"
+      "as_of": "2026-06-02T11:47:41+08:00"
     },
     {
       "name": "property",
@@ -59,7 +59,7 @@
       "description": "70-city home price index",
       "url": "https://china-dashboard.vercel.app/data/property.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/property.json",
-      "as_of": "2026-06-02T06:44:22+08:00"
+      "as_of": "2026-06-02T11:47:43+08:00"
     },
     {
       "name": "weather",
@@ -67,7 +67,7 @@
       "description": "Beijing weather",
       "url": "https://china-dashboard.vercel.app/data/weather.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/weather.json",
-      "as_of": "2026-06-02T06:43:56+08:00"
+      "as_of": "2026-06-02T11:47:06+08:00"
     },
     {
       "name": "baidu_top",
@@ -75,7 +75,7 @@
       "description": "Baidu trending search topics (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/baidu_top.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/baidu_top.json",
-      "as_of": "2026-06-02T06:43:31+08:00"
+      "as_of": "2026-06-02T11:46:49+08:00"
     },
     {
       "name": "weibo_hot",
@@ -83,7 +83,7 @@
       "description": "Weibo hot search topics (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/weibo_hot.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/weibo_hot.json",
-      "as_of": "2026-06-02T06:43:37+08:00"
+      "as_of": "2026-06-02T11:46:57+08:00"
     },
     {
       "name": "tencent_wechat_hot",
@@ -91,7 +91,7 @@
       "description": "Tencent/WeChat hot topics (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/tencent_wechat_hot.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/tencent_wechat_hot.json",
-      "as_of": "2026-06-02T06:43:52+08:00"
+      "as_of": "2026-06-02T11:47:03+08:00"
     },
     {
       "name": "xinhua_news",
@@ -99,7 +99,7 @@
       "description": "Xinhua News Agency headlines (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/xinhua_news.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/xinhua_news.json",
-      "as_of": "2026-06-02T06:44:06+08:00"
+      "as_of": "2026-06-02T11:47:17+08:00"
     },
     {
       "name": "thepaper_news",
@@ -107,7 +107,7 @@
       "description": "The Paper (澎湃新闻) headlines (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/thepaper_news.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/thepaper_news.json",
-      "as_of": "2026-06-02T06:44:12+08:00"
+      "as_of": "2026-06-02T11:47:27+08:00"
     },
     {
       "name": "ladymax_news",
@@ -115,7 +115,7 @@
       "description": "LadyMax fashion-business headlines (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/ladymax_news.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/ladymax_news.json",
-      "as_of": "2026-06-02T06:44:17+08:00"
+      "as_of": "2026-06-02T11:47:37+08:00"
     },
     {
       "name": "gov_regulatory",
@@ -123,7 +123,7 @@
       "description": "CSRC / CAC / SAMR announcements (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/gov_regulatory.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/gov_regulatory.json",
-      "as_of": "2026-06-02T06:44:36+08:00"
+      "as_of": "2026-06-02T11:47:51+08:00"
     }
   ]
 }
