@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T15:30:22+08:00",
+  "updated_at": "2026-06-02T19:54:00+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -687,6 +687,152 @@
             "xinhua_news"
           ],
           "category": "news"
+        }
+      ]
+    },
+    "cultural propaganda": {
+      "label": "Cultural Propaganda",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "文化兴国运兴",
+          "english_title": "Xi's Cultural Strength Quote Trending",
+          "url": "https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "anti-corruption": {
+      "label": "Anti-Corruption",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "黎晓宏被查",
+          "english_title": "Ex-Anti-Graft Chief Li Xiaohong Investigated",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%8E%E6%99%93%E5%AE%8F%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "flood preparedness": {
+      "label": "Flood Preparedness",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "网警查处网暴救灾村支书的网民",
+          "english_title": "Police Punish Online Abusers of Flood Relief Official",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E7%BD%91%E6%9A%B4%E6%95%91%E7%81%BE%E6%9D%91%E6%94%AF%E4%B9%A6%E7%9A%84%E7%BD%91%E6%B0%91",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "全国全面入汛 如何应对严峻形势",
+          "english_title": "China Enters Full Flood Season",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%85%A5%E6%B1%9B+%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E4%B8%A5%E5%B3%BB%E5%BD%A2%E5%8A%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "south china sea tensions": {
+      "label": "South China Sea Tensions",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "中方：菲防长完全没有知恩感恩之心",
+          "english_title": "China Rebukes Philippine Defense Minister",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%8F%B2%E9%98%B2%E9%95%BF%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%9C%89%E7%9F%A5%E6%81%A9%E6%84%9F%E6%81%A9%E4%B9%8B%E5%BF%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "全国全面入汛 如何应对严峻形势",
+          "english_title": "China Enters Full Flood Season",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%85%A5%E6%B1%9B+%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E4%B8%A5%E5%B3%BB%E5%BD%A2%E5%8A%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "food safety regulation": {
+      "label": "Food Safety Regulation",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "连锁餐饮公司竟开幽灵外卖",
+          "english_title": "Crackdown on 'Ghost Kitchens' in Food Delivery",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E9%A4%90%E9%A5%AE%E5%85%AC%E5%8F%B8%E7%AB%9F%E5%BC%80%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "差77米登顶珠峰 因人太多无奈放弃",
+          "english_title": "Mountaineer Abandons Summit Due to Crowds",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%AE77%E7%B1%B3%E7%99%BB%E9%A1%B6%E7%8F%A0%E5%B3%B0+%E5%9B%A0%E4%BA%BA%E5%A4%AA%E5%A4%9A%E6%97%A0%E5%A5%88%E6%94%BE%E5%BC%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "public safety": {
+      "label": "Public Safety",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "连锁餐饮公司竟开幽灵外卖",
+          "english_title": "Crackdown on 'Ghost Kitchens' in Food Delivery",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E9%A4%90%E9%A5%AE%E5%85%AC%E5%8F%B8%E7%AB%9F%E5%BC%80%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "差77米登顶珠峰 因人太多无奈放弃",
+          "english_title": "Mountaineer Abandons Summit Due to Crowds",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%AE77%E7%B1%B3%E7%99%BB%E9%A1%B6%E7%8F%A0%E5%B3%B0+%E5%9B%A0%E4%BA%BA%E5%A4%AA%E5%A4%9A%E6%97%A0%E5%A5%88%E6%94%BE%E5%BC%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
         }
       ]
     }

@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-06-02T15:29:00+08:00",
+  "generated_at": "2026-06-02T19:52:56+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-02T19:52:56+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. DeepSeek降价",
+          "value": "1169675 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DDeepSeek%E9%99%8D%E4%BB%B7&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": " 1169675",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "DeepSeek Price Cuts"
+          }
+        },
+        {
+          "title": "2. 财政部下达999亿育儿补贴补助资金",
+          "value": "875198 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B4%A2%E6%94%BF%E9%83%A8%E4%B8%8B%E8%BE%BE999%E4%BA%BF%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E8%A1%A5%E5%8A%A9%E8%B5%84%E9%87%91&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 875198",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Ministry of Finance Allocates 99.9 Billion Yuan for Childcare Subsidies"
+          }
+        },
+        {
+          "title": "3. 预计今年共安排育儿补贴约1100亿",
+          "value": "794550 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B4%E5%85%B1%E5%AE%89%E6%8E%92%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%BA%A61100%E4%BA%BF&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 794550",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Estimated Total Childcare Subsidies of About 110 Billion Yuan This Year"
+          }
+        },
+        {
+          "title": "4. 吃乐事看赛有乐事",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%83%E4%B9%90%E4%BA%8B%E7%9C%8B%E8%B5%9B%E6%9C%89%E4%B9%90%E4%BA%8B&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Eat Lay's, Watch the Game, Have Fun"
+          }
+        },
+        {
+          "title": "5. 中国足球小将夺冠",
+          "value": "794546 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%A4%BA%E5%86%A0&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 794546",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Chinese Young Football Stars Win Championship"
+          }
+        },
+        {
+          "title": "6. 小米隐藏王牌即将落地 [火热]",
+          "value": "793476 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%B1%B3%E9%9A%90%E8%97%8F%E7%8E%8B%E7%89%8C%E5%8D%B3%E5%B0%86%E8%90%BD%E5%9C%B0&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 793476",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Xiaomi's Hidden Trump Card Is About to Land"
+          }
+        },
+        {
+          "title": "7. 为什么荔枝干不普及",
+          "value": "792995 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8D%94%E6%9E%9D%E5%B9%B2%E4%B8%8D%E6%99%AE%E5%8F%8A&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": " 792995",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Why Dried Lychee Isn't Popular"
+          }
+        },
+        {
+          "title": "8. 歌手2026 [新]",
+          "value": "晚会 676840 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%8C%E6%89%8B2026&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": "晚会 676840",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Singer 2026"
+          }
+        },
+        {
+          "title": "9. 翘楚 短剧感",
+          "value": "502925 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BF%98%E6%A5%9A%20%E7%9F%AD%E5%89%A7%E6%84%9F&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 502925",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Qiaochu Short Drama Vibe"
+          }
+        },
+        {
+          "title": "10. 原来老祖宗才是最懂午睡的 [新]",
+          "value": "501492 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E8%80%81%E7%A5%96%E5%AE%97%E6%89%8D%E6%98%AF%E6%9C%80%E6%87%82%E5%8D%88%E7%9D%A1%E7%9A%84&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 501492",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Turns Out Our Ancestors Knew Best About Napping"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-02T15:29:00+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 377096",
             "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-14T06:26:56+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 特朗普抵京",
-          "value": "420251 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 420251",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 一代人有一代人的带娃邪修",
-          "value": "291653 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%B8%A6%E5%A8%83%E9%82%AA%E4%BF%AE&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 291653",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 天舟十号货运飞船发射任务全回顾",
-          "value": "225592 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E8%B4%A7%E8%BF%90%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%E5%85%A8%E5%9B%9E%E9%A1%BE&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 225592",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 日本爆发大规模反战抗议活动",
-          "value": "120036 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E6%88%98%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 120036",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 马化腾回应AI掉队",
-          "value": "91042 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 91042",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 雨霖铃",
-          "value": "剧集 74492 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%A8%E9%9C%96%E9%93%83&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": "剧集 74492",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 医生辟谣冰箱冷冻层完全抑菌",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3%E5%86%B0%E7%AE%B1%E5%86%B7%E5%86%BB%E5%B1%82%E5%AE%8C%E5%85%A8%E6%8A%91%E8%8F%8C&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 低智商犯罪",
-          "value": "剧集 65155 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "剧集 65155",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 雨霖铃杨洋演技",
-          "value": "剧集 51377 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%A8%E9%9C%96%E9%93%83%E6%9D%A8%E6%B4%8B%E6%BC%94%E6%8A%80&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "剧集 51377",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 曾沛慈数到十入围金曲奖 [沸]",
-          "value": "音乐 51217 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9B%BE%E6%B2%9B%E6%85%88%E6%95%B0%E5%88%B0%E5%8D%81%E5%85%A5%E5%9B%B4%E9%87%91%E6%9B%B2%E5%A5%96&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "音乐 51217",
-            "tag": "沸",
             "api_source": "tianapi",
             "translation": ""
           }
