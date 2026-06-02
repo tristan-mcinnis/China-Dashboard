@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T23:34:17+08:00",
+  "updated_at": "2026-06-03T06:42:08+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -740,9 +740,21 @@
       ]
     },
     "anti-corruption": {
-      "label": "Anti-corruption",
-      "count": 2,
+      "label": "Anti-Corruption",
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "山西长治市沁源县委书记赵永进被查",
+          "english_title": "Shanxi County Party Secretary Zhao Yongjin Under Investigation",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-02",
           "title": "山西长治市沁源县委书记赵永进被查",
@@ -977,6 +989,102 @@
             "baidu_top",
             "tencent_wechat_hot",
             "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "cultural heritage": {
+      "label": "Cultural Heritage",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "94版三国演义司马懿饰演者魏宗万去世",
+          "english_title": "Veteran Actor Wei Zongwan Dies at 89",
+          "url": "https://www.baidu.com/s?wd=94%E7%89%88%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%8F%B8%E9%A9%AC%E6%87%BF%E9%A5%B0%E6%BC%94%E8%80%85%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "习近平的文化足迹",
+          "english_title": "Xi Jinping's Cultural Tour Highlights Heritage Sites",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%96%87%E5%8C%96%E8%B6%B3%E8%BF%B9",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "middle east conflict": {
+      "label": "Middle East Conflict",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "真主党不接受与以色列“部分停火” 双方继续互袭",
+          "english_title": "Hezbollah Rejects Partial Ceasefire with Israel",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzNk5GdnB6UHF3b1h2SXJ0ZE1KTWk5a081Qk1zOGVIZmxGQjQzaXJUVnktMHNzenJISWVQd3psa1dEV3RxQzZFa1VlcW5oSnNXRTEteVRVeGM5WXU2OF8tZldzUEtUZk9NZGhHQ3lYbUk2VnFKcGsxTWprSjRfQTg?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "corporate apology": {
+      "label": "Corporate Apology",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "老乡鸡道歉",
+          "english_title": "Xiangxi Chicken Apologizes for Pet Policy Mishandling",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%B9%A1%E9%B8%A1%E9%81%93%E6%AD%89",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "flood safety": {
+      "label": "Flood Safety",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "一文了解汛期知识、避险方法",
+          "english_title": "China Enters Flood Season; Safety Guidance Issued",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E6%B1%9B%E6%9C%9F%E7%9F%A5%E8%AF%86%E3%80%81%E9%81%BF%E9%99%A9%E6%96%B9%E6%B3%95",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "education warning": {
+      "label": "Education Warning",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "教育部发布2026年高考预警信息",
+          "english_title": "Ministry of Education Releases 2026 College Entrance Exam Warning",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
           ],
           "category": "social"
         }
