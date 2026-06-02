@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T19:54:00+08:00",
+  "updated_at": "2026-06-02T23:34:17+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -692,8 +692,40 @@
     },
     "cultural propaganda": {
       "label": "Cultural Propaganda",
-      "count": 1,
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "演员魏宗万去世",
+          "english_title": "Actor Wei Zongwan Passes Away",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BC%94%E5%91%98%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96&v_p=42",
+          "platforms": [
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "94版三国演义司马懿饰演者魏宗万去世",
+          "english_title": "Wei Zongwan, Actor of 1994 'Three Kingdoms' Sima Yi, Dies at 89",
+          "url": "https://www.baidu.com/s?wd=94%E7%89%88%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%8F%B8%E9%A9%AC%E6%87%BF%E9%A5%B0%E6%BC%94%E8%80%85%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "习近平的文化足迹",
+          "english_title": "Xi Jinping's Cultural Footprint Showcased",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%96%87%E5%8C%96%E8%B6%B3%E8%BF%B9",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-02",
           "title": "文化兴国运兴",
@@ -708,9 +740,21 @@
       ]
     },
     "anti-corruption": {
-      "label": "Anti-Corruption",
-      "count": 1,
+      "label": "Anti-corruption",
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "山西长治市沁源县委书记赵永进被查",
+          "english_title": "Qinyuan County Party Chief Zhao Yongjin Investigated for Corruption",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-02",
           "title": "黎晓宏被查",
@@ -831,6 +875,108 @@
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "public relations": {
+      "label": "Public Relations",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "演员魏宗万去世",
+          "english_title": "Actor Wei Zongwan Passes Away",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BC%94%E5%91%98%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96&v_p=42",
+          "platforms": [
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "中方：菲防长完全没有知恩感恩之心",
+          "english_title": "China Criticizes Philippine Defense Minister for Ungrateful Remarks",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%8F%B2%E9%98%B2%E9%95%BF%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%9C%89%E7%9F%A5%E6%81%A9%E6%84%9F%E6%81%A9%E4%B9%8B%E5%BF%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "一文了解汛期知识、避险方法",
+          "english_title": "China Enters Flood Season; Safety Tips Circulated",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E6%B1%9B%E6%9C%9F%E7%9F%A5%E8%AF%86%E3%80%81%E9%81%BF%E9%99%A9%E6%96%B9%E6%B3%95",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "safety inspection": {
+      "label": "Safety Inspection",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "安徽省省长深入煤矿井下910多米检查",
+          "english_title": "Anhui Governor Inspects Coal Mine Safety 910 Meters Underground",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%9C%81%E7%9C%81%E9%95%BF%E6%B7%B1%E5%85%A5%E7%85%A4%E7%9F%BF%E4%BA%95%E4%B8%8B910%E5%A4%9A%E7%B1%B3%E6%A3%80%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "一文了解汛期知识、避险方法",
+          "english_title": "China Enters Flood Season; Safety Tips Circulated",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E6%B1%9B%E6%9C%9F%E7%9F%A5%E8%AF%86%E3%80%81%E9%81%BF%E9%99%A9%E6%96%B9%E6%B3%95",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "foreign policy": {
+      "label": "Foreign Policy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "山西长治市沁源县委书记赵永进被查",
+          "english_title": "Qinyuan County Party Chief Zhao Yongjin Investigated for Corruption",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "celebrity death": {
+      "label": "Celebrity Death",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "山西长治市沁源县委书记赵永进被查",
+          "english_title": "Qinyuan County Party Chief Zhao Yongjin Investigated for Corruption",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
           ],
           "category": "social"
         }

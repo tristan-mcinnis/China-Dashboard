@@ -1,44 +1,76 @@
 {
   "digest_type": "evening",
-  "as_of": "2026-06-02T19:54:00+08:00",
+  "as_of": "2026-06-02T23:34:17+08:00",
   "date": "2026-06-02",
   "time_label": "Evening Brief",
-  "beijing_time": "19:53",
+  "beijing_time": "23:34",
   "generated_by": "deepseek-v4-flash",
-  "headline": "China enters flood season, anti-graft probe targets ex-official, cultural narrative promoted",
-  "narrative": "China's official media and social platforms on June 2 highlight a mix of cultural propaganda, political scrutiny, and natural disaster preparedness. The top-trending item promotes President Xi's quote on cultural strength, signaling continued emphasis on traditional culture as a tool for national rejuvenation. Meanwhile, the investigation of Li Xiaohong, former head of the Central Inspection Team, underscores the ongoing anti-corruption campaign within party institutions. Separately, a non-official viral story about a mountaineer missing the summit due to overcrowding on Everest reflects public interest in adventure and safety, though it does not carry political weight.\n\nIn foreign affairs, China's foreign ministry rebuked Philippine Defense Minister for alleged ungratefulness, reiterating tensions over South China Sea issues. Domestically, the full onset of the flood season, especially in the south, prompts concern about disaster response capabilities, especially after a recent case of online abuse against a village official during flood relief was punished. New regulations targeting 'ghost kitchens' in food delivery aim to improve food safety, with police cracking down on fake permits.\n\nMarket data shows modest gains in Chinese stock indices, with the ChiNext up 2.66%, while the yuan remains stable against the dollar. The mention of DeepSeek price cuts on Weibo hints at competitive dynamics in AI services, though details are scarce.",
-  "narrative_zh": "2026年6月2日，中国官方媒体和社交平台主要关注以下议题：文化自信宣传、反腐调查、自然灾害应对及外交交锋。排名第一的条目引用习近平关于文化兴国的论述，强调传统文化作为民族复兴的动力。前中央巡视办主任黎晓宏被查，显示反腐败斗争持续深入。一则关于博主因登山路线拥堵未能登顶珠峰的新闻引发热议，反映公众对探险安全的关注，但无政治色彩。\n\n外交方面，外交部发言人毛宁批评菲律宾防长缺乏感恩之心，凸显南海紧张局势。国内全面进入汛期，南方可能发生超警洪水，官方强调防灾准备。近期发生网暴抗洪村干部事件，警方已查处。网络餐饮新规实施，警方破获证件造假案，打击'幽灵外卖'。\n\n市场方面，上证指数微涨，创业板指涨2.66%，人民币汇率稳定。微博上提及DeepSeek降价，暗示AI服务领域竞争加剧。",
-  "market_snapshot": "SSE Composite 4075.102 ▲0.16% · Shenzhen Component 15591.128 ▲0.10% · ChiNext 4055.871 ▲2.66% · USD/CNY 6.7619 ▼0.04% · USD/CNH 6.7607 ▼0.03%",
+  "headline": "Corruption Probe of County Party Chief; Xi's Cultural Legacy Highlighted",
+  "narrative": "The most prominent story is the investigation of Qinyuan County Party Chief Zhao Yongjin for serious discipline violations, underscoring the ongoing anti-corruption campaign at the grassroots level. Meanwhile, state media spotlight Xi Jinping's cultural tours, reinforcing ideological messaging. Other notable items include a public apology from fast-food chain Lao Xiang Ji for mishandling pets in restaurants, the passing of actor Wei Zongwan, and a provincial governor's underground mine inspection. On foreign affairs, China criticizes the Philippine defense minister for lack of gratitude over aid. These stories collectively reflect a mix of continued governance tightening, cultural narrative building, and domestic incident management.",
+  "narrative_zh": "最突出的新闻是山西沁源县委书记赵永进被查，显示反腐败行动持续深入基层。同时，媒体大力宣传习近平的文化足迹，强化意识形态。其他重要事件包括老乡鸡就餐厅宠物问题道歉、演员魏宗万去世、安徽省长下矿井检查安全，以及中方批评菲防长涉华言论。这些信号表明当前焦点为反腐、文化宣传、民生事件管理及外交回应。",
+  "market_snapshot": "SSE Composite 4075.102 ▲0.16% · Shenzhen Component 15591.128 ▲0.10% · ChiNext 4055.871 ▲2.66% · USD/CNY 6.7613 ▼0.05% · USD/CNH 6.7625 ▼0.00%",
   "themes": [
+    "Anti-corruption",
     "Cultural Propaganda",
-    "Anti-Corruption",
-    "Flood Preparedness",
-    "South China Sea Tensions",
-    "Food Safety Regulation",
-    "Public Safety"
+    "Public Relations",
+    "Safety Inspection",
+    "Foreign Policy",
+    "Celebrity Death"
   ],
   "entities": [
+    "Zhao Yongjin",
     "Xi Jinping",
-    "Li Xiaohong",
+    "Lao Xiang Ji",
+    "Wei Zongwan",
+    "Wang Qingxian",
     "Philippine Defense Minister",
     "Mao Ning",
-    "DeepSeek",
-    "Everest"
+    "Qinyuan County",
+    "Anhui Province"
   ],
   "top_stories": [
     {
       "rank": 1,
+      "weight": 41.8,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot",
+        "weibo_hot"
+      ],
+      "platform_count": 3,
+      "primary_title": "山西长治市沁源县委书记赵永进被查",
+      "english_title": "Qinyuan County Party Chief Zhao Yongjin Investigated for Corruption",
+      "why_it_matters": "Highlights continued anti-corruption efforts at the local level, reinforcing party discipline.",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 6
+        },
+        {
+          "platform": "weibo_hot",
+          "rank": 2
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "weight": 32.0,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "文化兴国运兴",
-      "english_title": "Xi's Cultural Strength Quote Trending",
-      "why_it_matters": "Reinforces regime's ideological emphasis on traditional culture for national rejuvenation.",
+      "primary_title": "习近平的文化足迹",
+      "english_title": "Xi Jinping's Cultural Footprint Showcased",
+      "why_it_matters": "Underlines the leadership's emphasis on cultural heritage as a source of national pride and ideological unity.",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%96%87%E5%8C%96%E8%B6%B3%E8%BF%B9",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -51,18 +83,18 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "weight": 28.8,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "差77米登顶珠峰 因人太多无奈放弃",
-      "english_title": "Mountaineer Abandons Summit Due to Crowds",
-      "why_it_matters": "Highlights overcrowding on Everest and public interest in adventure safety.",
+      "primary_title": "老乡鸡道歉",
+      "english_title": "Lao Xiang Ji Apologizes for Pet Policy Incident",
+      "why_it_matters": "Reflects consumer expectations for clear policies and corporate accountability in China's service industry.",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%AE77%E7%B1%B3%E7%99%BB%E9%A1%B6%E7%8F%A0%E5%B3%B0+%E5%9B%A0%E4%BA%BA%E5%A4%AA%E5%A4%9A%E6%97%A0%E5%A5%88%E6%94%BE%E5%BC%83",
+      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%B9%A1%E9%B8%A1%E9%81%93%E6%AD%89",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -75,18 +107,18 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "weight": 25.6,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "黎晓宏被查",
-      "english_title": "Ex-Anti-Graft Chief Li Xiaohong Investigated",
-      "why_it_matters": "Signals continued high-level anti-corruption scrutiny within party disciplinary bodies.",
+      "primary_title": "94版三国演义司马懿饰演者魏宗万去世",
+      "english_title": "Wei Zongwan, Actor of 1994 'Three Kingdoms' Sima Yi, Dies at 89",
+      "why_it_matters": "Mourned as a beloved actor; his roles in classic adaptations remain culturally significant.",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%8E%E6%99%93%E5%AE%8F%E8%A2%AB%E6%9F%A5",
+      "url": "https://www.baidu.com/s?wd=94%E7%89%88%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%8F%B8%E9%A9%AC%E6%87%BF%E9%A5%B0%E6%BC%94%E8%80%85%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -99,18 +131,18 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "weight": 22.4,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "全国全面入汛 如何应对严峻形势",
-      "english_title": "China Enters Full Flood Season",
-      "why_it_matters": "Raises concerns over disaster response, especially in southern regions expecting heavy flooding.",
+      "primary_title": "一文了解汛期知识、避险方法",
+      "english_title": "China Enters Flood Season; Safety Tips Circulated",
+      "why_it_matters": "Annual flood season prompts public awareness and disaster preparedness campaigns.",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%85%A5%E6%B1%9B+%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E4%B8%A5%E5%B3%BB%E5%BD%A2%E5%8A%BF",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E6%B1%9B%E6%9C%9F%E7%9F%A5%E8%AF%86%E3%80%81%E9%81%BF%E9%99%A9%E6%96%B9%E6%B3%95",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -123,18 +155,18 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "weight": 19.2,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "中方：菲防长完全没有知恩感恩之心",
-      "english_title": "China Rebukes Philippine Defense Minister",
-      "why_it_matters": "Reflects ongoing South China Sea tensions and diplomatic friction with Manila.",
+      "primary_title": "安徽省省长深入煤矿井下910多米检查",
+      "english_title": "Anhui Governor Inspects Coal Mine Safety 910 Meters Underground",
+      "why_it_matters": "Signals high-level attention to industrial safety and risk prevention in the mining sector.",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%8F%B2%E9%98%B2%E9%95%BF%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%9C%89%E7%9F%A5%E6%81%A9%E6%84%9F%E6%81%A9%E4%B9%8B%E5%BF%83",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%9C%81%E7%9C%81%E9%95%BF%E6%B7%B1%E5%85%A5%E7%85%A4%E7%9F%BF%E4%BA%95%E4%B8%8B910%E5%A4%9A%E7%B1%B3%E6%A3%80%E6%9F%A5",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -143,30 +175,6 @@
         {
           "platform": "tencent_wechat_hot",
           "rank": 5
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "weight": 16.0,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
-      ],
-      "platform_count": 2,
-      "primary_title": "连锁餐饮公司竟开幽灵外卖",
-      "english_title": "Crackdown on 'Ghost Kitchens' in Food Delivery",
-      "why_it_matters": "New regulations aim to improve food safety by targeting unlicensed online restaurants.",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E9%A4%90%E9%A5%AE%E5%85%AC%E5%8F%B8%E7%AB%9F%E5%BC%80%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 6
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 6
         }
       ]
     },
@@ -178,11 +186,11 @@
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "网警查处网暴救灾村支书的网民",
-      "english_title": "Police Punish Online Abusers of Flood Relief Official",
-      "why_it_matters": "Demonstrates state enforcement against cyber violence during disaster relief.",
+      "primary_title": "中方：菲防长完全没有知恩感恩之心",
+      "english_title": "China Criticizes Philippine Defense Minister for Ungrateful Remarks",
+      "why_it_matters": "Indicates ongoing tensions in South China Sea relations and China's expectation of reciprocity.",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E7%BD%91%E6%9A%B4%E6%95%91%E7%81%BE%E6%9D%91%E6%94%AF%E4%B9%A6%E7%9A%84%E7%BD%91%E6%B0%91",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%8F%B2%E9%98%B2%E9%95%BF%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%9C%89%E7%9F%A5%E6%81%A9%E6%84%9F%E6%81%A9%E4%B9%8B%E5%BF%83",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -201,11 +209,11 @@
         "weibo_hot"
       ],
       "platform_count": 1,
-      "primary_title": "DeepSeek降价",
-      "english_title": "DeepSeek Price Cuts Mentioned on Weibo",
-      "why_it_matters": "Suggests competitive pricing moves in the AI industry, though details are limited.",
+      "primary_title": "演员魏宗万去世",
+      "english_title": "Actor Wei Zongwan Passes Away",
+      "why_it_matters": "Reinforces the cultural impact of Wei's performances and public interest in classic television.",
       "category": "social",
-      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DDeepSeek%E9%99%8D%E4%BB%B7&v_p=42",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%BC%94%E5%91%98%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96&v_p=42",
       "appearances": [
         {
           "platform": "weibo_hot",
@@ -218,7 +226,7 @@
     "baidu_top": 10,
     "weibo_hot": 10,
     "tencent_wechat_hot": 10,
-    "xinhua_news": 20,
+    "xinhua_news": 15,
     "thepaper_news": 20,
     "ladymax_news": 21,
     "gov_regulatory": 2,
