@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T06:44:45+08:00",
+  "updated_at": "2026-06-02T15:30:22+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -563,6 +563,130 @@
             "tencent_wechat_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "patriotic messaging": {
+      "label": "Patriotic messaging",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "美丽的中国梦属于你们",
+          "english_title": "Xi Jinping's Children's Day message emphasizes Chinese Dream",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A2%A6%E5%B1%9E%E4%BA%8E%E4%BD%A0%E4%BB%AC",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "middle east diplomacy": {
+      "label": "Middle East diplomacy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "中方代表：呼吁立即实现停火止战",
+          "english_title": "China calls for immediate ceasefire in Lebanon-Israel at UN",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%AE%9E%E7%8E%B0%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "online governance": {
+      "label": "Online governance",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "深圳“卷尺哥”找茬1000多次之后",
+          "english_title": "Citizen 'Tape-measure man' files over 1,000 municipal complaints",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E2%80%9C%E5%8D%B7%E5%B0%BA%E5%93%A5%E2%80%9D%E6%89%BE%E8%8C%AC1000%E5%A4%9A%E6%AC%A1%E4%B9%8B%E5%90%8E",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "网暴救灾村干部戴“金耳环”者被罚",
+          "english_title": "Netizen fined for mocking flood-relief official's gold earrings",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%9A%B4%E6%95%91%E7%81%BE%E6%9D%91%E5%B9%B2%E9%83%A8%E6%88%B4%E2%80%9C%E9%87%91%E8%80%B3%E7%8E%AF%E2%80%9D%E8%80%85%E8%A2%AB%E7%BD%9A",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "demographic policy": {
+      "label": "Demographic policy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "美丽的中国梦属于你们",
+          "english_title": "Xi Jinping's Children's Day message emphasizes Chinese Dream",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A2%A6%E5%B1%9E%E4%BA%8E%E4%BD%A0%E4%BB%AC",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "disaster response": {
+      "label": "Disaster response",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "全国全面入汛 如何应对严峻形势",
+          "english_title": "China enters annual flood season with severe weather warnings",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%85%A5%E6%B1%9B+%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E4%B8%A5%E5%B3%BB%E5%BD%A2%E5%8A%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "overseas citizen safety": {
+      "label": "Overseas citizen safety",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-02",
+          "title": "深圳“卷尺哥”找茬1000多次之后",
+          "english_title": "Citizen 'Tape-measure man' files over 1,000 municipal complaints",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E2%80%9C%E5%8D%B7%E5%B0%BA%E5%93%A5%E2%80%9D%E6%89%BE%E8%8C%AC1000%E5%A4%9A%E6%AC%A1%E4%B9%8B%E5%90%8E",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "中国驻柬使馆敦促柬方全力侦办中国公民遇害案件",
+          "english_title": "China urges Cambodia to solve murder case of Chinese citizens",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjeDROX244V25XTS1PMUhUQkxiMHZBOXZWOW81YVEyU3h5WW1ZaVcxOWx6M3VEYnJnQ1RNbElyUnpDbzNzN1BUVHZBYTJKSVZ1cjZpVm5kNzNweFBkR1VLVkJvbFRzTGJQYW5UQUhNMjVHT3pSWVRORFNLWENZcVU?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
         }
       ]
     }
