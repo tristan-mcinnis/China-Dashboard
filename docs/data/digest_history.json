@@ -1,8 +1,289 @@
 {
-  "as_of": "2026-06-03T23:45:17+08:00",
+  "as_of": "2026-06-04T06:44:22+08:00",
   "source": "daily_digest archive",
-  "count": 15,
+  "count": 16,
   "entries": [
+    {
+      "as_of": "2026-06-04T06:44:22+08:00",
+      "date": "2026-06-04",
+      "time_label": "Morning Brief",
+      "beijing_time": "06:43",
+      "digest_type": "morning",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "MSCI adds 19 A-shares; Pinglu Canal opens; Tiger Brokers halts mainland accounts",
+      "headline_zh": "MSCI新增19只A股；平陆运河通水；老虎证券暂停内地客户开仓",
+      "narrative": "Today' s data flow signals a dual-track strategy: Beijing is simultaneously deepening market access for foreign investors (MSCI inclusion) and tightening the screws on capital outflows (Tiger Brokers curbs). The Pinglu Canal's full navigation marks a landmark infrastructure milestone, reinforcing the regime's capacity for mega-project delivery and water network integration. Meanwhile, the corruption trial of former Inner Mongolia chair Wang Lixia underscores the Party's sustained anti-graft campaign even at senior levels. On the external front, China's tungsten hunt in the US and Nissan-Chery deal reflect the intensifying critical minerals race and auto sector globalization.",
+      "narrative_zh": "今日数据流显示双轨策略：北京一方面是深化外资准入（MSCI纳入），另一方面是收紧资本外流（老虎证券限制）。平陆运河全线通水标志着基础设施里程碑，巩固了政府交付大型项目和水网整合的能力。同时，内蒙古原主席王莉霞受审表明反腐持续进行。对外，中国在美钨矿搜寻和日产-奇瑞协议反映了关键矿产竞争和汽车业全球化加剧。",
+      "market_snapshot": "SSE Composite 4083.974 ▲0.65% · Shenzhen Component 15704.711 ▲2.37% · ChiNext 4122.987 ▲1.65% · USD/CNY 6.7687 ▲0.10% · USD/CNH 6.7789 ▲0.28%",
+      "themes": [
+        "market access",
+        "infrastructure",
+        "regulatory tightening",
+        "anti-corruption",
+        "critical minerals",
+        "AI entrepreneurship"
+      ],
+      "theme_trends": {
+        "market access": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "infrastructure": {
+          "status": "rising",
+          "days_seen": 2
+        },
+        "regulatory tightening": {
+          "status": "rising",
+          "days_seen": 2
+        },
+        "anti-corruption": {
+          "status": "rising",
+          "days_seen": 2
+        },
+        "critical minerals": {
+          "status": "rising",
+          "days_seen": 2
+        },
+        "AI entrepreneurship": {
+          "status": "recurring",
+          "days_seen": 3
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "跑好历史接力赛",
+          "english_title": "Xi replies to young pioneers, urging them to follow the Party",
+          "why_it_matters": "The letter reinforces ideological transmission to youth ahead of the 105th Party anniversary next year.",
+          "why_it_matters_zh": "此信在建党105周年前夕强化了对青少年的意识形态传递。",
+          "pull_quote": "“高举队旗跟党走” emphasizes Party leadership over youth organizations.",
+          "pull_quote_zh": "“高举队旗跟党走”强调党对青少年组织的领导。",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E5%A5%BD%E5%8E%86%E5%8F%B2%E6%8E%A5%E5%8A%9B%E8%B5%9B"
+        },
+        {
+          "primary_title": "《新闻联播》披露A股重要数据",
+          "english_title": "MSCI adds 19 A-shares to China Index",
+          "why_it_matters": "Inclusion signals continued international capital market opening and boosts passive fund inflows.",
+          "why_it_matters_zh": "纳入表明资本市场持续开放，将带来被动资金流入。",
+          "pull_quote": "19 A-shares added to MSCI China Index, effective June 1.",
+          "pull_quote_zh": "19只A股于6月1日纳入MSCI中国指数。",
+          "pillar": "economy",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE"
+        },
+        {
+          "primary_title": "经纬度：平陆运河全线通水，大国水网再添标志性工程",
+          "english_title": "Pinglu Canal fully navigable, a milestone in national water network",
+          "why_it_matters": "The major infrastructure project boosts internal connectivity and showcases engineering prowess.",
+          "why_it_matters_zh": "重大基建项目提升内部连通性，展示工程能力。",
+          "pull_quote": "The canal connects the Xijiang River system to the Beibu Gulf, shortening shipping distance by 560 km.",
+          "pull_quote_zh": "该运河连接西江水系与北部湾，缩短航程560公里。",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press",
+            "thepaper_news"
+          ],
+          "platform_count": 2,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUZ1dmQU5XWHp5cmVEQ253XzNISHVKOGpxTHZKMU52ajRzNGZ6MTFmVGpJaVIzS3N1NU5LN09ERkp2X25uMUpTenVtdjZtWjRBajFxWXp5VEc3eEVIc0ZpUg?oc=5"
+        },
+        {
+          "primary_title": "“国家不让你胖” 也没让你瘦啊",
+          "english_title": "'Weight Management Year' campaign goes viral",
+          "why_it_matters": "The state-led health campaign taps into public concern and blends surveillance with wellness.",
+          "why_it_matters_zh": "政府主导的健康运动呼应公众关切，融合监控与健康管理。",
+          "pull_quote": "“国家不让你胖” became a trending meme, sparking discussions on government involvement in personal health.",
+          "pull_quote_zh": "“国家不让你胖”成为热梗，引发对政府介入个人健康的讨论。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%AE%B6%E4%B8%8D%E8%AE%A9%E4%BD%A0%E8%83%96%E2%80%9D+%E4%B9%9F%E6%B2%A1%E8%AE%A9%E4%BD%A0%E7%98%A6%E5%95%8A"
+        },
+        {
+          "primary_title": "中国“水上电梯”创造多个世界第一",
+          "english_title": "'Water elevator' at Pinglu Canal sets world records",
+          "why_it_matters": "The engineering feat underscores China's capability in building massive hydraulic infrastructure.",
+          "why_it_matters_zh": "工程壮举凸显中国建设大型水利基础设施的能力。",
+          "pull_quote": "Madou ship lift has a 29.6m drop, the world's largest.",
+          "pull_quote_zh": "马道枢纽水位差29.6米，世界最大。",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF%E2%80%9D%E5%88%9B%E9%80%A0%E5%A4%9A%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80"
+        },
+        {
+          "primary_title": "联合国安理会改选非常任理事国 菲律宾落选",
+          "english_title": "Philippines fails to win UN Security Council seat",
+          "why_it_matters": "The loss is a diplomatic setback for Manila and a win for China-backed candidates in the region.",
+          "why_it_matters_zh": "落选是马尼拉的外交挫折，有利于中国支持的区域候选国。",
+          "pull_quote": "Philippines lost to [other country] in the election for a non-permanent seat.",
+          "pull_quote_zh": "菲律宾在非常任理事国选举中输给[另一国家]。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mU1pwM044X3hXNC15Szh0UW1GN3czQWxiUHVQRWlwcE1ZS3RPMlVNVEdKWTFlMHNxTGJ0WUpuY1FvMDNIWEZBREtSRV95ckdRQzRXYkM2SUhZcGw4cVJaZHVpZS1YMTRCTVVsM1dBaFRoTTdnU3RJcktlRGRYRkU?oc=5"
+        },
+        {
+          "primary_title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "AI-powered cybersecurity test announced by CAC",
+          "why_it_matters": "Signals regulatory push to integrate AI into state security apparatus.",
+          "why_it_matters_zh": "表明监管层推动人工智能融入国家安全体系。",
+          "pull_quote": "Test will evaluate AI applications in network security defense.",
+          "pull_quote_zh": "测试将评估人工智能在网络安全防御中的应用。",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "platform_count": 1,
+          "source": "网信办",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm"
+        },
+        {
+          "primary_title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
+          "english_title": "Former Inner Mongolia chair Wang Lixia to stand trial for corruption",
+          "why_it_matters": "The case highlights continued high-level anti-corruption efforts; Wang is a rare female provincial chief facing trial.",
+          "why_it_matters_zh": "该案凸显持续的高层反腐；王是少有的受审女性省级正职。",
+          "pull_quote": "Wang is accused of taking bribes from 2002 to 2021 while holding various posts.",
+          "pull_quote_zh": "王被指控在2002至2021年间利用职务便利受贿。",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Caixin",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45QnNra2tNWkNrMHVSNTc4WVJSR2dFQk5kemRqcnQycmNZdF80ZzlDbXdMUHJsZ1dhb0VTRkVCdWJ2d1VjRDV2MGRldGRxUDMtdGRkMWJuSV91Uy1YbnJj?oc=5"
+        },
+        {
+          "primary_title": "Analysis: China’s Local Fiscal Recovery Hides Scramble to Plug Budget Holes",
+          "english_title": "China's local fiscal recovery masks budget holes",
+          "why_it_matters": "Despite headline revenue growth, local governments rely on land sales and transfers to plug deficits.",
+          "why_it_matters_zh": "尽管收入增长，地方政府仍依赖土地出让和转移支付弥补赤字。",
+          "pull_quote": "Caixin analysis shows non-tax revenue surged 12% in Q1 as local governments scramble for funds.",
+          "pull_quote_zh": "财新分析显示一季度非税收入激增12%，地方政府抢抓资金。",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Caixin Global",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzhqaGZnZ3RkeFF0SjY5dTdxV0l6a29MTkoxUXhqa1JYV3Zwakhhc2FoZTJMTVp4RHlmQXg4WXpKZzM1eElQNjVsZ1RaU3NSYS1Vcm1mazgxaUdNTTdfc0ZBbkk4a29ldVNzS1FxYmpWLVhoOGRENmIzWGp0Q2RvTExsOURYZ3J0c3JTbkdjZktBd2JRLXcyM2syRU5GTS1RbkozMENHMWZPc18xdzVqbjZwOWRzSXg3X3k3a1U4TURtb0thYUQ4?oc=5"
+        },
+        {
+          "primary_title": "老虎证券6月12日起将停止存量用户中国境内开仓加仓",
+          "english_title": "Tiger Brokers to stop mainland clients from opening new positions",
+          "why_it_matters": "The ban tightens capital outflow controls and pressures offshore brokerages.",
+          "why_it_matters_zh": "禁令收紧资本外流管控，给跨境券商施压。",
+          "pull_quote": "Effective June 12, existing mainland users cannot add positions in China.",
+          "pull_quote_zh": "自6月12日起，存量内地用户不得在中国境内开仓加仓。",
+          "pillar": "regulatory",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Caixin",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tUVVvbGVEWXRrdWFac1RUMVhHeHVIWTZidDVfNDA4dzAwbjBqczlaRGFrYUlpejc3d1BueDlENTNSckFsMThQTE9EczVfaEsxV1pPQmFoMnR6RFRuV3dNTEZ3?oc=5"
+        },
+        {
+          "primary_title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+          "english_title": "Ex-Meituan food delivery tech lead founds AI startup",
+          "why_it_matters": "The move shows talent flow from big tech to embodied AI, targeting restaurant digitization.",
+          "why_it_matters_zh": "这表明人才从大厂流向具身智能领域，瞄准餐饮数字化。",
+          "pull_quote": "The startup aims to build a 'world model for food service' using AI.",
+          "pull_quote_zh": "该公司旨在利用AI构建“餐饮世界模型”。",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYy1KdkM2TGRVb2liS3BPN3hBU0hQcXFpV0dGREg4c3hBNW1JclBtNl9OUUU3MEs1NVlWRUtQdkFqSU1JdHJ2aWJRWlhkUQ?oc=5"
+        },
+        {
+          "primary_title": "Nissan signs deal with China’s Chery for Sunderland car production",
+          "english_title": "Nissan partners with Chery for UK car production",
+          "why_it_matters": "Chinese automaker enters UK market via partnership, signaling global expansion despite tariffs.",
+          "why_it_matters_zh": "中国车企通过合作进入英国市场，显示在关税下的全球扩张。",
+          "pull_quote": "Deal involves Chery building Nissan models at Sunderland plant.",
+          "pull_quote_zh": "协议涉及奇瑞在桑德兰工厂生产日产车型。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWZfNm5OTVRjVVVoWFcyZTNpMTk0bDE5WDBUbDcwemdkaG1SYjRQSDJmcUZUdnV4SVpOeUptODhBdkNaX0R1VmQ3V1U4YlVfUUhCM1Y0YjAwRW5HTWlYaVRLTlhZd1ZhcnVTamw0aXZkOWppYVdKczEtUXRCWHk3NjYyXzU?oc=5"
+        },
+        {
+          "primary_title": "China’s hunt for US tungsten escalates global critical minerals race",
+          "english_title": "China's tungsten hunt in US escalates critical minerals race",
+          "why_it_matters": "China seeks to control sources of strategic mineral amid supply chain decoupling.",
+          "why_it_matters_zh": "在供应链脱钩背景下，中国寻求控制战略矿产来源。",
+          "pull_quote": "Chinese firms are acquiring US tungsten assets, raising national security concerns.",
+          "pull_quote_zh": "中国企业收购美国钨矿资产，引发国家安全担忧。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-03T23:45:17+08:00",
       "date": "2026-06-03",
