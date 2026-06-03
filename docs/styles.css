@@ -30,6 +30,7 @@
   --space-2: 0.5rem;
   --space-3: 0.75rem;
   --space-4: 1rem;
+  --space-5: 1.25rem;
   --space-6: 1.5rem;
   --space-8: 2rem;
   --space-12: 3rem;
@@ -1624,28 +1625,24 @@ a.bilingual-text {
   padding: 0;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: var(--space-2);
-  counter-reset: brief;
+  gap: var(--space-3);
 }
 
 .brief-story {
-  counter-increment: brief;
   position: relative;
-  padding: var(--space-3) var(--space-3) var(--space-3) var(--space-5);
+  padding: var(--space-4);
   background: var(--color-bg-primary);
   border: 1px solid var(--color-border-subtle);
   border-radius: var(--radius-md);
+  /* A quiet left accent reads as a list marker without the floating dot
+     that used to collide with the source label. */
+  border-left: 2px solid transparent;
+  transition: border-color 0.15s ease, background 0.15s ease;
 }
 
-.brief-story::before {
-  content: "";
-  position: absolute;
-  left: var(--space-3);
-  top: calc(var(--space-3) + 0.45rem);
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
-  background: var(--color-text-brand);
+.brief-story:hover {
+  border-left-color: var(--color-text-brand);
+  background: var(--color-bg-secondary);
 }
 
 .brief-market {
@@ -1688,13 +1685,14 @@ a.bilingual-text {
 }
 
 .brief-story-source {
+  flex: none;
   font-family: var(--font-mono);
   font-size: 0.62rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.03em;
   color: var(--color-text-brand);
-  margin-right: var(--space-2);
+  white-space: nowrap;
 }
 
 .brief-story-quote {
@@ -1708,13 +1706,19 @@ a.bilingual-text {
 }
 
 .brief-story-title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 2px var(--space-2);
   font-size: 0.9rem;
   font-weight: 600;
   line-height: 1.3;
   color: var(--color-text-primary);
 }
 
-.brief-story-title a {
+.brief-story-title a,
+.brief-story-title span {
+  min-width: 0;
   color: inherit;
   text-decoration: none;
 }
