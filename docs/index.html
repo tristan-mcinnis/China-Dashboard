@@ -55,13 +55,28 @@
         <div class="brief-header">
           <div class="brief-title-row">
             <h2 class="brief-title">Today's Brief</h2>
-            <span class="brief-meta" id="brief-meta">Synthesizing…</span>
+            <div class="brief-history" aria-live="polite">
+              <button type="button" class="history-button" id="brief-prev" aria-label="Older brief" title="Older brief">‹</button>
+              <span class="brief-meta" id="brief-meta">Synthesizing…</span>
+              <button type="button" class="history-button" id="brief-next" aria-label="Newer brief" title="Newer brief">›</button>
+            </div>
           </div>
           <div class="brief-actions">
-            <button type="button" class="brief-action brief-lang" id="brief-lang" title="Switch the brief between English and Chinese" aria-label="Switch brief language">中文</button>
-            <button type="button" class="brief-action" id="brief-copy" title="Copy the Markdown brief to clipboard">Copy MD</button>
-            <a class="brief-action" id="brief-md-link" href="data/digest.md" target="_blank" rel="noopener">.md</a>
-            <a class="brief-action" id="brief-json-link" href="data/daily_digest.json" target="_blank" rel="noopener">.json</a>
+            <button type="button" class="brief-lang" id="brief-lang" title="Read the brief in Chinese" aria-label="Switch brief language">中文</button>
+            <div class="brief-export" role="group" aria-label="Export today's brief">
+              <button type="button" class="brief-action" id="brief-copy" title="Copy the Markdown brief to your clipboard">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="8" y="2" width="8" height="4" rx="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/></svg>
+                <span class="brief-label">Copy</span>
+              </button>
+              <a class="brief-action" id="brief-md-link" href="data/digest.md" target="_blank" rel="noopener" title="Open the raw Markdown brief in a new tab">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+                <span class="brief-label">.md</span>
+              </a>
+              <a class="brief-action" id="brief-json-link" href="data/daily_digest.json" target="_blank" rel="noopener" title="Open the raw JSON feed in a new tab">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+                <span class="brief-label">.json</span>
+              </a>
+            </div>
           </div>
         </div>
         <p class="brief-headline" id="brief-headline"></p>

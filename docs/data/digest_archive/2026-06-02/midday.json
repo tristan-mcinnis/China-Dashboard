@@ -237,5 +237,31 @@
     "indices": 4,
     "fx": 4
   },
-  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement."
+  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement.",
+  "theme_trends": {
+    "Patriotic messaging": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "Middle East diplomacy": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Online governance": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Demographic policy": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Disaster response": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Overseas citizen safety": {
+      "status": "rising",
+      "days_seen": 1
+    }
+  }
 }

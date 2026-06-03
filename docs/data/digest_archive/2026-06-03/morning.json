@@ -475,5 +475,31 @@
     "indices": 4,
     "fx": 4
   },
-  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement."
+  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement.",
+  "theme_trends": {
+    "China-US tech competition": {
+      "status": "rising",
+      "days_seen": 2
+    },
+    "critical minerals race": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "anti-corruption": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "regulatory tightening on youth": {
+      "status": "rising",
+      "days_seen": 2
+    },
+    "cultural soft power": {
+      "status": "rising",
+      "days_seen": 2
+    },
+    "aging economy tech": {
+      "status": "rising",
+      "days_seen": 2
+    }
+  }
 }

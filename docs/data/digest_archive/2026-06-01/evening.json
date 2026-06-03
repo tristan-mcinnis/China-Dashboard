@@ -226,5 +226,31 @@
     "indices": 4,
     "fx": 4
   },
-  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement."
+  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement.",
+  "theme_trends": {
+    "political education": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Taiwan unification": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "chip war": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "AI controversy": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "consumer fraud": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "parental anxiety": {
+      "status": "new",
+      "days_seen": 0
+    }
+  }
 }

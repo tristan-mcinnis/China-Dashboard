@@ -42,6 +42,15 @@ DATA_DIR = "docs/data"
 DIGEST_JSON = f"{DATA_DIR}/daily_digest.json"
 DIGEST_MD = f"{DATA_DIR}/digest.md"
 ARCHIVE_DIR = f"{DATA_DIR}/digest_archive"
+# Consolidated, newest-first index of past briefs so the static dashboard can
+# flip through earlier snapshots (the per-date/slot files can't be listed over
+# GitHub Pages). Slimmed + bounded to keep the single fetch light.
+HISTORY_JSON = f"{DATA_DIR}/digest_history.json"
+HISTORY_LIMIT = 60
+
+# Theme trend window: how a theme is moving relative to the past week of briefs.
+THEME_TREND_WINDOW_DAYS = 7
+THEME_RECURRING_DAYS = 3  # appeared on >= this many distinct prior days => recurring
 
 # Trending platforms contribute to cross-platform salience scoring.
 SOCIAL_SOURCES = ["baidu_top", "weibo_hot", "tencent_wechat_hot"]
@@ -612,6 +621,75 @@ def _slot(hour: int) -> tuple[str, str]:
     return "evening", "Evening Brief"
 
 
+def _prior_briefs() -> list[tuple[str, list[dict]]]:
+    """(date, top_stories) for each archived brief. Called before this run's
+    archive is written, so it reflects strictly *prior* briefs."""
+    out: list[tuple[str, list[dict]]] = []
+    for path in Path(ARCHIVE_DIR).glob("*/*.json"):
+        try:
+            with open(path, encoding="utf-8") as f:
+                d = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            continue
+        out.append((d.get("date", ""), d.get("top_stories", [])))
+    return out
+
+
+def _theme_in_story(theme: str, story: dict) -> bool:
+    """Whether a story is about a theme. Same keyword relation the tag index /
+    hashtag view uses, but with word-boundary matching so short tokens like
+    "us" don't spuriously match "industry"."""
+    from collectors.tags_index import story_text, tag_keywords
+
+    text = story_text(story)
+    for kw in tag_keywords(theme):
+        if re.fullmatch(r"[a-z0-9]+", kw):  # Latin token: match whole word
+            if re.search(rf"\b{re.escape(kw)}\b", text):
+                return True
+        elif kw in text:  # CJK run: no word boundaries to anchor
+            return True
+    return False
+
+
+def _theme_trends(themes: list[str], today: str) -> dict:
+    """Classify each of today's themes as new / rising / recurring by how many
+    distinct prior days in the trailing week had a story about that theme.
+
+    Keyword matching (not exact strings) is essential: DeepSeek rephrases themes
+    every run ("US-China relations" vs "China-US tech competition"), so the same
+    underlying topic only lines up at the keyword level."""
+    briefs = _prior_briefs()
+    try:
+        t0 = datetime.strptime(today, "%Y-%m-%d").date()
+    except ValueError:
+        t0 = None
+
+    out: dict[str, dict] = {}
+    for theme in themes:
+        days: set[str] = set()
+        for date, stories in briefs:
+            if not date or date == today:
+                continue  # same-day runs don't count as "prior"
+            if t0 is not None:
+                try:
+                    delta = (t0 - datetime.strptime(date, "%Y-%m-%d").date()).days
+                except ValueError:
+                    continue
+                if not (0 < delta <= THEME_TREND_WINDOW_DAYS):
+                    continue
+            if any(_theme_in_story(theme, s) for s in stories):
+                days.add(date)
+        n = len(days)
+        if n == 0:
+            status = "new"
+        elif n >= THEME_RECURRING_DAYS:
+            status = "recurring"
+        else:
+            status = "rising"
+        out[theme] = {"status": status, "days_seen": n}
+    return out
+
+
 def build_digest() -> dict:
     sources = [
         "baidu_top", "weibo_hot", "tencent_wechat_hot",
@@ -704,6 +782,7 @@ def build_digest() -> dict:
         "narrative_zh": meta["narrative_zh"],
         "market_snapshot": market,
         "themes": meta["themes"],
+        "theme_trends": _theme_trends(meta["themes"], now.strftime("%Y-%m-%d")),
         "entities": meta["entities"],
         "pillars": pillars,
         "top_stories": top_stories,
@@ -718,6 +797,64 @@ def build_digest() -> dict:
     return digest
 
 
+def _slim_for_history(d: dict) -> dict:
+    """Keep only the fields the dashboard brief actually renders, so the
+    consolidated history file stays small even with dozens of snapshots."""
+    stories = [
+        {
+            "primary_title": s.get("primary_title", ""),
+            "english_title": s.get("english_title", ""),
+            "why_it_matters": s.get("why_it_matters", ""),
+            "why_it_matters_zh": s.get("why_it_matters_zh", ""),
+            "pull_quote": s.get("pull_quote", ""),
+            "pull_quote_zh": s.get("pull_quote_zh", ""),
+            "pillar": s.get("pillar", ""),
+            "platforms": s.get("platforms", []),
+            "platform_count": s.get("platform_count", 0),
+            "source": s.get("source", ""),
+            "url": s.get("url", ""),
+        }
+        for s in d.get("top_stories", [])
+    ]
+    return {
+        "as_of": d.get("as_of", ""),
+        "date": d.get("date", ""),
+        "time_label": d.get("time_label", ""),
+        "beijing_time": d.get("beijing_time", ""),
+        "digest_type": d.get("digest_type", ""),
+        "generated_by": d.get("generated_by", ""),
+        "headline": d.get("headline", ""),
+        "headline_zh": d.get("headline_zh", ""),
+        "narrative": d.get("narrative", ""),
+        "narrative_zh": d.get("narrative_zh", ""),
+        "market_snapshot": d.get("market_snapshot", ""),
+        "themes": d.get("themes", []),
+        "theme_trends": d.get("theme_trends", {}),
+        "pillars": d.get("pillars", []),
+        "top_stories": stories,
+    }
+
+
+def _rebuild_history() -> None:
+    """Re-derive the newest-first brief history from the on-disk archive."""
+    snaps: list[dict] = []
+    for path in Path(ARCHIVE_DIR).glob("*/*.json"):
+        try:
+            with open(path, encoding="utf-8") as f:
+                snaps.append(json.load(f))
+        except (OSError, json.JSONDecodeError):
+            continue
+    snaps.sort(key=lambda d: d.get("as_of", ""), reverse=True)
+    entries = [_slim_for_history(d) for d in snaps[:HISTORY_LIMIT]]
+    payload = {
+        "as_of": now_iso_tz8(),
+        "source": "daily_digest archive",
+        "count": len(entries),
+        "entries": entries,
+    }
+    write_json(HISTORY_JSON, payload, indent=2, min_items=0)
+
+
 def main() -> None:
     digest = build_digest()
 
@@ -726,6 +863,9 @@ def main() -> None:
 
     archive_path = f"{ARCHIVE_DIR}/{digest['date']}/{digest['digest_type']}.json"
     write_json(archive_path, digest, indent=2, min_items=0)
+
+    # Refresh the consolidated history index (reads the archive we just wrote).
+    _rebuild_history()
 
     # Fold this run's themed stories into the cumulative tag index so the
     # dashboard's clickable tags accrue historical depth over time.

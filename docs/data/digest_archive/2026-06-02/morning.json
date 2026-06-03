@@ -233,5 +233,31 @@
     "indices": 4,
     "fx": 4
   },
-  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement."
+  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement.",
+  "theme_trends": {
+    "Ideological indoctrination": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "AI monetization": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "Humanoid robotics": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Flood season preparedness": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Social media virality": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "Education success": {
+      "status": "rising",
+      "days_seen": 1
+    }
+  }
 }

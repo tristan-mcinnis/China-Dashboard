@@ -1528,12 +1528,33 @@ a.bilingual-text {
   cursor: help;
 }
 
-.brief-actions {
-  display: flex;
+/* Prev/next through saved briefs — laid out like the trending cards: the
+   snapshot label sits between the two arrows and doubles as the timestamp. */
+.brief-history {
+  display: inline-flex;
+  align-items: center;
   gap: var(--space-2);
 }
 
-.brief-action {
+.brief-history .history-button {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.brief-history .brief-meta {
+  min-width: 15rem;
+  text-align: center;
+}
+
+.brief-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+/* Language toggle: a standalone pill, distinct from the export controls so
+   it reads as a view switch rather than another download. */
+.brief-lang {
   font-family: var(--font-mono);
   font-size: 0.7rem;
   color: var(--color-text-secondary);
@@ -1542,13 +1563,55 @@ a.bilingual-text {
   border-radius: var(--radius-sm);
   padding: var(--space-1) var(--space-2);
   cursor: pointer;
-  text-decoration: none;
   transition: color 0.15s ease, border-color 0.15s ease;
 }
 
+.brief-lang:hover {
+  color: var(--color-text-primary);
+  border-color: var(--color-text-tertiary);
+}
+
+/* Export: one segmented control grouping copy + raw-file links. The shared
+   frame signals "these belong together"; icons signal what each one does. */
+.brief-export {
+  display: inline-flex;
+  align-items: stretch;
+  background: var(--color-bg-tertiary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.brief-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--color-text-secondary);
+  background: transparent;
+  border: none;
+  border-left: 1px solid var(--color-border);
+  padding: var(--space-1) var(--space-2);
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+
+.brief-action:first-child {
+  border-left: none;
+}
+
 .brief-action:hover {
-  color: var(--color-text-accent);
-  border-color: var(--color-text-accent);
+  color: var(--color-text-primary);
+  background: var(--color-bg-card);
+}
+
+.brief-action svg {
+  width: 13px;
+  height: 13px;
+  flex: none;
+  opacity: 0.65;
 }
 
 .brief-headline {
@@ -1633,6 +1696,23 @@ a.bilingual-text {
   outline: none;
 }
 
+/* Trend marker: how a theme is moving across the past week — new this week,
+   rising, or recurring. Kept monochrome so it reads as a status, not a color. */
+.brief-theme-trend {
+  margin-left: 0.4em;
+  font-size: 0.9em;
+  font-weight: 600;
+  opacity: 0.6;
+}
+
+.brief-theme--new {
+  border-color: var(--color-text-tertiary);
+}
+
+.brief-theme--new .brief-theme-trend {
+  opacity: 0.95;
+}
+
 .brief-stories {
   list-style: none;
   margin: 0;
@@ -1649,15 +1729,12 @@ a.bilingual-text {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-card);
-  /* A quiet left accent reads as a list marker without the floating dot
-     that used to collide with the source label. */
-  border-left: 2px solid transparent;
   transition: box-shadow 0.18s ease, transform 0.18s ease,
-              border-left-color 0.18s ease;
+              border-color 0.18s ease;
 }
 
 .brief-story:hover {
-  border-left-color: var(--color-text-brand);
+  border-color: var(--color-border);
   box-shadow: var(--shadow-card-hover);
   transform: translateY(-2px);
 }

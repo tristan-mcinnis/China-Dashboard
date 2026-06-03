@@ -233,5 +233,31 @@
     "indices": 4,
     "fx": 4
   },
-  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement."
+  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement.",
+  "theme_trends": {
+    "Anti-corruption": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Cultural Propaganda": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "Public Relations": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "Safety Inspection": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "Foreign Policy": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "Celebrity Death": {
+      "status": "new",
+      "days_seen": 0
+    }
+  }
 }

@@ -1450,10 +1450,15 @@ let _briefDigest = null;
 let briefLang = 'en';
 let _briefAnimated = false;
 
-async function renderDigest(preloaded) {
+// Render a single brief snapshot (live or historical). Pure: the caller
+// decides which digest object to show; history navigation reuses this.
+function renderBriefEntry(digest) {
   const meta = document.getElementById('brief-meta');
+  if (!digest) {
+    if (meta) meta.textContent = 'Brief unavailable';
+    return;
+  }
   try {
-    const digest = preloaded || await loadJSON('data/daily_digest.json');
     _briefDigest = digest;
     const zh = briefLang === 'zh';
     // Prefer the Chinese field in 中文 mode, falling back to English when absent.
@@ -1515,12 +1520,34 @@ async function renderDigest(preloaded) {
     const themes = document.getElementById('brief-themes');
     if (themes) {
       themes.innerHTML = '';
+      const trends = digest.theme_trends || {};
+      // How a theme is moving across the past week. Glyph + tooltip; monochrome
+      // so it reads as a status rather than another accent colour.
+      const TREND = {
+        new: { glyph: '✦', label: (n) => 'New this week' },
+        rising: { glyph: '↑', label: (n) => `Rising · seen ${n} day${n === 1 ? '' : 's'} this week` },
+        recurring: { glyph: '↻', label: (n) => `Recurring · seen ${n} days this week` },
+      };
       (digest.themes || []).forEach((t) => {
         const chip = document.createElement('button');
         chip.type = 'button';
         chip.className = 'brief-theme';
-        chip.textContent = t;
-        chip.title = `Show stories tagged “${t}”`;
+        const tr = trends[t];
+        const meta = tr && TREND[tr.status];
+        const labelSpan = document.createElement('span');
+        labelSpan.textContent = t;
+        chip.appendChild(labelSpan);
+        if (meta) {
+          if (tr.status === 'new') chip.classList.add('brief-theme--new');
+          const mark = document.createElement('span');
+          mark.className = 'brief-theme-trend';
+          mark.textContent = meta.glyph;
+          mark.setAttribute('aria-hidden', 'true');
+          chip.appendChild(mark);
+          chip.title = `${meta.label(tr.days_seen)} — show stories tagged “${t}”`;
+        } else {
+          chip.title = `Show stories tagged “${t}”`;
+        }
         chip.addEventListener('click', () => openTagView(t));
         themes.appendChild(chip);
       });
@@ -1693,23 +1720,60 @@ async function renderDigest(preloaded) {
     }
   } catch (error) {
     if (meta) meta.textContent = 'Brief unavailable';
-    console.error('Failed to load digest:', error);
+    console.error('Failed to render brief:', error);
   }
+}
+
+// Prev/next navigation through saved briefs, reusing the same HistoryController
+// the trending cards use. Entries are newest-first full digest snapshots.
+let briefHistory = null;
+
+async function loadBriefHistory() {
+  let entries = [];
+  try {
+    const hist = await loadJSON('data/digest_history.json');
+    if (hist && Array.isArray(hist.entries)) entries = hist.entries;
+  } catch (e) {
+    // Archive index missing (e.g. first deploy): fall back to the live brief.
+  }
+  if (!entries.length) {
+    try {
+      entries = [await loadJSON('data/daily_digest.json')];
+    } catch (e) {
+      renderBriefEntry(null);
+      return;
+    }
+  }
+
+  if (!briefHistory) {
+    briefHistory = new HistoryController({
+      prevButton: document.getElementById('brief-prev'),
+      nextButton: document.getElementById('brief-next'),
+      // The brief's meta line already shows the snapshot's label/date/time,
+      // so the controller drives rendering rather than a separate timestamp.
+      timestampElement: null,
+      render: (entry) => renderBriefEntry(entry),
+    });
+  }
+  // setEntries preserves the viewer's position by as_of, so the 30s refresh
+  // won't yank someone back to "live" while they're reading an older brief.
+  briefHistory.setEntries(entries);
 }
 
 // Copy the Markdown brief to clipboard
 async function copyDigestMarkdown(button) {
+  // Update only the text label so the leading icon survives the swap.
+  const label = button.querySelector('.brief-label') || button;
   try {
     const res = await fetch(`data/digest.md?t=${Date.now()}`);
     const text = await res.text();
     await navigator.clipboard.writeText(text);
-    const original = button.textContent;
-    button.textContent = 'Copied ✓';
-    setTimeout(() => { button.textContent = original; }, 1800);
+    label.textContent = 'Copied';
+    setTimeout(() => { label.textContent = 'Copy'; }, 1800);
   } catch (e) {
     console.error('Copy failed:', e);
-    button.textContent = 'Copy failed';
-    setTimeout(() => { button.textContent = 'Copy MD'; }, 1800);
+    label.textContent = 'Failed';
+    setTimeout(() => { label.textContent = 'Copy'; }, 1800);
   }
 }
 
@@ -1722,7 +1786,7 @@ document.addEventListener('DOMContentLoaded', () => {
       briefLang = briefLang === 'en' ? 'zh' : 'en';
       // The button shows the language you can switch TO.
       langBtn.textContent = briefLang === 'en' ? '中文' : 'EN';
-      if (_briefDigest) renderDigest(_briefDigest);
+      if (_briefDigest) renderBriefEntry(_briefDigest);
     });
   }
 });
@@ -1777,7 +1841,7 @@ function renderKpiStrip({ indices, fx, nbsMonthly, tradeData, propertyData }) {
 
 async function render() {
   try {
-    renderDigest();
+    loadBriefHistory();
 
     const [
       indices,

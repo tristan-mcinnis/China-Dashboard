@@ -223,5 +223,31 @@
     "indices": 4,
     "fx": 4
   },
-  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement."
+  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement.",
+  "theme_trends": {
+    "Children's Day": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Youth Education": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "E-cigarette Regulation": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Social Media Revival": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Scientific Publishing": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Consumer Safety": {
+      "status": "new",
+      "days_seen": 0
+    }
+  }
 }

@@ -435,5 +435,27 @@
     "indices": 4,
     "fx": 4
   },
-  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement."
+  "disclaimer": "Auto-generated from public Chinese sources for informational use only. Salience reflects cross-platform attention, not editorial endorsement.",
+  "theme_trends": {
+    "US-China relations": {
+      "status": "rising",
+      "days_seen": 2
+    },
+    "tech decoupling": {
+      "status": "rising",
+      "days_seen": 2
+    },
+    "military tensions": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "de-dollarization": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "ideological consolidation": {
+      "status": "rising",
+      "days_seen": 2
+    }
+  }
 }
