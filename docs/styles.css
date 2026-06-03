@@ -46,6 +46,10 @@
   --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
   --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+
+  /* Cool-tinted card depth (more refined than flat black drop shadows) */
+  --shadow-card: 0 1px 2px rgba(15, 23, 42, 0.04), 0 2px 8px rgba(15, 23, 42, 0.05);
+  --shadow-card-hover: 0 8px 20px rgba(15, 23, 42, 0.10), 0 2px 6px rgba(15, 23, 42, 0.06);
 }
 
 /* News Ticker */
@@ -666,11 +670,13 @@ body.tag-mode .brief-market {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
   padding: var(--space-4);
-  transition: border-color 0.2s ease;
+  box-shadow: var(--shadow-card);
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
 }
 
 .card:hover {
-  border-color: var(--color-border);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-2px);
 }
 
 .card-header {
@@ -1259,6 +1265,12 @@ a.bilingual-text {
   background: var(--color-bg-card);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md, 8px);
+  box-shadow: var(--shadow-card);
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+}
+.kpi:hover {
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-2px);
 }
 .kpi-label {
   font-size: 0.62rem;
@@ -1467,7 +1479,9 @@ a.bilingual-text {
 /* Today's Brief — DeepSeek cross-source digest hero                       */
 /* ---------------------------------------------------------------------- */
 .brief {
-  background: linear-gradient(180deg, var(--color-bg-secondary), var(--color-bg-card));
+  background:
+    radial-gradient(120% 80% at 0% 0%, rgba(37, 99, 235, 0.04), transparent 60%),
+    var(--color-bg-secondary);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
   padding: var(--space-6);
@@ -1631,18 +1645,21 @@ a.bilingual-text {
 .brief-story {
   position: relative;
   padding: var(--space-4);
-  background: var(--color-bg-primary);
-  border: 1px solid var(--color-border-subtle);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
   /* A quiet left accent reads as a list marker without the floating dot
      that used to collide with the source label. */
   border-left: 2px solid transparent;
-  transition: border-color 0.15s ease, background 0.15s ease;
+  transition: box-shadow 0.18s ease, transform 0.18s ease,
+              border-left-color 0.18s ease;
 }
 
 .brief-story:hover {
   border-left-color: var(--color-text-brand);
-  background: var(--color-bg-secondary);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-2px);
 }
 
 /* A lone or odd trailing card spans the full width of the two-column grid. */
