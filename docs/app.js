@@ -1584,7 +1584,13 @@ async function renderDigest() {
           }
           li.appendChild(title);
 
-          if (s.primary_title && s.english_title && s.primary_title !== titleText) {
+          // Only show the original-language line when it is a real CJK headline,
+          // never an English restatement of an English-source title.
+          if (
+            s.primary_title &&
+            s.primary_title !== titleText &&
+            /[㐀-鿿豈-﫿]/.test(s.primary_title)
+          ) {
             const zh = document.createElement('div');
             zh.className = 'brief-story-zh';
             zh.textContent = s.primary_title;
@@ -1598,7 +1604,13 @@ async function renderDigest() {
             li.appendChild(why);
           }
 
-          if (s.pull_quote) {
+          // Skip a pull quote that merely echoes the title (no new information).
+          const normQ = (s.pull_quote || '').replace(/\s+/g, '').toLowerCase();
+          const echoes = [titleText, s.primary_title].some((t) => {
+            const n = (t || '').replace(/\s+/g, '').toLowerCase();
+            return n && normQ && (n.includes(normQ) || normQ.includes(n));
+          });
+          if (s.pull_quote && !echoes) {
             const quote = document.createElement('blockquote');
             quote.className = 'brief-story-quote';
             quote.textContent = s.pull_quote;

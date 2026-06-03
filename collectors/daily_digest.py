@@ -117,6 +117,53 @@ def _normalize(title: str) -> str:
     return re.sub(r"\s+", "", _clean_title(title).lower())
 
 
+_CJK_RE = re.compile(r"[㐀-鿿豈-﫿]")
+
+
+def _has_cjk(text: str) -> bool:
+    """True if the string contains Han characters (so it is a real ZH title)."""
+    return bool(_CJK_RE.search(text or ""))
+
+
+# Western desks whose name often gets baked into the headline ("FT: ...").
+_KNOWN_OUTLETS = (
+    "ft", "financial times", "wsj", "wall street journal", "bloomberg",
+    "reuters", "scmp", "south china morning post", "nikkei", "the economist",
+    "nyt", "new york times", "caixin", "yicai",
+)
+
+
+def _strip_outlet_prefix(title: str, source: str = "") -> str:
+    """Drop a leading "Outlet:" / "Outlet -" tag so it does not duplicate the
+    source badge already shown on the card (e.g. "FT: China-US Tech Truce")."""
+    t = (title or "").strip()
+    if not t:
+        return t
+    prefixes = set(_KNOWN_OUTLETS)
+    if source:
+        prefixes.add(source.strip().lower())
+    m = re.match(r"\s*([A-Za-z][A-Za-z.&'’\s]{1,28}?)\s*[:\-–—]\s+", t)
+    if m and m.group(1).strip().lower().rstrip(".") in prefixes:
+        return t[m.end():].strip()
+    return t
+
+
+def _is_restatement(quote: str, *titles: str) -> bool:
+    """True if a pull quote merely echoes a title (no new information)."""
+    q = _normalize(quote)
+    if not q:
+        return True
+    for t in titles:
+        n = _normalize(t)
+        if not n:
+            continue
+        if q in n or n in q:
+            return True
+        if difflib.SequenceMatcher(None, q, n).ratio() >= 0.7:
+            return True
+    return False
+
+
 def _similar(a: str, b: str) -> bool:
     if not a or not b:
         return False
@@ -362,9 +409,19 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
         f"MARKET SNAPSHOT: {market or 'n/a'}\n\n"
         f"RANKED ITEMS:\n" + "\n".join(story_lines) + "\n\n"
         f"Allowed pillar values: {pillar_keys}.\n\n"
+        "PILLAR RULES:\n"
+        "- Xi Jinping, the Politburo, Party ideology, personnel moves and "
+        "anti-corruption cases belong in 'politics', even when they are also "
+        "trending socially.\n"
+        "- 'society' (What's Trending) is only for genuinely non-institutional "
+        "viral culture, entertainment and consumer stories.\n"
+        "- This is a CHINA brief. If an item has no real China angle (e.g. a purely "
+        "foreign story like a Middle East ceasefire), set its pillar to 'drop'. Do "
+        "NOT invent a China hook to keep it. Also 'drop' pure feel-good propaganda or "
+        "trivia that carries no analytical signal.\n\n"
         "Return STRICT JSON with this shape:\n"
         "{\n"
-        '  "headline": "<=90 char English top-of-mind takeaway — the single biggest thing",\n'
+        '  "headline": "<=90 char English top-of-mind takeaway: the single biggest thing",\n'
         '  "narrative": "1-2 punchy paragraphs (the Lead-in): name the most important '
         'structural story of the day and say what it signals. Be specific and analytical, '
         'not a list. No filler like \'X is trending across platforms\'.",\n'
@@ -372,10 +429,11 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
         '  "themes": ["3-6 short theme tags"],\n'
         '  "entities": ["key people/orgs/places mentioned"],\n'
         '  "stories": [{"index": <1-based index above>, '
-        '"pillar": "<one of the allowed pillar values — reclassify if the provisional tag is wrong>", '
-        '"english_title": "concise EN title", '
+        '"pillar": "<one allowed pillar value, or \'drop\' to exclude. Reclassify if the provisional tag is wrong>", '
+        '"english_title": "concise EN title; do NOT prefix the outlet name (the source is shown separately)", '
         '"why_it_matters": "one crisp sentence on why this matters / what to read between the lines", '
-        '"pull_quote": "optional <=140 char quote or hard fact distilled from the item (\\"\\" if none)"}]\n'
+        '"pull_quote": "optional <=140 char quote or hard fact that ADDS information beyond the title. '
+        'Must not restate the headline. Use \\"\\" if you have nothing genuinely new"}]\n'
         "}\n"
         "Cover every ranked item in stories. JSON only."
     )
@@ -407,7 +465,7 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
                     "english_title": (s.get("english_title") or "").strip(),
                     "why_it_matters": (s.get("why_it_matters") or "").strip(),
                     "pull_quote": (s.get("pull_quote") or "").strip(),
-                    "pillar": pillar if pillar in PILLAR_LABELS else "",
+                    "pillar": pillar if pillar in PILLAR_LABELS or pillar == "drop" else "",
                 }
         meta = {
             "headline": (parsed.get("headline") or "").strip(),
@@ -482,8 +540,10 @@ def _render_markdown(digest: dict) -> str:
             plats = ", ".join(PLATFORM_LABELS.get(p, p) for p in s["platforms"])
             src = s.get("source") or plats
             title = s.get("english_title") or s["primary_title"]
-            lines.append(f"- **{title}** — _{src}_  ")
-            if title != s["primary_title"]:
+            lines.append(f"- **{title}** _{src}_  ")
+            # Only show the original-language line when it is a real ZH headline,
+            # never an English restatement of the English title.
+            if title != s["primary_title"] and _has_cjk(s["primary_title"]):
                 lines.append(f"  {s['primary_title']}  ")
             if s.get("why_it_matters"):
                 lines.append(f"  {s['why_it_matters']}  ")
@@ -549,19 +609,34 @@ def build_digest() -> dict:
     for i, s in enumerate(stories):
         override = overrides.get(i, {})
         pillar = override.get("pillar") or s.get("pillar_hint") or "society"
+        # DeepSeek flags items with no real China angle (or pure puff) as "drop".
+        if pillar == "drop":
+            continue
+
+        source = s.get("source", "")
+        primary_title = _strip_outlet_prefix(s["primary_title"], source)
+        english_title = _strip_outlet_prefix(
+            override.get("english_title", "") or s.get("english_hint", ""), source
+        )
+
+        # Drop a pull quote that just echoes either title (adds no information).
+        pull_quote = override.get("pull_quote", "")
+        if _is_restatement(pull_quote, primary_title, english_title):
+            pull_quote = ""
+
         top_stories.append(
             {
-                "rank": i + 1,
+                "rank": len(top_stories) + 1,
                 "weight": s["weight"],
                 "platforms": s["platforms"],
                 "platform_count": s["platform_count"],
-                "primary_title": s["primary_title"],
-                "english_title": override.get("english_title", "") or s.get("english_hint", ""),
+                "primary_title": primary_title,
+                "english_title": english_title,
                 "why_it_matters": override.get("why_it_matters", ""),
-                "pull_quote": override.get("pull_quote", ""),
+                "pull_quote": pull_quote,
                 "pillar": pillar,
                 "pillar_label": PILLAR_LABELS.get(pillar, ""),
-                "source": s.get("source", ""),
+                "source": source,
                 "category": _categorize(s["primary_title"], s["platforms"]),
                 "url": s["url"],
                 "appearances": s["appearances"],

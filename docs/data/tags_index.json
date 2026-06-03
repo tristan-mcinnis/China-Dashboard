@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T10:38:21+08:00",
+  "updated_at": "2026-06-03T11:12:05+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -740,9 +740,19 @@
       ]
     },
     "anti-corruption": {
-      "label": "anti-corruption",
-      "count": 3,
+      "label": "Anti-Corruption",
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+          "english_title": "Former Xiaotiantian team enters elderly hardware market with home care focus, eyes overseas",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjVnUyQTN1MWx0anJtVTIxeFVoMTZKTFRUSUJZdjlPQmY4N0JQRVBVTWdjS2szcFpXcWVTTVR6M096R1FYaGZxdjhvSEJhdw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-03",
           "title": "山西长治市沁源县委书记赵永进被查",
@@ -1301,6 +1311,166 @@
             "elite_press"
           ],
           "category": "press"
+        }
+      ]
+    },
+    "xi jinping": {
+      "label": "Xi Jinping",
+      "count": 4,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+          "english_title": "Former Xiaotiantian team enters elderly hardware market with home care focus, eyes overseas",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjVnUyQTN1MWx0anJtVTIxeFVoMTZKTFRUSUJZdjlPQmY4N0JQRVBVTWdjS2szcFpXcWVTTVR6M096R1FYaGZxdjhvSEJhdw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "山西长治市沁源县委书记赵永进被查",
+          "english_title": "Shanxi county party secretary Zhao Yongjin investigated for discipline violations",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "老乡鸡道歉",
+          "english_title": "Local chicken chain Lao Xiang Ji issues apology after pet incident",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%B9%A1%E9%B8%A1%E9%81%93%E6%AD%89",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "习近平的文化足迹",
+          "english_title": "Xi Jinping continues cultural site tours to highlight historical continuity",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%96%87%E5%8C%96%E8%B6%B3%E8%BF%B9",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "us-china tech truce": {
+      "label": "US-China Tech Truce",
+      "count": 7,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "China’s hunt for US tungsten escalates global critical minerals race",
+          "english_title": "China's search for US tungsten intensifies global critical minerals race",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "US-China tech truce described as fragile",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+          "english_title": "Shenzhen Capital Group leads nearly 100 million yuan round in plant fiber leather startup Peelsphere",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+          "english_title": "Former Xiaotiantian team enters elderly hardware market with home care focus, eyes overseas",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjVnUyQTN1MWx0anJtVTIxeFVoMTZKTFRUSUJZdjlPQmY4N0JQRVBVTWdjS2szcFpXcWVTTVR6M096R1FYaGZxdjhvSEJhdw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "“耿同学”打假再有战果 《自然》答财新：正评估相关信息",
+          "english_title": "Whistleblower 'Comrade Geng' continues crackdown on research misconduct; Nature responds",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQ0pxMW9nS2d6b0RkLWY1TTlYR1BaOGltMXloRHVpZWlxM3lTaUcxLUd6ckJBMTExSVRWajBUbXBRcVJMQjJYLV9VZjlWa2J1Y2stS2pTRnNTSm1JTlRFamFR?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "剧本杀密室逃脱须适龄管控 最高法、市监总局发布典型案例",
+          "english_title": "Supreme Court and SAMR issue typical cases on age restrictions for script murder and escape rooms",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNmZfSUNYTGY1TGtfX3hOM1JuQ0NFU1ROak9VQlllZnRRMGR4ai1Vd0lqdndmUlBqQjJxd0VIS1h3bjB5eF9kMGFha3pBSGM2MUdpbVF2bVVoWDRILW1F?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC launches test announcement for AI-empowered cybersecurity applications",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "critical minerals": {
+      "label": "Critical Minerals",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "China’s hunt for US tungsten escalates global critical minerals race",
+          "english_title": "China's search for US tungsten intensifies global critical minerals race",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "county-level governance": {
+      "label": "County-Level Governance",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "山西长治市沁源县委书记赵永进被查",
+          "english_title": "Shanxi county party secretary Zhao Yongjin investigated for discipline violations",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
         }
       ]
     }
