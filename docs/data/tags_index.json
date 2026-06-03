@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T15:34:06+08:00",
+  "updated_at": "2026-06-03T20:11:23+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -741,8 +741,18 @@
     },
     "anti-corruption": {
       "label": "anti-corruption",
-      "count": 4,
+      "count": 5,
       "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
+          "english_title": "Former Inner Mongolia chair Wang Lixia to stand trial for corruption",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45QnNra2tNWkNrMHVSNTc4WVJSR2dFQk5kemRqcnQycmNZdF80ZzlDbXdMUHJsZ1dhb0VTRkVCdWJ2d1VjRDV2MGRldGRxUDMtdGRkMWJuSV91Uy1YbnJj?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-03",
           "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
@@ -2006,6 +2016,250 @@
           "title": "2026年高考报名人数为1290万人",
           "english_title": "College entrance exam registrations fall to 12.9 million",
           "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B0%E4%B8%BA1290%E4%B8%87%E4%BA%BA",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "us-china trade war": {
+      "label": "US-China trade war",
+      "count": 10,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "US-China tech truce remains fragile",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "China’s hunt for US tungsten escalates global critical minerals race",
+          "english_title": "China's pursuit of US tungsten intensifies global critical minerals race",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+          "english_title": "Former Meituan food delivery tech lead launches startup for embodied AI in restaurants",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYy1KdkM2TGRVb2liS3BPN3hBU0hQcXFpV0dGREg4c3hBNW1JclBtNl9OUUU3MEs1NVlWRUtQdkFqSU1JdHJ2aWJRWlhkUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+          "english_title": "Shenzhen Capital Group leads nearly 100 million yuan investment in plant fiber leather brand PEELSPHERE",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "美国史上最广301调查公布：拟对60个经济体加征10%或12.5%的关税",
+          "english_title": "US announces broadest Section 301 investigation, targeting 60 economies with tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rcEZZVUVwQVFCUVE5M2xoVno2T2gzcXJYVkhwVW9KMml0MDYwb2dFNlpKNm55QUtSZ1dnMmpzLWkwbV9iYy1KYUMyTDNhYTVZMFAwN2hoczBtRUdRVTJJVGtyWFJlWkRNRnc?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC launches 2026 test of AI-powered cybersecurity applications",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "欧洲央行：黄金替代美元成全球官方储备第一大资产",
+          "english_title": "European Central Bank report: gold overtakes US dollar as top global reserve asset",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2aXdLbTNQQVV4SXkwZXNLMUtHWWxzQnlDWHE3bU1FbG5iNmFjcjIyMXhPbjVmeTctY0hTV2dCb2h3WUpsLXpEUEhlMWNJUnZwVU8tZDFEQ0l2MGZqZWR5T1o5YW9OUW4zR1ptZ1Zfc1RKYW42bUtzcW81ODlpZ1k?oc=5",
+          "platforms": [
+            "elite_press",
+            "xinhua_news"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "带入考场即构成作弊！多地提醒",
+          "english_title": "Education Ministry warns: bringing smart devices into exam hall constitutes cheating",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%A6%E5%85%A5%E8%80%83%E5%9C%BA%E5%8D%B3%E6%9E%84%E6%88%90%E4%BD%9C%E5%BC%8A%EF%BC%81%E5%A4%9A%E5%9C%B0%E6%8F%90%E9%86%92",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "教育部：坚决纠治高校奢华录取通知书",
+          "english_title": "Ministry of Education cracks down on extravagant admission letters and hype",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E7%BA%A0%E6%B2%BB%E9%AB%98%E6%A0%A1%E5%A5%A2%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "让社区成为居民最放心安心的港湾",
+          "english_title": "Xi Jinping calls for innovative community governance to improve services",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9%E7%A4%BE%E5%8C%BA%E6%88%90%E4%B8%BA%E5%B1%85%E6%B0%91%E6%9C%80%E6%94%BE%E5%BF%83%E5%AE%89%E5%BF%83%E7%9A%84%E6%B8%AF%E6%B9%BE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "capital controls": {
+      "label": "capital controls",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "US-China tech truce remains fragile",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+          "english_title": "Shenzhen Capital Group leads nearly 100 million yuan investment in plant fiber leather brand PEELSPHERE",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "老虎证券6月12日起将停止存量用户中国境内开仓加仓",
+          "english_title": "Tiger Brokers to halt onshore account opening and top-ups from June 12",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tUVVvbGVEWXRrdWFac1RUMVhHeHVIWTZidDVfNDA4dzAwbjBqczlaRGFrYUlpejc3d1BueDlENTNSckFsMThQTE9EczVfaEsxV1pPQmFoMnR6RFRuV3dNTEZ3?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "ai regulation": {
+      "label": "AI regulation",
+      "count": 9,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "US-China tech truce remains fragile",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+          "english_title": "Former Meituan food delivery tech lead launches startup for embodied AI in restaurants",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYy1KdkM2TGRVb2liS3BPN3hBU0hQcXFpV0dGREg4c3hBNW1JclBtNl9OUUU3MEs1NVlWRUtQdkFqSU1JdHJ2aWJRWlhkUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+          "english_title": "Shenzhen Capital Group leads nearly 100 million yuan investment in plant fiber leather brand PEELSPHERE",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "美国史上最广301调查公布：拟对60个经济体加征10%或12.5%的关税",
+          "english_title": "US announces broadest Section 301 investigation, targeting 60 economies with tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rcEZZVUVwQVFCUVE5M2xoVno2T2gzcXJYVkhwVW9KMml0MDYwb2dFNlpKNm55QUtSZ1dnMmpzLWkwbV9iYy1KYUMyTDNhYTVZMFAwN2hoczBtRUdRVTJJVGtyWFJlWkRNRnc?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
+          "english_title": "Former Inner Mongolia chair Wang Lixia to stand trial for corruption",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45QnNra2tNWkNrMHVSNTc4WVJSR2dFQk5kemRqcnQycmNZdF80ZzlDbXdMUHJsZ1dhb0VTRkVCdWJ2d1VjRDV2MGRldGRxUDMtdGRkMWJuSV91Uy1YbnJj?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "老虎证券6月12日起将停止存量用户中国境内开仓加仓",
+          "english_title": "Tiger Brokers to halt onshore account opening and top-ups from June 12",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tUVVvbGVEWXRrdWFac1RUMVhHeHVIWTZidDVfNDA4dzAwbjBqczlaRGFrYUlpejc3d1BueDlENTNSckFsMThQTE9EczVfaEsxV1pPQmFoMnR6RFRuV3dNTEZ3?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC launches 2026 test of AI-powered cybersecurity applications",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "欧洲央行：黄金替代美元成全球官方储备第一大资产",
+          "english_title": "European Central Bank report: gold overtakes US dollar as top global reserve asset",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2aXdLbTNQQVV4SXkwZXNLMUtHWWxzQnlDWHE3bU1FbG5iNmFjcjIyMXhPbjVmeTctY0hTV2dCb2h3WUpsLXpEUEhlMWNJUnZwVU8tZDFEQ0l2MGZqZWR5T1o5YW9OUW4zR1ptZ1Zfc1RKYW42bUtzcW81ODlpZ1k?oc=5",
+          "platforms": [
+            "elite_press",
+            "xinhua_news"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "教育部：坚决纠治高校奢华录取通知书",
+          "english_title": "Ministry of Education cracks down on extravagant admission letters and hype",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E7%BA%A0%E6%B2%BB%E9%AB%98%E6%A0%A1%E5%A5%A2%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6",
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot"
