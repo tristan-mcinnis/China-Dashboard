@@ -90,6 +90,7 @@ Current collectors:
 - `trade_data.py`: China trade data (exports, imports, balance) from EastMoney
 - `property_cn.py`: 70-city home price index from EastMoney/NBS
 - `gov_regulatory.py`: CSRC, CAC, SAMR regulatory announcements with DeepSeek translations
+- `elite_press.py`: Sinocism-style institutional sources via Google News RSS proxy, each tagged with a thematic `pillar` — party organs/official media (People's Daily, Qiushi → `politics`), domestic financial media (Caixin, Yicai, 21CBH → `economy`), tech/industry media (36Kr, Jiemian → `tech`), and Western elite press on China (FT, WSJ, Bloomberg, Reuters, SCMP → `geopolitics`). Chinese headlines translated with DeepSeek; English passed through.
 - `db_writer.py`: Utility to write collector data to Neon Postgres (requires DATABASE_URL)
 - `daily_digest.py`: Cross-source synthesis run after all collectors. Ranks stories by cross-platform salience, uses DeepSeek (`deepseek-v4-flash`) to write the narrative brief + per-story "why it matters", and falls back to a deterministic digest if DeepSeek is unavailable.
 
@@ -97,7 +98,7 @@ Current collectors:
 
 `daily_digest.py` is the aggregation/utility layer on top of the collectors. It does
 NOT follow the standard `items` schema. Outputs (all under `docs/data/`):
-- `daily_digest.json`: rich feed — `headline`, `narrative`/`narrative_zh`, `market_snapshot`, `themes`, `entities`, and ranked `top_stories[]` (each with `weight`, `platforms`, `platform_count`, `primary_title`, `english_title`, `why_it_matters`, `category`, `url`).
+- `daily_digest.json`: rich feed — `headline`, `narrative`/`narrative_zh` (a sharper Sinocism-style "Lead-in"), `market_snapshot`, `themes`, `entities`, `pillars[]` (ordered thematic blocks present this run), and ranked `top_stories[]` (each with `weight`, `platforms`, `platform_count`, `primary_title`, `english_title`, `why_it_matters`, `pull_quote`, `pillar`/`pillar_label`, `source`, `category`, `url`). Stories are grouped into the `pillars` blocks (High Politics, Economy & Markets, Industry/Tech, U.S.–China/Geopolitics, Regulatory, What's Trending) in both the dashboard hero and `digest.md`.
 - `digest.md`: human/LLM-friendly Markdown brief for downstream daily-digest pipelines.
 - `digest_archive/<date>/<slot>.json`: point-in-time snapshot (`slot` = morning/midday/evening).
 

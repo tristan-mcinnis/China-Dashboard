@@ -555,7 +555,8 @@ body {
    historical stories are the focus; the brief & KPI strip stay for context. */
 body.tag-mode .section,
 body.tag-mode .category-filter,
-body.tag-mode .brief-stories {
+body.tag-mode .brief-blocks,
+body.tag-mode .brief-market {
   display: none !important;
 }
 
@@ -1653,21 +1654,80 @@ a.bilingual-text {
 .brief-story {
   counter-increment: brief;
   position: relative;
-  padding: var(--space-3) var(--space-3) var(--space-3) var(--space-8);
+  padding: var(--space-3) var(--space-3) var(--space-3) var(--space-5);
   background: var(--color-bg-primary);
   border: 1px solid var(--color-border-subtle);
   border-radius: var(--radius-md);
 }
 
 .brief-story::before {
-  content: counter(brief);
+  content: "";
   position: absolute;
   left: var(--space-3);
-  top: var(--space-3);
+  top: calc(var(--space-3) + 0.45rem);
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--color-text-brand);
+}
+
+.brief-market {
   font-family: var(--font-mono);
-  font-size: 0.85rem;
+  font-size: 0.74rem;
+  color: var(--color-text-tertiary);
+  margin: calc(-1 * var(--space-1)) 0 var(--space-2);
+}
+
+/* --- Sinocism-style thematic blocks --------------------------------------- */
+.brief-blocks {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+
+.brief-block-head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+  margin-bottom: var(--space-2);
+  padding-bottom: var(--space-1);
+  border-bottom: 1px solid var(--color-border-subtle);
+}
+
+.brief-block-label {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
   font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-primary);
+}
+
+.brief-block-market {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--color-text-tertiary);
+  margin-left: auto;
+}
+
+.brief-story-source {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
   color: var(--color-text-brand);
+  margin-right: var(--space-2);
+}
+
+.brief-story-quote {
+  margin: var(--space-1) 0 0;
+  padding-left: var(--space-2);
+  border-left: 2px solid var(--color-border-subtle);
+  font-size: 0.78rem;
+  font-style: italic;
+  line-height: 1.45;
+  color: var(--color-text-tertiary);
 }
 
 .brief-story-title {

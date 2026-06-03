@@ -53,7 +53,46 @@ PLATFORM_LABELS = {
     "thepaper_news": "The Paper",
     "gov_regulatory": "Regulatory",
 }
-MAX_STORIES = 8
+MAX_STORIES = 16
+
+# Sinocism-style thematic blocks. Order here is the render order in the brief.
+PILLARS = [
+    ("politics", "High Politics & Ideology"),
+    ("economy", "Economy & Markets"),
+    ("tech", "Industry, Tech & Industrial Policy"),
+    ("geopolitics", "U.S.–China & Geopolitics"),
+    ("regulatory", "Regulatory Watch"),
+    ("society", "What's Trending"),
+]
+PILLAR_LABELS = dict(PILLARS)
+PILLAR_ORDER = [k for k, _ in PILLARS]
+
+# Soft per-pillar caps so no single block (usually social-trending) crowds out the
+# institutional reporting. Greedy selection over weight-sorted candidates fills the
+# highest-salience item in each pillar first.
+PILLAR_CAPS = {
+    "politics": 3,
+    "economy": 3,
+    "tech": 2,
+    "geopolitics": 3,
+    "regulatory": 2,
+    "society": 4,
+}
+
+# Default pillar for the legacy single-source feeds (DeepSeek may reclassify).
+SOURCE_PILLAR_DEFAULT = {
+    "baidu_top": "society",
+    "weibo_hot": "society",
+    "tencent_wechat_hot": "society",
+    "xinhua_news": "politics",
+    "thepaper_news": "society",
+    "gov_regulatory": "regulatory",
+}
+
+
+def _pillar_rank(pillar: str) -> int:
+    """Institutional pillars outrank ``society`` when a story merges across feeds."""
+    return 0 if pillar == "society" else 1
 
 
 # --------------------------------------------------------------------------- #
@@ -98,7 +137,17 @@ def _collect_candidates(data: dict) -> list[dict]:
     """
     clusters: list[dict] = []
 
-    def add_appearance(title: str, url: str, platform: str, rank: int, desc: str):
+    def add_appearance(
+        title: str,
+        url: str,
+        platform: str,
+        rank: int,
+        desc: str,
+        *,
+        pillar_hint: str = "society",
+        source_label: str = "",
+        english_hint: str = "",
+    ):
         clean = _clean_title(title)
         norm = _normalize(title)
         if not norm:
@@ -112,6 +161,15 @@ def _collect_candidates(data: dict) -> list[dict]:
                     c["description"] = desc
                 if not c["url"]:
                     c["url"] = url
+                # An institutional pillar/source outranks a generic social one.
+                if _pillar_rank(pillar_hint) > _pillar_rank(c["pillar_hint"]):
+                    c["pillar_hint"] = pillar_hint
+                    if source_label:
+                        c["source"] = source_label
+                if source_label and not c["source"]:
+                    c["source"] = source_label
+                if english_hint and not c["english_hint"]:
+                    c["english_hint"] = english_hint
                 return
         clusters.append(
             {
@@ -121,6 +179,9 @@ def _collect_candidates(data: dict) -> list[dict]:
                 "description": desc or "",
                 "platforms": {platform},
                 "appearances": [{"platform": platform, "rank": rank}],
+                "pillar_hint": pillar_hint,
+                "source": source_label,
+                "english_hint": english_hint,
             }
         )
 
@@ -135,6 +196,7 @@ def _collect_candidates(data: dict) -> list[dict]:
                 src,
                 rank,
                 extra.get("description", "") or extra.get("summary", ""),
+                pillar_hint="society",
             )
 
     # Top news headlines (single-source, lower base weight)
@@ -147,7 +209,24 @@ def _collect_candidates(data: dict) -> list[dict]:
                 src,
                 idx + 1,
                 extra.get("summary", ""),
+                pillar_hint=SOURCE_PILLAR_DEFAULT.get(src, "society"),
+                english_hint=extra.get("translation", "") or "",
             )
+
+    # Elite / institutional press — party organs, financial, tech, Western desks.
+    # These feed the High-Politics, Economy, Tech and Geopolitics blocks.
+    for idx, item in enumerate(data.get("elite_press", {}).get("items", [])):
+        extra = item.get("extra") or {}
+        add_appearance(
+            item.get("title", ""),
+            item.get("url", ""),
+            "elite_press",
+            idx + 1,
+            extra.get("summary", ""),
+            pillar_hint=extra.get("pillar", "society") or "society",
+            source_label=extra.get("source", "") or "",
+            english_hint=extra.get("translation", "") or "",
+        )
 
     # Regulatory announcements always matter for a China brief
     for idx, item in enumerate(data.get("gov_regulatory", {}).get("items", [])):
@@ -159,6 +238,8 @@ def _collect_candidates(data: dict) -> list[dict]:
             "gov_regulatory",
             idx + 1,
             f"{agency} announcement",
+            pillar_hint="regulatory",
+            source_label=agency,
         )
 
     for c in clusters:
@@ -179,9 +260,32 @@ def _score(cluster: dict) -> float:
 def _categorize(title: str, platforms: list[str]) -> str:
     if "gov_regulatory" in platforms:
         return "regulatory"
+    if "elite_press" in platforms:
+        return "press"
     if any(p in platforms for p in ("xinhua_news", "thepaper_news")):
         return "news"
     return "social"
+
+
+def _select_balanced(candidates: list[dict]) -> list[dict]:
+    """Pick a thematically balanced set, not just the top-N by social salience.
+
+    Candidates arrive weight-sorted, so a greedy pass with per-pillar caps keeps
+    the most salient item in each block while guaranteeing the institutional
+    pillars (politics, economy, tech, geopolitics) are represented rather than
+    being buried under high-velocity social-trending stories.
+    """
+    caps = dict(PILLAR_CAPS)
+    selected: list[dict] = []
+    for c in candidates:
+        pillar = c.get("pillar_hint", "society")
+        if caps.get(pillar, 0) <= 0:
+            continue
+        selected.append(c)
+        caps[pillar] -= 1
+        if len(selected) >= MAX_STORIES:
+            break
+    return selected
 
 
 # --------------------------------------------------------------------------- #
@@ -233,28 +337,47 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
 
     story_lines = []
     for i, s in enumerate(stories, 1):
-        plats = ", ".join(PLATFORM_LABELS.get(p, p) for p in s["platforms"])
-        desc = (s.get("description") or "")[:160]
-        story_lines.append(f'{i}. [{plats}] {s["primary_title"]} — {desc}')
+        src = s.get("source") or ", ".join(
+            PLATFORM_LABELS.get(p, p) for p in s["platforms"]
+        )
+        en = s.get("english_hint") or ""
+        desc = (s.get("description") or "")[:220]
+        title = s["primary_title"]
+        if en and en != title:
+            title = f"{title} ({en})"
+        story_lines.append(
+            f'{i}. [pillar={s["pillar_hint"]}; source={src}] {title} — {desc}'
+        )
 
+    pillar_keys = ", ".join(PILLAR_ORDER)
     prompt = (
-        f"You are a China analyst writing a concise daily intelligence brief for "
-        f"{beijing_date} (Beijing time). Below are the most salient trending topics, "
-        f"news headlines and regulatory items, already ranked by cross-platform salience, "
-        f"plus a market snapshot.\n\n"
+        f"You are a sharp, sober China analyst writing the daily intelligence brief for "
+        f"{beijing_date} (Beijing time), in the house style of an elite China newsletter "
+        f"(à la Sinocism). Your readers are analysts, investors and policymakers who already "
+        f"know the basic institutions — write peer-to-peer, no hand-holding. Treat the Party "
+        f"as an effective, ideological, institutional actor: avoid both boosterism and alarmism, "
+        f"apply measured skepticism to official triumphalism and to Western spin alike.\n\n"
+        f"Below are the day's most salient items, each tagged with a provisional thematic "
+        f"pillar and its source, plus a market snapshot.\n\n"
         f"MARKET SNAPSHOT: {market or 'n/a'}\n\n"
         f"RANKED ITEMS:\n" + "\n".join(story_lines) + "\n\n"
+        f"Allowed pillar values: {pillar_keys}.\n\n"
         "Return STRICT JSON with this shape:\n"
         "{\n"
-        '  "headline": "<=90 char English top-of-mind takeaway",\n'
-        '  "narrative": "2-3 short paragraphs of plain-English analysis of what these signals mean",\n'
-        '  "narrative_zh": "上述内容的简体中文摘要(2-3段)",\n'
+        '  "headline": "<=90 char English top-of-mind takeaway — the single biggest thing",\n'
+        '  "narrative": "1-2 punchy paragraphs (the Lead-in): name the most important '
+        'structural story of the day and say what it signals. Be specific and analytical, '
+        'not a list. No filler like \'X is trending across platforms\'.",\n'
+        '  "narrative_zh": "上述导读的简体中文版(1-2段)",\n'
         '  "themes": ["3-6 short theme tags"],\n'
         '  "entities": ["key people/orgs/places mentioned"],\n'
-        '  "stories": [{"index": <1-based index above>, "english_title": "concise EN title", '
-        '"why_it_matters": "one sentence on significance"}]\n'
+        '  "stories": [{"index": <1-based index above>, '
+        '"pillar": "<one of the allowed pillar values — reclassify if the provisional tag is wrong>", '
+        '"english_title": "concise EN title", '
+        '"why_it_matters": "one crisp sentence on why this matters / what to read between the lines", '
+        '"pull_quote": "optional <=140 char quote or hard fact distilled from the item (\\"\\" if none)"}]\n'
         "}\n"
-        "Cover every ranked item in stories. Be neutral and factual. JSON only."
+        "Cover every ranked item in stories. JSON only."
     )
 
     try:
@@ -279,9 +402,12 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
         for s in parsed.get("stories", []):
             idx = s.get("index")
             if isinstance(idx, int) and 1 <= idx <= len(stories):
+                pillar = (s.get("pillar") or "").strip().lower()
                 overrides[idx - 1] = {
                     "english_title": (s.get("english_title") or "").strip(),
                     "why_it_matters": (s.get("why_it_matters") or "").strip(),
+                    "pull_quote": (s.get("pull_quote") or "").strip(),
+                    "pillar": pillar if pillar in PILLAR_LABELS else "",
                 }
         meta = {
             "headline": (parsed.get("headline") or "").strip(),
@@ -341,17 +467,31 @@ def _render_markdown(digest: dict) -> str:
         lines += [f"**Markets:** {digest['market_snapshot']}", ""]
     if digest.get("themes"):
         lines += ["**Themes:** " + ", ".join(digest["themes"]), ""]
-    lines += ["## Top stories", ""]
-    for s in digest["top_stories"]:
-        plats = ", ".join(PLATFORM_LABELS.get(p, p) for p in s["platforms"])
-        title = s.get("english_title") or s["primary_title"]
-        lines.append(f"{s['rank']}. **{title}**  ")
-        lines.append(f"   {s['primary_title']} · _{plats}_ (salience {s['weight']})  ")
-        if s.get("why_it_matters"):
-            lines.append(f"   {s['why_it_matters']}  ")
-        if s.get("url"):
-            lines.append(f"   <{s['url']}>")
-        lines.append("")
+
+    # Group stories into Sinocism-style thematic blocks, in canonical order.
+    pillars = digest.get("pillars") or [
+        {"key": k, "label": v} for k, v in PILLARS
+    ]
+    stories = digest["top_stories"]
+    for pillar in pillars:
+        block = [s for s in stories if s.get("pillar") == pillar["key"]]
+        if not block:
+            continue
+        lines += [f"## {pillar['label']}", ""]
+        for s in block:
+            plats = ", ".join(PLATFORM_LABELS.get(p, p) for p in s["platforms"])
+            src = s.get("source") or plats
+            title = s.get("english_title") or s["primary_title"]
+            lines.append(f"- **{title}** — _{src}_  ")
+            if title != s["primary_title"]:
+                lines.append(f"  {s['primary_title']}  ")
+            if s.get("why_it_matters"):
+                lines.append(f"  {s['why_it_matters']}  ")
+            if s.get("pull_quote"):
+                lines.append(f"  > {s['pull_quote']}  ")
+            if s.get("url"):
+                lines.append(f"  <{s['url']}>")
+            lines.append("")
     lines += ["---", "", digest["disclaimer"], ""]
     return "\n".join(lines)
 
@@ -380,7 +520,7 @@ def build_digest() -> dict:
     sources = [
         "baidu_top", "weibo_hot", "tencent_wechat_hot",
         "xinhua_news", "thepaper_news", "ladymax_news",
-        "gov_regulatory", "indices", "fx",
+        "gov_regulatory", "elite_press", "indices", "fx",
     ]
     data = {name: _load(name) for name in sources}
 
@@ -389,7 +529,7 @@ def build_digest() -> dict:
     market = _market_snapshot(data)
 
     candidates = _collect_candidates(data)
-    stories = candidates[:MAX_STORIES]
+    stories = _select_balanced(candidates)
 
     synthesis = _deepseek_synthesis(stories, market, now.strftime("%Y-%m-%d"))
     generated_by = "deepseek-v4-flash"
@@ -408,6 +548,7 @@ def build_digest() -> dict:
     top_stories = []
     for i, s in enumerate(stories):
         override = overrides.get(i, {})
+        pillar = override.get("pillar") or s.get("pillar_hint") or "society"
         top_stories.append(
             {
                 "rank": i + 1,
@@ -415,13 +556,23 @@ def build_digest() -> dict:
                 "platforms": s["platforms"],
                 "platform_count": s["platform_count"],
                 "primary_title": s["primary_title"],
-                "english_title": override.get("english_title", ""),
+                "english_title": override.get("english_title", "") or s.get("english_hint", ""),
                 "why_it_matters": override.get("why_it_matters", ""),
+                "pull_quote": override.get("pull_quote", ""),
+                "pillar": pillar,
+                "pillar_label": PILLAR_LABELS.get(pillar, ""),
+                "source": s.get("source", ""),
                 "category": _categorize(s["primary_title"], s["platforms"]),
                 "url": s["url"],
                 "appearances": s["appearances"],
             }
         )
+
+    # Pillars actually present, in canonical render order (for the frontend blocks).
+    present = {s["pillar"] for s in top_stories}
+    pillars = [
+        {"key": k, "label": PILLAR_LABELS[k]} for k in PILLAR_ORDER if k in present
+    ]
 
     digest = {
         "digest_type": slot,
@@ -436,6 +587,7 @@ def build_digest() -> dict:
         "market_snapshot": market,
         "themes": meta["themes"],
         "entities": meta["entities"],
+        "pillars": pillars,
         "top_stories": top_stories,
         "sources_summary": {
             name: len(data[name].get("items", [])) for name in sources

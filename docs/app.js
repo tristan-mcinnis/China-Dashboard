@@ -1517,57 +1517,130 @@ async function renderDigest() {
     const stories = document.getElementById('brief-stories');
     if (stories) {
       stories.innerHTML = '';
-      (digest.top_stories || []).forEach((s) => {
-        const li = document.createElement('li');
-        li.className = 'brief-story';
+      const all = digest.top_stories || [];
 
-        const title = document.createElement('div');
-        title.className = 'brief-story-title';
-        const titleText = s.english_title || s.primary_title || '';
-        if (s.url) {
-          const a = document.createElement('a');
-          a.href = s.url;
-          a.target = '_blank';
-          a.rel = 'noopener';
-          a.textContent = titleText;
-          title.appendChild(a);
-        } else {
-          title.textContent = titleText;
+      // Render one Sinocism-style thematic block per pillar, in the order the
+      // digest declares. Fall back to a single block if no pillars are present.
+      const pillars =
+        (digest.pillars && digest.pillars.length)
+          ? digest.pillars
+          : [{ key: '__all__', label: '' }];
+
+      let economyShown = false;
+      pillars.forEach((pillar) => {
+        const block =
+          pillar.key === '__all__'
+            ? all
+            : all.filter((s) => s.pillar === pillar.key);
+        if (!block.length) return;
+        if (pillar.key === 'economy') economyShown = true;
+
+        const section = document.createElement('section');
+        section.className = 'brief-block';
+
+        if (pillar.label) {
+          const head = document.createElement('div');
+          head.className = 'brief-block-head';
+          const label = document.createElement('span');
+          label.className = 'brief-block-label';
+          label.textContent = pillar.label;
+          head.appendChild(label);
+          // Anchor the market snapshot to the Economy block, Sinocism-style.
+          if (pillar.key === 'economy' && digest.market_snapshot) {
+            const mkt = document.createElement('span');
+            mkt.className = 'brief-block-market';
+            mkt.textContent = digest.market_snapshot;
+            head.appendChild(mkt);
+          }
+          section.appendChild(head);
         }
-        li.appendChild(title);
 
-        if (s.primary_title && s.english_title) {
-          const zh = document.createElement('div');
-          zh.className = 'brief-story-zh';
-          zh.textContent = s.primary_title;
-          li.appendChild(zh);
-        }
+        const ol = document.createElement('ol');
+        ol.className = 'brief-stories';
+        block.forEach((s) => {
+          const li = document.createElement('li');
+          li.className = 'brief-story';
 
-        if (s.why_it_matters) {
-          const why = document.createElement('div');
-          why.className = 'brief-story-why';
-          why.textContent = s.why_it_matters;
-          li.appendChild(why);
-        }
+          const title = document.createElement('div');
+          title.className = 'brief-story-title';
+          if (s.source) {
+            const src = document.createElement('span');
+            src.className = 'brief-story-source';
+            src.textContent = s.source;
+            title.appendChild(src);
+          }
+          const titleText = s.english_title || s.primary_title || '';
+          if (s.url) {
+            const a = document.createElement('a');
+            a.href = s.url;
+            a.target = '_blank';
+            a.rel = 'noopener';
+            a.textContent = titleText;
+            title.appendChild(a);
+          } else {
+            const span = document.createElement('span');
+            span.textContent = titleText;
+            title.appendChild(span);
+          }
+          li.appendChild(title);
 
-        const badges = document.createElement('div');
-        badges.className = 'brief-story-badges';
-        (s.platforms || []).forEach((p) => {
-          const b = document.createElement('span');
-          b.className = 'brief-badge';
-          b.textContent = PLATFORM_BADGES[p] || p;
-          badges.appendChild(b);
+          if (s.primary_title && s.english_title && s.primary_title !== titleText) {
+            const zh = document.createElement('div');
+            zh.className = 'brief-story-zh';
+            zh.textContent = s.primary_title;
+            li.appendChild(zh);
+          }
+
+          if (s.why_it_matters) {
+            const why = document.createElement('div');
+            why.className = 'brief-story-why';
+            why.textContent = s.why_it_matters;
+            li.appendChild(why);
+          }
+
+          if (s.pull_quote) {
+            const quote = document.createElement('blockquote');
+            quote.className = 'brief-story-quote';
+            quote.textContent = s.pull_quote;
+            li.appendChild(quote);
+          }
+
+          if ((s.platforms || []).length || s.platform_count > 1) {
+            const badges = document.createElement('div');
+            badges.className = 'brief-story-badges';
+            (s.platforms || []).forEach((p) => {
+              if (p === 'elite_press' || p === 'gov_regulatory') return;
+              const b = document.createElement('span');
+              b.className = 'brief-badge';
+              b.textContent = PLATFORM_BADGES[p] || p;
+              badges.appendChild(b);
+            });
+            if (s.platform_count > 1) {
+              const cross = document.createElement('span');
+              cross.className = 'brief-badge brief-badge-cross';
+              cross.textContent = `×${s.platform_count} platforms`;
+              badges.appendChild(cross);
+            }
+            if (badges.children.length) li.appendChild(badges);
+          }
+
+          ol.appendChild(li);
         });
-        if (s.platform_count > 1) {
-          const cross = document.createElement('span');
-          cross.className = 'brief-badge brief-badge-cross';
-          cross.textContent = `×${s.platform_count} platforms`;
-          badges.appendChild(cross);
-        }
-        li.appendChild(badges);
-
-        stories.appendChild(li);
+        section.appendChild(ol);
+        stories.appendChild(section);
       });
+
+      // If no Economy block surfaced this run, the market snapshot would be
+      // orphaned — show it as a standalone strip under the headline instead.
+      const marketEl = document.getElementById('brief-market');
+      if (marketEl) {
+        if (digest.market_snapshot && !economyShown) {
+          marketEl.textContent = digest.market_snapshot;
+          marketEl.hidden = false;
+        } else {
+          marketEl.hidden = true;
+        }
+      }
     }
   } catch (error) {
     if (meta) meta.textContent = 'Brief unavailable';

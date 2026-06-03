@@ -1,32 +1,57 @@
 {
   "digest_type": "morning",
-  "as_of": "2026-06-03T06:42:08+08:00",
+  "as_of": "2026-06-03T10:38:21+08:00",
   "date": "2026-06-03",
   "time_label": "Morning Brief",
-  "beijing_time": "06:41",
+  "beijing_time": "10:37",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Xi's Cultural Tour Emphasizes Heritage; Hezbollah-Israel Clashes Persist; County Official Probed",
-  "narrative": "President Xi Jinping's latest cultural tour—visiting museums in Guangxi, Henan, Sichuan, and Hubei—reinforces the Party's focus on historical and cultural heritage, aligning with broader propaganda efforts. The visit to the Guangxi Hepu Han Dynasty Museum, Anyang Yin Ruins, Sanxingdui, and Yunmeng County Museum underscores Xi's personal engagement with the 'cultural confidence' narrative.\n\nIn foreign affairs, Hezbollah's rejection of a partial ceasefire with Israel and continued mutual attacks signal enduring instability in the Middle East. Domestically, the anti-corruption campaign persists with the investigation of Qinyuan County Party Secretary Zhao Yongjin. Other notable events include the public apology of fast-food chain Xiangxi Chicken over pet policies, the death of veteran actor Wei Zongwan, flood season preparations, and education fraud warnings ahead of the 2026 college entrance exam.",
-  "narrative_zh": "习近平主席近期文化考察行程涵盖广西合浦汉代文化博物馆、河南殷墟、四川三星堆博物馆新馆及湖北云梦县博物馆，强调文化遗产保护与文化自信。与此同时，黎真主党拒绝与以色列'部分停火'，双方继续互袭，中东局势持续紧张。国内反腐方面，山西长治市沁源县委书记赵永进被查。此外，老乡鸡就顾客携宠进店问题致歉；94版《三国演义》司马懿扮演者魏宗万去世；全国进入汛期，官方发布避险指南；教育部发布2026年高考预警，提醒防范诈骗和作弊。",
+  "headline": "Fragile China-US Tech Truce Tested by Tungsten Hunt",
+  "narrative": "The simmering China-US tech truce looks increasingly tenuous as Beijing accelerates its global hunt for critical minerals like tungsten. This dual-track approach—negotiating a fragile ceasefire on technology while aggressively securing supply chains—captures the day's strategic picture. Domestically, the anti-corruption apparatus remains active with the investigation of a county party secretary, while regulators tighten control over youth entertainment (age restrictions for escape rooms) and exam security (Gaokao warnings). Meanwhile, state-backed capital flows into sustainable materials and elderly hardware signal alignment with industrial policy priorities.",
+  "narrative_zh": "中美科技休战看似摇摇欲坠，北京加速全球寻找钨等关键矿产资源。这种双轨策略——一方面谈判技术休战，另一方面积极保障供应链安全——勾勒出今日战略图景。国内，反腐机器继续运转，一名县委书记被调查；监管机构收紧对青少年娱乐（密室逃脱年龄限制）和高考安全的控制。同时，国有资本流向可持续材料和老年硬件，显示与产业政策优先方向一致。",
   "market_snapshot": "SSE Composite 4075.102 ▲0.16% · Shenzhen Component 15591.128 ▲0.10% · ChiNext 4055.871 ▲2.66% · USD/CNY 6.7617 ▼0.04% · USD/CNH 6.762 ▼0.01%",
   "themes": [
-    "Cultural Heritage",
-    "Middle East Conflict",
-    "Anti-Corruption",
-    "Corporate Apology",
-    "Flood Safety",
-    "Education Warning"
+    "China-US tech competition",
+    "critical minerals race",
+    "anti-corruption",
+    "regulatory tightening on youth",
+    "cultural soft power",
+    "aging economy tech"
   ],
   "entities": [
     "Xi Jinping",
     "Hezbollah",
     "Israel",
-    "Xiangxi Chicken",
     "Zhao Yongjin",
     "Wei Zongwan",
-    "Ministry of Education",
-    "Mao Ning",
-    "Philippines"
+    "CAC",
+    "SAMR",
+    "Supreme Court",
+    "Nature",
+    "HIT",
+    "PEELSPHERE",
+    "Shenzhen Capital Group"
+  ],
+  "pillars": [
+    {
+      "key": "politics",
+      "label": "High Politics & Ideology"
+    },
+    {
+      "key": "tech",
+      "label": "Industry, Tech & Industrial Policy"
+    },
+    {
+      "key": "geopolitics",
+      "label": "U.S.–China & Geopolitics"
+    },
+    {
+      "key": "regulatory",
+      "label": "Regulatory Watch"
+    },
+    {
+      "key": "society",
+      "label": "What's Trending"
+    }
   ],
   "top_stories": [
     {
@@ -38,8 +63,12 @@
       ],
       "platform_count": 2,
       "primary_title": "习近平的文化足迹",
-      "english_title": "Xi Jinping's Cultural Tour Highlights Heritage Sites",
-      "why_it_matters": "Signals continued propaganda push on cultural confidence and historical preservation.",
+      "english_title": "Xi Jinping's Cultural Heritage Tour Reinforces Historical Continuity",
+      "why_it_matters": "Strengthens narrative of cultural confidence and Party's role in preserving Chinese civilization.",
+      "pull_quote": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "source": "",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%96%87%E5%8C%96%E8%B6%B3%E8%BF%B9",
       "appearances": [
@@ -63,7 +92,11 @@
       "platform_count": 2,
       "primary_title": "真主党不接受与以色列“部分停火” 双方继续互袭",
       "english_title": "Hezbollah Rejects Partial Ceasefire with Israel",
-      "why_it_matters": "Indicates no near-term de-escalation in Middle East tensions.",
+      "why_it_matters": "Tests China's Middle East diplomacy and stance on de-escalation; affects stability in a key Belt and Road region.",
+      "pull_quote": "真主党不接受与以色列'部分停火'",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "source": "",
       "category": "news",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzNk5GdnB6UHF3b1h2SXJ0ZE1KTWk5a081Qk1zOGVIZmxGQjQzaXJUVnktMHNzenJISWVQd3psa1dEV3RxQzZFa1VlcW5oSnNXRTEteVRVeGM5WXU2OF8tZldzUEtUZk9NZGhHQ3lYbUk2VnFKcGsxTWprSjRfQTg?oc=5",
       "appearances": [
@@ -86,8 +119,12 @@
       ],
       "platform_count": 2,
       "primary_title": "老乡鸡道歉",
-      "english_title": "Xiangxi Chicken Apologizes for Pet Policy Mishandling",
-      "why_it_matters": "Reflects rising public expectation for corporate responsibility on pet-friendly policies.",
+      "english_title": "Laoxiangji Apologizes for Pet Policy Incident",
+      "why_it_matters": "Highlights public sensitivity to dining environment and power of social media complaints to force corporate apologies.",
+      "pull_quote": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "source": "",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%B9%A1%E9%B8%A1%E9%81%93%E6%AD%89",
       "appearances": [
@@ -103,6 +140,39 @@
     },
     {
       "rank": 4,
+      "weight": 28.6,
+      "platforms": [
+        "baidu_top",
+        "elite_press",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 3,
+      "primary_title": "教育部发布2026年高考预警信息",
+      "english_title": "Ministry of Education Issues Gaokao Fraud Warning",
+      "why_it_matters": "Annual reminder of official priority on exam security and social stability; cracks down on cheating and scams.",
+      "pull_quote": "",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "source": "21st Century Business Herald",
+      "category": "press",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 5
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 5
+        },
+        {
+          "platform": "elite_press",
+          "rank": 18
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "weight": 26.4,
       "platforms": [
         "baidu_top",
@@ -111,8 +181,12 @@
       ],
       "platform_count": 3,
       "primary_title": "山西长治市沁源县委书记赵永进被查",
-      "english_title": "Shanxi County Party Secretary Zhao Yongjin Under Investigation",
-      "why_it_matters": "Demonstrates ongoing anti-corruption efforts at local government level.",
+      "english_title": "Shanxi County Party Secretary Zhao Yongjin Investigated",
+      "why_it_matters": "Local anti-corruption action shows campaign continues with no signs of abating, even in lower-level posts.",
+      "pull_quote": "",
+      "pillar": "politics",
+      "pillar_label": "High Politics & Ideology",
+      "source": "",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
       "appearances": [
@@ -131,7 +205,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "weight": 25.6,
       "platforms": [
         "baidu_top",
@@ -139,8 +213,12 @@
       ],
       "platform_count": 2,
       "primary_title": "94版三国演义司马懿饰演者魏宗万去世",
-      "english_title": "Veteran Actor Wei Zongwan Dies at 89",
-      "why_it_matters": "Remembrance of iconic role in 1994 Three Kingdoms series highlights cultural nostalgia.",
+      "english_title": "Actor Wei Zongwan, Famous as Sima Yi, Dies at 89",
+      "why_it_matters": "Cultural nostalgia for classic TV drama; marks passing of a generation of actors.",
+      "pull_quote": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "source": "",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=94%E7%89%88%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%8F%B8%E9%A9%AC%E6%87%BF%E9%A5%B0%E6%BC%94%E8%80%85%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96",
       "appearances": [
@@ -155,74 +233,232 @@
       ]
     },
     {
-      "rank": 6,
-      "weight": 22.4,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
-      ],
-      "platform_count": 2,
-      "primary_title": "一文了解汛期知识、避险方法",
-      "english_title": "China Enters Flood Season; Safety Guidance Issued",
-      "why_it_matters": "Annual flood season preparedness crucial for disaster management and public safety.",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E6%B1%9B%E6%9C%9F%E7%9F%A5%E8%AF%86%E3%80%81%E9%81%BF%E9%99%A9%E6%96%B9%E6%B3%95",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 4
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 4
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "weight": 19.2,
+      "weight": 10.0,
       "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
+        "elite_press"
       ],
-      "platform_count": 2,
-      "primary_title": "教育部发布2026年高考预警信息",
-      "english_title": "Ministry of Education Releases 2026 College Entrance Exam Warning",
-      "why_it_matters": "Annual reminder to prevent fraud and ensure exam integrity as Gaokao approaches.",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
+      "platform_count": 1,
+      "primary_title": "消防队里过“六一”",
+      "english_title": "Fire Brigade Hosts Children's Day Event",
+      "why_it_matters": "Soft propaganda showcasing community outreach; promotes safety education through family-friendly events.",
+      "pull_quote": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "source": "People's Daily",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IR2NIYkY3cVJCelhfSWJGS1lFSjdybXljM1R4QVVvU3dfc0FURXZDYUJlTG16eVlJZDZYcWsxYWNZMzAxQkdyZFVaTk5FZ2NRWURUT1dZU0M5OERqd3FMWThkMURfZGF4?oc=5",
       "appearances": [
         {
-          "platform": "baidu_top",
-          "rank": 5
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 5
+          "platform": "elite_press",
+          "rank": 1
         }
       ]
     },
     {
       "rank": 8,
-      "weight": 12.8,
+      "weight": 10.0,
       "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
+        "gov_regulatory"
       ],
-      "platform_count": 2,
-      "primary_title": "中方：菲防长完全没有知恩感恩之心",
-      "english_title": "China Criticizes Philippine Defense Minister for 'Ingratitude'",
-      "why_it_matters": "Highlighting growing friction in China-Philippines relations over South China Sea.",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%8F%B2%E9%98%B2%E9%95%BF%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%9C%89%E7%9F%A5%E6%81%A9%E6%84%9F%E6%81%A9%E4%B9%8B%E5%BF%83",
+      "platform_count": 1,
+      "primary_title": "2026年人工智能技术赋能网络安全应用测试公告",
+      "english_title": "CAC Launches AI-Empowered Network Security Test",
+      "why_it_matters": "Part of China's push to integrate AI into national security framework; also signals regulatory oversight of AI itself.",
+      "pull_quote": "",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "source": "网信办",
+      "category": "regulatory",
+      "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
       "appearances": [
         {
-          "platform": "baidu_top",
-          "rank": 7
-        },
+          "platform": "gov_regulatory",
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "weight": 9.0,
+      "platforms": [
+        "xinhua_news"
+      ],
+      "platform_count": 1,
+      "primary_title": "哈工大科研团队发现T细胞激活抗癌新机制",
+      "english_title": "HIT Team Discovers New T-Cell Activation Mechanism",
+      "why_it_matters": "Advances China's biomedical R&D credentials; potential for immunotherapy breakthroughs.",
+      "pull_quote": "",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "source": "",
+      "category": "news",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wOTVJNlI0R1hnSHFZZE1teE1IZFNjRDhIaUpSU0xKYjhaTllNY1dPdVFkOGhaMWc5em84LUZfZHJqVmZiSFFid1BTdmdHLUpjZ2d4dGFTY2huLVN2NWpoNk5FZVJDbGs5cmFLdUw4NTRYTXhuM3ZyMnJydlJDSXc?oc=5",
+      "appearances": [
         {
-          "platform": "tencent_wechat_hot",
-          "rank": 7
+          "platform": "xinhua_news",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "weight": 9.0,
+      "platforms": [
+        "gov_regulatory"
+      ],
+      "platform_count": 1,
+      "primary_title": "中央网信办所属部分在京事业单位2026年度公开招聘拟聘用人员公示公告",
+      "english_title": "CAC Publishes 2026 Recruitment List",
+      "why_it_matters": "Routine staffing but indicates ongoing expansion of cyberspace regulatory apparatus.",
+      "pull_quote": "",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "source": "网信办",
+      "category": "regulatory",
+      "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/15/c_1780587095099787.htm",
+      "appearances": [
+        {
+          "platform": "gov_regulatory",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "weight": 2.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "剧本杀密室逃脱须适龄管控 最高法、市监总局发布典型案例",
+      "english_title": "Age Restrictions Imposed on Script Murder and Escape Room Games",
+      "why_it_matters": "Extends content regulation to emerging offline entertainment; reflects concern over youth exposure and mental health.",
+      "pull_quote": "",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "source": "Caixin",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNmZfSUNYTGY1TGtfX3hOM1JuQ0NFU1ROak9VQlllZnRRMGR4ai1Vd0lqdndmUlBqQjJxd0VIS1h3bjB5eF9kMGFha3pBSGM2MUdpbVF2bVVoWDRILW1F?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "“耿同学”打假再有战果 《自然》答财新：正评估相关信息",
+      "english_title": "'Comrade Geng' Continues Academic Integrity Campaign; Nature Responds",
+      "why_it_matters": "Whistleblower movement challenges academic fraud; international journal's response affects China's research reputation.",
+      "pull_quote": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "source": "Caixin",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQ0pxMW9nS2d6b0RkLWY1TTlYR1BaOGltMXloRHVpZWlxM3lTaUcxLUd6ckJBMTExSVRWajBUbXBRcVJMQjJYLV9VZjlWa2J1Y2stS2pTRnNTSm1JTlRFamFR?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+      "english_title": "Former Little Genius Team Develops Elderly Care Hardware",
+      "why_it_matters": "Taps into aging demographics; startup aims at home care market and overseas expansion.",
+      "pull_quote": "",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "source": "36Kr",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjVnUyQTN1MWx0anJtVTIxeFVoMTZKTFRUSUJZdjlPQmY4N0JQRVBVTWdjS2szcFpXcWVTTVR6M096R1FYaGZxdjhvSEJhdw?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 25
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+      "english_title": "PEELSPHERE Raises Nearly Billion Yuan for Plant Fiber Leather",
+      "why_it_matters": "Demonstrates investor appetite for sustainable materials; aligns with carbon neutrality goals.",
+      "pull_quote": "",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "source": "36Kr",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 26
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "The China-US tech truce is fragile",
+      "english_title": "FT: China-US Tech Truce Fragile",
+      "why_it_matters": "Highlights underlying tensions despite apparent détente; implications for supply chains and tech investments.",
+      "pull_quote": "",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "source": "Financial Times",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 33
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "China’s hunt for US tungsten escalates global critical minerals race",
+      "english_title": "China's Tungsten Hunt Intensifies Global Minerals Race",
+      "why_it_matters": "Shows China's proactive strategy to secure critical resources; could escalate competition with US.",
+      "pull_quote": "",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "source": "Financial Times",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 34
         }
       ]
     }
@@ -235,6 +471,7 @@
     "thepaper_news": 20,
     "ladymax_news": 21,
     "gov_regulatory": 2,
+    "elite_press": 52,
     "indices": 4,
     "fx": 4
   },
