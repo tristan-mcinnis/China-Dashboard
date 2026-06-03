@@ -1446,30 +1446,39 @@ const PLATFORM_BADGES = {
 };
 
 // Today's Brief — render the DeepSeek cross-source digest
-async function renderDigest() {
+let _briefDigest = null;
+let briefLang = 'en';
+
+async function renderDigest(preloaded) {
   const meta = document.getElementById('brief-meta');
   try {
-    const digest = await loadJSON('data/daily_digest.json');
+    const digest = preloaded || await loadJSON('data/daily_digest.json');
+    _briefDigest = digest;
+    const zh = briefLang === 'zh';
+    // Prefer the Chinese field in 中文 mode, falling back to English when absent.
+    const pick = (en, cn) => (zh ? (cn || en) : en) || '';
+    const hasCJK = (t) => /[㐀-鿿豈-﫿]/.test(t || '');
 
     if (meta) {
       const isLLM = (digest.generated_by || '').startsWith('deepseek');
-      const suffix = isLLM ? '' : ' · auto';
+      const suffix = isLLM ? '' : (zh ? ' · 自动' : ' · auto');
       meta.textContent = `${digest.time_label || ''} · ${digest.date || ''} ${digest.beijing_time || ''} CST${suffix}`;
       meta.classList.toggle('brief-meta-degraded', !isLLM);
       meta.title = isLLM
         ? ''
-        : 'AI synthesis temporarily offline — showing the deterministic fallback brief.';
+        : 'AI synthesis temporarily offline, showing the deterministic fallback brief.';
     }
 
     const headline = document.getElementById('brief-headline');
-    if (headline) headline.textContent = digest.headline || '';
+    if (headline) headline.textContent = pick(digest.headline, digest.headline_zh);
 
     const narrative = document.getElementById('brief-narrative');
     if (narrative) {
       // Snapshot mode: show only the first paragraph up front so the top
       // stories are visible without scrolling; tuck the rest behind a toggle.
       narrative.innerHTML = '';
-      const paras = (digest.narrative || '').trim().split(/\n\s*\n/).filter(Boolean);
+      const paras = pick(digest.narrative, digest.narrative_zh)
+        .trim().split(/\n\s*\n/).filter(Boolean);
       if (paras.length) {
         const lead = document.createElement('p');
         lead.className = 'brief-para';
@@ -1486,14 +1495,16 @@ async function renderDigest() {
             rest.appendChild(el);
           });
           narrative.appendChild(rest);
+          const moreLabel = zh ? '展开全文 ▾' : 'Show full brief ▾';
+          const lessLabel = zh ? '收起 ▴' : 'Show less ▴';
           const toggle = document.createElement('button');
           toggle.type = 'button';
           toggle.className = 'brief-toggle';
-          toggle.textContent = 'Show full brief ▾';
+          toggle.textContent = moreLabel;
           toggle.addEventListener('click', () => {
             const reveal = rest.hidden;
             rest.hidden = !reveal;
-            toggle.textContent = reveal ? 'Show less ▴' : 'Show full brief ▾';
+            toggle.textContent = reveal ? lessLabel : moreLabel;
           });
           narrative.appendChild(toggle);
         }
@@ -1524,7 +1535,7 @@ async function renderDigest() {
       const pillars =
         (digest.pillars && digest.pillars.length)
           ? digest.pillars
-          : [{ key: '__all__', label: '' }];
+          : [{ key: '__all__', label: '', label_zh: '' }];
 
       let economyShown = false;
       pillars.forEach((pillar) => {
@@ -1538,12 +1549,13 @@ async function renderDigest() {
         const section = document.createElement('section');
         section.className = 'brief-block';
 
-        if (pillar.label) {
+        const labelText = pick(pillar.label, pillar.label_zh);
+        if (labelText) {
           const head = document.createElement('div');
           head.className = 'brief-block-head';
           const label = document.createElement('span');
           label.className = 'brief-block-label';
-          label.textContent = pillar.label;
+          label.textContent = labelText;
           head.appendChild(label);
           // Anchor the market snapshot to the Economy block, Sinocism-style.
           if (pillar.key === 'economy' && digest.market_snapshot) {
@@ -1569,7 +1581,16 @@ async function renderDigest() {
             src.textContent = s.source;
             title.appendChild(src);
           }
-          const titleText = s.english_title || s.primary_title || '';
+          // EN mode leads with the English title; 中文 mode leads with the
+          // original (usually Chinese) title.
+          const primary = s.primary_title || '';
+          const english = s.english_title || '';
+          const titleText = zh
+            ? (hasCJK(primary) ? primary : (english || primary))
+            : (english || primary);
+          const subtitleText = zh
+            ? (hasCJK(primary) && english && english !== titleText ? english : '')
+            : (primary && primary !== titleText && hasCJK(primary) ? primary : '');
           if (s.url) {
             const a = document.createElement('a');
             a.href = s.url;
@@ -1584,36 +1605,34 @@ async function renderDigest() {
           }
           li.appendChild(title);
 
-          // Only show the original-language line when it is a real CJK headline,
-          // never an English restatement of an English-source title.
-          if (
-            s.primary_title &&
-            s.primary_title !== titleText &&
-            /[㐀-鿿豈-﫿]/.test(s.primary_title)
-          ) {
-            const zh = document.createElement('div');
-            zh.className = 'brief-story-zh';
-            zh.textContent = s.primary_title;
-            li.appendChild(zh);
+          // The other language drops to a subtitle, but only when it is a
+          // genuinely different string (never an English-under-English echo).
+          if (subtitleText) {
+            const sub = document.createElement('div');
+            sub.className = 'brief-story-zh';
+            sub.textContent = subtitleText;
+            li.appendChild(sub);
           }
 
-          if (s.why_it_matters) {
+          const whyText = pick(s.why_it_matters, s.why_it_matters_zh);
+          if (whyText) {
             const why = document.createElement('div');
             why.className = 'brief-story-why';
-            why.textContent = s.why_it_matters;
+            why.textContent = whyText;
             li.appendChild(why);
           }
 
-          // Skip a pull quote that merely echoes the title (no new information).
-          const normQ = (s.pull_quote || '').replace(/\s+/g, '').toLowerCase();
-          const echoes = [titleText, s.primary_title].some((t) => {
+          // Skip a pull quote that merely echoes a title (no new information).
+          const quoteText = pick(s.pull_quote, s.pull_quote_zh);
+          const normQ = quoteText.replace(/\s+/g, '').toLowerCase();
+          const echoes = [titleText, primary, english].some((t) => {
             const n = (t || '').replace(/\s+/g, '').toLowerCase();
             return n && normQ && (n.includes(normQ) || normQ.includes(n));
           });
-          if (s.pull_quote && !echoes) {
+          if (quoteText && !echoes) {
             const quote = document.createElement('blockquote');
             quote.className = 'brief-story-quote';
-            quote.textContent = s.pull_quote;
+            quote.textContent = quoteText;
             li.appendChild(quote);
           }
 
@@ -1630,7 +1649,9 @@ async function renderDigest() {
             if (s.platform_count > 1) {
               const cross = document.createElement('span');
               cross.className = 'brief-badge brief-badge-cross';
-              cross.textContent = `×${s.platform_count} platforms`;
+              cross.textContent = zh
+                ? `×${s.platform_count} 个平台`
+                : `×${s.platform_count} platforms`;
               badges.appendChild(cross);
             }
             if (badges.children.length) li.appendChild(badges);
@@ -1679,6 +1700,15 @@ async function copyDigestMarkdown(button) {
 document.addEventListener('DOMContentLoaded', () => {
   const copyBtn = document.getElementById('brief-copy');
   if (copyBtn) copyBtn.addEventListener('click', () => copyDigestMarkdown(copyBtn));
+  const langBtn = document.getElementById('brief-lang');
+  if (langBtn) {
+    langBtn.addEventListener('click', () => {
+      briefLang = briefLang === 'en' ? 'zh' : 'en';
+      // The button shows the language you can switch TO.
+      langBtn.textContent = briefLang === 'en' ? '中文' : 'EN';
+      if (_briefDigest) renderDigest(_briefDigest);
+    });
+  }
 });
 
 // At-a-glance KPI bar: the state of China today in one scannable row, built
@@ -1912,58 +1942,6 @@ async function render() {
     console.error(error);
   }
 }
-
-// Theme switching functionality
-function initTheme() {
-  const themeToggle = document.getElementById('theme-toggle');
-  const logoImage = document.getElementById('logo-image');
-  const themeIcon = themeToggle.querySelector('.theme-icon');
-
-  // Check for saved theme preference or default to 'dark'
-  let currentTheme = 'dark';
-  try {
-    currentTheme = localStorage.getItem('theme') || 'dark';
-  } catch (e) {
-    // localStorage may be blocked or quota exceeded
-    console.warn('Unable to read theme from localStorage:', e);
-  }
-
-  document.documentElement.setAttribute('data-theme', currentTheme);
-
-  // Update logo and icon based on current theme
-  updateThemeElements(currentTheme, logoImage, themeIcon);
-
-  // Theme toggle click handler
-  themeToggle.addEventListener('click', () => {
-    const currentTheme = document.documentElement.getAttribute('data-theme');
-    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-
-    document.documentElement.setAttribute('data-theme', newTheme);
-
-    // Try to save theme preference
-    try {
-      localStorage.setItem('theme', newTheme);
-    } catch (e) {
-      // localStorage may be blocked or quota exceeded
-      console.warn('Unable to save theme to localStorage:', e);
-    }
-
-    updateThemeElements(newTheme, logoImage, themeIcon);
-  });
-}
-
-function updateThemeElements(theme, logoImage, themeIcon) {
-  if (theme === 'light') {
-    logoImage.src = 'logo/white_logo.png';
-    themeIcon.textContent = '◐';
-  } else {
-    logoImage.src = 'logo/black_logo.jpeg';
-    themeIcon.textContent = '◑';
-  }
-}
-
-// Initialize theme when DOM is loaded
-document.addEventListener('DOMContentLoaded', initTheme);
 
 // Track last update times to enable incremental updates
 const lastUpdateTimes = {};

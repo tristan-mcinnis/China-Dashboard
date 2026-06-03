@@ -25,7 +25,7 @@
       <div class="header-content">
         <div class="brand">
           <div class="brand-logo">
-            <img id="logo-image" src="logo/black_logo.jpeg" alt="China Snapshot" class="logo">
+            <img id="logo-image" src="logo/white_logo.png" alt="China Snapshot" class="logo">
           </div>
         </div>
         <div class="header-right">
@@ -34,9 +34,6 @@
             <button id="search-clear" class="search-clear" aria-label="Clear search" style="display: none;">×</button>
             <div id="search-dropdown" class="search-dropdown" role="listbox" hidden></div>
           </div>
-          <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
-            <span class="theme-icon">◑</span>
-          </button>
           <div class="status">
             <span id="health-indicator" class="health-indicator healthy" aria-live="polite">Checking...</span>
             <div class="status-indicator">
@@ -61,6 +58,7 @@
             <span class="brief-meta" id="brief-meta">Synthesizing…</span>
           </div>
           <div class="brief-actions">
+            <button type="button" class="brief-action brief-lang" id="brief-lang" title="Switch the brief between English and Chinese" aria-label="Switch brief language">中文</button>
             <button type="button" class="brief-action" id="brief-copy" title="Copy the Markdown brief to clipboard">Copy MD</button>
             <a class="brief-action" id="brief-md-link" href="data/digest.md" target="_blank" rel="noopener">.md</a>
             <a class="brief-action" id="brief-json-link" href="data/daily_digest.json" target="_blank" rel="noopener">.json</a>

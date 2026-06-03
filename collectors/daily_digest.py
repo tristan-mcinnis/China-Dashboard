@@ -67,6 +67,16 @@ PILLARS = [
 PILLAR_LABELS = dict(PILLARS)
 PILLAR_ORDER = [k for k, _ in PILLARS]
 
+# Simplified-Chinese block labels for the bilingual brief.
+PILLAR_LABELS_ZH = {
+    "politics": "高层政治与意识形态",
+    "economy": "经济与市场",
+    "tech": "产业、科技与工业政策",
+    "geopolitics": "中美关系与地缘政治",
+    "regulatory": "监管动态",
+    "society": "热点风向",
+}
+
 # Soft per-pillar caps so no single block (usually social-trending) crowds out the
 # institutional reporting. Greedy selection over weight-sorted candidates fills the
 # highest-salience item in each pillar first.
@@ -146,6 +156,22 @@ def _strip_outlet_prefix(title: str, source: str = "") -> str:
     if m and m.group(1).strip().lower().rstrip(".") in prefixes:
         return t[m.end():].strip()
     return t
+
+
+def _strip_emdashes(text: str, zh: bool = False) -> str:
+    """Remove em/en dashes used as punctuation (Tristan dislikes them).
+
+    English text gets a comma; Chinese text gets a full-width comma so the
+    result still reads naturally.
+    """
+    if not text:
+        return text
+    sep = "，" if zh else ", "
+    t = re.sub(r"\s*[—–]+\s*", sep, text)        # — / – / —— with surrounding spaces
+    t = re.sub(r"，{2,}", "，", t)
+    t = re.sub(r"(,\s*){2,}", ", ", t)
+    t = re.sub(r"[ \t]{2,}", " ", t)
+    return t.strip()
 
 
 def _is_restatement(quote: str, *titles: str) -> bool:
@@ -419,9 +445,13 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
         "foreign story like a Middle East ceasefire), set its pillar to 'drop'. Do "
         "NOT invent a China hook to keep it. Also 'drop' pure feel-good propaganda or "
         "trivia that carries no analytical signal.\n\n"
+        "Do NOT use em dashes (—) anywhere in your output; use commas or full stops "
+        "instead. The dashboard is fully bilingual, so every English field needs a "
+        "natural Simplified Chinese counterpart (not a literal word-for-word gloss).\n\n"
         "Return STRICT JSON with this shape:\n"
         "{\n"
         '  "headline": "<=90 char English top-of-mind takeaway: the single biggest thing",\n'
+        '  "headline_zh": "上述 headline 的简体中文版(<=40字)",\n'
         '  "narrative": "1-2 punchy paragraphs (the Lead-in): name the most important '
         'structural story of the day and say what it signals. Be specific and analytical, '
         'not a list. No filler like \'X is trending across platforms\'.",\n'
@@ -432,8 +462,10 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
         '"pillar": "<one allowed pillar value, or \'drop\' to exclude. Reclassify if the provisional tag is wrong>", '
         '"english_title": "concise EN title; do NOT prefix the outlet name (the source is shown separately)", '
         '"why_it_matters": "one crisp sentence on why this matters / what to read between the lines", '
+        '"why_it_matters_zh": "上一句 why_it_matters 的简体中文版", '
         '"pull_quote": "optional <=140 char quote or hard fact that ADDS information beyond the title. '
-        'Must not restate the headline. Use \\"\\" if you have nothing genuinely new"}]\n'
+        'Must not restate the headline. Use \\"\\" if you have nothing genuinely new", '
+        '"pull_quote_zh": "上一句 pull_quote 的简体中文版(若 pull_quote 为空则留空)"}]\n'
         "}\n"
         "Cover every ranked item in stories. JSON only."
     )
@@ -462,15 +494,18 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
             if isinstance(idx, int) and 1 <= idx <= len(stories):
                 pillar = (s.get("pillar") or "").strip().lower()
                 overrides[idx - 1] = {
-                    "english_title": (s.get("english_title") or "").strip(),
-                    "why_it_matters": (s.get("why_it_matters") or "").strip(),
-                    "pull_quote": (s.get("pull_quote") or "").strip(),
+                    "english_title": _strip_emdashes((s.get("english_title") or "").strip()),
+                    "why_it_matters": _strip_emdashes((s.get("why_it_matters") or "").strip()),
+                    "why_it_matters_zh": _strip_emdashes((s.get("why_it_matters_zh") or "").strip(), zh=True),
+                    "pull_quote": _strip_emdashes((s.get("pull_quote") or "").strip()),
+                    "pull_quote_zh": _strip_emdashes((s.get("pull_quote_zh") or "").strip(), zh=True),
                     "pillar": pillar if pillar in PILLAR_LABELS or pillar == "drop" else "",
                 }
         meta = {
-            "headline": (parsed.get("headline") or "").strip(),
-            "narrative": (parsed.get("narrative") or "").strip(),
-            "narrative_zh": (parsed.get("narrative_zh") or "").strip(),
+            "headline": _strip_emdashes((parsed.get("headline") or "").strip()),
+            "headline_zh": _strip_emdashes((parsed.get("headline_zh") or "").strip(), zh=True),
+            "narrative": _strip_emdashes((parsed.get("narrative") or "").strip()),
+            "narrative_zh": _strip_emdashes((parsed.get("narrative_zh") or "").strip(), zh=True),
             "themes": [t for t in parsed.get("themes", []) if t][:6],
             "entities": [e for e in parsed.get("entities", []) if e][:12],
         }
@@ -499,6 +534,7 @@ def _heuristic_meta(stories: list[dict], market: str) -> dict:
     ).strip()
     return {
         "headline": headline,
+        "headline_zh": headline,
         "narrative": narrative,
         "narrative_zh": "本简报由跨平台热度自动汇总生成（未经语言模型润色）。",
         "themes": themes,
@@ -511,7 +547,7 @@ def _heuristic_meta(stories: list[dict], market: str) -> dict:
 # --------------------------------------------------------------------------- #
 def _render_markdown(digest: dict) -> str:
     lines = [
-        f"# China Daily Digest — {digest['time_label']}",
+        f"# China Daily Digest · {digest['time_label']}",
         "",
         f"_{digest['date']} · {digest['beijing_time']} Beijing · "
         f"generated by `{digest['generated_by']}`_",
@@ -614,15 +650,17 @@ def build_digest() -> dict:
             continue
 
         source = s.get("source", "")
-        primary_title = _strip_outlet_prefix(s["primary_title"], source)
-        english_title = _strip_outlet_prefix(
+        primary_title = _strip_emdashes(_strip_outlet_prefix(s["primary_title"], source))
+        english_title = _strip_emdashes(_strip_outlet_prefix(
             override.get("english_title", "") or s.get("english_hint", ""), source
-        )
+        ))
 
         # Drop a pull quote that just echoes either title (adds no information).
         pull_quote = override.get("pull_quote", "")
+        pull_quote_zh = override.get("pull_quote_zh", "")
         if _is_restatement(pull_quote, primary_title, english_title):
             pull_quote = ""
+            pull_quote_zh = ""
 
         top_stories.append(
             {
@@ -633,9 +671,12 @@ def build_digest() -> dict:
                 "primary_title": primary_title,
                 "english_title": english_title,
                 "why_it_matters": override.get("why_it_matters", ""),
+                "why_it_matters_zh": override.get("why_it_matters_zh", ""),
                 "pull_quote": pull_quote,
+                "pull_quote_zh": pull_quote_zh,
                 "pillar": pillar,
                 "pillar_label": PILLAR_LABELS.get(pillar, ""),
+                "pillar_label_zh": PILLAR_LABELS_ZH.get(pillar, ""),
                 "source": source,
                 "category": _categorize(s["primary_title"], s["platforms"]),
                 "url": s["url"],
@@ -646,7 +687,8 @@ def build_digest() -> dict:
     # Pillars actually present, in canonical render order (for the frontend blocks).
     present = {s["pillar"] for s in top_stories}
     pillars = [
-        {"key": k, "label": PILLAR_LABELS[k]} for k in PILLAR_ORDER if k in present
+        {"key": k, "label": PILLAR_LABELS[k], "label_zh": PILLAR_LABELS_ZH.get(k, "")}
+        for k in PILLAR_ORDER if k in present
     ]
 
     digest = {
@@ -657,6 +699,7 @@ def build_digest() -> dict:
         "beijing_time": now.strftime("%H:%M"),
         "generated_by": generated_by,
         "headline": meta["headline"],
+        "headline_zh": meta.get("headline_zh", ""),
         "narrative": meta["narrative"],
         "narrative_zh": meta["narrative_zh"],
         "market_snapshot": market,

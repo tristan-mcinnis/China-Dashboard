@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T11:12:05+08:00",
+  "updated_at": "2026-06-03T11:27:56+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -740,7 +740,7 @@
       ]
     },
     "anti-corruption": {
-      "label": "Anti-Corruption",
+      "label": "anti-corruption",
       "count": 4,
       "stories": [
         {
@@ -1441,7 +1441,7 @@
       ]
     },
     "critical minerals": {
-      "label": "Critical Minerals",
+      "label": "critical minerals",
       "count": 1,
       "stories": [
         {
@@ -1471,6 +1471,133 @@
             "weibo_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "regulatory tightening": {
+      "label": "regulatory tightening",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "剧本杀密室逃脱须适龄管控 最高法、市监总局发布典型案例",
+          "english_title": "Supreme Court and SAMR set age restrictions for script murder and escape rooms",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNmZfSUNYTGY1TGtfX3hOM1JuQ0NFU1ROak9VQlllZnRRMGR4ai1Vd0lqdndmUlBqQjJxd0VIS1h3bjB5eF9kMGFha3pBSGM2MUdpbVF2bVVoWDRILW1F?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces 2026 AI-powered network security test",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "us-china tech competition": {
+      "label": "US-China tech competition",
+      "count": 6,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "China’s hunt for US tungsten escalates global critical minerals race",
+          "english_title": "China's hunt for US tungsten escalates critical minerals competition",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "China-US tech truce remains fragile: Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+          "english_title": "Shenzhen Capital Group leads near-100M yuan round in plant fiber leather startup PEELSPHERE",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+          "english_title": "Former Xiaotiantuan team enters elderly home care hardware, eyes overseas market",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjVnUyQTN1MWx0anJtVTIxeFVoMTZKTFRUSUJZdjlPQmY4N0JQRVBVTWdjS2szcFpXcWVTTVR6M096R1FYaGZxdjhvSEJhdw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces 2026 AI-powered network security test",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "教育部发布2026年高考预警信息",
+          "english_title": "Ministry of Education issues 2026 Gaokao warning against fraud and cheating",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
+          "platforms": [
+            "baidu_top",
+            "elite_press",
+            "tencent_wechat_hot"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "science and technology": {
+      "label": "science and technology",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "习近平的文化足迹",
+          "english_title": "Xi Jinping visits cultural heritage sites across China",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%96%87%E5%8C%96%E8%B6%B3%E8%BF%B9",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "consumer regulation": {
+      "label": "consumer regulation",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "剧本杀密室逃脱须适龄管控 最高法、市监总局发布典型案例",
+          "english_title": "Supreme Court and SAMR set age restrictions for script murder and escape rooms",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNmZfSUNYTGY1TGtfX3hOM1JuQ0NFU1ROak9VQlllZnRRMGR4ai1Vd0lqdndmUlBqQjJxd0VIS1h3bjB5eF9kMGFha3pBSGM2MUdpbVF2bVVoWDRILW1F?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
         }
       ]
     }
