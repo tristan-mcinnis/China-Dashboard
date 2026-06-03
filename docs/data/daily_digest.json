@@ -1,40 +1,41 @@
 {
   "digest_type": "midday",
-  "as_of": "2026-06-03T11:27:56+08:00",
+  "as_of": "2026-06-03T11:48:43+08:00",
   "date": "2026-06-03",
   "time_label": "Midday Brief",
-  "beijing_time": "11:27",
+  "beijing_time": "11:48",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Regulatory push and geopolitical friction define day: AI test, age restrictions, tungsten hunt, and fragile tech truce",
-  "headline_zh": "监管加码与地缘摩擦：AI测试、年龄管控、钨矿争夺及脆弱的技术休战",
-  "narrative": "The day's dual signals are domestic regulatory tightening across tech and consumer sectors (AI security test, age limits for script murder, academic integrity enforcement) and mounting geopolitical fissures in US-China tech relations and critical minerals competition. Xi Jinping's cultural inspection reinforces ideological continuity. Markets are tepid except for ChiNext's rally on tech optimism.",
-  "narrative_zh": "今日双重信号：国内科技与消费领域监管加码（AI安全测试、剧本杀年龄管控、学术诚信执法），以及中美科技关系与关键矿产竞争中的地缘裂缝扩大。习近平的文化考察强化了意识形态连续性。市场整体平淡，唯创业板因科技乐观情绪上涨。",
-  "market_snapshot": "SSE Composite 4075.102 ▲0.16% · Shenzhen Component 15591.128 ▲0.10% · ChiNext 4055.871 ▲2.66% · USD/CNY 6.7617 ▼0.04% · USD/CNH 6.762 ▼0.01%",
+  "headline": "China-US tech truce fragile as military talks underscore rivalry",
+  "headline_zh": "中美科技休战脆弱，军事对话凸显竞争",
+  "narrative": "The fragility of the US-China tech truce is the day's structural story, amplified by military talks in Hawaii where Beijing drew red lines on surveillance. Meanwhile, the European Central Bank's confirmation that gold has surpassed the US dollar as the top global reserve asset signals accelerating de-dollarization, a trend China actively promotes. Domestically, Xi Jinping's cultural speech reinforces ideological consolidation ahead of key anniversaries.",
+  "narrative_zh": "中美科技休战的脆弱性是今日的结构性主题，夏威夷军事对话中中方划定侦察红线强化了这一叙事。欧洲央行确认黄金取代美元成为全球第一大储备资产，标志着去美元化加速，中国对此积极推动。国内方面，习近平的文化讲话在重大纪念日前强化了意识形态整合。",
+  "market_snapshot": "SSE Composite 4097.94 ▲0.99% · Shenzhen Component 15951.075 ▲3.98% · ChiNext 4216.736 ▲3.97% · USD/CNY 6.7668 ▲0.08% · USD/CNH 6.7675 ▲0.11%",
   "themes": [
-    "regulatory tightening",
-    "US-China tech competition",
-    "critical minerals",
-    "anti-corruption",
-    "science and technology",
-    "consumer regulation"
+    "US-China relations",
+    "tech decoupling",
+    "military tensions",
+    "de-dollarization",
+    "ideological consolidation"
   ],
   "entities": [
     "Xi Jinping",
-    "Ministry of Education",
-    "Shanxi Province",
-    "Wei Zongwan",
-    "Harbin Institute of Technology",
-    "Supreme People's Court",
-    "State Administration for Market Regulation",
-    "Nature",
+    "People's Liberation Army",
+    "European Central Bank",
+    "Bangladesh",
+    "Sanxingdui",
     "Shenzhen Capital Group",
-    "Financial Times"
+    "Supreme People's Court"
   ],
   "pillars": [
     {
       "key": "politics",
       "label": "High Politics & Ideology",
       "label_zh": "高层政治与意识形态"
+    },
+    {
+      "key": "economy",
+      "label": "Economy & Markets",
+      "label_zh": "经济与市场"
     },
     {
       "key": "tech",
@@ -66,18 +67,18 @@
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "习近平的文化足迹",
-      "english_title": "Xi Jinping visits cultural heritage sites across China",
-      "why_it_matters": "Reinforces ideological continuity and cultural confidence ahead of key Party meetings.",
-      "why_it_matters_zh": "在重要党会前强化意识形态连续性和文化自信。",
-      "pull_quote": "Visited Guangxi Hepu Han Culture Museum, Yinxu ruins, Sanxingdui Museum, Yunmeng County Museum.",
-      "pull_quote_zh": "参观广西合浦汉代文化博物馆、殷墟、三星堆博物馆、云梦县博物馆。",
+      "primary_title": "更好担负起新的文化使命",
+      "english_title": "Xi calls for assuming new cultural mission on anniversary of symposium",
+      "why_it_matters": "The speech signals a renewed push for ideological conformity and cultural confidence ahead of the 2027 Party Congress.",
+      "why_it_matters_zh": "讲话在二十大前夕释放强化意识形态与文化自信的信号。",
+      "pull_quote": "The symposium marks a key moment in Xi's cultural governance, linking traditional heritage to Party legitimacy.",
+      "pull_quote_zh": "座谈会标志着习近平文化治理的关键节点，将传统文化与党的合法性相联系。",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%96%87%E5%8C%96%E8%B6%B3%E8%BF%B9",
+      "url": "https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E6%8B%85%E8%B4%9F%E8%B5%B7%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -97,18 +98,18 @@
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "老乡鸡道歉",
-      "english_title": "Lao Xiangji apologizes over pet-in-store controversy",
-      "why_it_matters": "Reflects growing public demand for clear service policies and online accountability.",
-      "why_it_matters_zh": "反映公众对明确服务规则和企业在线问责的需求增长。",
-      "pull_quote": "'We failed to remind customers with pets and did not properly accommodate other patrons,' the chain posted on social media.",
-      "pull_quote_zh": "‘我们未能提醒携宠顾客，也未妥善安置其他顾客，’该连锁品牌在社交媒体上发帖称。",
+      "primary_title": "三星堆考古发现11件红玉髓珠",
+      "english_title": "Sanxingdui study traces ancient trade routes via carnelian beads",
+      "why_it_matters": "Provides evidence of early globalization linking Sichuan to South Asia, supporting China's narrative of historical openness.",
+      "why_it_matters_zh": "为古蜀与南亚早期全球化提供证据，支持中国历史开放叙事。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "society",
       "pillar_label": "What's Trending",
       "pillar_label_zh": "热点风向",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%B9%A1%E9%B8%A1%E9%81%93%E6%AD%89",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B011%E4%BB%B6%E7%BA%A2%E7%8E%89%E9%AB%93%E7%8F%A0",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -122,96 +123,24 @@
     },
     {
       "rank": 3,
-      "weight": 28.6,
-      "platforms": [
-        "baidu_top",
-        "elite_press",
-        "tencent_wechat_hot"
-      ],
-      "platform_count": 3,
-      "primary_title": "教育部发布2026年高考预警信息",
-      "english_title": "Ministry of Education issues 2026 Gaokao warning against fraud and cheating",
-      "why_it_matters": "Annual ritual signals official concern over exam integrity amid rising high-tech cheating methods.",
-      "why_it_matters_zh": "年度例行警示表明官方面对高科技作弊手段升级对考试诚信的担忧。",
-      "pull_quote": "Ministry compiled typical cases from recent years including organization of cheating and spreading false information.",
-      "pull_quote_zh": "教育部梳理了近年来包括组织作弊和传播虚假信息在内的典型案件。",
-      "pillar": "regulatory",
-      "pillar_label": "Regulatory Watch",
-      "pillar_label_zh": "监管动态",
-      "source": "21st Century Business Herald",
-      "category": "press",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 5
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 5
-        },
-        {
-          "platform": "elite_press",
-          "rank": 18
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "weight": 26.4,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot",
-        "weibo_hot"
-      ],
-      "platform_count": 3,
-      "primary_title": "山西长治市沁源县委书记赵永进被查",
-      "english_title": "Qinyuan County Party secretary Zhao Yongjin investigated for discipline violations",
-      "why_it_matters": "Continues anti-corruption drive at county level, reinforcing Party discipline.",
-      "why_it_matters_zh": "持续县级反腐，强化党纪。",
-      "pull_quote": "Shanxi Provincial Commission for Discipline Inspection announced investigation on June 2.",
-      "pull_quote_zh": "山西省纪委监委6月2日宣布调查。",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%95%BF%E6%B2%BB%E5%B8%82%E6%B2%81%E6%BA%90%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E6%B0%B8%E8%BF%9B%E8%A2%AB%E6%9F%A5",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 6
-        },
-        {
-          "platform": "weibo_hot",
-          "rank": 9
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 6
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "weight": 25.6,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "94版三国演义司马懿饰演者魏宗万去世",
-      "english_title": "Actor Wei Zongwan, famed as Sima Yi in 1994 'Three Kingdoms', dies at 89",
-      "why_it_matters": "Mourned as icon of classic TV adaptation; reflects cultural nostalgia.",
-      "why_it_matters_zh": "作为经典电视剧形象引发文化怀旧。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
+      "primary_title": "中美两军夏威夷会晤 中方划“红线”",
+      "english_title": "China-US naval talks in Hawaii set red lines on surveillance",
+      "why_it_matters": "Despite dialogue, fundamental strategic mistrust persists, with incidents likely to continue.",
+      "why_it_matters_zh": "对话虽存，但战略互疑未消，摩擦或持续。",
+      "pull_quote": "China warned against 'close-in reconnaissance' under freedom of navigation, a recurring flashpoint.",
+      "pull_quote_zh": "中方警告以航行自由为名的抵近侦察，这是反复出现的引爆点。",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=94%E7%89%88%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%8F%B8%E9%A9%AC%E6%87%BF%E9%A5%B0%E6%BC%94%E8%80%85%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%86%9B%E5%A4%8F%E5%A8%81%E5%A4%B7%E4%BC%9A%E6%99%A4+%E4%B8%AD%E6%96%B9%E5%88%92%E2%80%9C%E7%BA%A2%E7%BA%BF%E2%80%9D",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -220,6 +149,68 @@
         {
           "platform": "tencent_wechat_hot",
           "rank": 3
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "weight": 25.6,
+      "platforms": [
+        "thepaper_news",
+        "xinhua_news"
+      ],
+      "platform_count": 2,
+      "primary_title": "欧洲央行：黄金替代美元成全球官方储备第一大资产",
+      "english_title": "ECB: gold overtakes US dollar as top global reserve asset",
+      "why_it_matters": "Bolsters China's de-dollarization narrative and reinforces gold purchases by central banks, including the PBOC.",
+      "why_it_matters_zh": "强化中国去美元化叙事，支撑包括人民银行在内的央行购金行为。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
+      "source": "",
+      "category": "news",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2aXdLbTNQQVV4SXkwZXNLMUtHWWxzQnlDWHE3bU1FbG5iNmFjcjIyMXhPbjVmeTctY0hTV2dCb2h3WUpsLXpEUEhlMWNJUnZwVU8tZDFEQ0l2MGZqZWR5T1o5YW9OUW4zR1ptZ1Zfc1RKYW42bUtzcW81ODlpZ1k?oc=5",
+      "appearances": [
+        {
+          "platform": "xinhua_news",
+          "rank": 3
+        },
+        {
+          "platform": "thepaper_news",
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "weight": 24.0,
+      "platforms": [
+        "thepaper_news",
+        "xinhua_news"
+      ],
+      "platform_count": 2,
+      "primary_title": "孟加拉国外长卡利勒当选第81届联大主席",
+      "english_title": "Bangladesh foreign minister elected president of 81st UN General Assembly",
+      "why_it_matters": "A close China ally in a high-profile UN role may amplify Beijing's positions on development and global governance.",
+      "why_it_matters_zh": "亲密盟友担任联大主席，或放大北京在发展、全球治理等议题上的声音。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "politics",
+      "pillar_label": "High Politics & Ideology",
+      "pillar_label_zh": "高层政治与意识形态",
+      "source": "",
+      "category": "news",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IOHpCNDVMYjhZWDZsbEFLMXNDeTRGVzRiLUF2WnV4X242dUVXZzZSR1loVjBIWTdrd2ZKUGp0akpwa21OUzN3MjJWUXoyUWI1OGcwc2VNeWR2NVlTRWpZTG5ySXB6YjYtMGlkODZ1NFBuYXFrclZMc0FJa1lWM0U?oc=5",
+      "appearances": [
+        {
+          "platform": "xinhua_news",
+          "rank": 2
+        },
+        {
+          "platform": "thepaper_news",
+          "rank": 5
         }
       ]
     },
@@ -231,9 +222,9 @@
       ],
       "platform_count": 1,
       "primary_title": "2026年人工智能技术赋能网络安全应用测试公告",
-      "english_title": "Cyberspace Administration announces 2026 AI-powered network security test",
-      "why_it_matters": "Signals regulatory push to embed AI in cybersecurity frameworks and set testing standards.",
-      "why_it_matters_zh": "表明监管推动将AI融入网络安全架构并制定测试标准。",
+      "english_title": "Cyberspace Administration announces AI cybersecurity testing initiative",
+      "why_it_matters": "Signals growing state oversight of AI safety, likely to impact both domestic tech firms and foreign AI providers.",
+      "why_it_matters_zh": "显示国家对AI安全的监管加强，可能影响国内外AI企业。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "regulatory",
@@ -251,41 +242,15 @@
     },
     {
       "rank": 7,
-      "weight": 9.0,
-      "platforms": [
-        "xinhua_news"
-      ],
-      "platform_count": 1,
-      "primary_title": "哈工大科研团队发现T细胞激活抗癌新机制",
-      "english_title": "HIT team discovers novel T-cell activation mechanism against cancer",
-      "why_it_matters": "Showcases Chinese university research output; potential for immunotherapy applications.",
-      "why_it_matters_zh": "展示中国高校研究成果，可能用于免疫疗法。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "tech",
-      "pillar_label": "Industry, Tech & Industrial Policy",
-      "pillar_label_zh": "产业、科技与工业政策",
-      "source": "",
-      "category": "news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wOTVJNlI0R1hnSHFZZE1teE1IZFNjRDhIaUpSU0xKYjhaTllNY1dPdVFkOGhaMWc5em84LUZfZHJqVmZiSFFid1BTdmdHLUpjZ2d4dGFTY2huLVN2NWpoNk5FZVJDbGs5cmFLdUw4NTRYTXhuM3ZyMnJydlJDSXc?oc=5",
-      "appearances": [
-        {
-          "platform": "xinhua_news",
-          "rank": 2
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "weight": 2.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "剧本杀密室逃脱须适龄管控 最高法、市监总局发布典型案例",
-      "english_title": "Supreme Court and SAMR set age restrictions for script murder and escape rooms",
-      "why_it_matters": "Tightens consumer protection for minors in new entertainment formats, reflecting regulatory creep.",
-      "why_it_matters_zh": "加强对新型娱乐形式中未成年人的保护，体现监管延伸。",
+      "english_title": "Supreme Court and market regulator tighten age controls for script murder and escape rooms",
+      "why_it_matters": "Reflects rising state intervention in youth entertainment, with potential chilling effects on the industry.",
+      "why_it_matters_zh": "反映国家对青少年娱乐的干预加强，可能对行业产生寒蝉效应。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "regulatory",
@@ -302,21 +267,21 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "weight": 1.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "“耿同学”打假再有战果 《自然》答财新：正评估相关信息",
-      "english_title": "Academic integrity watchdog 'Comrade Geng' scores another win; Nature reviewing info",
-      "why_it_matters": "Highlights growing informal enforcement of research integrity in China, pressuring journals.",
-      "why_it_matters_zh": "凸显中国研究诚信非正式执法的加强，给期刊施压。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "regulatory",
-      "pillar_label": "Regulatory Watch",
-      "pillar_label_zh": "监管动态",
+      "english_title": "Classmate Geng's anti-fake campaign draws response from Nature journal",
+      "why_it_matters": "Highlights ongoing tensions in academic publishing integrity and China's efforts to police research fraud.",
+      "why_it_matters_zh": "凸显学术出版诚信的紧张局势及中国打击科研造假努力。",
+      "pull_quote": "Nature says it is 'assessing the information' about alleged image manipulation in Chinese papers.",
+      "pull_quote_zh": "《自然》表示正'评估'关于中国论文图像处理的信息。",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "pillar_label_zh": "产业、科技与工业政策",
       "source": "Caixin",
       "category": "press",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQ0pxMW9nS2d6b0RkLWY1TTlYR1BaOGltMXloRHVpZWlxM3lTaUcxLUd6ckJBMTExSVRWajBUbXBRcVJMQjJYLV9VZjlWa2J1Y2stS2pTRnNTSm1JTlRFamFR?oc=5",
@@ -328,16 +293,42 @@
       ]
     },
     {
+      "rank": 9,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "【商圈】从大师释永信到囚徒刘应成 少林商业帝国缔造者落幕",
+      "english_title": "Shaolin business empire co-founder Liu Yingcheng sentenced to prison",
+      "why_it_matters": "Closure of a high-profile case linking Buddhism, commerce and corruption, signaling continued anti-graft enforcement.",
+      "why_it_matters_zh": "结案凸显宗教、商业与腐败交织，反映反贪持续。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "economy",
+      "pillar_label": "Economy & Markets",
+      "pillar_label_zh": "经济与市场",
+      "source": "Caixin",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxMUkzNHlEaTBORVZCLVNZMjhNcW5aZHhNVWtjUmY3Mk9xaGJEY1BMOVFyZnhyajBBRVY5OWU4UGctVWJVNTVWbWxESTZvNWJjaGZ3S29IbnBLWTIzOEdVM2lFOA?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 11
+        }
+      ]
+    },
+    {
       "rank": 10,
       "weight": 1.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
-      "english_title": "Former Xiaotiantuan team enters elderly home care hardware, eyes overseas market",
-      "why_it_matters": "Demographic shift drives tech startups targeting senior care, with export ambitions.",
-      "why_it_matters_zh": "人口结构变化推动科技初创企业进军养老硬件市场，并有出口野心。",
+      "primary_title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+      "english_title": "Shenzhen Capital Group leads nearly 100 million yuan round in plant fiber leather startup PEELSPHERE",
+      "why_it_matters": "State-backed venture capital continues to back sustainable materials, aligning with ESG goals and industrial policy.",
+      "why_it_matters_zh": "国有风投持续押注可持续材料，符合ESG及产业政策方向。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "tech",
@@ -345,7 +336,7 @@
       "pillar_label_zh": "产业、科技与工业政策",
       "source": "36Kr",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjVnUyQTN1MWx0anJtVTIxeFVoMTZKTFRUSUJZdjlPQmY4N0JQRVBVTWdjS2szcFpXcWVTTVR6M096R1FYaGZxdjhvSEJhdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
@@ -360,10 +351,10 @@
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
-      "english_title": "Shenzhen Capital Group leads near-100M yuan round in plant fiber leather startup PEELSPHERE",
-      "why_it_matters": "State-backed VC bets on sustainable materials; aligns with ESG and China's green push.",
-      "why_it_matters_zh": "国有风投押注可持续材料，符合ESG和中国绿色议程。",
+      "primary_title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+      "english_title": "Former Xiaotiancai team launches senior care hardware startup, eyes overseas markets",
+      "why_it_matters": "Taps into aging population and silver economy, with potential for global expansion.",
+      "why_it_matters_zh": "切入老龄化与银发经济，具备出海潜力。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "tech",
@@ -371,7 +362,7 @@
       "pillar_label_zh": "产业、科技与工业政策",
       "source": "36Kr",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjVnUyQTN1MWx0anJtVTIxeFVoMTZKTFRUSUJZdjlPQmY4N0JQRVBVTWdjS2szcFpXcWVTTVR6M096R1FYaGZxdjhvSEJhdw?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
@@ -387,11 +378,11 @@
       ],
       "platform_count": 1,
       "primary_title": "The China-US tech truce is fragile",
-      "english_title": "China-US tech truce remains fragile: Financial Times",
-      "why_it_matters": "Underlines persistent tensions despite nominal truce; risks of decoupling in semiconductor and AI sectors.",
-      "why_it_matters_zh": "突出尽管名义休战但紧张局势持续；半导体和AI领域脱钩风险。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "China-US tech truce is fragile",
+      "why_it_matters": "Reaffirms that underlying tech competition remains unresolved despite temporary tariff pauses.",
+      "why_it_matters_zh": "确认技术竞争根本分歧未消，关税暂停只是暂时。",
+      "pull_quote": "The truce masks deep divisions over chips, AI and market access.",
+      "pull_quote_zh": "休战掩盖了芯片、AI和市场准入等深层分歧。",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
@@ -413,9 +404,9 @@
       ],
       "platform_count": 1,
       "primary_title": "China’s hunt for US tungsten escalates global critical minerals race",
-      "english_title": "China's hunt for US tungsten escalates critical minerals competition",
-      "why_it_matters": "Illustrates resource race as China seeks to secure supply chains for strategic metals.",
-      "why_it_matters_zh": "显示中国为保障战略金属供应链而进行的资源争夺加剧。",
+      "english_title": "China's hunt for US tungsten escalates global critical minerals race",
+      "why_it_matters": "Shows China's proactive strategy to secure resources, leveraging its processing dominance.",
+      "why_it_matters_zh": "显示中国利用加工优势主动争夺关键矿产资源的战略。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",

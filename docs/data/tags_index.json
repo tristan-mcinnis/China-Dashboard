@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T11:27:56+08:00",
+  "updated_at": "2026-06-03T11:48:43+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1598,6 +1598,265 @@
             "elite_press"
           ],
           "category": "press"
+        }
+      ]
+    },
+    "us-china relations": {
+      "label": "US-China relations",
+      "count": 8,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "China’s hunt for US tungsten escalates global critical minerals race",
+          "english_title": "China's hunt for US tungsten escalates global critical minerals race",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "China-US tech truce is fragile",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+          "english_title": "Shenzhen Capital Group leads nearly 100 million yuan round in plant fiber leather startup PEELSPHERE",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUG1FR2VjQ0d3djlBVk40SEFvdE5rZFNYV29rUlFHUjVyV0NmZFVGQlNKNGRfZ1d2bjVNQVlYell1VGFxa1ZZaUN1VXVfUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "【商圈】从大师释永信到囚徒刘应成 少林商业帝国缔造者落幕",
+          "english_title": "Shaolin business empire co-founder Liu Yingcheng sentenced to prison",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxMUkzNHlEaTBORVZCLVNZMjhNcW5aZHhNVWtjUmY3Mk9xaGJEY1BMOVFyZnhyajBBRVY5OWU4UGctVWJVNTVWbWxESTZvNWJjaGZ3S29IbnBLWTIzOEdVM2lFOA?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "剧本杀密室逃脱须适龄管控 最高法、市监总局发布典型案例",
+          "english_title": "Supreme Court and market regulator tighten age controls for script murder and escape rooms",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNmZfSUNYTGY1TGtfX3hOM1JuQ0NFU1ROak9VQlllZnRRMGR4ai1Vd0lqdndmUlBqQjJxd0VIS1h3bjB5eF9kMGFha3pBSGM2MUdpbVF2bVVoWDRILW1F?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "欧洲央行：黄金替代美元成全球官方储备第一大资产",
+          "english_title": "ECB: gold overtakes US dollar as top global reserve asset",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2aXdLbTNQQVV4SXkwZXNLMUtHWWxzQnlDWHE3bU1FbG5iNmFjcjIyMXhPbjVmeTctY0hTV2dCb2h3WUpsLXpEUEhlMWNJUnZwVU8tZDFEQ0l2MGZqZWR5T1o5YW9OUW4zR1ptZ1Zfc1RKYW42bUtzcW81ODlpZ1k?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "中美两军夏威夷会晤 中方划“红线”",
+          "english_title": "China-US naval talks in Hawaii set red lines on surveillance",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%86%9B%E5%A4%8F%E5%A8%81%E5%A4%B7%E4%BC%9A%E6%99%A4+%E4%B8%AD%E6%96%B9%E5%88%92%E2%80%9C%E7%BA%A2%E7%BA%BF%E2%80%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "更好担负起新的文化使命",
+          "english_title": "Xi calls for assuming new cultural mission on anniversary of symposium",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E6%8B%85%E8%B4%9F%E8%B5%B7%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "tech decoupling": {
+      "label": "tech decoupling",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "China-US tech truce is fragile",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces AI cybersecurity testing initiative",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "military tensions": {
+      "label": "military tensions",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "“耿同学”打假再有战果 《自然》答财新：正评估相关信息",
+          "english_title": "Classmate Geng's anti-fake campaign draws response from Nature journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQ0pxMW9nS2d6b0RkLWY1TTlYR1BaOGltMXloRHVpZWlxM3lTaUcxLUd6ckJBMTExSVRWajBUbXBRcVJMQjJYLV9VZjlWa2J1Y2stS2pTRnNTSm1JTlRFamFR?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "de-dollarization": {
+      "label": "de-dollarization",
+      "count": 10,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "China-US tech truce is fragile",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "【商圈】从大师释永信到囚徒刘应成 少林商业帝国缔造者落幕",
+          "english_title": "Shaolin business empire co-founder Liu Yingcheng sentenced to prison",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxMUkzNHlEaTBORVZCLVNZMjhNcW5aZHhNVWtjUmY3Mk9xaGJEY1BMOVFyZnhyajBBRVY5OWU4UGctVWJVNTVWbWxESTZvNWJjaGZ3S29IbnBLWTIzOEdVM2lFOA?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "“耿同学”打假再有战果 《自然》答财新：正评估相关信息",
+          "english_title": "Classmate Geng's anti-fake campaign draws response from Nature journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQ0pxMW9nS2d6b0RkLWY1TTlYR1BaOGltMXloRHVpZWlxM3lTaUcxLUd6ckJBMTExSVRWajBUbXBRcVJMQjJYLV9VZjlWa2J1Y2stS2pTRnNTSm1JTlRFamFR?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "剧本杀密室逃脱须适龄管控 最高法、市监总局发布典型案例",
+          "english_title": "Supreme Court and market regulator tighten age controls for script murder and escape rooms",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNmZfSUNYTGY1TGtfX3hOM1JuQ0NFU1ROak9VQlllZnRRMGR4ai1Vd0lqdndmUlBqQjJxd0VIS1h3bjB5eF9kMGFha3pBSGM2MUdpbVF2bVVoWDRILW1F?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces AI cybersecurity testing initiative",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "孟加拉国外长卡利勒当选第81届联大主席",
+          "english_title": "Bangladesh foreign minister elected president of 81st UN General Assembly",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IOHpCNDVMYjhZWDZsbEFLMXNDeTRGVzRiLUF2WnV4X242dUVXZzZSR1loVjBIWTdrd2ZKUGp0akpwa21OUzN3MjJWUXoyUWI1OGcwc2VNeWR2NVlTRWpZTG5ySXB6YjYtMGlkODZ1NFBuYXFrclZMc0FJa1lWM0U?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "欧洲央行：黄金替代美元成全球官方储备第一大资产",
+          "english_title": "ECB: gold overtakes US dollar as top global reserve asset",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2aXdLbTNQQVV4SXkwZXNLMUtHWWxzQnlDWHE3bU1FbG5iNmFjcjIyMXhPbjVmeTctY0hTV2dCb2h3WUpsLXpEUEhlMWNJUnZwVU8tZDFEQ0l2MGZqZWR5T1o5YW9OUW4zR1ptZ1Zfc1RKYW42bUtzcW81ODlpZ1k?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "中美两军夏威夷会晤 中方划“红线”",
+          "english_title": "China-US naval talks in Hawaii set red lines on surveillance",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%86%9B%E5%A4%8F%E5%A8%81%E5%A4%B7%E4%BC%9A%E6%99%A4+%E4%B8%AD%E6%96%B9%E5%88%92%E2%80%9C%E7%BA%A2%E7%BA%BF%E2%80%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "三星堆考古发现11件红玉髓珠",
+          "english_title": "Sanxingdui study traces ancient trade routes via carnelian beads",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B011%E4%BB%B6%E7%BA%A2%E7%8E%89%E9%AB%93%E7%8F%A0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "更好担负起新的文化使命",
+          "english_title": "Xi calls for assuming new cultural mission on anniversary of symposium",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E6%8B%85%E8%B4%9F%E8%B5%B7%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "ideological consolidation": {
+      "label": "ideological consolidation",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "更好担负起新的文化使命",
+          "english_title": "Xi calls for assuming new cultural mission on anniversary of symposium",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E6%8B%85%E8%B4%9F%E8%B5%B7%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
         }
       ]
     }
