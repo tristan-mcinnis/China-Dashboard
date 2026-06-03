@@ -1645,6 +1645,27 @@ a.bilingual-text {
   background: var(--color-bg-secondary);
 }
 
+/* A lone or odd trailing card spans the full width of the two-column grid. */
+.brief-story--wide {
+  grid-column: 1 / -1;
+}
+
+/* Gentle staggered reveal on first paint (delay set inline per card). */
+@keyframes briefFadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.brief-story.brief-animate {
+  animation: briefFadeIn 0.4s ease both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brief-story.brief-animate {
+    animation: none;
+  }
+}
+
 .brief-market {
   font-family: var(--font-mono);
   font-size: 0.74rem;

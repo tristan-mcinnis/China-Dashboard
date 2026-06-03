@@ -1448,6 +1448,7 @@ const PLATFORM_BADGES = {
 // Today's Brief — render the DeepSeek cross-source digest
 let _briefDigest = null;
 let briefLang = 'en';
+let _briefAnimated = false;
 
 async function renderDigest(preloaded) {
   const meta = document.getElementById('brief-meta');
@@ -1529,6 +1530,11 @@ async function renderDigest(preloaded) {
     if (stories) {
       stories.innerHTML = '';
       const all = digest.top_stories || [];
+      // Stagger a gentle fade-in on the very first paint only, so language
+      // toggles and the 30s auto-refresh don't replay the animation.
+      const animate = !_briefAnimated;
+      _briefAnimated = true;
+      let revealIndex = 0;
 
       // Render one Sinocism-style thematic block per pillar, in the order the
       // digest declares. Fall back to a single block if no pillars are present.
@@ -1569,9 +1575,19 @@ async function renderDigest(preloaded) {
 
         const ol = document.createElement('ol');
         ol.className = 'brief-stories';
-        block.forEach((s) => {
+        block.forEach((s, idx) => {
           const li = document.createElement('li');
           li.className = 'brief-story';
+          // A lone or odd trailing card spans both columns so it never leaves
+          // an empty cell beside it.
+          if (idx === block.length - 1 && block.length % 2 === 1) {
+            li.classList.add('brief-story--wide');
+          }
+          if (animate) {
+            li.classList.add('brief-animate');
+            li.style.animationDelay = `${revealIndex * 45}ms`;
+          }
+          revealIndex += 1;
 
           const title = document.createElement('div');
           title.className = 'brief-story-title';
