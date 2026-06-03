@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T20:11:23+08:00",
+  "updated_at": "2026-06-03T23:45:17+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -2265,6 +2265,103 @@
             "tencent_wechat_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "politics": {
+      "label": "politics",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "跑好历史接力赛",
+          "english_title": "Xi Jinping responds to young pioneers guides, urges following the Party",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E5%A5%BD%E5%8E%86%E5%8F%B2%E6%8E%A5%E5%8A%9B%E8%B5%9B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "economy": {
+      "label": "economy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "跑好历史接力赛",
+          "english_title": "Xi Jinping responds to young pioneers guides, urges following the Party",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E5%A5%BD%E5%8E%86%E5%8F%B2%E6%8E%A5%E5%8A%9B%E8%B5%9B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "geopolitics": {
+      "label": "geopolitics",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "跑好历史接力赛",
+          "english_title": "Xi Jinping responds to young pioneers guides, urges following the Party",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E5%A5%BD%E5%8E%86%E5%8F%B2%E6%8E%A5%E5%8A%9B%E8%B5%9B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "tech": {
+      "label": "tech",
+      "count": 4,
+      "stories": [
+        {
+          "date": "2026-06-03",
+          "title": "The China-US tech truce is fragile",
+          "english_title": "China-US tech truce seen as fragile amid ongoing tensions",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "China’s hunt for US tungsten escalates global critical minerals race",
+          "english_title": "China intensifies hunt for US tungsten, escalating critical minerals race",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+          "english_title": "Former Meituan delivery tech lead starts embodied AI venture for restaurant industry",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYy1KdkM2TGRVb2liS3BPN3hBU0hQcXFpV0dGREg4c3hBNW1JclBtNl9OUUU3MEs1NVlWRUtQdkFqSU1JdHJ2aWJRWlhkUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "特朗普签署“妥协版”AI模型审查行政令",
+          "english_title": "Trump signs compromise executive order on AI model review",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xb28wNXpfMjJwNmg3UUxzX0RBeFZIYXJtZ2tQS0cwNWo1N1hQSFJhV3JxU0ItTU03NERZVzdRR3lhM19zSFVhdGo1T0FHWnFGNUp0dzFYaEpNamZOZVktNHllUUh2WmZIUG1nSFo3VXVTc1NZVGIyOU5RaFpJdw?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
         }
       ]
     }
