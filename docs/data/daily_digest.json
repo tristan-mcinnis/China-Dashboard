@@ -1,40 +1,45 @@
 {
   "digest_type": "midday",
-  "as_of": "2026-06-04T11:48:25+08:00",
+  "as_of": "2026-06-04T15:30:54+08:00",
   "date": "2026-06-04",
   "time_label": "Midday Brief",
-  "beijing_time": "11:48",
+  "beijing_time": "15:30",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Wang Lixia trial, local fiscal cracks signal tightening; China auto and minerals push abroad",
-  "headline_zh": "王莉霞受审与地方财政承压释放收紧信号；中国车企及矿产布局加速出海",
-  "narrative": "The corruption trial of former Inner Mongolia chair Wang Lixia and Caixin's analysis of local fiscal stress point to a dual tightening: anti-graft and austerity. Meanwhile, Nissan's deal with Chery for UK production and China's hunt for US tungsten mark an assertive outward push in autos and critical minerals, challenging Western supply chains. These moves reflect Beijing's balancing act between domestic consolidation and external expansion.",
-  "narrative_zh": "前内蒙古主席王莉霞受贿案开审以及财新关于地方财政承压的分析，预示着反腐败与财政紧缩双重收紧。与此同时，日产与奇瑞达成英国生产协议、中国在全球争夺钨矿资源，标志着中国在汽车和关键矿产领域的对外扩张步伐加快，挑战西方供应链。这些举措反映了北京在国内巩固与对外拓展之间的平衡。",
-  "market_snapshot": "SSE Composite 4066.555 ▼0.21% · Shenzhen Component 15632.789 ▲0.27% · ChiNext 4077.747 ▼1.10% · USD/CNY 6.777 ▲0.12% · USD/CNH 6.7783 ▲0.01%",
+  "headline": "Gold overtakes US Treasuries as top global official reserve asset",
+  "headline_zh": "黄金超越美债成为全球第一大官方储备资产",
+  "narrative": "A seismic shift in global reserve composition: for the first time, gold has surpassed US Treasuries as the largest component of official reserve assets worldwide. This milestone, reported by Caixin, underscores accelerating de-dollarization and central banks' pivot to physical assets amid geopolitical uncertainty. Meanwhile, the trial of former Inner Mongolia chairwoman Wang Lixia on corruption charges highlights the Party's ongoing anti-corruption campaign targeting high-ranking officials, signaling that even provincial leaders with significant power are not immune. On the policy front, the government's new childbirth subsidy program commits 110 billion yuan to boost fertility rates, reflecting growing concern over demographic decline. In the tech sector, a micro-joint module startup led by Shenzhen Capital Group raises funds, indicating continued state-backed investment in advanced manufacturing.",
+  "narrative_zh": "全球储备构成发生巨变：黄金首次超越美国国债，成为全球官方储备资产最大组成部分。这一里程碑标志着去美元化加速，央行在不确定地缘环境中转向实物资产。与此同时，内蒙古自治区原主席王莉霞因腐败受审，显示反腐高压态势已延伸至正省级高官。政策方面，育儿补贴计划斥资1100亿元，显示对人口下降的担忧。科技领域，深创投领投微型关节模组企业，反映国有资本对高端制造的支持。",
+  "market_snapshot": "SSE Composite 4057.781 ▼0.42% · Shenzhen Component 15661.574 ▲0.45% · ChiNext 4088.884 ▼0.83% · USD/CNY 6.7748 ▲0.09% · USD/CNH 6.7759 ▼0.02%",
   "themes": [
-    "anti-corruption",
-    "local fiscal stress",
-    "auto industry globalization",
-    "critical minerals race",
-    "regulatory crackdown"
+    "De-dollarization",
+    "Gold reserves",
+    "Anti-corruption",
+    "Childcare subsidies",
+    "Critical minerals",
+    "Auto industry"
   ],
   "theme_trends": {
-    "anti-corruption": {
+    "De-dollarization": {
+      "status": "rising",
+      "days_seen": 1
+    },
+    "Gold reserves": {
+      "status": "recurring",
+      "days_seen": 3
+    },
+    "Anti-corruption": {
       "status": "rising",
       "days_seen": 2
     },
-    "local fiscal stress": {
+    "Childcare subsidies": {
+      "status": "recurring",
+      "days_seen": 3
+    },
+    "Critical minerals": {
       "status": "rising",
       "days_seen": 2
     },
-    "auto industry globalization": {
-      "status": "rising",
-      "days_seen": 2
-    },
-    "critical minerals race": {
-      "status": "rising",
-      "days_seen": 2
-    },
-    "regulatory crackdown": {
+    "Auto industry": {
       "status": "rising",
       "days_seen": 2
     }
@@ -42,12 +47,14 @@
   "entities": [
     "Wang Lixia",
     "Caixin",
+    "Gold",
+    "US Treasuries",
     "Nissan",
     "Chery",
-    "Tiger Brokers",
-    "Netherlands? (no, Sunderland)",
-    "US tungsten",
-    "CAC"
+    "Central bank",
+    "CAC",
+    "Sunderland",
+    "Tungsten"
   ],
   "pillars": [
     {
@@ -59,6 +66,11 @@
       "key": "economy",
       "label": "Economy & Markets",
       "label_zh": "经济与市场"
+    },
+    {
+      "key": "tech",
+      "label": "Industry, Tech & Industrial Policy",
+      "label_zh": "产业、科技与工业政策"
     },
     {
       "key": "geopolitics",
@@ -79,91 +91,24 @@
   "top_stories": [
     {
       "rank": 1,
-      "weight": 44.0,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot",
-        "weibo_hot"
-      ],
-      "platform_count": 3,
-      "primary_title": "NBA总决赛首场 尼克斯逆转马刺",
-      "english_title": "NBA Finals Game 1: Knicks upset Spurs",
-      "why_it_matters": "High domestic viewership but no policy signal; purely entertainment.",
-      "why_it_matters_zh": "国内收视率高，但无政策信号，纯娱乐内容。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A6%96%E5%9C%BA+%E5%B0%BC%E5%85%8B%E6%96%AF%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 6
-        },
-        {
-          "platform": "weibo_hot",
-          "rank": 1
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 6
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "weight": 32.0,
-      "platforms": [
-        "thepaper_news",
-        "xinhua_news"
-      ],
-      "platform_count": 2,
-      "primary_title": "中国使馆提醒在菲中国公民和企业加强安全防范",
-      "english_title": "Chinese embassy warns citizens in Philippines",
-      "why_it_matters": "Reflects frayed bilateral relations and security risks for Chinese abroad.",
-      "why_it_matters_zh": "反映中菲关系紧张及海外华人安全风险。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
-      "source": "",
-      "category": "news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51bVZfMktPaDFWU0pSejVwUmVSZ19JLTNCQ05MQ3pUUWVndjljd1loRDNfOS16YlRpalc4aFVUR21LMDBoZ0J2LXl5blQ3SlJQM1N2VkdFN0RqZWxudTVxaFRJM185Mm01bUVWNnpSbkY3a3hFaXY2bVNBZDRlMmM?oc=5",
-      "appearances": [
-        {
-          "platform": "xinhua_news",
-          "rank": 1
-        },
-        {
-          "platform": "thepaper_news",
-          "rank": 1
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "weight": 28.8,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "今晚油价将调整",
-      "english_title": "Tonight's fuel price adjustment expected",
-      "why_it_matters": "Consumer sentiment indicator; routine but watched for inflationary pressure.",
-      "why_it_matters_zh": "消费情绪指标；虽例行但反映通胀压力。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "primary_title": "从怀孕到生娃能领7笔钱",
+      "english_title": "Childbirth subsidy to reach 3,600 yuan per child per year",
+      "why_it_matters": "Signal of urgency to reverse demographic decline; fiscal cost 110 billion yuan.",
+      "why_it_matters_zh": "显示扭转人口下降的紧迫性；财政支出约1100亿元。",
+      "pull_quote": "预计全年各级财政共安排补贴资金约1100亿元",
+      "pull_quote_zh": "预计全年各级财政共安排补贴资金约1100亿元",
       "pillar": "society",
       "pillar_label": "What's Trending",
       "pillar_label_zh": "热点风向",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E6%80%80%E5%AD%95%E5%88%B0%E7%94%9F%E5%A8%83%E8%83%BD%E9%A2%867%E7%AC%94%E9%92%B1",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -176,25 +121,25 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "weight": 25.6,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "“10万亿元级”大市场或要来了",
-      "english_title": "Global semiconductor market forecast to hit $1.5 trillion",
-      "why_it_matters": "AI-driven demand surge underscores China's chip dependency and opportunity.",
-      "why_it_matters_zh": "AI需求激增凸显中国芯片依赖与机遇。",
-      "pull_quote": "WSTS predicts 2026 semiconductor market to grow nearly 90% year-on-year.",
-      "pull_quote_zh": "世界半导体贸易统计组织预测2026年市场同比增长近九成。",
-      "pillar": "economy",
-      "pillar_label": "Economy & Markets",
-      "pillar_label_zh": "经济与市场",
+      "primary_title": "油价今晚下调 加满一箱油少花20.5元",
+      "english_title": "Oil price cut tonight, saving 20.5 yuan per full tank",
+      "why_it_matters": "Reflects global oil price decline and provides consumer relief.",
+      "why_it_matters_zh": "反映国际油价下跌，减轻消费者负担。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C10%E4%B8%87%E4%BA%BF%E5%85%83%E7%BA%A7%E2%80%9D%E5%A4%A7%E5%B8%82%E5%9C%BA%E6%88%96%E8%A6%81%E6%9D%A5%E4%BA%86",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E4%B8%8B%E8%B0%83+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B120.5%E5%85%83",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -203,6 +148,68 @@
         {
           "platform": "tencent_wechat_hot",
           "rank": 3
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "weight": 24.0,
+      "platforms": [
+        "thepaper_news",
+        "xinhua_news"
+      ],
+      "platform_count": 2,
+      "primary_title": "中国使馆提醒在菲中国公民和企业加强安全防范",
+      "english_title": "Chinese embassy warns citizens in Philippines to enhance security",
+      "why_it_matters": "Indicates potential security risks in Philippines-China relations or local environment.",
+      "why_it_matters_zh": "提示中菲关系或当地环境可能存在安全风险。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
+      "source": "",
+      "category": "news",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51bVZfMktPaDFWU0pSejVwUmVSZ19JLTNCQ05MQ3pUUWVndjljd1loRDNfOS16YlRpalc4aFVUR21LMDBoZ0J2LXl5blQ3SlJQM1N2VkdFN0RqZWxudTVxaFRJM185Mm01bUVWNnpSbkY3a3hFaXY2bVNBZDRlMmM?oc=5",
+      "appearances": [
+        {
+          "platform": "xinhua_news",
+          "rank": 2
+        },
+        {
+          "platform": "thepaper_news",
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "weight": 22.4,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "端午火车票明日开售",
+      "english_title": "Dragon Boat Festival train tickets go on sale tomorrow",
+      "why_it_matters": "Practical travel information; signals peak domestic travel period.",
+      "why_it_matters_zh": "实用出行信息，预示国内出行高峰。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%98%8E%E6%97%A5%E5%BC%80%E5%94%AE",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 4
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 4
         }
       ]
     },
@@ -214,9 +221,9 @@
       ],
       "platform_count": 1,
       "primary_title": "2026年人工智能技术赋能网络安全应用测试公告",
-      "english_title": "CAC announces AI-powered cybersecurity testing",
-      "why_it_matters": "Signals regulatory push to control AI security risks and shape standards.",
-      "why_it_matters_zh": "表明监管层推动AI安全风险管控与标准制定。",
+      "english_title": "2026 AI empowerment in cybersecurity application test announcement",
+      "why_it_matters": "CAC pushes AI integration in security; regulatory step to shape AI governance.",
+      "why_it_matters_zh": "网信办推动AI与网络安全融合，是AI监管的重要步骤。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "regulatory",
@@ -240,17 +247,17 @@
       ],
       "platform_count": 1,
       "primary_title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
-      "english_title": "Former Inner Mongolia chair Wang Lixia to stand trial",
-      "why_it_matters": "High-profile corruption case signals continued anti-graft campaign targeting senior officials.",
-      "why_it_matters_zh": "高官腐败案显示反腐败持续高压。",
-      "pull_quote": "Wang allegedly enriched herself while rising from mayor to provincial chair.",
-      "pull_quote_zh": "王被控从市长到主席期间边升官边敛财。",
+      "english_title": "Former Inner Mongolia chairperson Wang Lixia to stand trial for corruption",
+      "why_it_matters": "High-profile anti-corruption case signaling continued crackdown on senior officials.",
+      "why_it_matters_zh": "高关注度反腐案件，显示对高级官员的持续高压态势。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
       "source": "Caixin",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45QnNra2tNWkNrMHVSNTc4WVJSR2dFQk5kemRqcnQycmNZdF80ZzlDbXdMUHJsZ1dhb0VTRkVCdWJ2d1VjRDV2MGRldGRxUDMtdGRkMWJuSV91Uy1YbnJj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jNDF0T0NPTWR6a0t5UXFiUTdjV1d4Q1cyem1XX004dFo1ZGtWS3J4TlNYb2VFQTNRVG9Cd2cyb3g3M1ZIX2FZWjQ5cnphb1M4N0FLNC1EdDJrQy0zbTdkeE5B?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
@@ -265,26 +272,26 @@
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "Analysis: China’s Local Fiscal Recovery Hides Scramble to Plug Budget Holes",
-      "english_title": "Local fiscal recovery masks budget gaps: Caixin",
-      "why_it_matters": "Reveals structural fiscal stress beneath aggregate growth; implications for local government financing.",
-      "why_it_matters_zh": "显示整体增长下地方财政结构性压力，影响地方融资。",
+      "primary_title": "评论 - 21经济网",
+      "english_title": "Commentary: 21 Economic Net editorial",
+      "why_it_matters": "Opinion piece likely on economic policy; specific content unknown.",
+      "why_it_matters_zh": "可能涉及经济政策的评论文章，具体内容未知。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
-      "source": "Caixin Global",
+      "source": "21st Century Business Herald",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzhqaGZnZ3RkeFF0SjY5dTdxV0l6a29MTkoxUXhqa1JYV3Zwakhhc2FoZTJMTVp4RHlmQXg4WXpKZzM1eElQNjVsZ1RaU3NSYS1Vcm1mazgxaUdNTTdfc0ZBbkk4a29ldVNzS1FxYmpWLVhoOGRENmIzWGp0Q2RvTExsOURYZ3J0c3JTbkdjZktBd2JRLXcyM2syRU5GTS1RbkozMENHMWZPc18xdzVqbjZwOWRzSXg3X3k3a1U4TURtb0thYUQ4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ySjl3T2ZLUVl6NGF3WHkzcTFTUU05V3RIMUhkREpGbE5BRU1IS2QzRHMtU2Jyd0c3SEhUXzhHOUFYQlg4ZGVxakJXcWZfdzBnd0FV?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
-          "rank": 21
+          "rank": 17
         },
         {
           "platform": "elite_press",
-          "rank": 23
+          "rank": 18
         }
       ]
     },
@@ -295,18 +302,18 @@
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "老虎证券6月12日起将停止存量用户中国境内开仓加仓",
-      "english_title": "Tiger Brokers to halt mainland users from opening new positions",
-      "why_it_matters": "Regulatory tightening on cross-border trading platforms; capital outflow controls.",
-      "why_it_matters_zh": "对跨境交易平台监管收紧；资本外流管控。",
-      "pull_quote": "Effective June 12, existing users cannot add positions.",
-      "pull_quote_zh": "6月12日起存量用户无法加仓。",
-      "pillar": "regulatory",
-      "pillar_label": "Regulatory Watch",
-      "pillar_label_zh": "监管动态",
+      "primary_title": "超越美债，黄金成全球官方储备第一大资产",
+      "english_title": "Gold surpasses US debt as top global official reserve asset",
+      "why_it_matters": "Milestone in de-dollarization; central banks diversifying away from Treasuries.",
+      "why_it_matters_zh": "去美元化的里程碑；央行正减持美债转向多元化储备。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "economy",
+      "pillar_label": "Economy & Markets",
+      "pillar_label_zh": "经济与市场",
       "source": "Caixin",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tUVVvbGVEWXRrdWFac1RUMVhHeHVIWTZidDVfNDA4dzAwbjBqczlaRGFrYUlpejc3d1BueDlENTNSckFsMThQTE9EczVfaEsxV1pPQmFoMnR6RFRuV3dNTEZ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mekp5dEl1M3d5X19vNktPcjFvRjh3MnRPTlVaUnF4MFJxVWJRdlBYOUdLNlVRMWN0Zy1zakZoM0FoYlN1emloTThOV3NhWDczY0VHOW9vSWVaejh3N0E?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
@@ -321,10 +328,36 @@
         "elite_press"
       ],
       "platform_count": 1,
+      "primary_title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+      "english_title": "Shenzhen Capital Group leads multi-million yuan funding for micro-joint module startup",
+      "why_it_matters": "Highlights domestic VC support for precision manufacturing and robotics components.",
+      "why_it_matters_zh": "显示国内资本对精密制造和机器人零部件的支持。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "pillar_label_zh": "产业、科技与工业政策",
+      "source": "36Kr",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oelRuUWF1MXhJa1d1QkNva3owSEFRaTBJNEZqYzRsb2hfOHAzZUM0VlgwbXBISU5RZWdLdW9XN3ZwUHpnaHJEUS1Pa0pfZw?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 25
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
       "primary_title": "Nissan signs deal with China’s Chery for Sunderland car production",
-      "english_title": "Nissan, Chery deal for UK car production",
-      "why_it_matters": "Chinese automaker gains UK production foothold via alliance; challenges to EU/UK auto industry.",
-      "why_it_matters_zh": "中国车企借联盟进入英国生产，挑战欧盟/英国汽车业。",
+      "english_title": "Nissan signs deal with China's Chery for Sunderland car production",
+      "why_it_matters": "Major cross-border auto tie-up; Chinese EV maker expands into UK via partnership.",
+      "why_it_matters_zh": "重大跨境汽车合作；中国电动汽车制造商通过合作进入英国市场。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -341,16 +374,16 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 11,
       "weight": 1.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "China’s hunt for US tungsten escalates global critical minerals race",
-      "english_title": "China scours US for tungsten supplies",
-      "why_it_matters": "Critical minerals race intensifies; China seeks US tungsten despite trade tensions.",
-      "why_it_matters_zh": "关键矿产竞争加剧，中国在贸易紧张下寻求美国钨资源。",
+      "english_title": "China's hunt for US tungsten escalates global critical minerals race",
+      "why_it_matters": "Critical minerals rivalry intensifies; China actively sourcing US tungsten to secure supply.",
+      "why_it_matters_zh": "关键矿产竞争加剧；中国积极获取美国钨矿以保障供应。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
