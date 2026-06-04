@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T06:44:22+08:00",
+  "updated_at": "2026-06-04T11:48:25+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1199,8 +1199,18 @@
     },
     "critical minerals race": {
       "label": "critical minerals race",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "China’s hunt for US tungsten escalates global critical minerals race",
+          "english_title": "China scours US for tungsten supplies",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkV4bDFILWJ4RFlhTEZTdzBPUjhLMzZlQ2VwaVlOSDktOTNlcktrcVpXZ05MV3JfMUV6dlppcGkzOFVmU1NPZy1GNjVmMy1wNkNiV01iY2tiTkhJbDJiRFBITHN3MGRJZ3ZtUV8ydGZfS0ItTXpTMDRYN28wUGxMY215TU4?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-03",
           "title": "China’s hunt for US tungsten escalates global critical minerals race",
@@ -2524,6 +2534,64 @@
             "tencent_wechat_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "local fiscal stress": {
+      "label": "local fiscal stress",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "Analysis: China’s Local Fiscal Recovery Hides Scramble to Plug Budget Holes",
+          "english_title": "Local fiscal recovery masks budget gaps: Caixin",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzhqaGZnZ3RkeFF0SjY5dTdxV0l6a29MTkoxUXhqa1JYV3Zwakhhc2FoZTJMTVp4RHlmQXg4WXpKZzM1eElQNjVsZ1RaU3NSYS1Vcm1mazgxaUdNTTdfc0ZBbkk4a29ldVNzS1FxYmpWLVhoOGRENmIzWGp0Q2RvTExsOURYZ3J0c3JTbkdjZktBd2JRLXcyM2syRU5GTS1RbkozMENHMWZPc18xdzVqbjZwOWRzSXg3X3k3a1U4TURtb0thYUQ4?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "auto industry globalization": {
+      "label": "auto industry globalization",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "Nissan signs deal with China’s Chery for Sunderland car production",
+          "english_title": "Nissan, Chery deal for UK car production",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWZfNm5OTVRjVVVoWFcyZTNpMTk0bDE5WDBUbDcwemdkaG1SYjRQSDJmcUZUdnV4SVpOeUptODhBdkNaX0R1VmQ3V1U4YlVfUUhCM1Y0YjAwRW5HTWlYaVRLTlhZd1ZhcnVTamw0aXZkOWppYVdKczEtUXRCWHk3NjYyXzU?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "regulatory crackdown": {
+      "label": "regulatory crackdown",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "老虎证券6月12日起将停止存量用户中国境内开仓加仓",
+          "english_title": "Tiger Brokers to halt mainland users from opening new positions",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tUVVvbGVEWXRrdWFac1RUMVhHeHVIWTZidDVfNDA4dzAwbjBqczlaRGFrYUlpejc3d1BueDlENTNSckFsMThQTE9EczVfaEsxV1pPQmFoMnR6RFRuV3dNTEZ3?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC announces AI-powered cybersecurity testing",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
         }
       ]
     }
