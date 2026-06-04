@@ -1,7 +1,76 @@
 {
   "source": "NBS/EastMoney",
-  "generated_at": "2026-06-04T23:11:10+08:00",
+  "generated_at": "2026-06-05T06:31:31+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-05T06:31:31+08:00",
+      "source": "NBS/EastMoney",
+      "items": [
+        {
+          "title": "New Home Prices YoY",
+          "value": "-3.7%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "70-City New Home Price Index, avg YoY",
+            "date": "2026-04"
+          }
+        },
+        {
+          "title": "New Home Prices MoM",
+          "value": "-0.2%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "70-City New Home Price Index, avg MoM",
+            "date": "2026-04"
+          }
+        },
+        {
+          "title": "Resale Prices YoY",
+          "value": "-6.2%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "70-City Second-hand Home Price Index, avg YoY",
+            "date": "2026-04"
+          }
+        },
+        {
+          "title": "Beijing New Home YoY",
+          "value": "-2.3%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "Beijing New Home Price Index YoY",
+            "date": "2026-04"
+          }
+        },
+        {
+          "title": "Shanghai New Home YoY",
+          "value": "+3.7%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "Shanghai New Home Price Index YoY",
+            "date": "2026-04"
+          }
+        },
+        {
+          "title": "Shenzhen New Home YoY",
+          "value": "-5.3%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "Shenzhen New Home Price Index YoY",
+            "date": "2026-04"
+          }
+        },
+        {
+          "title": "Guangzhou New Home YoY",
+          "value": "-4.4%",
+          "url": "https://data.stats.gov.cn/english/easyquery.htm",
+          "extra": {
+            "description": "Guangzhou New Home Price Index YoY",
+            "date": "2026-04"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-04T23:11:10+08:00",
       "source": "NBS/EastMoney",
@@ -2446,21 +2515,6 @@
     },
     {
       "as_of": "2026-05-16T18:50:08+08:00",
-      "source": "NBS (fallback)",
-      "items": [
-        {
-          "title": "New Home Prices YoY",
-          "value": "-4.5%",
-          "url": "https://data.stats.gov.cn/english/easyquery.htm",
-          "extra": {
-            "description": "70-City New Home Price Index YoY",
-            "stale": true
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-16T14:41:35+08:00",
       "source": "NBS (fallback)",
       "items": [
         {

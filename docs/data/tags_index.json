@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T23:12:10+08:00",
+  "updated_at": "2026-06-05T06:32:12+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -741,8 +741,29 @@
     },
     "anti-corruption": {
       "label": "anti-corruption",
-      "count": 8,
+      "count": 10,
       "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
+          "english_title": "Former Top Provincial Official Wang Lixia to Stand Trial for Graft",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45QnNra2tNWkNrMHVSNTc4WVJSR2dFQk5kemRqcnQycmNZdF80ZzlDbXdMUHJsZ1dhb0VTRkVCdWJ2d1VjRDV2MGRldGRxUDMtdGRkMWJuSV91Uy1YbnJj?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "追求实实在在、没有水分的增长",
+          "english_title": "Party Reaffirms 'Real Growth Without Water' for 15th Five-Year Plan",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E3%80%81%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-04",
           "title": "追求实实在在、没有水分的增长",
@@ -1805,8 +1826,60 @@
     },
     "de-dollarization": {
       "label": "de-dollarization",
-      "count": 22,
+      "count": 27,
       "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "Falling Chinese oil imports ‘shield’ global market from higher prices",
+          "english_title": "Falling Chinese Oil Imports Shield Global Market from Higher Prices",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0ZvQ01GRTJkOWtyT3lSbFZSOFJ0YmFReTJ4VjJ1QmpyNmo3dXJ4OUYxcFdWM0JfSFk0Y2JaNVgzaUdKaFMzbXF4M3VBS000Q29LbHJSRFpRS3JURldSQjZDMkUwOVVSZHZMU3NJLWpBaF9qZDhzZ2diNUhiWGNGS0dYa3A?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "超越美债，黄金成全球官方储备第一大资产",
+          "english_title": "Gold Surpasses US Debt as Top Global Official Reserve Asset",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mekp5dEl1M3d5X19vNktPcjFvRjh3MnRPTlVaUnF4MFJxVWJRdlBYOUdLNlVRMWN0Zy1zakZoM0FoYlN1emloTThOV3NhWDczY0VHOW9vSWVaejh3N0E?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "US proposes tariffs of at least 10% after forced labour probe",
+          "english_title": "US Proposes Tariffs of at Least 10% After Forced Labor Probe",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aWDdnaHRyX2FLalMyNDU3S1NtS1dxcW8ybGZoeWRvX1p2YlFZVXRMMEZxazJpODh3dWg5Rmh0SGNtSGIxeFhLbDg3NEU5M2hnb0VYVnRQZVZOVnBnYk0zMGt5dzdUOFAtNFFLN3B1Ulg?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "中国消费者抛弃耐克比想象中更快",
+          "english_title": "Chinese Consumers Ditching Nike Faster Than Expected",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%E8%80%90%E5%85%8B%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%BF%AB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "追求实实在在、没有水分的增长",
+          "english_title": "Party Reaffirms 'Real Growth Without Water' for 15th Five-Year Plan",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E3%80%81%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-04",
           "title": "Falling Chinese oil imports ‘shield’ global market from higher prices",
@@ -2955,8 +3028,49 @@
     },
     "consumer shift": {
       "label": "consumer shift",
-      "count": 2,
+      "count": 6,
       "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "Falling Chinese oil imports ‘shield’ global market from higher prices",
+          "english_title": "Falling Chinese Oil Imports Shield Global Market from Higher Prices",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0ZvQ01GRTJkOWtyT3lSbFZSOFJ0YmFReTJ4VjJ1QmpyNmo3dXJ4OUYxcFdWM0JfSFk0Y2JaNVgzaUdKaFMzbXF4M3VBS000Q29LbHJSRFpRS3JURldSQjZDMkUwOVVSZHZMU3NJLWpBaF9qZDhzZ2diNUhiWGNGS0dYa3A?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Leaguer Tech Invests in Home Robotics Startup Star Smart",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "鲁比奥：俄乌谈判陷停滞 美国并非“中立”调停",
+          "english_title": "Rubio Says Russia-Ukraine Talks Stalled, US Not Neutral Mediator",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55a2dfYzJVTENzYVBhU3Nvb0dUd3BudG8wSzhKQjNqOFhlM1JfYi1wOHhqeF9QUU50ZTBIbG5ULTlMWUdIYjdiTWRyVkxqNFdsbkhRMGdWb2RicFRKbzRacGREenZWRmplbjA4UW12aHlZWWJjUVlDYUpHWFBrMVE?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "中国消费者抛弃耐克比想象中更快",
+          "english_title": "Chinese Consumers Ditching Nike Faster Than Expected",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%E8%80%90%E5%85%8B%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%BF%AB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-04",
           "title": "超越美债，黄金成全球官方储备第一大资产",
@@ -3076,8 +3190,18 @@
     },
     "tech investment": {
       "label": "tech investment",
-      "count": 4,
+      "count": 5,
       "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Leaguer Tech Invests in Home Robotics Startup Star Smart",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-04",
           "title": "Nissan signs deal with China’s Chery for Sunderland car production",
@@ -3117,6 +3241,89 @@
             "gov_regulatory"
           ],
           "category": "regulatory"
+        }
+      ]
+    },
+    "us-china trade tensions": {
+      "label": "US-China trade tensions",
+      "count": 6,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Leaguer Tech Invests in Home Robotics Startup Star Smart",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "超越美债，黄金成全球官方储备第一大资产",
+          "english_title": "Gold Surpasses US Debt as Top Global Official Reserve Asset",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mekp5dEl1M3d5X19vNktPcjFvRjh3MnRPTlVaUnF4MFJxVWJRdlBYOUdLNlVRMWN0Zy1zakZoM0FoYlN1emloTThOV3NhWDczY0VHOW9vSWVaejh3N0E?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "US proposes tariffs of at least 10% after forced labour probe",
+          "english_title": "US Proposes Tariffs of at Least 10% After Forced Labor Probe",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aWDdnaHRyX2FLalMyNDU3S1NtS1dxcW8ybGZoeWRvX1p2YlFZVXRMMEZxazJpODh3dWg5Rmh0SGNtSGIxeFhLbDg3NEU5M2hnb0VYVnRQZVZOVnBnYk0zMGt5dzdUOFAtNFFLN3B1Ulg?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "新华社快讯：普京表示，中国发展强劲，在全球经济、世界政治及国际事务中扮演着日益重要的角色",
+          "english_title": "Putin Praises China's Strong Role in Global Economy and Politics",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qWGFfVGtPR2RFWEpiM3FTcGlkeDl3NUNEbUpYWDQzSm5oUDByb2ZUNFpuTG9xZ3RJSVRDV1hBTEhXNFVqTU9UbS1YMVVrbDVZY2NpUUxCYXFHenVQTEdHUnV6S2FucF9UTFpLU3BUanltVHZsaTdUMFEtNFFDWFk?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC Announces 2026 AI-Powered Cybersecurity Application Tests",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "鲁比奥：俄乌谈判陷停滞 美国并非“中立”调停",
+          "english_title": "Rubio Says Russia-Ukraine Talks Stalled, US Not Neutral Mediator",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55a2dfYzJVTENzYVBhU3Nvb0dUd3BudG8wSzhKQjNqOFhlM1JfYi1wOHhqeF9QUU50ZTBIbG5ULTlMWUdIYjdiTWRyVkxqNFdsbkhRMGdWb2RicFRKbzRacGREenZWRmplbjA4UW12aHlZWWJjUVlDYUpHWFBrMVE?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "quality growth": {
+      "label": "quality growth",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "追求实实在在、没有水分的增长",
+          "english_title": "Party Reaffirms 'Real Growth Without Water' for 15th Five-Year Plan",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E3%80%81%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
         }
       ]
     }
