@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T19:33:49+08:00",
+  "updated_at": "2026-06-04T23:12:10+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -741,8 +741,19 @@
     },
     "anti-corruption": {
       "label": "anti-corruption",
-      "count": 7,
+      "count": 8,
       "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "追求实实在在、没有水分的增长",
+          "english_title": "Central Economic Work Conference calls for 'real, non-watered down growth' in 15th Five-Year Plan",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E3%80%81%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-04",
           "title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
@@ -1794,8 +1805,59 @@
     },
     "de-dollarization": {
       "label": "de-dollarization",
-      "count": 17,
+      "count": 22,
       "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "Falling Chinese oil imports ‘shield’ global market from higher prices",
+          "english_title": "Falling Chinese oil imports shield global market from higher prices",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0ZvQ01GRTJkOWtyT3lSbFZSOFJ0YmFReTJ4VjJ1QmpyNmo3dXJ4OUYxcFdWM0JfSFk0Y2JaNVgzaUdKaFMzbXF4M3VBS000Q29LbHJSRFpRS3JURldSQjZDMkUwOVVSZHZMU3NJLWpBaF9qZDhzZ2diNUhiWGNGS0dYa3A?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
+          "english_title": "Former Inner Mongolia chairperson Wang Lixia to stand trial for corruption",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45QnNra2tNWkNrMHVSNTc4WVJSR2dFQk5kemRqcnQycmNZdF80ZzlDbXdMUHJsZ1dhb0VTRkVCdWJ2d1VjRDV2MGRldGRxUDMtdGRkMWJuSV91Uy1YbnJj?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces AI-powered cybersecurity testing program",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "鲁比奥：俄乌谈判陷停滞 美国并非“中立”调停",
+          "english_title": "Rubio says Russia-Ukraine negotiations stalled, US not neutral mediator",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55a2dfYzJVTENzYVBhU3Nvb0dUd3BudG8wSzhKQjNqOFhlM1JfYi1wOHhqeF9QUU50ZTBIbG5ULTlMWUdIYjdiTWRyVkxqNFdsbkhRMGdWb2RicFRKbzRacGREenZWRmplbjA4UW12aHlZWWJjUVlDYUpHWFBrMVE?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "中国消费者抛弃耐克比想象中更快",
+          "english_title": "Chinese consumers abandon Nike faster than expected",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%E8%80%90%E5%85%8B%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%BF%AB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-04",
           "title": "The China-US tech truce is fragile",
@@ -2295,8 +2357,78 @@
     },
     "ai regulation": {
       "label": "AI regulation",
-      "count": 9,
+      "count": 16,
       "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "Nissan signs deal with China’s Chery for Sunderland car production",
+          "english_title": "Nissan signs deal with China's Chery for Sunderland car production",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWZfNm5OTVRjVVVoWFcyZTNpMTk0bDE5WDBUbDcwemdkaG1SYjRQSDJmcUZUdnV4SVpOeUptODhBdkNaX0R1VmQ3V1U4YlVfUUhCM1Y0YjAwRW5HTWlYaVRLTlhZd1ZhcnVTamw0aXZkOWppYVdKczEtUXRCWHk3NjYyXzU?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+          "english_title": "Shenzhen Capital Group leads investment in micro joint module company",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oelRuUWF1MXhJa1d1QkNva3owSEFRaTBJNEZqYzRsb2hfOHAzZUM0VlgwbXBISU5RZWdLdW9XN3ZwUHpnaHJEUS1Pa0pfZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Leaguer Science and Technology invests in Xingcan Smart, a home embodied AI startup",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "评论 - 21经济网",
+          "english_title": "21st Century Business Herald economic commentary",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ySjl3T2ZLUVl6NGF3WHkzcTFTUU05V3RIMUhkREpGbE5BRU1IS2QzRHMtU2Jyd0c3SEhUXzhHOUFYQlg4ZGVxakJXcWZfdzBnd0FV?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
+          "english_title": "Former Inner Mongolia chairperson Wang Lixia to stand trial for corruption",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45QnNra2tNWkNrMHVSNTc4WVJSR2dFQk5kemRqcnQycmNZdF80ZzlDbXdMUHJsZ1dhb0VTRkVCdWJ2d1VjRDV2MGRldGRxUDMtdGRkMWJuSV91Uy1YbnJj?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces AI-powered cybersecurity testing program",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "鲁比奥：俄乌谈判陷停滞 美国并非“中立”调停",
+          "english_title": "Rubio says Russia-Ukraine negotiations stalled, US not neutral mediator",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55a2dfYzJVTENzYVBhU3Nvb0dUd3BudG8wSzhKQjNqOFhlM1JfYi1wOHhqeF9QUU50ZTBIbG5ULTlMWUdIYjdiTWRyVkxqNFdsbkhRMGdWb2RicFRKbzRacGREenZWRmplbjA4UW12aHlZWWJjUVlDYUpHWFBrMVE?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
         {
           "date": "2026-06-03",
           "title": "The China-US tech truce is fragile",
@@ -2679,7 +2811,7 @@
       ]
     },
     "gold reserves": {
-      "label": "Gold reserves",
+      "label": "gold reserves",
       "count": 1,
       "stories": [
         {
@@ -2902,6 +3034,89 @@
             "tencent_wechat_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "consumer shifts": {
+      "label": "consumer shifts",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Leaguer Science and Technology invests in Xingcan Smart, a home embodied AI startup",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "超越美债，黄金成全球官方储备第一大资产",
+          "english_title": "Gold surpasses US debt as largest global official reserve asset",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mekp5dEl1M3d5X19vNktPcjFvRjh3MnRPTlVaUnF4MFJxVWJRdlBYOUdLNlVRMWN0Zy1zakZoM0FoYlN1emloTThOV3NhWDczY0VHOW9vSWVaejh3N0E?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "中国消费者抛弃耐克比想象中更快",
+          "english_title": "Chinese consumers abandon Nike faster than expected",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%E8%80%90%E5%85%8B%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%BF%AB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "tech investment": {
+      "label": "tech investment",
+      "count": 4,
+      "stories": [
+        {
+          "date": "2026-06-04",
+          "title": "Nissan signs deal with China’s Chery for Sunderland car production",
+          "english_title": "Nissan signs deal with China's Chery for Sunderland car production",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWZfNm5OTVRjVVVoWFcyZTNpMTk0bDE5WDBUbDcwemdkaG1SYjRQSDJmcUZUdnV4SVpOeUptODhBdkNaX0R1VmQ3V1U4YlVfUUhCM1Y0YjAwRW5HTWlYaVRLTlhZd1ZhcnVTamw0aXZkOWppYVdKczEtUXRCWHk3NjYyXzU?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+          "english_title": "Shenzhen Capital Group leads investment in micro joint module company",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oelRuUWF1MXhJa1d1QkNva3owSEFRaTBJNEZqYzRsb2hfOHAzZUM0VlgwbXBISU5RZWdLdW9XN3ZwUHpnaHJEUS1Pa0pfZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Leaguer Science and Technology invests in Xingcan Smart, a home embodied AI startup",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces AI-powered cybersecurity testing program",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
         }
       ]
     }
