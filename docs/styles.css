@@ -1315,14 +1315,11 @@ a.bilingual-text {
 }
 
 /* Footer */
-.about {
-  border-top: 1px solid var(--color-border-subtle);
-  margin-top: var(--space-8);
-  padding: var(--space-6) 0 0;
-}
-
-.about-inner {
+.about-me {
   max-width: 720px;
+  margin-bottom: var(--space-6);
+  padding-bottom: var(--space-6);
+  border-bottom: 1px solid var(--color-border-subtle);
 }
 
 .about-title {
@@ -1344,6 +1341,18 @@ a.bilingual-text {
 
 .about-body p:last-child {
   margin-bottom: 0;
+}
+
+.about-contact a {
+  color: var(--color-text-brand);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--color-text-brand);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.about-contact a:hover {
+  color: var(--color-text-primary);
+  border-color: var(--color-text-primary);
 }
 
 .footer {

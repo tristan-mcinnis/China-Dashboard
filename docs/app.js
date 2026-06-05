@@ -1,6 +1,6 @@
 // GoatCounter site code for the on-page visitor count. Keep this in sync with the
 // data-goatcounter attribute in index.html. Leave as "MYCODE" to disable the counter.
-const GOATCOUNTER_CODE = 'MYCODE';
+const GOATCOUNTER_CODE = 'tristan-mcinnis';
 
 // Fetch the site-wide unique visitor total from GoatCounter and show it in the footer.
 // Privacy-friendly and best-effort: any failure (or unconfigured code) just hides it.
