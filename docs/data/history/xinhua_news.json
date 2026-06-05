@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2026-06-05T19:37:19+08:00",
+  "generated_at": "2026-06-05T23:09:14+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-05T23:09:14+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "特朗普称代理国家情报总监不会被正式任命",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZnBzNXhuOUhrZ1NkOGVxZkZwQWtEbFdGMjA2dU55SkxHRjhBTm12NzBIeXF1MmF4U0RiY2lZV0lzMldWWlBTY1Z6YlZJOFZMWE5QUlZaeHRzYV9WU1J1QmxUYmhmVkJUNU5MYzI1NXg1M1hfeEMwdWxJZGUzSzg?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-04T17:29:43Z",
+            "summary": "特朗普称代理国家情报总监不会被正式任命 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Trump Says Acting DNI Will Not Be Formally Appointed"
+          }
+        },
+        {
+          "title": "四川省成都市委原副书记、原市长王凤朝严重违纪违法被开除党籍和公职",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YM2JnWHhPY2JtWEpWT1RhMktFS2JzbmIxc21idjVBM3pVMXJ6ZEM0Q1hsNndQM0twWmk1OG43ZTkxaG9zb2Q2M0dtZmhOcDlZZkd6T0c5eW9kUUxxZFljTVRBbjM0UUlpNjFId0o2X1Vwdl9ZWE9ZcFNzZS1Ydw?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-05T01:06:43Z",
+            "summary": "四川省成都市委原副书记、原市长王凤朝严重违纪违法被开除党籍和公职 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Former Chengdu Party Deputy Secretary and Mayor Wang Fengchao Expelled from..."
+          }
+        },
+        {
+          "title": "湖南省人大常委会原党组成员、副主任叶红专严重违纪违法被开除党籍",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNSHBKeDUyaUNZX0JaLW05Z3RtZWxoTzlKZmxvdFR1cnZ3ZldCeUVDcl83eDNSaFBVZDBjd0F5SHZDZlJNOUZQNjhIdHdsS2UyZTItY1FBREVsOHo2a3JUUjFzdFYtY2tCYXQwb1p4UnJMVXVIR0dTdjVWRHZYUQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-05T01:06:38Z",
+            "summary": "湖南省人大常委会原党组成员、副主任叶红专严重违纪违法被开除党籍 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Former Hunan Provincial Party Congress Standing Committee Member Ye..."
+          }
+        },
+        {
+          "title": "美媒称“福特”号航母火灾受损程度远超美军披露",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NTnNCdjA0WXIwT2FzQ1RGMWdXdW03ZTZOdENyNXhNYjlFbFFXNFhNZ2E4b29QOExsMU5NYjVRYkNkS2tDajR3N0NHWTVUTnVFVXhzZjhlSXFobWdUQVNfbEJOU1ZYYnJ5eVVHUTVSYzJmazJPWm1pMnNOQlpUcEE?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-05T01:02:44Z",
+            "summary": "美媒称“福特”号航母火灾受损程度远超美军披露 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "US Media Claims Damage from USS Ford Carrier Fire Far Worse Than Military..."
+          }
+        },
+        {
+          "title": "假冒学历认证等网站 公安部网安局发布典型案例",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1IwQmlCX1JlWnRGVTlyc0FoYmU0ZUFIaVJBNG0temZsTVdfMVlrSG1vVmxadkl4ZGduVnN3QTl0LVVBSzJocWVyeHczMThfbEZnQktlWm5kcFZBQV9jZzlFVS1aUk5LcGc0RTh0Z05sRkdLMDRKWW1xSWVDV1N5ZUdtN0dpTi1WQ3dHNDdn?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-04T17:26:10Z",
+            "summary": "假冒学历认证等网站 公安部网安局发布典型案例 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Ministry of Public Security's Cybersecurity Bureau Releases Typical Cases of..."
+          }
+        },
+        {
+          "title": "“六合一”全集成航空电动发动机下线交付",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zRTlHbVFKUWhhaXZtOFgyVjM2UmRkQzBJR1pLako4TFV6Q1RPQnpIS2V5QWN2b0dGdTdlcTF4dnNwM1JVaUtBaEdqZWxHZExPM0ZEQk1PTUFrRFVGTGdJeW00V19hUVFuVkpOOG1vaWFWazZaWDE1Um1sdS1NZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-05T05:52:53Z",
+            "summary": "“六合一”全集成航空电动发动机下线交付 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Six-in-One Fully Integrated Aviation Electric Engine Delivered"
+          }
+        },
+        {
+          "title": "国际观察丨泽连斯基提议与普京面谈的考量与困境",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wWHB2cTZua05OOHAyYXlTTkkyMHpRVDJ2UVctTEg2eFVvUU5iNlBsSVN3Vy1Ha1FTYzBFNFFPS2lEV2NLRU9lbkI3V1lMM1hha0lyUjBhWjJwb2kxNFgyV2djT19UR2VjYU9mWTlfajFZbkxvckJpRzJJWGxuWVk?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-05T05:31:23Z",
+            "summary": "国际观察丨泽连斯基提议与普京面谈的考量与困境 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "International Observation: Zelensky's Considerations and Dilemmas in..."
+          }
+        },
+        {
+          "title": "新华社权威速览丨省级“十五五”规划纲要看点之九",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tOE9TTllVUGNyeXA5VWs3TGI5WkZ0T1ZnZV90Yl9JX05ocTBfRjdqRUpWLVRTSDFaTXBBUl9sd0lva1JidjFVNk5BTUV5Y2FTQW1WUTNiaEptMEhpNlFQY1lmVXlTMUNwQVp3eE5pREQxS1Myb0NlYjRSS2lLbjQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-05T00:43:12Z",
+            "summary": "新华社权威速览丨省级“十五五”规划纲要看点之九 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua Quick Guide: Key Points of Provincial '15th Five-Year' Planning..."
+          }
+        },
+        {
+          "title": "梁建民：深耕下沉市场 坚守品质交付",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSDZQb01mTjFReTgwNzZ5SGFMTUdsU2RMcFplcnRyemxNS2xwOUhfbHdxRk1meFoya1Q2bmhOOU9IdVJfQzBURjN1LTdqQmZseHRJV002V05UUWJUZS1TYzJsVVU1ajhRUVRnLTlLYjhYOE8xRDRCZDdwTlFQNjNqdEl3Rkljdw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-04T22:04:35Z",
+            "summary": "梁建民：深耕下沉市场 坚守品质交付 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Liang Jianmin: Deepening Downstream Markets, Adhering to Quality Delivery"
+          }
+        },
+        {
+          "title": "发挥比较优势 发展未来产业",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlBYWE55VFlyaEtqSmtpeVJGMy1BSXpXbm1BbV90NE96cEt0U0xYV3Q4RXlJNEp3Yl9oT3c3cHZTRDFLU0NwWmwyYWN6OEZZeDF6eVQzaWsteVFtSTlzSWVablVSQVJqYmliWXAxWHdxbFc1Qk1XUmYwRXZSX3ctU1lxTWo?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-04T16:51:45Z",
+            "summary": "发挥比较优势 发展未来产业 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Leverage Comparative Advantages to Develop Future Industries"
+          }
+        },
+        {
+          "title": "工信前沿",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aZ0ZKX3Z3R3VwZmtxdUpuOXNWQWxkYU44QnVqU3Q2cnNJM055bFVfaE85RGJieC1FOXVnOEJ4WUw2X3ZhV3UwZGlXU3hiQlhHQk50Mw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-05T02:40:56Z",
+            "summary": "工信前沿 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Ministry of Industry and Information Technology Frontline"
+          }
+        },
+        {
+          "title": "双碳来了",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02bVlud1VueFprNFBPVzhZbWN1VENnSkxKNzJwSmh4ZWtmRERpNkxVMEx4eEwydm10Z1d3ZEFjYzctUUhDSHBIZTUwSkRiM0tLRTZJ?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-05T02:08:50Z",
+            "summary": "双碳来了 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Dual Carbon Era"
+          }
+        },
+        {
+          "title": "高端访谈_5G瞰天下",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xaDBxV1hHM2NLenV6ZmJxcTZKSzhTWFUwUjM0a015cXB4dWMwOG1mbFZHTzNyYkI0OGhUTUc3amRMakZSTkRvVXFWTHpvcGY5RDFRR0oxNXozZW9q?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-05T02:47:00Z",
+            "summary": "高端访谈_5G瞰天下 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "High-End Interview: 5G Overlooking the World"
+          }
+        },
+        {
+          "title": "产业动态_5G瞰天下",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uVlgzUUFTNERLUFFxRUFQdGJZZlcwalhlSkRSSmFZMzZwQjRmMXVrR01XSjVoTll4ZHZOeW1aRzNDQlZESjlpeU1LbG5JakVqSTBHeFBFTlFyN2ln?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-05T02:14:34Z",
+            "summary": "产业动态_5G瞰天下 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Industry Dynamics: 5G Overlooking the World"
+          }
+        },
+        {
+          "title": "2026上海老博会开幕",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnZrMkUxN095TFRPXy05Y3hQZVVMcE9nN1M1VTl5cXp0MFVXb3RLcm44a00wV08tRjlFazVvdlhrbXBjdDVFS0t0b1pmN3RfdHhSOVZGcmFxeXR6RkVBZ2JlY2x5Nl90Z2I1cG5SOUxzUFhHTXhWcHEyOXV6b2hXZmNYaTk1R09md2l0U3pxZw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-04T19:35:21Z",
+            "summary": "2026上海老博会开幕 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "2026 Shanghai Senior Care Expo Opens"
+          }
+        },
+        {
+          "title": "天津航运展里的“黑科技”与“未来感”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXhuM3RzaXcxOHRfaGQ1U25wY0tBTjJ0NGZxVTltXzZlRlg3YkQyNG1zMHAtVERZU0JoeTVodDN6bGtfd1hIbW9scU5RVFlfdHo5eENaYjhoaVV1SU9jby1RSENCVHE2ZENRRU9MQlFzVlA1OHd0bUNDbWFFZXZxSTBWQUZmQQ?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-04T19:35:12Z",
+            "summary": "天津航运展里的“黑科技”与“未来感” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Black Tech and Futurism at Tianjin Shipping Expo"
+          }
+        },
+        {
+          "title": "河南多地以科技赋能助力“三夏”生产",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRaWZlMkNrUzRmNzctVlVvRTFNTF84dEkyLWYyVEFXMS13X1NXZU5oLXdiRDNxdExXbHcyOGRXUWVtTTdiUXZZRndhT1JKT3V5UGlPY1NwNk5TaHNkVzl3YUF0VGhMRFZJT1ZDb3RjVFJ3MW5Lc0dJTzJRMEtuS1E?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-04T15:46:18Z",
+            "summary": "河南多地以科技赋能助力“三夏”生产 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Henan Uses Tech to Boost Summer Harvest and Production"
+          }
+        },
+        {
+          "title": "山东商河：产学研深度融合点燃产业发展新引擎",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUTHpXcjlmdjFhUlpSLU5MbmJlVjlGc3M0c2UyQ2FZN1pRbWkxT0VobkFHdzQ1Wko1UWg0a2dabk9wMWFTX3h6d3lTYjJOUlRBMDZjVjdCTWZnM0RiOWcwSE9zQ0JyYlJvamtvWHFnNmQ1MDlYV3pfN25SUlRuMWc?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-05T01:44:43Z",
+            "summary": "山东商河：产学研深度融合点燃产业发展新引擎 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Shanghe, Shandong: Deep Integration of Industry, Academia, and Research..."
+          }
+        },
+        {
+          "title": "西安电子科技大学校长高新波为考生送祝福：金秋9月，我在西电等你",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZTVhdzFQeHJOTmZEUHc3VE85SWpLVGJtUlI2QWtNZEFyWTN0X21YRWRKOGZkYmdxbVR6dVhnZlk1Y2hmdlZiMkZwY2RBNVZReDQtY0F3TnpUY3kwN3lkTGxJWTFOekViVkUwNzBzbk1DNWw5b3lWUm9TeWVQUFFYOTlWZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-04T22:53:30Z",
+            "summary": "西安电子科技大学校长高新波为考生送祝福：金秋9月，我在西电等你 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xidian University President Gao Xinbo Sends Blessings to Candidates: 'See..."
+          }
+        },
+        {
+          "title": "高性能飞秒激光器实现光子芯片集成",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWNwTGQzZFV5XzlqdVppVDdEU3J5ZnRncU0wZTVqMVRZUGlfV0dWd3pFRWdWX2l1TzQ0MFN6M1NVei1JRnVXOWFLUTBvWUtCNERCOHF5d2lHbWtqM0FXZ19CTjZJMUlCVXduU1pqOXM5Q3Nsb2xzRGp0MExneGxpUTJEdjU?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-04T17:00:31Z",
+            "summary": "高性能飞秒激光器实现光子芯片集成 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "High-Performance Femtosecond Laser Achieves Photonic Chip Integration"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-05T19:37:19+08:00",
       "source": "Xinhua News Agency RSS",
@@ -26264,272 +26530,6 @@
             "category": "科技",
             "published": "2026-05-15T23:45:52Z",
             "summary": "2012投资者保护宣传季_新华财经 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-17T06:16:23+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "湖北启动防汛四级应急响应",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ReHFwV1J0NVFZcHh2WEVXVkNNTmtkNVFfRmlXdUhSdW5fb3RPTUpmb2gxVjRPT0FZSkp6WGlDank0a0dyb2Y2cnhvV3pub09xMGFjc1ZDOEltMnpEWk5mc3NXNUplbHhON2FoTVpZSEdnQWMzbFAxRA?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-16T07:20:10Z",
-            "summary": "湖北启动防汛四级应急响应 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "伊朗媒体：欧洲方面已开始就霍尔木兹海峡通行问题与革命卫队接触",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zczAzLXo4NHAyYUd1X293d3dlcHZuNkRyX1FPcWxFMi1PTmhBMk9FQWI4M21xYmQ5RXZ4elNxODVOcWREdWZvZU90UjZXNDMyZzZwNEFDbGt1RUtQT3ZvMVM5RDdOaDBCWlVraGdoUmlEeVR6Qjh1RFVMN1pKVE0?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-16T08:12:24Z",
-            "summary": "伊朗媒体：欧洲方面已开始就霍尔木兹海峡通行问题与革命卫队接触 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "周末中东部大范围降雨增强 华北黄淮等地气温持续偏低",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOVm5TZFZYNlFkbVhMUlBtNTBIdkIxem9sRHpXNUFuekhES1RNZ1AxdlZINl9JVmNLZGJ3a2RBUVZhQ290enpPcGd5Y3BoVlJLbHpHWWZjWUM4cW1nVFctVmk1dmtWX1pVNklUR1hYWjYyeU1XaEx1M0VHUlYwbGM?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-15T17:14:10Z",
-            "summary": "周末中东部大范围降雨增强 华北黄淮等地气温持续偏低 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "美货运“龙”飞船为国际空间站送货",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91N2JNS2N5MDNYM254ZjRSTXJZcFRWNUFZRGlqR211eTZYYjhuV2V1LTlMRGwzdzQ3bDcxRktjMENsQUExVWU0NjktWVYtVWMybURQMjhvYVNxYjdKTXZfSmNpVklHd1VjWnNESzUxbzY4ZGxKYzl6dWpnMjVNU1U?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-15T15:08:54Z",
-            "summary": "美货运“龙”飞船为国际空间站送货 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "美联储任命鲍威尔担任临时主席",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91a0J0UC0tYzE2cXVRZ3E0THRqei1EdkM5X0R5S185aVpBbk1yM05kZW5qZVhnS2VaejQ3MUFoNExMdUs2WHpHNjRrVmNVcE53bG9wTURHVS0wa2VxUjljV083WmtWRGUyTGlhenVZU3FQcjFZMEluRGFPWVVfNXM?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-15T20:40:31Z",
-            "summary": "美联储任命鲍威尔担任临时主席 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "镜观中国·新华社国内新闻照片一周精选",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczVmM1J5SDBuRXo2VGZ3QzdBRGVvOE9YV0poWnNCZ0NRdjRxa1V5dHZLNU1JRnBpUkpmc2MySWJSdGpRSlIzSldsQ2VTMUg1WFJVSlBYcGtYdzdnckljaU5WaHpLWjdmemhMRGdsRUFWN3lrNDVXZmM0ZlI3bmdZcTZPb3dIUQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-15T23:50:19Z",
-            "summary": "镜观中国·新华社国内新闻照片一周精选 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2012年成品油价首次下调_能源频道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ak9FM1lQaXJGOU5hMzZ0cnZSeENocEppT1hib2R0UWQtRUhhNnZjOEFtTzVIVXRNM1hMQURYc01fM2NQRDhWZUJXM3dHdHY4d3BpQmxNdE5MQQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-15T23:45:26Z",
-            "summary": "2012年成品油价首次下调_能源频道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "成品油价年内首次下调_能源频道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKZjRPRXIweWYxbE55LWhSN2xjSnZmeV83ZU1Ud09yQTJ3QzBQQllZczBSTC1ELWJabmJZZ19OZjZ3ai1NNGJfMVZqTlN6N2VGSGRIWG1vV1JxMENDenpKSw?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-15T23:27:31Z",
-            "summary": "成品油价年内首次下调_能源频道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "油价年内第五涨创下新机制下第二大涨幅",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxOWthbFh3ZVJYN192b2J4V3lQU3QxcF9ZME1UTDZWZDB0cE1sa2g1aTRCSXEySXN6NTYxOVJGLVp2dnYwTF9WcnRNSE04cVBvM1p2WTVSLVpqMnJBMnc?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-15T23:41:07Z",
-            "summary": "油价年内第五涨创下新机制下第二大涨幅 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "国成油价格下调有惊无险 油价降幅高于预期",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iNTFuTk8zcF9ndUZTWlQxNGdfRXBwT2JDZ1ZUQjB5ejRQZ0NYNFZSLS1oVUVHSFh2QnhrZXBRb1lJaTdiZmg2QXhsQXBxMXF2c214bWJBNG8?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-16T00:08:46Z",
-            "summary": "国成油价格下调有惊无险 油价降幅高于预期 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "财经新闻",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tU1VFUkRIUWVxTkhoSzdKSG1Iekw4V3hNU2pUcGtwb3cyWU90bnFQQ1ZXRk1ZM3UzVXozcl9IRlFCX09NTFJaLWszQzNIV2RBT29jbA?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-15T21:19:34Z",
-            "summary": "财经新闻 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "财经新闻",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NNllkS2ktdzZEa0syZ3JCdW9KYndOVWplTGdEelpxaTlQVzJoNE1qWFRxTXYwSkg0QjZVNDhqWUs1ZTFHdVFoRVNURGlKQmE5SXc?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-15T21:54:50Z",
-            "summary": "财经新闻 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "宝洁希望工程15年_财经频道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3REtTNHVRM2hPaEp5bzFyUWVkQWFRQWpnN3BFeC1iUlNPMGFSSnJjX1EtM2U2TkxRNHJJcUdMVXJELWFJNGRPdzdyWkpzZ1FtZzJZZGFpUXE?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-16T00:53:00Z",
-            "summary": "宝洁希望工程15年_财经频道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2012投资者保护宣传季_新华财经",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13OS1xbHBfUWpZc2F0RE1DaXFoSEFFRHlOOVB3bTZkSWhZT0NpcnlSeGVreWhNQ2JDN3k2aTZWZTlwdlJtQy1LQmpHbl9odmZqYlhKV182YThwbkJBSUFtSlVtcmF5eTQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-15T23:45:52Z",
-            "summary": "2012投资者保护宣传季_新华财经 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "图解财经_新华财经",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44Ty0wTFp0clg4QjcxMllCRDBKNHpyZDdTaVRqd2xLSk1vcFpWWUhNODVuNTBwczBYRXdiRFFEYktfMElaRG9NSzBoWE55c01rcEN4LQ?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-15T21:20:05Z",
-            "summary": "图解财经_新华财经 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "这些黑科技，让残障人士有了更多可能",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zY3Q2SVZuQnJaWmJ1cmNyeHZHN2VqOG9hNklmcFR4TFVBbGMzN2FFSXlsMkk3WFRtNDEwOFEzM2YxLTIzX3ItM2syWDI3NzNzNm53cjk0eHljd1pBZmhIT3Mxck80NmpjUWJSaDAzSzI2RnRVbzh3ekY5VVliZWc?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-16T04:11:07Z",
-            "summary": "这些黑科技，让残障人士有了更多可能 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "记者手记：从“聪明的路”到“智慧的海”，触摸未来交通科技脉搏",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vX2pldmhOLXo4cllUQnZTQnByMkg5REtmemQyemQ5ay1RUWd3VllHOGV2Sjhadks4ZmdBNjFhZ01RNkVjZGM2T2ktLXlFSTBEMkhKSUhxVV9teldMajg3OUFQdXI4SHpTdV9SMkZVX2QxekpUWFh2dEFneTg1UQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-15T23:17:14Z",
-            "summary": "记者手记：从“聪明的路”到“智慧的海”，触摸未来交通科技脉搏 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2012投资者保护宣传季_新华财经",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13OS1xbHBfUWpZc2F0RE1DaXFoSEFFRHlOOVB3bTZkSWhZT0NpcnlSeGVreWhNQ2JDN3k2aTZWZTlwdlJtQy1LQmpHbl9odmZqYlhKV182YThwbkJBSUFtSlVtcmF5eTQ?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-15T23:45:52Z",
-            "summary": "2012投资者保护宣传季_新华财经 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "坚持道地特色科技赋能打造高品质中药",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUdC1DUVdvMlRfcmpHQ3RnTkhFQjN4aHRTM0thMU9aZFVyR19ZUFUwNTRxUjd0bGRvelliMG9ybVl0T3dMVVdmYnc1N2EtMVBVZ2x5X2tn?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-16T01:45:12Z",
-            "summary": "坚持道地特色科技赋能打造高品质中药 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "新华网与康师傅主题活动深圳站启幕 共赴航天之约 解码航天科技的民生温度",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmNNMlpBNWRERkRUWHprS2dnV2dmUFYtZy1fZzluNGR0alk5ck5sLUtVMjM5X0QwX0dtdnhFRWpRUGtCdDl3ODNSSHFsZWllcW8wR0RjODQ5ejZkZEhtUUJMVnJLYWN3QndoT0pydmRhOFN4b1YzU3p6clNBYXBLelJSQUU?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-16T01:09:19Z",
-            "summary": "新华网与康师傅主题活动深圳站启幕 共赴航天之约 解码航天科技的民生温度 新华网",
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": ""

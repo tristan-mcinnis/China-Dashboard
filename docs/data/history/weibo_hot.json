@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-06-05T19:37:00+08:00",
+  "generated_at": "2026-06-05T23:08:55+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-05T23:08:55+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 歌手排名",
+          "value": "综艺 9718529 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "综艺 9718529",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Singer Ranking"
+          }
+        },
+        {
+          "title": "2. DNA组太牛了 [热]",
+          "value": "综艺 4395315 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DDNA%E7%BB%84%E5%A4%AA%E7%89%9B%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "综艺 4395315",
+            "tag": "热",
+            "api_source": "tianapi",
+            "translation": "DNA Team is Amazing"
+          }
+        },
+        {
+          "title": "3. 卫星影像记录中国生态巨变",
+          "value": "3949093 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%AB%E6%98%9F%E5%BD%B1%E5%83%8F%E8%AE%B0%E5%BD%95%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%80%81%E5%B7%A8%E5%8F%98&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 3949093",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Satellite Images Document China's Ecological Transformation"
+          }
+        },
+        {
+          "title": "4. 上京东看爸妈防骗直播",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E4%BA%AC%E4%B8%9C%E7%9C%8B%E7%88%B8%E5%A6%88%E9%98%B2%E9%AA%97%E7%9B%B4%E6%92%AD&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Watch Anti-Fraud Live Stream for Parents on JD.com"
+          }
+        },
+        {
+          "title": "5. 黄灿灿失误",
+          "value": "3670372 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E7%81%BF%E7%81%BF%E5%A4%B1%E8%AF%AF&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 3670372",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Huang Cancan's Mistake"
+          }
+        },
+        {
+          "title": "6. 黄金 [重磅]",
+          "value": "1865976 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E9%87%91&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 1865976",
+            "tag": "重磅",
+            "api_source": "tianapi",
+            "translation": "Gold"
+          }
+        },
+        {
+          "title": "7. 浪姐排名",
+          "value": "综艺 1844860 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%AA%E5%A7%90%E6%8E%92%E5%90%8D&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "综艺 1844860",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Sisters Who Make Waves Ranking"
+          }
+        },
+        {
+          "title": "8. 医生辟谣高考前不吃主食不犯困 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3%E9%AB%98%E8%80%83%E5%89%8D%E4%B8%8D%E5%90%83%E4%B8%BB%E9%A3%9F%E4%B8%8D%E7%8A%AF%E5%9B%B0&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Doctor Debunks Myth: Not Eating Carbs Before Gaokao Prevents Drowsiness"
+          }
+        },
+        {
+          "title": "9. 上海男篮CBA总冠军",
+          "value": "1691934 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AECBA%E6%80%BB%E5%86%A0%E5%86%9B&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 1691934",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Shanghai Men's Basketball CBA Champion"
+          }
+        },
+        {
+          "title": "10. 高考期间有必要禁豆包吗 [新]",
+          "value": "1671617 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E7%A6%81%E8%B1%86%E5%8C%85%E5%90%97&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 1671617",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Is It Necessary to Ban Doubao During Gaokao?"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-05T19:37:00+08:00",
       "source": "Weibo Hot Search",
@@ -12470,132 +12596,6 @@
             "rank": 10,
             "raw_score": " 243017",
             "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-17T11:45:43+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 苹果华为小米集体降价",
-          "value": "1056819 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1056819",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 特朗普警告台独 [热]",
-          "value": "761599 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 761599",
-            "tag": "热",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 以自强赴荣光",
-          "value": "609181 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%A5%E8%87%AA%E5%BC%BA%E8%B5%B4%E8%8D%A3%E5%85%89&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 609181",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 台舆论称特朗普不许台独视美为靠山 [新]",
-          "value": "366804 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " 366804",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 香蜜最后一帧原来是家业",
-          "value": "剧集 264926 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%A6%99%E8%9C%9C%E6%9C%80%E5%90%8E%E4%B8%80%E5%B8%A7%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%AE%B6%E4%B8%9A&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 264926",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 摄影师称摆拍女孩确为盲人 [新]",
-          "value": "211056 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%91%84%E5%BD%B1%E5%B8%88%E7%A7%B0%E6%91%86%E6%8B%8D%E5%A5%B3%E5%AD%A9%E7%A1%AE%E4%B8%BA%E7%9B%B2%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 211056",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 樊振东赛后纸袋装球拍",
-          "value": "126124 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B5%9B%E5%90%8E%E7%BA%B8%E8%A2%8B%E8%A3%85%E7%90%83%E6%8B%8D&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 126124",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 家业开播 [新]",
-          "value": "剧集 112179 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%B6%E4%B8%9A%E5%BC%80%E6%92%AD&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": "剧集 112179",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 薛之谦说很开心盲道被撞是摆拍",
-          "value": "演出 108741 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E5%BE%88%E5%BC%80%E5%BF%83%E7%9B%B2%E9%81%93%E8%A2%AB%E6%92%9E%E6%98%AF%E6%91%86%E6%8B%8D&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "演出 108741",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 分析师称苹果降价是阳谋 [新]",
-          "value": "96327 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%86%E6%9E%90%E5%B8%88%E7%A7%B0%E8%8B%B9%E6%9E%9C%E9%99%8D%E4%BB%B7%E6%98%AF%E9%98%B3%E8%B0%8B&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 96327",
-            "tag": "新",
             "api_source": "tianapi",
             "translation": ""
           }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T19:38:50+08:00",
+  "updated_at": "2026-06-05T23:10:41+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -740,9 +740,20 @@
       ]
     },
     "anti-corruption": {
-      "label": "anti-corruption",
-      "count": 10,
+      "label": "Anti-corruption",
+      "count": 11,
       "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "四川省成都市委原副书记、原市长王凤朝严重违纪违法被开除党籍和公职",
+          "english_title": "Former Chengdu Mayor Wang Fengchao expelled from Party and public office for serious discipline violations",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YM2JnWHhPY2JtWEpWT1RhMktFS2JzbmIxc21idjVBM3pVMXJ6ZEM0Q1hsNndQM0twWmk1OG43ZTkxaG9zb2Q2M0dtZmhOcDlZZkd6T0c5eW9kUUxxZFljTVRBbjM0UUlpNjFId0o2X1Vwdl9ZWE9ZcFNzZS1Ydw?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
         {
           "date": "2026-06-05",
           "title": "从市长到主席边升官边敛财 62岁正省级女高官王莉霞将受审",
@@ -3777,8 +3788,20 @@
     },
     "market volatility": {
       "label": "Market volatility",
-      "count": 2,
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "上海男篮夺CBA总冠军",
+          "english_title": "Shanghai Men's Basketball wins CBA championship, first title since 2002",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AE%E5%A4%BACBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-05",
           "title": "Falling Chinese oil imports ‘shield’ global market from higher prices",
@@ -3879,6 +3902,61 @@
           "title": "二手油车价格崩盘",
           "english_title": "Second-Hand Fuel Car Prices Collapse",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%B4%A9%E7%9B%98",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "sino-european military friction": {
+      "label": "Sino-European military friction",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "荷兰军舰过航台湾海峡 东部战区发声",
+          "english_title": "Dutch warship transits Taiwan Strait; PLA Eastern Theater Command warns",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%A3%B0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "taiwan strait security": {
+      "label": "Taiwan Strait security",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "2026 AI technology empowering cybersecurity testing application announcement",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "公安机关、教育部门提醒考生诚信赴考",
+          "english_title": "Public security, education departments remind candidates to take exams honestly for Gaokao 2026",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E3%80%81%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E6%8F%90%E9%86%92%E8%80%83%E7%94%9F%E8%AF%9A%E4%BF%A1%E8%B5%B4%E8%80%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "荷兰军舰过航台湾海峡 东部战区发声",
+          "english_title": "Dutch warship transits Taiwan Strait; PLA Eastern Theater Command warns",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%A3%B0",
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot"
