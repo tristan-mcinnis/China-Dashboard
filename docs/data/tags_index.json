@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T06:32:12+08:00",
+  "updated_at": "2026-06-05T11:48:25+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -3319,6 +3319,182 @@
           "title": "追求实实在在、没有水分的增长",
           "english_title": "Party Reaffirms 'Real Growth Without Water' for 15th Five-Year Plan",
           "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E3%80%81%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "diplomacy: xi-kim summit": {
+      "label": "Diplomacy: Xi-Kim summit",
+      "count": 5,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Lihe Tech invests in Xingcan Smart, home embodied AI",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "人事观察｜广电总局副局长韩冬履新宁夏宣传部长",
+          "english_title": "Han Dong moves from NRTA to Ningxia propaganda chief",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rMXlKLWV2cVJfbEFpRzd2WmNPSmVld1E1b1ZrazdjU0REWjBUcWJINDJHM2F1Rk5XV0thY1R5SUFnRXZ3ZlZFWTdhMXEzRmdpbFJtRWc0akdXeU1FLXhrZUpB?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "习近平将访问朝鲜",
+          "english_title": "Xi to visit North Korea",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "新华社快讯：普京表示，中国发展强劲，在全球经济、世界政治及国际事务中扮演着日益重要的角色",
+          "english_title": "Putin says China developing strongly, playing growing global role",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qWGFfVGtPR2RFWEpiM3FTcGlkeDl3NUNEbUpYWDQzSm5oUDByb2ZUNFpuTG9xZ3RJSVRDV1hBTEhXNFVqTU9UbS1YMVVrbDVZY2NpUUxCYXFHenVQTEdHUnV6S2FucF9UTFpLU3BUanltVHZsaTdUMFEtNFFDWFk?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "总书记的人民情怀",
+          "english_title": "Xi's people-centric philosophy: water as key to Chinese modernization",
+          "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "sino-russian alignment": {
+      "label": "Sino-Russian alignment",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "新华社快讯：普京表示，中国发展强劲，在全球经济、世界政治及国际事务中扮演着日益重要的角色",
+          "english_title": "Putin says China developing strongly, playing growing global role",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qWGFfVGtPR2RFWEpiM3FTcGlkeDl3NUNEbUpYWDQzSm5oUDByb2ZUNFpuTG9xZ3RJSVRDV1hBTEhXNFVqTU9UbS1YMVVrbDVZY2NpUUxCYXFHenVQTEdHUnV6S2FucF9UTFpLU3BUanltVHZsaTdUMFEtNFFDWFk?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "ai regulatory testing": {
+      "label": "AI regulatory testing",
+      "count": 5,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "Nissan signs deal with China’s Chery for Sunderland car production",
+          "english_title": "Nissan signs deal with Chery for Sunderland car production",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWZfNm5OTVRjVVVoWFcyZTNpMTk0bDE5WDBUbDcwemdkaG1SYjRQSDJmcUZUdnV4SVpOeUptODhBdkNaX0R1VmQ3V1U4YlVfUUhCM1Y0YjAwRW5HTWlYaVRLTlhZd1ZhcnVTamw0aXZkOWppYVdKczEtUXRCWHk3NjYyXzU?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+          "english_title": "SCGC leads tens of millions financing for micro joint module firm",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oelRuUWF1MXhJa1d1QkNva3owSEFRaTBJNEZqYzRsb2hfOHAzZUM0VlgwbXBISU5RZWdLdW9XN3ZwUHpnaHJEUS1Pa0pfZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Lihe Tech invests in Xingcan Smart, home embodied AI",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "2026 AI-powered network security testing announcement",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "世界杯两大夺冠热门热身赛同时翻车",
+          "english_title": "World Cup favorites France, Spain lose warm-up matches",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%A4%E5%A4%A7%E5%A4%BA%E5%86%A0%E7%83%AD%E9%97%A8%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%90%8C%E6%97%B6%E7%BF%BB%E8%BD%A6",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "tax enforcement tightening": {
+      "label": "Tax enforcement tightening",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "2026年以来补税上市公司同比增加 主要因不符合税收优惠条件等",
+          "english_title": "Listed companies paying back taxes increase since 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55cnM4c3NtaEZJNUZiM2JMWjFGRUVnOXNUNXRzR3hfQVd1S0wyRHQ1QWN0SEpOQ3lmUHdza3FVRTBEYzk4M01nSXJrMjVMS0xLTHpMLWZGV0VhanBMeFotUTJB?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "gaokao demographic shift": {
+      "label": "Gaokao demographic shift",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-05",
+          "title": "高考报名人数为什么会下降",
+          "english_title": "Why gaokao applicant numbers are declining",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qNXVoNXFPWmNXeDduY3Bld0pfMVdXMU9KSWo3aWFoWHZiRG1TaUU5dW1iOXNqclFQa2w5X3htM1Q3NXo2WDlJUzV4VmNXR2M5WGdsUnU2TnFTSWExem5hcnhR?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "高考安检新变化 多地提醒",
+          "english_title": "New gaokao security checks: eyeglass inspections in multiple provinces",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%AE%89%E6%A3%80%E6%96%B0%E5%8F%98%E5%8C%96+%E5%A4%9A%E5%9C%B0%E6%8F%90%E9%86%92",
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot"
