@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T23:10:41+08:00",
+  "updated_at": "2026-06-06T06:28:02+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -3826,8 +3826,18 @@
     },
     "north korea visit": {
       "label": "North Korea visit",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "下周前瞻：习近平访问朝鲜；世界杯足球赛揭幕",
+          "english_title": "Next week preview: Xi Jinping visits North Korea; World Cup kicks off",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQZzU3dVl1b1FTWXJzQ29VX2RZUlBDdzcwV1FjWERWNHkzMVRPNmNhUlljUzg0dkVHbU8yYmdaTWRDbnNfZGh6UjZCQ2ZaYkcyRGF2R0dUbkkwOGVXV1NF?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-05",
           "title": "习近平将访问朝鲜",
@@ -3929,8 +3939,50 @@
     },
     "taiwan strait security": {
       "label": "Taiwan Strait security",
-      "count": 3,
+      "count": 7,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "下周前瞻：习近平访问朝鲜；世界杯足球赛揭幕",
+          "english_title": "Next week preview: Xi Jinping visits North Korea; World Cup kicks off",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQZzU3dVl1b1FTWXJzQ29VX2RZUlBDdzcwV1FjWERWNHkzMVRPNmNhUlljUzg0dkVHbU8yYmdaTWRDbnNfZGh6UjZCQ2ZaYkcyRGF2R0dUbkkwOGVXV1NF?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC announces 2026 AI-powered cybersecurity application test",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "公安机关、教育部门提醒考生诚信赴考",
+          "english_title": "Public security and education authorities warn students on exam integrity",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E3%80%81%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E6%8F%90%E9%86%92%E8%80%83%E7%94%9F%E8%AF%9A%E4%BF%A1%E8%B5%B4%E8%80%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "荷兰军舰过航台湾海峡 东部战区发声",
+          "english_title": "Dutch warship transits Taiwan Strait, PLA Eastern Theater responds",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%A3%B0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-05",
           "title": "2026年人工智能技术赋能网络安全应用测试公告",
@@ -3957,6 +4009,102 @@
           "title": "荷兰军舰过航台湾海峡 东部战区发声",
           "english_title": "Dutch warship transits Taiwan Strait; PLA Eastern Theater Command warns",
           "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%A3%B0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "diplomacy and coercion": {
+      "label": "diplomacy and coercion",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "习近平同通伦举行会谈",
+          "english_title": "Xi Jinping holds talks with Laos leader Thongloun",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%80%9A%E4%BC%A6%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "market sell-off": {
+      "label": "market sell-off",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "下周前瞻：习近平访问朝鲜；世界杯足球赛揭幕",
+          "english_title": "Next week preview: Xi Jinping visits North Korea; World Cup kicks off",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQZzU3dVl1b1FTWXJzQ29VX2RZUlBDdzcwV1FjWERWNHkzMVRPNmNhUlljUzg0dkVHbU8yYmdaTWRDbnNfZGh6UjZCQ2ZaYkcyRGF2R0dUbkkwOGVXV1NF?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "住房公积金拟扩大使用范围 支持物业费和住房装修等",
+          "english_title": "Housing provident fund proposed to cover property fees, home renovations",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BRmktRHkwUWZLUjZIWmtJb2lUTHdfVVdqZkNuRW9FRFhyTUhXMGt2MHF3am5YcW81akJ0d2FOcFhvX3hjM21uZ2F2WjBodzNnZ3ZZMl9fZnBzZlpXZnJuTnBrYUhYSDMtTXpOeDZWUXhERWl5V3owbGN4bWh6bEU?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "在促进产学研深度融合上实现更多突破（专题深思）",
+          "english_title": "People's Daily editorial: Achieve more breakthroughs in industry-academia-research integration",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3A3ZXppbWVxaHU4cnNaTzdPUnEtOHVzUWdIYVZMZVY1dXdNVEZVOTAyd1ZXYkhVQ3lqbENyWXBiWVlkTHdnR21Ud3UtSVNfc2t0M1ItNGRUeHFIQkJXVDhCc1ZiUnc1TzczUi1iTFhGUHc1UkJSazNrRTZpZnd1Vw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "regulatory fine-tuning": {
+      "label": "regulatory fine-tuning",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
+          "english_title": "Great Wall's Wei Jianjun publicly criticizes auto repair scams",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaUY1U3JUZUVHcTRFNHl5MmFnUXFuLTVRY3hBNjFQVWR5aC11U1NuTHhFb09JV25oZnFoNElWMV96RFg1YjRrSnBJZEF4QQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC announces 2026 AI-powered cybersecurity application test",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "sports feel-good": {
+      "label": "sports feel-good",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "习近平同通伦举行会谈",
+          "english_title": "Xi Jinping holds talks with Laos leader Thongloun",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%80%9A%E4%BC%A6%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot"

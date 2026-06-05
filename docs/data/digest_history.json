@@ -1,8 +1,288 @@
 {
-  "as_of": "2026-06-05T23:10:41+08:00",
+  "as_of": "2026-06-06T06:28:02+08:00",
   "source": "daily_digest archive",
-  "count": 21,
+  "count": 22,
   "entries": [
+    {
+      "as_of": "2026-06-06T06:28:02+08:00",
+      "date": "2026-06-06",
+      "time_label": "Morning Brief",
+      "beijing_time": "06:27",
+      "digest_type": "morning",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Xi hosts Laos leader, prepares North Korea visit as Dutch warship transits Taiwan Strait",
+      "headline_zh": "习近平会晤老挝领导人，拟访朝鲜，荷兰军舰过台海",
+      "narrative": "Today's dual-track diplomacy and coercion signal a calibrated approach. Xi Jinping's meeting with Laos' Thongloun reinforces Belt and Road solidarity, while the planned North Korea visit (next week) underscores continued alignment with Pyongyang against US pressure. Simultaneously, the PLA's strong response to a Dutch warship's Taiwan Strait transit, including a near-simultaneous incursion into Xisha airspace, demonstrates tested deterrence. Markets sold off broadly (SSE -1.38%, ChiNext -3.2%), partly on geopolitical jitters and JPMorgan's cautious outlook on Hong Kong internet stocks. Domestically, the CBA title win offers a rare feel-good moment, but the CAC's AI security testing announcement and the housing fund expansion signal continuous regulatory and social policy fine-tuning.",
+      "narrative_zh": "今日的双轨外交与威慑信号展现了一种精心校准的策略。习近平与老挝通伦的会谈强化了‘一带一路’团结，而计划中的下周访朝则凸显继续与平壤协调应对美国压力。与此同时，解放军对荷兰军舰过航台湾海峡及此前进入西沙领空的强烈回应展示了既定威慑。大盘普遍下跌（上证-1.38%，创业板-3.2%），部分受地缘紧张情绪及摩根大通对港股互联网的谨慎展望影响。国内，CBA夺冠是稀有的正面新闻，但网信办的AI安全测试公告和公积金扩围显示监管与社会政策的持续微调。",
+      "market_snapshot": "SSE Composite 4027.736 ▼1.38% · Shenzhen Component 15314.7 ▼2.48% · ChiNext 3957.935 ▼3.20% · USD/CNY 6.765 ▼0.12% · USD/CNH 6.7888 ▲0.23%",
+      "themes": [
+        "diplomacy and coercion",
+        "Taiwan Strait security",
+        "North Korea visit",
+        "market sell-off",
+        "regulatory fine-tuning",
+        "sports feel-good"
+      ],
+      "theme_trends": {
+        "diplomacy and coercion": {
+          "status": "rising",
+          "days_seen": 1
+        },
+        "Taiwan Strait security": {
+          "status": "recurring",
+          "days_seen": 4
+        },
+        "North Korea visit": {
+          "status": "rising",
+          "days_seen": 1
+        },
+        "market sell-off": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "regulatory fine-tuning": {
+          "status": "recurring",
+          "days_seen": 4
+        },
+        "sports feel-good": {
+          "status": "rising",
+          "days_seen": 1
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "习近平同通伦举行会谈",
+          "english_title": "Xi Jinping holds talks with Laos leader Thongloun",
+          "why_it_matters": "Signals continued commitment to Belt and Road and solidarity with fellow communist parties amid US-China competition.",
+          "why_it_matters_zh": "表明在美中竞争背景下，中国继续致力于‘一带一路’及与兄弟共产党团结。",
+          "pull_quote": "习近平：愿同老方深化战略互信，拓展务实合作。",
+          "pull_quote_zh": "习近平：愿同老方深化战略互信，拓展务实合作。",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%80%9A%E4%BC%A6%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88"
+        },
+        {
+          "primary_title": "上海男篮夺CBA总冠军",
+          "english_title": "Shanghai basketball team wins CBA championship",
+          "why_it_matters": "First title in 24 years; a rare unifying national entertainment event, momentarily lifting public mood.",
+          "why_it_matters_zh": "24年来首冠；难得的全国性娱乐事件，短期提振公众情绪。",
+          "pull_quote": "上海久事男篮以103-82获胜，总比分4-1夺冠。",
+          "pull_quote_zh": "上海久事男篮以103-82获胜，总比分4-1夺冠。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AE%E5%A4%BACBA%E6%80%BB%E5%86%A0%E5%86%9B"
+        },
+        {
+          "primary_title": "荷兰军舰过航台湾海峡 东部战区发声",
+          "english_title": "Dutch warship transits Taiwan Strait, PLA Eastern Theater responds",
+          "why_it_matters": "Demonstrates China's vigilance and willingness to challenge foreign military presence near its claimed waters, including a prior incursion into Xisha airspace.",
+          "why_it_matters_zh": "显示中国对周边水域外围军事存在的警惕与驱离决心，此前已进入西沙领空。",
+          "pull_quote": "东部战区新闻发言人徐承华陆军大校：全程跟监警戒，坚决维护国家主权。",
+          "pull_quote_zh": "东部战区新闻发言人徐承华陆军大校：全程跟监警戒，坚决维护国家主权。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%A3%B0"
+        },
+        {
+          "primary_title": "公安机关、教育部门提醒考生诚信赴考",
+          "english_title": "Public security and education authorities warn students on exam integrity",
+          "why_it_matters": "Annual crackdown on cheating during Gaokao, reinforcing social discipline and meritocracy ideology.",
+          "why_it_matters_zh": "高考期间严打作弊，强化社会纪律与贤能政治意识形态。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E3%80%81%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E6%8F%90%E9%86%92%E8%80%83%E7%94%9F%E8%AF%9A%E4%BF%A1%E8%B5%B4%E8%80%83"
+        },
+        {
+          "primary_title": "在促进产学研深度融合上实现更多突破（专题深思）",
+          "english_title": "People's Daily editorial: Achieve more breakthroughs in industry-academia-research integration",
+          "why_it_matters": "Part of official narrative emphasizing self-reliance in innovation, aligning with tech development priorities.",
+          "why_it_matters_zh": "官方叙事强调自主创新，与科技发展优先方向一致。",
+          "pull_quote": "以产学研深度融合推动关键核心技术攻关。",
+          "pull_quote_zh": "以产学研深度融合推动关键核心技术攻关。",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3A3ZXppbWVxaHU4cnNaTzdPUnEtOHVzUWdIYVZMZVY1dXdNVEZVOTAyd1ZXYkhVQ3lqbENyWXBiWVlkTHdnR21Ud3UtSVNfc2t0M1ItNGRUeHFIQkJXVDhCc1ZiUnc1TzczUi1iTFhGUHc1UkJSazNrRTZpZnd1Vw?oc=5"
+        },
+        {
+          "primary_title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC announces 2026 AI-powered cybersecurity application test",
+          "why_it_matters": "Signals regulatory push to strengthen AI security standards and promote domestic AI solutions in public security.",
+          "why_it_matters_zh": "表明监管层推动加强AI安全标准，并在公共安全中推广本土AI方案。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "platform_count": 1,
+          "source": "网信办",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm"
+        },
+        {
+          "primary_title": "住房公积金拟扩大使用范围 支持物业费和住房装修等",
+          "english_title": "Housing provident fund proposed to cover property fees, home renovations",
+          "why_it_matters": "A modest stimulus measure aimed at boosting household consumption and supporting the housing market.",
+          "why_it_matters_zh": "温和刺激措施，旨在提振家庭消费并支持住房市场。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BRmktRHkwUWZLUjZIWmtJb2lUTHdfVVdqZkNuRW9FRFhyTUhXMGt2MHF3am5YcW81akJ0d2FOcFhvX3hjM21uZ2F2WjBodzNnZ3ZZMl9fZnBzZlpXZnJuTnBrYUhYSDMtTXpOeDZWUXhERWl5V3owbGN4bWh6bEU?oc=5"
+        },
+        {
+          "primary_title": "下周前瞻：习近平访问朝鲜；世界杯足球赛揭幕",
+          "english_title": "Next week preview: Xi Jinping visits North Korea; World Cup kicks off",
+          "why_it_matters": "Xi's first known visit to North Korea in years; a major diplomatic move likely to discuss coordination on sanctions and security.",
+          "why_it_matters_zh": "习近平多年来首次访朝，重大外交动作，或讨论制裁与安全协调。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Caixin",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQZzU3dVl1b1FTWXJzQ29VX2RZUlBDdzcwV1FjWERWNHkzMVRPNmNhUlljUzg0dkVHbU8yYmdaTWRDbnNfZGh6UjZCQ2ZaYkcyRGF2R0dUbkkwOGVXV1NF?oc=5"
+        },
+        {
+          "primary_title": "【市场洞察】摩根大通：港股互联网公司业绩拐点未现 A股仍具备上行空间",
+          "english_title": "JPMorgan: No turning point for HK internet stocks; A-share still has upside",
+          "why_it_matters": "Reflects cautious foreign sentiment on Chinese tech earnings outlook, but sees relative value in A-shares.",
+          "why_it_matters_zh": "反映外资对中国科技盈利前景的谨慎，但认为A股有相对价值。",
+          "pull_quote": "JPMorgan: 港股互联网公司业绩拐点未现，A股仍具备上行空间。",
+          "pull_quote_zh": "JPMorgan: 港股互联网公司业绩拐点未现，A股仍具备上行空间。",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Caixin",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rYUlhSV9TaHdWN0FRWHFVOTBESmZhNkN1Y2d2LWhvNENtZkY5MVAtVlNvTE5adjNWd0lUYVB6SXQ5ZzNUSHB5U3RiOTVOcE9hMUNtVnpEelh5b3VVLW5CaV9vUQ?oc=5"
+        },
+        {
+          "primary_title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
+          "english_title": "Great Wall's Wei Jianjun publicly criticizes auto repair scams",
+          "why_it_matters": "High-profile business leader calls out industry malpractices, reflecting broader consumer rights tension and potential regulatory ripple.",
+          "why_it_matters_zh": "知名企业家公开批评行业乱象，反映消费者权益紧张及潜在监管涟漪。",
+          "pull_quote": "魏建军炮轰‘小病大修’灰色链条，称4S店存在过度维修。",
+          "pull_quote_zh": "魏建军炮轰‘小病大修’灰色链条，称4S店存在过度维修。",
+          "pillar": "society",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaUY1U3JUZUVHcTRFNHl5MmFnUXFuLTVRY3hBNjFQVWR5aC11U1NuTHhFb09JV25oZnFoNElWMV96RFg1YjRrSnBJZEF4QQ?oc=5"
+        },
+        {
+          "primary_title": "B站宣布启动AI创造公开赛",
+          "english_title": "Bilibili launches AI creation open contest",
+          "why_it_matters": "Platforms doubling down on AI-generated content to fuel engagement and compete with short-video rivals.",
+          "why_it_matters_zh": "平台加码AI生成内容以提升参与度，与短视频对手竞争。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVjd4S1RDVndJM3ZvMTZ0WjdwdnRJUHViRFhra2VzSnNJZmxGQ19pR0MyYVRnakd1VnI2Mm9fV0kwaU9zUlozdzRIWk5wZk1pZU9RQlNHdEJHVnFjMEE?oc=5"
+        },
+        {
+          "primary_title": "PwC cuts partner payouts in China Evergrande fallout",
+          "english_title": "PwC cuts partner payouts due to China Evergrande fallout",
+          "why_it_matters": "Ongoing consequences of the audit failure; signals increased liability for foreign firms working with troubled Chinese clients.",
+          "why_it_matters_zh": "审计失败的持续后果；表明与有问题的中国客户合作的外资企业责任加重。",
+          "pull_quote": "PwC cuts partner payouts as part of fallout from Evergrande audit. (FT source)",
+          "pull_quote_zh": "普华永道因恒大审计后果削减合伙人薪酬。",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm9maFpoOG1XNC1XbEI0UTQ5SmFaNnlTVlZJS2hzRVZXNGU3OHJLaUxnMm4tRDJ4OFhKYlBqRXpibWRRLThZUjIyemxLTkdhdmlhaXd3aEJ4MzBLX3FVdHgwZmRZbjNxbVgwVGFxS1B6NWdUbjFJajBYcXR0VHBSUmdDWkY?oc=5"
+        },
+        {
+          "primary_title": "The US-China decoupling fantasy, with Jessica Chen Weiss",
+          "english_title": "The US-China decoupling fantasy, with Jessica Chen Weiss",
+          "why_it_matters": "Academic critique of decoupling narrative; matters for understanding mainstream foreign policy debate in Washington.",
+          "why_it_matters_zh": "学者对脱钩叙事的批评；关乎理解华盛顿主流外交政策辩论。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONW10QjRKaE9SOFc2R3l6SUxXMkN5WFF0dXZNNEtiMXhaWEZtUFFCODJhMzRUcFV5NlJ5MmVJWVRlZnRaVUNuWkdOMEFRbENUQTNQT1VVNHZnQmxranBXVG5rNzVWYUl3ZGpNVUpHTEdNSDVtVVBWU2w4Sy1TbW9iMlQyRmc?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-05T23:10:41+08:00",
       "date": "2026-06-05",
