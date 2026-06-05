@@ -1,8 +1,244 @@
 {
-  "as_of": "2026-06-05T15:22:14+08:00",
+  "as_of": "2026-06-05T19:38:50+08:00",
   "source": "daily_digest archive",
-  "count": 20,
+  "count": 21,
   "entries": [
+    {
+      "as_of": "2026-06-05T19:38:50+08:00",
+      "date": "2026-06-05",
+      "time_label": "Evening Brief",
+      "beijing_time": "19:38",
+      "digest_type": "evening",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Xi to Visit North Korea; Stocks Drop, Used Car Prices Tumble",
+      "headline_zh": "习近平将访朝鲜 股市下跌 二手车价崩盘",
+      "narrative": "Today's top story is the announcement of President Xi Jinping's upcoming visit to North Korea, underscoring Beijing's commitment to the Pyongyang alliance amid heightened U.S.-China tensions. Meanwhile, domestic markets sold off sharply, with the SSE Composite falling 1.38 percent, as concerns over deflation and the property sector persist. In regulatory news, the CAC unveiled a new AI-powered cybersecurity testing program, signaling a continued push to integrate advanced technology into state surveillance. Separately, the collapse of used fuel car prices reflects the accelerating disruption of EVs on the automotive industry.",
+      "narrative_zh": "今日头条是习近平主席即将访问朝鲜的公告，凸显在中美紧张局势加剧背景下北京对平壤盟友关系的承诺。与此同时，国内股市大幅下跌，上证综指跌1.38%，反映通缩和房地产行业的持续担忧。监管方面，网信办推出新的人工智能网络安全测试计划，显示继续推动将先进技术融入国家监控系统。此外，二手燃油车价格崩盘，反映了电动车对汽车行业的加速颠覆。",
+      "market_snapshot": "SSE Composite 4027.736 ▼1.38% · Shenzhen Component 15314.7 ▼2.48% · ChiNext 3957.935 ▼3.20% · USD/CNY 6.765 ▼0.12% · USD/CNH 6.7674 ▼0.09%",
+      "themes": [
+        "Xi diplomacy",
+        "North Korea visit",
+        "stock market decline",
+        "deflation concerns",
+        "AI regulation",
+        "EV disruption"
+      ],
+      "theme_trends": {
+        "Xi diplomacy": {
+          "status": "recurring",
+          "days_seen": 4
+        },
+        "North Korea visit": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "stock market decline": {
+          "status": "recurring",
+          "days_seen": 4
+        },
+        "deflation concerns": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "AI regulation": {
+          "status": "recurring",
+          "days_seen": 4
+        },
+        "EV disruption": {
+          "status": "rising",
+          "days_seen": 1
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "挪威队带300公斤鱼出征世界杯",
+          "english_title": "Norway National Team Brings 300kg Salmon to World Cup",
+          "why_it_matters": "Reflects Chinese social media's appetite for quirky international sports trivia.",
+          "why_it_matters_zh": "反映中国社交媒体对国际体育趣闻的关注。",
+          "pull_quote": "6000 local oranges, 116 kg brown cheese",
+          "pull_quote_zh": "6000个本土橙子，116公斤棕奶酪",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E6%8C%AA%E5%A8%81%E9%98%9F%E5%B8%A6300%E5%85%AC%E6%96%A4%E9%B1%BC%E5%87%BA%E5%BE%81%E4%B8%96%E7%95%8C%E6%9D%AF"
+        },
+        {
+          "primary_title": "习近平将访问朝鲜",
+          "english_title": "Xi Jinping to Visit North Korea",
+          "why_it_matters": "Signals continuity of strategic ties with Pyongyang amid geopolitical uncertainties.",
+          "why_it_matters_zh": "显示在地缘政治不确定性中与平壤的战略关系延续。",
+          "pull_quote": "Invitation extended by Kim Jong Un",
+          "pull_quote_zh": "金正恩发出邀请",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C"
+        },
+        {
+          "primary_title": "中方回应“黄岩岛不明结构物消失”",
+          "english_title": "China Responds to Disappearance of Structure in Scarborough Shoal",
+          "why_it_matters": "Highlights ongoing maritime sovereignty tensions in the South China Sea.",
+          "why_it_matters_zh": "凸显南海海洋主权争端的持续紧张。",
+          "pull_quote": "Foreign Ministry: 'Scarborough Shoal is China's territory'",
+          "pull_quote_zh": "外交部：'黄岩岛是中国领土'",
+          "pillar": "geopolitics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E5%B2%A9%E5%B2%9B%E4%B8%8D%E6%98%8E%E7%BB%93%E6%9E%84%E7%89%A9%E6%B6%88%E5%A4%B1%E2%80%9D"
+        },
+        {
+          "primary_title": "二手油车价格崩盘",
+          "english_title": "Second-Hand Fuel Car Prices Collapse",
+          "why_it_matters": "Signals rapid EV disruption and depreciation crisis for ICE owners.",
+          "why_it_matters_zh": "显示电动车快速颠覆和燃油车主的折旧危机。",
+          "pull_quote": "Prices down 30% month-on-month, from 300k to 200k yuan",
+          "pull_quote_zh": "价格月跌30%，从30万跌至20万元",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%B4%A9%E7%9B%98"
+        },
+        {
+          "primary_title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC Announces 2026 AI-Powered Cybersecurity Testing",
+          "why_it_matters": "Shows regulatory push to embed AI into security infrastructure.",
+          "why_it_matters_zh": "显示监管推动将AI嵌入安全基础设施。",
+          "pull_quote": "Testing opens for applications",
+          "pull_quote_zh": "测试开放申请",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "platform_count": 1,
+          "source": "网信办",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm"
+        },
+        {
+          "primary_title": "假冒学历认证等网站 公安部网安局发布典型案例",
+          "english_title": "MPS Releases Cases of Fake Diploma Certification Websites",
+          "why_it_matters": "Signals continued crackdown on credential fraud to maintain educational integrity.",
+          "why_it_matters_zh": "显示持续打击假学历认证以维护教育公信力。",
+          "pull_quote": "Multiple fake sites shut down",
+          "pull_quote_zh": "多个假网站被关",
+          "pillar": "regulatory",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1IwQmlCX1JlWnRGVTlyc0FoYmU0ZUFIaVJBNG0temZsTVdfMVlrSG1vVmxadkl4ZGduVnN3QTl0LVVBSzJocWVyeHczMThfbEZnQktlWm5kcFZBQV9jZzlFVS1aUk5LcGc0RTh0Z05sRkdLMDRKWW1xSWVDV1N5ZUdtN0dpTi1WQ3dHNDdn?oc=5"
+        },
+        {
+          "primary_title": "溜溜梅拟全球发售约1146万股H股",
+          "english_title": "Liuliumei Plans Global Offering of 11.46 Million H-Shares",
+          "why_it_matters": "Indicates continued but modest IPO activity by Chinese consumer brands.",
+          "why_it_matters_zh": "显示中国消费品牌IPO活动持续但规模不大。",
+          "pull_quote": "Planned listing on Hong Kong Exchange",
+          "pull_quote_zh": "计划在港交所上市",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ycW1lWGNCYWpOaEJFaVZPdEU0QV9mWVd5RE55RnZ1N016N2dVOFJWeVNGNWZGS3FUdGxxRVdUbVNrU2NjOGsyRFRhSXY2NjYxc0tpelVKVzNWUFNlVUE?oc=5"
+        },
+        {
+          "primary_title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+          "english_title": "Leaguer VC Invests in Xingcan Smart for Home Embodied AI",
+          "why_it_matters": "Reflects growing investment in domestic robotics and embodied AI for consumer market.",
+          "why_it_matters_zh": "反映国内机器人及具身智能消费市场的投资增长。",
+          "pull_quote": "Three major industrial capitals gathered",
+          "pull_quote_zh": "集齐三大产业资本",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OXBRZkM2RG5EbkpLS1BQb05QWEVWa1VaRExrZU1tQ0NURXczanFnd1oxVlZuakctWERoRUx5Qk1YTGJCSUJ3ZGNkS3dsZw?oc=5"
+        },
+        {
+          "primary_title": "PwC cuts partner payouts in China Evergrande fallout",
+          "english_title": "PwC Cuts Partner Payouts Amid Evergrande Fallout",
+          "why_it_matters": "Shows ongoing repercussions of China property crisis on international accounting firms.",
+          "why_it_matters_zh": "显示中国地产危机对国际会计师事务所的持续影响。",
+          "pull_quote": "Partner payouts reduced significantly",
+          "pull_quote_zh": "合伙人收入大幅削减",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm9maFpoOG1XNC1XbEI0UTQ5SmFaNnlTVlZJS2hzRVZXNGU3OHJLaUxnMm4tRDJ4OFhKYlBqRXpibWRRLThZUjIyemxLTkdhdmlhaXd3aEJ4MzBLX3FVdHgwZmRZbjNxbVgwVGFxS1B6NWdUbjFJajBYcXR0VHBSUmdDWkY?oc=5"
+        },
+        {
+          "primary_title": "Falling Chinese oil imports ‘shield’ global market from higher prices",
+          "english_title": "Falling Chinese Oil Imports Shield Global Market from Higher Prices",
+          "why_it_matters": "Indicates slowing Chinese industrial activity and its deflationary effect on global commodities.",
+          "why_it_matters_zh": "显示中国工业活动放缓及其对全球大宗商品的通缩效应。",
+          "pull_quote": "Lower Chinese demand helps cap oil prices",
+          "pull_quote_zh": "中国需求下降有助于抑制油价",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0ZvQ01GRTJkOWtyT3lSbFZSOFJ0YmFReTJ4VjJ1QmpyNmo3dXJ4OUYxcFdWM0JfSFk0Y2JaNVgzaUdKaFMzbXF4M3VBS000Q29LbHJSRFpRS3JURldSQjZDMkUwOVVSZHZMU3NJLWpBaF9qZDhzZ2diNUhiWGNGS0dYa3A?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-05T15:22:14+08:00",
       "date": "2026-06-05",
