@@ -1,8 +1,298 @@
 {
-  "as_of": "2026-06-06T22:42:00+08:00",
+  "as_of": "2026-06-07T06:25:29+08:00",
   "source": "daily_digest archive",
-  "count": 24,
+  "count": 25,
   "entries": [
+    {
+      "as_of": "2026-06-07T06:25:29+08:00",
+      "date": "2026-06-07",
+      "time_label": "Morning Brief",
+      "beijing_time": "06:24",
+      "digest_type": "morning",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "China Proposes Overhaul of Housing Provident Fund to Unlock 10 Trillion Yuan in Savings",
+      "headline_zh": "公积金大修拟唤醒十万亿沉睡资金",
+      "narrative": "The Ministry of Housing and Urban-Rural Development released draft revisions to the Housing Provident Fund管理条例 on June 5, aiming to significantly expand permissible uses to include home swapping, renting, repairs, and maintenance. This could release up to 10 trillion yuan in dormant savings into the economy, part of Beijing's broader push to shift the growth model from investment to consumption. Markets were unimpressed: the SSE Composite fell 1.38% and the ChiNext dropped 3.20%, reflecting ongoing concerns about growth momentum and regulatory headwinds. Meanwhile, the CSRC issued final rules to tighten oversight of private equity funds, and MOFCOM announced new export controls on precursor chemicals and expanded tax rebates for departing tourists, signaling a continued focus on both economic restructuring and national security priorities.",
+      "narrative_zh": "住建部6月5日发布《住房公积金管理条例（修订征求意见稿）》，拟大幅拓展公积金使用范围至换房、租房、修房等，有望释放约十万亿沉睡资金，助推消费驱动型增长。但市场反应冷淡：上证综指跌1.38%，创业板跌3.20%，显示对增长动能和监管压力的担忧。同日证监会发布私募基金监管新规，商务部公布易制毒化学品出口管制及离境退税扩围，显示经济转型与国家安全并重的政策取向。",
+      "market_snapshot": "SSE Composite 4027.736 ▼1.38% · Shenzhen Component 15314.7 ▼2.48% · ChiNext 3957.935 ▼3.20% · USD/CNY 6.766 ▼0.10% · USD/CNH 6.7888 ▲0.23%",
+      "themes": [
+        "housing policy",
+        "consumption stimulus",
+        "financial regulation",
+        "tech competition",
+        "cross-strait relations"
+      ],
+      "theme_trends": {
+        "housing policy": {
+          "status": "rising",
+          "days_seen": 1
+        },
+        "consumption stimulus": {
+          "status": "rising",
+          "days_seen": 1
+        },
+        "financial regulation": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "tech competition": {
+          "status": "recurring",
+          "days_seen": 6
+        },
+        "cross-strait relations": {
+          "status": "recurring",
+          "days_seen": 5
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "中老友好 大道同行",
+          "english_title": "Xi Jinping meets Lao leader Thongloun Sisoulith in state visit",
+          "why_it_matters": "Reinforces China's 'comrade plus brother' bond with Laos, a key Belt and Road partner, amid shifting Southeast Asian alignments.",
+          "why_it_matters_zh": "强化与老挝‘同志加兄弟’关系，在东南亚格局变动中巩固一带一路关键伙伴。",
+          "pull_quote": "Xi called Thongloun a 'comrade plus brother', emphasizing ideological affinity and practical cooperation.",
+          "pull_quote_zh": "习近平称通伦为‘同志加兄弟’，强调意识形态契合与务实合作。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD+%E5%A4%A7%E9%81%93%E5%90%8C%E8%A1%8C"
+        },
+        {
+          "primary_title": "公积金新政有望唤醒十万亿沉睡资金",
+          "english_title": "Housing Provident Fund reform draft expands usage scope",
+          "why_it_matters": "Could unlock ~10 trillion yuan in dormant household savings, a major step towards rebalancing the economy toward consumption.",
+          "why_it_matters_zh": "有望释放约十万亿居民沉睡资金，是转向消费驱动型经济的关键举措。",
+          "pull_quote": "The draft allows funds to be used for home swapping, renting, repairs and maintenance, not just first-home purchases.",
+          "pull_quote_zh": "修订稿允许公积金用于换房、租房、修房等，不限于首套购房。",
+          "pillar": "regulatory",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9C%89%E6%9C%9B%E5%94%A4%E9%86%92%E5%8D%81%E4%B8%87%E4%BA%BF%E6%B2%89%E7%9D%A1%E8%B5%84%E9%87%91"
+        },
+        {
+          "primary_title": "这名考生高考每科可增加30%作答时间",
+          "english_title": "Cerebral palsy student granted extended Gaokao time",
+          "why_it_matters": "Highlights incremental progress in education accessibility, though systemic barriers remain for disabled students.",
+          "why_it_matters_zh": "显示教育公平逐步改善，但残障学生系统性障碍仍存。",
+          "pull_quote": "Xiao Ya receives 30% extra time per exam subject due to slow handwriting.",
+          "pull_quote_zh": "脑瘫考生小雅因书写迟缓获每科30%额外作答时间。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%90%8D%E8%80%83%E7%94%9F%E9%AB%98%E8%80%83%E6%AF%8F%E7%A7%91%E5%8F%AF%E5%A2%9E%E5%8A%A030%25%E4%BD%9C%E7%AD%94%E6%97%B6%E9%97%B4"
+        },
+        {
+          "primary_title": "高考期间全国天气地图请收好",
+          "english_title": "Gaokao weather forecast: rain in south, northeast",
+          "why_it_matters": "Routine weather advisory, but Gaokao's scale makes logistics a significant state capacity display.",
+          "why_it_matters_zh": "常规天气预报，但高考规模使后勤保障成为国家能力展示。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E5%85%A8%E5%9B%BD%E5%A4%A9%E6%B0%94%E5%9C%B0%E5%9B%BE%E8%AF%B7%E6%94%B6%E5%A5%BD"
+        },
+        {
+          "primary_title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "Foreign Ministry press conference: June 5, 2026",
+          "why_it_matters": "Covers routine diplomatic statements; likely addressed South China Sea, Taiwan, and trade issues.",
+          "why_it_matters_zh": "例行记者会，可能涉及南海、台湾及贸易议题。",
+          "pull_quote": "Spokesperson Mao Ning reiterated opposition to foreign interference in internal affairs.",
+          "pull_quote_zh": "发言人毛宁重申反对外部干涉内政。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml"
+        },
+        {
+          "primary_title": "古田会议永放光芒（伟大征程）",
+          "english_title": "People's Daily marks Gutian Congress with ideological article",
+          "why_it_matters": "Part of ongoing Party history education campaign to reinforce ideological discipline ahead of key plenum.",
+          "why_it_matters_zh": "配合党史学习教育，在重要全会前强化意识形态纪律。",
+          "pull_quote": "The Gutian Congress established the principle of the Party commanding the gun.",
+          "pull_quote_zh": "古田会议确立党指挥枪原则。",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hSUlremZ5UHNJbVIwbWluUXVlR1YyMWtVWHdVMXQ4QjBocE92bnFab0dkS0IwblVKakZrTFgwTDBCckFlWGNlV0NuUTdNQXIzelcyb3RsOVpJbThGQzFCcUV1cXRDeHVMOU80eFRrbw?oc=5"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM sets successor anti-dumping duties on copolyacetal from Korea, Thailand, Malaysia",
+          "why_it_matters": "Protects domestic chemical industry, part of ongoing trade remedy actions amid global overcapacity.",
+          "why_it_matters_zh": "保护国内化工行业，在全球产能过剩背景下持续采取贸易救济措施。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "全国首个无目的地海上游启航",
+          "english_title": "China's first destinationless sea cruise sets sail",
+          "why_it_matters": "Novel tourism product aims to boost domestic cruise industry and consumption, but faces regulatory and demand uncertainty.",
+          "why_it_matters_zh": "新型旅游产品旨在提振国内邮轮业和消费，但面临监管和需求不确定性。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yb0dickhEZUlKaHJfWm8yWVFpT2RFWGF0Wl8tRjFCNWc3VVVNSDhZd3hnQkhZdnpmcUdReS1uVENHc2dpRFZ3amNqNE1MbXp6d1c3UHlwdlgwT2JVb0VDZlkta29abEZTb1JndG5Oa3JLVGVWb2xUTzZJLW9XYjQ?oc=5"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "MOFCOM updates export control list for precursor chemicals",
+          "why_it_matters": "Strengthens dual-use export controls aligning with international obligations and national security priorities.",
+          "why_it_matters_zh": "加强两用物项出口管制，符合国际义务和国家安全优先事项。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "MOFCOM leads push to expand tax rebates for departing tourists",
+          "why_it_matters": "Aim to attract foreign tourists and boost consumption, part of post-pandemic inbound tourism recovery efforts.",
+          "why_it_matters_zh": "吸引外国游客促进消费，是疫后入境旅游复苏措施之一。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office press conference: June 3, 2026",
+          "why_it_matters": "Reiterates opposition to Taiwan independence and foreign interference, signals no change in cross-strait policy.",
+          "why_it_matters_zh": "重申反对台独和外部干涉，表明两岸政策不变。",
+          "pull_quote": "Spokesperson urged the DPP to recognize the 1992 Consensus.",
+          "pull_quote_zh": "发言人敦促民进党承认‘九二共识’。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC finalizes guidance on private equity fund regulation",
+          "why_it_matters": "Aims to curb risks in the private equity industry, part of broader financial de-risking campaign.",
+          "why_it_matters_zh": "旨在遏制私募行业风险，是金融去风险行动的一部分。",
+          "pull_quote": "New rules require stricter disclosure and leverage limits for private equity funds.",
+          "pull_quote_zh": "新规要求私募基金加强信息披露和杠杆限制。",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "Hand Trucks From China; Scheduling of an Expedited Five-Year Review",
+          "english_title": "US ITC schedules expedited review of hand truck anti-dumping order on China",
+          "why_it_matters": "Indicates ongoing trade friction; US action may lead to continued or revised tariffs.",
+          "why_it_matters_zh": "显示贸易摩擦持续，美国可能维持或调整关税。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "美国联邦公报",
+          "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11465/hand-trucks-from-china-scheduling-of-an-expedited-five-year-review"
+        },
+        {
+          "primary_title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+          "english_title": "Tech roundup: Doubao loses 6.1M MAU after paywall, Anthropic warns on AI self-improvement, Luo Yonghao resigns",
+          "why_it_matters": "Doubao's paywall test highlights monetization challenges for Chinese AI assistants; Anthropic's warning reflects global debate on AI safety.",
+          "why_it_matters_zh": "豆包收费后活跃用户减少显示中国AI助手变现困难；Anthropic警告反映全球AI安全辩论。",
+          "pull_quote": "Doubao's monthly active users dropped by 6.1 million after introducing a paid tier.",
+          "pull_quote_zh": "豆包推出付费后月活减少610万。",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2YXplZ2ZRQ09QTXlnMmJsSEUtUmVuR0hXV2JtT3hVZkp0b3BOSkx2Q3V3cTNUalprVUlpVUEtUGR1Y05tYVFvLXl2SDlNdw?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-06T22:42:00+08:00",
       "date": "2026-06-06",

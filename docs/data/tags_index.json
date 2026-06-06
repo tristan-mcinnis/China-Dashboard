@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T22:42:00+08:00",
+  "updated_at": "2026-06-07T06:25:29+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -2283,8 +2283,18 @@
     },
     "financial regulation": {
       "label": "financial regulation",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC finalizes guidance on private equity fund regulation",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-03",
           "title": "老虎证券6月12日起将停止存量用户中国境内开仓加仓",
@@ -4652,8 +4662,39 @@
     },
     "consumption stimulus": {
       "label": "consumption stimulus",
-      "count": 1,
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "MOFCOM leads push to expand tax rebates for departing tourists",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "全国首个无目的地海上游启航",
+          "english_title": "China's first destinationless sea cruise sets sail",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yb0dickhEZUlKaHJfWm8yWVFpT2RFWGF0Wl8tRjFCNWc3VVVNSDhZd3hnQkhZdnpmcUdReS1uVENHc2dpRFZ3amNqNE1MbXp6d1c3UHlwdlgwT2JVb0VDZlkta29abEZTb1JndG5Oa3JLVGVWb2xUTzZJLW9XYjQ?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "公积金新政有望唤醒十万亿沉睡资金",
+          "english_title": "Housing Provident Fund reform draft expands usage scope",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9C%89%E6%9C%9B%E5%94%A4%E9%86%92%E5%8D%81%E4%B8%87%E4%BA%BF%E6%B2%89%E7%9D%A1%E8%B5%84%E9%87%91",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-06",
           "title": "住房公积金迎全国性大动作",
@@ -4970,6 +5011,55 @@
             "elite_press"
           ],
           "category": "press"
+        }
+      ]
+    },
+    "housing policy": {
+      "label": "housing policy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "公积金新政有望唤醒十万亿沉睡资金",
+          "english_title": "Housing Provident Fund reform draft expands usage scope",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9C%89%E6%9C%9B%E5%94%A4%E9%86%92%E5%8D%81%E4%B8%87%E4%BA%BF%E6%B2%89%E7%9D%A1%E8%B5%84%E9%87%91",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "tech competition": {
+      "label": "tech competition",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+          "english_title": "Tech roundup: Doubao loses 6.1M MAU after paywall, Anthropic warns on AI self-improvement, Luo Yonghao resigns",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2YXplZ2ZRQ09QTXlnMmJsSEUtUmVuR0hXV2JtT3hVZkp0b3BOSkx2Q3V3cTNUalprVUlpVUEtUGR1Y05tYVFvLXl2SDlNdw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "cross-strait relations": {
+      "label": "cross-strait relations",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office press conference: June 3, 2026",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
         }
       ]
     }
