@@ -1,7 +1,273 @@
 {
   "source": "Xinhua News Agency RSS",
-  "generated_at": "2026-06-06T11:46:24+08:00",
+  "generated_at": "2026-06-06T14:58:16+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-06T14:58:16+08:00",
+      "source": "Xinhua News Agency RSS",
+      "items": [
+        {
+          "title": "俄方排雷人员遇袭受伤 IAEA呼吁遵守局部停火",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tT0p6aVZDTHdJWTdiMXhiOXVtTUdIdkpXRzNVcF80RnhnQ3dDRWlJeGFWTkZnSEtkSUtoVG5lSmNjVk5wNmE5OE1Ibl9MM1ZTaFM0SXA0NlNCUDZvQXl6ZmdMN2pVOU5lY2U5ZUgxRlhYR0xfODRhVUZmMmJIQQ?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-05T14:20:40Z",
+            "summary": "俄方排雷人员遇袭受伤 IAEA呼吁遵守局部停火 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Russian deminers attacked and injured; IAEA calls for compliance with..."
+          }
+        },
+        {
+          "title": "CBA总决赛第五场：上海击败广厦 总比分4:1夺冠",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNzZXYjVMQTFuRU9YTkI2QmJESTRMM3RnSVlYLXF4emRDakdibTJkd0c1RjZCcW1pQnVjcHNwdHlRN2d6Z2FYUTdDV0ozZTFYTjVzMGFqQVUwa3p1MjBVTVRrbDhMQlJwakZKMjA4Z192eHI5akk1RGdHclRyQjg?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-05T05:46:27Z",
+            "summary": "CBA总决赛第五场：上海击败广厦 总比分4:1夺冠 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "CBA Finals Game 5: Shanghai beats Guangsha, wins championship 4-1"
+          }
+        },
+        {
+          "title": "国际空间站俄舱段“星辰”号服务舱内发现漏气点",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbFY2ZnRHUEtVQjU2X3JOSW1qV3FTZ0o5XzBKQUczQXUydHRUdFBwZENNUmNyV2dkSENCVXJOcXJPaEhkUlVFNV9RT21yQW0ydUxON0x1ZzV2dHJmVHhpQTdQelczX0diS01zMTkxaHRHakRXVEtZdmtKWU9OWEE?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-05T07:49:29Z",
+            "summary": "国际空间站俄舱段“星辰”号服务舱内发现漏气点 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Leak found in Russian module \"Zvezda\" service compartment on International..."
+          }
+        },
+        {
+          "title": "法国检方宣布调查“全球坚韧船队”法国人遭暴力对待事件",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRHI4RWdiQk52N2dSRkgyNVlTaDlCTmZvZTVmOVhJRXAxTTRmMnIyZ0Qwcl8xMk45MHAtU3MtUXcyUEg4b1VlUHJMOHd4alIxUTJUNEg2OVducWU2NVU5SzVTT0lKNTZXN2JDb1RpTktqTkVBMzJRblhTQUhabEE?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-05T07:59:58Z",
+            "summary": "法国检方宣布调查“全球坚韧船队”法国人遭暴力对待事件 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "French prosecutors announce investigation into violent treatment of French..."
+          }
+        },
+        {
+          "title": "俄罗斯：乌军违反停火协议袭击扎波罗热核电站",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13c1ljTmcwa29iNXI4dmRzUm83b05PTlJfSFhvQTk2U29lT01yTVVfUC1OY2JBMER6SE16XzZyWkVnSnNSekczei1sdm56UnJfczNOVkNxMGpWZG42NVRleUFwMmJqMFlQeVlCelB0NERDdERGM1NQTlVKWTV4VU0?oc=5",
+          "extra": {
+            "category": "要闻",
+            "published": "2026-06-05T07:19:41Z",
+            "summary": "俄罗斯：乌军违反停火协议袭击扎波罗热核电站 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Russia: Ukrainian forces violate ceasefire, attack Zaporizhzhia nuclear..."
+          }
+        },
+        {
+          "title": "镜观中国·新华社国内新闻照片一周精选",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNak1tZkFWa3M5MG9EUEYyNlpVb0x4LVVYZEdud0hYYlhoY19RdUNpbl9wbGRmUUdJTDhWSVJsZGlzbF9jVDRNa3VadXZBS3RVYm12SzZWdW9VZnlnbUt5Ni1oMnZpX3daY1FIZlQ4UnlrNzMxOEJ5LWZ6UU9jdVBiSlVSX0FfQQ?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-05T22:52:50Z",
+            "summary": "镜观中国·新华社国内新闻照片一周精选 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Mirroring China: Xinhua domestic news photo highlights of the week"
+          }
+        },
+        {
+          "title": "睿智医药落子赣南，提升本地化服务能力 赋能生物医药高质量发展",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXhaWDRaWTJFaHAwOTEyYUR0NzF1MGN5UHZNZjRsMENQakRycFg5b19UN09UUW1WZTBzc1RremhsbUkxX3k1VHRvZ3VNTnd6RVRlQmUyeEdZTUZCckNMRlZadjMzeEUtaXJIRkt1a1p4WnU3Vl90UUZPcnM2bzFDUldvbHR5REE?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-05T01:55:25Z",
+            "summary": "睿智医药落子赣南，提升本地化服务能力 赋能生物医药高质量发展 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "RuiZhi Pharma sets up in southern Jiangxi, enhancing localized service..."
+          }
+        },
+        {
+          "title": "“六合一”全集成航空电动发动机下线交付",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CUDRqdUhRWXU0bjhVajBPRzdHRFZVY2xWTWJrelpvYXItT09oQXJuQ1FTVmY0QzZJYXcxWUN6WlhSVHA1TnlyZEotdk1TZVByanR2S3VzdTdxM0lraGZnZ0FTdU5kUkZ6czg0VlRtckVHV2NDTDB6OUlyeFBLVXM?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-05T05:52:53Z",
+            "summary": "“六合一”全集成航空电动发动机下线交付 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "\"Six-in-one\" fully integrated aviation electric engine rolls off production..."
+          }
+        },
+        {
+          "title": "惠誉近21年来首次上调南非主权信用评级",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yRFMyS3NlUWpNYVYyNDFCalVPREtvTUdaOTdQY0RRNUdjZ0gxVGdTcGtvY2t3YmM4aFQ3RGxzcFFkVG5PNUE2SlNlN1hDcVVSMGRuWXZtVHBmY21Td25SWFNxOUhXdjVieDlaMk8tcjVScjhkeEt2VFhfMzNUZw?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-05T22:30:30Z",
+            "summary": "惠誉近21年来首次上调南非主权信用评级 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Fitch upgrades South Africa's sovereign credit rating for first time in..."
+          }
+        },
+        {
+          "title": "国际观察丨泽连斯基提议与普京面谈的考量与困境",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wWHB2cTZua05OOHAyYXlTTkkyMHpRVDJ2UVctTEg2eFVvUU5iNlBsSVN3Vy1Ha1FTYzBFNFFPS2lEV2NLRU9lbkI3V1lMM1hha0lyUjBhWjJwb2kxNFgyV2djT19UR2VjYU9mWTlfajFZbkxvckJpRzJJWGxuWVk?oc=5",
+          "extra": {
+            "category": "国内",
+            "published": "2026-06-05T05:31:23Z",
+            "summary": "国际观察丨泽连斯基提议与普京面谈的考量与困境 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
+            "source_name": "新华网",
+            "translation": "International Observation: Zelenskyy's proposal for face-to-face talks with..."
+          }
+        },
+        {
+          "title": "中央财经大学马海涛校长暖心寄语高考学子",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSlBKT1dOUVZuUkNxa0NEU2ZMSk1TQjVCOW50bWo5ekQ0aGg0MVlxczNlOXg1QV9fbHJVYkhXa2J5TG1scGI4WVZraTNhQUJhZjhnQTU1VzlnbFd3Y0pXNWstT1NGMG53V2NicnFOVFBKZjhnaFFDRUFWVGwzMGhfRkRjNA?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-05T18:33:14Z",
+            "summary": "中央财经大学马海涛校长暖心寄语高考学子 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Central University of Finance and Economics President Ma Haitao sends warm..."
+          }
+        },
+        {
+          "title": "外交部介绍习近平总书记访问朝鲜有关安排",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40UjFCOUY0LUFMU0o1VWpFbHBFX24waXphM2FDSllVWHBFbW9aWThXR2tRUFdvVVRMSU5abEtjM2ZjeDZmNF9yUXA0dWlCLUVyNWc4SXE3cVEyYUQ3T1pvTTQ0T2JTTU1PRjZ5SXY2QlVLUkljRC1YeFVTaEoxck0?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-04T23:20:37Z",
+            "summary": "外交部介绍习近平总书记访问朝鲜有关安排 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Foreign Ministry introduces arrangements for General Secretary Xi Jinping's..."
+          }
+        },
+        {
+          "title": "美加墨世界杯国际转播中心采用中国显示设备",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92bDZOYXJ1Z3ZkcUljSFFrcVd4OXVYejEtS1U2cGZVcmJkcXdGZlU2cGwzUzVwUU9od3kzdUxBam9BbzhXX3dTdDctMV80Nnl6N0psbzVqM1pEejNpT3dxbnA3LUQ1RjF1eXhBTS1SNlFVcjVMMUdaVzlKWHFtdw?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-05T01:55:40Z",
+            "summary": "美加墨世界杯国际转播中心采用中国显示设备 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "US-Canada-Mexico World Cup international broadcast center uses Chinese..."
+          }
+        },
+        {
+          "title": "新华社消息丨习近平同老挝人革党中央总书记、国家主席通伦会谈",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeGdDR3BCSDMxVnR0RFY5SVgtekxETWxFTlZTN2gtc3NpdDlvUUZQa05jWXhleU5EU1RTaFMxYnlMUVg2TDVlR3l6NEJtdzZzWFBZNjJMQ2V4Qzg0VEk2SjBzX3phXzBPaGUyX0MwanBVOU5wY0ExX1NQUjJNbzN3VzAyclpsNl9ubC1EYnlrdnQwUGtl?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-05T01:21:18Z",
+            "summary": "新华社消息丨习近平同老挝人革党中央总书记、国家主席通伦会谈 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xinhua News: Xi Jinping holds talks with Thongloun Sisoulith, General..."
+          }
+        },
+        {
+          "title": "牢记初心使命 奋进复兴征程｜上海：“初心始发地”奋楫向未来",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85VGJSdmg3bFF0U2dCSmR1czhUUnpWdDFUTVdzVFREUHhpT3puS2RRcGpNc011Tm03dnJ3VXI0S0xYUUhBQmljS1BVT3BoMmU4ZHdnTHNzQWJTVzdqcXMwb1lNSkV0eFB0WFp2cnQzMVIzNEdaTEpNb29VbE1IUkU?oc=5",
+          "extra": {
+            "category": "财经",
+            "published": "2026-06-05T08:39:42Z",
+            "summary": "牢记初心使命 奋进复兴征程｜上海：“初心始发地”奋楫向未来 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Remember the original aspiration and mission, strive on the journey of..."
+          }
+        },
+        {
+          "title": "山东商河：产学研深度融合点燃产业发展新引擎",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUTHpXcjlmdjFhUlpSLU5MbmJlVjlGc3M0c2UyQ2FZN1pRbWkxT0VobkFHdzQ1Wko1UWg0a2dabk9wMWFTX3h6d3lTYjJOUlRBMDZjVjdCTWZnM0RiOWcwSE9zQ0JyYlJvamtvWHFnNmQ1MDlYV3pfN25SUlRuMWc?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-05T01:44:43Z",
+            "summary": "山东商河：产学研深度融合点燃产业发展新引擎 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Shanghe, Shandong: Deep integration of industry, academia, and research..."
+          }
+        },
+        {
+          "title": "强生医疗科技发布“房颤百问百答答案书”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12dERkTVlSNDNGSExfandEbC0wVXFEYS1DNkg4NXNsX0Z4M01IaW15THBmbzc3Y1U3SHVqelVVQkM3NmZFYkVLU2NfbkczdXd1Y2NadW9uczhPekVMWTRNMjRlWFJiQjRJekNNOVdWdzdfNm9Ka2FRcWF6NXF4M00?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-05T18:00:00Z",
+            "summary": "强生医疗科技发布“房颤百问百答答案书” 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Johnson & Johnson Medical Technologies releases \"Atrial Fibrillation Q&A..."
+          }
+        },
+        {
+          "title": "综述丨美股大跌 AI泡沫迎“梦醒时刻”？",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZ01mQkI3YWFZN29XOFdGaFhWVXp1VEk1Tkk2dUdhUktCMjBqcGlEMlJqaUhaMG1VMm5ldUJybXNCWFRlaE9hLVE0Y0RoTGFKczdBT19IaEs5Z0cwcktjcnB5VHVZSHN0Tk5EUWpjczJ6TTJBRk1zUlhsV2ptZw?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-05T19:40:52Z",
+            "summary": "综述丨美股大跌 AI泡沫迎“梦醒时刻”？ 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Overview: U.S. stocks plummet, AI bubble facing a \"wake-up call\"?"
+          }
+        },
+        {
+          "title": "中国以人为本的人工智能发展惠及海外",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ldDFnbjE2dGtzdFdBRzJaa1drVC1nM3l5ZTUwY29qVDJQT1FPOVVuUWltekVRZzVNMy0yd1UtaVA0SldPZDB2cWVaY0c1ZzBaeGFOeU1jVnFDUjNuU3Z4czRBQ0JfYndVV085T2h1YW1sNkVsU0NwNFZSakJfSVU?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-05T00:18:24Z",
+            "summary": "中国以人为本的人工智能发展惠及海外 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "China's people-centered AI development benefits overseas"
+          }
+        },
+        {
+          "title": "孝感方特6月17日正式开业",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeUZGVnZHOVV5ZmFxeDhsbFktaTRpeGhVSENnVWtsU1F5TDgzT3B2bFBMS1AxM0NwYkIwdG5PRXJ2dFkyQkxTdDdmY1lKZk4yZXltanYzc0hWNUw1Y0UzaXF5c3k4bEg3c1BRTjM4WG5HRGlyYld3UnhIRXFDdkZXclZHZTNFMURU?oc=5",
+          "extra": {
+            "category": "科技",
+            "published": "2026-06-04T23:44:35Z",
+            "summary": "孝感方特6月17日正式开业 新华网",
+            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
+            "source_name": "新华网",
+            "translation": "Xiaogan Fantawild officially opens on June 17"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-06T11:46:24+08:00",
       "source": "Xinhua News Agency RSS",
@@ -26264,272 +26530,6 @@
             "category": "科技",
             "published": "2026-05-17T00:33:50Z",
             "summary": "新华鲜报丨以爱助残，一日更每日 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-17T18:54:19+08:00",
-      "source": "Xinhua News Agency RSS",
-      "items": [
-        {
-          "title": "英国前卫生和社会福利大臣称将竞选工党党首",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qVlJYQU1hbDVYMW1xRk5aWVVUVEZ0NWR5QmtaTlBUeEZPYUN0clJqek9uU2M3a3duZkI0aWJ6LVItaEczbzg5a2plb3lpaGFZTEQtYUF5dkVOTkRvY1FFU1BWUVk4LWNjc3FVU0xNandOWVVpX2tteS05Wmwzb0U?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-16T09:43:02Z",
-            "summary": "英国前卫生和社会福利大臣称将竞选工党党首 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "山西左权县一公交车侧翻造成2人身亡",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwNWxtZ1ZBOHZneFhOOHcxS1lybzlBVlJhNFZxazFQVTZ6elVfZGVVOVlWbVhvTHNGRkVpb3NWZmpKZk1SRmY5bHNTQUlFZ2syYXA2eThQdHNKU3VWTXRZSmhjRjRaUW9scnd3dHJJOWo1X3ZQZk1jbw?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-16T03:15:34Z",
-            "summary": "山西左权县一公交车侧翻造成2人身亡 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "暴雨黄色预警：15省区市有大到暴雨 河南广东等部分地区有大暴雨",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEblYtTDNVT196YmxMNUxGMk5BVFNITVdUb2VKMXluaEZpTzVfVEVJUmo0TXFMc2x2cEFZbkVoeFhxeUM4STZEd00tZGp6cVBoTlpfcm9JTWlsdGpBdUI3c3YwOGpzY2owYmZZWmFaTzMtb1BVMlRNZg?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-16T03:41:33Z",
-            "summary": "暴雨黄色预警：15省区市有大到暴雨 河南广东等部分地区有大暴雨 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "泰国总理下令彻查火车与巴士相撞事故",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeXpReDlOMVJZUjBkQUg3TzZmVW9xaTVMVHpyY040cG5UMUNHT1BNMGVWbjdjOER3dUpfOUFvbzZGN0FHSkNsZFhqLUxLbHpoeHkwcy1STndwZmF5MWVkV29MVEdvRl8zb0diUjZZaHhZN0pjdXdoQ3FtdmhNWnM?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-16T08:13:15Z",
-            "summary": "泰国总理下令彻查火车与巴士相撞事故 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "湖北启动防汛四级应急响应",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ReHFwV1J0NVFZcHh2WEVXVkNNTmtkNVFfRmlXdUhSdW5fb3RPTUpmb2gxVjRPT0FZSkp6WGlDank0a0dyb2Y2cnhvV3pub09xMGFjc1ZDOEltMnpEWk5mc3NXNUplbHhON2FoTVpZSEdnQWMzbFAxRA?oc=5",
-          "extra": {
-            "category": "要闻",
-            "published": "2026-05-16T07:20:10Z",
-            "summary": "湖北启动防汛四级应急响应 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2013年油价首次下调_能源频道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TNTEtSmMzRGtXaTFudzFTMWdaOWJpbE8wVmN1WU8zOWtFbFZkaElndW54UnJ0anEtWjJZS3o0RnZQdVUtczJKT0pmR05DRE1mc0k5UmVlSkE?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-16T04:58:48Z",
-            "summary": "2013年油价首次下调_能源频道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "周末油价小幅上调 媒体称上次油价白降了",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qd0Fob3RGa1N2Tjh4cVVrUjJ1V1JOR2FqMWpPY1pkOXpEVjJXVGdtODlCSzgydGYtSXFhT2tPaWU3WTZPVUdjR0Z2V195UW13RkNKbDRqbUQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-16T03:44:54Z",
-            "summary": "周末油价小幅上调 媒体称上次油价白降了 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "新车专题_汽车频道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbk8xRjUxLVUyaEJIRENXYnJfdExjTTZRYU1seG16RkNOMFY0SVRRNnh3d2dwaUs2OXBSbE15aVhONlFHX2tMMFg5aEIwNWh5aUg5ekVSWUh0QQ?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-16T03:36:48Z",
-            "summary": "新车专题_汽车频道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "此次调价为新机制下成品油价格第3次下调",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MLUdsSlNuaUkxMFVSQ2ZRQjFlRnAxR0hVWWNZZFFNYVBRUk9hb1QzRk13VE1kSXZvZ04tdE5oYThyalYxbEV3UFp5dUhwZ3pia0tQOHBtNjZBQmY4QkE?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-16T07:20:37Z",
-            "summary": "此次调价为新机制下成品油价格第3次下调 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "国家电网社会责任报告发布的形式变迁",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGa2dJWG12Wm9td0JSM2NXVWdOc0t0V2FRRzhFWHdZbnJjYTUtcHltbC1Pb3NialFhU2NRZHk1Mm1Db2tXejZJYUZyRDJoREtHV2Y5WEEzdzd2OXc?oc=5",
-          "extra": {
-            "category": "国内",
-            "published": "2026-05-16T13:46:09Z",
-            "summary": "国家电网社会责任报告发布的形式变迁 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E5%9B%BD%E5%86%85+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "专家专栏_证券投资者保护_财经频道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuN1VtVWRxTEkzMmFkZGNWODd4YThuNWlnNlJadnlUZG9BTU1yU2VuMkk1d3NfUWx5WS1sT1pkSTlZOS1IcS1lMmNwMThtWi1EVEFPTUM4bUFaQkE0QVRQbmZR?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-16T17:18:50Z",
-            "summary": "专家专栏_证券投资者保护_财经频道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "职业打假拐点到了？",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVS01VM0JWaklPM09jeFFieU9OdEZPbUQ1VVVoQU02RGJBcUxMMmNSbURicTBJQ1pUQW9nSTcxTU5hcGd3RHF5MVpyakRBTkZTUVcxeDVLbnBZNlVjZjkwMHJB?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-16T08:20:08Z",
-            "summary": "职业打假拐点到了？ 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "肖钢接替郭树清出任证监会主席_金融频道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNEFzV1F1bkZLME80ck5penpWNTl4T0pPZ1ZVMmlEdW00TlU1T0J2Uy1PT0dicXBCUFhrTERHaHEzWlo4Zm40WVdBZVVCZWR2ZkdYcGQtU2FUcl9YVXZzWnZvQ1kydEd4VVE?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-16T10:28:18Z",
-            "summary": "肖钢接替郭树清出任证监会主席_金融频道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "去产能步入攻坚期：数量虽降 压力仍大",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Jck96Z2tUSDZ4WlJUeUFOd2Y5Wnh4alA0a2V1R0d4TDI2ZVNId0c5MTE5NmUtd3ZKWWkwdy1NMTB6Mi1TeTJ6WWYxdERiaUhMMVhiOWwxYVZDLWRjazdpZHF3?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-16T08:34:26Z",
-            "summary": "去产能步入攻坚期：数量虽降 压力仍大 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "聚焦十八届五中全会暨十三五规划_财经频道",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FRUtLeERwemNWRGpSamY2R3hHd3kydldBeWxTSlo1OFNiRUlOLVkzTnR2MHlOSVRvQ1R5MmNuNEFZOXh3UzNxOTFTUHJObFJfX3c?oc=5",
-          "extra": {
-            "category": "财经",
-            "published": "2026-05-16T07:32:37Z",
-            "summary": "聚焦十八届五中全会暨十三五规划_财经频道 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E8%B4%A2%E7%BB%8F+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "这些黑科技，让残障人士有了更多可能",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zY3Q2SVZuQnJaWmJ1cmNyeHZHN2VqOG9hNklmcFR4TFVBbGMzN2FFSXlsMkk3WFRtNDEwOFEzM2YxLTIzX3ItM2syWDI3NzNzNm53cjk0eHljd1pBZmhIT3Mxck80NmpjUWJSaDAzSzI2RnRVbzh3ekY5VVliZWc?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-16T04:11:07Z",
-            "summary": "这些黑科技，让残障人士有了更多可能 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2012年中国互联网大会议程表",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qRmNpNnI2RDJQNU1tanZCSmZvLTZTalJKQWFIWnl5ZlBCLUd3cldXRDBYMXJvUVhLWFBmNUNwdDRYSEZfMGhWcG5kaWlmM0FuOU1aazBnenpsa3Fw?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-16T16:15:28Z",
-            "summary": "2012年中国互联网大会议程表 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "当前位置： 首页 新华国际 >> 科技",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON1h6eTNLMDQtRUM1ZTREbzkyTmtSdkVZbnM0cGR0R2dkTmtHcDVvQkhiVHc4Wk5sbGpsVERBU1BneHU0dmRRV1FKT1BvNDBVSHc?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-16T17:16:20Z",
-            "summary": "当前位置： 首页 新华国际 >> 科技 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "二维码抢占移动互联网大会",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VEk4TlRRVWpLTGFET25Cak9KVVlBNHZFeF95WEJUeno5amtQbWVvdUVzbTdYMm1iRTI1ZXJXSXp1UnFRVnE5bXA0RHZKZE0tT2o3QlBXYlA?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-16T15:45:55Z",
-            "summary": "二维码抢占移动互联网大会 新华网",
-            "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
-            "source_name": "新华网",
-            "translation": ""
-          }
-        },
-        {
-          "title": "学习手记丨巩固壮大实体经济根基",
-          "value": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeVJSdm5UYUtCSXhmNjZJYlh4VzhoV2R4V1RUdkdQY0szZVZZN0ZXenhSRUhOSV9waEJCeWZ5dE5naE5pWUNpVXJrT281UTc5WjRfd1FReDBpdHMzTlZ0TEprVUlpLXZIbUYwNzg3ZDhJZlBUcndSYmJQdDhyYkVscE5RRDVaTVpRYmdKNk5tQmxZQzdp?oc=5",
-          "extra": {
-            "category": "科技",
-            "published": "2026-05-16T04:33:22Z",
-            "summary": "学习手记丨巩固壮大实体经济根基 新华网",
             "source_feed": "https://news.google.com/rss/search?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans&q=site%3Axinhuanet.com+%E7%A7%91%E6%8A%80+when%3A1d",
             "source_name": "新华网",
             "translation": ""

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T11:47:48+08:00",
+  "updated_at": "2026-06-06T15:00:29+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -2452,8 +2452,110 @@
     },
     "ai regulation": {
       "label": "AI regulation",
-      "count": 20,
+      "count": 30,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "PwC cuts partner payouts in China Evergrande fallout",
+          "english_title": "PwC cuts partner payouts in China amid Evergrande audit fallout",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm9maFpoOG1XNC1XbEI0UTQ5SmFaNnlTVlZJS2hzRVZXNGU3OHJLaUxnMm4tRDJ4OFhKYlBqRXpibWRRLThZUjIyemxLTkdhdmlhaXd3aEJ4MzBLX3FVdHgwZmRZbjNxbVgwVGFxS1B6NWdUbjFJajBYcXR0VHBSUmdDWkY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "B站宣布启动AI创造公开赛",
+          "english_title": "Bilibili launches AI creation open competition",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVjd4S1RDVndJM3ZvMTZ0WjdwdnRJUHViRFhra2VzSnNJZmxGQ19pR0MyYVRnakd1VnI2Mm9fV0kwaU9zUlozdzRIWk5wZk1pZU9RQlNHdEJHVnFjMEE?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
+          "english_title": "Great Wall chairman Wei Jianjun blasts 'minor repairs billed as major' in auto service",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaUY1U3JUZUVHcTRFNHl5MmFnUXFuLTVRY3hBNjFQVWR5aC11U1NuTHhFb09JV25oZnFoNElWMV96RFg1YjRrSnBJZEF4QQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "时隔24年，上海队夺得队史第二座CBA总冠军",
+          "english_title": "Shanghai Sharks win second CBA title after 24 years",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qUEg3TEI3NDhkUWNVSENjSkJ5eGRoUXhhN2pBY2ZwNE5FMzEtT2hiZkY5Qy01ZFlIa2JVWmFRSXJKZzkwUHU4RjA0aTllNW1QQTB4YndKejFILWJzVHc?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "财新周刊目录",
+          "english_title": "Table of Contents of Caixin Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MaTAycGlDMjVZcFFnVUZxbXJYT05kc1hXWk1fR2x6Q01HaVZ5UmdIRWFreDduN1hpaWkydG4wN0txaEtWQno1cTgwZzBZbjNLTHlyLVFXNS00Wmhjei1ZR3F4dzc?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "重庆理工一副校长遇刺身亡 凶手已被刑拘",
+          "english_title": "Vice president of Chongqing University of Technology killed in stabbing",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1NDFUM3U3S0dMZEhwNFRyMURjcGwwdDdadm9zN29oRHJjSURyQkJPZFhjV2ttSFAyZWkyanJZc2JfM2JkeHktQUVIbzJBa0FUVlM4OXBmaTFObGtYR0Zr?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC launches 2026 AI-powered cybersecurity testing initiative",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "责编：汪灵犀 柴逸扉 邮箱：gtbhwb@people.cn",
+          "english_title": "Editors: Wang Lingxi, Chai Yifei. Email: gtbhwb@people.cn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGR2RDlxaEpySExMTUZ3ZjNBbnh6MHZKaW10LW0zaGJSaDBIc1V2Z2d5eW5mYnhKMzVvTFc5VWRMX0VQTkh2eVVKOENLTDdMV09TMWhKQmFnWXMyZjNseHRZZUtrNGVPUVVpN19UNHE5WnFaejQ1ekc2UDdlcEg0MVozNA?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "医保个人账户可跨省给家人使用",
+          "english_title": "China allows cross-province sharing of medical insurance personal accounts",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%8F%AF%E8%B7%A8%E7%9C%81%E7%BB%99%E5%AE%B6%E4%BA%BA%E4%BD%BF%E7%94%A8",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "中方始终将老挝视作周边外交重要方向",
+          "english_title": "Xi Jinping holds talks with Lao president Tongloun",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-05",
           "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
@@ -4291,6 +4393,111 @@
           "title": "记者调查：智能眼镜成偷拍神器",
           "english_title": "Report finds smart glasses used for surreptitious photography, raising privacy concerns",
           "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%88%90%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "regulatory easing": {
+      "label": "regulatory easing",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
+          "english_title": "Great Wall chairman Wei Jianjun blasts 'minor repairs billed as major' in auto service",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaUY1U3JUZUVHcTRFNHl5MmFnUXFuLTVRY3hBNjFQVWR5aC11U1NuTHhFb09JV25oZnFoNElWMV96RFg1YjRrSnBJZEF4QQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "CAC launches 2026 AI-powered cybersecurity testing initiative",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "住房公积金迎全国性大动作",
+          "english_title": "China expands housing provident fund withdrawals to nine categories",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%BF%8E%E5%85%A8%E5%9B%BD%E6%80%A7%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "housing market": {
+      "label": "housing market",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "住房公积金迎全国性大动作",
+          "english_title": "China expands housing provident fund withdrawals to nine categories",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%BF%8E%E5%85%A8%E5%9B%BD%E6%80%A7%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "social welfare reform": {
+      "label": "social welfare reform",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "医保个人账户可跨省给家人使用",
+          "english_title": "China allows cross-province sharing of medical insurance personal accounts",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%8F%AF%E8%B7%A8%E7%9C%81%E7%BB%99%E5%AE%B6%E4%BA%BA%E4%BD%BF%E7%94%A8",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "consumption stimulus": {
+      "label": "consumption stimulus",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "住房公积金迎全国性大动作",
+          "english_title": "China expands housing provident fund withdrawals to nine categories",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%BF%8E%E5%85%A8%E5%9B%BD%E6%80%A7%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "neighborhood diplomacy": {
+      "label": "neighborhood diplomacy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "中方始终将老挝视作周边外交重要方向",
+          "english_title": "Xi Jinping holds talks with Lao president Tongloun",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91",
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot"

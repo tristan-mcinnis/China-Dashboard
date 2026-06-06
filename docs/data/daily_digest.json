@@ -1,60 +1,62 @@
 {
   "digest_type": "midday",
-  "as_of": "2026-06-06T11:47:48+08:00",
+  "as_of": "2026-06-06T15:00:29+08:00",
   "date": "2026-06-06",
   "time_label": "Midday Brief",
-  "beijing_time": "11:47",
+  "beijing_time": "14:59",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Beijing political advisor Wei Xiaodong investigated; ex-Chengdu mayor accused of policy criticism",
-  "headline_zh": "北京市政协主席魏小东被查；原成都市长王凤朝被指妄议大政方针",
-  "narrative": "The lead story is the dual anti-corruption signals from Beijing and Chengdu, indicating that the Party's discipline apparatus remains active at the provincial-ministerial level. The CAC's AI cybersecurity testing initiative signals a new front in tech regulation, while PwC's payout cuts remind foreign firms of the lingering Evergrande fallout. Wei Xiaodong's investigation, in particular, marks a rare high-profile case in the capital's political advisory body, potentially unsettling Beijing's local political landscape.",
-  "narrative_zh": "今日头条是来自北京和成都的双重反腐信号，表明党的纪律机构在省部级层面依然活跃。网信办的人工智能赋能网络安全应用测试公告，标志着科技监管的新战线；而普华永道削减合伙人薪酬则提醒外资企业恒大事件的余波未了。魏小东被查尤其罕见，涉及首都政协高层，可能动摇北京地方政治格局。",
+  "headline": "Housing provident fund reform aims to unlock household spending",
+  "headline_zh": "公积金改革扩容，医保跨省共济",
+  "narrative": "Beijing's latest tweaks to the housing provident fund and medical insurance system are calibrated to address two structural drags on consumption: idle household savings and labor mobility frictions. The provident fund expansion, in particular, could unlock up to 1.5 trillion yuan in pent-up spending on rent and home improvements, a targeted stimulus that avoids broad-based monetary easing. Yet the SSE Composite's 1.38% slip suggests markets are pricing in limited near-term impact, likely because the measures stop short of addressing the root causes of property market weakness. Meanwhile, the CAC's AI security testing initiative underscores the regime's dual imperative: promoting AI innovation while tightening cybersecurity oversight. Diplomatically, Xi Jinping's meeting with the Lao president reaffirms China's strategic embrace of Southeast Asia with Laos set to chair ASEAN next year.",
+  "narrative_zh": "北京对住房公积金和医保的最新调整，旨在疏通消费堵点：公积金提取扩容有望释放1.5万亿元住房相关消费，而医保个人账户跨省共济则提升劳动力流动性。市场反应平淡，上证指数收跌1.38%，显示投资者认为这些措施不足以逆转地产下行趋势。网信办启动AI网络安全测试，体现发展与监管并重。外交方面，习近平会见老挝主席，巩固周边关系。",
   "market_snapshot": "SSE Composite 4027.736 ▼1.38% · Shenzhen Component 15314.7 ▼2.48% · ChiNext 3957.935 ▼3.20% · USD/CNY 6.766 ▼0.10% · USD/CNH 6.7888 ▲0.23%",
   "themes": [
-    "anti-corruption",
-    "municipal politics",
-    "tech regulation",
-    "AI cybersecurity",
-    "accounting crackdown",
-    "smart glasses privacy"
+    "regulatory easing",
+    "housing market",
+    "social welfare reform",
+    "AI regulation",
+    "consumption stimulus",
+    "neighborhood diplomacy"
   ],
   "theme_trends": {
-    "anti-corruption": {
+    "regulatory easing": {
       "status": "recurring",
       "days_seen": 4
     },
-    "municipal politics": {
-      "status": "recurring",
-      "days_seen": 3
-    },
-    "tech regulation": {
+    "housing market": {
       "status": "recurring",
       "days_seen": 5
     },
-    "AI cybersecurity": {
+    "social welfare reform": {
+      "status": "recurring",
+      "days_seen": 4
+    },
+    "AI regulation": {
       "status": "recurring",
       "days_seen": 5
     },
-    "accounting crackdown": {
+    "consumption stimulus": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "neighborhood diplomacy": {
       "status": "rising",
-      "days_seen": 2
-    },
-    "smart glasses privacy": {
-      "status": "recurring",
-      "days_seen": 3
+      "days_seen": 1
     }
   },
   "entities": [
-    "Wei Xiaodong",
-    "Wang Fengchao",
     "Xi Jinping",
-    "PwC",
-    "CAC",
+    "Tongloun Sisoulith",
+    "Laos",
+    "Ministry of Housing and Urban-Rural Development",
+    "National Healthcare Security Administration",
+    "Cyberspace Administration of China",
     "Chongqing University of Technology",
-    "Great Wall Motors",
-    "Tang Wenbin",
-    "Zhipu",
-    "SenseTime"
+    "Shanghai Sharks",
+    "Wei Jianjun",
+    "Bilibili",
+    "PwC",
+    "Evergrande"
   ],
   "pillars": [
     {
@@ -98,11 +100,11 @@
       ],
       "platform_count": 2,
       "primary_title": "中方始终将老挝视作周边外交重要方向",
-      "english_title": "Xi Jinping meets Lao leaders, stresses Laos as priority in neighborhood diplomacy",
-      "why_it_matters": "Reinforces China's strategic ties with Laos, a key Belt and Road partner, amid regional competition.",
-      "why_it_matters_zh": "强化中国与老挝的战略关系，老挝是'一带一路'关键伙伴，此举有区域竞争背景。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Xi Jinping holds talks with Lao president Tongloun",
+      "why_it_matters": "Signals continuity in China's neighborhood diplomacy as Laos prepares to chair ASEAN; reaffirms BRI commitments and 'community with shared future' narrative.",
+      "why_it_matters_zh": "表明中国周边外交的连续性，老挝即将担任东盟轮值主席国；重申一带一路承诺和命运共同体叙事。",
+      "pull_quote": "China always regards Laos as an important direction in its neighborhood diplomacy",
+      "pull_quote_zh": "中方始终将老挝视作周边外交重要方向",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
@@ -128,18 +130,18 @@
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "北京市政协主席魏小东被查",
-      "english_title": "Beijing top political advisor Wei Xiaodong placed under investigation for discipline violations",
-      "why_it_matters": "A rare high-profile anti-corruption case targeting a municipal-level party and government leader in the capital.",
-      "why_it_matters_zh": "罕见的高层反腐案，直接针对首都的市级党政领导人。",
-      "pull_quote": "北京市政协党组书记、主席魏小东涉嫌严重违纪违法",
-      "pull_quote_zh": "北京市政协党组书记、主席魏小东涉嫌严重违纪违法",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
+      "primary_title": "住房公积金迎全国性大动作",
+      "english_title": "China expands housing provident fund withdrawals to nine categories",
+      "why_it_matters": "Unlocks over 10 trillion yuan in accumulated funds to boost consumption; targeted stimulus without broad easing, but falls short of addressing property market structural issues.",
+      "why_it_matters_zh": "释放逾10万亿元沉淀资金促进消费；定向刺激而非全面宽松，但未触及楼市结构性难题。",
+      "pull_quote": "Withdrawals expanded to 9 categories including rent, decoration, property fees",
+      "pull_quote_zh": "提取情形扩容至支付房租、装修、物业费等9项",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "pillar_label_zh": "监管动态",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%94%BF%E5%8D%8F%E4%B8%BB%E5%B8%AD%E9%AD%8F%E5%B0%8F%E4%B8%9C%E8%A2%AB%E6%9F%A5",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%BF%8E%E5%85%A8%E5%9B%BD%E6%80%A7%E5%A4%A7%E5%8A%A8%E4%BD%9C",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -153,47 +155,16 @@
     },
     {
       "rank": 3,
-      "weight": 27.2,
-      "platforms": [
-        "thepaper_news",
-        "xinhua_news"
-      ],
-      "platform_count": 2,
-      "primary_title": "国际空间站俄舱段“星辰”号服务舱内发现漏气点",
-      "english_title": "Air leak found in Russian module 'Zvezda' of International Space Station",
-      "why_it_matters": "",
-      "why_it_matters_zh": "",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
-      "source": "",
-      "category": "news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbFY2ZnRHUEtVQjU2X3JOSW1qV3FTZ0o5XzBKQUczQXUydHRUdFBwZENNUmNyV2dkSENCVXJOcXJPaEhkUlVFNV9RT21yQW0ydUxON0x1ZzV2dHJmVHhpQTdQelczX0diS01zMTkxaHRHakRXVEtZdmtKWU9OWEE?oc=5",
-      "appearances": [
-        {
-          "platform": "xinhua_news",
-          "rank": 2
-        },
-        {
-          "platform": "thepaper_news",
-          "rank": 3
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "weight": 25.6,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "记者调查：智能眼镜成偷拍神器",
-      "english_title": "Report finds smart glasses used for surreptitious photography, raising privacy concerns",
-      "why_it_matters": "Highlights regulatory gaps in new tech; may prompt stricter rules on wearable cameras and data privacy.",
-      "why_it_matters_zh": "凸显新技术监管漏洞，可能促使对可穿戴摄像头和数据隐私的更严格规定。",
+      "primary_title": "第一批弄丢身份证的考生出现了",
+      "english_title": "",
+      "why_it_matters": "",
+      "why_it_matters_zh": "",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "society",
@@ -201,7 +172,7 @@
       "pillar_label_zh": "热点风向",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%88%90%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8",
+      "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BC%84%E4%B8%A2%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -214,7 +185,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "weight": 22.4,
       "platforms": [
         "baidu_top",
@@ -222,14 +193,14 @@
       ],
       "platform_count": 2,
       "primary_title": "医保个人账户可跨省给家人使用",
-      "english_title": "China expands cross-provincial sharing of medical insurance personal accounts to include family members",
-      "why_it_matters": "Step towards national pooling of healthcare funds, improving portability for migrant workers and families.",
-      "why_it_matters_zh": "向全国医保统筹迈进一步，改善流动人口及其家庭医保的便携性。",
-      "pull_quote": "医保个人账户里'没有用完的钱'，可以跨省给家人用",
-      "pull_quote_zh": "医保个人账户里'没有用完的钱'，可以跨省给家人用",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
+      "english_title": "China allows cross-province sharing of medical insurance personal accounts",
+      "why_it_matters": "Enhances social security portability for migrant workers, a long-standing pain point; supports labor mobility and intra-family redistribution of healthcare funds.",
+      "why_it_matters_zh": "提升流动人口社保便携性，解决长期痛点；支持劳动力流动和家庭内部医保资金再分配。",
+      "pull_quote": "Unused money in medical insurance personal accounts can now be used by family members across provinces",
+      "pull_quote_zh": "医保个人账户里‘没有用完的钱’，可以跨省给家人用",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "pillar_label_zh": "监管动态",
       "source": "",
       "category": "social",
       "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%8F%AF%E8%B7%A8%E7%9C%81%E7%BB%99%E5%AE%B6%E4%BA%BA%E4%BD%BF%E7%94%A8",
@@ -245,24 +216,55 @@
       ]
     },
     {
+      "rank": 5,
+      "weight": 22.4,
+      "platforms": [
+        "thepaper_news",
+        "xinhua_news"
+      ],
+      "platform_count": 2,
+      "primary_title": "国际空间站俄舱段“星辰”号服务舱内发现漏气点",
+      "english_title": "Leak found in Russian module \"Zvezda\" service compartment on International...",
+      "why_it_matters": "",
+      "why_it_matters_zh": "",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "politics",
+      "pillar_label": "High Politics & Ideology",
+      "pillar_label_zh": "高层政治与意识形态",
+      "source": "",
+      "category": "news",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbFY2ZnRHUEtVQjU2X3JOSW1qV3FTZ0o5XzBKQUczQXUydHRUdFBwZENNUmNyV2dkSENCVXJOcXJPaEhkUlVFNV9RT21yQW0ydUxON0x1ZzV2dHJmVHhpQTdQelczX0diS01zMTkxaHRHakRXVEtZdmtKWU9OWEE?oc=5",
+      "appearances": [
+        {
+          "platform": "xinhua_news",
+          "rank": 3
+        },
+        {
+          "platform": "thepaper_news",
+          "rank": 5
+        }
+      ]
+    },
+    {
       "rank": 6,
       "weight": 10.0,
       "platforms": [
         "xinhua_news"
       ],
       "platform_count": 1,
-      "primary_title": "CBA总决赛第五场：上海击败广厦 总比分4:1夺冠",
-      "english_title": "Shanghai Sharks defeat Guangsha Lions 4-1 to win CBA championship",
-      "why_it_matters": "Purely a sports event; no major policy signal, but reflects public entertainment landscape.",
-      "why_it_matters_zh": "纯体育事件，无重大政策信号，但反映公众娱乐生态。",
+      "primary_title": "俄方排雷人员遇袭受伤 IAEA呼吁遵守局部停火",
+      "english_title": "Russian deminers attacked and injured; IAEA calls for compliance with...",
+      "why_it_matters": "",
+      "why_it_matters_zh": "",
       "pull_quote": "",
       "pull_quote_zh": "",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
+      "pillar": "politics",
+      "pillar_label": "High Politics & Ideology",
+      "pillar_label_zh": "高层政治与意识形态",
       "source": "",
       "category": "news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNzZXYjVMQTFuRU9YTkI2QmJESTRMM3RnSVlYLXF4emRDakdibTJkd0c1RjZCcW1pQnVjcHNwdHlRN2d6Z2FYUTdDV0ozZTFYTjVzMGFqQVUwa3p1MjBVTVRrbDhMQlJwakZKMjA4Z192eHI5akk1RGdHclRyQjg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tT0p6aVZDTHdJWTdiMXhiOXVtTUdIdkpXRzNVcF80RnhnQ3dDRWlJeGFWTkZnSEtkSUtoVG5lSmNjVk5wNmE5OE1Ibl9MM1ZTaFM0SXA0NlNCUDZvQXl6ZmdMN2pVOU5lY2U5ZUgxRlhYR0xfODRhVUZmMmJIQQ?oc=5",
       "appearances": [
         {
           "platform": "xinhua_news",
@@ -278,7 +280,7 @@
       ],
       "platform_count": 1,
       "primary_title": "责编：汪灵犀 柴逸扉 邮箱：gtbhwb@people.cn",
-      "english_title": "Editor: Wang Lingxi, Chai Yifei, Email: gtbhwb@people.cn",
+      "english_title": "Editors: Wang Lingxi, Chai Yifei. Email: gtbhwb@people.cn",
       "why_it_matters": "",
       "why_it_matters_zh": "",
       "pull_quote": "",
@@ -304,9 +306,9 @@
       ],
       "platform_count": 1,
       "primary_title": "2026年人工智能技术赋能网络安全应用测试公告",
-      "english_title": "Cyberspace Administration announces 2026 AI-powered cybersecurity testing initiative",
-      "why_it_matters": "Signals push to integrate AI into national security infrastructure and set standards for AI in cybersecurity.",
-      "why_it_matters_zh": "表明推动AI融入国家安全基础设施，并为AI在网络安全中的应用设定标准。",
+      "english_title": "CAC launches 2026 AI-powered cybersecurity testing initiative",
+      "why_it_matters": "Reflects Beijing's dual track of fostering AI growth while tightening security compliance; may create new regulatory burdens for AI firms.",
+      "why_it_matters_zh": "体现北京对AI发展与安全合规并重的思路；可能为AI企业带来新的合规成本。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "regulatory",
@@ -355,6 +357,32 @@
         "elite_press"
       ],
       "platform_count": 1,
+      "primary_title": "重庆理工一副校长遇刺身亡 凶手已被刑拘",
+      "english_title": "Vice president of Chongqing University of Technology killed in stabbing",
+      "why_it_matters": "Rare violent attack on a university official; raises campus security concerns but state media coverage is muted, suggesting efforts to contain fallout.",
+      "why_it_matters_zh": "罕见的大学官员遇刺事件；引发校园安全担忧，但官媒报道低调，显示努力控制影响。",
+      "pull_quote": "Suspect has been detained",
+      "pull_quote_zh": "凶手已被刑拘",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "Caixin",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1NDFUM3U3S0dMZEhwNFRyMURjcGwwdDdadm9zN29oRHJjSURyQkJPZFhjV2ttSFAyZWkyanJZc2JfM2JkeHktQUVIbzJBa0FUVlM4OXBmaTFObGtYR0Zr?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
       "primary_title": "财新周刊目录",
       "english_title": "Table of Contents of Caixin Weekly",
       "why_it_matters": "",
@@ -370,32 +398,6 @@
       "appearances": [
         {
           "platform": "elite_press",
-          "rank": 9
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "weight": 1.0,
-      "platforms": [
-        "elite_press"
-      ],
-      "platform_count": 1,
-      "primary_title": "重庆理工一副校长遇刺身亡 凶手已被刑拘",
-      "english_title": "Vice president of Chongqing University of Technology stabbed to death, suspect detained",
-      "why_it_matters": "Raises concerns about campus security and potential motives behind a high-profile violent crime in academia.",
-      "why_it_matters_zh": "引发对校园安全的担忧，以及学术圈高调暴力犯罪背后的潜在动机。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
-      "source": "Caixin",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1NDFUM3U3S0dMZEhwNFRyMURjcGwwdDdadm9zN29oRHJjSURyQkJPZFhjV2ttSFAyZWkyanJZc2JfM2JkeHktQUVIbzJBa0FUVlM4OXBmaTFObGtYR0Zr?oc=5",
-      "appearances": [
-        {
-          "platform": "elite_press",
           "rank": 10
         }
       ]
@@ -407,18 +409,18 @@
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "从“长虹元老”到成都市长 王凤朝被指“妄议大政方针”",
-      "english_title": "Former Chengdu mayor Wang Fengchao accused of making improper comments on state policies",
-      "why_it_matters": "Indicates discipline crackdown on senior local officials and possible factional signal within the Party.",
-      "why_it_matters_zh": "表明对高级地方官员的纪律打击，以及党内可能存在的派系信号。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
+      "primary_title": "时隔24年，上海队夺得队史第二座CBA总冠军",
+      "english_title": "Shanghai Sharks win second CBA title after 24 years",
+      "why_it_matters": "Major sports achievement boosting city branding; reflects growing investment in basketball but limited policy signal.",
+      "why_it_matters_zh": "重大体育成就提升城市品牌；反映篮球投资增长，但政策信号有限。",
+      "pull_quote": "After 24 years, Shanghai team wins its second CBA championship",
+      "pull_quote_zh": "时隔24年，上海队夺得队史第二座CBA总冠军",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
       "source": "Caixin",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dGlZT1B3QmE0Z0d3TU9DNVpLZUxoWUR2LTZIbnJHTmZfRk9EWHh5Sk04NTZoRUx0WXVfQk1pTE9UM0dRU1czWFc1dTJWQURhWEMzZ29ja05NTHhmRzNF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qUEg3TEI3NDhkUWNVSENjSkJ5eGRoUXhhN2pBY2ZwNE5FMzEtT2hiZkY5Qy01ZFlIa2JVWmFRSXJKZzkwUHU4RjA0aTllNW1QQTB4YndKejFILWJzVHc?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
@@ -434,11 +436,11 @@
       ],
       "platform_count": 1,
       "primary_title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
-      "english_title": "Great Wall's Wei Jianjun publicly criticizes auto repair industry for exploitative practices",
-      "why_it_matters": "Reflects tensions between automakers and service sector; may push for regulatory changes in auto aftermarket.",
-      "why_it_matters_zh": "反映车企与服务业之间的紧张关系，可能推动汽车后市场监管改革。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Great Wall chairman Wei Jianjun blasts 'minor repairs billed as major' in auto service",
+      "why_it_matters": "Rare public criticism by leading automaker highlights systemic consumer rights issues in after-sales service; could trigger regulatory scrutiny.",
+      "why_it_matters_zh": "龙头车企少见的公开批评，凸显售后服务领域系统性消费者权益问题；可能引发监管关注。",
+      "pull_quote": "How harmful is the gray chain of minor repairs billed as major issues?",
+      "pull_quote_zh": "小病大修的灰色链条有多坑人？",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
@@ -459,10 +461,10 @@
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
-      "english_title": "Tang Wenbin's robot startup acquires logistics robot firm, backed by AI heavyweights",
-      "why_it_matters": "Consolidation in robotics sector indicates growing investor interest in embodied AI and automation.",
-      "why_it_matters_zh": "机器人领域的整合表明投资者对具身AI和自动化的兴趣日益浓厚。",
+      "primary_title": "B站宣布启动AI创造公开赛",
+      "english_title": "Bilibili launches AI creation open competition",
+      "why_it_matters": "Signals platform's push to leverage user-generated AI content and attract creators; part of broader trend of tech firms democratizing AI tools.",
+      "why_it_matters_zh": "显示平台利用AI用户生成内容吸引创作者的意图；属于科技公司AI工具民主化趋势的一部分。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "tech",
@@ -470,7 +472,7 @@
       "pillar_label_zh": "产业、科技与工业政策",
       "source": "36Kr",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96Q25Zc3R6UTNaU2hQUXlWVW9HSVhZaExRcktpSE5sQWFVODVwU0JaVENmWlFCbE5EZ3E4QVI1WHlsWTh4RzJWT2F4NzY3QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVjd4S1RDVndJM3ZvMTZ0WjdwdnRJUHViRFhra2VzSnNJZmxGQ19pR0MyYVRnakd1VnI2Mm9fV0kwaU9zUlozdzRIWk5wZk1pZU9RQlNHdEJHVnFjMEE?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
@@ -485,10 +487,10 @@
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "PwC cuts partner payouts in China Evergrande fallout",
-      "english_title": "PwC cuts partner payouts in wake of China Evergrande crisis",
-      "why_it_matters": "Highlights ongoing financial repercussions for foreign auditors in China and regulatory risk for international firms.",
-      "why_it_matters_zh": "突出显示外国审计师在中国面临的持续财务影响以及国际公司的监管风险。",
+      "primary_title": "Wasting China’s solar panel surplus is madness",
+      "english_title": "Wasting China's solar panel surplus is madness",
+      "why_it_matters": "Argues China's overcapacity could accelerate global green transition if trade barriers are lowered; highlights tensions in green technology trade.",
+      "why_it_matters_zh": "认为若降低贸易壁垒，中国产能过剩可加速全球绿色转型；凸显绿色技术贸易紧张局势。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -496,7 +498,7 @@
       "pillar_label_zh": "中美关系与地缘政治",
       "source": "Financial Times",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm9maFpoOG1XNC1XbEI0UTQ5SmFaNnlTVlZJS2hzRVZXNGU3OHJLaUxnMm4tRDJ4OFhKYlBqRXpibWRRLThZUjIyemxLTkdhdmlhaXd3aEJ4MzBLX3FVdHgwZmRZbjNxbVgwVGFxS1B6NWdUbjFJajBYcXR0VHBSUmdDWkY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZR01DNFdFLVdRcmo5eGh5d01ja2xIaC0zUVd1NUgyUENfcHFHaE5rM3F0R1BXVTZ5SlFOdkdCSGY3bGlDVTQ3WnlVS0twTlUxRkdiOF9ZU0ZrUVdZNWhNdXNkVHo2eFh0a2NXemFITGk?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
@@ -511,18 +513,18 @@
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "The US-China decoupling fantasy, with Jessica Chen Weiss",
-      "english_title": "FT explores 'US-China decoupling fantasy' with Jessica Chen Weiss",
-      "why_it_matters": "Reflects Western debate on the feasibility of decoupling; relevant for investors assessing geopolitical risk.",
-      "why_it_matters_zh": "反映西方关于脱钩可行性的辩论，对评估地缘政治风险的投资者具有参考价值。",
+      "primary_title": "PwC cuts partner payouts in China Evergrande fallout",
+      "english_title": "PwC cuts partner payouts in China amid Evergrande audit fallout",
+      "why_it_matters": "Cascading consequences of Evergrande collapse hit professional services; may lead to tighter regulation of auditors and increased liability risks.",
+      "why_it_matters_zh": "恒大崩盘的连锁反应冲击专业服务行业；可能导致审计监管收紧和更大责任风险。",
       "pull_quote": "",
       "pull_quote_zh": "",
-      "pillar": "geopolitics",
-      "pillar_label": "U.S.–China & Geopolitics",
-      "pillar_label_zh": "中美关系与地缘政治",
+      "pillar": "economy",
+      "pillar_label": "Economy & Markets",
+      "pillar_label_zh": "经济与市场",
       "source": "Financial Times",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONW10QjRKaE9SOFc2R3l6SUxXMkN5WFF0dXZNNEtiMXhaWEZtUFFCODJhMzRUcFV5NlJ5MmVJWVRlZnRaVUNuWkdOMEFRbENUQTNQT1VVNHZnQmxranBXVG5rNzVWYUl3ZGpNVUpHTEdNSDVtVVBWU2w4Sy1TbW9iMlQyRmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm9maFpoOG1XNC1XbEI0UTQ5SmFaNnlTVlZJS2hzRVZXNGU3OHJLaUxnMm4tRDJ4OFhKYlBqRXpibWRRLThZUjIyemxLTkdhdmlhaXd3aEJ4MzBLX3FVdHgwZmRZbjNxbVgwVGFxS1B6NWdUbjFJajBYcXR0VHBSUmdDWkY?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
