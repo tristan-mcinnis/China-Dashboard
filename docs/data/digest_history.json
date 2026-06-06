@@ -1,47 +1,47 @@
 {
-  "as_of": "2026-06-06T18:23:30+08:00",
+  "as_of": "2026-06-06T19:05:15+08:00",
   "source": "daily_digest archive",
   "count": 24,
   "entries": [
     {
-      "as_of": "2026-06-06T18:23:30+08:00",
+      "as_of": "2026-06-06T19:05:15+08:00",
       "date": "2026-06-06",
       "time_label": "Evening Brief",
-      "beijing_time": "18:22",
+      "beijing_time": "19:04",
       "digest_type": "evening",
       "generated_by": "deepseek-v4-flash",
-      "headline": "Xi meets Lao counterpart, signals peripheral diplomacy pivot as economy faces headwinds",
-      "headline_zh": "习近平会见老挝领导人，周边外交加码经济承压",
-      "narrative": "Today's top story is Xi Jinping's high-profile meeting with Lao leader Thongloun Sisoulith, underscoring the centrality of peripheral diplomacy in China's foreign policy. The event, covered by both state media and social platforms, comes amid a broader push to consolidate influence in Southeast Asia. Simultaneously, the Ministry of Commerce rolled out multiple measures, anti-dumping duties on copolymer resins from Korea/Thailand/Malaysia, tighter export controls on precursor chemicals, and expanded tax-refund schemes for inbound tourists, revealing a dual strategy: protecting domestic industries while boosting consumption. The market reacted negatively, with the ChiNext falling over 3%, suggesting investor concerns remain high despite policy efforts.",
-      "narrative_zh": "今日头条是习近平与老挝领导人通伦的高调会晤，凸显周边外交在中国对外政策中的核心地位。这一事件得到官方媒体和社交平台的广泛报道，恰逢中国巩固东南亚影响力的关键时期。与此同时，商务部密集出台多项措施，对韩、泰、马进口共聚聚甲醛征收反倾销税，收紧易制毒化学品出口管制，扩大离境退税刺激入境消费，显示出保护国内产业与促进消费并行的双重策略。市场反应负面，创业板跌幅逾3%，表明尽管政策频出，投资者担忧未消。",
+      "headline": "Xi-Lao talks dominate; safety inspection exposes systemic neglect; markets slide",
+      "headline_zh": "习老会谈主导；安全巡查暴露系统性失职；市场下跌",
+      "narrative": "President Xi Jinping held talks with Lao leader Thongloun Sisoulith in Beijing, reaffirming the 'unbreakable' bilateral friendship. The meeting, heavily promoted on social media, underscores China's focus on consolidating ties with its Southeast Asian neighbors amid great-power competition. Meanwhile, a central government safety inspection in Xinjiang revealed serious negligence at construction sites, with inspectors accusing managers of 'going through the motions,' pointing to deep-seated compliance failures. The market saw broad declines, with the ChiNext index falling over 3%, suggesting risk aversion.",
+      "narrative_zh": "习近平主席在北京同老挝领导人通伦会谈，重申两国‘牢不可破’的友谊。此次会谈在社交媒体上高调宣传，凸显中国在大国竞争背景下巩固与东南亚邻国关系的重点。与此同时，中央安全巡查在新疆发现问题严重，巡查组指责管理人员‘做样子’，暴露出深层次的合规失职。市场普遍下跌，创业板指跌幅超3%，显示避险情绪。",
       "market_snapshot": "SSE Composite 4027.736 ▼1.38% · Shenzhen Component 15314.7 ▼2.48% · ChiNext 3957.935 ▼3.20% · USD/CNY 6.766 ▼0.10% · USD/CNH 6.7888 ▲0.23%",
       "themes": [
-        "peripheral diplomacy",
-        "economic stimulus",
-        "market volatility",
-        "social welfare expansion",
-        "regulatory tightening"
+        "Xi diplomacy",
+        "domestic safety governance",
+        "market downturn",
+        "Taiwan cross-strait",
+        "tech regulation"
       ],
       "theme_trends": {
-        "peripheral diplomacy": {
-          "status": "rising",
-          "days_seen": 1
-        },
-        "economic stimulus": {
-          "status": "recurring",
-          "days_seen": 3
-        },
-        "market volatility": {
+        "Xi diplomacy": {
           "status": "recurring",
           "days_seen": 5
         },
-        "social welfare expansion": {
+        "domestic safety governance": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "market downturn": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "Taiwan cross-strait": {
           "status": "recurring",
           "days_seen": 4
         },
-        "regulatory tightening": {
+        "tech regulation": {
           "status": "recurring",
-          "days_seen": 4
+          "days_seen": 5
         }
       },
       "pillars": [
@@ -54,6 +54,11 @@
           "key": "economy",
           "label": "Economy & Markets",
           "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
         },
         {
           "key": "geopolitics",
@@ -73,12 +78,12 @@
       ],
       "top_stories": [
         {
-          "primary_title": "中方始终将老挝视作周边外交重要方向",
-          "english_title": "Xi holds talks with Lao leader, pledges continued support",
-          "why_it_matters": "Signals China's strategic focus on Southeast Asia as a buffer against US influence, with Laos a key pivot in the Belt and Road.",
-          "why_it_matters_zh": "表明中国将东南亚作为抵御美国影响的战略缓冲，老挝是‘一带一路’关键支点。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
+          "primary_title": "中老友谊历久弥坚启新程",
+          "english_title": "Xi Jinping holds talks with Lao leader Thongloun",
+          "why_it_matters": "Social media saturation signals the Party's intent to project strong ties with Laos as a counterweight to US influence in Southeast Asia.",
+          "why_it_matters_zh": "社交媒体上的密集宣传表明，党有意展示中老关系的牢固，以平衡美国在东南亚的影响力。",
+          "pull_quote": "Xi said China always regards Laos as a 'good neighbor, good friend, good comrade, and good partner'.",
+          "pull_quote_zh": "习近平表示，中国始终将老挝视为‘好邻居、好朋友、好同志、好伙伴’。",
           "pillar": "politics",
           "platforms": [
             "baidu_top",
@@ -86,15 +91,15 @@
           ],
           "platform_count": 2,
           "source": "",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91"
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E8%B0%8A%E5%8E%86%E4%B9%85%E5%BC%A5%E5%9D%9A%E5%90%AF%E6%96%B0%E7%A8%8B"
         },
         {
-          "primary_title": "住房公积金迎全国性大动作",
-          "english_title": "Housing provident fund reforms proposed, expanding withdrawal uses",
-          "why_it_matters": "A bid to boost housing consumption and ease financial pressure on young renters and homeowners, but may strain fund sustainability.",
-          "why_it_matters_zh": "意在提振住房消费、缓解年轻租房者和房主财务压力，但可能影响基金可持续性。",
-          "pull_quote": "提取情形扩容至支付房租、装修、物业费等9项",
-          "pull_quote_zh": "提取情形扩容至支付房租、装修、物业费等9项",
+          "primary_title": "北大女孩时隔八年再谈感谢贫穷",
+          "english_title": "Peking University graduate revisits 'Thanks to Poverty' after eight years",
+          "why_it_matters": "Wang Xinyi's response reflects enduring class tensions in China's educational mobility narrative, a perennial trigger for debate.",
+          "why_it_matters_zh": "王心仪的回应反映了中国教育流动性叙事中持久的阶层张力，这是一个长期引发争议的话题。",
+          "pull_quote": "Wang said people should not overinterpret her essay's wording; what matters is an optimistic attitude.",
+          "pull_quote_zh": "王心仪表示，不必过度解读文章字眼，重要的是乐观积极的心态。",
           "pillar": "society",
           "platforms": [
             "baidu_top",
@@ -102,15 +107,31 @@
           ],
           "platform_count": 2,
           "source": "",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%BF%8E%E5%85%A8%E5%9B%BD%E6%80%A7%E5%A4%A7%E5%8A%A8%E4%BD%9C"
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%A5%B3%E5%AD%A9%E6%97%B6%E9%9A%94%E5%85%AB%E5%B9%B4%E5%86%8D%E8%B0%88%E6%84%9F%E8%B0%A2%E8%B4%AB%E7%A9%B7"
         },
         {
-          "primary_title": "第一批弄丢身份证的考生出现了",
-          "english_title": "Lost ID cards for Gaokao become annual headache for authorities",
-          "why_it_matters": "Reflects lingering administrative inefficiencies despite high-stakes exam, though emergency hotlines show responsiveness.",
-          "why_it_matters_zh": "虽设有应急热线，但高考期间身份证遗失频发反映行政效率仍有待提升。",
-          "pull_quote": "安徽阜阳三名高考考生因身份证遗失先后赶到户政大厅求助",
-          "pull_quote_zh": "安徽阜阳三名高考考生因身份证遗失先后赶到户政大厅求助",
+          "primary_title": "中央考核巡查组：管理人员都在做样子",
+          "english_title": "Central safety inspection finds serious hazards, accuses managers of 'going through the motions'",
+          "why_it_matters": "The blunt language suggests top-level frustration with local implementation of safety regulations, a perennial governance challenge.",
+          "why_it_matters_zh": "严厉措辞显示高层对地方安全监管落实不力感到不满，这是治理中的长期挑战。",
+          "pull_quote": "At a construction site in Xinjiang, the inspection team found scaffolding foundations hollow, posing major risks.",
+          "pull_quote_zh": "在新疆一工地，巡查组发现脚手架基础多处悬空，存在重大隐患。",
+          "pillar": "regulatory",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E7%BB%84%EF%BC%9A%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E9%83%BD%E5%9C%A8%E5%81%9A%E6%A0%B7%E5%AD%90"
+        },
+        {
+          "primary_title": "各地出招筑牢高考公平防线",
+          "english_title": "Tech measures deployed to ensure fairness in national college entrance exam",
+          "why_it_matters": "High-tech anti-cheating measures reflect the state's obsession with exam integrity as a pillar of social stability and meritocracy.",
+          "why_it_matters_zh": "高科技防作弊手段反映了国家对考试诚信的执着，这是社会稳定和精英选拔的基石。",
+          "pull_quote": "New smart inspection systems and intelligent security gates will be used nationwide to prevent cheating.",
+          "pull_quote_zh": "全国将启用智能巡查系统和智能安检门等新技术严防作弊。",
           "pillar": "society",
           "platforms": [
             "baidu_top",
@@ -118,30 +139,14 @@
           ],
           "platform_count": 2,
           "source": "",
-          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BC%84%E4%B8%A2%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86"
-        },
-        {
-          "primary_title": "医保个人账户可跨省给家人使用",
-          "english_title": "Medical insurance personal accounts to be shareable across provinces",
-          "why_it_matters": "A major step towards healthcare portability for migrant families, but implementation hinges on inter-provincial coordination.",
-          "why_it_matters_zh": "医保跨省共济迈出重要一步，惠及流动家庭，但执行依赖省际协调。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
-          "pillar": "society",
-          "platforms": [
-            "baidu_top",
-            "tencent_wechat_hot"
-          ],
-          "platform_count": 2,
-          "source": "",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%8F%AF%E8%B7%A8%E7%9C%81%E7%BB%99%E5%AE%B6%E4%BA%BA%E4%BD%BF%E7%94%A8"
+          "url": "https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%87%BA%E6%8B%9B%E7%AD%91%E7%89%A2%E9%AB%98%E8%80%83%E5%85%AC%E5%B9%B3%E9%98%B2%E7%BA%BF"
         },
         {
           "primary_title": "2026年6月5日外交部发言人毛宁主持例行记者会",
-          "english_title": "Foreign Ministry spokesperson holds regular press conference",
-          "why_it_matters": "Routine briefing; watch for any new signals on Ukraine or South China Sea, but today's transcript offered no major shifts.",
-          "why_it_matters_zh": "例行记者会，关注乌克兰或南海新信号，今日无重大变化。",
-          "pull_quote": "",
+          "english_title": "Foreign Ministry holds regular press conference",
+          "why_it_matters": "Routine briefing likely touched on Taiwan, South China Sea, and relations with the US; key barometer of official positions.",
+          "why_it_matters_zh": "例行记者会可能涉及台湾、南海及中美关系，是官方立场的重要晴雨表。",
+          "pull_quote": "Spokesperson Mao Ning answered questions on multiple international issues. (No specific quotes provided.)",
           "pull_quote_zh": "",
           "pillar": "geopolitics",
           "platforms": [
@@ -152,12 +157,27 @@
           "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml"
         },
         {
+          "primary_title": "俄方排雷人员遇袭受伤 IAEA呼吁遵守局部停火",
+          "english_title": "Russian demining personnel attacked and injured; IAEA calls for local ceasefire",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tT0p6aVZDTHdJWTdiMXhiOXVtTUdIdkpXRzNVcF80RnhnQ3dDRWlJeGFWTkZnSEtkSUtoVG5lSmNjVk5wNmE5OE1Ibl9MM1ZTaFM0SXA0NlNCUDZvQXl6ZmdMN2pVOU5lY2U5ZUgxRlhYR0xfODRhVUZmMmJIQQ?oc=5"
+        },
+        {
           "primary_title": "习近平同老挝人革党中央总书记、国家主席通伦会谈",
-          "english_title": "Xi Jinping holds talks with Lao president (photo coverage)",
-          "why_it_matters": "State media imagery reinforces the importance of personal diplomacy; the same event as item 1 but with visual emphasis.",
-          "why_it_matters_zh": "官方图片强调元首外交的视觉呈现，与第1条为同一事件。",
-          "pull_quote": "人民网-图片频道",
-          "pull_quote_zh": "人民网-图片频道",
+          "english_title": "People's Daily reports Xi-Thongloun talks in detail",
+          "why_it_matters": "Official coverage emphasizes the 'community with a shared future' narrative, reinforcing China's alternative to Western-led alliances.",
+          "why_it_matters_zh": "官方报道强调‘命运共同体’叙事，强化了中国对西方主导联盟的替代方案。",
+          "pull_quote": "The two leaders witnessed the signing of cooperation documents on infrastructure, trade, and people-to-people exchanges.",
+          "pull_quote_zh": "两国领导人见证了基础设施、贸易和人文交流等领域合作文件的签署。",
           "pillar": "politics",
           "platforms": [
             "elite_press"
@@ -168,11 +188,11 @@
         },
         {
           "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-          "english_title": "Commerce Ministry imposes anti-dumping duties on copolymer resins from Korea, Thailand, Malaysia",
-          "why_it_matters": "Protects domestic chemical industry but may raise input costs for downstream manufacturers; part of ongoing trade remedy activism.",
-          "why_it_matters_zh": "保护国内化工产业，但可能抬高下游制造成本，是贸易救济持续活跃的体现。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
+          "english_title": "MOFCOM announces anti-dumping tax rate decision on POM from Korea, Thailand, Malaysia",
+          "why_it_matters": "Ongoing trade remedy measures reflect China's willingness to protect domestic chemical industries from alleged dumping.",
+          "why_it_matters_zh": "持续的贸易救济措施反映了中国保护国内化工产业免受倾销的意愿。",
+          "pull_quote": "The decision adjusts the anti-dumping duty rates for certain producers in the three countries.",
+          "pull_quote_zh": "该决定调整了三国某些生产商的反倾销税率。",
           "pillar": "economy",
           "platforms": [
             "gov_registry"
@@ -182,13 +202,28 @@
           "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
         },
         {
-          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-          "english_title": "Export control list for precursor chemicals revised",
-          "why_it_matters": "Aligns with international anti-drug obligations but also tightens scrutiny on chemical exports, potentially impacting neighboring countries.",
-          "why_it_matters_zh": "履行国际禁毒义务，同时收紧化学品出口监管，可能影响邻国。",
+          "primary_title": "以军空袭黎巴嫩南部致至少13人死亡",
+          "english_title": "Israeli airstrike on southern Lebanon kills at least 13",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
           "pull_quote": "",
           "pull_quote_zh": "",
-          "pillar": "regulatory",
+          "pillar": "politics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44N0xUc0h5UzJLWnRJZmhoWTZNRHhDYzRBd21WUkhVNkw2ZW9qaGh3WFBvU2ZONnhFdHQ1bGs5VTk5TzJRUV8xcFpEakY0SG8wd29LRTFxQXFVVkN2RHpWSmI2VWd6WWlMU1lkU2FGQVJER3paTV9sUldnbWRKblk?oc=5"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "MOFCOM and four other ministries adjust export control list for precursor chemicals",
+          "why_it_matters": "Tightening export controls on dual-use chemicals likely aimed at complying with international obligations and curbing diversion.",
+          "why_it_matters_zh": "收紧易制毒化学品的出口管制，可能是为了履行国际义务并防止滥用。",
+          "pull_quote": "The list is updated to include new substances subject to export licensing.",
+          "pull_quote_zh": "目录更新，新增了需要出口许可的物质。",
+          "pillar": "economy",
           "platforms": [
             "gov_registry"
           ],
@@ -198,11 +233,11 @@
         },
         {
           "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
-          "english_title": "Tax-refund scheme expanded to boost inbound tourism consumption",
-          "why_it_matters": "Targets high-spending foreign tourists to offset domestic demand weakness, but logistics and awareness remain hurdles.",
-          "why_it_matters_zh": "瞄准高消费外国游客以对冲内需疲软，但物流和认知度仍是挑战。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
+          "english_title": "Six ministries announce measures to boost tax refunds for overseas tourists",
+          "why_it_matters": "Effort to spur inbound tourism spending as part of broader consumption push amid slowing domestic growth.",
+          "why_it_matters_zh": "在国内增长放缓的背景下，此举旨在刺激入境旅游消费，是扩大消费的举措之一。",
+          "pull_quote": "Refinements include simplifying procedures and expanding coverage of stores eligible for tax refunds.",
+          "pull_quote_zh": "优化措施包括简化流程和扩大退税商店覆盖范围。",
           "pillar": "economy",
           "platforms": [
             "gov_registry"
@@ -213,10 +248,10 @@
         },
         {
           "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
-          "english_title": "Taiwan Affairs Office holds press conference (June 3)",
-          "why_it_matters": "Reiterates opposition to Taiwan independence and foreign interference; watch for new rhetoric on economic integration.",
-          "why_it_matters_zh": "重申反对‘台独’和外部干涉，关注经济融合的新表述。",
-          "pull_quote": "",
+          "english_title": "Taiwan Affairs Office press conference transcript released",
+          "why_it_matters": "Expected to reiterate opposition to Taiwanese independence and call for cross-strait dialogue; any new policy signals would be significant.",
+          "why_it_matters_zh": "预计将重申反对‘台独’并呼吁两岸对话；任何新政策信号都将意义重大。",
+          "pull_quote": "No specific quotes from the transcript are available in the brief; but typical statements oppose any separatist activities.",
           "pull_quote_zh": "",
           "pillar": "geopolitics",
           "platforms": [
@@ -228,11 +263,11 @@
         },
         {
           "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-          "english_title": "CSRC releases guidelines for private equity funds",
-          "why_it_matters": "Aims to enhance supervision and prevent risks in the private fund industry, signaling tighter oversight amid market jitters.",
-          "why_it_matters_zh": "旨在加强私募基金监管、防范风险，在市场波动期释放强化监管信号。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
+          "english_title": "CSRC spokesperson answers questions on new guidelines for private investment funds",
+          "why_it_matters": "Regulatory tightening on the private fund industry aims to curb risks after years of rapid, often opaque growth.",
+          "why_it_matters_zh": "对私募基金行业的监管收紧旨在遏制多年快速、不透明增长带来的风险。",
+          "pull_quote": "The guidelines emphasize stronger risk management and investor protection measures.",
+          "pull_quote_zh": "指导意见强调加强风险管理和投资者保护措施。",
           "pillar": "regulatory",
           "platforms": [
             "gov_registry"
@@ -243,11 +278,11 @@
         },
         {
           "primary_title": "Hand Trucks From China; Scheduling of an Expedited Five-Year Review",
-          "english_title": "US initiates expedited sunset review of anti-dumping duties on Chinese hand trucks",
-          "why_it_matters": "Trade friction persists; the review could lead to extended tariffs, affecting Chinese exporters of industrial tools.",
-          "why_it_matters_zh": "贸易摩擦持续，复审可能导致关税延长，影响中国工业工具出口商。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
+          "english_title": "US schedules expedited five-year review on hand trucks from China",
+          "why_it_matters": "Signals continued trade friction; the review may lead to extension of anti-dumping duties, affecting Chinese exporters.",
+          "why_it_matters_zh": "显示贸易摩擦持续；复审可能导致反倾销税延长，影响中国出口商。",
+          "pull_quote": "The US International Trade Commission will conduct the expedited review to assess whether revoking duties could harm domestic industry.",
+          "pull_quote_zh": "美国国际贸易委员会将进行快速复审，评估撤销关税是否会对国内产业造成损害。",
           "pillar": "geopolitics",
           "platforms": [
             "gov_registry"
@@ -257,19 +292,34 @@
           "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11465/hand-trucks-from-china-scheduling-of-an-expedited-five-year-review"
         },
         {
-          "primary_title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
-          "english_title": "Great Wall Motors chairman Wei Jianjun blasts automotive repair scams",
-          "why_it_matters": "Exposes common predatory practices in car maintenance, sparking public debate and potential industry regulation.",
-          "why_it_matters_zh": "揭露汽车维修行业常见欺诈行为，引发公众热议和可能的行业整顿。",
+          "primary_title": "请完成下列验证后继续 - 36 36kr",
+          "english_title": "Please complete the following verification to continue - 36 36kr",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
           "pull_quote": "",
           "pull_quote_zh": "",
-          "pillar": "society",
+          "pillar": "tech",
           "platforms": [
             "elite_press"
           ],
           "platform_count": 1,
           "source": "36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaUY1U3JUZUVHcTRFNHl5MmFnUXFuLTVRY3hBNjFQVWR5aC11U1NuTHhFb09JV25oZnFoNElWMV96RFg1YjRrSnBJZEF4QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jcUVrcFdGbTlhTm1RMVNWcTFxemJ1SHk0OFVnMlo4LWhVY2RSbHhUSmZHcV9wVXFqeERFX2tYbjAxZmo0T3J2aHNlcw?oc=5"
+        },
+        {
+          "primary_title": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶",
+          "english_title": "Deconstructing robot hardware, mass production, and supply chain: after backflips, it must learn to catch a falling leaf",
+          "why_it_matters": "Indicates China's drive to move humanoid robots from demonstration to mass production, with supply chain and dexterity as key hurdles.",
+          "why_it_matters_zh": "表明中国正推动人形机器人从演示走向量产，供应链和灵活性是关键障碍。",
+          "pull_quote": "The article focuses on the engineering challenges of making agile, cost-effective robots at scale.",
+          "pull_quote_zh": "文章聚焦于大规模制造敏捷、具有成本效益的机器人的工程挑战。",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iakJJVjBYdGttWXAyWG9XaGx3bWo2ekdCTFVUbDNGNG1UOENrbWtJQjBld3NKalpDOEFROVNRWmN4MVh0S2Vrb3gzd0llZw?oc=5"
         }
       ]
     },

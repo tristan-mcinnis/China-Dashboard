@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T18:23:30+08:00",
+  "updated_at": "2026-06-06T19:05:15+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -3681,8 +3681,40 @@
     },
     "xi diplomacy": {
       "label": "Xi diplomacy",
-      "count": 3,
+      "count": 6,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈",
+          "english_title": "People's Daily reports Xi-Thongloun talks in detail",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4SE5XckhLX293VW5SY2VwWnB2ZGdDZXR6S2l1ZmpySi11dXJ1d3p1TEx2bFZqaXRydkh2SU4tNW5qX21QVmZkOXpISE5FY3pHc1IyTUFaUlhvc3J2Y0RzRWpCMEZ6SExURXlv?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "北大女孩时隔八年再谈感谢贫穷",
+          "english_title": "Peking University graduate revisits 'Thanks to Poverty' after eight years",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%A5%B3%E5%AD%A9%E6%97%B6%E9%9A%94%E5%85%AB%E5%B9%B4%E5%86%8D%E8%B0%88%E6%84%9F%E8%B0%A2%E8%B4%AB%E7%A9%B7",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "中老友谊历久弥坚启新程",
+          "english_title": "Xi Jinping holds talks with Lao leader Thongloun",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E8%B0%8A%E5%8E%86%E4%B9%85%E5%BC%A5%E5%9D%9A%E5%90%AF%E6%96%B0%E7%A8%8B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-05",
           "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
@@ -4266,8 +4298,30 @@
     },
     "tech regulation": {
       "label": "tech regulation",
-      "count": 2,
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "各地出招筑牢高考公平防线",
+          "english_title": "Tech measures deployed to ensure fairness in national college entrance exam",
+          "url": "https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%87%BA%E6%8B%9B%E7%AD%91%E7%89%A2%E9%AB%98%E8%80%83%E5%85%AC%E5%B9%B3%E9%98%B2%E7%BA%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "中央考核巡查组：管理人员都在做样子",
+          "english_title": "Central safety inspection finds serious hazards, accuses managers of 'going through the motions'",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E7%BB%84%EF%BC%9A%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E9%83%BD%E5%9C%A8%E5%81%9A%E6%A0%B7%E5%AD%90",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-06",
           "title": "重庆理工一副校长遇刺身亡 凶手已被刑拘",
@@ -4573,6 +4627,86 @@
             "tencent_wechat_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "domestic safety governance": {
+      "label": "domestic safety governance",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "Six ministries announce measures to boost tax refunds for overseas tourists",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping tax rate decision on POM from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "中央考核巡查组：管理人员都在做样子",
+          "english_title": "Central safety inspection finds serious hazards, accuses managers of 'going through the motions'",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E7%BB%84%EF%BC%9A%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E9%83%BD%E5%9C%A8%E5%81%9A%E6%A0%B7%E5%AD%90",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "market downturn": {
+      "label": "market downturn",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "中老友谊历久弥坚启新程",
+          "english_title": "Xi Jinping holds talks with Lao leader Thongloun",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E8%B0%8A%E5%8E%86%E4%B9%85%E5%BC%A5%E5%9D%9A%E5%90%AF%E6%96%B0%E7%A8%8B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "taiwan cross-strait": {
+      "label": "Taiwan cross-strait",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office press conference transcript released",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "Foreign Ministry holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
         }
       ]
     }
