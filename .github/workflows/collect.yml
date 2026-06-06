@@ -49,6 +49,7 @@ jobs:
             "tencent_wechat_hot"
             "indices_cn"
             "fx_cny"
+            "commodities_cn"
             "weather_cn"
             "xinhua_rss"
             "thepaper_rss"
@@ -58,7 +59,6 @@ jobs:
             "nbs_monthly"
             "trade_data"
             "property_cn"
-            "gov_regulatory"
             "gov_registry"
           )
 
@@ -137,11 +137,11 @@ jobs:
 
           category_map = {
             'indices': 'market', 'fx': 'fx', 'pboc_rates': 'rates',
+            'commodities': 'market',
             'nbs_monthly': 'macro', 'trade_data': 'trade', 'property': 'property',
             'weather': 'market',
             'baidu_top': 'social', 'weibo_hot': 'social', 'tencent_wechat_hot': 'social',
             'xinhua_news': 'news', 'thepaper_news': 'news', 'ladymax_news': 'news',
-            'gov_regulatory': 'regulatory',
             'gov_registry': 'regulatory',
           }
 

@@ -23,6 +23,7 @@ GH_RAW_BASE = "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard
 CATALOG = {
     "indices": ("markets", "Shanghai & Shenzhen stock market indices"),
     "fx": ("markets", "CNY currency exchange rates"),
+    "commodities": ("markets", "China-demand commodity prices (iron ore, copper, crude, gold)"),
     "pboc_rates": ("macro", "PBOC policy rates (LPR, MLF, RRR)"),
     "nbs_monthly": ("macro", "NBS monthly indicators (CPI, PPI, PMI)"),
     "trade_data": ("macro", "China trade data (exports, imports, balance)"),
@@ -34,8 +35,7 @@ CATALOG = {
     "xinhua_news": ("news", "Xinhua News Agency headlines (bilingual)"),
     "thepaper_news": ("news", "The Paper (澎湃新闻) headlines (bilingual)"),
     "ladymax_news": ("news", "LadyMax fashion-business headlines (bilingual)"),
-    "gov_regulatory": ("regulatory", "CSRC / CAC / SAMR announcements (bilingual)"),
-    "gov_registry": ("regulatory", "Primary-source registry: 12 ministry/regulator/legislature channels + US Federal Register (bilingual, chapter-tagged)"),
+    "gov_registry": ("regulatory", "Primary-source registry: 14 ministry/regulator/diplomacy channels (MOFCOM, MFA, Taiwan Affairs, PBOC, MOF, CSRC, CAC, NDRC, NEA, MCA, CIPS, SAFE, State Council EN) + US Federal Register (bilingual, pillar-tagged)"),
 }
 
 

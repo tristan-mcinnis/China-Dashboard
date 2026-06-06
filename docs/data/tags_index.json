@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T15:00:29+08:00",
+  "updated_at": "2026-06-06T18:23:30+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1580,8 +1580,19 @@
     },
     "regulatory tightening": {
       "label": "regulatory tightening",
-      "count": 3,
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "中方始终将老挝视作周边外交重要方向",
+          "english_title": "Xi holds talks with Lao leader, pledges continued support",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-04",
           "title": "2026年人工智能技术赋能网络安全应用测试公告",
@@ -3900,9 +3911,19 @@
       ]
     },
     "market volatility": {
-      "label": "Market volatility",
-      "count": 3,
+      "label": "market volatility",
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC releases guidelines for private equity funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-05",
           "title": "上海男篮夺CBA总冠军",
@@ -4497,6 +4518,55 @@
           "date": "2026-06-06",
           "title": "中方始终将老挝视作周边外交重要方向",
           "english_title": "Xi Jinping holds talks with Lao president Tongloun",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "peripheral diplomacy": {
+      "label": "peripheral diplomacy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈",
+          "english_title": "Xi Jinping holds talks with Lao president (photo coverage)",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4SE5XckhLX293VW5SY2VwWnB2ZGdDZXR6S2l1ZmpySi11dXJ1d3p1TEx2bFZqaXRydkh2SU4tNW5qX21QVmZkOXpISE5FY3pHc1IyTUFaUlhvc3J2Y0RzRWpCMEZ6SExURXlv?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "economic stimulus": {
+      "label": "economic stimulus",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office holds press conference (June 3)",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "social welfare expansion": {
+      "label": "social welfare expansion",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "中方始终将老挝视作周边外交重要方向",
+          "english_title": "Xi holds talks with Lao leader, pledges continued support",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91",
           "platforms": [
             "baidu_top",

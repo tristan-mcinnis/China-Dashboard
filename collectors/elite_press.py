@@ -70,6 +70,12 @@ def _gnews_url(query: str, *, lang: str) -> str:
 # Source matrix. Each entry: (source_en, source_zh, pillar, lang, google_query)
 # Window kept tight (when:2d) so the brief reflects the current news cycle;
 # Qiushi is a low-frequency theory journal, so it gets a wider window.
+#
+# NOTE on `pillar`: this is a per-SOURCE-FAMILY prior, not a per-article claim.
+# It reflects the lens a desk reports through (Western desks → geopolitics, etc.),
+# not the topic of any single story. The daily-digest DeepSeek pass reclassifies
+# individual items by their actual content, so a Bloomberg markets story can land
+# in `economy` even though Bloomberg's prior here is `geopolitics`.
 FEEDS = [
     # --- Party organs & official media -> politics ----------------------------
     ("People's Daily", "人民日报", "politics", "zh", "site:people.com.cn when:2d"),
@@ -119,6 +125,29 @@ def _norm(title: str) -> str:
     return re.sub(r"\s+", "", (title or "").lower())
 
 
+# Page-furniture that Google News' `site:` RSS sometimes surfaces instead of a
+# real headline (especially from People's Daily): editor bylines, contact lines,
+# and photo-gallery index markers like 【5】. Drop these so the most prestigious
+# pillar isn't polluted with non-articles.
+_JUNK_SUBSTRINGS = (
+    "责编", "责任编辑", "编辑：", "邮箱", "来源：", "记者：", "通讯员",
+    "图片来源", "摄影报道", "版权所有", "扫码", "点击进入", "网页链接",
+)
+_EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+# Trailing photo-gallery index, e.g. "…盾构机刀盘顺利下井【5】" or "[3]".
+_GALLERY_RE = re.compile(r"[【\[]\s*\d+\s*[】\]]\s*$")
+
+
+def _is_junk(title: str) -> bool:
+    """True if the title is page furniture rather than a real headline."""
+    t = (title or "").strip()
+    if len(_norm(t)) < 6:
+        return True
+    if _EMAIL_RE.search(t) or _GALLERY_RE.search(t):
+        return True
+    return any(s in t for s in _JUNK_SUBSTRINGS)
+
+
 def fetch_elite_press(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
     headers = base_headers()
     headers["User-Agent"] = (
@@ -148,7 +177,7 @@ def fetch_elite_press(max_items: int = MAX_ITEMS_PER_FEED) -> List[dict]:
                 break
             title = _clean_title((entry.get("title") or "").strip())
             link = (entry.get("link") or "").strip()
-            if not title:
+            if not title or _is_junk(title):
                 continue
             key = _norm(title)
             if not key or key in seen:

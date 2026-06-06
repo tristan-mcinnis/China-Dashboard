@@ -1,10 +1,14 @@
 """Registry-driven primary-source collector.
 
-Generalises the hand-coded `gov_regulatory.py` (CSRC/CAC/SAMR only) to the full
-set of primary-source channels validated in china-future-book's source-registry.
-Sources live in `gov_registry_sources.json` (slug, agency, listing URL, mode,
-chapter). Each was live-tested for static feed-ability before being added; the
-JS-rendered / captcha / blocked channels were deliberately excluded.
+The single primary-source collector for the dashboard (it replaced the hand-coded
+CSRC/CAC/SAMR-only `gov_regulatory.py`, retired 2026-06-06). Sources live in
+`gov_registry_sources.json` (slug, agency, listing URL, mode, pillar, chapter).
+Each was live-tested for static feed-ability before being added; the JS-rendered /
+captcha / blocked channels are kept under `_needs_browser` and deliberately excluded.
+
+Every item carries a canonical dashboard `pillar` (politics | economy | tech |
+geopolitics | regulatory | society) set per channel in the seed — this is the field
+the daily digest groups on. `chapter` is secondary metadata for a downstream project.
 
 Modes:
   scrape     - fetch HTML listing, extract <a title>/<a>text</a>, noise-filter
@@ -34,8 +38,8 @@ HISTORY = "docs/data/history/gov_registry.json"
 SEED = Path(__file__).resolve().parent / "gov_registry_sources.json"
 REQUEST_TIMEOUT = 20
 
-# Document-type keywords for scrape_kw mode (CAC-style index pages).
-DOC_KW = ("通知", "公告", "意见", "规定", "办法", "条例", "政策", "发布", "令", "决定", "方案")
+# Document-type keywords for scrape_kw mode (CAC- / MOFCOM-style index pages).
+DOC_KW = ("通知", "公告", "意见", "规定", "办法", "条例", "政策", "发布", "令", "决定", "方案", "措施")
 
 # Pure-navigation / boilerplate noise to drop (substring match, case-insensitive).
 NOISE = (
@@ -43,6 +47,9 @@ NOISE = (
     "institutions", "policies", "简介", "网站地图", "联系我们", "版权所有",
     "listarr", "&lt;", "&gt;", "返回首页", "主办", "承办", "phone", "programs",
     "follow xi", "常驻", "代表团",
+    # Embassy / consulate nav (MFA), legacy-site chrome (common across ministries)
+    "代办处", "办事处", "总领事馆", "大使馆", "友情链接", "旧版", "无障碍",
+    "主题教育", "二十大精神",
 )
 
 LINK_TITLE = re.compile(r'<a[^>]*href="([^"]+)"[^>]*title="([^"]{6,})"', re.I)
@@ -88,7 +95,9 @@ def collect_scrape(src: dict, kw_only: bool = False):
     items = []
     try:
         resp = requests.get(src["url"], headers=base_headers(), timeout=REQUEST_TIMEOUT)
-        resp.encoding = "utf-8"
+        # Most ministry sites are UTF-8; a few legacy ones (e.g. 国台办) are GB2312.
+        # Honour an explicit per-source override, else default to UTF-8.
+        resp.encoding = src.get("enc", "utf-8")
         if resp.status_code != 200:
             return items
         for title, url in _extract_links(resp.text, src["url"]):
@@ -132,6 +141,7 @@ def _make_item(src: dict, title: str, url: str) -> dict:
             "agency": src["agency"],
             "agency_zh": src.get("agency_zh", ""),
             "source_slug": src["slug"],
+            "pillar": src.get("pillar", "regulatory"),
             "chapter": src.get("chapter", ""),
             "lang": src.get("lang", "zh"),
             "date": date,

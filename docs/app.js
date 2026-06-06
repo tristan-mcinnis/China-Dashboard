@@ -1248,15 +1248,6 @@ function createHistoryControllers() {
     render: (entry) => renderLadymaxSnapshot(entry, ladymaxGrid),
   });
 
-  const regulatoryGrid = document.getElementById("regulatory-news");
-  controllers.regulatory = new HistoryController({
-    container: regulatoryGrid,
-    prevButton: document.getElementById("regulatory-prev"),
-    nextButton: document.getElementById("regulatory-next"),
-    timestampElement: document.getElementById("regulatory-timestamp"),
-    render: (entry) => renderRegulatorySnapshot(entry, regulatoryGrid),
-  });
-
   const registryGrid = document.getElementById("registry-news");
   controllers.registry = new HistoryController({
     container: registryGrid,
@@ -1451,7 +1442,7 @@ const PLATFORM_BADGES = {
   tencent_wechat_hot: 'WeChat',
   xinhua_news: 'Xinhua',
   thepaper_news: 'The Paper',
-  gov_regulatory: 'Regulatory',
+  gov_registry: 'Gov Registry',
 };
 
 // Today's Brief — render the DeepSeek cross-source digest
@@ -1692,7 +1683,7 @@ function renderBriefEntry(digest) {
             const badges = document.createElement('div');
             badges.className = 'brief-story-badges';
             (s.platforms || []).forEach((p) => {
-              if (p === 'elite_press' || p === 'gov_regulatory') return;
+              if (p === 'elite_press' || p === 'gov_registry') return;
               const b = document.createElement('span');
               b.className = 'brief-badge';
               b.textContent = PLATFORM_BADGES[p] || p;
@@ -1858,6 +1849,7 @@ async function render() {
       indicesHistory,
       fxHistory,
       weather,
+      commoditiesData,
       pbocRates,
       nbsMonthly,
       tradeData,
@@ -1868,7 +1860,6 @@ async function render() {
       xinhuaHistory,
       thepaperHistory,
       ladymaxHistory,
-      regulatoryHistory,
       registryHistory,
     ] =
       await Promise.all([
@@ -1877,6 +1868,7 @@ async function render() {
         loadHistoryEntries("data/indices.json", "data/history/indices.json"),
         loadHistoryEntries("data/fx.json", "data/history/fx.json"),
         loadJSON("data/weather.json").catch(() => ({ items: [] })),
+        loadJSON("data/commodities.json").catch(() => ({ items: [] })),
         loadJSON("data/pboc_rates.json").catch(() => ({ items: [] })),
         loadJSON("data/nbs_monthly.json").catch(() => ({ items: [] })),
         loadJSON("data/trade_data.json").catch(() => ({ items: [] })),
@@ -1890,7 +1882,6 @@ async function render() {
         loadHistoryEntries("data/xinhua_news.json", "data/history/xinhua_news.json"),
         loadHistoryEntries("data/thepaper_news.json", "data/history/thepaper_news.json"),
         loadHistoryEntries("data/ladymax_news.json", "data/history/ladymax_news.json"),
-        loadHistoryEntries("data/gov_regulatory.json", "data/history/gov_regulatory.json"),
         loadHistoryEntries("data/gov_registry.json", "data/history/gov_registry.json"),
       ]);
 
@@ -1926,6 +1917,20 @@ async function render() {
           item.value ?? "—"
         }</strong>${pctSpan(item.extra?.chg_pct)} ${spark}${staleWarning}`;
         ulFx.appendChild(li);
+      });
+    }
+
+    // Render commodities (China-demand proxies)
+    const ulCommodities = document.getElementById("commodities");
+    if (ulCommodities) {
+      ulCommodities.innerHTML = "";
+      (commoditiesData?.items || []).forEach((item) => {
+        const li = document.createElement("li");
+        const unit = item.extra?.unit ? ` <span class="muted">${item.extra.unit}</span>` : "";
+        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
+          item.value ?? "—"
+        }</strong>${unit}${pctSpan(item.extra?.chg_pct)}`;
+        ulCommodities.appendChild(li);
       });
     }
 
@@ -2019,10 +2024,6 @@ async function render() {
       historyControllers.ladymax.setEntries(ladymaxHistory);
     }
 
-    if (historyControllers.regulatory) {
-      historyControllers.regulatory.setEntries(regulatoryHistory);
-    }
-
     if (historyControllers.registry) {
       historyControllers.registry.setEntries(registryHistory);
     }
@@ -2047,6 +2048,7 @@ async function checkForUpdates() {
     const checks = [
       { key: 'indices', path: 'data/indices.json' },
       { key: 'fx', path: 'data/fx.json' },
+      { key: 'commodities', path: 'data/commodities.json' },
       { key: 'weather', path: 'data/weather.json' },
       { key: 'pboc', path: 'data/pboc_rates.json' },
       { key: 'nbs', path: 'data/nbs_monthly.json' },
@@ -2058,7 +2060,6 @@ async function checkForUpdates() {
       { key: 'ladymax', path: 'data/ladymax_news.json' },
       { key: 'trade', path: 'data/trade_data.json' },
       { key: 'property', path: 'data/property.json' },
-      { key: 'regulatory', path: 'data/gov_regulatory.json' },
       { key: 'registry', path: 'data/gov_registry.json' }
     ];
 

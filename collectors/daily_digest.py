@@ -60,7 +60,7 @@ PLATFORM_LABELS = {
     "tencent_wechat_hot": "WeChat",
     "xinhua_news": "Xinhua",
     "thepaper_news": "The Paper",
-    "gov_regulatory": "Regulatory",
+    "gov_registry": "Gov Registry",
 }
 MAX_STORIES = 16
 
@@ -105,7 +105,8 @@ SOURCE_PILLAR_DEFAULT = {
     "tencent_wechat_hot": "society",
     "xinhua_news": "politics",
     "thepaper_news": "society",
-    "gov_regulatory": "regulatory",
+    # gov_registry items carry their own per-channel `pillar` (set in the seed),
+    # so they are not defaulted here — see the ingestion loop in collect_clusters.
 }
 
 
@@ -310,18 +311,22 @@ def _collect_candidates(data: dict) -> list[dict]:
             english_hint=extra.get("translation", "") or "",
         )
 
-    # Regulatory announcements always matter for a China brief
-    for idx, item in enumerate(data.get("gov_regulatory", {}).get("items", [])):
+    # Primary-source ministry/regulator channels (gov_registry). Each item carries
+    # its own canonical `pillar` (set per channel in gov_registry_sources.json), so
+    # an MFA briefing lands in geopolitics, a MOFCOM ruling in economy, a CSRC notice
+    # in regulatory, etc. — rather than collapsing every channel into "regulatory".
+    for idx, item in enumerate(data.get("gov_registry", {}).get("items", [])):
         extra = item.get("extra") or {}
         agency = extra.get("agency_zh") or extra.get("agency") or ""
         add_appearance(
             item.get("title", ""),
             item.get("url", ""),
-            "gov_regulatory",
+            "gov_registry",
             idx + 1,
             f"{agency} announcement",
-            pillar_hint="regulatory",
+            pillar_hint=extra.get("pillar", "regulatory") or "regulatory",
             source_label=agency,
+            english_hint=extra.get("translation", "") or "",
         )
 
     for c in clusters:
@@ -340,7 +345,7 @@ def _score(cluster: dict) -> float:
 
 
 def _categorize(title: str, platforms: list[str]) -> str:
-    if "gov_regulatory" in platforms:
+    if "gov_registry" in platforms:
         return "regulatory"
     if "elite_press" in platforms:
         return "press"
@@ -694,7 +699,7 @@ def build_digest() -> dict:
     sources = [
         "baidu_top", "weibo_hot", "tencent_wechat_hot",
         "xinhua_news", "thepaper_news", "ladymax_news",
-        "gov_regulatory", "elite_press", "indices", "fx",
+        "gov_registry", "elite_press", "indices", "fx",
     ]
     data = {name: _load(name) for name in sources}
 
