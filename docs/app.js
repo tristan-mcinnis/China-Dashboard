@@ -1,2514 +1,549 @@
-// GoatCounter site code for the on-page visitor count. Keep this in sync with the
-// data-goatcounter attribute in index.html. Leave as "MYCODE" to disable the counter.
-const GOATCOUNTER_CODE = 'tristan-mcinnis';
+/* ============================================================
+   CHINA SNAPSHOT v2 — prototype engine
+   Reads the SAME live data as production (data/*.json).
+   Vanilla, no build step.
 
-// Fetch the site-wide unique visitor total from GoatCounter and show it in the footer.
-// Privacy-friendly and best-effort: any failure (or unconfigured code) just hides it.
-async function renderVisitorCount() {
-  const el = document.getElementById('visitor-count');
-  if (!el || GOATCOUNTER_CODE === 'MYCODE') return;
-  try {
-    const res = await fetch(`https://${GOATCOUNTER_CODE}.goatcounter.com/counter/TOTAL.json`);
-    if (!res.ok) return;
-    const data = await res.json();
-    const visitors = data.count_unique || data.count;
-    if (visitors) {
-      el.textContent = `${visitors} visitors`;
-      el.title = 'Unique visitors (via GoatCounter)';
-    }
-  } catch (_) {
-    /* best-effort; leave the counter hidden on failure */
-  }
+   PERFORMANCE MODEL:
+   - Boot fetches only the small LIVE json per source (~140 KB total).
+   - Large history files (5+ MB) are NEVER fetched on boot. Each card's
+     ‹ › arrows lazy-load that source's history on first use, and the
+     browser caches it (no cache-bust on history).
+   - Index sparklines + the editions strip load during idle time, after
+     first paint, so they never block the initial render.
+   - The 90 s auto-refresh only re-pulls the tiny live files.
+   ============================================================ */
+const DATA = "data/";
+const bust = () => `?t=${Date.now()}`;
+const $  = (s, r = document) => r.querySelector(s);
+const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
+const el = (tag, cls, html) => { const n = document.createElement(tag); if (cls) n.className = cls; if (html != null) n.innerHTML = html; return n; };
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
+const idle = (fn) => (window.requestIdleCallback ? requestIdleCallback(fn, { timeout: 1500 }) : setTimeout(fn, 250));
+
+const loadLive = async (name) => { const r = await fetch(`${DATA}${name}${bust()}`); if (!r.ok) throw new Error(name); return r.json(); };
+/* history: no cache-bust → served from browser cache after first fetch */
+const _histCache = {};
+async function loadHistFile(histName) {
+  if (_histCache[histName]) return _histCache[histName];
+  try { const r = await fetch(`${DATA}history/${histName}`); const j = await r.json();
+    const out = (j.entries || []).map(e => ({ as_of: e.as_of, items: e.items || [] })); _histCache[histName] = out; return out;
+  } catch { return []; }
 }
+function fmtTs(iso) { const m = String(iso || "").match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/); return m ? `${m[2]}-${m[3]} ${m[4]}:${m[5]}` : (iso ? String(iso).slice(0, 16) : "—"); }
 
-// News Ticker Functions
-const TICKER_SOURCES = {
-  xinhua: { label: 'Xinhua', class: 'source-xinhua' },
-  thepaper: { label: 'The Paper', class: 'source-thepaper' },
-  ladymax: { label: 'LadyMax', class: 'source-ladymax' },
-  baidu: { label: 'Baidu', class: 'source-baidu' },
-  weibo: { label: 'Weibo', class: 'source-weibo' },
-  wechat: { label: 'WeChat', class: 'source-wechat' },
-  market: { label: 'Market', class: 'source-market' },
+/* ---------------- language ---------------- */
+let LANG = localStorage.getItem("cs2-lang") || "en";
+const I18N = {
+  "nav.brief": ["Brief","简报"], "nav.trending": ["Trending","热搜"], "nav.news": ["Press","媒体"],
+  "nav.markets": ["Markets","市场"], "nav.macro": ["Macro","宏观"], "nav.sources": ["Sources","源头"],
+  "search.placeholder": ["Search","搜索"], "tm.live": ["● LIVE","● 实时"], "tm.return": ["Return to live ›","返回实时 ›"],
+  "brief.kicker": ["Today's Brief","今日简报"], "brief.copy": ["Copy","复制"],
+  "sec.trending": ["Trending & Search","热搜与讨论"], "sec.trending.sub": ["What China is searching and arguing about right now","此刻中国正在搜索与热议的话题"],
+  "sec.news": ["State & Domestic Press","官方与国内媒体"], "sec.news.sub": ["Bilingual headlines from Xinhua and The Paper","新华社与澎湃新闻双语头条"],
+  "sec.markets": ["Markets & FX","市场与汇率"], "sec.markets.sub": ["Indices, currencies and China-demand commodities","指数、汇率与中国需求大宗商品"],
+  "sec.macro": ["Macro & Policy","宏观与政策"], "sec.macro.sub": ["Rates, prices and the real-economy pulse","利率、物价与实体经济脉搏"],
+  "sec.sources": ["Primary Sources","一手源头"], "sec.sources.sub": ["Ministries, regulators and diplomacy — straight from the wire","部委、监管机构与外交 — 直达原文"],
+  "about.body": ["Built by Tristan McInnis to read China the way it reads itself — in real time, on its own platforms. Most coverage reaches you second-hand and a day late; this pulls straight from the source.",
+    "由 Tristan McInnis 打造，以中国自身的方式实时阅读中国 —— 直接来自其本土平台。多数报道都是二手且滞后一天的，这里直达源头。"],
+  "about.contact": ["Email me","联系我"],
+  "footer.fine": ["Information provided “as is” for general informational purposes only.","本仪表板信息仅按“原样”提供，供一般参考之用。"],
 };
-
-function createTickerItem(text, url, sourceKey) {
-  const source = TICKER_SOURCES[sourceKey] || { label: sourceKey, class: '' };
-
-  const item = document.createElement('a');
-  item.className = 'ticker-item';
-  item.href = url || '#';
-  if (url && url !== '#') {
-    item.target = '_blank';
-    item.rel = 'noopener';
-  }
-
-  const sourceSpan = document.createElement('span');
-  sourceSpan.className = `ticker-item-source ${source.class}`;
-  sourceSpan.textContent = source.label;
-
-  const textSpan = document.createElement('span');
-  textSpan.textContent = text;
-
-  item.appendChild(sourceSpan);
-  item.appendChild(textSpan);
-
-  return item;
+const t = (k) => (I18N[k] ? I18N[k][LANG === "zh" ? 1 : 0] : k);
+const pick = (en, zh) => (LANG === "zh" ? (zh || en) : (en || zh)) || "";
+function applyLang() {
+  document.documentElement.setAttribute("data-lang", LANG);
+  document.documentElement.lang = LANG === "zh" ? "zh-CN" : "en";
+  $$("[data-i18n]").forEach(n => { n.textContent = t(n.getAttribute("data-i18n")); });
+  $$(".lang-toggle button").forEach(b => b.classList.toggle("is-active", b.dataset.lang === LANG));
+  localStorage.setItem("cs2-lang", LANG);
 }
-
-function collectTickerItems(data) {
-  const items = [];
-
-  // Add market movers (indices with significant changes)
-  if (data.indices?.items) {
-    data.indices.items.forEach(item => {
-      const pct = item.extra?.chg_pct;
-      if (pct !== null && pct !== undefined && Math.abs(pct) >= 0.5) {
-        const sign = pct > 0 ? '▲' : '▼';
-        const text = `${item.title}: ${item.value} ${sign} ${Math.abs(pct).toFixed(2)}%`;
-        items.push({ text, url: item.url, source: 'market', priority: 1 });
-      }
-    });
-  }
-
-  // Add top Baidu trends (top 3)
-  if (data.baidu?.items) {
-    data.baidu.items.slice(0, 3).forEach(item => {
-      const title = (item.title || '').replace(/^\d+\.\s*/, '');
-      const translation = item.extra?.translation;
-      const text = translation ? `${title} — ${translation}` : title;
-      items.push({ text, url: item.url, source: 'baidu', priority: 2 });
-    });
-  }
-
-  // Add top Weibo trends (top 3)
-  if (data.weibo?.items) {
-    data.weibo.items.slice(0, 3).forEach(item => {
-      const title = (item.title || '').replace(/^\d+\.\s*/, '');
-      const translation = item.extra?.translation;
-      const text = translation ? `${title} — ${translation}` : title;
-      items.push({ text, url: toMobileWeiboUrl(item.url), source: 'weibo', priority: 2 });
-    });
-  }
-
-  // Add top WeChat trends (top 2)
-  if (data.wechat?.items) {
-    data.wechat.items.slice(0, 2).forEach(item => {
-      const title = (item.title || '').replace(/^\d+\.\s*/, '');
-      const translation = item.extra?.translation;
-      const text = translation ? `${title} — ${translation}` : title;
-      items.push({ text, url: item.url, source: 'wechat', priority: 2 });
-    });
-  }
-
-  // Add latest Xinhua headlines (top 3)
-  if (data.xinhua?.items) {
-    const sortedXinhua = [...data.xinhua.items].sort((a, b) => {
-      const aTime = new Date(a?.extra?.published ?? 0).getTime();
-      const bTime = new Date(b?.extra?.published ?? 0).getTime();
-      return bTime - aTime;
-    });
-    sortedXinhua.slice(0, 3).forEach(item => {
-      const title = item.title || '';
-      const translation = item.extra?.translation;
-      const text = translation ? `${title} — ${translation}` : title;
-      items.push({ text, url: item.url, source: 'xinhua', priority: 3 });
-    });
-  }
-
-  // Add latest The Paper headlines (top 3)
-  if (data.thepaper?.items) {
-    data.thepaper.items.slice(0, 3).forEach(item => {
-      const title = item.title || '';
-      const translation = item.extra?.translation;
-      const text = translation ? `${title} — ${translation}` : title;
-      items.push({ text, url: item.url, source: 'thepaper', priority: 3 });
-    });
-  }
-
-  // Add latest LadyMax headlines (top 2)
-  if (data.ladymax?.items) {
-    data.ladymax.items.slice(0, 2).forEach(item => {
-      const title = item.title || '';
-      const translation = item.extra?.translation;
-      const text = translation ? `${title} — ${translation}` : title;
-      items.push({ text, url: item.url, source: 'ladymax', priority: 3 });
-    });
-  }
-
-  // Sort by priority then shuffle within priority groups for variety
-  items.sort((a, b) => a.priority - b.priority);
-
-  return items;
-}
-
-function renderTicker(items) {
-  const container = document.getElementById('ticker-content');
-  if (!container) return;
-
-  container.innerHTML = '';
-
-  if (items.length === 0) {
-    const loading = document.createElement('span');
-    loading.className = 'ticker-loading';
-    loading.textContent = 'No headlines available';
-    container.appendChild(loading);
-    return;
-  }
-
-  // Create items twice to enable seamless loop
-  const createItems = () => {
-    items.forEach((item, index) => {
-      const tickerItem = createTickerItem(item.text, item.url, item.source);
-      container.appendChild(tickerItem);
-
-      // Add divider between items
-      if (index < items.length - 1) {
-        const divider = document.createElement('span');
-        divider.className = 'ticker-divider';
-        divider.textContent = '•';
-        container.appendChild(divider);
-      }
-    });
-  };
-
-  // Add items twice for seamless scrolling
-  createItems();
-
-  // Add a larger gap before the repeat
-  const gap = document.createElement('span');
-  gap.style.paddingLeft = '4rem';
-  container.appendChild(gap);
-
-  createItems();
-
-  // Adjust animation speed based on content length
-  const contentWidth = container.scrollWidth / 2;
-  const pixelsPerSecond = 50; // Adjust for desired speed
-  const duration = contentWidth / pixelsPerSecond;
-  container.style.animationDuration = `${Math.max(30, duration)}s`;
-}
-
-async function updateTicker() {
-  try {
-    const [indices, baidu, weibo, wechat, xinhua, thepaper, ladymax] = await Promise.all([
-      loadJSON('data/indices.json').catch(() => ({ items: [] })),
-      loadJSON('data/baidu_top.json').catch(() => ({ items: [] })),
-      loadJSON('data/weibo_hot.json').catch(() => ({ items: [] })),
-      loadJSON('data/tencent_wechat_hot.json').catch(() => ({ items: [] })),
-      loadJSON('data/xinhua_news.json').catch(() => ({ items: [] })),
-      loadJSON('data/thepaper_news.json').catch(() => ({ items: [] })),
-      loadJSON('data/ladymax_news.json').catch(() => ({ items: [] })),
-    ]);
-
-    const tickerItems = collectTickerItems({
-      indices,
-      baidu,
-      weibo,
-      wechat,
-      xinhua,
-      thepaper,
-      ladymax,
-    });
-
-    renderTicker(tickerItems);
-  } catch (error) {
-    console.error('Failed to update ticker:', error);
-  }
-}
-
-async function loadJSON(path) {
-  const bust = `?t=${Date.now()}`;
-  const res = await fetch(`${path}${bust}`);
-  if (!res.ok) throw new Error(`fetch ${path} ${res.status}`);
-  return res.json();
-}
-
-function fmtPct(value) {
-  if (value === null || value === undefined) return "";
-  const number = Number(value);
-  if (Number.isNaN(number)) return "";
-  const sign = number > 0 ? "▲" : number < 0 ? "▼" : "•";
-  return ` ${sign} ${number.toFixed(2)}%`;
-}
-
-// Map a change to a red/green direction class, so deltas read at a glance like
-// a real markets dashboard. Numbers (e.g. index chg%) are always treated as
-// deltas; strings are only colored when they carry an explicit sign (+/-/▲/▼)
-// so absolute levels like "3.10%" policy rates or index prices stay neutral.
-function deltaClass(value) {
-  let n;
-  if (typeof value === "number") {
-    n = value;
-  } else {
-    const s = String(value ?? "").trim();
-    if (!/^[+\-▲▼]/.test(s)) return "";
-    n = parseFloat(s.replace("▲", "+").replace("▼", "-"));
-  }
-  if (Number.isNaN(n) || n === 0) return "";
-  return n > 0 ? "delta-up" : "delta-down";
-}
-
-// fmtPct wrapped in a colored span for innerHTML templates.
-function pctSpan(value) {
-  const txt = fmtPct(value);
-  if (!txt) return "";
-  return `<span class="delta ${deltaClass(value)}">${txt.trim()}</span>`;
-}
-
-const HEADLINE_LIMIT = 5;
-
-const XINHUA_CATEGORY_LABELS = new Map([
-  ["要闻", { zh: "要闻", en: "Top News" }],
-  ["国内", { zh: "国内", en: "Domestic" }],
-  ["国际", { zh: "国际", en: "International" }],
-  ["财经", { zh: "财经", en: "Finance" }],
-  ["科技", { zh: "科技", en: "Technology" }],
-]);
-
-function getCategoryLabels(category) {
-  const key = (category || "").trim();
-  if (!key) {
-    return { zh: "综合", en: "News" };
-  }
-
-  const mapping = XINHUA_CATEGORY_LABELS.get(key);
-  if (mapping) {
-    return mapping;
-  }
-
-  return { zh: key, en: "News" };
-}
-
-function formatHeadlineSubtitle(count) {
-  if (count <= 0) {
-    return "No headlines available";
-  }
-  if (count === 1) {
-    return "Top headline";
-  }
-  return `Top ${count} headlines`;
-}
-
-function toMobileWeiboUrl(url) {
-  if (!url || typeof url !== "string") return url;
-  if (url.startsWith("https://m.weibo.cn/")) return url;
-
-  try {
-    const parsed = new URL(url);
-    const host = parsed.hostname.toLowerCase();
-    const isWeiboSearch =
-      (host === "s.weibo.com" || host === "weibo.com") && parsed.pathname.startsWith("/weibo");
-
-    if (!isWeiboSearch) {
-      return url;
-    }
-
-    const query = parsed.searchParams.get("q");
-    if (!query) {
-      return url;
-    }
-
-    const encoded = encodeURIComponent(`100103type=1&q=${query}`);
-    return `https://m.weibo.cn/search?containerid=${encoded}&v_p=42`;
-  } catch (error) {
-    return url;
-  }
-}
-
-function formatNewsDate(value) {
-  if (!value) return "";
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return "";
-  return date.toLocaleString("zh-CN", {
-    hour12: false,
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-    hour: "2-digit",
-    minute: "2-digit",
-  });
-}
-
-function renderWeatherStrip(container, payload) {
-  const items = Array.isArray(payload?.items) ? payload.items : [];
-  container.innerHTML = "";
-
-  if (items.length === 0) {
-    container.textContent = "Weather unavailable";
-    return;
-  }
-
-  items.forEach((item, index) => {
-    const wrapper = document.createElement("span");
-    wrapper.className = "weather-item";
-
-    const code = (item.code || item.name || "").toString().toUpperCase();
-    const temperature =
-      typeof item.temperature === "number" && Number.isFinite(item.temperature)
-        ? `${Math.round(item.temperature)}°C`
-        : "—";
-    const label = document.createElement("span");
-    label.className = "weather-label";
-    label.textContent = `${code}: ${temperature}`;
-
-    const icon = document.createElement("span");
-    icon.className = "weather-icon";
-    icon.textContent = item.icon || "•";
-    if (item.condition) {
-      icon.title = item.condition;
-      wrapper.setAttribute("aria-label", `${code}: ${temperature} ${item.condition}`);
-    } else {
-      icon.setAttribute("aria-hidden", "true");
-    }
-
-    wrapper.appendChild(label);
-    wrapper.appendChild(document.createTextNode(" "));
-    wrapper.appendChild(icon);
-
-    container.appendChild(wrapper);
-
-    if (index < items.length - 1) {
-      const divider = document.createElement("span");
-      divider.className = "weather-divider";
-      divider.textContent = "/";
-      container.appendChild(divider);
-    }
-  });
-}
-
-function setLastRefresh() {
-  const el = document.getElementById("last-refresh");
-  if (!el) {
-    return;
-  }
-
-  const now = new Date();
-  const timeString = now.toLocaleTimeString("en-US", {
-    hour12: false,
-    hour: "2-digit",
-    minute: "2-digit",
-    second: "2-digit",
-  });
-  el.textContent = `Updated ${timeString}`;
-}
-
-function formatSnapshotTimestamp(value) {
-  if (!value) {
-    return "No snapshots";
-  }
-
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) {
-    return value;
-  }
-
-  return date.toLocaleString("zh-CN", {
-    hour12: false,
-    timeZone: "Asia/Shanghai",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-    hour: "2-digit",
-    minute: "2-digit",
-    second: "2-digit",
-  });
-}
-
-class HistoryController {
-  constructor({ container, prevButton, nextButton, timestampElement, render }) {
-    this.container = container || null;
-    this.prevButton = prevButton || null;
-    this.nextButton = nextButton || null;
-    this.timestampElement = timestampElement || null;
-    this.renderEntry = typeof render === "function" ? render : () => {};
-    this.entries = [];
-    this.index = 0;
-
-    if (this.prevButton) {
-      this.prevButton.addEventListener("click", () => this.goOlder());
-    }
-
-    if (this.nextButton) {
-      this.nextButton.addEventListener("click", () => this.goNewer());
-    }
-
-    this.update();
-  }
-
-  setEntries(entries) {
-    const safeEntries = Array.isArray(entries) ? entries : [];
-    const currentAsOf = this.entries?.[this.index]?.as_of || null;
-
-    this.entries = safeEntries;
-
-    let newIndex = 0;
-    if (currentAsOf) {
-      const foundIndex = this.entries.findIndex((entry) => entry?.as_of === currentAsOf);
-      if (foundIndex >= 0) {
-        newIndex = foundIndex;
-      }
-    }
-
-    if (newIndex >= this.entries.length) {
-      newIndex = this.entries.length > 0 ? this.entries.length - 1 : 0;
-    }
-
-    this.index = newIndex;
-    this.update();
-  }
-
-  goOlder() {
-    if (this.index < this.entries.length - 1) {
-      this.index += 1;
-      this.update();
-    }
-  }
-
-  goNewer() {
-    if (this.index > 0) {
-      this.index -= 1;
-      this.update();
-    }
-  }
-
-  update() {
-    const entry = this.entries[this.index] || null;
-    // The chronologically older snapshot (entries are newest-first), so
-    // renderers can diff "what changed" since the previous capture.
-    const prevEntry = this.entries[this.index + 1] || null;
-    this.renderEntry(entry, prevEntry);
-    this.updateTimestamp(entry);
-    this.updateButtons();
-  }
-
-  updateTimestamp(entry) {
-    if (!this.timestampElement) {
-      return;
-    }
-
-    if (!entry) {
-      if (this.entries.length === 0) {
-        this.timestampElement.textContent = "No snapshots";
-        this.timestampElement.removeAttribute("title");
-      } else {
-        this.timestampElement.textContent = "—";
-        this.timestampElement.removeAttribute("title");
-      }
-      return;
-    }
-
-    const formatted = formatSnapshotTimestamp(entry.as_of);
-    this.timestampElement.textContent = formatted;
-    if (entry.as_of) {
-      this.timestampElement.setAttribute("title", entry.as_of);
-    } else {
-      this.timestampElement.removeAttribute("title");
-    }
-  }
-
-  updateButtons() {
-    const atNewest = this.index === 0;
-    const atOldest = this.index >= this.entries.length - 1;
-
-    this.setButtonState(this.nextButton, atNewest);
-    this.setButtonState(this.prevButton, atOldest);
-  }
-
-  setButtonState(button, disabled) {
-    if (!button) {
-      return;
-    }
-
-    button.disabled = disabled;
-    button.classList.toggle("is-disabled", disabled);
-
-    if (disabled) {
-      button.setAttribute("aria-disabled", "true");
-    } else {
-      button.removeAttribute("aria-disabled");
-    }
-  }
-}
-
-// Normalize a trending title for cross-snapshot matching (strip rank prefix,
-// tags and whitespace) so we can detect new entries and rank moves.
-function trendKey(title) {
-  return String(title || "")
-    .replace(/^\d+\.\s*/, "")
-    .replace(/\s*\[[^\]]*\]\s*$/, "")
-    .replace(/\s+/g, "")
-    .toLowerCase();
-}
-
-function renderTrendList(entry, listElement, { transformUrl, prevEntry } = {}) {
-  if (!listElement) {
-    return;
-  }
-
-  listElement.innerHTML = "";
-
-  const items = Array.isArray(entry?.items) ? entry.items.slice(0, 10) : [];
-
-  // Map each topic to its rank in the previous snapshot, for change badges.
-  const prevRank = new Map();
-  if (Array.isArray(prevEntry?.items)) {
-    prevEntry.items.forEach((it, i) => {
-      const k = trendKey(it?.title);
-      if (k && !prevRank.has(k)) prevRank.set(k, i + 1);
-    });
-  }
-  const hasPrev = prevRank.size > 0;
-
-  if (items.length === 0) {
-    const li = document.createElement("li");
-    li.className = "muted";
-    li.textContent = "No data available.";
-    listElement.appendChild(li);
-    return;
-  }
-
-  const transform = typeof transformUrl === "function" ? transformUrl : (value) => value;
-
-  items.forEach((item, idx) => {
-    if (!item || typeof item !== "object") {
-      return;
-    }
-
-    const li = document.createElement("li");
-    const rawTitle = typeof item.title === "string" ? item.title : String(item.title ?? "");
-    const cleanTitle = rawTitle.replace(/^\d+\.\s*/, "");
-
-    // "What changed" vs the previous snapshot: NEW entries and rank jumps.
-    let changeBadge = null;
-    if (hasPrev) {
-      const k = trendKey(rawTitle);
-      if (k && !prevRank.has(k)) {
-        changeBadge = { text: "NEW", cls: "trend-new" };
-      } else if (k) {
-        const move = prevRank.get(k) - (idx + 1);
-        if (move >= 2) changeBadge = { text: `▲${move}`, cls: "trend-up" };
-        else if (move <= -2) changeBadge = { text: `▼${-move}`, cls: "trend-down" };
-      }
-    }
-    const translation = item?.extra?.translation || "";
-    const value = item?.value || "";
-    const transformedUrl = transform(item?.url || "");
-    const href = (typeof transformedUrl === "string" && transformedUrl.trim()) ? transformedUrl : "#";
-
-    const link = document.createElement("a");
-    link.href = href;
-
-    if (href !== "#") {
-      link.target = "_blank";
-      link.rel = "noopener";
-    } else {
-      link.setAttribute("aria-disabled", "true");
-    }
-
-    if (translation) {
-      link.className = "bilingual-text";
-
-      const zh = document.createElement("div");
-      zh.className = "chinese-text";
-      zh.textContent = cleanTitle;
-
-      const en = document.createElement("div");
-      en.className = "english-text";
-      en.textContent = translation;
-
-      link.appendChild(zh);
-      link.appendChild(en);
-      li.classList.add("has-translation");
-    } else {
-      link.textContent = cleanTitle;
-    }
-
-    li.appendChild(link);
-
-    const meta = document.createElement("span");
-    meta.className = "muted";
-    meta.textContent = value;
-    if (changeBadge) {
-      const b = document.createElement("span");
-      b.className = `trend-badge ${changeBadge.cls}`;
-      b.textContent = changeBadge.text;
-      b.title = changeBadge.cls === "trend-new"
-        ? "New in this snapshot"
-        : "Moved vs the previous snapshot";
-      meta.appendChild(b);
-    }
-    li.appendChild(meta);
-
-    listElement.appendChild(li);
-  });
-}
-
-function renderXinhuaSnapshot(entry, container) {
-  if (!container) {
-    return;
-  }
-
-  container.innerHTML = "";
-
-  const categories = new Map();
-  const items = Array.isArray(entry?.items) ? entry.items : [];
-
-  items.forEach((item) => {
-    const category = item?.extra?.category || "综合";
-    if (!categories.has(category)) {
-      categories.set(category, []);
-    }
-    categories.get(category).push(item);
-  });
-
-  if (categories.size === 0) {
-    const card = document.createElement("div");
-    card.className = "card";
-    card.innerHTML = `
-      <div class="card-header">
-        <h3 class="card-title">Xinhua RSS</h3>
-        <div class="card-subtitle">Feed unavailable</div>
-      </div>
-      <div class="card-content">
-        <p class="muted">No recent items fetched.</p>
-      </div>
-    `;
-    container.appendChild(card);
-    return;
-  }
-
-  categories.forEach((categoryItems, category) => {
-    categoryItems.sort((a, b) => {
-      const aTime = new Date(a?.extra?.published ?? 0).getTime();
-      const bTime = new Date(b?.extra?.published ?? 0).getTime();
-      return bTime - aTime;
-    });
-
-    const labels = getCategoryLabels(category);
-    const limitedItems = categoryItems.slice(0, HEADLINE_LIMIT);
-
-    const card = document.createElement("div");
-    card.className = "card";
-
-    const header = document.createElement("div");
-    header.className = "card-header";
-
-    const title = document.createElement("h3");
-    title.className = "card-title card-title-bilingual";
-
-    const titleZh = document.createElement("span");
-    titleZh.className = "card-title-zh";
-    titleZh.textContent = labels.zh;
-
-    const titleEn = document.createElement("span");
-    titleEn.className = "card-title-en";
-    titleEn.textContent = labels.en;
-
-    title.appendChild(titleZh);
-    title.appendChild(titleEn);
-
-    const subtitle = document.createElement("div");
-    subtitle.className = "card-subtitle";
-    subtitle.textContent = formatHeadlineSubtitle(limitedItems.length);
-
-    header.appendChild(title);
-    header.appendChild(subtitle);
-    card.appendChild(header);
-
-    const content = document.createElement("div");
-    content.className = "card-content";
-
-    if (limitedItems.length === 0) {
-      const empty = document.createElement("p");
-      empty.className = "muted";
-      empty.textContent = "No stories available.";
-      content.appendChild(empty);
-    } else {
-      const ul = document.createElement("ul");
-      ul.className = "data-list";
-
-      limitedItems.forEach((item) => {
-        const li = document.createElement("li");
-        li.classList.add("news-item");
-
-        const link = document.createElement("a");
-        const href = (item?.url || "").trim();
-        if (href) {
-          link.href = href;
-          link.target = "_blank";
-          link.rel = "noopener";
-        } else {
-          link.href = "#";
-          link.setAttribute("aria-disabled", "true");
-        }
-
-        const rawTitle = (item?.title || "").trim() || "(无标题)";
-        const translation = item?.extra?.translation || "";
-
-        if (translation) {
-          link.className = "bilingual-text";
-
-          const zh = document.createElement("div");
-          zh.className = "chinese-text";
-          zh.textContent = rawTitle;
-
-          const en = document.createElement("div");
-          en.className = "english-text";
-          en.textContent = translation;
-
-          link.appendChild(zh);
-          link.appendChild(en);
-        } else {
-          link.textContent = rawTitle;
-        }
-
-        li.appendChild(link);
-
-        const published = formatNewsDate(item?.extra?.published);
-        if (published) {
-          const meta = document.createElement("div");
-          meta.className = "news-meta";
-          meta.textContent = `发布时间 ${published}`;
-          if (item?.extra?.source_feed) {
-            meta.setAttribute("title", item.extra.source_feed);
-          }
-          li.appendChild(meta);
-        }
-
-        const summary = (item?.extra?.summary || "").trim();
-        if (summary) {
-          const summaryEl = document.createElement("div");
-          summaryEl.className = "news-summary";
-          summaryEl.textContent = summary;
-          li.appendChild(summaryEl);
-        }
-
-        ul.appendChild(li);
-      });
-
-      content.appendChild(ul);
-    }
-
-    card.appendChild(content);
-    container.appendChild(card);
-  });
-}
-
-function entryTimestamp(entry) {
-  if (!entry || typeof entry !== "object") {
-    return 0;
-  }
-
-  const value = entry.as_of;
-  if (!value) {
-    return 0;
-  }
-
-  const ms = new Date(value).getTime();
-  if (Number.isNaN(ms)) {
-    return 0;
-  }
-
-  return ms;
-}
-
-function normaliseEntry(entry, fallbackSource) {
-  if (!entry || typeof entry !== "object") {
-    return null;
-  }
-
-  const asOf = typeof entry.as_of === "string" ? entry.as_of : "";
-
-  return {
-    as_of: asOf,
-    source: entry.source || fallbackSource || "",
-    items: Array.isArray(entry.items) ? entry.items : [],
-  };
-}
-
-function renderThepaperSnapshot(entry, container) {
-  if (!container) {
-    return;
-  }
-
-  container.innerHTML = "";
-
-  const items = Array.isArray(entry?.items) ? entry.items : [];
-
-  if (items.length === 0) {
-    const card = document.createElement("div");
-    card.className = "card";
-    card.innerHTML = `
-      <div class="card-header">
-        <h3 class="card-title">The Paper RSS</h3>
-        <div class="card-subtitle">Feed unavailable</div>
-      </div>
-      <div class="card-content">
-        <p class="muted">No recent items fetched.</p>
-      </div>
-    `;
-    container.appendChild(card);
-    return;
-  }
-
-  // Group items into three cards like Xinhua does
-  const itemsPerCard = 7;
-  const categories = [
-    { name: "最新要闻", en: "Latest News", items: items.slice(0, itemsPerCard) },
-    { name: "热点聚焦", en: "Hot Topics", items: items.slice(itemsPerCard, itemsPerCard * 2) },
-    { name: "深度报道", en: "In-Depth", items: items.slice(itemsPerCard * 2, itemsPerCard * 3) }
-  ];
-
-  categories.forEach((category) => {
-    if (category.items.length === 0) return;
-
-    const card = document.createElement("div");
-    card.className = "card";
-
-    const header = document.createElement("div");
-    header.className = "card-header";
-
-    const title = document.createElement("h3");
-    title.className = "card-title card-title-bilingual";
-
-    const titleZh = document.createElement("span");
-    titleZh.className = "card-title-zh";
-    titleZh.textContent = category.name;
-
-    const titleEn = document.createElement("span");
-    titleEn.className = "card-title-en";
-    titleEn.textContent = category.en;
-
-    title.appendChild(titleZh);
-    title.appendChild(titleEn);
-
-    const subtitle = document.createElement("div");
-    subtitle.className = "card-subtitle";
-    subtitle.textContent = formatHeadlineSubtitle(category.items.length);
-
-    header.appendChild(title);
-    header.appendChild(subtitle);
-    card.appendChild(header);
-
-    const content = document.createElement("div");
-    content.className = "card-content";
-
-    const ul = document.createElement("ul");
-    ul.className = "data-list";
-
-    category.items.forEach((item) => {
-      const li = document.createElement("li");
-      li.className = "news-item";
-
-      // Thumbnail when the source provides an https article image (LadyMax).
-      // Guarded, so sources without images render exactly as before.
-      const imageUrl = (item?.extra?.image || "").trim();
-      if (imageUrl) {
-        li.classList.add("has-thumb");
-        const thumbLink = document.createElement("a");
-        thumbLink.className = "news-thumb";
-        const thumbHref = (item?.url || "#").trim() || "#";
-        thumbLink.href = thumbHref;
-        if (thumbHref !== "#") {
-          thumbLink.target = "_blank";
-          thumbLink.rel = "noopener";
-        }
-        const img = document.createElement("img");
-        img.loading = "lazy";
-        img.src = imageUrl;
-        img.alt = "";
-        img.addEventListener("error", () => {
-          li.classList.remove("has-thumb");
-          thumbLink.remove();
-        });
-        thumbLink.appendChild(img);
-        li.appendChild(thumbLink);
-      }
-
-      const link = document.createElement("a");
-      const href = (item?.url || "").trim();
-      if (href) {
-        link.href = href;
-        link.target = "_blank";
-        link.rel = "noopener";
-      } else {
-        link.href = "#";
-        link.setAttribute("aria-disabled", "true");
-      }
-
-      const rawTitle = (item?.title || "").trim() || "(无标题)";
-      const translation = item?.extra?.translation || "";
-
-      if (translation) {
-        link.className = "bilingual-text";
-
-        const zh = document.createElement("div");
-        zh.className = "chinese-text";
-        zh.textContent = rawTitle;
-
-        const en = document.createElement("div");
-        en.className = "english-text";
-        en.textContent = translation;
-
-        link.appendChild(zh);
-        link.appendChild(en);
-      } else {
-        link.textContent = rawTitle;
-      }
-
-      li.appendChild(link);
-
-      const published = formatNewsDate(item?.extra?.published);
-      if (published) {
-        const meta = document.createElement("div");
-        meta.className = "news-meta";
-        meta.textContent = `发布时间 ${published}`;
-        if (item?.extra?.source_feed) {
-          meta.setAttribute("title", item.extra.source_feed);
-        }
-        li.appendChild(meta);
-      }
-
-      const summary = (item?.extra?.summary || "").trim();
-      if (summary && summary.length > 0) {
-        const summaryEl = document.createElement("div");
-        summaryEl.className = "news-summary";
-        // Truncate summary if too long
-        const maxLength = 150;
-        summaryEl.textContent = summary.length > maxLength
-          ? summary.substring(0, maxLength) + "..."
-          : summary;
-        li.appendChild(summaryEl);
-      }
-
-      ul.appendChild(li);
-    });
-
-    content.appendChild(ul);
-    card.appendChild(content);
-    container.appendChild(card);
-  });
-}
-
-function renderLadymaxSnapshot(entry, container) {
-  if (!container) {
-    return;
-  }
-
-  const items = Array.isArray(entry?.items) ? entry.items : [];
-
-  // Hide entire section if no data available
-  const section = container.closest('.section');
-  if (items.length === 0) {
-    if (section) {
-      section.style.display = 'none';
-    }
-    return;
-  }
-
-  // Show section if it was hidden
-  if (section) {
-    section.style.display = '';
-  }
-
-  container.innerHTML = "";
-
-  const itemsPerCard = 7;
-  const categories = [
-    { name: "时尚速递", en: "Fashion Briefing", items: items.slice(0, itemsPerCard) },
-    { name: "潮流焦点", en: "Trend Spotlight", items: items.slice(itemsPerCard, itemsPerCard * 2) },
-    { name: "行业洞察", en: "Industry Insight", items: items.slice(itemsPerCard * 2, itemsPerCard * 3) }
-  ];
-
-  categories.forEach((category) => {
-    if (category.items.length === 0) return;
-
-    const card = document.createElement("div");
-    card.className = "card";
-
-    const header = document.createElement("div");
-    header.className = "card-header";
-
-    const title = document.createElement("h3");
-    title.className = "card-title card-title-bilingual";
-
-    const titleZh = document.createElement("span");
-    titleZh.className = "card-title-zh";
-    titleZh.textContent = category.name;
-
-    const titleEn = document.createElement("span");
-    titleEn.className = "card-title-en";
-    titleEn.textContent = category.en;
-
-    title.appendChild(titleZh);
-    title.appendChild(titleEn);
-
-    const subtitle = document.createElement("div");
-    subtitle.className = "card-subtitle";
-    subtitle.textContent = formatHeadlineSubtitle(category.items.length);
-
-    header.appendChild(title);
-    header.appendChild(subtitle);
-    card.appendChild(header);
-
-    const content = document.createElement("div");
-    content.className = "card-content";
-
-    const ul = document.createElement("ul");
-    ul.className = "data-list";
-
-    category.items.forEach((item) => {
-      const li = document.createElement("li");
-      li.className = "news-item";
-
-      // Thumbnail when the source provides an https article image (LadyMax).
-      // Guarded, so sources without images render exactly as before.
-      const imageUrl = (item?.extra?.image || "").trim();
-      if (imageUrl) {
-        li.classList.add("has-thumb");
-        const thumbLink = document.createElement("a");
-        thumbLink.className = "news-thumb";
-        const thumbHref = (item?.url || "#").trim() || "#";
-        thumbLink.href = thumbHref;
-        if (thumbHref !== "#") {
-          thumbLink.target = "_blank";
-          thumbLink.rel = "noopener";
-        }
-        const img = document.createElement("img");
-        img.loading = "lazy";
-        img.src = imageUrl;
-        img.alt = "";
-        img.addEventListener("error", () => {
-          li.classList.remove("has-thumb");
-          thumbLink.remove();
-        });
-        thumbLink.appendChild(img);
-        li.appendChild(thumbLink);
-      }
-
-      const link = document.createElement("a");
-      const href = (item?.url || "").trim();
-      if (href) {
-        link.href = href;
-        link.target = "_blank";
-        link.rel = "noopener";
-      } else {
-        link.href = "#";
-        link.setAttribute("aria-disabled", "true");
-      }
-
-      const rawTitle = (item?.title || "").trim() || "(无标题)";
-      const translation = item?.extra?.translation || "";
-
-      if (translation) {
-        link.className = "bilingual-text";
-
-        const zh = document.createElement("div");
-        zh.className = "chinese-text";
-        zh.textContent = rawTitle;
-
-        const en = document.createElement("div");
-        en.className = "english-text";
-        en.textContent = translation;
-
-        link.appendChild(zh);
-        link.appendChild(en);
-      } else {
-        link.textContent = rawTitle;
-      }
-
-      li.appendChild(link);
-
-      const published = formatNewsDate(item?.extra?.published);
-      if (published) {
-        const meta = document.createElement("div");
-        meta.className = "news-meta";
-        meta.textContent = `发布时间 ${published}`;
-        if (item?.extra?.source_feed) {
-          meta.setAttribute("title", item.extra.source_feed);
-        }
-        li.appendChild(meta);
-      }
-
-      const summary = (item?.extra?.summary || "").trim();
-      if (summary && summary.length > 0) {
-        const summaryEl = document.createElement("div");
-        summaryEl.className = "news-summary";
-        const maxLength = 150;
-        summaryEl.textContent = summary.length > maxLength ? `${summary.substring(0, maxLength)}...` : summary;
-        li.appendChild(summaryEl);
-      }
-
-      ul.appendChild(li);
-    });
-
-    content.appendChild(ul);
-    card.appendChild(content);
-    container.appendChild(card);
-  });
-}
-
-async function loadHistoryEntries(latestPath, historyPath) {
-  try {
-    const historyPromise = loadJSON(historyPath).catch(() => null);
-    const latestPromise = loadJSON(latestPath).catch(() => null);
-    const [historyPayload, latestPayload] = await Promise.all([historyPromise, latestPromise]);
-
-    const entriesByKey = new Map();
-    const fallbackSource = latestPayload?.source || historyPayload?.source || "";
-
-    if (historyPayload && Array.isArray(historyPayload.entries)) {
-      historyPayload.entries.forEach((entry) => {
-        const normalised = normaliseEntry(entry, fallbackSource);
-        if (!normalised) {
-          return;
-        }
-
-        const key = normalised.as_of || `history-${entriesByKey.size}`;
-        if (!entriesByKey.has(key)) {
-          entriesByKey.set(key, normalised);
-        }
-      });
-    }
-
-    if (latestPayload) {
-      const normalisedLatest = normaliseEntry(latestPayload, fallbackSource);
-      if (normalisedLatest) {
-        const key = normalisedLatest.as_of || `latest-${entriesByKey.size}`;
-        if (!entriesByKey.has(key)) {
-          entriesByKey.set(key, normalisedLatest);
-        }
-      }
-    }
-
-    const entries = Array.from(entriesByKey.values());
-    entries.sort((a, b) => entryTimestamp(b) - entryTimestamp(a));
-    return entries;
-  } catch (error) {
-    console.error(error);
-    return [];
-  }
-}
-
-function createHistoryControllers() {
-  const controllers = {};
-
-  const baiduList = document.getElementById("baidu");
-  controllers.baidu = new HistoryController({
-    container: baiduList,
-    prevButton: document.getElementById("baidu-prev"),
-    nextButton: document.getElementById("baidu-next"),
-    timestampElement: document.getElementById("baidu-timestamp"),
-    render: (entry, prevEntry) => renderTrendList(entry, baiduList, { prevEntry }),
-  });
-
-  const weiboList = document.getElementById("weibo");
-  controllers.weibo = new HistoryController({
-    container: weiboList,
-    prevButton: document.getElementById("weibo-prev"),
-    nextButton: document.getElementById("weibo-next"),
-    timestampElement: document.getElementById("weibo-timestamp"),
-    render: (entry, prevEntry) => renderTrendList(entry, weiboList, { transformUrl: toMobileWeiboUrl, prevEntry }),
-  });
-
-  const wechatList = document.getElementById("wechat");
-  controllers.wechat = new HistoryController({
-    container: wechatList,
-    prevButton: document.getElementById("wechat-prev"),
-    nextButton: document.getElementById("wechat-next"),
-    timestampElement: document.getElementById("wechat-timestamp"),
-    render: (entry, prevEntry) => renderTrendList(entry, wechatList, { prevEntry }),
-  });
-
-  const xinhuaGrid = document.getElementById("xinhua-news");
-  controllers.xinhua = new HistoryController({
-    container: xinhuaGrid,
-    prevButton: document.getElementById("xinhua-prev"),
-    nextButton: document.getElementById("xinhua-next"),
-    timestampElement: document.getElementById("xinhua-timestamp"),
-    render: (entry) => renderXinhuaSnapshot(entry, xinhuaGrid),
-  });
-
-  const thepaperGrid = document.getElementById("thepaper-news");
-  controllers.thepaper = new HistoryController({
-    container: thepaperGrid,
-    prevButton: document.getElementById("thepaper-prev"),
-    nextButton: document.getElementById("thepaper-next"),
-    timestampElement: document.getElementById("thepaper-timestamp"),
-    render: (entry) => renderThepaperSnapshot(entry, thepaperGrid),
-  });
-
-  const ladymaxGrid = document.getElementById("ladymax-news");
-  controllers.ladymax = new HistoryController({
-    container: ladymaxGrid,
-    prevButton: document.getElementById("ladymax-prev"),
-    nextButton: document.getElementById("ladymax-next"),
-    timestampElement: document.getElementById("ladymax-timestamp"),
-    render: (entry) => renderLadymaxSnapshot(entry, ladymaxGrid),
-  });
-
-  const registryGrid = document.getElementById("registry-news");
-  controllers.registry = new HistoryController({
-    container: registryGrid,
-    prevButton: document.getElementById("registry-prev"),
-    nextButton: document.getElementById("registry-next"),
-    timestampElement: document.getElementById("registry-timestamp"),
-    render: (entry) => renderRegulatorySnapshot(entry, registryGrid),
-  });
-
-  return controllers;
-}
-
-function renderRegulatorySnapshot(entry, container) {
-  if (!container) return;
-  container.innerHTML = "";
-
-  const items = Array.isArray(entry?.items) ? entry.items : [];
-
-  if (items.length === 0) {
-    const card = document.createElement("div");
-    card.className = "card";
-    card.innerHTML = `
-      <div class="card-header">
-        <h3 class="card-title">Regulatory</h3>
-        <div class="card-subtitle">No announcements available</div>
-      </div>
-      <div class="card-content"><p class="muted">No recent items fetched.</p></div>
-    `;
-    container.appendChild(card);
-    return;
-  }
-
-  // Group by agency
-  const agencies = new Map();
-  items.forEach((item) => {
-    const agency = item?.extra?.agency || "Other";
-    if (!agencies.has(agency)) agencies.set(agency, []);
-    agencies.get(agency).push(item);
-  });
-
-  agencies.forEach((agencyItems, agency) => {
-    const agencyZh = agencyItems[0]?.extra?.agency_zh || agency;
-    const card = document.createElement("div");
-    card.className = "card";
-
-    const header = document.createElement("div");
-    header.className = "card-header";
-
-    const title = document.createElement("h3");
-    title.className = "card-title card-title-bilingual";
-
-    const titleZh = document.createElement("span");
-    titleZh.className = "card-title-zh";
-    titleZh.textContent = agencyZh;
-
-    const titleEn = document.createElement("span");
-    titleEn.className = "card-title-en";
-    titleEn.textContent = agency;
-
-    title.appendChild(titleZh);
-    title.appendChild(titleEn);
-
-    const subtitle = document.createElement("div");
-    subtitle.className = "card-subtitle";
-    subtitle.textContent = formatHeadlineSubtitle(agencyItems.length);
-
-    header.appendChild(title);
-    header.appendChild(subtitle);
-    card.appendChild(header);
-
-    const content = document.createElement("div");
-    content.className = "card-content";
-
-    const ul = document.createElement("ul");
-    ul.className = "data-list";
-
-    agencyItems.forEach((item) => {
-      const li = document.createElement("li");
-      li.className = "news-item";
-
-      const link = document.createElement("a");
-      const href = (item?.url || "").trim();
-      if (href) {
-        link.href = href;
-        link.target = "_blank";
-        link.rel = "noopener";
-      } else {
-        link.href = "#";
-        link.setAttribute("aria-disabled", "true");
-      }
-
-      const rawTitle = (item?.title || "").trim() || "(无标题)";
-      const translation = item?.extra?.translation || "";
-
-      if (translation) {
-        link.className = "bilingual-text";
-        const zh = document.createElement("div");
-        zh.className = "chinese-text";
-        zh.textContent = rawTitle;
-        const en = document.createElement("div");
-        en.className = "english-text";
-        en.textContent = translation;
-        link.appendChild(zh);
-        link.appendChild(en);
-      } else {
-        link.textContent = rawTitle;
-      }
-
-      li.appendChild(link);
-      ul.appendChild(li);
-    });
-
-    content.appendChild(ul);
-    card.appendChild(content);
-    container.appendChild(card);
-  });
-}
-
-const historyControllers = createHistoryControllers();
-
-// Sparkline: renders an inline SVG sparkline from an array of numeric values
-function sparklineSVG(values, { width = 60, height = 16, color } = {}) {
-  if (!values || values.length < 2) return '';
-  const nums = values.filter(v => typeof v === 'number' && Number.isFinite(v));
-  if (nums.length < 2) return '';
-
-  const min = Math.min(...nums);
-  const max = Math.max(...nums);
-  const range = max - min || 1;
-  const strokeColor = color || (nums[nums.length - 1] >= nums[0] ? 'var(--color-success)' : 'var(--color-error)');
-
-  const points = nums.map((v, i) => {
-    const x = (i / (nums.length - 1)) * width;
-    const y = height - ((v - min) / range) * (height - 2) - 1;
-    return `${x.toFixed(1)},${y.toFixed(1)}`;
-  }).join(' ');
-
-  return `<svg class="sparkline" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"><polyline fill="none" stroke="${strokeColor}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="${points}"/></svg>`;
-}
-
-// Extract sparkline data from history entries for a specific item title
-function extractSparklineValues(historyEntries, itemTitle) {
-  if (!Array.isArray(historyEntries)) return [];
-  const values = [];
-  // Entries are newest-first, reverse for chronological order
-  const chronological = [...historyEntries].reverse();
-  for (const entry of chronological) {
-    const items = entry?.items || [];
-    const match = items.find(i => i?.title === itemTitle);
-    if (match) {
-      const val = typeof match.value === 'number' ? match.value : parseFloat(match.value);
-      if (Number.isFinite(val)) values.push(val);
-    }
-  }
-  return values;
-}
-
-// Category filter state
-let activeCategoryFilter = 'all';
-
-function initCategoryFilter() {
-  const filterBar = document.getElementById('category-filter');
-  if (!filterBar) return;
-
-  filterBar.addEventListener('click', (e) => {
-    const btn = e.target.closest('[data-category]');
-    if (!btn) return;
-
-    activeCategoryFilter = btn.dataset.category;
-    filterBar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    applyCategoryFilter();
-  });
-}
-
-function applyCategoryFilter() {
-  const sections = document.querySelectorAll('.section[data-category]');
-  sections.forEach(section => {
-    if (activeCategoryFilter === 'all' || section.dataset.category === activeCategoryFilter) {
-      section.style.display = '';
-    } else {
-      section.style.display = 'none';
-    }
-  });
-}
-
-document.addEventListener('DOMContentLoaded', initCategoryFilter);
-
-const PLATFORM_BADGES = {
-  baidu_top: 'Baidu',
-  weibo_hot: 'Weibo',
-  tencent_wechat_hot: 'WeChat',
-  xinhua_news: 'Xinhua',
-  thepaper_news: 'The Paper',
-  gov_registry: 'Gov Registry',
+$$(".lang-toggle button").forEach(b => b.addEventListener("click", () => { LANG = b.dataset.lang; applyLang(); rerenderAll(); }));
+
+/* ---------------- pillars ---------------- */
+const PILLARS = {
+  politics:    { en: "Politics",               zh: "政治",       color: "var(--p-politics)" },
+  economy:     { en: "Economy & Markets",      zh: "经济与市场", color: "var(--p-economy)" },
+  geopolitics: { en: "International Relations", zh: "国际关系",   color: "var(--p-geopolitics)" },
+  tech:        { en: "Industry & Tech",        zh: "产业与科技", color: "var(--p-tech)" },
+  regulatory:  { en: "Regulatory",             zh: "监管",       color: "var(--p-regulatory)" },
+  society:     { en: "What's Trending",        zh: "社会热点",   color: "var(--p-society)" },
 };
+const pillarColor = (k) => (PILLARS[k]?.color || "var(--ink-3)");
+const pillarName  = (k) => (PILLARS[k] ? pick(PILLARS[k].en, PILLARS[k].zh) : k);
+const parseList = (v) => { try { return typeof v === "string" ? JSON.parse(v.replace(/'/g, '"')) : (v || []); } catch { return []; } };
+const PF = { baidu_top:"Baidu", weibo_hot:"Weibo", tencent_wechat_hot:"WeChat", xinhua_news:"Xinhua",
+  thepaper_news:"The Paper", gov_registry:"Gov", elite_press:"Elite Press", ladymax_news:"LadyMax" };
+/* pull the heat number out of noisy strings like "综艺 1974400 热度" → "1,974,400" */
+function formatHeat(v) { const m = String(v ?? "").match(/(\d[\d,]{2,})/); return m ? Number(m[1].replace(/,/g, "")).toLocaleString("en-US") : ""; }
 
-// Today's Brief — render the DeepSeek cross-source digest
-let _briefDigest = null;
-let briefLang = 'en';
-let _briefAnimated = false;
-
-// Render a single brief snapshot (live or historical). Pure: the caller
-// decides which digest object to show; history navigation reuses this.
-function renderBriefEntry(digest) {
-  const meta = document.getElementById('brief-meta');
-  if (!digest) {
-    if (meta) meta.textContent = 'Brief unavailable';
-    return;
+/* ---------------- lazy per-card history controller ---------------- */
+class HistoryNav {
+  constructor(barEl, liveSnap, histName, renderFn) {
+    this.entries = liveSnap ? [liveSnap] : [];
+    this.histName = histName; this.render = renderFn; this.i = 0; this.loaded = false; this.loading = false;
+    barEl.innerHTML = `<button class="hb-prev" aria-label="Older snapshot">‹</button><span class="hb-ts mono"></span><button class="hb-next" aria-label="Newer snapshot">›</button>`;
+    this.prev = $(".hb-prev", barEl); this.next = $(".hb-next", barEl); this.ts = $(".hb-ts", barEl);
+    this.prev.onclick = () => this.older(); this.next.onclick = () => this.newer();
+    this.show();
   }
-  try {
-    _briefDigest = digest;
-    const zh = briefLang === 'zh';
-    // Prefer the Chinese field in 中文 mode, falling back to English when absent.
-    const pick = (en, cn) => (zh ? (cn || en) : en) || '';
-    const hasCJK = (t) => /[㐀-鿿豈-﫿]/.test(t || '');
-
-    if (meta) {
-      const isLLM = (digest.generated_by || '').startsWith('deepseek');
-      const suffix = isLLM ? '' : (zh ? ' · 自动' : ' · auto');
-      meta.textContent = `${digest.time_label || ''} · ${digest.date || ''} ${digest.beijing_time || ''} CST${suffix}`;
-      meta.classList.toggle('brief-meta-degraded', !isLLM);
-      meta.title = isLLM
-        ? ''
-        : 'AI synthesis temporarily offline, showing the deterministic fallback brief.';
-    }
-
-    const headline = document.getElementById('brief-headline');
-    if (headline) headline.textContent = pick(digest.headline, digest.headline_zh);
-
-    const narrative = document.getElementById('brief-narrative');
-    if (narrative) {
-      // Snapshot mode: show only the first paragraph up front so the top
-      // stories are visible without scrolling; tuck the rest behind a toggle.
-      narrative.innerHTML = '';
-      const paras = pick(digest.narrative, digest.narrative_zh)
-        .trim().split(/\n\s*\n/).filter(Boolean);
-      if (paras.length) {
-        const lead = document.createElement('p');
-        lead.className = 'brief-para';
-        lead.textContent = paras[0];
-        narrative.appendChild(lead);
-        if (paras.length > 1) {
-          const rest = document.createElement('div');
-          rest.className = 'brief-rest';
-          rest.hidden = true;
-          paras.slice(1).forEach((p) => {
-            const el = document.createElement('p');
-            el.className = 'brief-para';
-            el.textContent = p;
-            rest.appendChild(el);
-          });
-          narrative.appendChild(rest);
-          const moreLabel = zh ? '展开全文 ▾' : 'Show full brief ▾';
-          const lessLabel = zh ? '收起 ▴' : 'Show less ▴';
-          const toggle = document.createElement('button');
-          toggle.type = 'button';
-          toggle.className = 'brief-toggle';
-          toggle.textContent = moreLabel;
-          toggle.addEventListener('click', () => {
-            const reveal = rest.hidden;
-            rest.hidden = !reveal;
-            toggle.textContent = reveal ? lessLabel : moreLabel;
-          });
-          narrative.appendChild(toggle);
-        }
-      }
-    }
-
-    const themes = document.getElementById('brief-themes');
-    if (themes) {
-      themes.innerHTML = '';
-      const trends = digest.theme_trends || {};
-      // How a theme is moving across the past week. Glyph + tooltip; monochrome
-      // so it reads as a status rather than another accent colour.
-      const TREND = {
-        new: { glyph: '✦', label: (n) => 'New this week' },
-        rising: { glyph: '↑', label: (n) => `Rising · seen ${n} day${n === 1 ? '' : 's'} this week` },
-        recurring: { glyph: '↻', label: (n) => `Recurring · seen ${n} days this week` },
-      };
-      (digest.themes || []).forEach((t) => {
-        const chip = document.createElement('button');
-        chip.type = 'button';
-        chip.className = 'brief-theme';
-        const tr = trends[t];
-        const meta = tr && TREND[tr.status];
-        const labelSpan = document.createElement('span');
-        labelSpan.textContent = t;
-        chip.appendChild(labelSpan);
-        if (meta) {
-          if (tr.status === 'new') chip.classList.add('brief-theme--new');
-          const mark = document.createElement('span');
-          mark.className = 'brief-theme-trend';
-          mark.textContent = meta.glyph;
-          mark.setAttribute('aria-hidden', 'true');
-          chip.appendChild(mark);
-          chip.title = `${meta.label(tr.days_seen)} — show stories tagged “${t}”`;
-        } else {
-          chip.title = `Show stories tagged “${t}”`;
-        }
-        chip.addEventListener('click', () => openTagView(t));
-        themes.appendChild(chip);
-      });
-    }
-
-    const stories = document.getElementById('brief-stories');
-    if (stories) {
-      stories.innerHTML = '';
-      const all = digest.top_stories || [];
-      // Stagger a gentle fade-in on the very first paint only, so language
-      // toggles and the 30s auto-refresh don't replay the animation.
-      const animate = !_briefAnimated;
-      _briefAnimated = true;
-      let revealIndex = 0;
-
-      // Render one Sinocism-style thematic block per pillar, in the order the
-      // digest declares. Fall back to a single block if no pillars are present.
-      const pillars =
-        (digest.pillars && digest.pillars.length)
-          ? digest.pillars
-          : [{ key: '__all__', label: '', label_zh: '' }];
-
-      let economyShown = false;
-      pillars.forEach((pillar) => {
-        const block =
-          pillar.key === '__all__'
-            ? all
-            : all.filter((s) => s.pillar === pillar.key);
-        if (!block.length) return;
-        if (pillar.key === 'economy') economyShown = true;
-
-        const section = document.createElement('section');
-        section.className = 'brief-block';
-
-        const labelText = pick(pillar.label, pillar.label_zh);
-        if (labelText) {
-          const head = document.createElement('div');
-          head.className = 'brief-block-head';
-          const label = document.createElement('span');
-          label.className = 'brief-block-label';
-          label.textContent = labelText;
-          head.appendChild(label);
-          // Anchor the market snapshot to the Economy block, Sinocism-style.
-          if (pillar.key === 'economy' && digest.market_snapshot) {
-            const mkt = document.createElement('span');
-            mkt.className = 'brief-block-market';
-            mkt.textContent = digest.market_snapshot;
-            head.appendChild(mkt);
-          }
-          section.appendChild(head);
-        }
-
-        const ol = document.createElement('ol');
-        ol.className = 'brief-stories';
-        block.forEach((s, idx) => {
-          const li = document.createElement('li');
-          li.className = 'brief-story';
-          // A lone or odd trailing card spans both columns so it never leaves
-          // an empty cell beside it.
-          if (idx === block.length - 1 && block.length % 2 === 1) {
-            li.classList.add('brief-story--wide');
-          }
-          if (animate) {
-            li.classList.add('brief-animate');
-            li.style.animationDelay = `${revealIndex * 45}ms`;
-          }
-          revealIndex += 1;
-
-          const title = document.createElement('div');
-          title.className = 'brief-story-title';
-          if (s.source) {
-            const src = document.createElement('span');
-            src.className = 'brief-story-source';
-            src.textContent = s.source;
-            title.appendChild(src);
-          }
-          // EN mode leads with the English title; 中文 mode leads with the
-          // original (usually Chinese) title.
-          const primary = s.primary_title || '';
-          const english = s.english_title || '';
-          const titleText = zh
-            ? (hasCJK(primary) ? primary : (english || primary))
-            : (english || primary);
-          const subtitleText = zh
-            ? (hasCJK(primary) && english && english !== titleText ? english : '')
-            : (primary && primary !== titleText && hasCJK(primary) ? primary : '');
-          if (s.url) {
-            const a = document.createElement('a');
-            a.href = s.url;
-            a.target = '_blank';
-            a.rel = 'noopener';
-            a.textContent = titleText;
-            title.appendChild(a);
-          } else {
-            const span = document.createElement('span');
-            span.textContent = titleText;
-            title.appendChild(span);
-          }
-          li.appendChild(title);
-
-          // The other language drops to a subtitle, but only when it is a
-          // genuinely different string (never an English-under-English echo).
-          if (subtitleText) {
-            const sub = document.createElement('div');
-            sub.className = 'brief-story-zh';
-            sub.textContent = subtitleText;
-            li.appendChild(sub);
-          }
-
-          const whyText = pick(s.why_it_matters, s.why_it_matters_zh);
-          if (whyText) {
-            const why = document.createElement('div');
-            why.className = 'brief-story-why';
-            why.textContent = whyText;
-            li.appendChild(why);
-          }
-
-          // Skip a pull quote that merely echoes a title (no new information).
-          const quoteText = pick(s.pull_quote, s.pull_quote_zh);
-          const normQ = quoteText.replace(/\s+/g, '').toLowerCase();
-          const echoes = [titleText, primary, english].some((t) => {
-            const n = (t || '').replace(/\s+/g, '').toLowerCase();
-            return n && normQ && (n.includes(normQ) || normQ.includes(n));
-          });
-          if (quoteText && !echoes) {
-            const quote = document.createElement('blockquote');
-            quote.className = 'brief-story-quote';
-            quote.textContent = quoteText;
-            li.appendChild(quote);
-          }
-
-          if ((s.platforms || []).length || s.platform_count > 1) {
-            const badges = document.createElement('div');
-            badges.className = 'brief-story-badges';
-            (s.platforms || []).forEach((p) => {
-              if (p === 'elite_press' || p === 'gov_registry') return;
-              const b = document.createElement('span');
-              b.className = 'brief-badge';
-              b.textContent = PLATFORM_BADGES[p] || p;
-              badges.appendChild(b);
-            });
-            if (s.platform_count > 1) {
-              const cross = document.createElement('span');
-              cross.className = 'brief-badge brief-badge-cross';
-              cross.textContent = zh
-                ? `×${s.platform_count} 个平台`
-                : `×${s.platform_count} platforms`;
-              badges.appendChild(cross);
-            }
-            if (badges.children.length) li.appendChild(badges);
-          }
-
-          ol.appendChild(li);
-        });
-        section.appendChild(ol);
-        stories.appendChild(section);
-      });
-
-      // If no Economy block surfaced this run, the market snapshot would be
-      // orphaned — show it as a standalone strip under the headline instead.
-      const marketEl = document.getElementById('brief-market');
-      if (marketEl) {
-        if (digest.market_snapshot && !economyShown) {
-          marketEl.textContent = digest.market_snapshot;
-          marketEl.hidden = false;
-        } else {
-          marketEl.hidden = true;
-        }
-      }
-    }
-  } catch (error) {
-    if (meta) meta.textContent = 'Brief unavailable';
-    console.error('Failed to render brief:', error);
+  async older() {
+    if (!this.loaded) { await this.ensure(); }
+    if (this.i < this.entries.length - 1) { this.i++; this.show(); }
+  }
+  newer() { if (this.i > 0) { this.i--; this.show(); } }
+  async ensure() {
+    if (this.loaded || this.loading || !this.histName) return;
+    this.loading = true; this.ts.textContent = "…";
+    const hist = await loadHistFile(this.histName);
+    const map = new Map(this.entries.map(e => [e.as_of, e]));
+    hist.forEach(e => { if (e.as_of && !map.has(e.as_of)) map.set(e.as_of, e); });
+    this.entries = [...map.values()].sort((a, b) => String(b.as_of).localeCompare(String(a.as_of)));
+    this.loaded = true; this.loading = false; this.show();
+  }
+  updateLive(snap) { if (snap && this.i === 0) { this.entries[0] = snap; this.loaded = false; this.show(); } }
+  show() {
+    const e = this.entries[this.i];
+    this.prev.disabled = this.loaded && this.i >= this.entries.length - 1;
+    this.next.disabled = this.i <= 0;
+    this.ts.textContent = e ? fmtTs(e.as_of) : "—";
+    this.ts.classList.toggle("past", this.i > 0);
+    if (e) this.render(e);
   }
 }
 
-// Prev/next navigation through saved briefs, reusing the same HistoryController
-// the trending cards use. Entries are newest-first full digest snapshots.
-let briefHistory = null;
+/* ---------------- sparklines ---------------- */
+function sparkline(values, { w = 56, h = 16 } = {}) {
+  const v = (values || []).filter(n => typeof n === "number" && !Number.isNaN(n));
+  if (v.length < 2) return "";
+  const min = Math.min(...v), max = Math.max(...v), span = (max - min) || 1, step = w / (v.length - 1);
+  const pts = v.map((n, i) => `${(i * step).toFixed(1)},${(h - ((n - min) / span) * h).toFixed(1)}`).join(" ");
+  const col = v[v.length - 1] >= v[0] ? "var(--up)" : "var(--down)";
+  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" fill="none" aria-hidden="true"><polyline points="${pts}" stroke="${col}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+}
+function seriesFrom(snaps, title) {
+  const out = [];
+  (snaps || []).slice().reverse().forEach(s => { const it = (s.items || []).find(i => (i.title || "") === title);
+    if (it) { const n = parseFloat(String(it.value).replace(/[^0-9.\-]/g, "")); if (!Number.isNaN(n)) out.push(n); } });
+  return out.slice(-24);
+}
 
-async function loadBriefHistory() {
-  let entries = [];
-  try {
-    const hist = await loadJSON('data/digest_history.json');
-    if (hist && Array.isArray(hist.entries)) entries = hist.entries;
-  } catch (e) {
-    // Archive index missing (e.g. first deploy): fall back to the live brief.
-  }
-  if (!entries.length) {
-    try {
-      entries = [await loadJSON('data/daily_digest.json')];
-    } catch (e) {
-      renderBriefEntry(null);
-      return;
-    }
-  }
-
-  if (!briefHistory) {
-    briefHistory = new HistoryController({
-      prevButton: document.getElementById('brief-prev'),
-      nextButton: document.getElementById('brief-next'),
-      // The brief's meta line already shows the snapshot's label/date/time,
-      // so the controller drives rendering rather than a separate timestamp.
-      timestampElement: null,
-      render: (entry) => renderBriefEntry(entry),
+/* ============================================================
+   EDITIONS (whole-brief time travel) + BRIEF
+   ============================================================ */
+let BRIEFS = [], briefIndex = 0;
+const SLOT = { morning: ["AM","早"], midday: ["MID","午"], evening: ["PM","晚"] };
+async function initBrief() {
+  let live = null; try { live = await loadLive("daily_digest.json"); } catch {}
+  BRIEFS = live ? [live] : []; briefIndex = 0;
+  buildTimeline(); renderBrief();
+}
+async function loadEditions() {        // deferred to idle
+  let hist = { entries: [] }; try { hist = await loadLive("digest_history.json"); } catch {}
+  const live = BRIEFS[0];
+  let entries = (hist.entries || []).slice();
+  if (live && !entries.some(e => e.as_of === live.as_of)) entries.unshift(live);
+  if (entries.length) { BRIEFS = entries; buildTimeline(); }
+}
+function buildTimeline() {
+  const scroll = $("#tm-scroll"); scroll.innerHTML = "";
+  const groups = {};
+  BRIEFS.forEach(e => { const d = e.date || (e.as_of || "").slice(0, 10); (groups[d] = groups[d] || []).push(e); });
+  Object.keys(groups).sort().forEach(d => {
+    const g = el("div", "vf-daygrp"); g.appendChild(el("div", "vf-daylabel", esc(d.slice(5))));
+    const slots = el("div", "vf-slots");
+    groups[d].sort((a, b) => BRIEFS.indexOf(b) - BRIEFS.indexOf(a));
+    groups[d].forEach(e => {
+      const i = BRIEFS.indexOf(e); const s = (SLOT[e.digest_type] || ["·","·"])[LANG === "zh" ? 1 : 0];
+      const btn = el("button", "vf-slot", esc(s)); btn.dataset.idx = i; btn.title = `${e.time_label || ""} · ${e.beijing_time || ""}`;
+      btn.addEventListener("click", () => { briefIndex = i; renderBrief(); syncTimeline(); });
+      slots.appendChild(btn);
     });
-  }
-  // setEntries preserves the viewer's position by as_of, so the 30s refresh
-  // won't yank someone back to "live" while they're reading an older brief.
-  briefHistory.setEntries(entries);
+    g.appendChild(slots); scroll.appendChild(g);
+  });
+  syncTimeline(); scroll.scrollLeft = scroll.scrollWidth;
 }
-
-// Copy the Markdown brief to clipboard
-async function copyDigestMarkdown(button) {
-  // Update only the text label so the leading icon survives the swap.
-  const label = button.querySelector('.brief-label') || button;
-  try {
-    const res = await fetch(`data/digest.md?t=${Date.now()}`);
-    const text = await res.text();
-    await navigator.clipboard.writeText(text);
-    label.textContent = 'Copied';
-    setTimeout(() => { label.textContent = 'Copy'; }, 1800);
-  } catch (e) {
-    console.error('Copy failed:', e);
-    label.textContent = 'Failed';
-    setTimeout(() => { label.textContent = 'Copy'; }, 1800);
-  }
+function syncTimeline() {
+  $$(".vf-slot").forEach(b => b.classList.toggle("is-active", Number(b.dataset.idx) === briefIndex));
+  $("#tm-now").classList.toggle("dim", briefIndex !== 0);
 }
+$("#tm-prev").addEventListener("click", () => { if (briefIndex < BRIEFS.length - 1) { briefIndex++; renderBrief(); syncTimeline(); } });
+$("#tm-next").addEventListener("click", () => { if (briefIndex > 0) { briefIndex--; renderBrief(); syncTimeline(); } });
+$("#tm-now").addEventListener("click", () => { briefIndex = 0; renderBrief(); syncTimeline(); });
+$("#brief-return").addEventListener("click", () => { briefIndex = 0; renderBrief(); syncTimeline(); });
 
-document.addEventListener('DOMContentLoaded', () => {
-  const copyBtn = document.getElementById('brief-copy');
-  if (copyBtn) copyBtn.addEventListener('click', () => copyDigestMarkdown(copyBtn));
-  const langBtn = document.getElementById('brief-lang');
-  if (langBtn) {
-    langBtn.addEventListener('click', () => {
-      briefLang = briefLang === 'en' ? 'zh' : 'en';
-      // The button shows the language you can switch TO.
-      langBtn.textContent = briefLang === 'en' ? '中文' : 'EN';
-      if (_briefDigest) renderBriefEntry(_briefDigest);
-    });
+function parseMarket(str) {
+  return String(str || "").split(/\s+·\s+/).map(tok => {
+    const m = tok.trim().match(/^(.*?)\s+([\d.,]+)\s*([▲▼])?\s*([\d.%-]+)?$/);
+    return m ? { name: m[1], value: m[2], arrow: m[3] || "", delta: m[4] || "" } : { name: tok.trim(), value: "", arrow: "", delta: "" };
+  }).filter(x => x.name);
+}
+function renderBrief() {
+  const d = BRIEFS[briefIndex]; if (!d) return;
+  const live = briefIndex === 0;
+  const rw = $("#brief-rewound"); rw.hidden = live;
+  if (!live) $("#brief-rewound-text").textContent = LANG === "zh"
+    ? `正在查看 ${d.date} ${(SLOT[d.digest_type]||["",""])[1]}简报存档` : `Viewing the ${d.date} ${d.time_label || ""} archive`;
+  $("#brief-stamp").textContent = `${d.time_label || ""} · ${d.date || ""} ${d.beijing_time || ""} CST`;
+  $("#brief-headline").textContent = pick(d.headline, d.headline_zh);
+
+  // hero (per-day image if the digest provides one, else the curated default)
+  const heroImg = $("#brief-hero-img"), src = d.hero_image || "assets/hero.jpg";
+  if (heroImg.getAttribute("src") !== src) heroImg.src = src;
+
+  const nar = $("#brief-narrative"); nar.innerHTML = "";
+  const paras = pick(d.narrative, d.narrative_zh).trim().split(/\n\s*\n/).filter(Boolean);
+  if (paras.length) {
+    nar.appendChild(el("p", "", esc(paras[0])));
+    if (paras.length > 1) {
+      const rest = el("div", "brief-rest"); rest.hidden = true;
+      paras.slice(1).forEach(p => rest.appendChild(el("p", "", esc(p)))); nar.appendChild(rest);
+      const more = LANG === "zh" ? "展开全文 ▾" : "Show full brief ▾", less = LANG === "zh" ? "收起 ▴" : "Show less ▴";
+      const tog = el("button", "brief-toggle", more);
+      tog.addEventListener("click", () => { const o = rest.hidden; rest.hidden = !o; tog.textContent = o ? less : more; });
+      nar.appendChild(tog);
+    }
   }
+  const th = $("#brief-themes"); th.innerHTML = "";
+  const trends = d.theme_trends || {};
+  (d.themes || []).forEach(name => {
+    const chip = el("button", "chip"); chip.appendChild(el("span", "", esc(name)));
+    const tr = trends[name]; if (tr) { const g = { new:"✦", rising:"↑", recurring:"↻" }[tr.status]; if (tr.status === "new") chip.classList.add("is-new"); if (g) chip.appendChild(el("span", "tr", g)); }
+    chip.addEventListener("click", () => openTagView(name)); th.appendChild(chip);
+  });
+  // sidebar: market snapshot
+  const mblk = $("#brief-market-blk"), mlist = $("#brief-market-list"); const mkts = parseMarket(d.market_snapshot); mlist.innerHTML = "";
+  if (mkts.length) { mblk.hidden = false; mkts.forEach(m => { const li = el("li");
+    li.appendChild(el("span", "mname", esc(m.name))); li.appendChild(el("span", "mval", esc(m.value)));
+    if (m.arrow) li.appendChild(el("span", `mdelta ${m.arrow === "▲" ? "up" : "down"}`, `${m.arrow}${esc(m.delta)}`)); mlist.appendChild(li); }); }
+  else mblk.hidden = true;
+  // sidebar: entities
+  const eblk = $("#brief-entities-blk"), ebox = $("#brief-entities"); ebox.innerHTML = ""; const ents = d.entities || [];
+  if (ents.length) { eblk.hidden = false; ents.forEach(name => { const b = el("button", "entity", esc(name)); b.addEventListener("click", () => openTagView(name)); ebox.appendChild(b); }); }
+  else eblk.hidden = true;
+
+  const wrap = $("#brief-blocks"); wrap.innerHTML = "";
+  const all = d.top_stories || [];
+  const order = (d.pillars && d.pillars.length) ? d.pillars.map(p => p.key) : Object.keys(PILLARS);
+  order.forEach(key => {
+    const block = all.filter(s => s.pillar === key); if (!block.length) return;
+    const sec = el("section", "brief-block"); const head = el("div", "block-head");
+    const dot = el("span", "block-dot"); dot.style.background = pillarColor(key); head.appendChild(dot);
+    head.appendChild(el("span", "block-title", esc(pillarName(key))));
+    head.appendChild(el("span", "block-count", `${block.length}`)); head.appendChild(el("span", "block-rule")); sec.appendChild(head);
+    const grid = el("div", "story-grid"); block.forEach(s => grid.appendChild(storyCard(s))); sec.appendChild(grid); wrap.appendChild(sec);
+  });
+}
+function storyCard(s) {
+  const card = el("article", "story"); const top = el("div", "story-top");
+  // Source badges carry the "where" — the internal salience rank is omitted (meaningless to a reader).
+  let pfs = parseList(s.platforms).map(p => PF[p] || p); if (!pfs.length) pfs = s.source ? [s.source] : (s.category ? [s.category] : []);
+  const badges = el("div", "story-platforms"); pfs.slice(0, 4).forEach(p => badges.appendChild(el("span", "pf-badge", esc(p)))); top.appendChild(badges); card.appendChild(top);
+  const zhT = s.primary_title, enT = s.english_title;
+  const primary = LANG === "zh" ? (zhT || enT) : (enT || zhT);
+  const secondary = LANG === "zh" ? (enT && enT !== primary ? enT : "") : (zhT && zhT !== primary ? zhT : "");
+  const ti = el("p", "story-title"); ti.innerHTML = s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(primary)}</a>` : esc(primary); card.appendChild(ti);
+  if (secondary) card.appendChild(el("p", "story-sub", esc(secondary)));
+  const why = pick(s.why_it_matters, s.why_it_matters_zh); if (why) card.appendChild(el("p", "story-why", esc(why)));
+  return card;
+}
+$("#brief-copy").addEventListener("click", async (e) => {
+  try { const r = await fetch(`${DATA}digest.md${bust()}`); const txt = await r.text(); await navigator.clipboard.writeText(txt);
+    const b = e.currentTarget, old = b.textContent; b.textContent = LANG === "zh" ? "已复制 ✓" : "Copied ✓"; setTimeout(() => b.textContent = old, 1500); } catch {}
 });
 
-// At-a-glance KPI bar: the state of China today in one scannable row, built
-// entirely from data already loaded for the cards below (no extra requests).
-function renderKpiStrip({ indices, fx, nbsMonthly, tradeData, propertyData }) {
-  const strip = document.getElementById("kpi-strip");
-  if (!strip) return;
-
-  const find = (payload, title) =>
-    (payload?.items || []).find((it) => (it.title || "") === title) || null;
-
-  const kpis = [];
-  const pushIndex = (payload, title, label) => {
-    const it = find(payload, title);
-    if (it) kpis.push({ label, value: it.value, delta: it.extra?.chg_pct });
-  };
-  pushIndex(indices, "SSE Composite", "Shanghai");
-  pushIndex(indices, "ChiNext", "ChiNext");
-  pushIndex(fx, "USD/CNY", "USD/CNY");
-
-  const cpi = find(nbsMonthly, "CPI YoY");
-  if (cpi) kpis.push({ label: "CPI YoY", value: cpi.value, deltaStr: cpi.value });
-  const exp = find(tradeData, "Exports YoY");
-  if (exp) kpis.push({ label: "Exports YoY", value: exp.value, deltaStr: exp.value });
-  const home = find(propertyData, "New Home Prices YoY");
-  if (home) kpis.push({ label: "Home Prices YoY", value: home.value, deltaStr: home.value });
-
-  strip.innerHTML = "";
-  kpis.forEach((k) => {
-    const cell = document.createElement("div");
-    cell.className = "kpi";
-    const label = document.createElement("span");
-    label.className = "kpi-label";
-    label.textContent = k.label;
-    const value = document.createElement("span");
-    const dcls = k.delta !== undefined ? deltaClass(k.delta) : deltaClass(k.deltaStr);
-    value.className = `kpi-value ${dcls}`;
-    value.textContent = k.value ?? "—";
-    cell.appendChild(label);
-    cell.appendChild(value);
-    if (k.delta !== undefined && k.delta !== null && k.delta !== "") {
-      const d = document.createElement("span");
-      d.className = `kpi-delta ${deltaClass(k.delta)}`;
-      d.textContent = fmtPct(k.delta).trim();
-      cell.appendChild(d);
-    }
-    strip.appendChild(cell);
-  });
+/* ============================================================
+   KPI TAPE
+   ============================================================ */
+function renderKpi(d) {
+  const strip = $("#kpitape"); strip.innerHTML = "";
+  const find = (p, title) => (p?.items || []).find(it => (it.title || "") === title) || null; const out = [];
+  const idxr = (p, title, label) => { const it = find(p, title); if (it) out.push({ label, value: it.value, delta: it.extra?.chg_pct }); };
+  idxr(d.ind, "SSE Composite", pick("Shanghai","上证")); idxr(d.ind, "ChiNext", "ChiNext"); idxr(d.fx, "USD/CNY", "USD/CNY");
+  const push = (p, title, label) => { const it = find(p, title); if (it) out.push({ label, value: it.value }); };
+  push(d.nbs, "CPI YoY", pick("CPI YoY","CPI")); push(d.trade, "Exports YoY", pick("Exports YoY","出口")); push(d.prop, "New Home Prices YoY", pick("Home Prices YoY","房价"));
+  out.forEach(k => { const cell = el("div", "kpi"); cell.appendChild(el("span", "kpi-label", esc(k.label)));
+    const dn = k.delta != null ? Number(k.delta) : parseFloat(String(k.value).replace(/[^0-9.\-]/g, ""));
+    const cls = !Number.isNaN(dn) && dn !== 0 ? (dn > 0 ? "up" : "down") : "";
+    cell.appendChild(el("span", `kpi-value ${k.delta != null ? "" : cls}`, esc(k.value ?? "—")));
+    if (k.delta != null && k.delta !== "" && !Number.isNaN(Number(k.delta))) { const n = Number(k.delta);
+      cell.appendChild(el("span", `kpi-delta ${n > 0 ? "up" : n < 0 ? "down" : ""}`, `${n > 0 ? "▲" : "▼"}${Math.abs(n).toFixed(2)}%`)); }
+    strip.appendChild(cell); });
 }
 
-async function render() {
-  try {
-    loadBriefHistory();
-
-    const [
-      indices,
-      fx,
-      indicesHistory,
-      fxHistory,
-      weather,
-      commoditiesData,
-      pbocRates,
-      nbsMonthly,
-      tradeData,
-      propertyData,
-      baiduHistory,
-      weiboHistory,
-      wechatHistory,
-      xinhuaHistory,
-      thepaperHistory,
-      ladymaxHistory,
-      registryHistory,
-    ] =
-      await Promise.all([
-        loadJSON("data/indices.json"),
-        loadJSON("data/fx.json"),
-        loadHistoryEntries("data/indices.json", "data/history/indices.json"),
-        loadHistoryEntries("data/fx.json", "data/history/fx.json"),
-        loadJSON("data/weather.json").catch(() => ({ items: [] })),
-        loadJSON("data/commodities.json").catch(() => ({ items: [] })),
-        loadJSON("data/pboc_rates.json").catch(() => ({ items: [] })),
-        loadJSON("data/nbs_monthly.json").catch(() => ({ items: [] })),
-        loadJSON("data/trade_data.json").catch(() => ({ items: [] })),
-        loadJSON("data/property.json").catch(() => ({ items: [] })),
-        loadHistoryEntries("data/baidu_top.json", "data/history/baidu_top.json"),
-        loadHistoryEntries("data/weibo_hot.json", "data/history/weibo_hot.json"),
-        loadHistoryEntries(
-          "data/tencent_wechat_hot.json",
-          "data/history/tencent_wechat_hot.json",
-        ),
-        loadHistoryEntries("data/xinhua_news.json", "data/history/xinhua_news.json"),
-        loadHistoryEntries("data/thepaper_news.json", "data/history/thepaper_news.json"),
-        loadHistoryEntries("data/ladymax_news.json", "data/history/ladymax_news.json"),
-        loadHistoryEntries("data/gov_registry.json", "data/history/gov_registry.json"),
-      ]);
-
-    renderKpiStrip({
-      indices,
-      fx,
-      nbsMonthly,
-      tradeData,
-      propertyData,
-    });
-
-    const ulIdx = document.getElementById("indices");
-    if (ulIdx) {
-      ulIdx.innerHTML = "";
-      indices.items.forEach((item) => {
-        const li = document.createElement("li");
-        const spark = sparklineSVG(extractSparklineValues(indicesHistory, item.title));
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
-          item.value ?? "—"
-        }</strong>${pctSpan(item.extra?.chg_pct)} ${spark}`;
-        ulIdx.appendChild(li);
-      });
-    }
-
-    const ulFx = document.getElementById("fx");
-    if (ulFx) {
-      ulFx.innerHTML = "";
-      fx.items.forEach((item) => {
-        const li = document.createElement("li");
-        const staleWarning = item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
-        const spark = sparklineSVG(extractSparklineValues(fxHistory, item.title));
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
-          item.value ?? "—"
-        }</strong>${pctSpan(item.extra?.chg_pct)} ${spark}${staleWarning}`;
-        ulFx.appendChild(li);
-      });
-    }
-
-    // Render commodities (China-demand proxies)
-    const ulCommodities = document.getElementById("commodities");
-    if (ulCommodities) {
-      ulCommodities.innerHTML = "";
-      (commoditiesData?.items || []).forEach((item) => {
-        const li = document.createElement("li");
-        const unit = item.extra?.unit ? ` <span class="muted">${item.extra.unit}</span>` : "";
-        li.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a> — <strong>${
-          item.value ?? "—"
-        }</strong>${unit}${pctSpan(item.extra?.chg_pct)}`;
-        ulCommodities.appendChild(li);
-      });
-    }
-
-    // Render PBOC rates
-    const ulPboc = document.getElementById("pboc-rates");
-    if (ulPboc) {
-      ulPboc.innerHTML = "";
-      pbocRates.items.forEach((item) => {
-        const li = document.createElement("li");
-        const staleWarning = item.extra?.official
-          ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
-          : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
-        const desc = item.extra?.description ? ` <span class="muted">${item.extra.description}</span>` : '';
-        const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
-        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong class="${deltaClass(item.value)}">${item.value ?? "—"}</strong>${date}${staleWarning}`;
-        ulPboc.appendChild(li);
-      });
-    }
-
-    // Render NBS monthly indicators
-    const ulNbs = document.getElementById("nbs-monthly");
-    if (ulNbs) {
-      ulNbs.innerHTML = "";
-      nbsMonthly.items.forEach((item) => {
-        const li = document.createElement("li");
-        const staleWarning = item.extra?.official
-          ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
-          : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
-        const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
-        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong class="${deltaClass(item.value)}">${item.value ?? "—"}</strong>${date}${staleWarning}`;
-        ulNbs.appendChild(li);
-      });
-    }
-
-    // Render trade data
-    const ulTrade = document.getElementById("trade-data");
-    if (ulTrade) {
-      ulTrade.innerHTML = "";
-      tradeData.items.forEach((item) => {
-        const li = document.createElement("li");
-        const staleWarning = item.extra?.official
-          ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
-          : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
-        const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
-        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong class="${deltaClass(item.value)}">${item.value ?? "—"}</strong>${date}${staleWarning}`;
-        ulTrade.appendChild(li);
-      });
-    }
-
-    // Render property data
-    const ulProperty = document.getElementById("property-data");
-    if (ulProperty) {
-      ulProperty.innerHTML = "";
-      propertyData.items.forEach((item) => {
-        const li = document.createElement("li");
-        const staleWarning = item.extra?.official
-          ? ' <span class="rate-badge" title="Standing official rate — changes only on PBOC announcement">official</span>'
-          : item.extra?.stale ? ' <span class="rate-badge cached" title="Cached — live source temporarily unavailable">cached</span>' : '';
-        const date = item.extra?.date ? ` <span class="muted">(${item.extra.date})</span>` : '';
-        li.innerHTML = `<a href="${item.url || '#'}" target="_blank" rel="noopener">${item.title}</a> — <strong class="${deltaClass(item.value)}">${item.value ?? "—"}</strong>${date}${staleWarning}`;
-        ulProperty.appendChild(li);
-      });
-    }
-
-    const weatherStrip = document.getElementById("weather-strip");
-    if (weatherStrip) {
-      renderWeatherStrip(weatherStrip, weather);
-    }
-
-    if (historyControllers.baidu) {
-      historyControllers.baidu.setEntries(baiduHistory);
-    }
-
-    if (historyControllers.weibo) {
-      historyControllers.weibo.setEntries(weiboHistory);
-    }
-
-    if (historyControllers.wechat) {
-      historyControllers.wechat.setEntries(wechatHistory);
-    }
-
-    if (historyControllers.xinhua) {
-      historyControllers.xinhua.setEntries(xinhuaHistory);
-    }
-
-    if (historyControllers.thepaper) {
-      historyControllers.thepaper.setEntries(thepaperHistory);
-    }
-
-    if (historyControllers.ladymax) {
-      historyControllers.ladymax.setEntries(ladymaxHistory);
-    }
-
-    if (historyControllers.registry) {
-      historyControllers.registry.setEntries(registryHistory);
-    }
-
-    setLastRefresh();
-
-    // Re-apply search filter after data refresh
-    if (typeof searchController !== 'undefined' && searchController.reapplySearch) {
-      searchController.reapplySearch();
-    }
-  } catch (error) {
-    console.error(error);
-  }
-}
-
-// Track last update times to enable incremental updates
-const lastUpdateTimes = {};
-
-async function checkForUpdates() {
-  try {
-    // Check if any data files have been updated
-    const checks = [
-      { key: 'indices', path: 'data/indices.json' },
-      { key: 'fx', path: 'data/fx.json' },
-      { key: 'commodities', path: 'data/commodities.json' },
-      { key: 'weather', path: 'data/weather.json' },
-      { key: 'pboc', path: 'data/pboc_rates.json' },
-      { key: 'nbs', path: 'data/nbs_monthly.json' },
-      { key: 'baidu', path: 'data/baidu_top.json' },
-      { key: 'weibo', path: 'data/weibo_hot.json' },
-      { key: 'wechat', path: 'data/tencent_wechat_hot.json' },
-      { key: 'xinhua', path: 'data/xinhua_news.json' },
-      { key: 'thepaper', path: 'data/thepaper_news.json' },
-      { key: 'ladymax', path: 'data/ladymax_news.json' },
-      { key: 'trade', path: 'data/trade_data.json' },
-      { key: 'property', path: 'data/property.json' },
-      { key: 'registry', path: 'data/gov_registry.json' }
-    ];
-
-    let hasUpdates = false;
-
-    for (const check of checks) {
-      try {
-        const response = await fetch(check.path, { method: 'HEAD' });
-        const lastModified = response.headers.get('last-modified');
-
-        if (lastModified && lastUpdateTimes[check.key] !== lastModified) {
-          lastUpdateTimes[check.key] = lastModified;
-          hasUpdates = true;
-        }
-      } catch (e) {
-        // If HEAD fails, assume update needed
-        hasUpdates = true;
-      }
-    }
-
-    if (hasUpdates || Object.keys(lastUpdateTimes).length === 0) {
-      await render();
-    }
-
-    setLastRefresh();
-  } catch (error) {
-    console.error('Update check failed:', error);
-    // Fall back to full render on error
-    await render();
-  }
-}
-
-// Health status indicator
-async function updateHealthStatus() {
-  const indicator = document.getElementById('health-indicator');
-  if (!indicator) return;
-
-  try {
-    const health = await loadJSON('data/health.json');
-    const status = health.status || 'unknown';
-    const successCount = health.success_count || 0;
-    const totalCount = health.total_count || 9;
-
-    indicator.className = `health-indicator ${status}`;
-
-    if (status === 'healthy') {
-      indicator.textContent = `${successCount}/${totalCount} OK`;
-    } else if (status === 'degraded') {
-      const failed = health.failed || [];
-      indicator.textContent = `${successCount}/${totalCount} (${failed.length} issues)`;
-      indicator.title = `Failed: ${failed.join(', ')}`;
-    } else {
-      indicator.textContent = 'Unknown';
-      indicator.className = 'health-indicator error';
-    }
-  } catch (error) {
-    indicator.textContent = 'Offline';
-    indicator.className = 'health-indicator error';
-  }
-}
-
-// ---------------------------------------------------------------------------
-// Tag index — cumulative theme → historical stories, maintained by
-// daily_digest.py (docs/data/tags_index.json). Lets the static site surface
-// past stories for a tag without a backend to query Neon at request time.
-// ---------------------------------------------------------------------------
-let tagsIndexCache = null;
-let tagsIndexPromise = null;
-
-function getTagsIndex() {
-  if (tagsIndexCache) return Promise.resolve(tagsIndexCache);
-  if (!tagsIndexPromise) {
-    tagsIndexPromise = fetch(`data/tags_index.json?t=${Date.now()}`)
-      .then((r) => (r.ok ? r.json() : null))
-      .then((d) => {
-        tagsIndexCache = d && d.tags ? d : { tags: {} };
-        return tagsIndexCache;
-      })
-      .catch(() => {
-        tagsIndexCache = { tags: {} };
-        return tagsIndexCache;
-      });
-  }
-  return tagsIndexPromise;
-}
-
-function normalizeTagKey(s) {
-  return (s || '').trim().toLowerCase().replace(/\s+/g, ' ');
-}
-
-// Normalize any story-ish record into a uniform result row.
-function toResult(rec, source) {
-  const en = rec.english_title || rec.title_en || '';
-  const zh = rec.title || rec.primary_title || '';
-  return {
-    title: en || zh || '(untitled)',
-    zh: en && zh ? zh : '',
-    url: rec.url || '',
-    date: rec.date || '',
-    source: source || rec.source || '',
-    text: `${en} ${zh}`.toLowerCase(),
-  };
-}
-
-// All archived stories, flattened and de-duplicated, for search.
-function flattenArchiveStories(index) {
-  const seen = new Set();
-  const rows = [];
-  Object.values(index?.tags || {}).forEach((t) => {
-    (t.stories || []).forEach((s) => {
-      const id = `${s.url || s.english_title || s.title}|${s.date}`;
-      if (seen.has(id)) return;
-      seen.add(id);
-      rows.push(toResult(s, t.label));
-    });
-  });
-  return rows;
-}
-
-function renderResultRow(r, tag) {
-  const row = document.createElement(r.url ? 'a' : 'div');
-  row.className = 'archive-row';
-  if (r.url) {
-    row.href = r.url;
-    row.target = '_blank';
-    row.rel = 'noopener';
-  }
-  const main = document.createElement('div');
-  main.className = 'archive-row-main';
-  const title = document.createElement('div');
-  title.className = 'archive-row-title';
-  title.textContent = r.title;
-  main.appendChild(title);
-  if (r.zh) {
-    const zh = document.createElement('div');
-    zh.className = 'archive-row-zh';
-    zh.textContent = r.zh;
-    main.appendChild(zh);
-  }
-  row.appendChild(main);
-  const meta = document.createElement('div');
-  meta.className = 'archive-row-meta';
-  meta.textContent = [tag ? r.source : null, r.date].filter(Boolean).join(' · ') ||
-    r.source;
-  row.appendChild(meta);
-  return row;
-}
-
-// ---------------------------------------------------------------------------
-// Tag view — click a brief theme chip to see its stories over time.
-// ---------------------------------------------------------------------------
-async function openTagView(tag) {
-  const banner = document.getElementById('tag-filter-banner');
-  const results = document.getElementById('tag-results');
-  if (!banner || !results) return;
-
-  const index = await getTagsIndex();
-  const entry = index.tags[normalizeTagKey(tag)];
-  const stories = (entry?.stories || []).map((s) => toResult(s, entry.label));
-
-  document.body.classList.add('tag-mode');
-
-  banner.hidden = false;
-  banner.innerHTML = '';
-  const label = document.createElement('span');
-  label.className = 'tag-banner-label';
-  label.innerHTML = `Showing <strong>${stories.length}</strong> ` +
-    `stor${stories.length === 1 ? 'y' : 'ies'} tagged “${tag}”`;
-  const close = document.createElement('button');
-  close.type = 'button';
-  close.className = 'tag-banner-close';
-  close.textContent = '✕ Clear';
-  close.addEventListener('click', closeTagView);
-  banner.appendChild(label);
-  banner.appendChild(close);
-
-  results.hidden = false;
-  results.innerHTML = '';
-  if (stories.length === 0) {
-    const empty = document.createElement('p');
-    empty.className = 'muted tag-empty';
-    empty.textContent =
-      'No archived stories for this tag yet — it fills in as the digest runs.';
-    results.appendChild(empty);
-  } else {
-    stories.forEach((s) => results.appendChild(renderResultRow(s, true)));
-  }
-
-  banner.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
-
-function closeTagView() {
-  document.body.classList.remove('tag-mode');
-  const banner = document.getElementById('tag-filter-banner');
-  const results = document.getElementById('tag-results');
-  if (banner) { banner.hidden = true; banner.innerHTML = ''; }
-  if (results) { results.hidden = true; results.innerHTML = ''; }
-}
-
-// ---------------------------------------------------------------------------
-// Search — a single ranked dropdown under the search box (live items first,
-// then the historical archive), instead of scattered in-place filtering.
-// ---------------------------------------------------------------------------
-class SearchController {
-  constructor() {
-    this.input = document.getElementById('search-input');
-    this.clearButton = document.getElementById('search-clear');
-    this.dropdown = document.getElementById('search-dropdown');
-    this.currentQuery = '';
-    this.debounceTimer = null;
-    this.activeIndex = -1;
-    this.results = [];
-
-    if (this.input) {
-      this.input.addEventListener('input', () => this.onInput());
-      this.input.addEventListener('keydown', (e) => this.onKeydown(e));
-      this.input.addEventListener('focus', () => {
-        if (this.currentQuery) this.runSearch();
-      });
-    }
-    if (this.clearButton) {
-      this.clearButton.addEventListener('click', () => this.clear());
-    }
-    document.addEventListener('click', (e) => {
-      if (this.dropdown && !this.dropdown.hidden &&
-          !this.dropdown.contains(e.target) && e.target !== this.input) {
-        this.close();
-      }
-    });
-  }
-
-  onInput() {
-    const q = this.input.value.trim();
-    this.currentQuery = q;
-    if (this.clearButton) this.clearButton.style.display = q ? 'flex' : 'none';
-    clearTimeout(this.debounceTimer);
-    this.debounceTimer = setTimeout(() => this.runSearch(), 150);
-  }
-
-  onKeydown(e) {
-    if (e.key === 'Escape') { this.clear(); return; }
-    if (!this.dropdown || this.dropdown.hidden) return;
-    if (e.key === 'ArrowDown') { e.preventDefault(); this.move(1); }
-    else if (e.key === 'ArrowUp') { e.preventDefault(); this.move(-1); }
-    else if (e.key === 'Enter') {
-      const r = this.results[this.activeIndex] || this.results[0];
-      if (r && r.url) { e.preventDefault(); window.open(r.url, '_blank', 'noopener'); }
-    }
-  }
-
-  move(delta) {
-    const n = this.results.length;
-    if (!n) return;
-    this.activeIndex = (this.activeIndex + delta + n) % n;
-    [...this.dropdown.querySelectorAll('.archive-row')].forEach((el, i) =>
-      el.classList.toggle('active', i === this.activeIndex));
-  }
-
-  // Current on-page headlines (social / news / regulatory cards).
-  collectLive() {
-    const rows = [];
-    const sel = '.section[data-category="social"] .data-list > li, ' +
-      '.section[data-category="news"] .data-list > li, ' +
-      '.section[data-category="regulatory"] .data-list > li';
-    document.querySelectorAll(sel).forEach((li) => {
-      if (li.classList.contains('muted')) return;
-      const a = li.querySelector('a');
-      const sec = li.closest('.section');
-      const source = sec?.querySelector('.section-title')?.textContent?.trim() || '';
-      // Headlines render as bilingual <a><div.chinese-text><div.english-text>;
-      // pull those out so results aren't polluted by heat counts / NEW badges.
-      const en = li.querySelector('.english-text')?.textContent?.trim() || '';
-      const zh = li.querySelector('.chinese-text')?.textContent?.trim() || '';
-      let title, zhOut, text;
-      if (en || zh) {
-        title = en || zh;
-        zhOut = en && zh ? zh : '';
-        text = `${en} ${zh}`.toLowerCase();
-      } else {
-        title = (li.textContent || '').replace(/\s+/g, ' ').trim();
-        zhOut = '';
-        text = title.toLowerCase();
-      }
-      if (!title) return;
-      rows.push({
-        title, zh: zhOut, url: a ? a.href : '',
-        date: '', source, live: true, text,
-      });
-    });
-    return rows;
-  }
-
-  async runSearch() {
-    const q = this.currentQuery.toLowerCase();
-    if (q.length < 2) { this.close(); return; }
-
-    const live = this.collectLive().filter((r) => r.text.includes(q));
-    const seen = new Set(live.map((r) => r.url || r.title));
-    const index = await getTagsIndex();
-    const archive = flattenArchiveStories(index)
-      .filter((r) => r.text.includes(q) && !seen.has(r.url || r.title))
-      .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-
-    this.results = [...live, ...archive].slice(0, 25);
-    this.activeIndex = -1;
-    this.render(live.length, archive.length);
-  }
-
-  render(liveCount, archiveCount) {
-    if (!this.dropdown) return;
-    this.dropdown.innerHTML = '';
-
-    const head = document.createElement('div');
-    head.className = 'search-dropdown-head';
-
-    if (this.results.length === 0) {
-      head.textContent = `No matches for “${this.currentQuery}”`;
-      this.dropdown.appendChild(head);
-      this.dropdown.hidden = false;
-      return;
-    }
-
-    head.textContent = `${this.results.length} result${this.results.length === 1 ? '' : 's'}` +
-      ` · ${liveCount} live · ${archiveCount} archived`;
-    this.dropdown.appendChild(head);
-
-    this.results.forEach((r, i) => {
-      const row = renderResultRow(r, false);
-      // Show "Live" for current items that have no date.
-      if (r.live) {
-        const meta = row.querySelector('.archive-row-meta');
-        if (meta) meta.textContent = [r.source, 'Live'].filter(Boolean).join(' · ');
-      }
-      row.classList.add('search-result');
-      row.addEventListener('mouseenter', () => {
-        this.activeIndex = i;
-        this.move(0);
-      });
-      this.dropdown.appendChild(row);
-    });
-    this.dropdown.hidden = false;
-  }
-
-  close() {
-    if (this.dropdown) { this.dropdown.hidden = true; this.dropdown.innerHTML = ''; }
-    this.activeIndex = -1;
-  }
-
-  clear() {
-    if (this.input) this.input.value = '';
-    this.currentQuery = '';
-    if (this.clearButton) this.clearButton.style.display = 'none';
-    this.close();
-    if (this.input) this.input.focus();
-  }
-
-  // Called after a data refresh; refresh results only if the dropdown is open.
-  reapplySearch() {
-    if (this.currentQuery && this.dropdown && !this.dropdown.hidden) {
-      this.runSearch();
-    }
-  }
-}
-
-// Data export functionality
-function downloadFile(filename, content, mimeType) {
-  const blob = new Blob([content], { type: mimeType });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = filename;
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  URL.revokeObjectURL(url);
-}
-
-async function exportData(format) {
-  const sources = [
-    { key: 'indices', path: 'data/indices.json' },
-    { key: 'fx', path: 'data/fx.json' },
-    { key: 'baidu', path: 'data/baidu_top.json' },
-    { key: 'weibo', path: 'data/weibo_hot.json' },
-    { key: 'wechat', path: 'data/tencent_wechat_hot.json' },
-    { key: 'xinhua', path: 'data/xinhua_news.json' },
-    { key: 'thepaper', path: 'data/thepaper_news.json' },
-    { key: 'ladymax', path: 'data/ladymax_news.json' },
-    { key: 'pboc_rates', path: 'data/pboc_rates.json' },
-    { key: 'nbs_monthly', path: 'data/nbs_monthly.json' },
-    { key: 'weather', path: 'data/weather.json' },
-  ];
-
-  const allData = {};
-  await Promise.all(sources.map(async ({ key, path }) => {
-    try { allData[key] = await loadJSON(path); } catch { allData[key] = null; }
+/* ============================================================
+   TRENDING — bilingual + lazy per-card history
+   ============================================================ */
+const TREND_DEFS = [["baidu_top", ["Baidu Top","百度热搜"]], ["weibo_hot", ["Weibo Hot","微博热搜"]], ["tencent_wechat_hot", ["WeChat Hot","微信热点"]]];
+let trendNavs = {};
+async function initTrending() {
+  const grid = $("#trending-grid"); grid.innerHTML = ""; trendNavs = {};
+  await Promise.all(TREND_DEFS.map(async ([key, name]) => {
+    let live = { as_of: "", items: [] }; try { live = await loadLive(`${key}.json`); } catch {}
+    const card = el("div", "card"); const head = el("div", "card-head");
+    head.appendChild(el("h3", "card-title", esc(pick(name[0], name[1])))); const bar = el("div", "histbar"); head.appendChild(bar); card.appendChild(head);
+    const ul = el("ul", "dlist"); card.appendChild(ul); grid.appendChild(card);
+    trendNavs[key] = new HistoryNav(bar, { as_of: live.as_of, items: live.items || [] }, `${key}.json`, (entry) => renderTrendList(ul, entry));
   }));
-
-  const timestamp = new Date().toISOString().slice(0, 19).replace(/[T:]/g, '-');
-
-  if (format === 'json') {
-    downloadFile(`china-snapshot-${timestamp}.json`, JSON.stringify(allData, null, 2), 'application/json');
-  } else {
-    // CSV: flatten all items across sources
-    const rows = [['source', 'as_of', 'title', 'value', 'url', 'translation', 'chg_pct']];
-    for (const [key, data] of Object.entries(allData)) {
-      if (!data?.items) continue;
-      for (const item of data.items) {
-        rows.push([
-          key,
-          data.as_of || '',
-          (item.title || '').replace(/"/g, '""'),
-          item.value ?? '',
-          item.url || '',
-          (item.extra?.translation || '').replace(/"/g, '""'),
-          item.extra?.chg_pct ?? '',
-        ]);
-      }
-    }
-    const csv = rows.map(r => r.map(v => `"${v}"`).join(',')).join('\n');
-    downloadFile(`china-snapshot-${timestamp}.csv`, csv, 'text/csv');
-  }
+}
+function renderTrendList(ul, entry) {
+  ul.innerHTML = "";
+  (entry.items || []).slice(0, 10).forEach((it, i) => {
+    const zh = String(it.title || "").replace(/^\d+\.\s*/, ""), en = it.extra?.translation || "";
+    const primary = LANG === "zh" ? zh : (en || zh), secondary = LANG === "zh" ? (en && en !== primary ? en : "") : (zh && zh !== primary ? zh : "");
+    const li = el("li"); li.appendChild(el("span", "rk", String(i + 1)));
+    const nm = el("div", "nm"); const tt = el("div", "nm-title"); tt.innerHTML = it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(primary)}</a>` : esc(primary); nm.appendChild(tt);
+    if (secondary) nm.appendChild(el("div", "nm-sub", esc(secondary))); li.appendChild(nm);
+    const heat = formatHeat(it.value); if (heat) li.appendChild(el("span", "heat", esc(heat))); ul.appendChild(li);
+  });
 }
 
-// Wire up export buttons
-document.addEventListener('DOMContentLoaded', () => {
-  const jsonBtn = document.getElementById('export-json');
-  const csvBtn = document.getElementById('export-csv');
-  if (jsonBtn) jsonBtn.addEventListener('click', () => exportData('json'));
-  if (csvBtn) csvBtn.addEventListener('click', () => exportData('csv'));
+/* ============================================================
+   PRESS + LadyMax
+   ============================================================ */
+const NEWS_DEFS = [["xinhua_news", ["Xinhua 新华社","新华社"]], ["thepaper_news", ["The Paper 澎湃","澎湃新闻"]]];
+let newsNavs = {};
+async function initNews() {
+  const grid = $("#news-grid"); grid.innerHTML = ""; newsNavs = {};
+  await Promise.all(NEWS_DEFS.map(async ([key, name]) => {
+    let live = { as_of: "", items: [] }; try { live = await loadLive(`${key}.json`); } catch {}
+    const card = el("div", "card news-card"); const head = el("div", "card-head");
+    head.appendChild(el("h3", "card-title", esc(pick(name[0], name[1])))); const bar = el("div", "histbar"); head.appendChild(bar); card.appendChild(head);
+    const body = el("div", "news-body"); card.appendChild(body); grid.appendChild(card);
+    newsNavs[key] = new HistoryNav(bar, { as_of: live.as_of, items: live.items || [] }, `${key}.json`, (entry) => renderNewsList(body, entry));
+  }));
+  let lady = { items: [] }; try { lady = await loadLive("ladymax_news.json"); } catch {}
+  window.__lady = lady; renderLadymax();
+}
+function renderNewsList(body, entry) {
+  body.innerHTML = "";
+  (entry.items || []).slice(0, 8).forEach(it => {
+    const en = it.extra?.translation || "", zh = it.title || "";
+    const primary = LANG === "zh" ? zh : (en || zh), secondary = LANG === "zh" ? (en && en !== primary ? en : "") : (zh && zh !== primary ? zh : "");
+    const n = el("div", "nitem"); if (it.extra?.category) n.appendChild(el("div", "nitem-cat", esc(it.extra.category)));
+    const ti = el("div", "nitem-title"); ti.innerHTML = it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(primary)}</a>` : esc(primary); n.appendChild(ti);
+    if (secondary) n.appendChild(el("div", "nitem-sub", esc(secondary)));
+    if (it.extra?.source_name) n.appendChild(el("div", "nitem-meta", esc(it.extra.source_name))); body.appendChild(n);
+  });
+}
+function renderLadymax() {
+  const row = $("#ladymax-row"); row.innerHTML = "";
+  (window.__lady?.items || []).filter(it => it.extra?.image).slice(0, 8).forEach(it => {
+    const en = it.extra?.translation || "", zh = it.title || "";
+    const primary = LANG === "zh" ? zh : (en || zh), secondary = LANG === "zh" ? (en && en !== primary ? en : "") : (zh && zh !== primary ? zh : "");
+    const a = el("a", "film"); a.href = it.url || "#"; a.target = "_blank"; a.rel = "noopener";
+    const img = el("img", "film-img"); img.src = it.extra.image; img.alt = ""; img.loading = "lazy"; img.addEventListener("error", () => a.remove()); a.appendChild(img);
+    const b = el("div", "film-body"); if (it.extra?.category) b.appendChild(el("div", "film-cat", esc(it.extra.category)));
+    b.appendChild(el("div", "film-title", esc(primary))); if (secondary) b.appendChild(el("div", "film-sub", esc(secondary))); a.appendChild(b); row.appendChild(a);
+  });
+}
+
+/* ============================================================
+   MARKETS + MACRO (sparklines deferred to idle)
+   ============================================================ */
+function deltaSpan(pct) { if (pct == null || pct === "") return ""; const n = Number(pct); if (Number.isNaN(n)) return "";
+  return `<span class="delta ${n > 0 ? "up" : n < 0 ? "down" : ""}">${n > 0 ? "▲" : n < 0 ? "▼" : "·"}${Math.abs(n).toFixed(2)}%</span>`; }
+function metricCard(title, items, { showDelta = true, snaps = null } = {}) {
+  const card = el("div", "card"); const head = el("div", "card-head"); head.appendChild(el("h3", "card-title", esc(title))); card.appendChild(head);
+  const ul = el("ul", "dlist");
+  (items || []).forEach(it => { const li = el("li"); const nm = el("span", "nm");
+    nm.innerHTML = it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title); li.appendChild(nm);
+    const val = el("span", "val"); const sp = snaps ? sparkline(seriesFrom(snaps, it.title)) : "";
+    const unit = it.extra?.unit ? ` <span class="heat">${esc(it.extra.unit)}</span>` : "";
+    val.innerHTML = `${sp}${esc(it.value ?? "—")}${unit}${showDelta ? deltaSpan(it.extra?.chg_pct) : ""}`; li.appendChild(val); ul.appendChild(li); });
+  card.appendChild(ul); return card;
+}
+async function initMarkets() {
+  const [ind, fx, com] = await Promise.all([loadLive("indices.json").catch(() => ({ items: [] })), loadLive("fx.json").catch(() => ({ items: [] })), loadLive("commodities.json").catch(() => ({ items: [] }))]);
+  window.__mkt = { ...(window.__mkt || {}), ind, fx, com }; renderMarkets();
+}
+async function loadMarketSparklines() {     // deferred to idle
+  const [indS, fxS] = await Promise.all([loadHistFile("indices.json"), loadHistFile("fx.json")]);
+  window.__mkt = { ...(window.__mkt || {}), indS, fxS }; renderMarkets();
+}
+function renderMarkets() {
+  const m = window.__mkt || {}; const g = $("#markets-grid"); g.innerHTML = "";
+  g.appendChild(metricCard(pick("Indices","股指"), m.ind?.items, { snaps: m.indS }));
+  g.appendChild(metricCard(pick("FX","汇率"), m.fx?.items, { snaps: m.fxS }));
+  g.appendChild(metricCard(pick("Commodities","大宗商品"), m.com?.items));
+}
+async function initMacro() {
+  const [pboc, nbs, trade, prop] = await Promise.all([loadLive("pboc_rates.json").catch(() => ({ items: [] })), loadLive("nbs_monthly.json").catch(() => ({ items: [] })), loadLive("trade_data.json").catch(() => ({ items: [] })), loadLive("property.json").catch(() => ({ items: [] }))]);
+  window.__macro = { pboc, nbs, trade, prop }; renderKpi({ ind: window.__mkt?.ind, fx: window.__mkt?.fx, nbs, trade, prop }); renderMacro();
+}
+function renderMacro() {
+  const m = window.__macro || {}; const g = $("#macro-grid"); g.innerHTML = "";
+  g.appendChild(metricCard(pick("PBOC Rates","央行利率"), m.pboc?.items, { showDelta: false }));
+  g.appendChild(metricCard(pick("Monthly · CPI/PPI/PMI","月度指标"), m.nbs?.items, { showDelta: false }));
+  g.appendChild(metricCard(pick("Trade","贸易"), m.trade?.items, { showDelta: false }));
+  g.appendChild(metricCard(pick("Property","房价"), m.prop?.items, { showDelta: false }));
+}
+
+/* ============================================================
+   PRIMARY SOURCES — pillar filter + lazy history
+   ============================================================ */
+let GOV = [], govPillar = "all";
+async function initSources() {
+  let live = { as_of: "", items: [] }; try { live = await loadLive("gov_registry.json"); } catch {}
+  GOV = live.items || []; renderPillarTabs(); renderSources();
+  new HistoryNav($("#registry-hist"), { as_of: live.as_of, items: live.items || [] }, "gov_registry.json",
+    (entry) => { GOV = entry.items || []; renderPillarTabs(); renderSources(); });
+}
+function renderPillarTabs() {
+  const counts = { all: GOV.length }; GOV.forEach(it => { const p = it.extra?.pillar || "other"; counts[p] = (counts[p] || 0) + 1; });
+  if (govPillar !== "all" && !counts[govPillar]) govPillar = "all";
+  const tabs = $("#pillar-tabs"); tabs.innerHTML = "";
+  const mk = (key, label, color) => { const b = el("button", "ptab" + (govPillar === key ? " is-active" : ""));
+    if (color) { const dot = el("span", "dot"); dot.style.background = color; b.appendChild(dot); }
+    b.appendChild(el("span", "", esc(label))); b.appendChild(el("span", "n", `${counts[key] || 0}`));
+    b.addEventListener("click", () => { govPillar = key; renderPillarTabs(); renderSources(); }); return b; };
+  tabs.appendChild(mk("all", pick("All","全部"), null));
+  Object.keys(PILLARS).forEach(k => { if (counts[k]) tabs.appendChild(mk(k, pillarName(k), pillarColor(k))); });
+}
+function renderSources() {
+  const list = $("#src-list"); list.innerHTML = "";
+  const seen = new Set();
+  GOV.filter(it => govPillar === "all" || it.extra?.pillar === govPillar)
+     .filter(it => { const k = (it.extra?.translation || it.title || "").trim().toLowerCase(); if (!k || seen.has(k)) return false; seen.add(k); return true; })
+     .slice(0, 40).forEach(it => {
+    const ex = it.extra || {}; const card = el("article", "src"); const top = el("div", "src-top");
+    const dot = el("span", "src-dot"); dot.style.background = pillarColor(ex.pillar); top.appendChild(dot);
+    top.appendChild(el("span", "src-agency", esc(pick(ex.agency, ex.agency_zh) || ex.agency || "")));
+    if (ex.pillar) top.appendChild(el("span", "src-pillar", esc(pillarName(ex.pillar)))); card.appendChild(top);
+    const en = ex.translation || "", zh = it.title || "";
+    const primary = LANG === "zh" ? zh : (en || zh), secondary = LANG === "zh" ? (en && en !== primary ? en : "") : (zh && zh !== primary ? zh : "");
+    const ti = el("p", "src-title"); ti.innerHTML = it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(primary)}</a>` : esc(primary); card.appendChild(ti);
+    if (secondary) card.appendChild(el("p", "src-sub", esc(secondary))); list.appendChild(card);
+  });
+}
+
+/* ============================================================
+   TICKER
+   ============================================================ */
+function initTicker() {
+  const items = []; const d = BRIEFS[0];
+  if (d) (d.top_stories || []).slice(0, 14).forEach(s => items.push({ text: LANG === "zh" ? (s.primary_title || s.english_title) : (s.english_title || s.primary_title), url: s.url, src: (parseList(s.platforms).map(p => PF[p] || p)[0]) || "CN" }));
+  const track = $("#ticker-content");
+  const make = () => items.forEach(it => { const a = el("a"); a.href = it.url || "#"; a.target = "_blank"; a.rel = "noopener";
+    a.innerHTML = `<span class="src">${esc(it.src)}</span><span>${esc(it.text)}</span>`; track.appendChild(a); });
+  track.innerHTML = ""; make(); make();
+}
+
+/* ============================================================
+   TAG RESULTS VIEW (surfaced from search / chips / entities)
+   ============================================================ */
+let TAGS = null;
+async function ensureTags() { if (TAGS) return TAGS; try { TAGS = (await loadLive("tags_index.json")).tags || {}; } catch { TAGS = {}; } return TAGS; }
+async function openTagView(term) {
+  await ensureTags(); const tags = TAGS || {}; const q = String(term || "").trim().toLowerCase();
+  let rec = Object.values(tags).find(tg => (tg.label || "").toLowerCase() === q) || Object.values(tags).find(tg => (tg.label || "").toLowerCase().includes(q));
+  let title = term, stories = [];
+  if (rec) { title = rec.label; stories = (rec.stories || []).slice(); }
+  if (!stories.length) {
+    const seen = new Set();
+    Object.values(tags).forEach(tg => (tg.stories || []).forEach(s => { if (`${s.title} ${s.english_title}`.toLowerCase().includes(q)) { const k = s.url || s.title; if (!seen.has(k)) { seen.add(k); stories.push(s); } } }));
+  }
+  stories.sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")));
+  renderTagView(title, stories);
+}
+function renderTagView(title, stories) {
+  $("#tagview-title").textContent = title;
+  $("#tagview-count").textContent = `${stories.length} ${LANG === "zh" ? "条" : (stories.length === 1 ? "story" : "stories")}`;
+  const list = $("#tagview-list"); list.innerHTML = "";
+  if (!stories.length) list.appendChild(el("div", "palette-empty", LANG === "zh" ? "未找到相关报道" : "No stories found"));
+  stories.forEach(s => {
+    const primary = LANG === "zh" ? (s.title || s.english_title) : (s.english_title || s.title);
+    const secondary = LANG === "zh" ? (s.english_title && s.english_title !== primary ? s.english_title : "") : (s.title && s.title !== primary ? s.title : "");
+    const row = el("article", "tvrow"); const meta = el("div", "tvrow-meta");
+    if (s.date) meta.appendChild(el("span", "tvrow-date", esc(s.date)));
+    const srcs = parseList(s.platforms).map(p => PF[p] || p); (srcs.length ? srcs : [s.category || ""]).filter(Boolean).slice(0, 3).forEach(x => meta.appendChild(el("span", "tvrow-src", esc(x))));
+    row.appendChild(meta);
+    const ti = el("p", "tvrow-title"); ti.innerHTML = s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(primary)}</a>` : esc(primary); row.appendChild(ti);
+    if (secondary) row.appendChild(el("p", "tvrow-sub", esc(secondary))); list.appendChild(row);
+  });
+  const tv = $("#tagview"); tv.hidden = false; tv.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+$("#tagview-close").addEventListener("click", () => { $("#tagview").hidden = true; });
+
+/* ============================================================
+   COMMAND PALETTE
+   ============================================================ */
+let PAL_SEL = 0, PAL_ROWS = [];
+function openPalette(prefill = "") { $("#palette").hidden = false; const q = $("#palette-q"); q.value = prefill; q.focus(); q.select(); ensureTags().then(() => runPalette(prefill)); }
+function closePalette() { $("#palette").hidden = true; }
+function runPalette(query) {
+  const q = query.trim().toLowerCase(); const res = $("#palette-results"); res.innerHTML = ""; PAL_ROWS = []; PAL_SEL = 0; const tags = TAGS || {};
+  const tagHits = Object.values(tags).filter(tg => !q || (tg.label || "").toLowerCase().includes(q)).sort((a, b) => b.count - a.count).slice(0, 6);
+  const storyHits = []; Object.values(tags).forEach(tg => (tg.stories || []).forEach(s => { if (!q || `${s.title} ${s.english_title}`.toLowerCase().includes(q)) storyHits.push(s); }));
+  const seen = new Set(); const stories = storyHits.filter(s => { const k = s.url || s.title; if (seen.has(k)) return false; seen.add(k); return true; }).slice(0, 10);
+  if (!tagHits.length && !stories.length) { res.appendChild(el("div", "palette-empty", LANG === "zh" ? "未找到结果" : "No results")); return; }
+  if (tagHits.length) { res.appendChild(el("div", "pr-group", LANG === "zh" ? "主题标签 — 查看相关报道" : "Themes & tags — show stories"));
+    tagHits.forEach(tg => addRow(res, esc(tg.label), `${tg.count} ${LANG === "zh" ? "条" : "stories"}`, "✦", () => { closePalette(); openTagView(tg.label); })); }
+  if (stories.length) { res.appendChild(el("div", "pr-group", LANG === "zh" ? "存档报道 — 打开来源" : "Archived stories — open source"));
+    stories.forEach(s => { const primary = LANG === "zh" ? (s.title || s.english_title) : (s.english_title || s.title);
+      addRow(res, esc(primary), esc(`${s.date || ""} · ${s.category || ""}`), "↗", () => { if (s.url) window.open(s.url, "_blank", "noopener"); }); }); }
+  highlightRow();
+}
+function addRow(container, title, sub, icon, onAct) {
+  const row = el("div", "pr-item"); row.appendChild(el("div", "pr-icon", icon)); const main = el("div", "pr-main");
+  main.appendChild(el("div", "pr-title", title)); if (sub) main.appendChild(el("div", "pr-sub", sub)); row.appendChild(main);
+  row.addEventListener("click", onAct); row._act = onAct; container.appendChild(row); PAL_ROWS.push(row);
+}
+function highlightRow() { PAL_ROWS.forEach((r, i) => r.classList.toggle("is-sel", i === PAL_SEL)); PAL_ROWS[PAL_SEL]?.scrollIntoView({ block: "nearest" }); }
+$("#search-trigger").addEventListener("click", () => openPalette(""));
+$("#palette").addEventListener("click", (e) => { if (e.target.id === "palette") closePalette(); });
+$("#palette-q").addEventListener("input", (e) => runPalette(e.target.value));
+$("#palette-q").addEventListener("keydown", (e) => {
+  if (e.key === "ArrowDown") { e.preventDefault(); PAL_SEL = Math.min(PAL_SEL + 1, PAL_ROWS.length - 1); highlightRow(); }
+  else if (e.key === "ArrowUp") { e.preventDefault(); PAL_SEL = Math.max(PAL_SEL - 1, 0); highlightRow(); }
+  else if (e.key === "Enter") PAL_ROWS[PAL_SEL]?._act?.();
+  else if (e.key === "Escape") closePalette();
+});
+document.addEventListener("keydown", (e) => {
+  if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") { e.preventDefault(); openPalette(""); }
+  else if (e.key === "Escape" && !$("#palette").hidden) closePalette();
+  else if (!$("#palette").hidden) return;
+  else if (e.key === "ArrowLeft" && document.activeElement === document.body) $("#tm-prev").click();
+  else if (e.key === "ArrowRight" && document.activeElement === document.body) $("#tm-next").click();
 });
 
-// Initialize search controller
-const searchController = new SearchController();
+/* ============================================================
+   chrome
+   ============================================================ */
+function initChrome() {
+  const links = $$(".navrail a"); const map = new Map(links.map(a => [a.getAttribute("href").slice(1), a]));
+  const io = new IntersectionObserver((entries) => { entries.forEach(en => { if (en.isIntersecting) { links.forEach(l => l.classList.remove("is-active")); map.get(en.target.id)?.classList.add("is-active"); } }); }, { rootMargin: "-45% 0px -50% 0px", threshold: 0 });
+  ["brief","trending","news","markets","macro","sources"].forEach(id => { const n = document.getElementById(id); if (n) io.observe(n); });
+  const top = $("#to-top"); window.addEventListener("scroll", () => { top.hidden = window.scrollY < 600; }, { passive: true });
+  top.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+}
+function setLive(ok) { $("#live-dot").classList.toggle("stale", !ok);
+  $("#live-text").textContent = ok ? new Date().toLocaleTimeString(LANG === "zh" ? "zh-CN" : "en-US", { hour: "2-digit", minute: "2-digit" }) : (LANG === "zh" ? "离线" : "stale"); }
+function rerenderAll() {
+  buildTimeline(); renderBrief();
+  Object.values(trendNavs).forEach(nav => nav.show());
+  Object.values(newsNavs).forEach(nav => nav.show());
+  renderLadymax(); renderMarkets();
+  renderKpi({ ind: window.__mkt?.ind, fx: window.__mkt?.fx, nbs: window.__macro?.nbs, trade: window.__macro?.trade, prop: window.__macro?.prop });
+  renderMacro(); renderPillarTabs(); renderSources(); initTicker();
+}
 
-// Initial render
-render().then(() => {
-  // Update ticker
-  updateTicker();
+/* light live refresh — never touches history */
+async function refreshLive() {
+  try {
+    if (briefIndex === 0) { try { const dg = await loadLive("daily_digest.json"); if (dg) { BRIEFS[0] = dg; renderBrief(); initTicker(); } } catch {} }
+    await initMarkets(); await initMacro(); setLive(true);
+  } catch { setLive(false); }
+}
 
-  // Update health status
-  updateHealthStatus();
-
-  // Visitor count (best-effort, privacy-friendly)
-  renderVisitorCount();
-
-  // After initial render, switch to incremental update checks
-  setInterval(() => {
-    checkForUpdates();
-    updateTicker();
-    updateHealthStatus();
-  }, 30_000); // Check every 30 seconds
-});
+/* ============================================================
+   BOOT
+   ============================================================ */
+async function boot() {
+  applyLang(); initChrome();
+  await Promise.all([initBrief(), initTrending(), initNews(), initMarkets(), initSources()]);
+  await initMacro(); initTicker(); setLive(true);
+  idle(loadMarketSparklines);   // sparklines after first paint
+  idle(loadEditions);           // editions strip after first paint
+  setInterval(refreshLive, 90000);
+}
+boot();

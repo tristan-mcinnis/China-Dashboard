@@ -1,345 +1,209 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CHINA SNAPSHOT Dashboard</title>
+  <title>China Snapshot · 中国快照</title>
+  <meta name="description" content="A real-time, bilingual intelligence brief on China — synthesized daily, drawn straight from its own platforms, with a viewfinder to rewind through every past edition." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <!-- News Ticker -->
-  <div class="ticker-wrapper">
+  <!-- ============ TICKER (very top) ============ -->
+  <div class="ticker-wrapper" id="ticker">
     <div class="ticker-label">LIVE</div>
-    <div class="ticker-track">
-      <div class="ticker-content" id="ticker-content">
-        <span class="ticker-loading">Loading headlines...</span>
+    <div class="ticker-track"><div class="ticker-content" id="ticker-content"></div></div>
+  </div>
+
+  <!-- ============ MASTHEAD ============ -->
+  <header class="masthead" id="masthead">
+    <div class="masthead-inner">
+      <a class="brand" href="#top" aria-label="China Snapshot">
+        <img src="./logo/white_logo.png" alt="China Snapshot" class="brand-logo">
+      </a>
+
+      <nav class="navrail" id="navrail" aria-label="Sections">
+        <a href="#brief"    data-i18n="nav.brief">Brief</a>
+        <a href="#trending" data-i18n="nav.trending">Trending</a>
+        <a href="#news"     data-i18n="nav.news">Press</a>
+        <a href="#markets"  data-i18n="nav.markets">Markets</a>
+        <a href="#macro"    data-i18n="nav.macro">Macro</a>
+        <a href="#sources"  data-i18n="nav.sources">Sources</a>
+      </nav>
+
+      <div class="masthead-tools">
+        <button class="search-trigger" id="search-trigger" aria-label="Search (Cmd or Ctrl + K)">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+          <span data-i18n="search.placeholder">Search</span>
+          <kbd>⌘K</kbd>
+        </button>
+        <div class="lang-toggle" role="group" aria-label="Language">
+          <button data-lang="en" class="is-active">EN</button>
+          <button data-lang="zh">中</button>
+        </div>
+        <div class="livestat" title="Auto-refreshing">
+          <span class="livestat-dot" id="live-dot"></span>
+          <span class="livestat-text mono" id="live-text">live</span>
+        </div>
+      </div>
+    </div>
+    <!-- KPI tape -->
+    <div class="kpitape" id="kpitape" aria-live="polite"></div>
+  </header>
+
+  <a id="top"></a>
+  <main class="page">
+
+    <!-- ============ VIEWFINDER / EDITIONS ============ -->
+    <section class="viewfinder" id="timemachine" aria-label="Edition timeline">
+      <span class="vf-label mono"><span class="only-en">EDITIONS</span><span class="only-zh">往期</span></span>
+      <button class="vf-arrow" id="tm-prev" aria-label="Older edition">‹</button>
+      <div class="vf-strip" id="tm-scroll" role="listbox" aria-label="Past editions"></div>
+      <button class="vf-arrow" id="tm-next" aria-label="Newer edition">›</button>
+      <button class="vf-now mono" id="tm-now" data-i18n="tm.live">● LIVE</button>
+    </section>
+
+    <!-- ============ TAG RESULTS (surfaced from search / chips) ============ -->
+    <section class="tagview" id="tagview" hidden>
+      <div class="tagview-head">
+        <span class="kicker"><span class="only-en">Tagged</span><span class="only-zh">标签</span></span>
+        <h2 class="tagview-title" id="tagview-title"></h2>
+        <span class="tagview-count mono" id="tagview-count"></span>
+        <span class="grow"></span>
+        <button class="ghost" id="tagview-close">✕</button>
+      </div>
+      <div class="tagview-list" id="tagview-list"></div>
+    </section>
+
+    <!-- ============ BRIEF ============ -->
+    <section class="section brief" id="brief">
+      <div class="brief-rewound" id="brief-rewound" hidden>
+        <span id="brief-rewound-text"></span>
+        <button id="brief-return" data-i18n="tm.return">Return to live ›</button>
+      </div>
+
+      <div class="frame brief-frame">
+        <div class="brief-top">
+          <span class="kicker" data-i18n="brief.kicker">Today's Brief</span>
+          <span class="brief-stamp mono" id="brief-stamp"></span>
+          <span class="grow"></span>
+          <a class="ghost" id="brief-md" href="./data/digest.md" target="_blank" rel="noopener">.md</a>
+          <a class="ghost" id="brief-json" href="./data/daily_digest.json" target="_blank" rel="noopener">.json</a>
+          <button class="ghost" id="brief-copy" data-i18n="brief.copy">Copy</button>
+        </div>
+        <h1 class="brief-headline" id="brief-headline"></h1>
+        <div class="brief-body">
+          <div class="brief-main">
+            <div class="brief-narrative" id="brief-narrative"></div>
+            <div class="chips" id="brief-themes"></div>
+          </div>
+          <aside class="brief-aside">
+            <figure class="brief-hero" id="brief-hero">
+              <img id="brief-hero-img" alt="" loading="lazy">
+            </figure>
+            <div class="aside-blk" id="brief-market-blk" hidden>
+              <div class="aside-kicker mono"><span class="only-en">Market Snapshot</span><span class="only-zh">市场快照</span></div>
+              <ul class="aside-mkt mono" id="brief-market-list"></ul>
+            </div>
+            <div class="aside-blk" id="brief-entities-blk" hidden>
+              <div class="aside-kicker mono"><span class="only-en">Key Entities</span><span class="only-zh">关键主体</span></div>
+              <div class="aside-entities" id="brief-entities"></div>
+            </div>
+          </aside>
+        </div>
+      </div>
+
+      <div class="brief-blocks" id="brief-blocks"></div>
+    </section>
+
+    <!-- ============ TRENDING ============ -->
+    <section class="section" id="trending">
+      <div class="sec-head">
+        <h2 class="sec-title"><span data-i18n="sec.trending">Trending &amp; Search</span></h2>
+        <p class="sec-sub" data-i18n="sec.trending.sub">What China is searching and arguing about right now</p>
+      </div>
+      <div class="grid grid-3" id="trending-grid"></div>
+    </section>
+
+    <!-- ============ PRESS ============ -->
+    <section class="section" id="news">
+      <div class="sec-head">
+        <h2 class="sec-title"><span data-i18n="sec.news">State &amp; Domestic Press</span></h2>
+        <p class="sec-sub" data-i18n="sec.news.sub">Bilingual headlines from Xinhua and The Paper</p>
+      </div>
+      <div class="grid grid-2" id="news-grid"></div>
+
+      <div class="subhead">
+        <span class="kicker"><span class="only-en">Fashion · Business</span><span class="only-zh">时尚 · 商业</span></span>
+        <span class="subhead-name mono">LadyMax 时尚头条网</span>
+      </div>
+      <div class="filmrow" id="ladymax-row"></div>
+    </section>
+
+    <!-- ============ MARKETS ============ -->
+    <section class="section" id="markets">
+      <div class="sec-head">
+        <h2 class="sec-title"><span data-i18n="sec.markets">Markets &amp; FX</span></h2>
+        <p class="sec-sub" data-i18n="sec.markets.sub">Indices, currencies and China-demand commodities</p>
+      </div>
+      <div class="grid grid-3" id="markets-grid"></div>
+    </section>
+
+    <!-- ============ MACRO ============ -->
+    <section class="section" id="macro">
+      <div class="sec-head">
+        <h2 class="sec-title"><span data-i18n="sec.macro">Macro &amp; Policy</span></h2>
+        <p class="sec-sub" data-i18n="sec.macro.sub">Rates, prices and the real-economy pulse</p>
+      </div>
+      <div class="grid grid-4" id="macro-grid"></div>
+    </section>
+
+    <!-- ============ PRIMARY SOURCES ============ -->
+    <section class="section" id="sources">
+      <div class="sec-head">
+        <h2 class="sec-title"><span data-i18n="sec.sources">Primary Sources</span></h2>
+        <p class="sec-sub" data-i18n="sec.sources.sub">Ministries, regulators and diplomacy — straight from the wire</p>
+        <span class="grow"></span>
+        <div class="histbar" id="registry-hist"></div>
+      </div>
+      <div class="pillar-tabs" id="pillar-tabs"></div>
+      <div class="src-list" id="src-list"></div>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-about">
+        <p data-i18n="about.body">Built by Tristan McInnis to read China the way it reads itself — in real time, on its own platforms. Most coverage reaches you second-hand and a day late; this pulls straight from the source.</p>
+        <a href="mailto:tristan.mcinnis@gmail.com" data-i18n="about.contact">Email me</a>
+      </div>
+      <p class="footer-fine" data-i18n="footer.fine">Information provided “as is” for general informational purposes only. 本仪表板信息仅按“原样”提供，供一般参考。</p>
+    </footer>
+  </main>
+
+  <button class="to-top" id="to-top" aria-label="Back to top" hidden>↑</button>
+
+  <!-- ============ COMMAND PALETTE ============ -->
+  <div class="palette-scrim" id="palette" hidden>
+    <div class="palette" role="dialog" aria-modal="true" aria-label="Search archive and tags">
+      <div class="palette-input">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="text" id="palette-q" placeholder="Search briefs, stories, tags…  搜索" autocomplete="off" spellcheck="false">
+        <kbd>esc</kbd>
+      </div>
+      <div class="palette-results" id="palette-results"></div>
+      <div class="palette-foot mono">
+        <span><kbd>↑</kbd><kbd>↓</kbd> navigate</span>
+        <span><kbd>↵</kbd> open</span>
+        <span><kbd>esc</kbd> close</span>
       </div>
     </div>
   </div>
 
-  <div class="container">
-    <header class="header">
-      <div class="header-content">
-        <div class="brand">
-          <div class="brand-logo">
-            <img id="logo-image" src="logo/white_logo.png" alt="China Snapshot" class="logo">
-          </div>
-        </div>
-        <div class="header-right">
-          <div class="search-container">
-            <input type="text" id="search-input" class="search-input" placeholder="Search articles &amp; archive…" aria-label="Search articles" autocomplete="off">
-            <button id="search-clear" class="search-clear" aria-label="Clear search" style="display: none;">×</button>
-            <div id="search-dropdown" class="search-dropdown" role="listbox" hidden></div>
-          </div>
-          <div class="status">
-            <span id="health-indicator" class="health-indicator healthy" aria-live="polite">Checking...</span>
-            <div class="status-indicator">
-              <div class="status-dot"></div>
-              <span id="last-refresh" class="status-text">Loading...</span>
-            </div>
-            <div id="weather-strip" class="weather-strip" aria-live="polite">Loading weather…</div>
-          </div>
-        </div>
-      </div>
-    </header>
+  <script src="app.js"></script>
 
-    <main class="main">
-      <!-- At-a-glance KPI strip: the state of China today in one scannable row -->
-      <div class="kpi-strip" id="kpi-strip" aria-live="polite"></div>
-
-      <!-- Today's Brief: cross-source synthesis -->
-      <section class="brief" id="brief" aria-live="polite">
-        <div class="brief-header">
-          <div class="brief-title-row">
-            <h2 class="brief-title">Today's Brief</h2>
-            <div class="brief-history" aria-live="polite">
-              <button type="button" class="history-button" id="brief-prev" aria-label="Older brief" title="Older brief">‹</button>
-              <span class="brief-meta" id="brief-meta">Synthesizing…</span>
-              <button type="button" class="history-button" id="brief-next" aria-label="Newer brief" title="Newer brief">›</button>
-            </div>
-          </div>
-          <div class="brief-actions">
-            <button type="button" class="brief-lang" id="brief-lang" title="Read the brief in Chinese" aria-label="Switch brief language">中文</button>
-            <div class="brief-export" role="group" aria-label="Export today's brief">
-              <button type="button" class="brief-action" id="brief-copy" title="Copy the Markdown brief to your clipboard">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="8" y="2" width="8" height="4" rx="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/></svg>
-                <span class="brief-label">Copy</span>
-              </button>
-              <a class="brief-action" id="brief-md-link" href="data/digest.md" target="_blank" rel="noopener" title="Open the raw Markdown brief in a new tab">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
-                <span class="brief-label">.md</span>
-              </a>
-              <a class="brief-action" id="brief-json-link" href="data/daily_digest.json" target="_blank" rel="noopener" title="Open the raw JSON feed in a new tab">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
-                <span class="brief-label">.json</span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <p class="brief-headline" id="brief-headline"></p>
-        <p class="brief-market" id="brief-market" hidden></p>
-        <p class="brief-narrative" id="brief-narrative"></p>
-        <div class="brief-themes" id="brief-themes"></div>
-        <div class="brief-blocks" id="brief-stories"></div>
-      </section>
-
-      <div id="category-filter" class="category-filter">
-        <button class="filter-btn active" data-category="all">All</button>
-        <button class="filter-btn" data-category="social">Social</button>
-        <button class="filter-btn" data-category="news">News</button>
-        <button class="filter-btn" data-category="markets">Markets</button>
-        <button class="filter-btn" data-category="macro">Macro</button>
-        <button class="filter-btn" data-category="regulatory">Regulatory</button>
-      </div>
-
-      <!-- Active tag filter banner + historical stories for the clicked tag -->
-      <div id="tag-filter-banner" class="tag-filter-banner" aria-live="polite" hidden></div>
-      <div id="tag-results" class="tag-results" hidden></div>
-
-      <section class="section" data-category="social">
-        <div class="section-header">
-          <h2 class="section-title">Social & Search</h2>
-          <div class="section-subtitle">Trending topics and discussions</div>
-        </div>
-        <div class="grid-3">
-          <div class="card">
-            <div class="card-header card-header-with-history">
-              <div class="card-header-text">
-                <h3 class="card-title">Baidu Top</h3>
-                <div class="card-subtitle">Most searched topics</div>
-              </div>
-              <div class="history-bar history-bar-inline" aria-live="polite">
-                <button type="button" class="history-button" id="baidu-prev" aria-label="Previous Baidu snapshot">‹</button>
-                <span class="history-meta" id="baidu-timestamp">No snapshots</span>
-                <button type="button" class="history-button" id="baidu-next" aria-label="Next Baidu snapshot">›</button>
-              </div>
-            </div>
-            <div class="card-content">
-              <ol id="baidu" class="data-list numbered"></ol>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header card-header-with-history">
-              <div class="card-header-text">
-                <h3 class="card-title">Weibo Hot</h3>
-                <div class="card-subtitle">Trending social discussions</div>
-              </div>
-              <div class="history-bar history-bar-inline" aria-live="polite">
-                <button type="button" class="history-button" id="weibo-prev" aria-label="Previous Weibo snapshot">‹</button>
-                <span class="history-meta" id="weibo-timestamp">No snapshots</span>
-                <button type="button" class="history-button" id="weibo-next" aria-label="Next Weibo snapshot">›</button>
-              </div>
-            </div>
-            <div class="card-content">
-              <ol id="weibo" class="data-list numbered"></ol>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header card-header-with-history">
-              <div class="card-header-text">
-                <h3 class="card-title">WeChat Hot</h3>
-                <div class="card-subtitle">Trending WeChat topics</div>
-              </div>
-              <div class="history-bar history-bar-inline" aria-live="polite">
-                <button type="button" class="history-button" id="wechat-prev" aria-label="Previous WeChat snapshot">‹</button>
-                <span class="history-meta" id="wechat-timestamp">No snapshots</span>
-                <button type="button" class="history-button" id="wechat-next" aria-label="Next WeChat snapshot">›</button>
-              </div>
-            </div>
-            <div class="card-content">
-              <ol id="wechat" class="data-list numbered"></ol>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" data-category="news">
-        <div class="section-header section-header-with-history">
-          <div class="section-header-text">
-            <h2 class="section-title">Xinhua News RSS</h2>
-            <div class="section-subtitle">Up to five headlines per category with bilingual titles</div>
-          </div>
-          <div class="history-bar history-bar-inline" aria-live="polite">
-            <button type="button" class="history-button" id="xinhua-prev" aria-label="Previous Xinhua snapshot">‹</button>
-            <span class="history-meta" id="xinhua-timestamp">No snapshots</span>
-            <button type="button" class="history-button" id="xinhua-next" aria-label="Next Xinhua snapshot">›</button>
-          </div>
-        </div>
-        <div id="xinhua-news" class="grid-3" aria-live="polite"></div>
-      </section>
-
-      <section class="section" data-category="news">
-        <div class="section-header section-header-with-history">
-          <div class="section-header-text">
-            <h2 class="section-title">The Paper (澎湃新闻) RSS</h2>
-            <div class="section-subtitle">Latest headlines with bilingual titles</div>
-          </div>
-          <div class="history-bar history-bar-inline" aria-live="polite">
-            <button type="button" class="history-button" id="thepaper-prev" aria-label="Previous The Paper snapshot">‹</button>
-            <span class="history-meta" id="thepaper-timestamp">No snapshots</span>
-            <button type="button" class="history-button" id="thepaper-next" aria-label="Next The Paper snapshot">›</button>
-          </div>
-        </div>
-        <div id="thepaper-news" class="grid-3" aria-live="polite"></div>
-      </section>
-
-      <section class="section" data-category="news">
-        <div class="section-header section-header-with-history">
-          <div class="section-header-text">
-            <h2 class="section-title">LadyMax (时尚头条网)</h2>
-            <div class="section-subtitle">Fashion business headlines with bilingual titles</div>
-          </div>
-          <div class="history-bar history-bar-inline" aria-live="polite">
-            <button type="button" class="history-button" id="ladymax-prev" aria-label="Previous LadyMax snapshot">‹</button>
-            <span class="history-meta" id="ladymax-timestamp">No snapshots</span>
-            <button type="button" class="history-button" id="ladymax-next" aria-label="Next LadyMax snapshot">›</button>
-          </div>
-        </div>
-        <div id="ladymax-news" class="grid-3" aria-live="polite"></div>
-      </section>
-
-      <section class="section" data-category="markets">
-        <div class="section-header">
-          <h2 class="section-title">Markets &amp; FX</h2>
-          <div class="section-subtitle">Real-time financial indicators</div>
-        </div>
-        <div class="grid-2">
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">Indices</h3>
-              <div class="card-subtitle">Shanghai &amp; Shenzhen markets</div>
-            </div>
-            <div class="card-content">
-              <ul id="indices" class="data-list"></ul>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">FX</h3>
-              <div class="card-subtitle">Currency exchange rates</div>
-            </div>
-            <div class="card-content">
-              <ul id="fx" class="data-list"></ul>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">Commodities</h3>
-              <div class="card-subtitle">China-demand proxies (iron ore, copper, crude, gold)</div>
-            </div>
-            <div class="card-content">
-              <ul id="commodities" class="data-list"></ul>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" data-category="macro">
-        <div class="section-header">
-          <h2 class="section-title">Macro Indicators</h2>
-          <div class="section-subtitle">Key economic and policy rates</div>
-        </div>
-        <div class="grid-4">
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">PBOC Policy Rates</h3>
-              <div class="card-subtitle">LPR, MLF, RRR</div>
-            </div>
-            <div class="card-content">
-              <ul id="pboc-rates" class="data-list"></ul>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">Monthly Indicators</h3>
-              <div class="card-subtitle">CPI, PPI, PMI</div>
-            </div>
-            <div class="card-content">
-              <ul id="nbs-monthly" class="data-list"></ul>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">Trade</h3>
-              <div class="card-subtitle">Imports, exports, trade balance</div>
-            </div>
-            <div class="card-content">
-              <ul id="trade-data" class="data-list"></ul>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">Property</h3>
-              <div class="card-subtitle">70-city home price index</div>
-            </div>
-            <div class="card-content">
-              <ul id="property-data" class="data-list"></ul>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" data-category="regulatory">
-        <div class="section-header section-header-with-history">
-          <div class="section-header-text">
-            <h2 class="section-title">Primary Sources (Ministries · Regulators · Diplomacy)</h2>
-            <div class="section-subtitle">Registry of 14 ministry/regulator channels (MOFCOM · MFA · Taiwan Affairs · PBOC · MOF · CSRC · CAC · NDRC · NEA · MCA · CIPS · SAFE …) + US Federal Register, bilingual &amp; pillar-tagged</div>
-          </div>
-          <div class="history-bar history-bar-inline" aria-live="polite">
-            <button type="button" class="history-button" id="registry-prev" aria-label="Previous primary-source snapshot">‹</button>
-            <span class="history-meta" id="registry-timestamp">No snapshots</span>
-            <button type="button" class="history-button" id="registry-next" aria-label="Next primary-source snapshot">›</button>
-          </div>
-        </div>
-        <div id="registry-news" class="grid-3" aria-live="polite"></div>
-      </section>
-
-    </main>
-
-    <footer class="footer" id="about" aria-label="About this dashboard">
-      <div class="about-me">
-        <h2 class="about-title">About me</h2>
-        <div class="about-body">
-          <p>I'm Tristan McInnis, and I built China Snapshot to read China the way it reads itself: in real time, on its own platforms. Most China coverage reaches you second-hand and a day late. This one pulls straight from the source, so you can see what state media is pushing, what people are arguing about online, and where markets and policy are moving.</p>
-          <p>I grew up in Hong Kong, studied Public Policy at Peking University, and have been in Shanghai since 2013, where I'm Managing Partner at Inner Chapter. Watching the country change from the ground, not from a feed, is what got me into this work. It still shapes how I read every signal here.</p>
-          <p class="about-contact">Questions or feedback? <a href="mailto:tristan.mcinnis@gmail.com">Email me</a>.</p>
-        </div>
-      </div>
-      <div class="footer-content">
-        <div class="footer-left">
-          <span class="footer-text">Powered by GitHub Actions</span>
-          <span class="footer-sep">·</span>
-          <a class="footer-link" href="mailto:tristan.mcinnis@gmail.com">Contact</a>
-          <span class="footer-sep">·</span>
-          <a class="footer-link" href="data/endpoints.json" target="_blank" rel="noopener" title="Machine-readable list of all feeds — pull this data into your own dashboard">Data API</a>
-          <span class="footer-sep">·</span>
-          <div class="export-bar">
-            <button class="export-btn" id="export-json">Export JSON</button>
-            <button class="export-btn" id="export-csv">Export CSV</button>
-          </div>
-        </div>
-        <div class="footer-right">
-          <span id="visitor-count" class="footer-text visitor-count" aria-live="polite"></span>
-          <span class="footer-text">Auto-refreshing every 30s</span>
-        </div>
-      </div>
-      <p class="footer-disclaimer">Information on this dashboard is provided "as is" for general informational purposes only. No representations or warranties of any kind are made regarding completeness, accuracy, reliability, or suitability, and we are not liable for any losses arising from its use.</p>
-      <p class="footer-disclaimer">本仪表板所提供的信息仅按“原样”提供，供一般信息参考之用。我们不就其完整性、准确性、可靠性或适用性作出任何形式的陈述或保证，对于因使用该信息而产生的任何损失，我们概不承担责任。</p>
-    </footer>
-  </div>
-
-  <!--
-    Visitor analytics via GoatCounter (privacy-friendly: no cookies, no personal data).
-    SETUP: create a free site at https://www.goatcounter.com/, then replace MYCODE
-    below AND the GOATCOUNTER_CODE constant at the top of app.js with your site code.
-    Until then this is inert and the on-page visitor count stays hidden.
-  -->
+  <!-- Privacy-friendly visitor analytics (no cookies, no personal data) -->
   <script data-goatcounter="https://tristan-mcinnis.goatcounter.com/count"
           async src="//gc.zgo.at/count.js"></script>
-
-  <script src="app.js"></script>
 </body>
 </html>
