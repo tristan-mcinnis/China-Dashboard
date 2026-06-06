@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T06:28:02+08:00",
+  "updated_at": "2026-06-06T11:47:48+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -740,9 +740,20 @@
       ]
     },
     "anti-corruption": {
-      "label": "Anti-corruption",
-      "count": 11,
+      "label": "anti-corruption",
+      "count": 12,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "北京市政协主席魏小东被查",
+          "english_title": "Beijing top political advisor Wei Xiaodong placed under investigation for discipline violations",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%94%BF%E5%8D%8F%E4%B8%BB%E5%B8%AD%E9%AD%8F%E5%B0%8F%E4%B8%9C%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-05",
           "title": "四川省成都市委原副书记、原市长王凤朝严重违纪违法被开除党籍和公职",
@@ -4105,6 +4116,181 @@
           "title": "习近平同通伦举行会谈",
           "english_title": "Xi Jinping holds talks with Laos leader Thongloun",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%80%9A%E4%BC%A6%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "municipal politics": {
+      "label": "municipal politics",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "北京市政协主席魏小东被查",
+          "english_title": "Beijing top political advisor Wei Xiaodong placed under investigation for discipline violations",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%94%BF%E5%8D%8F%E4%B8%BB%E5%B8%AD%E9%AD%8F%E5%B0%8F%E4%B8%9C%E8%A2%AB%E6%9F%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "tech regulation": {
+      "label": "tech regulation",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "重庆理工一副校长遇刺身亡 凶手已被刑拘",
+          "english_title": "Vice president of Chongqing University of Technology stabbed to death, suspect detained",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1NDFUM3U3S0dMZEhwNFRyMURjcGwwdDdadm9zN29oRHJjSURyQkJPZFhjV2ttSFAyZWkyanJZc2JfM2JkeHktQUVIbzJBa0FUVlM4OXBmaTFObGtYR0Zr?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "记者调查：智能眼镜成偷拍神器",
+          "english_title": "Report finds smart glasses used for surreptitious photography, raising privacy concerns",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%88%90%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "ai cybersecurity": {
+      "label": "AI cybersecurity",
+      "count": 9,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+          "english_title": "Tang Wenbin's robot startup acquires logistics robot firm, backed by AI heavyweights",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96Q25Zc3R6UTNaU2hQUXlWVW9HSVhZaExRcktpSE5sQWFVODVwU0JaVENmWlFCbE5EZ3E4QVI1WHlsWTh4RzJWT2F4NzY3QQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
+          "english_title": "Great Wall's Wei Jianjun publicly criticizes auto repair industry for exploitative practices",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaUY1U3JUZUVHcTRFNHl5MmFnUXFuLTVRY3hBNjFQVWR5aC11U1NuTHhFb09JV25oZnFoNElWMV96RFg1YjRrSnBJZEF4QQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "重庆理工一副校长遇刺身亡 凶手已被刑拘",
+          "english_title": "Vice president of Chongqing University of Technology stabbed to death, suspect detained",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1NDFUM3U3S0dMZEhwNFRyMURjcGwwdDdadm9zN29oRHJjSURyQkJPZFhjV2ttSFAyZWkyanJZc2JfM2JkeHktQUVIbzJBa0FUVlM4OXBmaTFObGtYR0Zr?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "财新周刊目录",
+          "english_title": "Table of Contents of Caixin Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MaTAycGlDMjVZcFFnVUZxbXJYT05kc1hXWk1fR2x6Q01HaVZ5UmdIRWFreDduN1hpaWkydG4wN0txaEtWQno1cTgwZzBZbjNLTHlyLVFXNS00Wmhjei1ZR3F4dzc?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces 2026 AI-powered cybersecurity testing initiative",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "责编：汪灵犀 柴逸扉 邮箱：gtbhwb@people.cn",
+          "english_title": "Editor: Wang Lingxi, Chai Yifei, Email: gtbhwb@people.cn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGR2RDlxaEpySExMTUZ3ZjNBbnh6MHZKaW10LW0zaGJSaDBIc1V2Z2d5eW5mYnhKMzVvTFc5VWRMX0VQTkh2eVVKOENLTDdMV09TMWhKQmFnWXMyZjNseHRZZUtrNGVPUVVpN19UNHE5WnFaejQ1ekc2UDdlcEg0MVozNA?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "CBA总决赛第五场：上海击败广厦 总比分4:1夺冠",
+          "english_title": "Shanghai Sharks defeat Guangsha Lions 4-1 to win CBA championship",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNzZXYjVMQTFuRU9YTkI2QmJESTRMM3RnSVlYLXF4emRDakdibTJkd0c1RjZCcW1pQnVjcHNwdHlRN2d6Z2FYUTdDV0ozZTFYTjVzMGFqQVUwa3p1MjBVTVRrbDhMQlJwakZKMjA4Z192eHI5akk1RGdHclRyQjg?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "记者调查：智能眼镜成偷拍神器",
+          "english_title": "Report finds smart glasses used for surreptitious photography, raising privacy concerns",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%88%90%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "国际空间站俄舱段“星辰”号服务舱内发现漏气点",
+          "english_title": "Air leak found in Russian module 'Zvezda' of International Space Station",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbFY2ZnRHUEtVQjU2X3JOSW1qV3FTZ0o5XzBKQUczQXUydHRUdFBwZENNUmNyV2dkSENCVXJOcXJPaEhkUlVFNV9RT21yQW0ydUxON0x1ZzV2dHJmVHhpQTdQelczX0diS01zMTkxaHRHakRXVEtZdmtKWU9OWEE?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "accounting crackdown": {
+      "label": "accounting crackdown",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "从“长虹元老”到成都市长 王凤朝被指“妄议大政方针”",
+          "english_title": "Former Chengdu mayor Wang Fengchao accused of making improper comments on state policies",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dGlZT1B3QmE0Z0d3TU9DNVpLZUxoWUR2LTZIbnJHTmZfRk9EWHh5Sk04NTZoRUx0WXVfQk1pTE9UM0dRU1czWFc1dTJWQURhWEMzZ29ja05NTHhmRzNF?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "smart glasses privacy": {
+      "label": "smart glasses privacy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "记者调查：智能眼镜成偷拍神器",
+          "english_title": "Report finds smart glasses used for surreptitious photography, raising privacy concerns",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%88%90%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8",
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot"

@@ -1,8 +1,334 @@
 {
-  "as_of": "2026-06-06T06:28:02+08:00",
+  "as_of": "2026-06-06T11:47:48+08:00",
   "source": "daily_digest archive",
-  "count": 22,
+  "count": 23,
   "entries": [
+    {
+      "as_of": "2026-06-06T11:47:48+08:00",
+      "date": "2026-06-06",
+      "time_label": "Midday Brief",
+      "beijing_time": "11:47",
+      "digest_type": "midday",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Beijing political advisor Wei Xiaodong investigated; ex-Chengdu mayor accused of policy criticism",
+      "headline_zh": "北京市政协主席魏小东被查；原成都市长王凤朝被指妄议大政方针",
+      "narrative": "The lead story is the dual anti-corruption signals from Beijing and Chengdu, indicating that the Party's discipline apparatus remains active at the provincial-ministerial level. The CAC's AI cybersecurity testing initiative signals a new front in tech regulation, while PwC's payout cuts remind foreign firms of the lingering Evergrande fallout. Wei Xiaodong's investigation, in particular, marks a rare high-profile case in the capital's political advisory body, potentially unsettling Beijing's local political landscape.",
+      "narrative_zh": "今日头条是来自北京和成都的双重反腐信号，表明党的纪律机构在省部级层面依然活跃。网信办的人工智能赋能网络安全应用测试公告，标志着科技监管的新战线；而普华永道削减合伙人薪酬则提醒外资企业恒大事件的余波未了。魏小东被查尤其罕见，涉及首都政协高层，可能动摇北京地方政治格局。",
+      "market_snapshot": "SSE Composite 4027.736 ▼1.38% · Shenzhen Component 15314.7 ▼2.48% · ChiNext 3957.935 ▼3.20% · USD/CNY 6.766 ▼0.10% · USD/CNH 6.7888 ▲0.23%",
+      "themes": [
+        "anti-corruption",
+        "municipal politics",
+        "tech regulation",
+        "AI cybersecurity",
+        "accounting crackdown",
+        "smart glasses privacy"
+      ],
+      "theme_trends": {
+        "anti-corruption": {
+          "status": "recurring",
+          "days_seen": 4
+        },
+        "municipal politics": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "tech regulation": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "AI cybersecurity": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "accounting crackdown": {
+          "status": "rising",
+          "days_seen": 2
+        },
+        "smart glasses privacy": {
+          "status": "recurring",
+          "days_seen": 3
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "中方始终将老挝视作周边外交重要方向",
+          "english_title": "Xi Jinping meets Lao leaders, stresses Laos as priority in neighborhood diplomacy",
+          "why_it_matters": "Reinforces China's strategic ties with Laos, a key Belt and Road partner, amid regional competition.",
+          "why_it_matters_zh": "强化中国与老挝的战略关系，老挝是'一带一路'关键伙伴，此举有区域竞争背景。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91"
+        },
+        {
+          "primary_title": "北京市政协主席魏小东被查",
+          "english_title": "Beijing top political advisor Wei Xiaodong placed under investigation for discipline violations",
+          "why_it_matters": "A rare high-profile anti-corruption case targeting a municipal-level party and government leader in the capital.",
+          "why_it_matters_zh": "罕见的高层反腐案，直接针对首都的市级党政领导人。",
+          "pull_quote": "北京市政协党组书记、主席魏小东涉嫌严重违纪违法",
+          "pull_quote_zh": "北京市政协党组书记、主席魏小东涉嫌严重违纪违法",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%94%BF%E5%8D%8F%E4%B8%BB%E5%B8%AD%E9%AD%8F%E5%B0%8F%E4%B8%9C%E8%A2%AB%E6%9F%A5"
+        },
+        {
+          "primary_title": "国际空间站俄舱段“星辰”号服务舱内发现漏气点",
+          "english_title": "Air leak found in Russian module 'Zvezda' of International Space Station",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbFY2ZnRHUEtVQjU2X3JOSW1qV3FTZ0o5XzBKQUczQXUydHRUdFBwZENNUmNyV2dkSENCVXJOcXJPaEhkUlVFNV9RT21yQW0ydUxON0x1ZzV2dHJmVHhpQTdQelczX0diS01zMTkxaHRHakRXVEtZdmtKWU9OWEE?oc=5"
+        },
+        {
+          "primary_title": "记者调查：智能眼镜成偷拍神器",
+          "english_title": "Report finds smart glasses used for surreptitious photography, raising privacy concerns",
+          "why_it_matters": "Highlights regulatory gaps in new tech; may prompt stricter rules on wearable cameras and data privacy.",
+          "why_it_matters_zh": "凸显新技术监管漏洞，可能促使对可穿戴摄像头和数据隐私的更严格规定。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%88%90%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8"
+        },
+        {
+          "primary_title": "医保个人账户可跨省给家人使用",
+          "english_title": "China expands cross-provincial sharing of medical insurance personal accounts to include family members",
+          "why_it_matters": "Step towards national pooling of healthcare funds, improving portability for migrant workers and families.",
+          "why_it_matters_zh": "向全国医保统筹迈进一步，改善流动人口及其家庭医保的便携性。",
+          "pull_quote": "医保个人账户里'没有用完的钱'，可以跨省给家人用",
+          "pull_quote_zh": "医保个人账户里'没有用完的钱'，可以跨省给家人用",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%8F%AF%E8%B7%A8%E7%9C%81%E7%BB%99%E5%AE%B6%E4%BA%BA%E4%BD%BF%E7%94%A8"
+        },
+        {
+          "primary_title": "CBA总决赛第五场：上海击败广厦 总比分4:1夺冠",
+          "english_title": "Shanghai Sharks defeat Guangsha Lions 4-1 to win CBA championship",
+          "why_it_matters": "Purely a sports event; no major policy signal, but reflects public entertainment landscape.",
+          "why_it_matters_zh": "纯体育事件，无重大政策信号，但反映公众娱乐生态。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNzZXYjVMQTFuRU9YTkI2QmJESTRMM3RnSVlYLXF4emRDakdibTJkd0c1RjZCcW1pQnVjcHNwdHlRN2d6Z2FYUTdDV0ozZTFYTjVzMGFqQVUwa3p1MjBVTVRrbDhMQlJwakZKMjA4Z192eHI5akk1RGdHclRyQjg?oc=5"
+        },
+        {
+          "primary_title": "责编：汪灵犀 柴逸扉 邮箱：gtbhwb@people.cn",
+          "english_title": "Editor: Wang Lingxi, Chai Yifei, Email: gtbhwb@people.cn",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGR2RDlxaEpySExMTUZ3ZjNBbnh6MHZKaW10LW0zaGJSaDBIc1V2Z2d5eW5mYnhKMzVvTFc5VWRMX0VQTkh2eVVKOENLTDdMV09TMWhKQmFnWXMyZjNseHRZZUtrNGVPUVVpN19UNHE5WnFaejQ1ekc2UDdlcEg0MVozNA?oc=5"
+        },
+        {
+          "primary_title": "2026年人工智能技术赋能网络安全应用测试公告",
+          "english_title": "Cyberspace Administration announces 2026 AI-powered cybersecurity testing initiative",
+          "why_it_matters": "Signals push to integrate AI into national security infrastructure and set standards for AI in cybersecurity.",
+          "why_it_matters_zh": "表明推动AI融入国家安全基础设施，并为AI在网络安全中的应用设定标准。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "platform_count": 1,
+          "source": "网信办",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/18/c_1780846421726446.htm"
+        },
+        {
+          "primary_title": "中央网信办所属部分在京事业单位2026年度公开招聘拟聘用人员公示公告",
+          "english_title": "",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_regulatory"
+          ],
+          "platform_count": 1,
+          "source": "网信办",
+          "url": "http://www.cac.gov.cn//www.cac.gov.cn/2026-05/15/c_1780587095099787.htm"
+        },
+        {
+          "primary_title": "财新周刊目录",
+          "english_title": "Table of Contents of Caixin Weekly",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Caixin",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MaTAycGlDMjVZcFFnVUZxbXJYT05kc1hXWk1fR2x6Q01HaVZ5UmdIRWFreDduN1hpaWkydG4wN0txaEtWQno1cTgwZzBZbjNLTHlyLVFXNS00Wmhjei1ZR3F4dzc?oc=5"
+        },
+        {
+          "primary_title": "重庆理工一副校长遇刺身亡 凶手已被刑拘",
+          "english_title": "Vice president of Chongqing University of Technology stabbed to death, suspect detained",
+          "why_it_matters": "Raises concerns about campus security and potential motives behind a high-profile violent crime in academia.",
+          "why_it_matters_zh": "引发对校园安全的担忧，以及学术圈高调暴力犯罪背后的潜在动机。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Caixin",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1NDFUM3U3S0dMZEhwNFRyMURjcGwwdDdadm9zN29oRHJjSURyQkJPZFhjV2ttSFAyZWkyanJZc2JfM2JkeHktQUVIbzJBa0FUVlM4OXBmaTFObGtYR0Zr?oc=5"
+        },
+        {
+          "primary_title": "从“长虹元老”到成都市长 王凤朝被指“妄议大政方针”",
+          "english_title": "Former Chengdu mayor Wang Fengchao accused of making improper comments on state policies",
+          "why_it_matters": "Indicates discipline crackdown on senior local officials and possible factional signal within the Party.",
+          "why_it_matters_zh": "表明对高级地方官员的纪律打击，以及党内可能存在的派系信号。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Caixin",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dGlZT1B3QmE0Z0d3TU9DNVpLZUxoWUR2LTZIbnJHTmZfRk9EWHh5Sk04NTZoRUx0WXVfQk1pTE9UM0dRU1czWFc1dTJWQURhWEMzZ29ja05NTHhmRzNF?oc=5"
+        },
+        {
+          "primary_title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
+          "english_title": "Great Wall's Wei Jianjun publicly criticizes auto repair industry for exploitative practices",
+          "why_it_matters": "Reflects tensions between automakers and service sector; may push for regulatory changes in auto aftermarket.",
+          "why_it_matters_zh": "反映车企与服务业之间的紧张关系，可能推动汽车后市场监管改革。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaUY1U3JUZUVHcTRFNHl5MmFnUXFuLTVRY3hBNjFQVWR5aC11U1NuTHhFb09JV25oZnFoNElWMV96RFg1YjRrSnBJZEF4QQ?oc=5"
+        },
+        {
+          "primary_title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+          "english_title": "Tang Wenbin's robot startup acquires logistics robot firm, backed by AI heavyweights",
+          "why_it_matters": "Consolidation in robotics sector indicates growing investor interest in embodied AI and automation.",
+          "why_it_matters_zh": "机器人领域的整合表明投资者对具身AI和自动化的兴趣日益浓厚。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96Q25Zc3R6UTNaU2hQUXlWVW9HSVhZaExRcktpSE5sQWFVODVwU0JaVENmWlFCbE5EZ3E4QVI1WHlsWTh4RzJWT2F4NzY3QQ?oc=5"
+        },
+        {
+          "primary_title": "PwC cuts partner payouts in China Evergrande fallout",
+          "english_title": "PwC cuts partner payouts in wake of China Evergrande crisis",
+          "why_it_matters": "Highlights ongoing financial repercussions for foreign auditors in China and regulatory risk for international firms.",
+          "why_it_matters_zh": "突出显示外国审计师在中国面临的持续财务影响以及国际公司的监管风险。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm9maFpoOG1XNC1XbEI0UTQ5SmFaNnlTVlZJS2hzRVZXNGU3OHJLaUxnMm4tRDJ4OFhKYlBqRXpibWRRLThZUjIyemxLTkdhdmlhaXd3aEJ4MzBLX3FVdHgwZmRZbjNxbVgwVGFxS1B6NWdUbjFJajBYcXR0VHBSUmdDWkY?oc=5"
+        },
+        {
+          "primary_title": "The US-China decoupling fantasy, with Jessica Chen Weiss",
+          "english_title": "FT explores 'US-China decoupling fantasy' with Jessica Chen Weiss",
+          "why_it_matters": "Reflects Western debate on the feasibility of decoupling; relevant for investors assessing geopolitical risk.",
+          "why_it_matters_zh": "反映西方关于脱钩可行性的辩论，对评估地缘政治风险的投资者具有参考价值。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONW10QjRKaE9SOFc2R3l6SUxXMkN5WFF0dXZNNEtiMXhaWEZtUFFCODJhMzRUcFV5NlJ5MmVJWVRlZnRaVUNuWkdOMEFRbENUQTNQT1VVNHZnQmxranBXVG5rNzVWYUl3ZGpNVUpHTEdNSDVtVVBWU2w4Sy1TbW9iMlQyRmc?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-06T06:28:02+08:00",
       "date": "2026-06-06",
