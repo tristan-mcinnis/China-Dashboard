@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T19:05:15+08:00",
+  "updated_at": "2026-06-06T22:42:00+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -439,8 +439,101 @@
     },
     "ai monetization": {
       "label": "AI monetization",
-      "count": 4,
+      "count": 13,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+          "english_title": "Doubao loses 6.1 million MAU after paid subscription; Anthropic warns on AI safety",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2YXplZ2ZRQ09QTXlnMmJsSEUtUmVuR0hXV2JtT3hVZkp0b3BOSkx2Q3V3cTNUalprVUlpVUEtUGR1Y05tYVFvLXl2SDlNdw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC unveils new rules for private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office: reiterate opposition to any form of Taiwan independence",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China adjusts export control catalogue for precursor chemicals",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on copolymer imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "FM spokesperson: reiterate opposition to Taiwan independence, call for restraint in SCS",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "高考期间全国天气地图请收好",
+          "english_title": "Gaokao weather forecast: rain in south, northeast",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E5%85%A8%E5%9B%BD%E5%A4%A9%E6%B0%94%E5%9C%B0%E5%9B%BE%E8%AF%B7%E6%94%B6%E5%A5%BD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "专家：驱离荷舰行动有重大升级",
+          "english_title": "PLA expels Dutch warship from South China Sea, incident escalates",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%A9%B1%E7%A6%BB%E8%8D%B7%E8%88%B0%E8%A1%8C%E5%8A%A8%E6%9C%89%E9%87%8D%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "中老友好 大道同行",
+          "english_title": "Xi hosts Lao leader, calls him 'comrade plus brother'",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD+%E5%A4%A7%E9%81%93%E5%90%8C%E8%A1%8C",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-02",
           "title": "豆包将正式付费",
@@ -1580,8 +1673,18 @@
     },
     "regulatory tightening": {
       "label": "regulatory tightening",
-      "count": 4,
+      "count": 5,
       "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC unveils new rules for private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-06",
           "title": "中方始终将老挝视作周边外交重要方向",
@@ -4707,6 +4810,166 @@
             "gov_registry"
           ],
           "category": "regulatory"
+        }
+      ]
+    },
+    "xi-lao ties": {
+      "label": "Xi-Lao ties",
+      "count": 5,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "Hand Trucks From China; Scheduling of an Expedited Five-Year Review",
+          "english_title": "US to conduct expedited sunset review of anti-dumping duties on Chinese hand trucks",
+          "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11465/hand-trucks-from-china-scheduling-of-an-expedited-five-year-review",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on copolymer imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈",
+          "english_title": "Xi and Thonglun hold talks, pledge deeper cooperation",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4SE5XckhLX293VW5SY2VwWnB2ZGdDZXR6S2l1ZmpySi11dXJ1d3p1TEx2bFZqaXRydkh2SU4tNW5qX21QVmZkOXpISE5FY3pHc1IyTUFaUlhvc3J2Y0RzRWpCMEZ6SExURXlv?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "专家：驱离荷舰行动有重大升级",
+          "english_title": "PLA expels Dutch warship from South China Sea, incident escalates",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%A9%B1%E7%A6%BB%E8%8D%B7%E8%88%B0%E8%A1%8C%E5%8A%A8%E6%9C%89%E9%87%8D%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "中老友好 大道同行",
+          "english_title": "Xi hosts Lao leader, calls him 'comrade plus brother'",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD+%E5%A4%A7%E9%81%93%E5%90%8C%E8%A1%8C",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "south china sea assertiveness": {
+      "label": "South China Sea assertiveness",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "高考期间全国天气地图请收好",
+          "english_title": "Gaokao weather forecast: rain in south, northeast",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E5%85%A8%E5%9B%BD%E5%A4%A9%E6%B0%94%E5%9C%B0%E5%9B%BE%E8%AF%B7%E6%94%B6%E5%A5%BD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "专家：驱离荷舰行动有重大升级",
+          "english_title": "PLA expels Dutch warship from South China Sea, incident escalates",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%A9%B1%E7%A6%BB%E8%8D%B7%E8%88%B0%E8%A1%8C%E5%8A%A8%E6%9C%89%E9%87%8D%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "中老友好 大道同行",
+          "english_title": "Xi hosts Lao leader, calls him 'comrade plus brother'",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD+%E5%A4%A7%E9%81%93%E5%90%8C%E8%A1%8C",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "market decline": {
+      "label": "market decline",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "中老友好 大道同行",
+          "english_title": "Xi hosts Lao leader, calls him 'comrade plus brother'",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD+%E5%A4%A7%E9%81%93%E5%90%8C%E8%A1%8C",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "trade disputes": {
+      "label": "trade disputes",
+      "count": 4,
+      "stories": [
+        {
+          "date": "2026-06-06",
+          "title": "Hand Trucks From China; Scheduling of an Expedited Five-Year Review",
+          "english_title": "US to conduct expedited sunset review of anti-dumping duties on Chinese hand trucks",
+          "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11465/hand-trucks-from-china-scheduling-of-an-expedited-five-year-review",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China adjusts export control catalogue for precursor chemicals",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on copolymer imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-06",
+          "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈",
+          "english_title": "Xi and Thonglun hold talks, pledge deeper cooperation",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4SE5XckhLX293VW5SY2VwWnB2ZGdDZXR6S2l1ZmpySi11dXJ1d3p1TEx2bFZqaXRydkh2SU4tNW5qX21QVmZkOXpISE5FY3pHc1IyTUFaUlhvc3J2Y0RzRWpCMEZ6SExURXlv?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
         }
       ]
     }

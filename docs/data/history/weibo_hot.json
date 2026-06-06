@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-06-06T19:02:16+08:00",
+  "generated_at": "2026-06-06T22:38:07+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-06T22:38:07+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 雪人 哭成泪人",
+          "value": "综艺 1140451 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9B%AA%E4%BA%BA%20%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "综艺 1140451",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Snowman cries a river"
+          }
+        },
+        {
+          "title": "2. 浪姐直播",
+          "value": "综艺 859494 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": "综艺 859494",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Sisters Who Make Waves live stream"
+          }
+        },
+        {
+          "title": "3. 高考期间这些地区雨势较大",
+          "value": "735981 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E8%BF%99%E4%BA%9B%E5%9C%B0%E5%8C%BA%E9%9B%A8%E5%8A%BF%E8%BE%83%E5%A4%A7&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 735981",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Heavy rain expected in these areas during college entrance exam"
+          }
+        },
+        {
+          "title": "4. 京东请全网女生敷面膜 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E8%AF%B7%E5%85%A8%E7%BD%91%E5%A5%B3%E7%94%9F%E6%95%B7%E9%9D%A2%E8%86%9C&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "JD.com invites all women online to wear face masks"
+          }
+        },
+        {
+          "title": "5. 黄灿灿一开口曾沛慈就哭了",
+          "value": "700263 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E7%81%BF%E7%81%BF%E4%B8%80%E5%BC%80%E5%8F%A3%E6%9B%BE%E6%B2%9B%E6%85%88%E5%B0%B1%E5%93%AD%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 700263",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Huang Cancan's first words make Zeng Peici cry"
+          }
+        },
+        {
+          "title": "6. 瑞幸咖啡去冰仅半杯可退款 [火热]",
+          "value": "663191 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%8E%BB%E5%86%B0%E4%BB%85%E5%8D%8A%E6%9D%AF%E5%8F%AF%E9%80%80%E6%AC%BE&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": " 663191",
+            "tag": "火热",
+            "api_source": "tianapi",
+            "translation": "Luckin Coffee refunds for ice-free drinks that are only half-filled"
+          }
+        },
+        {
+          "title": "7. 谢娜演唱会全国巡演",
+          "value": "演出 591291 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E5%9B%BD%E5%B7%A1%E6%BC%94&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "演出 591291",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Xie Na's concert national tour"
+          }
+        },
+        {
+          "title": "8. 女生嘴含夹竹桃拍照中毒过敏 [新]",
+          "value": "483863 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E7%94%9F%E5%98%B4%E5%90%AB%E5%A4%B9%E7%AB%B9%E6%A1%83%E6%8B%8D%E7%85%A7%E4%B8%AD%E6%AF%92%E8%BF%87%E6%95%8F&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 483863",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Woman poisoned after holding oleander in mouth for photo"
+          }
+        },
+        {
+          "title": "9. 中国女排vs塞尔维亚女排",
+          "value": "483687 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E6%8E%92&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 483687",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "China women's volleyball vs Serbia women's volleyball"
+          }
+        },
+        {
+          "title": "10. 吃完的榴莲别急着扔",
+          "value": "483004 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%83%E5%AE%8C%E7%9A%84%E6%A6%B4%E8%8E%B2%E5%88%AB%E6%80%A5%E7%9D%80%E6%89%94&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 483004",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Don't throw away durian rinds after eating"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-06T19:02:16+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": " 380252",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-18T11:46:14+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 广西柳州地震已致2人死亡",
-          "value": "1969352 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1969352",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 歌手2026官宣音乐合伙人 [新]",
-          "value": "综艺 973530 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%8C%E6%89%8B2026%E5%AE%98%E5%AE%A3%E9%9F%B3%E4%B9%90%E5%90%88%E4%BC%99%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": "综艺 973530",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 本轮大范围降雨到哪了",
-          "value": "761359 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%AC%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%99%8D%E9%9B%A8%E5%88%B0%E5%93%AA%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 761359",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 杨幂公牛品牌全球代言人 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E5%B9%82%E5%85%AC%E7%89%9B%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 归鸾阵容官宣",
-          "value": "剧集 694369 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BD%92%E9%B8%BE%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": "剧集 694369",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 美国2战机飞行表演时撞毁 [官宣]",
-          "value": "604123 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD2%E6%88%98%E6%9C%BA%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E6%97%B6%E6%92%9E%E6%AF%81&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 604123",
-            "tag": "官宣",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 谁懂姜乘澜这个丸子头教程",
-          "value": "578838 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E6%87%82%E5%A7%9C%E4%B9%98%E6%BE%9C%E8%BF%99%E4%B8%AA%E4%B8%B8%E5%AD%90%E5%A4%B4%E6%95%99%E7%A8%8B&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": " 578838",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 蔡徐坤林里全球品牌代言人 [新]",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9E%97%E9%87%8C%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "新",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 网传歌手袭榜改成大魔王了",
-          "value": "综艺 410173 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E4%BC%A0%E6%AD%8C%E6%89%8B%E8%A2%AD%E6%A6%9C%E6%94%B9%E6%88%90%E5%A4%A7%E9%AD%94%E7%8E%8B%E4%BA%86&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": "综艺 410173",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 小米YU7GT发布会定档",
-          "value": "410105 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E7%B1%B3YU7GT%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": " 410105",
             "tag": "",
             "api_source": "tianapi",
             "translation": ""
