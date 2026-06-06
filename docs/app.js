@@ -1257,6 +1257,15 @@ function createHistoryControllers() {
     render: (entry) => renderRegulatorySnapshot(entry, regulatoryGrid),
   });
 
+  const registryGrid = document.getElementById("registry-news");
+  controllers.registry = new HistoryController({
+    container: registryGrid,
+    prevButton: document.getElementById("registry-prev"),
+    nextButton: document.getElementById("registry-next"),
+    timestampElement: document.getElementById("registry-timestamp"),
+    render: (entry) => renderRegulatorySnapshot(entry, registryGrid),
+  });
+
   return controllers;
 }
 
@@ -1860,6 +1869,7 @@ async function render() {
       thepaperHistory,
       ladymaxHistory,
       regulatoryHistory,
+      registryHistory,
     ] =
       await Promise.all([
         loadJSON("data/indices.json"),
@@ -1881,6 +1891,7 @@ async function render() {
         loadHistoryEntries("data/thepaper_news.json", "data/history/thepaper_news.json"),
         loadHistoryEntries("data/ladymax_news.json", "data/history/ladymax_news.json"),
         loadHistoryEntries("data/gov_regulatory.json", "data/history/gov_regulatory.json"),
+        loadHistoryEntries("data/gov_registry.json", "data/history/gov_registry.json"),
       ]);
 
     renderKpiStrip({
@@ -2012,6 +2023,10 @@ async function render() {
       historyControllers.regulatory.setEntries(regulatoryHistory);
     }
 
+    if (historyControllers.registry) {
+      historyControllers.registry.setEntries(registryHistory);
+    }
+
     setLastRefresh();
 
     // Re-apply search filter after data refresh
@@ -2043,7 +2058,8 @@ async function checkForUpdates() {
       { key: 'ladymax', path: 'data/ladymax_news.json' },
       { key: 'trade', path: 'data/trade_data.json' },
       { key: 'property', path: 'data/property.json' },
-      { key: 'regulatory', path: 'data/gov_regulatory.json' }
+      { key: 'regulatory', path: 'data/gov_regulatory.json' },
+      { key: 'registry', path: 'data/gov_registry.json' }
     ];
 
     let hasUpdates = false;

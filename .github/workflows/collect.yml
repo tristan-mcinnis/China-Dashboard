@@ -59,6 +59,7 @@ jobs:
             "trade_data"
             "property_cn"
             "gov_regulatory"
+            "gov_registry"
           )
 
           failed_collectors=""
@@ -141,6 +142,7 @@ jobs:
             'baidu_top': 'social', 'weibo_hot': 'social', 'tencent_wechat_hot': 'social',
             'xinhua_news': 'news', 'thepaper_news': 'news', 'ladymax_news': 'news',
             'gov_regulatory': 'regulatory',
+            'gov_registry': 'regulatory',
           }
 
           for path in glob.glob('docs/data/*.json'):

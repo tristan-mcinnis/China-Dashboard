@@ -1,7 +1,7 @@
 {
   "name": "China Snapshot Dashboard — public data API",
   "description": "Serverless China-signals feeds, refreshed 5x/day (Beijing time). All endpoints are static JSON with CORS enabled, free to consume.",
-  "generated_at": "2026-06-06T15:00:29+08:00",
+  "generated_at": "2026-06-06T17:31:39+08:00",
   "license": "Data is provided as-is for informational purposes (see dashboard disclaimer).",
   "schema": {
     "feeds": "Standard feeds use {as_of, source, items[]}, each item {title, value, url, extra{}}. Bilingual feeds add extra.translation (English).",
@@ -124,6 +124,14 @@
       "url": "https://china-dashboard.vercel.app/data/gov_regulatory.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/gov_regulatory.json",
       "as_of": "2026-06-06T14:59:26+08:00"
+    },
+    {
+      "name": "gov_registry",
+      "category": "regulatory",
+      "description": "Primary-source registry: 12 ministry/regulator/legislature channels + US Federal Register (bilingual, chapter-tagged)",
+      "url": "https://china-dashboard.vercel.app/data/gov_registry.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/gov_registry.json",
+      "as_of": "2026-06-06T17:20:30+08:00"
     }
   ]
 }

@@ -35,6 +35,7 @@ CATALOG = {
     "thepaper_news": ("news", "The Paper (澎湃新闻) headlines (bilingual)"),
     "ladymax_news": ("news", "LadyMax fashion-business headlines (bilingual)"),
     "gov_regulatory": ("regulatory", "CSRC / CAC / SAMR announcements (bilingual)"),
+    "gov_registry": ("regulatory", "Primary-source registry: 12 ministry/regulator/legislature channels + US Federal Register (bilingual, chapter-tagged)"),
 }
 
 
