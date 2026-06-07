@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T06:25:29+08:00",
+  "updated_at": "2026-06-07T11:49:29+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -2904,8 +2904,20 @@
     },
     "economy": {
       "label": "economy",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "2026高考",
+          "english_title": "Frog mascots and sunflower gifts lighten Gaokao exam atmosphere",
+          "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-03",
           "title": "跑好历史接力赛",
@@ -2921,8 +2933,20 @@
     },
     "geopolitics": {
       "label": "geopolitics",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "2026高考",
+          "english_title": "Frog mascots and sunflower gifts lighten Gaokao exam atmosphere",
+          "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-03",
           "title": "跑好历史接力赛",
@@ -2938,8 +2962,18 @@
     },
     "tech": {
       "label": "tech",
-      "count": 4,
+      "count": 5,
       "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "上海发布近视分级分类干预成效报告 AI分层防控将下沉边远农村",
+          "english_title": "Shanghai reports success in myopia intervention, AI screening to expand to rural areas",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rQjNXSnFtQXdDMWFmNThvOFFmbVpWYTlQa3RJMllHUXREbGVzd3o4eThhRUx1ZG5NT0FwallXWWxCOElTV3ZkRVJReXNkeVVHSHQxQzc1WWtpTEE4VWhGeXFuY1pFeEZncHVKdE13?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-03",
           "title": "The China-US tech truce is fragile",
@@ -5056,6 +5090,50 @@
           "title": "国务院台办新闻发布会辑录（2026-06-03）",
           "english_title": "Taiwan Affairs Office press conference: June 3, 2026",
           "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "society": {
+      "label": "society",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "2026高考",
+          "english_title": "Frog mascots and sunflower gifts lighten Gaokao exam atmosphere",
+          "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "trade": {
+      "label": "trade",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "Hand Trucks From China; Scheduling of an Expedited Five-Year Review",
+          "english_title": "US to expedite anti-dumping review of hand trucks from China",
+          "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11465/hand-trucks-from-china-scheduling-of-an-expedited-five-year-review",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on polyoxymethylene from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
           "platforms": [
             "gov_registry"
           ],
