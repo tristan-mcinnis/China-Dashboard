@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T15:18:48+08:00",
+  "updated_at": "2026-06-07T19:17:42+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -2933,8 +2933,20 @@
     },
     "geopolitics": {
       "label": "geopolitics",
-      "count": 2,
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "高考数学",
+          "english_title": "Gaokao math exam emphasizes fundamental knowledge with open-ended questions",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-07",
           "title": "2026高考",
@@ -5293,6 +5305,160 @@
           "title": "2026高考作文出炉",
           "english_title": "2026 Gaokao essay topics released, trends on Baidu and WeChat",
           "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E5%87%BA%E7%82%89",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "taiwan strait": {
+      "label": "Taiwan Strait",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "China Escalates Patrols Near Taiwan Over Japan-Philippines Talks",
+          "english_title": "China sends largest patrol ship east of Taiwan after Japan-Philippine talks",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDIwYndRTHVjY0tTcVVxNnV5R2F0dXJlV3A2MXI1Z2JwN1lmclI3NWJiRmM1UTE1bHVBbzhqd1pNZW9tbXFpZkdyeUNFZkJUdU5NMlZwVTVfYnRjU0RhVzZjQTZsWVloTnVlajZWQi0tMVFaWU5sQ29Ua1BUR3k3REYxdDU0NmJwYzlhZV9ZeUhKLVpFTTRsOXlSbW04MUpMTklkdWwyQWtSVncyUm40bnhLMUh0Zw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "State Council Taiwan Affairs Office press conference transcript (June 3)",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "Foreign Ministry spokesperson holds regular press conference on June 5",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "ev market": {
+      "label": "EV market",
+      "count": 5,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "零跑破8万、蔚来超理想，硬仗6月才开始",
+          "english_title": "Leapmotor breaks 80,000 units, NIO surpasses Li Auto; tough battle only begins in June",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41LWdqS2ktLVktV0hmempfbE42dGdPZHZJRG5ISVloV20tckI1Mko0X0RnMlpKZ0xPNlNuTkw4SFVvMFBPTWNuUGxBV2RrQQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on guidelines for private equity funds to strengthen regulation and prevent risks",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "Six departments, led by MOFCOM, issue measures to optimize tax rebates for departing tourists to boost inbound consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "上海发布近视分级分类干预成效报告 AI分层防控将下沉边远农村",
+          "english_title": "Shanghai releases report on graded myopia intervention; AI screening to expand to rural areas",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rQjNXSnFtQXdDMWFmNThvOFFmbVpWYTlQa3RJMllHUXREbGVzd3o4eThhRUx1ZG5NT0FwallXWWxCOElTV3ZkRVJReXNkeVVHSHQxQzc1WWtpTEE4VWhGeXFuY1pFeEZncHVKdE13?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "考生：我妈让我第一个出来 混个采访",
+          "english_title": "Gaokao examinee quips about following mother's advice to be first out for interview",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%EF%BC%9A%E6%88%91%E5%A6%88%E8%AE%A9%E6%88%91%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E6%9D%A5+%E6%B7%B7%E4%B8%AA%E9%87%87%E8%AE%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "consumption": {
+      "label": "consumption",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "Six departments, led by MOFCOM, issue measures to optimize tax rebates for departing tourists to boost inbound consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "anti-dumping": {
+      "label": "anti-dumping",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty adjustments on copolymer imports from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "gaokao": {
+      "label": "gaokao",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "考生：我妈让我第一个出来 混个采访",
+          "english_title": "Gaokao examinee quips about following mother's advice to be first out for interview",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%EF%BC%9A%E6%88%91%E5%A6%88%E8%AE%A9%E6%88%91%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E6%9D%A5+%E6%B7%B7%E4%B8%AA%E9%87%87%E8%AE%BF",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "高考数学",
+          "english_title": "Gaokao math exam emphasizes fundamental knowledge with open-ended questions",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot",

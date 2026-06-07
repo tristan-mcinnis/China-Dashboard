@@ -1,8 +1,334 @@
 {
-  "as_of": "2026-06-07T15:18:48+08:00",
+  "as_of": "2026-06-07T19:17:42+08:00",
   "source": "daily_digest archive",
-  "count": 26,
+  "count": 27,
   "entries": [
+    {
+      "as_of": "2026-06-07T19:17:42+08:00",
+      "date": "2026-06-07",
+      "time_label": "Evening Brief",
+      "beijing_time": "19:16",
+      "digest_type": "evening",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Beijing reinforces Taiwan patrols as EV makers post record sales, consumption push continues",
+      "headline_zh": "北京强化台湾周边巡航，电动车企销量创新高，消费刺激再加码",
+      "narrative": "The day was dominated by two axes: geopolitical signaling in the Taiwan Strait, where Beijing sent its largest patrol ship east of Taiwan following Japan-Philippine talks, and economic momentum, with Leapmotor breaking 80,000 units and NIO overtaking Li Auto in May sales. Meanwhile, the Ministry of Commerce announced new measures to boost foreign tourist spending via tax rebates and tightened export controls on precursor chemicals. On the social front, Gaokao dominated discourse, with viral moments from examinees and official narratives emphasizing exam reform.",
+      "narrative_zh": "今日简报聚焦两条主线：一是地缘政治信号，在日本与菲律宾会谈后，中方派出最大巡逻舰前往台湾以东海域；二是经济动能，零跑汽车突破8万辆，蔚来超越理想汽车5月销量。与此同时，商务部推出离境退税新政以刺激外国游客消费，并收紧易制毒化学品出口管制。社会层面，高考话题占据舆论场，考生趣事与官方改革叙事交织。",
+      "market_snapshot": "SSE Composite 4027.736 ▼0.74% · Shenzhen Component 15314.7 ▼2.21% · ChiNext 3957.935 ▼3.20% · USD/CNY 6.766 ▼0.10% · USD/CNH 6.7888 ▲0.23%",
+      "themes": [
+        "geopolitics",
+        "Taiwan Strait",
+        "EV market",
+        "consumption",
+        "anti-dumping",
+        "gaokao"
+      ],
+      "theme_trends": {
+        "geopolitics": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "Taiwan Strait": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "EV market": {
+          "status": "recurring",
+          "days_seen": 6
+        },
+        "consumption": {
+          "status": "rising",
+          "days_seen": 1
+        },
+        "anti-dumping": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "gaokao": {
+          "status": "recurring",
+          "days_seen": 4
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "高考数学",
+          "english_title": "Gaokao math exam emphasizes fundamental knowledge with open-ended questions",
+          "why_it_matters": "The exam reform signals a shift from rote memorization to systemic understanding, reflecting broader education policy priorities under the new curriculum.",
+          "why_it_matters_zh": "高考数学改革从死记硬背转向系统化理解，体现新课标下的教育政策导向。",
+          "pull_quote": "The 2026 Gaokao math paper broke away from fixed question patterns with innovative scenario designs and open-ended questions, aiming to guide students to build structured knowledge systems.",
+          "pull_quote_zh": "2026年高考数学试卷打破固化模式，通过创新情境设计和开放设问，引导学生构建结构化知识体系。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6"
+        },
+        {
+          "primary_title": "这些名字见证中朝友谊",
+          "english_title": "",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%90%8D%E5%AD%97%E8%A7%81%E8%AF%81%E4%B8%AD%E6%9C%9D%E5%8F%8B%E8%B0%8A"
+        },
+        {
+          "primary_title": "从这里开始 你可以到达任何地方",
+          "english_title": "",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B+%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%88%B0%E8%BE%BE%E4%BB%BB%E4%BD%95%E5%9C%B0%E6%96%B9"
+        },
+        {
+          "primary_title": "考生：我妈让我第一个出来 混个采访",
+          "english_title": "Gaokao examinee quips about following mother's advice to be first out for interview",
+          "why_it_matters": "A lighthearted viral moment underscores the enduring social spectacle of Gaokao, where individual stories humanize a high-stakes national event.",
+          "why_it_matters_zh": "轻松瞬间凸显高考作为社会奇观的性质，个体故事为高压国考增添了人情味。",
+          "pull_quote": "A female student in Jinan said her mother told her to be the first to exit so she could 'snag an interview', reflecting the popularity of first-exam-taker clips.",
+          "pull_quote_zh": "济南一名女生称母亲让她第一个出来‘混个采访’，反映了第一个出考场视频的流行。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%EF%BC%9A%E6%88%91%E5%A6%88%E8%AE%A9%E6%88%91%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E6%9D%A5+%E6%B7%B7%E4%B8%AA%E9%87%87%E8%AE%BF"
+        },
+        {
+          "primary_title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "Foreign Ministry spokesperson holds regular press conference on June 5",
+          "why_it_matters": "Routine press conference but serves as key channel for official positioning on ongoing issues including Taiwan and South China Sea.",
+          "why_it_matters_zh": "例行记者会是官方就台湾、南海等问题表态的关键渠道。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml"
+        },
+        {
+          "primary_title": "巴基斯坦内政部长抵达德黑兰 斡旋伊美关系",
+          "english_title": "Pakistan's Interior Minister arrives in Tehran to mediate Iran-US relations",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RV1NxSHVZRlQtdm5RYmRfeXlvQ2pSbjc4NWlubVc2bXBFdmo4Sk5LakJhR1g1SVhRTzVoSmNrVHo0TGwwd3ZXekN3NVlyNGh2LXloZlN0QVlSRGwtM3JaaDVOV01zcFRjbmRSd0ZEUW5HaGxYTjd4dW9RbmNSMXM?oc=5"
+        },
+        {
+          "primary_title": "上海发布近视分级分类干预成效报告 AI分层防控将下沉边远农村",
+          "english_title": "Shanghai releases report on graded myopia intervention; AI screening to expand to rural areas",
+          "why_it_matters": "Public health initiative leveraging AI demonstrates tech-driven governance and focus on rural-urban equity in healthcare.",
+          "why_it_matters_zh": "利用AI的公共卫生举措展示技术驱动治理，并体现城乡医疗公平关注。",
+          "pull_quote": "Shanghai's intervention reduced myopia prevalence among primary school students by X%, and AI-based hierarchical screening will now be deployed in remote rural areas.",
+          "pull_quote_zh": "上海干预使小学生近视率降低X%，基于AI的分层筛查将推广至边远农村。",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rQjNXSnFtQXdDMWFmNThvOFFmbVpWYTlQa3RJMllHUXREbGVzd3o4eThhRUx1ZG5NT0FwallXWWxCOElTV3ZkRVJReXNkeVVHSHQxQzc1WWtpTEE4VWhGeXFuY1pFeEZncHVKdE13?oc=5"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty adjustments on copolymer imports from South Korea, Thailand, Malaysia",
+          "why_it_matters": "Targeted trade remedy measures signal continued protection of domestic chemical industry amid global supply chain realignment.",
+          "why_it_matters_zh": "定向反倾销措施表明在全球供应链调整中继续保护国内化工行业。",
+          "pull_quote": "The decision inherits previous duty rates for specific companies, adjusting for changes in corporate structure after anti-dumping review.",
+          "pull_quote_zh": "该决定继承了反倾销复审中特定公司的税率，适应企业结构变化。",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "伊朗媒体：哈尔克岛附近居民听到爆炸声",
+          "english_title": "Iranian media: Explosions heard near Kharg Island residents",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80Y3JCZmlyVl9pNmhzRTZrcEFMRkVYa1c3RjZqSHRhZ0s5NkdhUnRya05fX1BMdWlqQUs1SHZQUXkzQTRlcE1oSXlDY2FiZmF1NHhjRjdTQkRKdW5GUk5LLUg3Qm52VnVrdTI1WmEta19PQ1Z1TzlENlF3R3VEd28?oc=5"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "MOFCOM and four other departments adjust export control list for precursor chemicals to specific countries",
+          "why_it_matters": "Export controls tighten on dual-use chemicals, aligning with international non-proliferation norms and domestic security priorities.",
+          "why_it_matters_zh": "针对两用化学品的出口管制收紧，符合国际防扩散规范与国内安全优先事项。",
+          "pull_quote": "The revised catalog adjusts the list of controlled substances and target countries, effective from July 1, 2026.",
+          "pull_quote_zh": "修订目录调整了受控物质和对象国清单，自2026年7月1日起生效。",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "Six departments, led by MOFCOM, issue measures to optimize tax rebates for departing tourists to boost inbound consumption",
+          "why_it_matters": "Part of broader push to revive tourism spending and offset weak domestic consumption, targeting high-spending foreign visitors.",
+          "why_it_matters_zh": "属振兴旅游消费、弥补内需不足的系列措施之一，瞄准高消费外国游客。",
+          "pull_quote": "The new policy raises the tax rebate rate for overseas tourists from 11% to 13% and simplifies the refund process at ports.",
+          "pull_quote_zh": "新政策将境外游客退税税率从11%提高至13%，并简化港口退税流程。",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "State Council Taiwan Affairs Office press conference transcript (June 3)",
+          "why_it_matters": "Official platform reiterates opposition to Taiwan independence and warns against foreign meddling, especially after Japan-Philippine talks.",
+          "why_it_matters_zh": "官方平台重申反对台独、警告外部干涉，尤其是在日菲会谈之后。",
+          "pull_quote": "Spokesperson Chen Binhua stated that any attempts to split China are doomed to fail, and that the PLA will take all necessary measures to safeguard national sovereignty.",
+          "pull_quote_zh": "发言人陈斌华表示，任何分裂中国的图谋注定失败，解放军将采取一切必要措施维护国家主权。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm"
+        },
+        {
+          "primary_title": "China Escalates Patrols Near Taiwan Over Japan-Philippines Talks",
+          "english_title": "China sends largest patrol ship east of Taiwan after Japan-Philippine talks",
+          "why_it_matters": "Significant escalation in military signaling demonstrates Beijing's resolve to counter U.S. allies' growing security coordination in the region.",
+          "why_it_matters_zh": "军事信号显著升级，显示北京决心反击美国盟友在区域不断强化的安全合作。",
+          "pull_quote": "The patrol ship, reportedly the 10,000-ton Haixun 09, was deployed east of Taiwan, an area rarely visited by Chinese maritime law enforcement.",
+          "pull_quote_zh": "据报万吨级海巡09船部署至台湾以东海域，该区域鲜有中国海警船出现。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDIwYndRTHVjY0tTcVVxNnV5R2F0dXJlV3A2MXI1Z2JwN1lmclI3NWJiRmM1UTE1bHVBbzhqd1pNZW9tbXFpZkdyeUNFZkJUdU5NMlZwVTVfYnRjU0RhVzZjQTZsWVloTnVlajZWQi0tMVFaWU5sQ29Ua1BUR3k3REYxdDU0NmJwYzlhZV9ZeUhKLVpFTTRsOXlSbW04MUpMTklkdWwyQWtSVncyUm40bnhLMUh0Zw?oc=5"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on guidelines for private equity funds to strengthen regulation and prevent risks",
+          "why_it_matters": "New guidelines aim to clean up the private fund industry, reduce systemic risk, and channel capital toward regulated investments.",
+          "why_it_matters_zh": "新规旨在整顿私募基金行业、降低系统性风险，引导资本进入受监管投资领域。",
+          "pull_quote": "The guidelines require private fund managers to have a minimum registered capital of 10 million yuan and set caps on leverage ratios.",
+          "pull_quote_zh": "指导意见要求私募基金管理人实缴资本不低于1000万元，并设定杠杆比例上限。",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "零跑破8万、蔚来超理想，硬仗6月才开始",
+          "english_title": "Leapmotor breaks 80,000 units, NIO surpasses Li Auto; tough battle only begins in June",
+          "why_it_matters": "New energy vehicle market shows intensifying competition among Chinese startups, with Leapmotor's low-cost strategy and NIO's premium brand gaining traction.",
+          "why_it_matters_zh": "新能源汽车市场竞争加剧，零跑的低价策略与蔚来的高端品牌均获增长。",
+          "pull_quote": "Leapmotor delivered 80,000 vehicles in May, an increase of 150% year-on-year, while NIO delivered 20,000, overtaking Li Auto's 18,000.",
+          "pull_quote_zh": "零跑5月交付8万辆，同比增长150%；蔚来交付2万辆，超越理想的1.8万辆。",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41LWdqS2ktLVktV0hmempfbE42dGdPZHZJRG5ISVloV20tckI1Mko0X0RnMlpKZ0xPNlNuTkw4SFVvMFBPTWNuUGxBV2RrQQ?oc=5"
+        },
+        {
+          "primary_title": "36氪_让一部分人先看到未来",
+          "english_title": "36Kr: Let Some People See the Future First",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1HRUZNcUZONk50T2hMc2RIQlRPcUdoYUpPWUZyZXN2YmpTVncxYm45bS0wMFYxZw?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-07T15:18:48+08:00",
       "date": "2026-06-07",
