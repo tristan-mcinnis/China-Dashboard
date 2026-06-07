@@ -1,8 +1,303 @@
 {
-  "as_of": "2026-06-07T22:45:22+08:00",
+  "as_of": "2026-06-08T06:25:54+08:00",
   "source": "daily_digest archive",
-  "count": 27,
+  "count": 28,
   "entries": [
+    {
+      "as_of": "2026-06-08T06:25:54+08:00",
+      "date": "2026-06-08",
+      "time_label": "Morning Brief",
+      "beijing_time": "06:25",
+      "digest_type": "morning",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Xi to visit North Korea, reaffirming alliance amid global tensions",
+      "headline_zh": "习近平将访朝，重申中朝同盟关系",
+      "narrative": "Xi Jinping's upcoming visit to North Korea, his first in seven years, dominates the day's agenda, signaling continuity in the Sino-DPRK relationship despite geopolitical shifts. Meanwhile, Gaokao dominates social discourse, with viral stories highlighting extreme difficulty polarization and student resilience. On the economic front, MOFCOM announced anti-dumping duties on POM imports from Korea, Thailand, and Malaysia, while new measures to boost inbound tourism via departure tax refunds were unveiled. The CSRC issued guidelines for private equity fund supervision, reflecting ongoing financial risk control efforts.",
+      "narrative_zh": "习近平即将访问朝鲜，这是七年来首次，表明中朝关系在 geopolitical 变化中保持延续。高考成为社会焦点，试题难度两极分化和考生心态的趣闻刷屏。经济方面，商务部对韩泰马共聚聚甲醛征收反倾销税，并推出离境退税措施促入境消费。证监会发布私募基金监管新规，金融风险防控持续推进。",
+      "market_snapshot": "SSE Composite 4027.736 ▼0.74% · Shenzhen Component 15314.7 ▼2.21% · ChiNext 3957.935 ▼3.20% · USD/CNY 6.765 ▼0.12% · USD/CNH 6.7908 ▲0.26%",
+      "themes": [
+        "Xi Jinping",
+        "North Korea",
+        "Gaokao",
+        "Trade remedies",
+        "Private equity regulation",
+        "Cross-strait relations"
+      ],
+      "theme_trends": {
+        "Xi Jinping": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "North Korea": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "Gaokao": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "Trade remedies": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "Private equity regulation": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "Cross-strait relations": {
+          "status": "recurring",
+          "days_seen": 6
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "习近平同金正恩交往的精彩瞬间",
+          "english_title": "Xi Jinping's highlights of interactions with Kim Jong Un",
+          "why_it_matters": "Paves the ground for Xi's upcoming state visit to North Korea, reaffirming the bilateral alliance.",
+          "why_it_matters_zh": "为习近平即将对朝鲜的国事访问铺垫，重申两国同盟关系。",
+          "pull_quote": "Over 7 years, Xi will step onto this land again, a testament to the unbreakable friendship.",
+          "pull_quote_zh": "时隔7年，习近平总书记将再次踏上这片土地，见证牢不可破的友谊。",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%A4%E5%BE%80%E7%9A%84%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4"
+        },
+        {
+          "primary_title": "记者刚开口安慰 考生：我已经考上了",
+          "english_title": "Reporter tries to comfort exam taker, he says 'I already got into college'",
+          "why_it_matters": "Highlights the immense pressure and individual anecdotes that define China's Gaokao experience.",
+          "why_it_matters_zh": "折射出高考的巨大压力以及个人故事如何塑造这一全国性经历。",
+          "pull_quote": "The last big problem I usually don't look at, because I can't solve it.",
+          "pull_quote_zh": "最后一道大题我一般不看，因为我不会。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%88%9A%E5%BC%80%E5%8F%A3%E5%AE%89%E6%85%B0+%E8%80%83%E7%94%9F%EF%BC%9A%E6%88%91%E5%B7%B2%E7%BB%8F%E8%80%83%E4%B8%8A%E4%BA%86"
+        },
+        {
+          "primary_title": "考生评高考数学：前面1+1后面造飞机",
+          "english_title": "Examinees say math Gaokao extremely polarized: basic then rocket science",
+          "why_it_matters": "Fuels public debate on Gaokao fairness and the appropriateness of extreme difficulty curves.",
+          "why_it_matters_zh": "引发对高考公平性和难度曲线合理性的公众讨论。",
+          "pull_quote": "Questions were like 1+1 in the front, building airplanes in the back.",
+          "pull_quote_zh": "前面1+1，后面造飞机。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%AF%84%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%EF%BC%9A%E5%89%8D%E9%9D%A21%2B1%E5%90%8E%E9%9D%A2%E9%80%A0%E9%A3%9E%E6%9C%BA"
+        },
+        {
+          "primary_title": "高考首日这些瞬间让人印象深刻",
+          "english_title": "Memorable moments from first day of Gaokao 2026",
+          "why_it_matters": "Gaokao remains a national ritual affecting 12.9 million families, with strong social and economic implications.",
+          "why_it_matters_zh": "高考仍是影响1290万个家庭的国家仪式，具有深刻的社会经济影响。",
+          "pull_quote": "12.9 million candidates take the exam, smiling.",
+          "pull_quote_zh": "1290万考生赴考，面带笑容。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB"
+        },
+        {
+          "primary_title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Mao Ning holds regular press conference on June 5",
+          "why_it_matters": "Provides official positions on key foreign policy issues, including likely Taiwan and trade topics.",
+          "why_it_matters_zh": "发布关键外交政策立场，可能涉及台湾和贸易议题。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml"
+        },
+        {
+          "primary_title": "多元探路乡村“老有所养”",
+          "english_title": "Multiple approaches to ensuring rural elderly care",
+          "why_it_matters": "Highlights the Party's focus on rural aging as a key social governance challenge.",
+          "why_it_matters_zh": "凸显党对农村老龄化这一社会治理重点的关注。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ZkJ0eENHR2Fqcm9US216VG1UN0ZKUEJCeWJIbWRIeFk4dGJmVENOekFHMU5RUC1XNWVPdkVxRml3aUs2el85aGluOGZjWkk0ZXJNQkNvNHlJMUlJT3JRV0xlNmtWTFBla0tPWEln?oc=5"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty rate inheritance for POM imports from South Korea, Thailand, Malaysia",
+          "why_it_matters": "Continues trade remedy actions, potentially escalating tensions with key trading partners.",
+          "why_it_matters_zh": "持续贸易救济行动，可能加剧与主要贸易伙伴的紧张关系。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "MOFCOM and 4 departments adjust export control list for precursor chemicals",
+          "why_it_matters": "Strengthens regulation of dual-use chemicals, aligning with international security norms.",
+          "why_it_matters_zh": "加强对两用化学品的管控，与国际安全规范接轨。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "MOFCOM and 5 other departments strengthen departure tax refund to boost inbound consumption",
+          "why_it_matters": "Aims to revive tourism spending and offset domestic demand weakness.",
+          "why_it_matters_zh": "旨在刺激旅游消费，对冲内需疲软。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Record of State Council Taiwan Affairs Office press conference (June 3)",
+          "why_it_matters": "Reaffirms red lines on Taiwan, likely including opposition to external interference.",
+          "why_it_matters_zh": "重申对台红线，可能包括反对外部干涉。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm"
+        },
+        {
+          "primary_title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
+          "english_title": "Vice Foreign Minister Miao Deyu meets with South African Director-General Dangor",
+          "why_it_matters": "Strengthens bilateral ties ahead of potential BRICS or global governance cooperation.",
+          "why_it_matters_zh": "在潜在的金砖或全球治理合作前加强双边关系。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部新闻",
+          "url": "https://www.mfa.gov.cn/web/wjbxw_new/202606/t20260607_11939033.shtml"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on guidelines for private equity fund supervision",
+          "why_it_matters": "New rules aim to curb risks in the private equity industry, part of broader financial oversight.",
+          "why_it_matters_zh": "新规旨在遏制私募基金行业风险，是更广泛金融监管的一部分。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "36氪_让一部分人先看到未来",
+          "english_title": "36Kr: Let some people see the future first",
+          "why_it_matters": "Leading tech media's top story reflects current narratives in China's innovation scene.",
+          "why_it_matters_zh": "领先科技媒体的头条反映了中国创新领域当前的叙事。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1HRUZNcUZONk50T2hMc2RIQlRPcUdoYUpPWUZyZXN2YmpTVncxYm45bS0wMFYxZw?oc=5"
+        },
+        {
+          "primary_title": "OpenRouter 的悖论",
+          "english_title": "The paradox of OpenRouter",
+          "why_it_matters": "Discusses tensions in open infrastructure models for AI, relevant to China's tech policy debates.",
+          "why_it_matters_zh": "探讨AI开放基础设施模式中的矛盾，与中国科技政策辩论相关。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWaGNhbzBWbndIT1p1RWVIMmt1NVU0RzRtRUU3NW95OEwzZ1J6cTlnNE1INXRiVnJjNF9LZDZqYVgzUnlfSU92ZDFhMzltdw?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-07T22:45:21+08:00",
       "date": "2026-06-07",

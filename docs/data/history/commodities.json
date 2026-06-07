@@ -1,7 +1,73 @@
 {
   "source": "Yahoo Finance — commodities",
-  "generated_at": "2026-06-07T22:42:16+08:00",
+  "generated_at": "2026-06-08T06:23:02+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-08T06:23:02+08:00",
+      "source": "Yahoo Finance — commodities",
+      "items": [
+        {
+          "title": "Iron Ore",
+          "value": 161.91,
+          "url": "https://finance.yahoo.com/quote/TIO=F",
+          "extra": {
+            "symbol": "TIO=F",
+            "unit": "USD/t",
+            "chg_pct": 20.99,
+            "ts": 1628647552,
+            "pillar": "economy"
+          }
+        },
+        {
+          "title": "Copper",
+          "value": 6.25,
+          "url": "https://finance.yahoo.com/quote/HG=F",
+          "extra": {
+            "symbol": "HG=F",
+            "unit": "USD/lb",
+            "chg_pct": -0.6,
+            "ts": 1780870380,
+            "pillar": "economy"
+          }
+        },
+        {
+          "title": "Crude (WTI)",
+          "value": 93.16,
+          "url": "https://finance.yahoo.com/quote/CL=F",
+          "extra": {
+            "symbol": "CL=F",
+            "unit": "USD/bbl",
+            "chg_pct": 2.89,
+            "ts": 1780870381,
+            "pillar": "economy"
+          }
+        },
+        {
+          "title": "Crude (Brent)",
+          "value": 95.74,
+          "url": "https://finance.yahoo.com/quote/BZ=F",
+          "extra": {
+            "symbol": "BZ=F",
+            "unit": "USD/bbl",
+            "chg_pct": 2.85,
+            "ts": 1780870318,
+            "pillar": "economy"
+          }
+        },
+        {
+          "title": "Gold",
+          "value": 4345.0,
+          "url": "https://finance.yahoo.com/quote/GC=F",
+          "extra": {
+            "symbol": "GC=F",
+            "unit": "USD/oz",
+            "chg_pct": -0.47,
+            "ts": 1780870378,
+            "pillar": "economy"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-07T22:42:16+08:00",
       "source": "Yahoo Finance — commodities",

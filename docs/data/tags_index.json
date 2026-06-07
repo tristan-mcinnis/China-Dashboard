@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T22:45:21+08:00",
+  "updated_at": "2026-06-08T06:25:54+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1503,8 +1503,19 @@
     },
     "xi jinping": {
       "label": "Xi Jinping",
-      "count": 4,
+      "count": 5,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "习近平同金正恩交往的精彩瞬间",
+          "english_title": "Xi Jinping's highlights of interactions with Kim Jong Un",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%A4%E5%BE%80%E7%9A%84%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-03",
           "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
@@ -3909,8 +3920,29 @@
     },
     "north korea": {
       "label": "North Korea",
-      "count": 1,
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty rate inheritance for POM imports from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "习近平同金正恩交往的精彩瞬间",
+          "english_title": "Xi Jinping's highlights of interactions with Kim Jong Un",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%A4%E5%BE%80%E7%9A%84%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-05",
           "title": "习近平将访问朝鲜",
@@ -5094,9 +5126,20 @@
       ]
     },
     "cross-strait relations": {
-      "label": "cross-strait relations",
-      "count": 1,
+      "label": "Cross-strait relations",
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "习近平同金正恩交往的精彩瞬间",
+          "english_title": "Xi Jinping's highlights of interactions with Kim Jong Un",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%A4%E5%BE%80%E7%9A%84%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-07",
           "title": "国务院台办新闻发布会辑录（2026-06-03）",
@@ -5441,8 +5484,41 @@
     },
     "gaokao": {
       "label": "Gaokao",
-      "count": 4,
+      "count": 7,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "高考首日这些瞬间让人印象深刻",
+          "english_title": "Memorable moments from first day of Gaokao 2026",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "考生评高考数学：前面1+1后面造飞机",
+          "english_title": "Examinees say math Gaokao extremely polarized: basic then rocket science",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%AF%84%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%EF%BC%9A%E5%89%8D%E9%9D%A21%2B1%E5%90%8E%E9%9D%A2%E9%80%A0%E9%A3%9E%E6%9C%BA",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "记者刚开口安慰 考生：我已经考上了",
+          "english_title": "Reporter tries to comfort exam taker, he says 'I already got into college'",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%88%9A%E5%BC%80%E5%8F%A3%E5%AE%89%E6%85%B0+%E8%80%83%E7%94%9F%EF%BC%9A%E6%88%91%E5%B7%B2%E7%BB%8F%E8%80%83%E4%B8%8A%E4%BA%86",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-07",
           "title": "记者刚开口安慰 考生：我已经考上了",
@@ -5671,6 +5747,58 @@
           "title": "2026年6月5日外交部发言人毛宁主持例行记者会",
           "english_title": "Foreign Ministry Press Briefing: June 5",
           "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "trade remedies": {
+      "label": "Trade remedies",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty rate inheritance for POM imports from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Mao Ning holds regular press conference on June 5",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "private equity regulation": {
+      "label": "Private equity regulation",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on guidelines for private equity fund supervision",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "MOFCOM and 4 departments adjust export control list for precursor chemicals",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
           "platforms": [
             "gov_registry"
           ],
