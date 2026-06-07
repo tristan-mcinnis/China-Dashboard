@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T11:49:29+08:00",
+  "updated_at": "2026-06-07T15:18:48+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -5138,6 +5138,167 @@
             "gov_registry"
           ],
           "category": "regulatory"
+        }
+      ]
+    },
+    "sino-north korea summit": {
+      "label": "Sino-North Korea summit",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM anti-dumping duties on polyoxymethylene from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Mao Ning's press conference on June 5",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "推动中朝关系与时俱进取得更大发展",
+          "english_title": "Xi Jinping to make state visit to North Korea on June 8-9",
+          "url": "https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB%E4%B8%8E%E6%97%B6%E4%BF%B1%E8%BF%9B%E5%8F%96%E5%BE%97%E6%9B%B4%E5%A4%A7%E5%8F%91%E5%B1%95",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "gaokao societal ritual": {
+      "label": "Gaokao societal ritual",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "祝每一位高考生圆梦今夏",
+          "english_title": "Online well-wishes for all Gaokao candidates",
+          "url": "https://www.baidu.com/s?wd=%E7%A5%9D%E6%AF%8F%E4%B8%80%E4%BD%8D%E9%AB%98%E8%80%83%E7%94%9F%E5%9C%86%E6%A2%A6%E4%BB%8A%E5%A4%8F",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "一年一度“小蝌蚪找妈妈现场”",
+          "english_title": "Gaokao students emerge searching for parents, spawning viral meme",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E2%80%9C%E5%B0%8F%E8%9D%8C%E8%9A%AA%E6%89%BE%E5%A6%88%E5%A6%88%E7%8E%B0%E5%9C%BA%E2%80%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "2026高考作文出炉",
+          "english_title": "2026 Gaokao essay topics released, trends on Baidu and WeChat",
+          "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E5%87%BA%E7%82%89",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "economic regulation and trade measures": {
+      "label": "Economic regulation and trade measures",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM anti-dumping duties on polyoxymethylene from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "tech and ev industry trends": {
+      "label": "Tech and EV industry trends",
+      "count": 6,
+      "stories": [
+        {
+          "date": "2026-06-07",
+          "title": "零跑破8万、蔚来超理想，硬仗6月才开始",
+          "english_title": "Leapmotor breaks 80K units, NIO overtakes Li Auto; tough battle ahead in June",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41LWdqS2ktLVktV0hmempfbE42dGdPZHZJRG5ISVloV20tckI1Mko0X0RnMlpKZ0xPNlNuTkw4SFVvMFBPTWNuUGxBV2RrQQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+          "english_title": "Doubao loses 6.1M MAU after paid launch; Anthropic warns on AI self-improvement; Luo Yonghao resigns",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2YXplZ2ZRQ09QTXlnMmJsSEUtUmVuR0hXV2JtT3hVZkp0b3BOSkx2Q3V3cTNUalprVUlpVUEtUGR1Y05tYVFvLXl2SDlNdw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on new private equity fund guidelines",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
+          "english_title": "Vice Foreign Minister Miao Deyu meets South Africa's Director-General of Foreign Affairs",
+          "url": "https://www.mfa.gov.cn/web/wjbxw_new/202606/t20260607_11939033.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "上海发布近视分级分类干预成效报告 AI分层防控将下沉边远农村",
+          "english_title": "Shanghai reports on myopia intervention, AI screening to expand to rural areas",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rQjNXSnFtQXdDMWFmNThvOFFmbVpWYTlQa3RJMllHUXREbGVzd3o4eThhRUx1ZG5NT0FwallXWWxCOElTV3ZkRVJReXNkeVVHSHQxQzc1WWtpTEE4VWhGeXFuY1pFeEZncHVKdE13?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-07",
+          "title": "2026高考作文出炉",
+          "english_title": "2026 Gaokao essay topics released, trends on Baidu and WeChat",
+          "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E5%87%BA%E7%82%89",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
         }
       ]
     }
