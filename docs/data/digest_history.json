@@ -1,52 +1,52 @@
 {
-  "as_of": "2026-06-08T20:11:18+08:00",
+  "as_of": "2026-06-08T23:18:53+08:00",
   "source": "daily_digest archive",
   "count": 30,
   "entries": [
     {
-      "as_of": "2026-06-08T20:11:18+08:00",
+      "as_of": "2026-06-08T23:18:53+08:00",
       "date": "2026-06-08",
       "time_label": "Evening Brief",
-      "beijing_time": "20:10",
+      "beijing_time": "23:18",
       "digest_type": "evening",
       "generated_by": "deepseek-v4-flash",
-      "headline": "Xi arrives in Pyongyang, pledges 'everlasting friendship' with North Korea as tense region watches",
-      "headline_zh": "习近平抵达平壤，称与朝鲜是'永恒的友谊'",
-      "narrative": "The Xi-Kim summit dominates today's brief, underscoring China's strategic alignment with North Korea amid heightened regional tensions. The visit, Xi's first to Pyongyang since 2024, comes as the U.S. and South Korea conduct joint military exercises. On the domestic front, Beijing released a flurry of economic and regulatory measures, including anti-dumping duties, export controls, and tax refund optimization, signaling continued fine-tuning of industrial and consumption policies. Gaokao social media trends offer a lighter counterpoint.",
-      "narrative_zh": "习金峰会主导今日简报，凸显中国在地区紧张加剧之际与朝鲜的战略协调。此访是习近平自2024年以来首次访问平壤，正值美韩举行联合军演。国内方面，北京发布了一系列经济和监管措施，包括反倾销税、出口管制和离境退税优化，表明产业和消费政策的持续微调。高考社交媒体趋势提供了轻松的一面。",
-      "market_snapshot": "SSE Composite 3959.338 ▼1.70% · Shenzhen Component 14821.187 ▼3.22% · ChiNext 3811.785 ▼3.69% · USD/CNY 6.7808 ▲0.23% · USD/CNH 6.7821 ▼0.10%",
+      "headline": "Xi and Kim hold summit in Pyongyang, reaffirming bilateral ties",
+      "headline_zh": "习近平与金正恩平壤会晤，重申双边关系",
+      "narrative": "President Xi Jinping's summit with Kim Jong Un in Pyongyang dominates the day's news, reinforcing China's commitment to its 'traditional friendship' with North Korea at a time of heightened US-China competition. The visit includes cultural performances and a signed article, underscoring diplomatic choreography. Meanwhile, domestic equities fell sharply, with the ChiNext down 3.7%, as investor sentiment weakened. On the policy front, the State Council released the 15th Five-Year Plan for modern emergency response systems, while the CSRC outlined new rules for private funds, both signaling regulatory tightening. In tech, two AI startups raised significant funding.",
+      "narrative_zh": "习近平与金正恩在平壤的会晤成为今日焦点，彰显中国在美中竞争加剧之际对朝鲜'传统友谊'的承诺。访问包括文艺演出和署名文章，体现精心设计的外交安排。与此同时，国内股市大幅下跌，创业板指跌3.7%，反映投资者情绪疲弱。政策方面，国务院发布'十五五'现代化应急体系建设规划，证监会出台私募基金新规，显示监管趋严。科技领域，两家AI初创公司获得大额融资。",
+      "market_snapshot": "SSE Composite 3959.338 ▼1.70% · Shenzhen Component 14821.187 ▼3.22% · ChiNext 3811.785 ▼3.69% · USD/CNY 6.7819 ▲0.25% · USD/CNH 6.7826 ▼0.09%",
       "themes": [
         "Xi-Kim summit",
-        "Gaokao",
-        "summer heatwave",
-        "future industries",
-        "anti-dumping",
-        "export controls"
+        "Sino-DPRK relations",
+        "Market decline",
+        "Emergency response plan",
+        "AI financing",
+        "Regulatory tightening"
       ],
       "theme_trends": {
         "Xi-Kim summit": {
           "status": "recurring",
           "days_seen": 7
         },
-        "Gaokao": {
+        "Sino-DPRK relations": {
           "status": "recurring",
           "days_seen": 5
         },
-        "summer heatwave": {
-          "status": "new",
-          "days_seen": 0
-        },
-        "future industries": {
-          "status": "recurring",
-          "days_seen": 3
-        },
-        "anti-dumping": {
+        "Market decline": {
           "status": "recurring",
           "days_seen": 6
         },
-        "export controls": {
+        "Emergency response plan": {
           "status": "recurring",
           "days_seen": 4
+        },
+        "AI financing": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "Regulatory tightening": {
+          "status": "recurring",
+          "days_seen": 6
         }
       },
       "pillars": [
@@ -83,62 +83,46 @@
       ],
       "top_stories": [
         {
-          "primary_title": "习近平开始对朝鲜进行国事访问",
-          "english_title": "Xi Jinping arrives in Pyongyang for state visit to North Korea",
-          "why_it_matters": "First Xi-Kim summit since 2024, signals deepening ties amid geopolitical tensions, with potential implications for denuclearization talks and regional stability.",
-          "why_it_matters_zh": "自2024年以来首次习金峰会，表明伙伴关系在地缘政治紧张中深化，对无核化谈判和地区稳定有潜在影响。",
-          "pull_quote": "Xi hailed 'everlasting friendship' with North Korea in a letter to Kim before departure.",
-          "pull_quote_zh": "习近平在出发前致金正恩的信中称赞与朝鲜是'永恒的友谊'。",
-          "pillar": "politics",
-          "platforms": [
-            "baidu_top",
-            "tencent_wechat_hot",
-            "thepaper_news"
-          ],
-          "platform_count": 3,
-          "source": "",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE"
-        },
-        {
           "primary_title": "习近平同金正恩举行会谈",
-          "english_title": "Xi Jinping and Kim Jong-un hold talks, pledges of cooperation",
-          "why_it_matters": "The summit agenda likely includes economic cooperation and coordination on denuclearization, with potential joint statement to follow.",
-          "why_it_matters_zh": "峰会日程可能包括经济合作和无核化协调，随后可能发布联合声明。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
+          "english_title": "Xi Jinping holds talks with Kim Jong Un in Pyongyang",
+          "why_it_matters": "The summit reaffirms China's strategic support for North Korea amid international isolation and showcases personal diplomacy between the two leaders.",
+          "why_it_matters_zh": "此次会晤重申了中国在北韩面临国际孤立时的战略支持，并展示了两位领导人之间的个人外交。",
+          "pull_quote": "The talks cover economic cooperation, regional security, and the Korean Peninsula situation.",
+          "pull_quote_zh": "会谈涵盖经济合作、地区安全及半岛局势。",
           "pillar": "politics",
           "platforms": [
             "baidu_top",
             "elite_press",
-            "tencent_wechat_hot"
+            "tencent_wechat_hot",
+            "thepaper_news"
           ],
-          "platform_count": 3,
+          "platform_count": 4,
           "source": "People's Daily",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88"
         },
         {
-          "primary_title": "考完数学沉默了 考完英语又笑了",
-          "english_title": "Gaokao math stuns students, English exam cheers them",
-          "why_it_matters": "Reflects the national obsession with the college entrance exam and its emotional toll on millions of students and families.",
-          "why_it_matters_zh": "反映了全国对高考的痴迷及其对数百万学生和家庭的情感影响。",
-          "pull_quote": "Many students found math exceptionally difficult this year.",
-          "pull_quote_zh": "许多学生认为今年数学异常困难。",
-          "pillar": "society",
+          "primary_title": "习近平和彭丽媛观看朝鲜文艺演出",
+          "english_title": "Xi Jinping and Peng Liyuan attend North Korean cultural performance",
+          "why_it_matters": "Peng Liyuan's presence adds a soft-power dimension to the visit, signaling family-to-family ties.",
+          "why_it_matters_zh": "彭丽媛的出席为访问增添了软实力维度，象征着家庭层面的联系。",
+          "pull_quote": "The performance featured traditional Korean and Chinese dances, symbolizing cultural affinity.",
+          "pull_quote_zh": "演出展示了传统朝鲜和中国的舞蹈，象征文化亲和力。",
+          "pillar": "politics",
           "platforms": [
             "baidu_top",
             "tencent_wechat_hot"
           ],
           "platform_count": 2,
           "source": "",
-          "url": "https://www.baidu.com/s?wd=%E8%80%83%E5%AE%8C%E6%95%B0%E5%AD%A6%E6%B2%89%E9%BB%98%E4%BA%86+%E8%80%83%E5%AE%8C%E8%8B%B1%E8%AF%AD%E5%8F%88%E7%AC%91%E4%BA%86"
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%A7%82%E7%9C%8B%E6%9C%9D%E9%B2%9C%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA"
         },
         {
-          "primary_title": "夏季高温 户外出行要注意这几点",
-          "english_title": "Summer heatwave prompts safety reminders from authorities",
-          "why_it_matters": "Highlights government's proactive risk communication during extreme weather, as climate change increases frequency of heatwaves.",
-          "why_it_matters_zh": "凸显政府在极端天气期间主动进行风险沟通，气候变化增加了热浪频率。",
-          "pull_quote": "Outdoor workers and travelers urged to take precautions against heatstroke.",
-          "pull_quote_zh": "户外工作者和旅行者被敦促采取防暑措施。",
+          "primary_title": "“李华 我再也不用见到你了”",
+          "english_title": "\"Li Hua, I will never see you again\" goes viral after Gaokao English exam",
+          "why_it_matters": "The meme reflects the end of a high-pressure academic milestone and the shared experience of Chinese students, resonating widely on social media.",
+          "why_it_matters_zh": "这个梗反映了高压学术里程碑的结束和中国学生的共同经历，在社交媒体上引起广泛共鸣。",
+          "pull_quote": "A student said, 'I did very well, much easier than other subjects.'",
+          "pull_quote_zh": "一名学生表示：'发挥非常好，比其他的都简单。'",
           "pillar": "society",
           "platforms": [
             "baidu_top",
@@ -146,15 +130,31 @@
           ],
           "platform_count": 2,
           "source": "",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%8F%E5%AD%A3%E9%AB%98%E6%B8%A9+%E6%88%B7%E5%A4%96%E5%87%BA%E8%A1%8C%E8%A6%81%E6%B3%A8%E6%84%8F%E8%BF%99%E5%87%A0%E7%82%B9"
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%8E%E5%8D%8E+%E6%88%91%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E8%A7%81%E5%88%B0%E4%BD%A0%E4%BA%86%E2%80%9D"
         },
         {
-          "primary_title": "青岛考生：终于不用帮李华写信了",
-          "english_title": "Qingdao students relieved as 'Li Hua' disappears from English exam",
-          "why_it_matters": "Shows generational shift in exam culture and social media reaction to a long-running joke finally ending.",
-          "why_it_matters_zh": "展示了考试文化的代际转变以及社交媒体对一个长期笑话终于结束的反应。",
-          "pull_quote": "Students joked that they finally 'fired' Li Hua after years of writing letters for him.",
-          "pull_quote_zh": "学生们开玩笑说，在为他写了多年信后，终于'解雇'了李华。",
+          "primary_title": "中朝传统友谊崭新篇章如何续写",
+          "english_title": "Xi Jinping publishes signed article in North Korean media",
+          "why_it_matters": "The article, titled 'New Chapter of China-DPRK Friendship', serves as a pre-summit message to both domestic and international audiences, framing the relationship as enduring and principled.",
+          "why_it_matters_zh": "题为《继往开来、砥砺同行 续写中朝传统友谊崭新篇章》的文章作为会晤前的信息，向国内外受众传达双边关系的持久性和原则性。",
+          "pull_quote": "We are willing to work with the Korean comrades to carry forward the traditional friendship.",
+          "pull_quote_zh": "我们愿同朝鲜同志携手，续写传统友谊崭新篇章。",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E5%B4%AD%E6%96%B0%E7%AF%87%E7%AB%A0%E5%A6%82%E4%BD%95%E7%BB%AD%E5%86%99"
+        },
+        {
+          "primary_title": "家长开吊车拉横幅：考不好爸妈养你",
+          "english_title": "Parent uses crane to hang banner for daughter's Gaokao support",
+          "why_it_matters": "The creative expression of parental support goes viral, highlighting the intense social focus on the college entrance exam and the lengths families go to show love.",
+          "why_it_matters_zh": "这种创造性的家长支持表达方式走红，凸显了社会对高考的高度关注以及家庭表达爱的各种方式。",
+          "pull_quote": "Relax, even if you fail, we will support you.",
+          "pull_quote_zh": "放心考，考不好爸妈养你。",
           "pillar": "society",
           "platforms": [
             "baidu_top",
@@ -162,13 +162,13 @@
           ],
           "platform_count": 2,
           "source": "",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%80%83%E7%94%9F%EF%BC%9A%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E5%B8%AE%E6%9D%8E%E5%8D%8E%E5%86%99%E4%BF%A1%E4%BA%86"
+          "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%BC%80%E5%90%8A%E8%BD%A6%E6%8B%89%E6%A8%AA%E5%B9%85%EF%BC%9A%E8%80%83%E4%B8%8D%E5%A5%BD%E7%88%B8%E5%A6%88%E5%85%BB%E4%BD%A0"
         },
         {
           "primary_title": "2026年6月8日外交部发言人林剑主持例行记者会",
-          "english_title": "Foreign Ministry press conference: spokesperson tackles multiple issues",
-          "why_it_matters": "Regular briefing provides official stance on various diplomatic matters, including Taiwan, South China Sea, and Sino-U.S. relations.",
-          "why_it_matters_zh": "例行记者会提供了对台湾、南海和中美关系等多个外交议题的官方立场。",
+          "english_title": "Foreign Ministry regular press conference on June 8",
+          "why_it_matters": "The presser addresses the Xi visit to North Korea and other regional issues, providing official Chinese positions.",
+          "why_it_matters_zh": "记者会涉及习近平访朝及其他地区问题，提供中国官方立场。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "geopolitics",
@@ -180,42 +180,27 @@
           "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260608_11939733.shtml"
         },
         {
-          "primary_title": "伊朗消息人士：伊方已做好军事准备应对以色列进一步行动",
-          "english_title": "Iranian sources: Iran has made military preparations to respond to further...",
-          "why_it_matters": "",
-          "why_it_matters_zh": "",
-          "pull_quote": "",
-          "pull_quote_zh": "",
-          "pillar": "politics",
+          "primary_title": "国务院印发《现代化应急体系建设“十五五”规划》",
+          "english_title": "State Council issues 15th Five-Year Plan for modern emergency response system",
+          "why_it_matters": "The plan outlines China's ambitions to upgrade disaster management and public safety infrastructure, reflecting lessons from COVID-19 and natural disasters.",
+          "why_it_matters_zh": "该规划提出了升级灾害管理和公共安全基础设施的目标，反映了从新冠疫情和自然灾害中吸取的教训。",
+          "pull_quote": "The plan emphasizes building a unified, efficient, and intelligent emergency management system.",
+          "pull_quote_zh": "规划强调建设统一、高效、智能的应急管理体系。",
+          "pillar": "regulatory",
           "platforms": [
             "xinhua_news"
           ],
           "platform_count": 1,
           "source": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITlVBSUpHUDlqX0tFNTlienFOdUIwcVVVVTMzM0FrZjM4QWNBVmlhTTFBN19uLVM5QkRTRjNzVmMwZHBiZnRSaXdHdjlCRzFRenVYZ3BiWF9qVGlUT0pQU09KQ2RSNzNhOFVjTVFQdDRxeTEzSU9vUW5kcm9hQVk?oc=5"
-        },
-        {
-          "primary_title": "前瞻布局和发展未来产业",
-          "english_title": "Qiushi publishes Xi article on forward-looking deployment of future industries",
-          "why_it_matters": "Signals policy direction for strategic emerging industries, with emphasis on quantum computing, AI, and biotechnology as national priorities.",
-          "why_it_matters_zh": "表明对战略性新兴产业的政策方向，强调将量子计算、人工智能和生物技术作为国家优先事项。",
-          "pull_quote": "Xi calls for accelerating breakthroughs in quantum computing, AI, and biotechnology.",
-          "pull_quote_zh": "习近平呼吁加快量子计算、人工智能和生物技术的突破。",
-          "pillar": "politics",
-          "platforms": [
-            "elite_press"
-          ],
-          "platform_count": 1,
-          "source": "Qiushi",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSE0yM0xIWjQ2bTZ2OVNXem9PQ0NkbXAwNmwxZGg2MEYwcU1zd1ZmeG84Zk03N1M3eEU3M003bldRNHZfVUtoVkhyVjNpbFlkc0Qzb2RXcmhxaS1Wc3QwbXRid1ZxMjg1emhoVms3dzVoQ1RfdVY2cUx5SEg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04Wk5UQXpieEo4RjZKUi1oNnlLU1FDX1Y5NUk3UDVfTExCWkd2bWN2RXA0aDh1U1c0bE9EYUotdTBoTElnRUVfOXRKdWxOYjAzQ0pBY01ueWEyUWJHY09tR3ZORlB4MFhHMnFYcGVTdF90N05tTFJlZV9qUVNmbHc?oc=5"
         },
         {
           "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-          "english_title": "MOFCOM imposes anti-dumping duties on POM imports from Korea, Thailand, Malaysia",
-          "why_it_matters": "Protects domestic chemical industry but could raise costs for downstream users, reflecting continued trade remedy activism.",
-          "why_it_matters_zh": "保护国内化工产业，但可能提高下游用户成本，反映了持续的贸易救济行动主义。",
-          "pull_quote": "The anti-dumping duties range from 6% to 45% depending on the company.",
-          "pull_quote_zh": "反倾销税率从6%到45%不等，取决于公司。",
+          "english_title": "MOFCOM announces anti-dumping duty rates on polyoxymethylene from Korea, Thailand, Malaysia",
+          "why_it_matters": "The decision continues China's use of trade remedies to protect domestic chemical industries, with implications for supply chains.",
+          "why_it_matters_zh": "该决定延续了中国利用贸易救济措施保护国内化工行业的一贯做法，对供应链有影响。",
+          "pull_quote": "The new rates follow a review of company succession after reorganization.",
+          "pull_quote_zh": "新税率是在重组后公司继承审查后确定的。",
           "pillar": "economy",
           "platforms": [
             "gov_registry"
@@ -225,12 +210,27 @@
           "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
         },
         {
+          "primary_title": "市场监管总局约谈美宜佳总部",
+          "english_title": "Market regulator summons Meiyijia convenience store chain for talks",
+          "why_it_matters": "The summons signals increased scrutiny on retail chains regarding pricing, quality, or compliance issues, part of broader consumer protection efforts.",
+          "why_it_matters_zh": "约谈标志着对零售连锁店在定价、质量或合规问题上加强审查，是更广泛消费者保护行动的一部分。",
+          "pull_quote": "The talks focus on operational standards and consumer rights.",
+          "pull_quote_zh": "谈话重点在于运营标准和消费者权益。",
+          "pillar": "regulatory",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jWGFCaFVZNjMxMTh6VDI1UHRoZVBjc3p5ZmZwSGtPUWp2Qzk3Rm8zV3BwWThaR1NIUDFrNklYZTlIcUQ4NHRPcnluTDNVWlVEMjhwV2NYR2tTd1B4cDVCdzlaWkktS1NCNjRqNndPYnFzWEV1cXN5VjBfMUlKOEU?oc=5"
+        },
+        {
           "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-          "english_title": "China adjusts export control list for precursor chemicals",
-          "why_it_matters": "Tightens controls to prevent diversion to illegal drug production, part of broader efforts to combat fentanyl and other synthetic drugs.",
-          "why_it_matters_zh": "收紧管制以防止转用于非法毒品生产，是打击芬太尼等合成药物更广泛努力的一部分。",
-          "pull_quote": "The new list adds 12 substances to the restricted category.",
-          "pull_quote_zh": "新清单将12种物质列入限制类别。",
+          "english_title": "Five ministries adjust export control list for precursor chemicals",
+          "why_it_matters": "The move tightens controls on chemicals that could be used in narcotics, aligning with international obligations and domestic anti-drug campaigns.",
+          "why_it_matters_zh": "此举加强了对可用于制造毒品的化学品的管制，与国际义务和国内禁毒运动保持一致。",
+          "pull_quote": "The updated list includes additional substances subject to export licensing.",
+          "pull_quote_zh": "更新后的目录增加了需要出口许可的物项。",
           "pillar": "economy",
           "platforms": [
             "gov_registry"
@@ -241,11 +241,11 @@
         },
         {
           "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
-          "english_title": "China optimizes departure tax refund to boost inbound tourism spending",
-          "why_it_matters": "Part of efforts to revitalize travel and consumption post-pandemic, targeting foreign tourists to stimulate retail and hospitality sectors.",
-          "why_it_matters_zh": "疫后振兴旅游和消费努力的一部分，瞄准外国游客以刺激零售和酒店业。",
-          "pull_quote": "Tax refund rates for foreign tourists will be raised to 15% for eligible goods.",
-          "pull_quote_zh": "外国游客符合条件的商品退税率将提高至15%。",
+          "english_title": "Six ministries issue notice to optimize tax refunds for overseas tourists to boost consumption",
+          "why_it_matters": "The policy aims to attract foreign tourists and stimulate spending, part of broader efforts to revive tourism post-pandemic.",
+          "why_it_matters_zh": "该政策旨在吸引外国游客并刺激消费，是疫后振兴旅游业的更广泛努力的一部分。",
+          "pull_quote": "Measures include simplifying refund procedures and increasing tax-free limits.",
+          "pull_quote_zh": "措施包括简化退税流程和提高免税限额。",
           "pillar": "economy",
           "platforms": [
             "gov_registry"
@@ -256,11 +256,11 @@
         },
         {
           "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
-          "english_title": "Taiwan Affairs Office reiterates opposition to Taiwan independence",
-          "why_it_matters": "Maintains pressure ahead of potential Taiwan Strait tensions, reaffirming red lines in cross-strait relations.",
-          "why_it_matters_zh": "在潜在台海紧张局势前保持压力，重申两岸关系中的红线。",
-          "pull_quote": "Spokesperson warned against any official exchanges between Taiwan and foreign countries.",
-          "pull_quote_zh": "发言人警告台湾与外国之间的任何官方往来。",
+          "english_title": "Taiwan Affairs Office holds press conference on June 3 (transcript released June 8)",
+          "why_it_matters": "The press conference reiterates China's stance on Taiwan sovereignty and criticizes external interference, especially ahead of any potential US moves.",
+          "why_it_matters_zh": "记者会重申了中国对台湾主权的立场并批评外部干涉，尤其是在美国可能采取行动之前。",
+          "pull_quote": "We oppose any form of official exchanges between foreign countries and Taiwan.",
+          "pull_quote_zh": "我们反对任何形式的外国与台湾官方往来。",
           "pillar": "geopolitics",
           "platforms": [
             "gov_registry"
@@ -271,11 +271,11 @@
         },
         {
           "primary_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
-          "english_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
-          "why_it_matters": "International media coverage amplifies significance of the summit, drawing attention to China's role in the Korean Peninsula dynamics.",
-          "why_it_matters_zh": "国际媒体报道放大了峰会的意义，引起对中国在朝鲜半岛动态中作用的关注。",
-          "pull_quote": "Financial Times notes the visit is Xi's first to North Korea since 2024.",
-          "pull_quote_zh": "《金融时报》指出此访是习近平自2024年以来首次访问朝鲜。",
+          "english_title": "Financial Times reports Xi lands in North Korea for Kim meeting",
+          "why_it_matters": "Western media coverage highlights the strategic significance of the summit, though framing may differ from Chinese official narratives.",
+          "why_it_matters_zh": "西方媒体的报道强调了此次会晤的战略意义，尽管其框架可能与中国官方表述不同。",
+          "pull_quote": "The visit underscores China's role as North Korea's key ally amid stalled denuclearization talks.",
+          "pull_quote_zh": "此次访问凸显了中国在无核化谈判停滞之际作为北韩关键盟友的角色。",
           "pillar": "geopolitics",
           "platforms": [
             "elite_press"
@@ -286,11 +286,11 @@
         },
         {
           "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-          "english_title": "CSRC outlines new rules for private investment fund regulation",
-          "why_it_matters": "Aims to curb risks and improve oversight in the rapidly growing private fund sector, part of broader financial regulatory tightening.",
-          "why_it_matters_zh": "旨在遏制快速增长私募基金行业的风险并加强监管，是更广泛金融监管收紧的一部分。",
-          "pull_quote": "New rules impose stricter registration requirements and leverage limits.",
-          "pull_quote_zh": "新规施行更严格的注册要求和杠杆限制。",
+          "english_title": "CSRC spokesperson answers questions on new private fund regulations",
+          "why_it_matters": "The guidelines aim to strengthen oversight of private funds to prevent systemic risks, a priority for financial stability.",
+          "why_it_matters_zh": "该指导意见旨在加强对私募基金的监管以防范系统性风险，这是金融稳定的优先事项。",
+          "pull_quote": "The new rules require enhanced risk management and disclosure.",
+          "pull_quote_zh": "新规要求加强风险管理和信息披露。",
           "pillar": "regulatory",
           "platforms": [
             "gov_registry"
@@ -300,27 +300,12 @@
           "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
         },
         {
-          "primary_title": "请完成下列验证后继续 - 36 36kr",
-          "english_title": "Please complete the following verification to continue - 36Kr",
-          "why_it_matters": "",
-          "why_it_matters_zh": "",
-          "pull_quote": "",
-          "pull_quote_zh": "",
-          "pillar": "tech",
-          "platforms": [
-            "elite_press"
-          ],
-          "platform_count": 1,
-          "source": "36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ER0hmekg5Ml9BMXJMNG5CYmNKaEI5WVFGSk5lSlo0TnZ0czBIcE1RUEdPeDQ0THdTZWdDSW9WWUxiUTlTRlVKeVpVOXhTMHZu?oc=5"
-        },
-        {
           "primary_title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
-          "english_title": "'Huachao Shenkong' raises angel round for AI ultrasound brain-computer interface",
-          "why_it_matters": "Illustrates China's push in next-gen neurotechnology, with potential applications in medical and consumer electronics, attracting significant venture capital.",
-          "why_it_matters_zh": "显示中国在下一代神经技术方面的推进，具有医疗和消费电子领域的潜在应用，吸引了大量风险投资。",
-          "pull_quote": "The startup plans to develop non-invasive BCI devices for medical and consumer applications.",
-          "pull_quote_zh": "该初创公司计划开发用于医疗和消费应用的非侵入式脑机接口设备。",
+          "english_title": "Huachao Super Control raises 100 million yuan in angel round for AI ultrasound brain-computer interface",
+          "why_it_matters": "The funding reflects growing investor interest in neurotechnology and AI applications, though the technology is still early-stage.",
+          "why_it_matters_zh": "此轮融资反映了投资者对神经技术和AI应用日益增长的兴趣，尽管该技术仍处于早期阶段。",
+          "pull_quote": "The startup claims its platform enables non-invasive brain-computer interaction.",
+          "pull_quote_zh": "该初创公司声称其平台实现非侵入式脑机交互。",
           "pillar": "tech",
           "platforms": [
             "elite_press"
@@ -328,6 +313,21 @@
           "platform_count": 1,
           "source": "36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5"
+        },
+        {
+          "primary_title": "“Lvkang Chengcheng” completes tens of millions of yuan in pre-Series A financing",
+          "english_title": "Lvkang Chengcheng secures tens of millions in pre-Series A financing",
+          "why_it_matters": "Another health-tech AI startup attracts capital, showing continued momentum in China's digital health sector.",
+          "why_it_matters_zh": "又一家健康科技AI初创公司获得融资，显示中国数字健康领域持续活跃。",
+          "pull_quote": "The funds will be used for product development and market expansion.",
+          "pull_quote_zh": "资金将用于产品开发和市场拓展。",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zRS1ZTXhyMWZkSjQxRFhiODkxdTQ1OTNsRHB6SzZsdGs2WDZPY0VTXzJzdk1EQU5RZTBXSllRUDkyUW13SzVTNUd2d2IzNEdncFdjSFkxVVJfZVM3dEZWYQ?oc=5"
         }
       ]
     },

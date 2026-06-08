@@ -1,7 +1,741 @@
 {
   "source": "Elite press (party organs, financial, tech, Western)",
-  "generated_at": "2026-06-08T20:09:22+08:00",
+  "generated_at": "2026-06-08T23:16:48+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-08T23:16:48+08:00",
+      "source": "Elite press (party organs, financial, tech, Western)",
+      "items": [
+        {
+          "title": "习近平出席金正恩举行的欢迎宴会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoeWE4UUptZ0czWlFyVk12VHdHd3ZpYlUxZ1VZaGxlZE9peFZXbl9rMXY0cnMtQ1owWmNUd0tzZVB5bjNPLUhQaEhCck43TGhCT3VCM2thOUVucGRrOUd0SmZFRFV6QmN5QXZN?oc=5",
+          "extra": {
+            "source": "People's Daily",
+            "source_zh": "人民日报",
+            "pillar": "politics",
+            "lang": "zh",
+            "published": "2026-06-08T05:54:00Z",
+            "summary": "习近平出席金正恩举行的欢迎宴会 人民网-图片频道",
+            "translation": "Xi Jinping attends welcome banquet hosted by Kim Jong Un"
+          }
+        },
+        {
+          "title": "菲律宾强震已造成32人死亡--国际",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeTdlRmFzbVdaSDBCdkRmTTZOdVNQUUNkVVV1MnR4VjJuMVhkSDRTbzhaN3JqcmxORnF4eEtfeTlWbkluVlhLVVhPeFd3aHBFZmoyZUEwcUZIQ2hSanl3d3N3dU1YUnhMNVBB?oc=5",
+          "extra": {
+            "source": "People's Daily",
+            "source_zh": "人民日报",
+            "pillar": "politics",
+            "lang": "zh",
+            "published": "2026-06-08T02:21:00Z",
+            "summary": "菲律宾强震已造成32人死亡--国际 人民网",
+            "translation": "Strong earthquake in Philippines kills 32 - International"
+          }
+        },
+        {
+          "title": "日本气象厅发布海啸预警--国际",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zamcwd0p0RkFkTEg0TGxKX1Z2czIwMC01V2VrdkloQkpqdXVyUlQ0V0NnakppSDc0S29vTG14X1MwMnpuNlA3QllWOGcxbEhfMTNGVHZoLXlOaUNVQmpmSENNWkFvTmdyU2RWUg?oc=5",
+          "extra": {
+            "source": "People's Daily",
+            "source_zh": "人民日报",
+            "pillar": "politics",
+            "lang": "zh",
+            "published": "2026-06-07T16:53:00Z",
+            "summary": "日本气象厅发布海啸预警--国际 人民网",
+            "translation": "Japan Meteorological Agency issues tsunami warning - International"
+          }
+        },
+        {
+          "title": "菲律宾发生7.8级地震可能引发海啸--国际",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZNVNCdUlZTURwbzBGcWhNSHRXT3RVVDdVcVNabGNxUWNBb1lmbFMtNmlfTHFCakZMWlhDRFhWQXRjWFRRVmRwWFRSSEhsV1VCNHhSQU5rOHVXWEM1eTdMRnpzeWd3LXpnY0JRcg?oc=5",
+          "extra": {
+            "source": "People's Daily",
+            "source_zh": "人民日报",
+            "pillar": "politics",
+            "lang": "zh",
+            "published": "2026-06-07T17:09:00Z",
+            "summary": "菲律宾发生7.8级地震可能引发海啸--国际 人民网",
+            "translation": "7.8-magnitude earthquake in Philippines may trigger tsunami - International"
+          }
+        },
+        {
+          "title": "华为“韬定律”揭示了什么",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2aDlOeE04LWNab1lleVAtNmplT1U3Q3NTMFJMNlRPa0JmbGlERUlHVkk5VFZwNk0wQVBiWTIxeXZQNHFQdmhaUkU2NWRzbU4zdUxsTkVwTFdEWkRMVzJvcU4tdkNFT0Q0Q3ZRejlJUUNJUUUzT3pERVEyb3k?oc=5",
+          "extra": {
+            "source": "Qiushi",
+            "source_zh": "求是",
+            "pillar": "politics",
+            "lang": "zh",
+            "published": "2026-05-31T17:00:00Z",
+            "summary": "华为“韬定律”揭示了什么 求是",
+            "translation": "What does Huawei's 'Tao Law' reveal?"
+          }
+        },
+        {
+          "title": "前瞻布局和发展未来产业",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSE0yM0xIWjQ2bTZ2OVNXem9PQ0NkbXAwNmwxZGg2MEYwcU1zd1ZmeG84Zk03N1M3eEU3M003bldRNHZfVUtoVkhyVjNpbFlkc0Qzb2RXcmhxaS1Wc3QwbXRid1ZxMjg1emhoVms3dzVoQ1RfdVY2cUx5SEg?oc=5",
+          "extra": {
+            "source": "Qiushi",
+            "source_zh": "求是",
+            "pillar": "politics",
+            "lang": "zh",
+            "published": "2026-05-30T23:00:00Z",
+            "summary": "前瞻布局和发展未来产业 求是",
+            "translation": "Forward-looking layout and development of future industries"
+          }
+        },
+        {
+          "title": "认清日本“新型军国主义”现实威胁",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NSlVvTWNXYm5LS1gzdUVHUnV4TEFldmZnQnRZUlF2eHIzVlN5ZFZTRFJvaFdPMXI2OWUtSHhsVEJtQ3RjaDBKQkVoeWY2emNzalI5QUQ0VGUySENUUmQ1SXR4WnZsVXMyclB1WGNGVnJWdWFmc1FlcGNuT3I?oc=5",
+          "extra": {
+            "source": "Qiushi",
+            "source_zh": "求是",
+            "pillar": "politics",
+            "lang": "zh",
+            "published": "2026-05-31T17:00:00Z",
+            "summary": "认清日本“新型军国主义”现实威胁 求是",
+            "translation": "Recognizing the real threat of Japan's 'new militarism'"
+          }
+        },
+        {
+          "title": "以源头创新夯实未来产业发展根基",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDVG9FbUQxX01rQV9OMG5sV19pbXo2R25mcjNIOHRDTEdkVzRJUHF3elBKMDF1VU5YeXFsUmNheUhnaUZ5TjA0MWJtRHhNOVN5cEZMUU45T0dXOUx4dnFqeTZfRkRMTnVpNktzUU5XTWkyMEQtWkF2UDJIUFc?oc=5",
+          "extra": {
+            "source": "Qiushi",
+            "source_zh": "求是",
+            "pillar": "politics",
+            "lang": "zh",
+            "published": "2026-05-31T17:00:00Z",
+            "summary": "以源头创新夯实未来产业发展根基 求是",
+            "translation": "Solidifying the foundation of future industries with source innovation"
+          }
+        },
+        {
+          "title": "财经早知道｜美股遇挫，AI行情怎么走",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zQU5oMURmeEhnN296Q1FSOU1TcnJqZHFLa2lGbjlMclJwS0lJNUNJQVNyRHNEa3pyX1RJQ3FsWFNXdTZPRDdnMHo4N05VbExUem84QUVNX2lpLTFaWGhoZ1VR?oc=5",
+          "extra": {
+            "source": "Caixin",
+            "source_zh": "财新",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T14:58:00Z",
+            "summary": "财经早知道｜美股遇挫，AI行情怎么走 财新",
+            "translation": "Financial Morning Post: US stocks stumble, where is AI heading?"
+          }
+        },
+        {
+          "title": "反腐记｜6月首周 黎晓宏、魏小东落马",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TcXI1TWJJUDRFR2xXMjhsM19hU212bGYwcFFPUnRNbVBpZjB4Y0hMUGxrTFFidTg3MlltV3Bhc0lJM2d2cHpoZDVUX01vV1gxcjFrLW9jQ1ZOczZNcnVN?oc=5",
+          "extra": {
+            "source": "Caixin",
+            "source_zh": "财新",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T15:26:00Z",
+            "summary": "反腐记｜6月首周 黎晓宏、魏小东落马 china.caixin.com",
+            "translation": "Anti-corruption Watch: First week of June, Li Xiaohong and Wei Xiaodong fall"
+          }
+        },
+        {
+          "title": "5月中国央行“加仓”黄金32万盎司 外储升至3.44万亿美元",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KUUFONFFaWXZaRTBXRmI5NlBxMnBQYk9BZnRzT0x4TV8xSURoYnFrNlYxamZSVllkV296UFpOckZVeE1IaUZMc0N5VnlDSGVYSFdJaFBVTHpEQkxEeHJPZHVB?oc=5",
+          "extra": {
+            "source": "Caixin",
+            "source_zh": "财新",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T04:20:00Z",
+            "summary": "5月中国央行“加仓”黄金32万盎司 外储升至3.44万亿美元 财新",
+            "translation": "In May, China's central bank increased gold holdings by 320,000 ounces,..."
+          }
+        },
+        {
+          "title": "高考前后五大典型诈骗话术全披露",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKU0Z3c21wNWpYTXBFSG1DWm5fR283TzJtRmF4TjE5LUNEQ08zTDZXZ2FXVDNhV3ZoN25QMS1NcmJpWE9SaVl3WDhVMnI2Q0I3ZmJPVHB2WllTdW16U2c?oc=5",
+          "extra": {
+            "source": "Caixin",
+            "source_zh": "财新",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T17:47:25Z",
+            "summary": "高考前后五大典型诈骗话术全披露 财新",
+            "translation": "Five typical fraud tactics before and after college entrance exam fully revealed"
+          }
+        },
+        {
+          "title": "金价明明跌了黄金反而卖不动？消费者喊话：盼降至500元/克生意不好做有黄金商家已转行此前日销两公斤现在看的多买的少｜一探",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZTEsxcThXRXctZkcwNHN0Z1pRNEd3WFJLajVHaFF4OE1JX0dqNnJzT0Q4ZmxDVXZIeEpmbG1rNzdrZS1wTk13MWRnS1lja0RPT3dvWQ?oc=5",
+          "extra": {
+            "source": "Yicai",
+            "source_zh": "第一财经",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-08T05:21:26Z",
+            "summary": "金价明明跌了黄金反而卖不动？消费者喊话：盼降至500元/克生意不好做有黄金商家已转行此前日销两公斤现在看的多买的少｜一探 第一财经",
+            "translation": "Gold price drops but sales slump? Consumers hope for 500 yuan/gram; gold..."
+          }
+        },
+        {
+          "title": "住建部：“十五五”期间将新开工改造11.5万个城镇老旧小区支持具备条件楼栋加装电梯| @发布会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2ZmU0dWw4aTVPbmY4ajRIREcwZ0V1YWNyUFVNZ1ZJeEN1Zkwyb3BUVlZyNWZ0WTdVMkZCYnllRkUtMFRjNVZuRnZYdWFIOFVWaTRKRw?oc=5",
+          "extra": {
+            "source": "Yicai",
+            "source_zh": "第一财经",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T23:15:55Z",
+            "summary": "住建部：“十五五”期间将新开工改造11.5万个城镇老旧小区支持具备条件楼栋加装电梯| @发布会 第一财经",
+            "translation": "Ministry of Housing: During '15th Five-Year Plan', will renovate 115,000 old..."
+          }
+        },
+        {
+          "title": "汽车轻量化拉动需求加速，铸造铝合金期货及期权如何助力产业？｜一探·期市",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iOE9Ibl9iT3dHN01OblJxd1NKMVNvemozclFLd2xadkNHTHNiVUpJNTFHUXZIZVlKblY5b3JldUxmTnVOeFJRX1hWdGp0akx5RUl3aw?oc=5",
+          "extra": {
+            "source": "Yicai",
+            "source_zh": "第一财经",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T19:26:15Z",
+            "summary": "汽车轻量化拉动需求加速，铸造铝合金期货及期权如何助力产业？｜一探·期市 第一财经",
+            "translation": "Automotive lightweighting accelerates demand, how do cast aluminum alloy..."
+          }
+        },
+        {
+          "title": "城市“里子”硬核升级！国家发改委：2026年安排1600亿超长期特别国债支持城市地下管网建设| @发布会",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CV1BhN1pxNGMyOU9Kc2t0WVZPOXVWZk1MNkVUaFB6cUUtWk5ya2tMbW5vdG5ORm1yV1RRMkc3cXlRTHlUQTdqNmVIMVFMSzU4VnhkSQ?oc=5",
+          "extra": {
+            "source": "Yicai",
+            "source_zh": "第一财经",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T22:16:09Z",
+            "summary": "城市“里子”硬核升级！国家发改委：2026年安排1600亿超长期特别国债支持城市地下管网建设| @发布会 第一财经",
+            "translation": "City 'subsurface' hardcore upgrade! NDRC: In 2026, allocate 160 billion yuan..."
+          }
+        },
+        {
+          "title": "AI应用第一省炼成记：“华为场景”激活“赛博广东”",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFh5c1JBa3o4Q0JsQkRueW9HY0NrTlpacGc1aThKeTNRRk1FTVdUT1Bkc05yLUtnWG45RW1VbkdjU0pPcTM1Q25SOW55UzhlQUUxeDdBS3M5dzJWaS1VVWVlQW5xYzFJZERaM0t2UzhtSEk4TkdIbjRUT2JzT0xWZ2hOVQ?oc=5",
+          "extra": {
+            "source": "21st Century Business Herald",
+            "source_zh": "21世纪经济报道",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T08:36:57Z",
+            "summary": "AI应用第一省炼成记：“华为场景”激活“赛博广东” 21财经",
+            "translation": "The making of the first AI application province: 'Huawei scenarios' activate..."
+          }
+        },
+        {
+          "title": "医药 - 21经济网",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EMW0wZTYzNXFxY3RuWkt0ckRFbWdwSWVTSzNxVEVmckRQeE04YUl4X3VhRXAtSU9FTjRHWk9LTFVGVG1pYTBkM2dHN3YzbjVxWDBicHdwQQ?oc=5",
+          "extra": {
+            "source": "21st Century Business Herald",
+            "source_zh": "21世纪经济报道",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T22:30:23Z",
+            "summary": "医药 - 21经济网 21财经",
+            "translation": "Pharmaceuticals - 21st Century Business Herald"
+          }
+        },
+        {
+          "title": "总台现场直击丨时隔两月 伊朗再次向以色列发动导弹袭击",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbW5EUXZCbnFzUHdoT1U2eW8tOHhyUFI5MjFSamlLZzV6LW05WWFvQXAzUnZoV0tycThyZXdic3phdlp3S0tUc1pmY2tXOEhjSThnakhUcW8zZUFGWHdqNVJRaTFNWjBTOFQ0NzFkU1NrWW5fVHpqUi0wbjFhdjh2V1dDVWpGbXNFUzQ4b3FZSQ?oc=5",
+          "extra": {
+            "source": "21st Century Business Herald",
+            "source_zh": "21世纪经济报道",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T17:07:00Z",
+            "summary": "总台现场直击丨时隔两月 伊朗再次向以色列发动导弹袭击 21财经",
+            "translation": "CCTV On-site: After two months, Iran launches missile attack on Israel again"
+          }
+        },
+        {
+          "title": "视频丨燃油成本上升 多国航司面临成本危机",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajNuS1NHaTJuNGsxTE9keF9oMjJ2bld3Q0RieHAwYXR4MVVEYWlyU2N2MndWdDhWQ2NqOXc0cnJRNmNkZkFNYkVsbF96ajh2OVlwLTR1bWpHTml6ZTI0V1FnSHdFVWNsa2toVTVKUGxacGp2TFhKYnhGczdCRkxGVnFDLXE2ZHZHX0V2LW50bw?oc=5",
+          "extra": {
+            "source": "21st Century Business Herald",
+            "source_zh": "21世纪经济报道",
+            "pillar": "economy",
+            "lang": "zh",
+            "published": "2026-06-07T17:08:00Z",
+            "summary": "视频丨燃油成本上升 多国航司面临成本危机 21财经",
+            "translation": "Video: Rising fuel costs, airlines in many countries face cost crisis"
+          }
+        },
+        {
+          "title": "Poly Property Snags Shenzhen Plot for Record High Price in Furious Bidding War",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3hYRmxRcy1xc2Fma0hvSFBRX0ExNGV2QzNNY0t4WVkxSUJQVGNyeXQ4YnpiUzNWQnVYVm1GekRTSHBoVnJBSDl2X1NqSjg3aHJCQTJ1dDNqbFJ4NUpnMnlJWjVCV0RqeVo2Ym9Xd184V2NFR1JtZmJocVN5MFphSV9UWHAzdm9FUC1QcFprNUE4eHhLVzVGQnEwRDNoX0dIWUd6MDZzYzAwNXpqUDhad2FUNHBNb2xMMy05WEJMdlE0clFnNVkzMkJEbUNTZw?oc=5",
+          "extra": {
+            "source": "Caixin Global",
+            "source_zh": "",
+            "pillar": "economy",
+            "lang": "en",
+            "published": "2026-06-07T21:30:00Z",
+            "summary": "Poly Property Snags Shenzhen Plot for Record High Price in Furious Bidding War Caixin Global",
+            "translation": "Poly Property Snags Shenzhen Plot for Record High Price in Furious Bidding War"
+          }
+        },
+        {
+          "title": "Former CSSC Shipping Chairman Under Graft Probe",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTZRMnNBSzU3QWhYd0dydXVCZGJtNmlOVkJJck5xYU54aHZBOFRnWDlBRHJpSnY2MWhPWk5CcGFZY1BzVU16ejJjUDFiNnMtaUVrTWF1QkVYNVFiR1QzZ185YnFsYWNvN3hLcDk2QW02eFgteTJJcFVyc25nRl9DQWI3dmdyUHNpd0k1VHp6NFRDR1lZTmtEUXlxYXhWWEM2a1FDRg?oc=5",
+          "extra": {
+            "source": "Caixin Global",
+            "source_zh": "",
+            "pillar": "economy",
+            "lang": "en",
+            "published": "2026-06-08T02:35:00Z",
+            "summary": "Former CSSC Shipping Chairman Under Graft Probe Caixin Global",
+            "translation": "Former CSSC Shipping Chairman Under Graft Probe"
+          }
+        },
+        {
+          "title": "UBS Sees Hong Kong IPO Fundraising Reaching $50 Billion in 2026 on Tech Surge",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDRRTjdkOUZVOFpmS3JtRVRTajZKNFZESTRzM3hpeUZ3RTVjcXNXRHMyc055VzN5aVZUeC14QWJtUjg4ZHhRZElZbjRkeWNBQ3MwamlveEpXZGtLWjRKTi0wZ3hXaFl0N2tUS3ZLOTN4MjllMkh4UExRNm9zSXpReFFFQU1WNXJGZDg0VHV0OS1mZ2FpQUU4bUJGRWNLTktTSDFPbUhhVzFsOEtwaXZoWFBLZlhwTmVIRUlHOUdud01YT0pBcGhJRDVFZw?oc=5",
+          "extra": {
+            "source": "Caixin Global",
+            "source_zh": "",
+            "pillar": "economy",
+            "lang": "en",
+            "published": "2026-06-08T06:13:00Z",
+            "summary": "UBS Sees Hong Kong IPO Fundraising Reaching $50 Billion in 2026 on Tech Surge Caixin Global",
+            "translation": "UBS Sees Hong Kong IPO Fundraising Reaching $50 Billion in 2026 on Tech Surge"
+          }
+        },
+        {
+          "title": "Business Brief (June 8): China Approves Five-Year Employment Plan",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFFoSWhBMWpKUWVmZU5XdVA2VHZQakhiRkVXNXRrTDlKY3ZobTBZRkloWXBmWlQ2Umk5VWNQdHBKZlY1Y3dQTHA1TldWOUNodHBKa212ZlV5Qm8zUFl2TW1jeEs5aDNhRFItbTZPRWR6ZEtmNC1fVjNpYVp1WWVuYlhUb0tkXzgtZ1psaFh6OU51VjFvU2RzUXZ0VENLdVh6RWg0aEpkY1RpNGZ3NjdjUXphd21jRWUy?oc=5",
+          "extra": {
+            "source": "Caixin Global",
+            "source_zh": "",
+            "pillar": "economy",
+            "lang": "en",
+            "published": "2026-06-08T02:54:00Z",
+            "summary": "Business Brief (June 8): China Approves Five-Year Employment Plan Caixin Global",
+            "translation": "Business Brief (June 8): China Approves Five-Year Employment Plan"
+          }
+        },
+        {
+          "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5",
+          "extra": {
+            "source": "36Kr",
+            "source_zh": "36氪",
+            "pillar": "tech",
+            "lang": "zh",
+            "published": "2026-06-07T01:30:00Z",
+            "summary": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发 36 Kr",
+            "translation": "'Huachao Super Control' obtains 100 million yuan angel series financing,..."
+          }
+        },
+        {
+          "title": "“Lvkang Chengcheng” completes tens of millions of yuan in pre-Series A financing",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zRS1ZTXhyMWZkSjQxRFhiODkxdTQ1OTNsRHB6SzZsdGs2WDZPY0VTXzJzdk1EQU5RZTBXSllRUDkyUW13SzVTNUd2d2IzNEdncFdjSFkxVVJfZVM3dEZWYQ?oc=5",
+          "extra": {
+            "source": "36Kr",
+            "source_zh": "36氪",
+            "pillar": "tech",
+            "lang": "zh",
+            "published": "2026-06-07T03:11:00Z",
+            "summary": "“Lvkang Chengcheng” completes tens of millions of yuan in pre-Series A financing 36Kr",
+            "translation": "Lvkang Chengcheng completes tens of millions of yuan in pre-Series A financing"
+          }
+        },
+        {
+          "title": "\"Kunlunyuan AI\" Secures 50 Million Yuan in Strategic Financing",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80RzFnbEJLT2x0dkJ1enQxUVI3aU1iTlgzNWxLTy1OU0t1eEdJcHljSG05ZjhJUUU0RUVfQWNyekdybEZxZkt3VTdCUzI0VURBdmhrei1ZR3BnUi1QVWtyUQ?oc=5",
+          "extra": {
+            "source": "36Kr",
+            "source_zh": "36氪",
+            "pillar": "tech",
+            "lang": "zh",
+            "published": "2026-06-07T12:43:00Z",
+            "summary": "\"Kunlunyuan AI\" Secures 50 Million Yuan in Strategic Financing 36Kr",
+            "translation": "Kunlunyuan AI Secures 50 Million Yuan in Strategic Financing"
+          }
+        },
+        {
+          "title": "“Huachao Super Control” has completed a series of angel round financing at the level of 100 million RMB",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vbWNoOU5uTDZ3Wjh2bFB4SHY1bWQtS1pRd3JlRmh1a19NalVXMFVnT0NyandJZmNuUnRpRC03M1NQdFU5RXlkT2V5MThpazViNzNYbTB6N0JDR0s1WDhEbQ?oc=5",
+          "extra": {
+            "source": "36Kr",
+            "source_zh": "36氪",
+            "pillar": "tech",
+            "lang": "zh",
+            "published": "2026-06-07T01:41:00Z",
+            "summary": "“Huachao Super Control” has completed a series of angel round financing at the level of 100 million RMB 36Kr",
+            "translation": "Huachao Super Control has completed a series of angel round financing at the..."
+          }
+        },
+        {
+          "title": "精品咖啡Seesaw运营公司被申请破产，估值一度达10亿元",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wSklrc2NDMVlCdkFmc2ZIV3RUVDlGM3otT0RLZnl6a1JLQm9ZTEY1MmtHa2FuSFpfWklXc2JHU1RIVVB4d1hxZnVkeEE1bWgwcHZmeWFOUkE?oc=5",
+          "extra": {
+            "source": "Jiemian",
+            "source_zh": "界面新闻",
+            "pillar": "tech",
+            "lang": "zh",
+            "published": "2026-06-07T17:55:36Z",
+            "summary": "精品咖啡Seesaw运营公司被申请破产，估值一度达10亿元 Jiemian.com",
+            "translation": "Seesaw premium coffee operator applies for bankruptcy, once valued at 1..."
+          }
+        },
+        {
+          "title": "2026各地高考作文题目公布",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNRkk4VlJCNnNjR0dyMkZrcURJQWRJSWV1dVV6alQ2ME1ENVVXakJNQUpIWGw2VFYtY3NBWWxCXzZUUEFsRnFHY1FiVGtDbWJFS2lrcGxQem8?oc=5",
+          "extra": {
+            "source": "Jiemian",
+            "source_zh": "界面新闻",
+            "pillar": "tech",
+            "lang": "zh",
+            "published": "2026-06-06T19:39:34Z",
+            "summary": "2026各地高考作文题目公布 Jiemian.com",
+            "translation": "2026 college entrance exam essay topics across the country announced"
+          }
+        },
+        {
+          "title": "山西一民办普通本科高等院校成立晋商学院",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QTUhyTTl0bm4wUnltb0h4SldDeV9wSkNfbm5PVGtzbTcwZk4xanRqbXRMUkIwVmpoejEtY2g4NFV5bnNQV3JMRjRCOXJxZ3h2aVpkUndmOWs?oc=5",
+          "extra": {
+            "source": "Jiemian",
+            "source_zh": "界面新闻",
+            "pillar": "tech",
+            "lang": "zh",
+            "published": "2026-06-07T02:50:32Z",
+            "summary": "山西一民办普通本科高等院校成立晋商学院 Jiemian.com",
+            "translation": "A private undergraduate university in Shanxi establishes Jin Business School"
+          }
+        },
+        {
+          "title": "丁宁当选北京市乒协会长，张怡宁当选理事",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10WnA1NmFhU2tGV1FQdTJNejlRT1V4SHF5RWxFOGoxMVlMRU9lek5QWjRoRTR2TVg3djFOZTZBaGNQT0FDVTdnX2w0bU9kZ0o0dVBsNzFqU0M?oc=5",
+          "extra": {
+            "source": "Jiemian",
+            "source_zh": "界面新闻",
+            "pillar": "tech",
+            "lang": "zh",
+            "published": "2026-06-07T01:36:04Z",
+            "summary": "丁宁当选北京市乒协会长，张怡宁当选理事 Jiemian.com",
+            "translation": "Ding Ning elected president of Beijing Table Tennis Association, Zhang..."
+          }
+        },
+        {
+          "title": "China’s President Xi visits North Korea to talk nuclear programme",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnQ1c1RhNDdjU3hGb05XNmVKRU01UUhlVy05NFZhRXZwamdBbUZnNnZZbEp4S3ZES19XLTVtN3pPbDIxZ0tfaFhwdExjRm5WcXNtRjlXcFFuTDdzbmNVTHc1cEFRS09BVkE2LVFuN0duX2JkRmQ4MVVBa0xIQUlCSi1UN24?oc=5",
+          "extra": {
+            "source": "Financial Times",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T20:00:00Z",
+            "summary": "China’s President Xi visits North Korea to talk nuclear programme Financial Times",
+            "translation": "China’s President Xi visits North Korea to talk nuclear programme"
+          }
+        },
+        {
+          "title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3lxeWdvNmgyVEZwNlc0dk1pMnU5eTdnbklMWVdqSWRvYXpVV1RZVjBJT053OTFnTzZhZnVYSGw3U19TOHNoUWFBN2YyMExEYVR4YzBFOURUckwzbE1YVC1YeGlGVlhlb0Jmb2ZsZmNvYWN4V1lSM1VGSDhtTnZwdkFaWGY?oc=5",
+          "extra": {
+            "source": "Financial Times",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T19:26:55Z",
+            "summary": "Xi Jinping lands in North Korea for Kim Jong Un meeting Financial Times",
+            "translation": "Xi Jinping lands in North Korea for Kim Jong Un meeting"
+          }
+        },
+        {
+          "title": "Tech sell-off widens as South Korea plunges",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54RFJ4Tk9xNTJxYk1FdDMtWU5ncWZ3c2JLSUd1N3pWZHMyZlZaT2dCSy1Ta2tKejA5ODNCbnl0bFVEREpWSzM2VnZKMU1NVHhuT0pwdGFWWG9SY19adXhFMUNUMjZES3NkTm43V0NyQ1E?oc=5",
+          "extra": {
+            "source": "Financial Times",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T16:56:52Z",
+            "summary": "Tech sell-off widens as South Korea plunges Financial Times",
+            "translation": "Tech sell-off widens as South Korea plunges"
+          }
+        },
+        {
+          "title": "We are optimising ourselves to death",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGRiRU5oV1BkY3dZdkdlSS1QQk5tbTRGMEtsRVVRVjZBZkstU1luMHY1anpIRFBKeGh0UDc0Ujd5Y2gzQTRGZWF0RXl4OEpPWko5ZmRMX3BYTmNaSkxtamRXTDlsaHFwb3dCMjQ0S2YxTktCaVdzN1hSZmxwdzJLVVFlYU8?oc=5",
+          "extra": {
+            "source": "Financial Times",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-06T20:01:23Z",
+            "summary": "We are optimising ourselves to death Financial Times",
+            "translation": "We are optimising ourselves to death"
+          }
+        },
+        {
+          "title": "The World’s Most Surprising Economic Success Story Is…North Korea",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEVnJvWG9sa2syTGVsZW4zaXE4THdkOTJxYUdPZ2c2cEhTM3FBcm9aZUFKX2RCMW5SNW1YbXBfNDliTlAxLTNUVkxRbFVQcnJFdGZUTDByemE2R2diMmprRzU4Y3o1U3Exd2JQQnhBMjE3eUlRMlE?oc=5",
+          "extra": {
+            "source": "Wall Street Journal",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T19:26:00Z",
+            "summary": "The World’s Most Surprising Economic Success Story Is…North Korea WSJ",
+            "translation": "The World’s Most Surprising Economic Success Story Is…North Korea"
+          }
+        },
+        {
+          "title": "What Xi and Kim Want From Their Summit in North Korea",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUxYRXB1QXBDZ1ZWd0xKUGIySG1IUEpLTUJwR3pVaVpLbWNpOWMzSmxvYjlPWTNoMUNrbEVVRjFKVV9sLTB0b0tRZ2lBcjBUMy11ZDZHOUY3a3F1OGVoRnhrX04yeENoT3RlUlk5cFFnMHRIWmVUejlsMm9MUHNGOFF0MHhxVllITS05YXYtSkdjLURDdThpTQ?oc=5",
+          "extra": {
+            "source": "Wall Street Journal",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-08T03:56:00Z",
+            "summary": "What Xi and Kim Want From Their Summit in North Korea WSJ",
+            "translation": "What Xi and Kim Want From Their Summit in North Korea"
+          }
+        },
+        {
+          "title": "Hormuz Crisis Exposes a Global Flaw That Will Take Years to Fix",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPamwzRUQ3cHEtaXhUT2ltZTBVc3JHLTI4TnRqZkFLVF84WERreHpHWEZHYzdhSFF0SmJtM01tWmNRSENjZm1UUkd0ajBtVUpPTmdzeE9JMjNfQjUyazhBRjlObXBjYmNoYWhjVU9HQU40d25Wc0ctUlc0NkdWNXBiYUFoRGUwbHltRW1kSWZ1NFlkYTRQUVpvT0VfYkV0Qkk?oc=5",
+          "extra": {
+            "source": "Wall Street Journal",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-06T18:00:00Z",
+            "summary": "Hormuz Crisis Exposes a Global Flaw That Will Take Years to Fix WSJ",
+            "translation": "Hormuz Crisis Exposes a Global Flaw That Will Take Years to Fix"
+          }
+        },
+        {
+          "title": "Saudi Arabia Cuts July Crude Prices for Asia As Demand Slows",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkU5eXhOZ2VIVEl5UDNmNnpHMFBsZXhOYUU2bTdpZlVVSmE4VW5RcEdXeFdlZ1NBQjlPNjdjM2FJNXo0WUZ1aG02S2dpbWgtZ2JPaHRiejNTOFVqNC1pMTM1ZEVLQUNQRzkyMTBmNE9WVDRnSlZDQUtSMUNYLUJ6N2xIbG5rMGRpc3hwY3hzNnBfMGFPUkxIclV0R2hETUg0RFdlbVNyd1VLOHV0Smc?oc=5",
+          "extra": {
+            "source": "Wall Street Journal",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-08T06:05:00Z",
+            "summary": "Saudi Arabia Cuts July Crude Prices for Asia As Demand Slows WSJ",
+            "translation": "Saudi Arabia Cuts July Crude Prices for Asia As Demand Slows"
+          }
+        },
+        {
+          "title": "China’s Moonshot AI Seeks $30 Billion Value in New Funding Talks",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDl0QkhfRnlHSFJ2QmdGUVE4QURVX3Y4eWcwSmp0Zm5Ta3RxWVJCMU9Qak1xTFM4UzZ0b3RxN0VLaHhkcVZxNHBIaVl5SnB1U004VG5RbnF6d1hfaXMwNzd1MU54aUNMQVZtWFdlbWtwM1pxSnNSdzZ2WnVVT2ItMlcxeno2NEtmY19QSjgtMjZJd2YwMHE4UWFDNlpwWDF0X2FwN2VsOV9EdXowcmJaQVlWb0o?oc=5",
+          "extra": {
+            "source": "Bloomberg",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T18:25:00Z",
+            "summary": "China’s Moonshot AI Seeks $30 Billion Value in New Funding Talks Bloomberg.com",
+            "translation": "China’s Moonshot AI Seeks $30 Billion Value in New Funding Talks"
+          }
+        },
+        {
+          "title": "China Ramping Up LNG Buying in Anticipation of Summer Heat",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXcyV1JUWHdYOGlWRHJ5RmFpNjFfWk1SVWJQa21LNGs0SG1RZXlCTjdHMFBrTS0tbkpfX09KV2VIa1JqNGNaMG1QU2FxVDAtYWRNNHpUR09SSVpmMWhOSTBrb1p2VVhIWTY5Nnhya1FtUExuMjd2dUNmbEY2Y2hHdzF1VEFGWDZWVWVUV29aREFINHRiLXZ1QldCZldlYlVVd0hic29CNjFUamJRQUE?oc=5",
+          "extra": {
+            "source": "Bloomberg",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-08T00:45:36Z",
+            "summary": "China Ramping Up LNG Buying in Anticipation of Summer Heat Bloomberg.com",
+            "translation": "China Ramping Up LNG Buying in Anticipation of Summer Heat"
+          }
+        },
+        {
+          "title": "Japan Is Becoming the Superpower of the Middle Powers",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMm9uX2oydWM4ek1aRXhHbzUtbmRlTlJWZE5ING9IMXN3TmphdFlINHMwZG5kZTRwcjA5dloyRlNrRXI0TERDdjRHdTNxRnVmRkxob1VtQnpZY2MwUnhlM19aN2lzd3hNWVZqMy1VbnFUUTlhNnF2NDVDM2t6bFlIN2xBWTRhTHczaU5CM25BNXRMcTRfRjNuREJHU05wSjQ?oc=5",
+          "extra": {
+            "source": "Bloomberg",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T04:00:36Z",
+            "summary": "Japan Is Becoming the Superpower of the Middle Powers Bloomberg.com",
+            "translation": "Japan Is Becoming the Superpower of the Middle Powers"
+          }
+        },
+        {
+          "title": "China’s PBOC Adds Gold Again as Bullion Remains Under Pressure",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEVYcHNSb19jd0ZybXM1TTFXYW9XZHZqTk5Ncmxndm04RFpMQUw1TWptMlF3c3Z3T3VJVFU5dWQweloxWHJYclhXTy1oS080bXFIcC0wTHVTS292OF9mbU04ZXhuQ1kxV25OUTY3bmJGZVQwSWlmT090d0dTT3BIallMbmJENlBGcGFPZlQyLTA2cDlIMXhfbEdLVDBPUkE3T21wNWdqcVQyMVFEb1lIdXJ5WQ?oc=5",
+          "extra": {
+            "source": "Bloomberg",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-06T18:19:00Z",
+            "summary": "China’s PBOC Adds Gold Again as Bullion Remains Under Pressure Bloomberg.com",
+            "translation": "China’s PBOC Adds Gold Again as Bullion Remains Under Pressure"
+          }
+        },
+        {
+          "title": "China's global e-commerce push stalls as Iran war lifts costs, dampens demand",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMVVScGhlUWlOQl9KZk9nY2dHdV96RG9VWFVPSW9jaU80R3ZxQnlXTV84OVNldmtSQWpIZEFaNGhvYzljWVB1ajdWV01ueWVEY2JyaURkNnVxc0RBQl9NN2c5X2o1RWlGdzhiS1o2VVNnSzJ3a0lLYjQ3clRySG9pczJLLWg5WnFzOFZNbld1ZGZHYkFmNUFYVE9RazZxVTZXaDJrMU9aeDdxTUJqeXpKb1RVS01pdkI2OXM3NkcyNzNNZlJDU09aVkt2ai1UMTkxa3pWLQ?oc=5",
+          "extra": {
+            "source": "Reuters",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-08T00:29:44Z",
+            "summary": "China's global e-commerce push stalls as Iran war lifts costs, dampens demand Reuters",
+            "translation": "China's global e-commerce push stalls as Iran war lifts costs, dampens demand"
+          }
+        },
+        {
+          "title": "Taiwan says China Coast Guard patrols to its east are 'provocative act'",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVE9WM1dUbG43RFhWQzN2ZFNCcXpsOTJwZmdPcld5WWRwV3lvVDBWNnV2cnlCSVQ0SUx3blRieWlueGpCbU56S0RJVHNRelNRdFl5WHlvTDl5ZndHTFhLaEdyXzNkR3NUcmtlNkFkQk1OdExfWGFJRW45OXRjYUUwN095REx1aHhmb2k5OUh2cEp0OW9zOXZOMlFjaTY0RjZBSW1GcnQzOUFxRExMUHBPeU1pd3g?oc=5",
+          "extra": {
+            "source": "Reuters",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T18:03:00Z",
+            "summary": "Taiwan says China Coast Guard patrols to its east are 'provocative act' Reuters",
+            "translation": "Taiwan says China Coast Guard patrols to its east are 'provocative act'"
+          }
+        },
+        {
+          "title": "China exports set for strong May on front-loaded orders, chip demand: Reuters poll",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVk2cmhBT0U4eXpwRnREVFNJQTBKLXVkbG9PckRVN3Q1VjlJNDNnZ2ZoM2xLaE5iZmlhZ3MzN1RHVTV5QlBTZTAtY3Z4TVE5NUpmZXBPa0VtTkZEa3pscWFLTlFpVFBHUEtfT2ZTSVVoVDBuQldHaERWVFVKdWVlRkJxdTM1M0ZYeGszQnc1d0hDSmFHMnBDMFM0RUpEaU56TVVQZU5CT1Vvbk15?oc=5",
+          "extra": {
+            "source": "Reuters",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T20:54:26Z",
+            "summary": "China exports set for strong May on front-loaded orders, chip demand: Reuters poll Reuters",
+            "translation": "China exports set for strong May on front-loaded orders, chip demand: Reuters poll"
+          }
+        },
+        {
+          "title": "Chinese military hovered as global executives flocked to Taiwan tech show",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRllHUTlfM3g0OERTazg1OFFOTmljeHdmVGgtY0NVQWxlZ3pjdVRUeVgxUHlsZndGbGx2dXQ0WUhxSUI5a1lGaUpZNTlvRkItRGNNQlRtQ0ViZmo5eWdrMjlIMGY4a2puYjloTkJaR01SMEZQSV95WDdEVXE2TE8xRXlySDI1UFNuazBxYkR6eGNoVnBSQjNkSC1ENjZfZnVqdHB5ZDNaTThhaFNWb1RJUjNabjMtQ2RCZ0xHeUlsNA?oc=5",
+          "extra": {
+            "source": "Reuters",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T22:02:00Z",
+            "summary": "Chinese military hovered as global executives flocked to Taiwan tech show Reuters",
+            "translation": "Chinese military hovered as global executives flocked to Taiwan tech show"
+          }
+        },
+        {
+          "title": "Chinese homeowner buys 34th-floor flat in 32-storey building, gets no compensation",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcnBQOWZSRzRrcE9zallNSVVmdnBLbHhwS0h2bjFxdUlOdEs2Y1B3S19vbmJKYVNZVHpqaFBHSFFkTzY4UWRKNFJlQ1JtSEFGYUltZlNNRUtMTXh0SU1hV0Z1Z2hreWxHSnZNT1p5aDBXLTF1LVhfTnZjdXlEeFpxdDQ1VnBIRTVKUmNmQkZLQ09vbjVOcHlJWFk4Z185UFhOb09BTkdQcW9TM2RSSzUzYVJpT1NJdTRDckRpWFRoQ1ZUMnRvbW5iY2QySEFWbGdCSXpWTnZUWF9VYUtjR2NLMWdzTGrSAeQBQVVfeXFMTzQwaEc2ellPMk9QeHJ4Mk14dUFhUlVTU2R1MVhfajdTdUFHZFJHU0o0LWZ0Z3pWenoxZ0twSjdmSTR3TV8wZkRwNkl4aHVTVm9vZXR2UFoxdDh6aW5UVm5JNmpaejh3T0FiaUlFMlF0ZU03RTJtUmszOUtGa3pLc21RV19DZW1uVUFCMWFEa3QwWVQxS1BPS01YaGxtaGFfM1cwZk9DbUtUekpDOEN3S25laFJ6V0tZVjBvb3BrYVMxY2ZZTktEMnVxUzVpbmdEQWVvSkFjMGRoSDRhWDBtWVJzNHN5?oc=5",
+          "extra": {
+            "source": "South China Morning Post",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T22:00:08Z",
+            "summary": "Chinese homeowner buys 34th-floor flat in 32-storey building, gets no compensation South China Morning Post",
+            "translation": "Chinese homeowner buys 34th-floor flat in 32-storey building, gets no compensation"
+          }
+        },
+        {
+          "title": "China’s Xi Jinping arrives in North Korea after hailing everlasting friendship",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTXB3QWhXM2h5WGNkZWR3UlB3T3g2WUtobHVjV05GUkJyV1RlaElyUWh3aWp4MmhQWjExVldmY1hDUEpHdFBQcVY1dUZyWFpVbi1YbXMtQ2VtdFVWNDlySHhoSEN2ZExlcXZaZ05xQUJGTGhfNlZGS2t6c0RZdTUxUzhWWnYyWGUwdEdCeVRVMXpvN0NQNm1mOW9vb9IBmwFBVV95cUxNOFR1a01RUFZ6dENsRkdVeWNDY0JQNFlVM0VPbnVkYnlvSG9PSGk5aTBCN3lsSnZyaE5salIyQ01zNmZSX3lqT2R2eGJqMEp0THQ1cmJPdUdzZGhUVFpuWkFmT1F0YlNDbmtZRndsWTFzRHowcWJDcE1RN21PdDN4ejZ6dkZPWmt3U3Y3MHZPTWI1SUZRQm5BWmxXcw?oc=5",
+          "extra": {
+            "source": "South China Morning Post",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T19:17:25Z",
+            "summary": "China’s Xi Jinping arrives in North Korea after hailing everlasting friendship South China Morning Post",
+            "translation": "China’s Xi Jinping arrives in North Korea after hailing everlasting friendship"
+          }
+        },
+        {
+          "title": "US considers ‘buying’ Chagos Islands from Mauritius",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZENvMm9wSC1qODhkZU0yWXhpMkJIcTFWWVo3dy1raHpUM0tNMUw2cGx3VkpibmpYUWNkbTZ6a1dsUFRydTY3WkgwZW1XeXF4VFR3QWFBel9JcDdYOUJ6RmpsYUdVdkxUc25kdzIySkZ6V2p6Qk5hWFFLOEJfX1VZT0FHOUExak9adW9tc3BkNWExQUx1VS1ZYm4yRWF0VThtTllXWmg5WUlzNmVpUXN6RC1jVmIxLXV3Q2hMVDhxWWlsY1ByRE1sUGdWNmFCb1XSAc8BQVVfeXFMUHI2d0RicUtwYlJ6RFlNLWlHTFAzYkx2LUVKVGZfYll6ZjhLTFZqM2QzMU42aDhpNURLb0g0TlZwNmpqZzhFckdaMlpjcXJJNFBpZ1hSV0dGRnVQV19vZWE2MmRCTEt2Q0UzNk12RTE2b29fNFVPbzJmY2hoVnBBVmRhRFRpdFZpU3piajNjUlU3eVk0SHg1LWE1dVlrTXFyN2dyRExDWkJaZEIxbUJTMkM4RGV5elBXcjF5anE2dmxxM3FqTjgxU3RTdkZCcGh3?oc=5",
+          "extra": {
+            "source": "South China Morning Post",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T10:14:26Z",
+            "summary": "US considers ‘buying’ Chagos Islands from Mauritius South China Morning Post",
+            "translation": "US considers ‘buying’ Chagos Islands from Mauritius"
+          }
+        },
+        {
+          "title": "Tibet quartz discovery boosts China’s self-sufficiency push for hi-tech materials",
+          "value": "",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkZ2RmJtdVJFMl9zU0w4Znd1d3pETHBLZUFIUndFVm9EU1NOb3lhQkdxejRuMmltcmhzRXdVdzJKQkVKUXFKN3U0S2lZWTFxTThjdEZzTnI4Y2ZBaUFLcWppWGVESjI4NjNaMW1jUzlHakEzNGZialNzWGxhc1NMNkhKUW04MVUtS0RJbFJsZVlZdnllSW5mV1VKZ2xqS3RkeXFCTWNzTHN4Yi02TWcxWEVDMU5XdlJiT0pvUVVPaGV1YmZsbG9VM3BFQTTSAcwBQVVfeXFMT2theVVOQUJEaTlCaDU2cllSTDlmWnRlTnhQQ1Fic25QU1dVa2syWmVpV2ljTVU4bzVpa2d5cU1USHJyNnp1Y2kyZFhwT00tc1JZVlMxSXVZQXNfYy1COFFldXVvWU5DdWxwU0FhVVJEOFJ6X0xGdF9qMldqLU1hX1N4eXByTHFzTzItMUxpU2dBRlJRV1RCbkczWi1sb0ZvY2pocVR4dTVTVGpTRncwdFVZNjdiOFFLQXJnX1RVYmtzaWdzZ0t1ZURHbTR3?oc=5",
+          "extra": {
+            "source": "South China Morning Post",
+            "source_zh": "",
+            "pillar": "geopolitics",
+            "lang": "en",
+            "published": "2026-06-07T18:00:10Z",
+            "summary": "Tibet quartz discovery boosts China’s self-sufficiency push for hi-tech materials South China Morning Post",
+            "translation": "Tibet quartz discovery boosts China’s self-sufficiency push for hi-tech materials"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-08T20:09:22+08:00",
       "source": "Elite press (party organs, financial, tech, Western)",

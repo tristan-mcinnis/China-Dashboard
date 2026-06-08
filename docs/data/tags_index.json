@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T20:11:18+08:00",
+  "updated_at": "2026-06-08T23:18:53+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1727,9 +1727,22 @@
       ]
     },
     "regulatory tightening": {
-      "label": "regulatory tightening",
-      "count": 5,
+      "label": "Regulatory tightening",
+      "count": 6,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "习近平同金正恩举行会谈",
+          "english_title": "Xi Jinping holds talks with Kim Jong Un in Pyongyang",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
+          "platforms": [
+            "baidu_top",
+            "elite_press",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-06",
           "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
@@ -5096,9 +5109,19 @@
       ]
     },
     "market decline": {
-      "label": "market decline",
-      "count": 1,
+      "label": "Market decline",
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "市场监管总局约谈美宜佳总部",
+          "english_title": "Market regulator summons Meiyijia convenience store chain for talks",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jWGFCaFVZNjMxMTh6VDI1UHRoZVBjc3p5ZmZwSGtPUWp2Qzk3Rm8zV3BwWThaR1NIUDFrNklYZTlIcUQ4NHRPcnluTDNVWlVEMjhwV2NYR2tTd1B4cDVCdzlaWkktS1NCNjRqNndPYnFzWEV1cXN5VjBfMUlKOEU?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
         {
           "date": "2026-06-06",
           "title": "中老友好 大道同行",
@@ -5655,8 +5678,40 @@
     },
     "xi-kim summit": {
       "label": "Xi-Kim summit",
-      "count": 8,
+      "count": 11,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "2026年6月8日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry regular press conference on June 8",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260608_11939733.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "中朝传统友谊崭新篇章如何续写",
+          "english_title": "Xi Jinping publishes signed article in North Korean media",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E5%B4%AD%E6%96%B0%E7%AF%87%E7%AB%A0%E5%A6%82%E4%BD%95%E7%BB%AD%E5%86%99",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "习近平和彭丽媛观看朝鲜文艺演出",
+          "english_title": "Xi Jinping and Peng Liyuan attend North Korean cultural performance",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%A7%82%E7%9C%8B%E6%9C%9D%E9%B2%9C%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-08",
           "title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
@@ -6212,6 +6267,136 @@
             "gov_registry"
           ],
           "category": "regulatory"
+        }
+      ]
+    },
+    "sino-dprk relations": {
+      "label": "Sino-DPRK relations",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "中朝传统友谊崭新篇章如何续写",
+          "english_title": "Xi Jinping publishes signed article in North Korean media",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E5%B4%AD%E6%96%B0%E7%AF%87%E7%AB%A0%E5%A6%82%E4%BD%95%E7%BB%AD%E5%86%99",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "emergency response plan": {
+      "label": "Emergency response plan",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "国务院印发《现代化应急体系建设“十五五”规划》",
+          "english_title": "State Council issues 15th Five-Year Plan for modern emergency response system",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04Wk5UQXpieEo4RjZKUi1oNnlLU1FDX1Y5NUk3UDVfTExCWkd2bWN2RXA0aDh1U1c0bE9EYUotdTBoTElnRUVfOXRKdWxOYjAzQ0pBY01ueWEyUWJHY09tR3ZORlB4MFhHMnFYcGVTdF90N05tTFJlZV9qUVNmbHc?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "ai financing": {
+      "label": "AI financing",
+      "count": 9,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "“Lvkang Chengcheng” completes tens of millions of yuan in pre-Series A financing",
+          "english_title": "Lvkang Chengcheng secures tens of millions in pre-Series A financing",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zRS1ZTXhyMWZkSjQxRFhiODkxdTQ1OTNsRHB6SzZsdGs2WDZPY0VTXzJzdk1EQU5RZTBXSllRUDkyUW13SzVTNUd2d2IzNEdncFdjSFkxVVJfZVM3dEZWYQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+          "english_title": "Huachao Super Control raises 100 million yuan in angel round for AI ultrasound brain-computer interface",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on new private fund regulations",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office holds press conference on June 3 (transcript released June 8)",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "Six ministries issue notice to optimize tax refunds for overseas tourists to boost consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Five ministries adjust export control list for precursor chemicals",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "市场监管总局约谈美宜佳总部",
+          "english_title": "Market regulator summons Meiyijia convenience store chain for talks",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jWGFCaFVZNjMxMTh6VDI1UHRoZVBjc3p5ZmZwSGtPUWp2Qzk3Rm8zV3BwWThaR1NIUDFrNklYZTlIcUQ4NHRPcnluTDNVWlVEMjhwV2NYR2tTd1B4cDVCdzlaWkktS1NCNjRqNndPYnFzWEV1cXN5VjBfMUlKOEU?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty rates on polyoxymethylene from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "“李华 我再也不用见到你了”",
+          "english_title": "\"Li Hua, I will never see you again\" goes viral after Gaokao English exam",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%8E%E5%8D%8E+%E6%88%91%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E8%A7%81%E5%88%B0%E4%BD%A0%E4%BA%86%E2%80%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
         }
       ]
     }
