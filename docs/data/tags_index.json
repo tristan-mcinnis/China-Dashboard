@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T15:34:14+08:00",
+  "updated_at": "2026-06-08T20:11:18+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -5534,8 +5534,18 @@
     },
     "anti-dumping": {
       "label": "anti-dumping",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM imposes anti-dumping duties on POM imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-07",
           "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
@@ -5550,8 +5560,19 @@
     },
     "gaokao": {
       "label": "Gaokao",
-      "count": 7,
+      "count": 8,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "考完数学沉默了 考完英语又笑了",
+          "english_title": "Gaokao math stuns students, English exam cheers them",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E5%AE%8C%E6%95%B0%E5%AD%A6%E6%B2%89%E9%BB%98%E4%BA%86+%E8%80%83%E5%AE%8C%E8%8B%B1%E8%AF%AD%E5%8F%88%E7%AC%91%E4%BA%86",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-08",
           "title": "高考首日这些瞬间让人印象深刻",
@@ -5634,8 +5655,52 @@
     },
     "xi-kim summit": {
       "label": "Xi-Kim summit",
-      "count": 4,
+      "count": 8,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
+          "english_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3lxeWdvNmgyVEZwNlc0dk1pMnU5eTdnbklMWVdqSWRvYXpVV1RZVjBJT053OTFnTzZhZnVYSGw3U19TOHNoUWFBN2YyMExEYVR4YzBFOURUckwzbE1YVC1YeGlGVlhlb0Jmb2ZsZmNvYWN4V1lSM1VGSDhtTnZwdkFaWGY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "前瞻布局和发展未来产业",
+          "english_title": "Qiushi publishes Xi article on forward-looking deployment of future industries",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSE0yM0xIWjQ2bTZ2OVNXem9PQ0NkbXAwNmwxZGg2MEYwcU1zd1ZmeG84Zk03N1M3eEU3M003bldRNHZfVUtoVkhyVjNpbFlkc0Qzb2RXcmhxaS1Wc3QwbXRid1ZxMjg1emhoVms3dzVoQ1RfdVY2cUx5SEg?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "习近平同金正恩举行会谈",
+          "english_title": "Xi Jinping and Kim Jong-un hold talks, pledges of cooperation",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
+          "platforms": [
+            "baidu_top",
+            "elite_press",
+            "tencent_wechat_hot"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "习近平开始对朝鲜进行国事访问",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit to North Korea",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "category": "news"
+        },
         {
           "date": "2026-06-07",
           "title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
@@ -6098,6 +6163,55 @@
             "elite_press"
           ],
           "category": "press"
+        }
+      ]
+    },
+    "summer heatwave": {
+      "label": "summer heatwave",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "夏季高温 户外出行要注意这几点",
+          "english_title": "Summer heatwave prompts safety reminders from authorities",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%8F%E5%AD%A3%E9%AB%98%E6%B8%A9+%E6%88%B7%E5%A4%96%E5%87%BA%E8%A1%8C%E8%A6%81%E6%B3%A8%E6%84%8F%E8%BF%99%E5%87%A0%E7%82%B9",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "future industries": {
+      "label": "future industries",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "前瞻布局和发展未来产业",
+          "english_title": "Qiushi publishes Xi article on forward-looking deployment of future industries",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSE0yM0xIWjQ2bTZ2OVNXem9PQ0NkbXAwNmwxZGg2MEYwcU1zd1ZmeG84Zk03N1M3eEU3M003bldRNHZfVUtoVkhyVjNpbFlkc0Qzb2RXcmhxaS1Wc3QwbXRid1ZxMjg1emhoVms3dzVoQ1RfdVY2cUx5SEg?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "export controls": {
+      "label": "export controls",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China adjusts export control list for precursor chemicals",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
         }
       ]
     }

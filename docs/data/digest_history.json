@@ -1,8 +1,336 @@
 {
-  "as_of": "2026-06-08T15:34:14+08:00",
+  "as_of": "2026-06-08T20:11:18+08:00",
   "source": "daily_digest archive",
-  "count": 29,
+  "count": 30,
   "entries": [
+    {
+      "as_of": "2026-06-08T20:11:18+08:00",
+      "date": "2026-06-08",
+      "time_label": "Evening Brief",
+      "beijing_time": "20:10",
+      "digest_type": "evening",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Xi arrives in Pyongyang, pledges 'everlasting friendship' with North Korea as tense region watches",
+      "headline_zh": "习近平抵达平壤，称与朝鲜是'永恒的友谊'",
+      "narrative": "The Xi-Kim summit dominates today's brief, underscoring China's strategic alignment with North Korea amid heightened regional tensions. The visit, Xi's first to Pyongyang since 2024, comes as the U.S. and South Korea conduct joint military exercises. On the domestic front, Beijing released a flurry of economic and regulatory measures, including anti-dumping duties, export controls, and tax refund optimization, signaling continued fine-tuning of industrial and consumption policies. Gaokao social media trends offer a lighter counterpoint.",
+      "narrative_zh": "习金峰会主导今日简报，凸显中国在地区紧张加剧之际与朝鲜的战略协调。此访是习近平自2024年以来首次访问平壤，正值美韩举行联合军演。国内方面，北京发布了一系列经济和监管措施，包括反倾销税、出口管制和离境退税优化，表明产业和消费政策的持续微调。高考社交媒体趋势提供了轻松的一面。",
+      "market_snapshot": "SSE Composite 3959.338 ▼1.70% · Shenzhen Component 14821.187 ▼3.22% · ChiNext 3811.785 ▼3.69% · USD/CNY 6.7808 ▲0.23% · USD/CNH 6.7821 ▼0.10%",
+      "themes": [
+        "Xi-Kim summit",
+        "Gaokao",
+        "summer heatwave",
+        "future industries",
+        "anti-dumping",
+        "export controls"
+      ],
+      "theme_trends": {
+        "Xi-Kim summit": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "Gaokao": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "summer heatwave": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "future industries": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "anti-dumping": {
+          "status": "recurring",
+          "days_seen": 6
+        },
+        "export controls": {
+          "status": "recurring",
+          "days_seen": 4
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "习近平开始对朝鲜进行国事访问",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit to North Korea",
+          "why_it_matters": "First Xi-Kim summit since 2024, signals deepening ties amid geopolitical tensions, with potential implications for denuclearization talks and regional stability.",
+          "why_it_matters_zh": "自2024年以来首次习金峰会，表明伙伴关系在地缘政治紧张中深化，对无核化谈判和地区稳定有潜在影响。",
+          "pull_quote": "Xi hailed 'everlasting friendship' with North Korea in a letter to Kim before departure.",
+          "pull_quote_zh": "习近平在出发前致金正恩的信中称赞与朝鲜是'永恒的友谊'。",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE"
+        },
+        {
+          "primary_title": "习近平同金正恩举行会谈",
+          "english_title": "Xi Jinping and Kim Jong-un hold talks, pledges of cooperation",
+          "why_it_matters": "The summit agenda likely includes economic cooperation and coordination on denuclearization, with potential joint statement to follow.",
+          "why_it_matters_zh": "峰会日程可能包括经济合作和无核化协调，随后可能发布联合声明。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "elite_press",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 3,
+          "source": "People's Daily",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88"
+        },
+        {
+          "primary_title": "考完数学沉默了 考完英语又笑了",
+          "english_title": "Gaokao math stuns students, English exam cheers them",
+          "why_it_matters": "Reflects the national obsession with the college entrance exam and its emotional toll on millions of students and families.",
+          "why_it_matters_zh": "反映了全国对高考的痴迷及其对数百万学生和家庭的情感影响。",
+          "pull_quote": "Many students found math exceptionally difficult this year.",
+          "pull_quote_zh": "许多学生认为今年数学异常困难。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E5%AE%8C%E6%95%B0%E5%AD%A6%E6%B2%89%E9%BB%98%E4%BA%86+%E8%80%83%E5%AE%8C%E8%8B%B1%E8%AF%AD%E5%8F%88%E7%AC%91%E4%BA%86"
+        },
+        {
+          "primary_title": "夏季高温 户外出行要注意这几点",
+          "english_title": "Summer heatwave prompts safety reminders from authorities",
+          "why_it_matters": "Highlights government's proactive risk communication during extreme weather, as climate change increases frequency of heatwaves.",
+          "why_it_matters_zh": "凸显政府在极端天气期间主动进行风险沟通，气候变化增加了热浪频率。",
+          "pull_quote": "Outdoor workers and travelers urged to take precautions against heatstroke.",
+          "pull_quote_zh": "户外工作者和旅行者被敦促采取防暑措施。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%8F%E5%AD%A3%E9%AB%98%E6%B8%A9+%E6%88%B7%E5%A4%96%E5%87%BA%E8%A1%8C%E8%A6%81%E6%B3%A8%E6%84%8F%E8%BF%99%E5%87%A0%E7%82%B9"
+        },
+        {
+          "primary_title": "青岛考生：终于不用帮李华写信了",
+          "english_title": "Qingdao students relieved as 'Li Hua' disappears from English exam",
+          "why_it_matters": "Shows generational shift in exam culture and social media reaction to a long-running joke finally ending.",
+          "why_it_matters_zh": "展示了考试文化的代际转变以及社交媒体对一个长期笑话终于结束的反应。",
+          "pull_quote": "Students joked that they finally 'fired' Li Hua after years of writing letters for him.",
+          "pull_quote_zh": "学生们开玩笑说，在为他写了多年信后，终于'解雇'了李华。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%80%83%E7%94%9F%EF%BC%9A%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E5%B8%AE%E6%9D%8E%E5%8D%8E%E5%86%99%E4%BF%A1%E4%BA%86"
+        },
+        {
+          "primary_title": "2026年6月8日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry press conference: spokesperson tackles multiple issues",
+          "why_it_matters": "Regular briefing provides official stance on various diplomatic matters, including Taiwan, South China Sea, and Sino-U.S. relations.",
+          "why_it_matters_zh": "例行记者会提供了对台湾、南海和中美关系等多个外交议题的官方立场。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260608_11939733.shtml"
+        },
+        {
+          "primary_title": "伊朗消息人士：伊方已做好军事准备应对以色列进一步行动",
+          "english_title": "Iranian sources: Iran has made military preparations to respond to further...",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITlVBSUpHUDlqX0tFNTlienFOdUIwcVVVVTMzM0FrZjM4QWNBVmlhTTFBN19uLVM5QkRTRjNzVmMwZHBiZnRSaXdHdjlCRzFRenVYZ3BiWF9qVGlUT0pQU09KQ2RSNzNhOFVjTVFQdDRxeTEzSU9vUW5kcm9hQVk?oc=5"
+        },
+        {
+          "primary_title": "前瞻布局和发展未来产业",
+          "english_title": "Qiushi publishes Xi article on forward-looking deployment of future industries",
+          "why_it_matters": "Signals policy direction for strategic emerging industries, with emphasis on quantum computing, AI, and biotechnology as national priorities.",
+          "why_it_matters_zh": "表明对战略性新兴产业的政策方向，强调将量子计算、人工智能和生物技术作为国家优先事项。",
+          "pull_quote": "Xi calls for accelerating breakthroughs in quantum computing, AI, and biotechnology.",
+          "pull_quote_zh": "习近平呼吁加快量子计算、人工智能和生物技术的突破。",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Qiushi",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSE0yM0xIWjQ2bTZ2OVNXem9PQ0NkbXAwNmwxZGg2MEYwcU1zd1ZmeG84Zk03N1M3eEU3M003bldRNHZfVUtoVkhyVjNpbFlkc0Qzb2RXcmhxaS1Wc3QwbXRid1ZxMjg1emhoVms3dzVoQ1RfdVY2cUx5SEg?oc=5"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM imposes anti-dumping duties on POM imports from Korea, Thailand, Malaysia",
+          "why_it_matters": "Protects domestic chemical industry but could raise costs for downstream users, reflecting continued trade remedy activism.",
+          "why_it_matters_zh": "保护国内化工产业，但可能提高下游用户成本，反映了持续的贸易救济行动主义。",
+          "pull_quote": "The anti-dumping duties range from 6% to 45% depending on the company.",
+          "pull_quote_zh": "反倾销税率从6%到45%不等，取决于公司。",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China adjusts export control list for precursor chemicals",
+          "why_it_matters": "Tightens controls to prevent diversion to illegal drug production, part of broader efforts to combat fentanyl and other synthetic drugs.",
+          "why_it_matters_zh": "收紧管制以防止转用于非法毒品生产，是打击芬太尼等合成药物更广泛努力的一部分。",
+          "pull_quote": "The new list adds 12 substances to the restricted category.",
+          "pull_quote_zh": "新清单将12种物质列入限制类别。",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "China optimizes departure tax refund to boost inbound tourism spending",
+          "why_it_matters": "Part of efforts to revitalize travel and consumption post-pandemic, targeting foreign tourists to stimulate retail and hospitality sectors.",
+          "why_it_matters_zh": "疫后振兴旅游和消费努力的一部分，瞄准外国游客以刺激零售和酒店业。",
+          "pull_quote": "Tax refund rates for foreign tourists will be raised to 15% for eligible goods.",
+          "pull_quote_zh": "外国游客符合条件的商品退税率将提高至15%。",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office reiterates opposition to Taiwan independence",
+          "why_it_matters": "Maintains pressure ahead of potential Taiwan Strait tensions, reaffirming red lines in cross-strait relations.",
+          "why_it_matters_zh": "在潜在台海紧张局势前保持压力，重申两岸关系中的红线。",
+          "pull_quote": "Spokesperson warned against any official exchanges between Taiwan and foreign countries.",
+          "pull_quote_zh": "发言人警告台湾与外国之间的任何官方往来。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm"
+        },
+        {
+          "primary_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
+          "english_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
+          "why_it_matters": "International media coverage amplifies significance of the summit, drawing attention to China's role in the Korean Peninsula dynamics.",
+          "why_it_matters_zh": "国际媒体报道放大了峰会的意义，引起对中国在朝鲜半岛动态中作用的关注。",
+          "pull_quote": "Financial Times notes the visit is Xi's first to North Korea since 2024.",
+          "pull_quote_zh": "《金融时报》指出此访是习近平自2024年以来首次访问朝鲜。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3lxeWdvNmgyVEZwNlc0dk1pMnU5eTdnbklMWVdqSWRvYXpVV1RZVjBJT053OTFnTzZhZnVYSGw3U19TOHNoUWFBN2YyMExEYVR4YzBFOURUckwzbE1YVC1YeGlGVlhlb0Jmb2ZsZmNvYWN4V1lSM1VGSDhtTnZwdkFaWGY?oc=5"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC outlines new rules for private investment fund regulation",
+          "why_it_matters": "Aims to curb risks and improve oversight in the rapidly growing private fund sector, part of broader financial regulatory tightening.",
+          "why_it_matters_zh": "旨在遏制快速增长私募基金行业的风险并加强监管，是更广泛金融监管收紧的一部分。",
+          "pull_quote": "New rules impose stricter registration requirements and leverage limits.",
+          "pull_quote_zh": "新规施行更严格的注册要求和杠杆限制。",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "请完成下列验证后继续 - 36 36kr",
+          "english_title": "Please complete the following verification to continue - 36Kr",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ER0hmekg5Ml9BMXJMNG5CYmNKaEI5WVFGSk5lSlo0TnZ0czBIcE1RUEdPeDQ0THdTZWdDSW9WWUxiUTlTRlVKeVpVOXhTMHZu?oc=5"
+        },
+        {
+          "primary_title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+          "english_title": "'Huachao Shenkong' raises angel round for AI ultrasound brain-computer interface",
+          "why_it_matters": "Illustrates China's push in next-gen neurotechnology, with potential applications in medical and consumer electronics, attracting significant venture capital.",
+          "why_it_matters_zh": "显示中国在下一代神经技术方面的推进，具有医疗和消费电子领域的潜在应用，吸引了大量风险投资。",
+          "pull_quote": "The startup plans to develop non-invasive BCI devices for medical and consumer applications.",
+          "pull_quote_zh": "该初创公司计划开发用于医疗和消费应用的非侵入式脑机接口设备。",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-08T15:34:14+08:00",
       "date": "2026-06-08",
