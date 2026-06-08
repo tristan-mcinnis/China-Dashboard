@@ -135,3 +135,49 @@ the Neon DB writer loop (no `items` array).
 - **Styling**: `docs/styles.css` with modern design inspired by Parallel.ai
 - **JavaScript**: `docs/app.js` fetches and displays JSON data
 - **Fonts**: Inter + JetBrains Mono from Google Fonts
+
+## Future Development — Data-Native, Self-Analyzing Engine (parked 2026-06-08)
+
+> Strategic direction, not yet started. Captured here so we can resume later.
+
+**The thesis.** A competitive scan of top China newsletters (Sinocism, Pekingnology,
+Baiguan, ChinaTalk, etc.) identified five moats: unfair source access, bilingual
+curation-as-judgment, **proprietary data**, individual voice + track record, and
+niche depth + format speed. The whitespace nobody owns is *systematic data-driven
+analysis* — and that is the one moat this architecture is built to take. We are NOT
+trying to become a personality-driven newsletter (no byline / voice / subscriber list,
+by choice — see the "data utility for OTHER repos to consume" framing above). The niche
+we can own is a **method, not a topic**: the joint distribution of *official signaling ×
+market reaction × social attention*, bilingual, at intraday Beijing cadence. Lead-lag
+between an MFA line, a CNH move, and a Weibo spike is a claim only our own archive can make.
+**The moat is time** — the asset compounds the longer it accumulates, while a voice-based
+moat stays replicable.
+
+**The blocker we found (do this FIRST).** A data-native strategy currently rests on a
+leaking memory. As of 2026-06-08: `history/*.json` are rolling windows (e.g.
+`history/indices.json` capped at ~100 points — it *truncates* older history), several
+series are only 2 days deep, and **Neon is write-only — `db_writer.py` has three INSERTs
+and zero reads; nothing analytical consumes the archive.** Step zero is unglamorous:
+durable, append-only, queryable history + a read path back from Neon. No clever analysis
+stands up until the memory stops leaking.
+
+**Capability ladder (each rung needs the one below):**
+1. **Deviation** — every indicator/theme carries a baseline from our own archive; surface
+   what is *abnormal* vs. a 30/90-day norm (index breaks range, commodity Z-spike, theme
+   returns after absence, a gov channel posting at unusual frequency). This is the Neon
+   read-back that's missing, and it fixes today's **salience-vs-significance** problem
+   (`daily_digest._score()` ranks by what's *hot*, not what *matters* — deviation IS a
+   significance signal).
+2. **Cross-signal correlation** — co-movement across the normally-siloed pillars
+   ("export-control language + CNH weakness + rare-earth move clustered this week").
+3. **Discourse drift** — for primary sources (`gov_registry`, `elite_press`), track *how
+   the language changes* on a fixed watch-list (Taiwan, exports, property, stimulus) via
+   embedding drift or DeepSeek diffing vs. a rolling baseline.
+4. **Self-developing** — the analytical schema grows from the data: recurring entities get
+   promoted to tracked series, recurring correlations get named as signals, the system
+   forms hypotheses and scores them against incoming days.
+
+**Honest constraints:** baselines are young (2–19 days as of parking — Rung 1 is noisy
+until more time banks, which is itself the argument to start accumulating durably *now*);
+deviation amplifies collector hiccups (needs robustness/winsorizing); DeepSeek discourse-
+diffing should run once daily, not per-slot, for cost.
