@@ -1,8 +1,272 @@
 {
-  "as_of": "2026-06-08T06:25:54+08:00",
+  "as_of": "2026-06-08T11:50:58+08:00",
   "source": "daily_digest archive",
-  "count": 28,
+  "count": 29,
   "entries": [
+    {
+      "as_of": "2026-06-08T11:50:58+08:00",
+      "date": "2026-06-08",
+      "time_label": "Midday Brief",
+      "beijing_time": "11:50",
+      "digest_type": "midday",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Xi arrives in Pyongyang for state visit; Gaokao essay prompts spark debate on education trends",
+      "headline_zh": "习近平抵达平壤；高考作文引发教育趋势讨论",
+      "narrative": "President Xi Jinping's arrival in Pyongyang for a state visit, following a signed article in North Korean media, underscores Beijing's commitment to the 'traditional friendship' with the DPRK amid a challenging geopolitical environment. Domestically, the Gaokao essay prompts went viral, reflecting a shift in language education away from formulaic writing toward critical thinking. Meanwhile, the market saw broad declines, with the SSE Composite falling 1.26%, as investors digest a flurry of regulatory announcements including new anti-dumping duties and export controls.",
+      "narrative_zh": "习近平主席抵达平壤进行国事访问，此前在朝鲜媒体发表署名文章，凸显了北京在复杂地缘政治环境中对中朝‘传统友谊’的承诺。国内方面，高考作文题引发热议，反映语文教育从套路化写作向批判性思维的转变。与此同时，市场监管层发布多项调整，包括反倾销税和出口管制，A股三大股指全线回调，上证指数收跌1.26%。",
+      "market_snapshot": "SSE Composite 3977.185 ▼1.26% · Shenzhen Component 14933.819 ▼2.49% · ChiNext 3845.777 ▼2.83% · USD/CNY 6.7834 ▲0.27% · USD/CNH 6.7853 ▼0.05%",
+      "themes": [
+        "Xi-North Korea relations",
+        "Gaokao education reform",
+        "Trade policy",
+        "Economic regulation",
+        "Geopolitical diplomacy"
+      ],
+      "theme_trends": {
+        "Xi-North Korea relations": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "Gaokao education reform": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "Trade policy": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "Economic regulation": {
+          "status": "recurring",
+          "days_seen": 6
+        },
+        "Geopolitical diplomacy": {
+          "status": "rising",
+          "days_seen": 2
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "习近平在朝鲜媒体发表署名文章",
+          "english_title": "Xi Jinping publishes signed article in North Korean media ahead of visit",
+          "why_it_matters": "Signals the high importance Beijing places on the Kim-Xi summit and reaffirms ideological alignment between the two parties.",
+          "why_it_matters_zh": "表明北京对金正恩-习近平会晤的高度重视，重申两党之间的意识形态一致。",
+          "pull_quote": "继往开来、砥砺同行 续写中朝传...",
+          "pull_quote_zh": "继往开来、砥砺同行 续写中朝传...",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "xinhua_news"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%9C%9D%E9%B2%9C%E5%AA%92%E4%BD%93%E5%8F%91%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0"
+        },
+        {
+          "primary_title": "2026高考",
+          "english_title": "2026 Gaokao essay prompts go viral, reflecting new educational trends",
+          "why_it_matters": "The essay topics' shift toward open-ended critical analysis signals a broader reform in Chinese language education away from rote memorization.",
+          "why_it_matters_zh": "作文题向开放式批判性分析的转变，标志着语文教育向脱离死记硬背的更大范围改革。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "elite_press",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "platform_count": 4,
+          "source": "Jiemian",
+          "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83"
+        },
+        {
+          "primary_title": "习近平抵达平壤",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit",
+          "why_it_matters": "The in-person summit reinforces China's role as North Korea's primary diplomatic and economic backer amid stalled denuclearization talks.",
+          "why_it_matters_zh": "面对面峰会强化了中国作为朝鲜主要外交和经济后盾的角色，此时无核化谈判仍陷僵局。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E5%B9%B3%E5%A3%A4"
+        },
+        {
+          "primary_title": "高考物理“两极分化”",
+          "english_title": "Gaokao physics exam criticized for extreme difficulty disparity",
+          "why_it_matters": "The 'polarization' phenomenon highlights persistent issues in China's exam-oriented education system and student anxiety.",
+          "why_it_matters_zh": "‘两极分化’现象凸显了应试教育体系中的老大难问题及学生焦虑。",
+          "pull_quote": "选择题吓懵，大题反倒格外简单",
+          "pull_quote_zh": "选择题吓懵，大题反倒格外简单",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86%E2%80%9C%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%E2%80%9D"
+        },
+        {
+          "primary_title": "2026年6月5日外交部发言人毛宁主持例行记者会",
+          "english_title": "Foreign Ministry spokesperson holds regular press conference",
+          "why_it_matters": "Routine briefing; key statements on diplomatic issues may emerge but no specific content provided.",
+          "why_it_matters_zh": "例行记者会；可能披露重要外交表态，但此处未提供具体内容。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260605_11938293.shtml"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM imposes anti-dumping duties on copolyacetal from South Korea, Thailand, Malaysia",
+          "why_it_matters": "Part of China's ongoing trade remedy actions to protect domestic chemical industries; signals continued trade friction.",
+          "why_it_matters_zh": "中国持续对国内化工行业实施贸易救济措施的一部分，表明贸易摩擦仍在继续。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "MOFCOM adjusts export control list for precursor chemicals",
+          "why_it_matters": "Refines controls on dual-use chemicals to align with international obligations and domestic security considerations.",
+          "why_it_matters_zh": "细化对两用化学品的管控，以符合国际义务和国内安全考量。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "MOFCOM and five other ministries optimize departure tax refund to boost inbound tourism",
+          "why_it_matters": "Part of broader efforts to stimulate consumption and attract foreign visitors amid economic slowdown.",
+          "why_it_matters_zh": "经济放缓背景下，刺激消费和吸引外国游客的更大努力的一部分。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "State Council Taiwan Affairs Office holds press conference",
+          "why_it_matters": "Reiterates Beijing's stance on cross-strait issues; any new statements on Taiwan policy would be significant.",
+          "why_it_matters_zh": "重申北京在两岸问题上的立场；任何新的对台政策表态都值得关注。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm"
+        },
+        {
+          "primary_title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
+          "english_title": "Vice Foreign Minister Miao Deyu meets South African Director-General",
+          "why_it_matters": "Strengthens bilateral ties with South Africa, a key partner in the BRICS and Global South.",
+          "why_it_matters_zh": "加强与南非的双边关系，南非是金砖国家和全球南方的重要伙伴。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部新闻",
+          "url": "https://www.mfa.gov.cn/web/wjbxw_new/202606/t20260607_11939033.shtml"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC briefs on new private investment fund regulation guidelines",
+          "why_it_matters": "Indicates tightening oversight of private funds to prevent systemic risks and align with financial stability goals.",
+          "why_it_matters_zh": "表明对私募基金加强监管以防范系统性风险，符合金融稳定目标。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "“Huachao Super Control” has completed a series of angel round financing at the level of 100 million RMB",
+          "english_title": "'Huachao Super Control' secures 100 million RMB angel round",
+          "why_it_matters": "Highlights continued venture capital interest in industrial automation and control systems despite broader funding slowdown.",
+          "why_it_matters_zh": "表明在整体融资放缓背景下，风险资本对工业自动化控制系统仍有兴趣。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vbWNoOU5uTDZ3Wjh2bFB4SHY1bWQtS1pRd3JlRmh1a19NalVXMFVnT0NyandJZmNuUnRpRC03M1NQdFU5RXlkT2V5MThpazViNzNYbTB6N0JDR0s1WDhEbQ?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-08T06:25:54+08:00",
       "date": "2026-06-08",
