@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T11:50:58+08:00",
+  "updated_at": "2026-06-08T15:34:14+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1503,8 +1503,52 @@
     },
     "xi jinping": {
       "label": "Xi Jinping",
-      "count": 5,
+      "count": 9,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
+          "english_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting (FT/SCMP)",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3lxeWdvNmgyVEZwNlc0dk1pMnU5eTdnbklMWVdqSWRvYXpVV1RZVjBJT053OTFnTzZhZnVYSGw3U19TOHNoUWFBN2YyMExEYVR4YzBFOURUckwzbE1YVC1YeGlGVlhlb0Jmb2ZsZmNvYWN4V1lSM1VGSDhtTnZwdkFaWGY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "前瞻布局和发展未来产业",
+          "english_title": "Qiushi publishes Xi Jinping article on forward-looking layout of future industries",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSE0yM0xIWjQ2bTZ2OVNXem9PQ0NkbXAwNmwxZGg2MEYwcU1zd1ZmeG84Zk03N1M3eEU3M003bldRNHZfVUtoVkhyVjNpbFlkc0Qzb2RXcmhxaS1Wc3QwbXRid1ZxMjg1emhoVms3dzVoQ1RfdVY2cUx5SEg?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "习近平抵达 朝方举行盛大欢迎仪式",
+          "english_title": "Grand welcome ceremony held for Xi in Pyongyang",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE+%E6%9C%9D%E6%96%B9%E4%B8%BE%E8%A1%8C%E7%9B%9B%E5%A4%A7%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "习近平开始对朝鲜进行国事访问",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "category": "news"
+        },
         {
           "date": "2026-06-08",
           "title": "习近平同金正恩交往的精彩瞬间",
@@ -3920,8 +3964,30 @@
     },
     "north korea": {
       "label": "North Korea",
-      "count": 3,
+      "count": 5,
       "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
+          "english_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting (FT/SCMP)",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3lxeWdvNmgyVEZwNlc0dk1pMnU5eTdnbklMWVdqSWRvYXpVV1RZVjBJT053OTFnTzZhZnVYSGw3U19TOHNoUWFBN2YyMExEYVR4YzBFOURUckwzbE1YVC1YeGlGVlhlb0Jmb2ZsZmNvYWN4V1lSM1VGSDhtTnZwdkFaWGY?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "习近平开始对朝鲜进行国事访问",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "category": "news"
+        },
         {
           "date": "2026-06-08",
           "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
@@ -5950,6 +6016,88 @@
             "xinhua_news"
           ],
           "category": "news"
+        }
+      ]
+    },
+    "state visit": {
+      "label": "state visit",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "习近平抵达 朝方举行盛大欢迎仪式",
+          "english_title": "Grand welcome ceremony held for Xi in Pyongyang",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE+%E6%9C%9D%E6%96%B9%E4%B8%BE%E8%A1%8C%E7%9B%9B%E5%A4%A7%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "习近平开始对朝鲜进行国事访问",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "geopolitical alignment": {
+      "label": "geopolitical alignment",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "习近平开始对朝鲜进行国事访问",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "korean peninsula": {
+      "label": "Korean Peninsula",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "习近平开始对朝鲜进行国事访问",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "economic slowdown": {
+      "label": "economic slowdown",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-08",
+          "title": "前瞻布局和发展未来产业",
+          "english_title": "Qiushi publishes Xi Jinping article on forward-looking layout of future industries",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSE0yM0xIWjQ2bTZ2OVNXem9PQ0NkbXAwNmwxZGg2MEYwcU1zd1ZmeG84Zk03N1M3eEU3M003bldRNHZfVUtoVkhyVjNpbFlkc0Qzb2RXcmhxaS1Wc3QwbXRid1ZxMjg1emhoVms3dzVoQ1RfdVY2cUx5SEg?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
         }
       ]
     }

@@ -1,51 +1,57 @@
 {
   "digest_type": "midday",
-  "as_of": "2026-06-08T11:50:58+08:00",
+  "as_of": "2026-06-08T15:34:14+08:00",
   "date": "2026-06-08",
   "time_label": "Midday Brief",
-  "beijing_time": "11:50",
+  "beijing_time": "15:33",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Xi arrives in Pyongyang for state visit; Gaokao essay prompts spark debate on education trends",
-  "headline_zh": "习近平抵达平壤；高考作文引发教育趋势讨论",
-  "narrative": "President Xi Jinping's arrival in Pyongyang for a state visit, following a signed article in North Korean media, underscores Beijing's commitment to the 'traditional friendship' with the DPRK amid a challenging geopolitical environment. Domestically, the Gaokao essay prompts went viral, reflecting a shift in language education away from formulaic writing toward critical thinking. Meanwhile, the market saw broad declines, with the SSE Composite falling 1.26%, as investors digest a flurry of regulatory announcements including new anti-dumping duties and export controls.",
-  "narrative_zh": "习近平主席抵达平壤进行国事访问，此前在朝鲜媒体发表署名文章，凸显了北京在复杂地缘政治环境中对中朝‘传统友谊’的承诺。国内方面，高考作文题引发热议，反映语文教育从套路化写作向批判性思维的转变。与此同时，市场监管层发布多项调整，包括反倾销税和出口管制，A股三大股指全线回调，上证指数收跌1.26%。",
-  "market_snapshot": "SSE Composite 3977.185 ▼1.26% · Shenzhen Component 14933.819 ▼2.49% · ChiNext 3845.777 ▼2.83% · USD/CNY 6.7834 ▲0.27% · USD/CNH 6.7853 ▼0.05%",
+  "headline": "Xi arrives in Pyongyang for state visit, signaling strategic focus on Korea amid global tensions",
+  "headline_zh": "习近平抵达平壤进行国事访问，彰显对朝战略关注",
+  "narrative": "Xi Jinping's state visit to North Korea is the day's dominant signal, reasserting China's commitment to its sole Cold War-era ally. The trip, his first since 2019, comes as Beijing navigates intensifying U.S.-China competition and seeks to stabilize its periphery. Domestic markets fell sharply (SSE -1.7%), reflecting persistent investor unease over economic data and regulatory tightening. Meanwhile, Gaokao exams trend socially, but the political weight of the Pyongyang visit overshadows all.",
+  "narrative_zh": "习近平对朝鲜的国事访问是今日最重要的信号，重申中国对其唯一冷战时期盟友的承诺。此次访问是他自2019年以来的首次，正值北京应对日益激烈的中美竞争并寻求稳定周边之际。国内股市大幅下跌（沪指-1.7%），反映出投资者对经济数据和监管收紧的持续担忧。与此同时，高考成为社会热点，但平壤之行的政治分量压倒一切。",
+  "market_snapshot": "SSE Composite 3959.338 ▼1.70% · Shenzhen Component 14821.187 ▼3.22% · ChiNext 3811.785 ▼3.69% · USD/CNY 6.7837 ▲0.28% · USD/CNH 6.7862 ▼0.04%",
   "themes": [
-    "Xi-North Korea relations",
-    "Gaokao education reform",
-    "Trade policy",
-    "Economic regulation",
-    "Geopolitical diplomacy"
+    "Xi Jinping",
+    "North Korea",
+    "state visit",
+    "geopolitical alignment",
+    "Korean Peninsula",
+    "economic slowdown"
   ],
   "theme_trends": {
-    "Xi-North Korea relations": {
+    "Xi Jinping": {
       "status": "recurring",
       "days_seen": 7
     },
-    "Gaokao education reform": {
-      "status": "recurring",
-      "days_seen": 7
-    },
-    "Trade policy": {
+    "North Korea": {
       "status": "recurring",
       "days_seen": 3
     },
-    "Economic regulation": {
+    "state visit": {
       "status": "recurring",
-      "days_seen": 6
+      "days_seen": 7
     },
-    "Geopolitical diplomacy": {
-      "status": "rising",
-      "days_seen": 2
+    "geopolitical alignment": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "Korean Peninsula": {
+      "status": "new",
+      "days_seen": 0
+    },
+    "economic slowdown": {
+      "status": "recurring",
+      "days_seen": 4
     }
   },
   "entities": [
     "Xi Jinping",
+    "Kim Jong Un",
     "North Korea",
+    "China",
     "Ministry of Commerce",
     "CSRC",
-    "Gaokao",
-    "DPRK"
+    "Gaokao"
   ],
   "pillars": [
     {
@@ -82,25 +88,25 @@
   "top_stories": [
     {
       "rank": 1,
-      "weight": 61.6,
+      "weight": 63.8,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot",
-        "xinhua_news"
+        "thepaper_news"
       ],
       "platform_count": 3,
-      "primary_title": "习近平在朝鲜媒体发表署名文章",
-      "english_title": "Xi Jinping publishes signed article in North Korean media ahead of visit",
-      "why_it_matters": "Signals the high importance Beijing places on the Kim-Xi summit and reaffirms ideological alignment between the two parties.",
-      "why_it_matters_zh": "表明北京对金正恩-习近平会晤的高度重视，重申两党之间的意识形态一致。",
-      "pull_quote": "继往开来、砥砺同行 续写中朝传...",
-      "pull_quote_zh": "继往开来、砥砺同行 续写中朝传...",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
+      "primary_title": "习近平开始对朝鲜进行国事访问",
+      "english_title": "Xi Jinping arrives in Pyongyang for state visit",
+      "why_it_matters": "First Xi-Kim summit since 2019; reaffirms China's strategic backing for North Korea amid U.S.-led pressure and global polarization.",
+      "why_it_matters_zh": "2019年以来首次习金会；在美国主导的施压和全球两极分化背景下，重申中国对朝鲜的战略支持。",
+      "pull_quote": "Xi's plane landed at Pyongyang at noon local time; North Korea held a grand welcoming ceremony.",
+      "pull_quote_zh": "习近平专机于当地时间中午抵达平壤；朝方举行盛大欢迎仪式。",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
       "source": "",
       "category": "news",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%9C%9D%E9%B2%9C%E5%AA%92%E4%BD%93%E5%8F%91%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%80%E5%A7%8B%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -111,108 +117,36 @@
           "rank": 1
         },
         {
-          "platform": "xinhua_news",
-          "rank": 3
+          "platform": "thepaper_news",
+          "rank": 2
         }
       ]
     },
     {
       "rank": 2,
-      "weight": 44.8,
-      "platforms": [
-        "baidu_top",
-        "elite_press",
-        "tencent_wechat_hot",
-        "thepaper_news"
-      ],
-      "platform_count": 4,
-      "primary_title": "2026高考",
-      "english_title": "2026 Gaokao essay prompts go viral, reflecting new educational trends",
-      "why_it_matters": "The essay topics' shift toward open-ended critical analysis signals a broader reform in Chinese language education away from rote memorization.",
-      "why_it_matters_zh": "作文题向开放式批判性分析的转变，标志着语文教育向脱离死记硬背的更大范围改革。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
-      "source": "Jiemian",
-      "category": "press",
-      "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 8
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 8
-        },
-        {
-          "platform": "thepaper_news",
-          "rank": 2
-        },
-        {
-          "platform": "elite_press",
-          "rank": 28
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "weight": 28.8,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
-      ],
-      "platform_count": 2,
-      "primary_title": "习近平抵达平壤",
-      "english_title": "Xi Jinping arrives in Pyongyang for state visit",
-      "why_it_matters": "The in-person summit reinforces China's role as North Korea's primary diplomatic and economic backer amid stalled denuclearization talks.",
-      "why_it_matters_zh": "面对面峰会强化了中国作为朝鲜主要外交和经济后盾的角色，此时无核化谈判仍陷僵局。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E5%B9%B3%E5%A3%A4",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 2
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 2
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "weight": 26.4,
+      "weight": 61.6,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot",
         "weibo_hot"
       ],
       "platform_count": 3,
-      "primary_title": "高考物理“两极分化”",
-      "english_title": "Gaokao physics exam criticized for extreme difficulty disparity",
-      "why_it_matters": "The 'polarization' phenomenon highlights persistent issues in China's exam-oriented education system and student anxiety.",
-      "why_it_matters_zh": "‘两极分化’现象凸显了应试教育体系中的老大难问题及学生焦虑。",
-      "pull_quote": "选择题吓懵，大题反倒格外简单",
-      "pull_quote_zh": "选择题吓懵，大题反倒格外简单",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
+      "primary_title": "习近平抵达 朝方举行盛大欢迎仪式",
+      "english_title": "Grand welcome ceremony held for Xi in Pyongyang",
+      "why_it_matters": "High-level ceremonial reception underscores the importance both sides place on the visit and bilateral ties.",
+      "why_it_matters_zh": "高规格的欢迎仪式凸显双方对此次访问和双边关系的重视。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86%E2%80%9C%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%E2%80%9D",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE+%E6%9C%9D%E6%96%B9%E4%B8%BE%E8%A1%8C%E7%9B%9B%E5%A4%A7%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
       "appearances": [
         {
           "platform": "baidu_top",
-          "rank": 10
+          "rank": 2
         },
         {
           "platform": "weibo_hot",
@@ -220,7 +154,69 @@
         },
         {
           "platform": "tencent_wechat_hot",
-          "rank": 10
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "weight": 25.6,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "高考历史结束 考生直呼题目太创新",
+      "english_title": "Gaokao history exam ends; students call questions overly innovative",
+      "why_it_matters": "Reflects ongoing education reform tensions and the heavy pressure on examinees in China's hyper-competitive system.",
+      "why_it_matters_zh": "反映教育改革中的张力以及中国高度竞争体制下考生承受的巨大压力。",
+      "pull_quote": "Students exclaimed: 'The questions are too innovative, difficulty maxed out.'",
+      "pull_quote_zh": "考生直言：题目太创新，难度拉满。",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E7%BB%93%E6%9D%9F+%E8%80%83%E7%94%9F%E7%9B%B4%E5%91%BC%E9%A2%98%E7%9B%AE%E5%A4%AA%E5%88%9B%E6%96%B0",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 3
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "weight": 22.4,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "高考加油 未来可期",
+      "english_title": "Gaokao begins; best wishes to candidates nationwide",
+      "why_it_matters": "Annual national exam dominates social discourse, highlighting its role as a key social mobility channel and stressor.",
+      "why_it_matters_zh": "年度国考主导社会话语，凸显其作为社会流动渠道和压力源的关键作用。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9+%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 4
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 4
         }
       ]
     },
@@ -232,9 +228,9 @@
       ],
       "platform_count": 1,
       "primary_title": "2026年6月5日外交部发言人毛宁主持例行记者会",
-      "english_title": "Foreign Ministry spokesperson holds regular press conference",
-      "why_it_matters": "Routine briefing; key statements on diplomatic issues may emerge but no specific content provided.",
-      "why_it_matters_zh": "例行记者会；可能披露重要外交表态，但此处未提供具体内容。",
+      "english_title": "Foreign Ministry regular press conference on June 5",
+      "why_it_matters": "Routine briefing covers China's positions on various international issues, offering insight into diplomatic messaging.",
+      "why_it_matters_zh": "例行记者会涵盖中国对多项国际问题的立场，提供外交信号洞察。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -270,13 +266,69 @@
       "rank": 6,
       "weight": 10.0,
       "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "多元探路乡村“老有所养”",
+      "english_title": "Exploring multiple paths for rural elderly care",
+      "why_it_matters": "Highlights the Party's policy push to address the aging crisis in rural areas, a key social stability concern.",
+      "why_it_matters_zh": "凸显党应对农村老龄化危机的政策推动，这是社会稳定的关键关切。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "politics",
+      "pillar_label": "High Politics & Ideology",
+      "pillar_label_zh": "高层政治与意识形态",
+      "source": "People's Daily",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ZkJ0eENHR2Fqcm9US216VG1UN0ZKUEJCeWJIbWRIeFk4dGJmVENOekFHMU5RUC1XNWVPdkVxRml3aUs2el85aGluOGZjWkk0ZXJNQkNvNHlJMUlJT3JRV0xlNmtWTFBla0tPWEln?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "weight": 10.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "前瞻布局和发展未来产业",
+      "english_title": "Qiushi publishes Xi Jinping article on forward-looking layout of future industries",
+      "why_it_matters": "Signals top-down strategic focus on emerging industries as a core driver of long-term economic competitiveness.",
+      "why_it_matters_zh": "表明自上而下将未来产业作为长期经济竞争力核心驱动力的战略关注。",
+      "pull_quote": "The article calls for 'seizing the opportunities of the new scientific and technological revolution and industrial transformation.'",
+      "pull_quote_zh": "文章呼吁‘抓住新科技革命和产业变革的机遇’。",
+      "pillar": "politics",
+      "pillar_label": "High Politics & Ideology",
+      "pillar_label_zh": "高层政治与意识形态",
+      "source": "Qiushi",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSE0yM0xIWjQ2bTZ2OVNXem9PQ0NkbXAwNmwxZGg2MEYwcU1zd1ZmeG84Zk03N1M3eEU3M003bldRNHZfVUtoVkhyVjNpbFlkc0Qzb2RXcmhxaS1Wc3QwbXRid1ZxMjg1emhoVms3dzVoQ1RfdVY2cUx5SEg?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 5
+        },
+        {
+          "platform": "elite_press",
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "weight": 10.0,
+      "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-      "english_title": "MOFCOM imposes anti-dumping duties on copolyacetal from South Korea, Thailand, Malaysia",
-      "why_it_matters": "Part of China's ongoing trade remedy actions to protect domestic chemical industries; signals continued trade friction.",
-      "why_it_matters_zh": "中国持续对国内化工行业实施贸易救济措施的一部分，表明贸易摩擦仍在继续。",
+      "english_title": "MOFCOM anti-dumping ruling on polyoxymethylene from South Korea, Thailand, Malaysia",
+      "why_it_matters": "Continues China's use of trade remedies to protect domestic chemical industry amid oversupply and trade tensions.",
+      "why_it_matters_zh": "延续中国在供应过剩和贸易紧张背景下使用贸易救济措施保护国内化工行业。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -293,16 +345,16 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "weight": 9.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-      "english_title": "MOFCOM adjusts export control list for precursor chemicals",
-      "why_it_matters": "Refines controls on dual-use chemicals to align with international obligations and domestic security considerations.",
-      "why_it_matters_zh": "细化对两用化学品的管控，以符合国际义务和国内安全考量。",
+      "english_title": "MOFCOM and four other departments adjust controlled precursor chemicals export list",
+      "why_it_matters": "Strengthens export controls on dual-use chemicals, reflecting nonproliferation commitments and tightening security oversight.",
+      "why_it_matters_zh": "加强两用化学品出口管制，反映防扩散承诺和日益严格的安全监管。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "regulatory",
@@ -319,16 +371,16 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "weight": 8.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
-      "english_title": "MOFCOM and five other ministries optimize departure tax refund to boost inbound tourism",
-      "why_it_matters": "Part of broader efforts to stimulate consumption and attract foreign visitors amid economic slowdown.",
-      "why_it_matters_zh": "经济放缓背景下，刺激消费和吸引外国游客的更大努力的一部分。",
+      "english_title": "MOFCOM and five other departments announce measures to boost tax refunds for inbound tourists",
+      "why_it_matters": "Aims to stimulate inbound tourism spending and support the services trade balance, part of post-pandemic recovery efforts.",
+      "why_it_matters_zh": "旨在刺激入境旅游消费并支撑服务贸易平衡，是疫后复苏努力的一部分。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -345,16 +397,16 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 11,
       "weight": 5.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
-      "english_title": "State Council Taiwan Affairs Office holds press conference",
-      "why_it_matters": "Reiterates Beijing's stance on cross-strait issues; any new statements on Taiwan policy would be significant.",
-      "why_it_matters_zh": "重申北京在两岸问题上的立场；任何新的对台政策表态都值得关注。",
+      "english_title": "Taiwan Affairs Office press conference compilation (June 3)",
+      "why_it_matters": "Reiterates one-China principle and warns against separatist moves, maintaining consistent cross-strait messaging.",
+      "why_it_matters_zh": "重申一个中国原则并警告分裂行径，保持一贯的台海信息传递。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -387,46 +439,46 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 12,
       "weight": 2.0,
       "platforms": [
-        "gov_registry"
+        "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
-      "english_title": "Vice Foreign Minister Miao Deyu meets South African Director-General",
-      "why_it_matters": "Strengthens bilateral ties with South Africa, a key partner in the BRICS and Global South.",
-      "why_it_matters_zh": "加强与南非的双边关系，南非是金砖国家和全球南方的重要伙伴。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "primary_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting",
+      "english_title": "Xi Jinping lands in North Korea for Kim Jong Un meeting (FT/SCMP)",
+      "why_it_matters": "Western media framing focuses on strategic implications for denuclearization talks and China's role in regional security.",
+      "why_it_matters_zh": "西方媒体聚焦于对无核化谈判和中国地区安全角色的战略影响。",
+      "pull_quote": "SCMP reports Xi 'hailed everlasting friendship' upon arrival.",
+      "pull_quote_zh": "南华早报报道习近平抵达时‘赞颂了永恒友谊’。",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
-      "source": "外交部新闻",
-      "category": "regulatory",
-      "url": "https://www.mfa.gov.cn/web/wjbxw_new/202606/t20260607_11939033.shtml",
+      "source": "Financial Times",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3lxeWdvNmgyVEZwNlc0dk1pMnU5eTdnbklMWVdqSWRvYXpVV1RZVjBJT053OTFnTzZhZnVYSGw3U19TOHNoUWFBN2YyMExEYVR4YzBFOURUckwzbE1YVC1YeGlGVlhlb0Jmb2ZsZmNvYWN4V1lSM1VGSDhtTnZwdkFaWGY?oc=5",
       "appearances": [
         {
-          "platform": "gov_registry",
-          "rank": 12
+          "platform": "elite_press",
+          "rank": 33
         },
         {
-          "platform": "gov_registry",
-          "rank": 14
+          "platform": "elite_press",
+          "rank": 49
         }
       ]
     },
     {
-      "rank": 11,
+      "rank": 13,
       "weight": 2.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-      "english_title": "CSRC briefs on new private investment fund regulation guidelines",
-      "why_it_matters": "Indicates tightening oversight of private funds to prevent systemic risks and align with financial stability goals.",
-      "why_it_matters_zh": "表明对私募基金加强监管以防范系统性风险，符合金融稳定目标。",
+      "english_title": "CSRC spokesperson answers questions on new guidelines for private investment funds",
+      "why_it_matters": "Part of broader regulatory tightening to manage financial risks and promote 'high-quality development' of the fund industry.",
+      "why_it_matters_zh": "是加强监管以管理金融风险并促进基金行业‘高质量发展’的一部分。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "regulatory",
@@ -447,16 +499,16 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 14,
       "weight": 1.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "“Huachao Super Control” has completed a series of angel round financing at the level of 100 million RMB",
-      "english_title": "'Huachao Super Control' secures 100 million RMB angel round",
-      "why_it_matters": "Highlights continued venture capital interest in industrial automation and control systems despite broader funding slowdown.",
-      "why_it_matters_zh": "表明在整体融资放缓背景下，风险资本对工业自动化控制系统仍有兴趣。",
+      "primary_title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+      "english_title": "'Huachao Super Control' receives hundred-million yuan angel round for AI ultrasound brain-computer interface",
+      "why_it_matters": "Indicates continued investor appetite for cutting-edge neurotechnology, a strategic frontier for China's tech self-reliance.",
+      "why_it_matters_zh": "表明投资者对前沿神经技术的持续兴趣，这是中国技术自立自强的战略前沿。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "tech",
@@ -464,11 +516,11 @@
       "pillar_label_zh": "产业、科技与工业政策",
       "source": "36Kr",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vbWNoOU5uTDZ3Wjh2bFB4SHY1bWQtS1pRd3JlRmh1a19NalVXMFVnT0NyandJZmNuUnRpRC03M1NQdFU5RXlkT2V5MThpazViNzNYbTB6N0JDR0s1WDhEbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
-          "rank": 22
+          "rank": 26
         }
       ]
     }
@@ -481,7 +533,7 @@
     "thepaper_news": 20,
     "ladymax_news": 21,
     "gov_registry": 80,
-    "elite_press": 49,
+    "elite_press": 52,
     "indices": 4,
     "fx": 4
   },
