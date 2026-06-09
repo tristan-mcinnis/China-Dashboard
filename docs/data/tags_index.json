@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T11:50:07+08:00",
+  "updated_at": "2026-06-09T15:08:52+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -5567,8 +5567,18 @@
     },
     "anti-dumping": {
       "label": "anti-dumping",
-      "count": 2,
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on copolyacetal from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-08",
           "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
@@ -5876,9 +5886,39 @@
       ]
     },
     "trade policy": {
-      "label": "Trade policy",
-      "count": 3,
+      "label": "trade policy",
+      "count": 6,
       "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China adjusts export control list for precursor chemicals to specific countries",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on copolyacetal from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "2026年6月8日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260608_11939733.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-08",
           "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
@@ -6696,6 +6736,118 @@
             "weibo_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "xi-north korea visit": {
+      "label": "Xi-North Korea visit",
+      "count": 6,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on copolyacetal from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "习近平和彭丽媛观看朝鲜专场文艺演出",
+          "english_title": "Xi and Peng Liyuan watch North Korean art performance",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UjhINE9qRUZtUXBoaXV0dU9hTWxSVk9vM2VUdGxORXdBa3MzZUYxbzdOWjNEZUJ0Mmd0RjdzT1B3VFYxRklXVmFGOEk0RktaamFmM3dwY2h6UmpvbUg1czYzcmwxTWIwMmpj?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "2026年6月8日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260608_11939733.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "新疆小羊摊主：每天只睡3、4个小时",
+          "english_title": "Xinjiang handicraft 'Fortune Lamb' goes viral, creator sleeps only 3-4 hours",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%B0%8F%E7%BE%8A%E6%91%8A%E4%B8%BB%EF%BC%9A%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A13%E3%80%814%E4%B8%AA%E5%B0%8F%E6%97%B6",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "最隆重礼遇欢迎最尊贵客人",
+          "english_title": "Grand welcome for Xi Jinping upon arrival in Pyongyang",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%9A%86%E9%87%8D%E7%A4%BC%E9%81%87%E6%AC%A2%E8%BF%8E%E6%9C%80%E5%B0%8A%E8%B4%B5%E5%AE%A2%E4%BA%BA",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "这些中国歌曲引起全场共鸣",
+          "english_title": "Chinese songs resonate at North Korea special performance with Xi in attendance",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E6%AD%8C%E6%9B%B2%E5%BC%95%E8%B5%B7%E5%85%A8%E5%9C%BA%E5%85%B1%E9%B8%A3",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "thepaper_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "market rally": {
+      "label": "market rally",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains new guidelines on private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "tech sector gains": {
+      "label": "tech sector gains",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains new guidelines on private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office press conference (June 3) transcript released",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
         }
       ]
     }

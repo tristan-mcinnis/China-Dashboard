@@ -1,59 +1,51 @@
 {
   "digest_type": "midday",
-  "as_of": "2026-06-09T11:50:07+08:00",
+  "as_of": "2026-06-09T15:08:52+08:00",
   "date": "2026-06-09",
   "time_label": "Midday Brief",
-  "beijing_time": "11:49",
+  "beijing_time": "15:08",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Xi in Pyongyang; Commerce Ministry anti-dumping, tax rebate; AI BCI startup gets $140M.",
-  "headline_zh": "习近平访朝，商务部反倾销与退税，脑机接口初创获亿元融资",
-  "narrative": "President Xi Jinping's state visit to North Korea, the first in years, reaffirms the strategic alignment between Beijing and Pyongyang amid heightened geopolitical tensions. The symbolism of a 'most grand ceremony' underscores China's commitment to its traditional ally, directly challenging US-led isolation efforts. Domestically, the Ministry of Commerce released multiple policy announcements: anti-dumping duties on chemical imports from Korea, Thailand, and Malaysia protect domestic industry, while optimized tax rebates for overseas tourists aim to boost inbound consumption as part of a broader stimulus push. In technology, a Chinese brain-computer interface startup secured a sizable angel round, signaling sustained investor appetite for frontier AI applications despite regulatory headwinds. Meanwhile, social media trends reflect a mix of NBA Finals engagement and lighter Gaokao stories, providing cultural context to the day's news.",
-  "narrative_zh": "习近平主席对朝鲜进行国事访问，这是多年来首次，在地缘政治紧张加剧之际重申了北京与平壤之间的战略一致。'最隆重礼遇'的象征意义凸显了中国对其传统盟友的承诺，直接挑战美国主导的孤立努力。国内方面，商务部发布多项政策公告：对韩国、泰国和马来西亚的化学进口征收反倾销税以保护国内产业，同时优化境外游客退税以刺激入境消费，作为更广泛刺激举措的一部分。科技领域，一家中国脑机接口初创公司获得大额天使轮融资，显示尽管监管存在阻力，投资者对前沿AI应用的热情依然不减。与此同时，社交媒体热点包括NBA总决赛和轻松的高考故事，为当日新闻提供了文化背景。",
-  "market_snapshot": "SSE Composite 3979.677 ▲0.51% · Shenzhen Component 15007.109 ▲1.25% · ChiNext 3884.541 ▲1.91% · USD/CNY 6.7779 ▼0.07% · USD/CNH 6.7799 ▼0.02%",
+  "headline": "Xi's North Korea visit dominates, markets rally on tech gains",
+  "headline_zh": "习近平访朝成焦点，A股科技股领涨",
+  "narrative": "Xi Jinping's state visit to North Korea, the first since 2019, is the day's defining event. The lavish welcome and cultural performances underscore Pyongyang's drive to deepen ties amid regional tensions. Meanwhile, domestic markets surged, led by ChiNext's 3.88% gain, reflecting renewed investor confidence in tech sectors. The Commerce Ministry's anti-dumping measures and tax refund policies signal continued focus on trade remedies and boosting consumption. The visit's political symbolism and market dynamics suggest a week ahead dominated by diplomatic signaling and policy-driven sector rotations.",
+  "narrative_zh": "习近平对朝鲜的国事访问是当天的决定性事件，这是自2019年以来的首次。盛大的欢迎仪式和文化演出凸显了平壤在地区紧张局势下深化关系的愿望。同时，国内市场大涨，创业板指上涨3.88%，反映出投资者对科技板块的信心回升。商务部的反倾销措施和退税政策表明将继续关注贸易救济和促进消费。此次访问的政治象征意义和市场动态预示着接下来一周将以外交信号和政策驱动的板块轮动为主。",
+  "market_snapshot": "SSE Composite 4007.602 ▲1.22% · Shenzhen Component 15263.679 ▲2.99% · ChiNext 3959.6353 ▲3.88% · USD/CNY 6.7707 ▼0.18% · USD/CNH 6.7723 ▼0.14%",
   "themes": [
-    "朝鲜外交",
-    "经济刺激",
-    "反倾销",
-    "脑机接口",
-    "AI投资",
-    "社会热点"
+    "Xi-North Korea visit",
+    "market rally",
+    "tech sector gains",
+    "trade policy",
+    "anti-dumping"
   ],
   "theme_trends": {
-    "朝鲜外交": {
-      "status": "new",
-      "days_seen": 0
-    },
-    "经济刺激": {
-      "status": "new",
-      "days_seen": 0
-    },
-    "反倾销": {
-      "status": "recurring",
-      "days_seen": 3
-    },
-    "脑机接口": {
-      "status": "rising",
-      "days_seen": 1
-    },
-    "AI投资": {
+    "Xi-North Korea visit": {
       "status": "recurring",
       "days_seen": 7
     },
-    "社会热点": {
-      "status": "new",
-      "days_seen": 0
+    "market rally": {
+      "status": "recurring",
+      "days_seen": 6
+    },
+    "tech sector gains": {
+      "status": "recurring",
+      "days_seen": 7
+    },
+    "trade policy": {
+      "status": "recurring",
+      "days_seen": 4
+    },
+    "anti-dumping": {
+      "status": "recurring",
+      "days_seen": 7
     }
   },
   "entities": [
     "Xi Jinping",
-    "Kim Jong-un",
+    "Kim Jong Un",
     "North Korea",
-    "Ministry of Commerce",
-    "Huachao Shenkong",
-    "NBA",
-    "Gaokao",
-    "Nvidia",
-    "Doosan Group"
+    "Commerce Ministry",
+    "CSRC",
+    "ChiNext"
   ],
   "pillars": [
     {
@@ -65,11 +57,6 @@
       "key": "economy",
       "label": "Economy & Markets",
       "label_zh": "经济与市场"
-    },
-    {
-      "key": "tech",
-      "label": "Industry, Tech & Industrial Policy",
-      "label_zh": "产业、科技与工业政策"
     },
     {
       "key": "geopolitics",
@@ -90,36 +77,36 @@
   "top_stories": [
     {
       "rank": 1,
-      "weight": 35.2,
+      "weight": 44.0,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot",
-        "weibo_hot"
+        "thepaper_news"
       ],
       "platform_count": 3,
-      "primary_title": "NBA总决赛",
-      "english_title": "NBA Finals trending on Chinese social media",
-      "why_it_matters": "Indicates ongoing cultural penetration of US sports in China despite geopolitical frictions.",
-      "why_it_matters_zh": "显示尽管地缘政治摩擦，美国体育在中国仍有文化渗透。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
+      "primary_title": "这些中国歌曲引起全场共鸣",
+      "english_title": "Chinese songs resonate at North Korea special performance with Xi in attendance",
+      "why_it_matters": "The choice of songs and audience reaction serve as a barometer of cultural affinity and political messaging between the two allies.",
+      "why_it_matters_zh": "歌曲的选择和观众反应是两国文化亲和力与政治信息传递的晴雨表。",
+      "pull_quote": "现场观众齐声合唱《红旗飘飘》等曲目",
+      "pull_quote_zh": "现场观众齐声合唱《红旗飘飘》等曲目",
+      "pillar": "politics",
+      "pillar_label": "High Politics & Ideology",
+      "pillar_label_zh": "高层政治与意识形态",
       "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B",
+      "category": "news",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E6%AD%8C%E6%9B%B2%E5%BC%95%E8%B5%B7%E5%85%A8%E5%9C%BA%E5%85%B1%E9%B8%A3",
       "appearances": [
         {
           "platform": "baidu_top",
-          "rank": 5
-        },
-        {
-          "platform": "weibo_hot",
-          "rank": 7
+          "rank": 4
         },
         {
           "platform": "tencent_wechat_hot",
+          "rank": 4
+        },
+        {
+          "platform": "thepaper_news",
           "rank": 5
         }
       ]
@@ -133,11 +120,11 @@
       ],
       "platform_count": 2,
       "primary_title": "最隆重礼遇欢迎最尊贵客人",
-      "english_title": "Xi Jinping arrives in Pyongyang for state visit",
-      "why_it_matters": "Signals deepening China-North Korea alignment and a direct challenge to US-led sanctions regime.",
-      "why_it_matters_zh": "表明中朝关系深化，直接挑战美国主导的制裁体系。",
-      "pull_quote": "North Korean crowds cheered and waved along the route welcoming Xi.",
-      "pull_quote_zh": "朝鲜民众在道路两旁欢呼雀跃，欢迎习近平总书记。",
+      "english_title": "Grand welcome for Xi Jinping upon arrival in Pyongyang",
+      "why_it_matters": "The scale of the reception signals North Korea's desire to deepen ties and project unity at a time of regional tensions.",
+      "why_it_matters_zh": "欢迎规模表明朝鲜希望深化关系，并在地区紧张时期展现团结。",
+      "pull_quote": "朝鲜民众挥舞中朝国旗夹道欢迎",
+      "pull_quote_zh": "朝鲜民众挥舞中朝国旗夹道欢迎",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
@@ -157,55 +144,24 @@
     },
     {
       "rank": 3,
-      "weight": 28.8,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
-      ],
-      "platform_count": 2,
-      "primary_title": "高考数学题让宁夏青铜峡108塔出名了",
-      "english_title": "Gaokao math problem puts Ningxia pagodas in spotlight",
-      "why_it_matters": "Reflects how national exam can drive tourism and cultural awareness, a unique Chinese phenomenon.",
-      "why_it_matters_zh": "反映高考如何带动旅游和文化关注，中国特有现象。",
-      "pull_quote": "The 108 pagodas in Qingtongxia, Ningxia, built during the Western Xia period, are the largest and best-arranged Lamaist pagoda complex in China.",
-      "pull_quote_zh": "宁夏青铜峡108塔始建于西夏时期，是中国现存规模最大、排列最整齐的喇嘛塔群。",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%A2%98%E8%AE%A9%E5%AE%81%E5%A4%8F%E9%9D%92%E9%93%9C%E5%B3%A1108%E5%A1%94%E5%87%BA%E5%90%8D%E4%BA%86",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 2
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 2
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "weight": 25.6,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "提前被录取考生双手插兜出考场",
-      "english_title": "Pre-admitted student walks out of Gaokao casually",
-      "why_it_matters": "Highlights the existence of early admission schemes and the lighter side of an otherwise intense exam.",
-      "why_it_matters_zh": "突出提前录取机制以及高考中轻松的一面。",
-      "pull_quote": "A candidate resembling Wang Leehom walked out of the exam room calmly with hands in pockets.",
-      "pull_quote_zh": "一名长相酷似王力宏的考生从容走出考场，双手插兜神态轻松。",
+      "primary_title": "新疆小羊摊主：每天只睡3、4个小时",
+      "english_title": "Xinjiang handicraft 'Fortune Lamb' goes viral, creator sleeps only 3-4 hours",
+      "why_it_matters": "The grassroots popularity of ethnic-inspired products shows consumer appetite for Xinjiang culture, contrasting with negative Western narratives.",
+      "why_it_matters_zh": "民族特色产品在民间的受欢迎程度表明消费者对新疆文化的兴趣，与西方的负面叙述形成对比。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "society",
       "pillar_label": "What's Trending",
       "pillar_label_zh": "热点风向",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E6%8F%90%E5%89%8D%E8%A2%AB%E5%BD%95%E5%8F%96%E8%80%83%E7%94%9F%E5%8F%8C%E6%89%8B%E6%8F%92%E5%85%9C%E5%87%BA%E8%80%83%E5%9C%BA",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%B0%8F%E7%BE%8A%E6%91%8A%E4%B8%BB%EF%BC%9A%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A13%E3%80%814%E4%B8%AA%E5%B0%8F%E6%97%B6",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -218,7 +174,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "weight": 11.0,
       "platforms": [
         "gov_registry"
@@ -226,8 +182,8 @@
       "platform_count": 1,
       "primary_title": "2026年6月8日外交部发言人林剑主持例行记者会",
       "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
-      "why_it_matters": "Primary channel for China's official stance; likely covered Xi's North Korea visit and other regional issues.",
-      "why_it_matters_zh": "中国官方立场的主要渠道；可能涉及习近平访朝和其他地区问题。",
+      "why_it_matters": "Key platform for China to articulate positions on foreign affairs, including likely topics on Korea, Taiwan, and trade.",
+      "why_it_matters_zh": "中国阐述外交立场的关键平台，可能涉及朝鲜、台湾和贸易等议题。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -260,16 +216,16 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "weight": 10.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "习近平和彭丽媛观看朝鲜专场文艺演出",
-      "english_title": "Xi and Peng Liyuan attend North Korean cultural performance",
-      "why_it_matters": "Standard state visit itinerary emphasizing cultural diplomacy alongside political talks.",
-      "why_it_matters_zh": "国事访问标准行程，强调文化外交与政治会谈并行。",
+      "english_title": "Xi and Peng Liyuan watch North Korean art performance",
+      "why_it_matters": "Cultural diplomacy underscores the personal rapport between leaders and the soft power dimension of the state visit.",
+      "why_it_matters_zh": "文化外交凸显领导人之间的个人关系以及国事访问的软实力层面。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "politics",
@@ -286,16 +242,16 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "weight": 10.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-      "english_title": "MOFCOM announces anti-dumping rates for polyoxymethylene from Korea, Thailand, Malaysia",
-      "why_it_matters": "Protects domestic chemical industry; shows continued trade remedy actions amid global overcapacity.",
-      "why_it_matters_zh": "保护国内化工行业；全球产能过剩下持续采取贸易救济措施。",
+      "english_title": "China imposes anti-dumping duties on copolyacetal from South Korea, Thailand, Malaysia",
+      "why_it_matters": "Targeted trade remedy actions continue as China protects domestic chemical industries while managing supply chain relations.",
+      "why_it_matters_zh": "中国继续采取有针对性的贸易救济措施，保护国内化工产业并管理供应链关系。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -312,16 +268,16 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "weight": 9.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-      "english_title": "China adjusts export control list for precursor chemicals",
-      "why_it_matters": "Part of China's efforts to tighten export controls in line with international commitments and domestic security.",
-      "why_it_matters_zh": "中国加强出口管制，履行国际义务并保障国内安全。",
+      "english_title": "China adjusts export control list for precursor chemicals to specific countries",
+      "why_it_matters": "Part of ongoing efforts to regulate dual-use chemicals, reflecting security and trade policy priorities.",
+      "why_it_matters_zh": "持续规范两用化学品出口的努力，反映安全与贸易政策优先事项。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -338,16 +294,16 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "weight": 8.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
-      "english_title": "China optimizes tax rebate measures for overseas tourists",
-      "why_it_matters": "Aims to boost inbound tourism consumption as part of broader domestic demand stimulus.",
-      "why_it_matters_zh": "旨在刺激入境旅游消费，作为扩大内需刺激的一部分。",
+      "english_title": "China eases tax refund procedures for overseas tourists to boost spending",
+      "why_it_matters": "Policy move to stimulate inbound tourism and consumption, in line with post-pandemic recovery efforts.",
+      "why_it_matters_zh": "刺激入境旅游和消费的政策举措，符合疫后复苏努力。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -364,16 +320,16 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "weight": 5.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
-      "english_title": "Taiwan Affairs Office press conference (June 3)",
-      "why_it_matters": "Delivers Beijing's stance on cross-strait relations, likely reiterating opposition to independence.",
-      "why_it_matters_zh": "表达北京在两岸关系上的立场，很可能重申反独立场。",
+      "english_title": "Taiwan Affairs Office press conference (June 3) transcript released",
+      "why_it_matters": "Routine reiteration of One-China principle and warnings against separatist activities, important for cross-strait dynamics.",
+      "why_it_matters_zh": "例行重申一个中国原则并警告分裂活动，对台海局势重要。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -406,16 +362,16 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 10,
       "weight": 2.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
-      "english_title": "Vice Foreign Minister Miao Deyu meets South African Director-General Dank",
-      "why_it_matters": "Routine diplomatic exchange; strengthens China-Africa ties and cooperation at multilateral forums.",
-      "why_it_matters_zh": "常规外交交流，加强中非关系和多边论坛合作。",
+      "english_title": "Vice Foreign Minister Miao Deyu meets South African Director-General",
+      "why_it_matters": "Bilateral consultations signal continued cooperation within BRICS and Global South alignment.",
+      "why_it_matters_zh": "双边磋商表明金砖国家和全球南方阵营内的持续合作。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -436,16 +392,16 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 11,
       "weight": 2.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-      "english_title": "CSRC spokesperson on guidelines for private investment funds",
-      "why_it_matters": "New regulatory framework aims to manage risks in the rapidly growing private fund industry.",
-      "why_it_matters_zh": "新监管框架旨在管理快速增长的私募基金行业风险。",
+      "english_title": "CSRC spokesperson explains new guidelines on private investment funds",
+      "why_it_matters": "Regulatory tightening aims to reduce systemic risk in the rapidly growing private fund sector, affecting market participants.",
+      "why_it_matters_zh": "监管收紧旨在降低快速增长私募基金行业的系统性风险，影响市场参与者。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "regulatory",
@@ -464,58 +420,6 @@
           "rank": 47
         }
       ]
-    },
-    {
-      "rank": 13,
-      "weight": 1.0,
-      "platforms": [
-        "elite_press"
-      ],
-      "platform_count": 1,
-      "primary_title": "英伟达与斗山集团扩大合作，覆盖物理AI、机器人及AI工厂基础设施",
-      "english_title": "Nvidia expands partnership with South Korea's Doosan on physical AI, robotics",
-      "why_it_matters": "Signals growing global collaboration in AI infrastructure; may intensify competition with Chinese AI firms.",
-      "why_it_matters_zh": "显示AI基础设施全球合作加强；可能加剧与中国AI公司的竞争。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "tech",
-      "pillar_label": "Industry, Tech & Industrial Policy",
-      "pillar_label_zh": "产业、科技与工业政策",
-      "source": "36Kr",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kcnk2U0VpbFdEYkZsVU9Zbk9Gc3F6QU9vUG1GbEVEUlU4ZlBVbWxJXzVabkpyMWhkLWx5ZlVHQTVFeEtuUlZQUFpUZVZUWUpza2NHWGxsbU5wMDg?oc=5",
-      "appearances": [
-        {
-          "platform": "elite_press",
-          "rank": 25
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "weight": 1.0,
-      "platforms": [
-        "elite_press"
-      ],
-      "platform_count": 1,
-      "primary_title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
-      "english_title": "Chinese AI brain-computer interface startup Huachao Shenkong raises $140M in angel round",
-      "why_it_matters": "Indicates strong investor confidence in frontier neurotechnology despite regulatory uncertainty.",
-      "why_it_matters_zh": "显示尽管监管不确定，投资者对前沿神经技术信心强劲。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "tech",
-      "pillar_label": "Industry, Tech & Industrial Policy",
-      "pillar_label_zh": "产业、科技与工业政策",
-      "source": "36Kr",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5",
-      "appearances": [
-        {
-          "platform": "elite_press",
-          "rank": 26
-        }
-      ]
     }
   ],
   "sources_summary": {
@@ -525,7 +429,7 @@
     "xinhua_news": 20,
     "thepaper_news": 20,
     "ladymax_news": 21,
-    "gov_registry": 74,
+    "gov_registry": 80,
     "elite_press": 52,
     "indices": 4,
     "fx": 4
