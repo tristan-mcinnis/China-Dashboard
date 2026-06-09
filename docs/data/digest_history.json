@@ -1,8 +1,304 @@
 {
-  "as_of": "2026-06-09T06:33:53+08:00",
+  "as_of": "2026-06-09T11:50:07+08:00",
   "source": "daily_digest archive",
-  "count": 31,
+  "count": 32,
   "entries": [
+    {
+      "as_of": "2026-06-09T11:50:07+08:00",
+      "date": "2026-06-09",
+      "time_label": "Midday Brief",
+      "beijing_time": "11:49",
+      "digest_type": "midday",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Xi in Pyongyang; Commerce Ministry anti-dumping, tax rebate; AI BCI startup gets $140M.",
+      "headline_zh": "习近平访朝，商务部反倾销与退税，脑机接口初创获亿元融资",
+      "narrative": "President Xi Jinping's state visit to North Korea, the first in years, reaffirms the strategic alignment between Beijing and Pyongyang amid heightened geopolitical tensions. The symbolism of a 'most grand ceremony' underscores China's commitment to its traditional ally, directly challenging US-led isolation efforts. Domestically, the Ministry of Commerce released multiple policy announcements: anti-dumping duties on chemical imports from Korea, Thailand, and Malaysia protect domestic industry, while optimized tax rebates for overseas tourists aim to boost inbound consumption as part of a broader stimulus push. In technology, a Chinese brain-computer interface startup secured a sizable angel round, signaling sustained investor appetite for frontier AI applications despite regulatory headwinds. Meanwhile, social media trends reflect a mix of NBA Finals engagement and lighter Gaokao stories, providing cultural context to the day's news.",
+      "narrative_zh": "习近平主席对朝鲜进行国事访问，这是多年来首次，在地缘政治紧张加剧之际重申了北京与平壤之间的战略一致。'最隆重礼遇'的象征意义凸显了中国对其传统盟友的承诺，直接挑战美国主导的孤立努力。国内方面，商务部发布多项政策公告：对韩国、泰国和马来西亚的化学进口征收反倾销税以保护国内产业，同时优化境外游客退税以刺激入境消费，作为更广泛刺激举措的一部分。科技领域，一家中国脑机接口初创公司获得大额天使轮融资，显示尽管监管存在阻力，投资者对前沿AI应用的热情依然不减。与此同时，社交媒体热点包括NBA总决赛和轻松的高考故事，为当日新闻提供了文化背景。",
+      "market_snapshot": "SSE Composite 3979.677 ▲0.51% · Shenzhen Component 15007.109 ▲1.25% · ChiNext 3884.541 ▲1.91% · USD/CNY 6.7779 ▼0.07% · USD/CNH 6.7799 ▼0.02%",
+      "themes": [
+        "朝鲜外交",
+        "经济刺激",
+        "反倾销",
+        "脑机接口",
+        "AI投资",
+        "社会热点"
+      ],
+      "theme_trends": {
+        "朝鲜外交": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "经济刺激": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "反倾销": {
+          "status": "recurring",
+          "days_seen": 3
+        },
+        "脑机接口": {
+          "status": "rising",
+          "days_seen": 1
+        },
+        "AI投资": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "社会热点": {
+          "status": "new",
+          "days_seen": 0
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "NBA总决赛",
+          "english_title": "NBA Finals trending on Chinese social media",
+          "why_it_matters": "Indicates ongoing cultural penetration of US sports in China despite geopolitical frictions.",
+          "why_it_matters_zh": "显示尽管地缘政治摩擦，美国体育在中国仍有文化渗透。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B"
+        },
+        {
+          "primary_title": "最隆重礼遇欢迎最尊贵客人",
+          "english_title": "Xi Jinping arrives in Pyongyang for state visit",
+          "why_it_matters": "Signals deepening China-North Korea alignment and a direct challenge to US-led sanctions regime.",
+          "why_it_matters_zh": "表明中朝关系深化，直接挑战美国主导的制裁体系。",
+          "pull_quote": "North Korean crowds cheered and waved along the route welcoming Xi.",
+          "pull_quote_zh": "朝鲜民众在道路两旁欢呼雀跃，欢迎习近平总书记。",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%9A%86%E9%87%8D%E7%A4%BC%E9%81%87%E6%AC%A2%E8%BF%8E%E6%9C%80%E5%B0%8A%E8%B4%B5%E5%AE%A2%E4%BA%BA"
+        },
+        {
+          "primary_title": "高考数学题让宁夏青铜峡108塔出名了",
+          "english_title": "Gaokao math problem puts Ningxia pagodas in spotlight",
+          "why_it_matters": "Reflects how national exam can drive tourism and cultural awareness, a unique Chinese phenomenon.",
+          "why_it_matters_zh": "反映高考如何带动旅游和文化关注，中国特有现象。",
+          "pull_quote": "The 108 pagodas in Qingtongxia, Ningxia, built during the Western Xia period, are the largest and best-arranged Lamaist pagoda complex in China.",
+          "pull_quote_zh": "宁夏青铜峡108塔始建于西夏时期，是中国现存规模最大、排列最整齐的喇嘛塔群。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%A2%98%E8%AE%A9%E5%AE%81%E5%A4%8F%E9%9D%92%E9%93%9C%E5%B3%A1108%E5%A1%94%E5%87%BA%E5%90%8D%E4%BA%86"
+        },
+        {
+          "primary_title": "提前被录取考生双手插兜出考场",
+          "english_title": "Pre-admitted student walks out of Gaokao casually",
+          "why_it_matters": "Highlights the existence of early admission schemes and the lighter side of an otherwise intense exam.",
+          "why_it_matters_zh": "突出提前录取机制以及高考中轻松的一面。",
+          "pull_quote": "A candidate resembling Wang Leehom walked out of the exam room calmly with hands in pockets.",
+          "pull_quote_zh": "一名长相酷似王力宏的考生从容走出考场，双手插兜神态轻松。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E6%8F%90%E5%89%8D%E8%A2%AB%E5%BD%95%E5%8F%96%E8%80%83%E7%94%9F%E5%8F%8C%E6%89%8B%E6%8F%92%E5%85%9C%E5%87%BA%E8%80%83%E5%9C%BA"
+        },
+        {
+          "primary_title": "2026年6月8日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
+          "why_it_matters": "Primary channel for China's official stance; likely covered Xi's North Korea visit and other regional issues.",
+          "why_it_matters_zh": "中国官方立场的主要渠道；可能涉及习近平访朝和其他地区问题。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260608_11939733.shtml"
+        },
+        {
+          "primary_title": "习近平和彭丽媛观看朝鲜专场文艺演出",
+          "english_title": "Xi and Peng Liyuan attend North Korean cultural performance",
+          "why_it_matters": "Standard state visit itinerary emphasizing cultural diplomacy alongside political talks.",
+          "why_it_matters_zh": "国事访问标准行程，强调文化外交与政治会谈并行。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UjhINE9qRUZtUXBoaXV0dU9hTWxSVk9vM2VUdGxORXdBa3MzZUYxbzdOWjNEZUJ0Mmd0RjdzT1B3VFYxRklXVmFGOEk0RktaamFmM3dwY2h6UmpvbUg1czYzcmwxTWIwMmpj?oc=5"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping rates for polyoxymethylene from Korea, Thailand, Malaysia",
+          "why_it_matters": "Protects domestic chemical industry; shows continued trade remedy actions amid global overcapacity.",
+          "why_it_matters_zh": "保护国内化工行业；全球产能过剩下持续采取贸易救济措施。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China adjusts export control list for precursor chemicals",
+          "why_it_matters": "Part of China's efforts to tighten export controls in line with international commitments and domestic security.",
+          "why_it_matters_zh": "中国加强出口管制，履行国际义务并保障国内安全。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "China optimizes tax rebate measures for overseas tourists",
+          "why_it_matters": "Aims to boost inbound tourism consumption as part of broader domestic demand stimulus.",
+          "why_it_matters_zh": "旨在刺激入境旅游消费，作为扩大内需刺激的一部分。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office press conference (June 3)",
+          "why_it_matters": "Delivers Beijing's stance on cross-strait relations, likely reiterating opposition to independence.",
+          "why_it_matters_zh": "表达北京在两岸关系上的立场，很可能重申反独立场。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm"
+        },
+        {
+          "primary_title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
+          "english_title": "Vice Foreign Minister Miao Deyu meets South African Director-General Dank",
+          "why_it_matters": "Routine diplomatic exchange; strengthens China-Africa ties and cooperation at multilateral forums.",
+          "why_it_matters_zh": "常规外交交流，加强中非关系和多边论坛合作。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部新闻",
+          "url": "https://www.mfa.gov.cn/web/wjbxw_new/202606/t20260607_11939033.shtml"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson on guidelines for private investment funds",
+          "why_it_matters": "New regulatory framework aims to manage risks in the rapidly growing private fund industry.",
+          "why_it_matters_zh": "新监管框架旨在管理快速增长的私募基金行业风险。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "英伟达与斗山集团扩大合作，覆盖物理AI、机器人及AI工厂基础设施",
+          "english_title": "Nvidia expands partnership with South Korea's Doosan on physical AI, robotics",
+          "why_it_matters": "Signals growing global collaboration in AI infrastructure; may intensify competition with Chinese AI firms.",
+          "why_it_matters_zh": "显示AI基础设施全球合作加强；可能加剧与中国AI公司的竞争。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kcnk2U0VpbFdEYkZsVU9Zbk9Gc3F6QU9vUG1GbEVEUlU4ZlBVbWxJXzVabkpyMWhkLWx5ZlVHQTVFeEtuUlZQUFpUZVZUWUpza2NHWGxsbU5wMDg?oc=5"
+        },
+        {
+          "primary_title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+          "english_title": "Chinese AI brain-computer interface startup Huachao Shenkong raises $140M in angel round",
+          "why_it_matters": "Indicates strong investor confidence in frontier neurotechnology despite regulatory uncertainty.",
+          "why_it_matters_zh": "显示尽管监管不确定，投资者对前沿神经技术信心强劲。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-09T06:33:53+08:00",
       "date": "2026-06-09",

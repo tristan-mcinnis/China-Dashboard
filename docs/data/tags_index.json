@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T06:33:53+08:00",
+  "updated_at": "2026-06-09T11:50:07+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -6544,6 +6544,158 @@
             "elite_press"
           ],
           "category": "press"
+        }
+      ]
+    },
+    "朝鲜外交": {
+      "label": "朝鲜外交",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "NBA总决赛",
+          "english_title": "NBA Finals trending on Chinese social media",
+          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "经济刺激": {
+      "label": "经济刺激",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "NBA总决赛",
+          "english_title": "NBA Finals trending on Chinese social media",
+          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "反倾销": {
+      "label": "反倾销",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping rates for polyoxymethylene from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "脑机接口": {
+      "label": "脑机接口",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+          "english_title": "Chinese AI brain-computer interface startup Huachao Shenkong raises $140M in angel round",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "ai投资": {
+      "label": "AI投资",
+      "count": 6,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+          "english_title": "Chinese AI brain-computer interface startup Huachao Shenkong raises $140M in angel round",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVHVMbXJ5YmxMUW80SjJ0NDVySk1UWWFnUVBXdlRHTHhsLWRmaFphZHgwanpJaGxHdlgzb29DbG9JV3RaeHROMlp2Mi1TUQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "英伟达与斗山集团扩大合作，覆盖物理AI、机器人及AI工厂基础设施",
+          "english_title": "Nvidia expands partnership with South Korea's Doosan on physical AI, robotics",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kcnk2U0VpbFdEYkZsVU9Zbk9Gc3F6QU9vUG1GbEVEUlU4ZlBVbWxJXzVabkpyMWhkLWx5ZlVHQTVFeEtuUlZQUFpUZVZUWUpza2NHWGxsbU5wMDg?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson on guidelines for private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "Taiwan Affairs Office press conference (June 3)",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "China optimizes tax rebate measures for overseas tourists",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-09",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping rates for polyoxymethylene from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "社会热点": {
+      "label": "社会热点",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-09",
+          "title": "NBA总决赛",
+          "english_title": "NBA Finals trending on Chinese social media",
+          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
         }
       ]
     }
