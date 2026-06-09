@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-06-09T19:34:00+08:00",
+  "generated_at": "2026-06-09T23:16:55+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-09T23:16:55+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 习近平结束对朝鲜国事访问回到北京",
+          "value": "指数 7904702",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E5%AF%B9%E6%9C%9D%E9%B2%9C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904702",
+            "api_source": "tianapi",
+            "translation": "Xi Jinping returns to Beijing after state visit to North Korea"
+          }
+        },
+        {
+          "title": "2. 张桂梅作废了之前的话",
+          "value": "指数 7809408",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%A0%E6%A1%82%E6%A2%85%E4%BD%9C%E5%BA%9F%E4%BA%86%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AF%9D",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7809408",
+            "api_source": "tianapi",
+            "translation": "Zhang Guimei retracts previous statement"
+          }
+        },
+        {
+          "title": "3. 顾客仅退款1000件衣服被商家找上门",
+          "value": "指数 7713316",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%A1%BE%E5%AE%A2%E4%BB%85%E9%80%80%E6%AC%BE1000%E4%BB%B6%E8%A1%A3%E6%9C%8D%E8%A2%AB%E5%95%86%E5%AE%B6%E6%89%BE%E4%B8%8A%E9%97%A8",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7713316",
+            "api_source": "tianapi",
+            "translation": "Customer refunds 1000 clothes, gets visited by merchant"
+          }
+        },
+        {
+          "title": "4. 花篮见证这一刻",
+          "value": "指数 7616799",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%8A%B1%E7%AF%AE%E8%A7%81%E8%AF%81%E8%BF%99%E4%B8%80%E5%88%BB",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7616799",
+            "api_source": "tianapi",
+            "translation": "Flower baskets witness this moment"
+          }
+        },
+        {
+          "title": "5. 上海一财务1年给自己多发780万工资",
+          "value": "指数 7524055",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%B4%A2%E5%8A%A11%E5%B9%B4%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A4%9A%E5%8F%91780%E4%B8%87%E5%B7%A5%E8%B5%84",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7524055",
+            "api_source": "tianapi",
+            "translation": "Shanghai finance staff overpays self 7.8 million in salary over year"
+          }
+        },
+        {
+          "title": "6. 高考结束考生哭了：自己尽到了全力",
+          "value": "指数 7425651",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E8%80%83%E7%94%9F%E5%93%AD%E4%BA%86%EF%BC%9A%E8%87%AA%E5%B7%B1%E5%B0%BD%E5%88%B0%E4%BA%86%E5%85%A8%E5%8A%9B",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7425651",
+            "api_source": "tianapi",
+            "translation": "College entrance exam ends, examinee cries: 'I gave my all'"
+          }
+        },
+        {
+          "title": "7. 王传福：5年后比亚迪规模全球第一",
+          "value": "指数 7330801",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7330801",
+            "api_source": "tianapi",
+            "translation": "Wang Chuanfu: BYD to become world's largest in 5 years"
+          }
+        },
+        {
+          "title": "8. 国足0比0战平泰国队 全场射门24次",
+          "value": "指数 7235369",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E8%B6%B30%E6%AF%940%E6%88%98%E5%B9%B3%E6%B3%B0%E5%9B%BD%E9%98%9F+%E5%85%A8%E5%9C%BA%E5%B0%84%E9%97%A824%E6%AC%A1",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7235369",
+            "api_source": "tianapi",
+            "translation": "China ties Thailand 0-0 with 24 shots on goal"
+          }
+        },
+        {
+          "title": "9. U23国足3比0再胜塔吉克斯坦队",
+          "value": "指数 7136684",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=U23%E5%9B%BD%E8%B6%B33%E6%AF%940%E5%86%8D%E8%83%9C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E9%98%9F",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7136684",
+            "api_source": "tianapi",
+            "translation": "U23 China beats Tajikistan 3-0 again"
+          }
+        },
+        {
+          "title": "10. 康小伟突发疾病在国家队集训驻地逝世",
+          "value": "指数 7046246",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BA%B7%E5%B0%8F%E4%BC%9F%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%9C%A8%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E9%A9%BB%E5%9C%B0%E9%80%9D%E4%B8%96",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7046246",
+            "api_source": "tianapi",
+            "translation": "Kang Xiaowei dies suddenly of illness at national team training base"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-09T19:34:00+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -11480,122 +11596,6 @@
           "extra": {
             "rank": 10,
             "raw_score": "7040314",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-21T11:46:20+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 中俄迈向更高质量的全面战略协作",
-          "value": "指数 7904438",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E4%BF%84%E8%BF%88%E5%90%91%E6%9B%B4%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E5%85%A8%E9%9D%A2%E6%88%98%E7%95%A5%E5%8D%8F%E4%BD%9C",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904438",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 中国拿下90%超大型油轮新订单",
-          "value": "指数 7809168",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E6%8B%BF%E4%B8%8B90%25%E8%B6%85%E5%A4%A7%E5%9E%8B%E6%B2%B9%E8%BD%AE%E6%96%B0%E8%AE%A2%E5%8D%95",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7809168",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 南太行失窃网红松树被偷偷还回来了",
-          "value": "指数 7712718",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E7%AA%83%E7%BD%91%E7%BA%A2%E6%9D%BE%E6%A0%91%E8%A2%AB%E5%81%B7%E5%81%B7%E8%BF%98%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7712718",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 今日小满 万物小得盈满",
-          "value": "指数 7617931",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BB%8A%E6%97%A5%E5%B0%8F%E6%BB%A1+%E4%B8%87%E7%89%A9%E5%B0%8F%E5%BE%97%E7%9B%88%E6%BB%A1",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7617931",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 泡药杨梅事件后卖惨无法挽回信任",
-          "value": "指数 7520251",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B3%A1%E8%8D%AF%E6%9D%A8%E6%A2%85%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%8D%96%E6%83%A8%E6%97%A0%E6%B3%95%E6%8C%BD%E5%9B%9E%E4%BF%A1%E4%BB%BB",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7520251",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 男子身体不适坐路边摇椅安详去世",
-          "value": "指数 7429187",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%9D%90%E8%B7%AF%E8%BE%B9%E6%91%87%E6%A4%85%E5%AE%89%E8%AF%A6%E5%8E%BB%E4%B8%96",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7429187",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 特朗普回应中俄元首会晤",
-          "value": "指数 7331857",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7331857",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 北京市级机关搬迁将于2026年底完成",
-          "value": "指数 7236077",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8C%97%E4%BA%AC%E5%B8%82%E7%BA%A7%E6%9C%BA%E5%85%B3%E6%90%AC%E8%BF%81%E5%B0%86%E4%BA%8E2026%E5%B9%B4%E5%BA%95%E5%AE%8C%E6%88%90",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7236077",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 同样米粉“本地人7元游客13元”",
-          "value": "指数 7139013",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%90%8C%E6%A0%B7%E7%B1%B3%E7%B2%89%E2%80%9C%E6%9C%AC%E5%9C%B0%E4%BA%BA7%E5%85%83%E6%B8%B8%E5%AE%A213%E5%85%83%E2%80%9D",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7139013",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 中国的这个“菜园子”实力藏不住了",
-          "value": "指数 7048981",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%BF%99%E4%B8%AA%E2%80%9C%E8%8F%9C%E5%9B%AD%E5%AD%90%E2%80%9D%E5%AE%9E%E5%8A%9B%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7048981",
             "api_source": "tianapi",
             "translation": ""
           }
