@@ -1,8 +1,319 @@
 {
-  "as_of": "2026-06-09T23:19:29+08:00",
+  "as_of": "2026-06-10T06:33:47+08:00",
   "source": "daily_digest archive",
-  "count": 33,
+  "count": 34,
   "entries": [
+    {
+      "as_of": "2026-06-10T06:33:47+08:00",
+      "date": "2026-06-10",
+      "time_label": "Morning Brief",
+      "beijing_time": "06:33",
+      "digest_type": "morning",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Xi returns from Pyongyang as $295 billion AI plan surfaces",
+      "headline_zh": "习近平结束访朝，2950亿美元AI计划浮出水面",
+      "narrative": "Xi Jinping's return from a high-profile state visit to North Korea underscores continued strategic alignment between Beijing and Pyongyang. But the day's most consequential structural story is the Bloomberg-reported $295 billion state-backed AI buildout plan, signaling Beijing's determination to dominate AI despite US chip curbs. Meanwhile, the Ministry of Commerce announced anti-dumping duty adjustments on polyoxymethylene from South Korea, Thailand and Malaysia, a calibrated protectionist move. Society stories include Zhang Guimei's emotional reversal of a ban on alumnae returning to her girls' school, and a bizarre e-commerce dispute where a customer returned 1,000 of 1,100 clothes ordered.",
+      "narrative_zh": "习近平结束对朝鲜的高调国事访问，凸显中朝战略协调持续。但更具结构性意义的是彭博社报道的2950亿美元国家AI基础设施计划，显示北京决心在美国芯片限制下主导AI领域。同时，商务部调整对韩国、泰国和马来西亚进口共聚聚甲醛的反倾销税率，是精准的保护主义操作。社会新闻方面，张桂梅哽咽修改之前不准毕业生回校的规定，以及一起顾客网购1100件衣服后退款1000件引发的纠纷。",
+      "market_snapshot": "SSE Composite 4010.031 ▲1.28% · Shenzhen Component 15268.715 ▲3.02% · ChiNext 3961.7493 ▲3.93% · USD/CNY 6.7717 ▼0.16% · USD/CNH 6.7772 ▼0.06%",
+      "themes": [
+        "Xi-Kim summit",
+        "AI infrastructure investment",
+        "trade protectionism",
+        "education",
+        "Taiwan",
+        "consumer disputes"
+      ],
+      "theme_trends": {
+        "Xi-Kim summit": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "AI infrastructure investment": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "trade protectionism": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "education": {
+          "status": "recurring",
+          "days_seen": 6
+        },
+        "Taiwan": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "consumer disputes": {
+          "status": "recurring",
+          "days_seen": 6
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "习近平结束对朝鲜国事访问回到北京",
+          "english_title": "Xi Jinping returns to Beijing after state visit to North Korea",
+          "why_it_matters": "Signals continued strategic coordination between China and North Korea, likely including energy and food aid, and coordination on denuclearization talks.",
+          "why_it_matters_zh": "显示中朝战略协调持续，可能涉及能源粮食援助及半岛无核化谈判中的合作。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E5%AF%B9%E6%9C%9D%E9%B2%9C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC"
+        },
+        {
+          "primary_title": "张桂梅作废了之前的话",
+          "english_title": "Zhang Guimei overturns ban on alumnae returning to her girls' school",
+          "why_it_matters": "Zhang's emotional reversal highlights the personal and social tensions in China's education system, where strict rules often clash with human emotions.",
+          "why_it_matters_zh": "张桂梅含泪推翻禁令，折射中国教育体系中严格规定与人性化之间的张力。",
+          "pull_quote": "“女高的大门永远向你们敞开。”",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E4%BD%9C%E5%BA%9F%E4%BA%86%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AF%9D"
+        },
+        {
+          "primary_title": "顾客仅退款1000件衣服被商家找上门",
+          "english_title": "Customer returns 1,000 of 1,100 clothes ordered, triggering police involvement",
+          "why_it_matters": "Highlights the growing problem of platform abuse in e-commerce, where 'just refund' policies are exploited, creating losses for small merchants.",
+          "why_it_matters_zh": "暴露电商平台‘仅退款’政策被滥用，小商家损失巨大，平台治理亟需完善。",
+          "pull_quote": "商家损失5.2万元，警方介入后还查获更多异常订单。",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%BB%85%E9%80%80%E6%AC%BE1000%E4%BB%B6%E8%A1%A3%E6%9C%8D%E8%A2%AB%E5%95%86%E5%AE%B6%E6%89%BE%E4%B8%8A%E9%97%A8"
+        },
+        {
+          "primary_title": "花篮见证这一刻",
+          "english_title": "Xi and Peng Liyuan pay respects at China-North Korea Friendship Tower",
+          "why_it_matters": "Symbolic emphasis on the blood alliance between China and North Korea, reinforcing the narrative of shared sacrifice against the US.",
+          "why_it_matters_zh": "象征性强化中朝血盟关系，重申共同对抗美国牺牲的叙事。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E7%AF%AE%E8%A7%81%E8%AF%81%E8%BF%99%E4%B8%80%E5%88%BB"
+        },
+        {
+          "primary_title": "习近平出席金正恩举行的欢送仪式",
+          "english_title": "Xi attends farewell ceremony and luncheon hosted by Kim Jong Un",
+          "why_it_matters": "The warm hospitality suggests bilateral ties remain close, with potential new aid or cooperation deals not yet announced.",
+          "why_it_matters_zh": "朝方高规格欢送，暗示双边关系紧密，可能还有未公布的新援助或合作项目。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YbU8wNmdQSEUyMUdlb2ZqU1lKSDY0ME1tcTlkRXNLMXVoeHlibWdNeml2VW1kelhFdnExczk2ZXNnYzhxaWRHZTMxU25oam9WSnh0VDc4WlZJcjNNLTJqVUg4WjVlTlk1RkMw?oc=5"
+        },
+        {
+          "primary_title": "美股",
+          "english_title": "Caixin reports on US stock market stumble and AI market outlook",
+          "why_it_matters": "Chinese investors closely watch US tech stocks as proxy for global AI sentiment, which affects capital flows and China's own AI sector.",
+          "why_it_matters_zh": "中国投资者密切关注美股科技板块作为全球AI情绪指标，影响资本流动和国内AI行业。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press",
+            "weibo_hot"
+          ],
+          "platform_count": 2,
+          "source": "Caixin",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E8%82%A1&v_p=42"
+        },
+        {
+          "primary_title": "2026年6月9日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
+          "why_it_matters": "Likely covers Xi's Pyongyang visit, Taiwan, South China Sea and possible responses to US tech restrictions.",
+          "why_it_matters_zh": "预计回应习近平访朝、台湾、南海及美国科技限制等问题。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260609_11940686.shtml"
+        },
+        {
+          "primary_title": "习近平和彭丽媛观看朝鲜专场文艺演出",
+          "english_title": "Xi and Peng attend North Korean cultural performance",
+          "why_it_matters": "Soft power diplomacy reinforces cultural ties; part of the carefully choreographed visit narrative.",
+          "why_it_matters_zh": "文化外交强化双边纽带，是精心策划的访问叙事组成部分。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UjhINE9qRUZtUXBoaXV0dU9hTWxSVk9vM2VUdGxORXdBa3MzZUYxbzdOWjNEZUJ0Mmd0RjdzT1B3VFYxRklXVmFGOEk0RktaamFmM3dwY2h6UmpvbUg1czYzcmwxTWIwMmpj?oc=5"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Ministry of Commerce announces anti-dumping tax decision on polyoxymethylene from South Korea, Thailand, Malaysia",
+          "why_it_matters": "Targeted protectionism for domestic chemical industry; signals continued trade friction with Asia partners.",
+          "why_it_matters_zh": "针对国内化工行业的精准保护，显示与亚洲贸易伙伴的摩擦延续。",
+          "pull_quote": "公告2026年第22号，公布相关企业税率继承决定。",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Ministry of Commerce and four departments adjust export control list for precursor chemicals",
+          "why_it_matters": "Aligns with global chemical weapons conventions and tightens control over dual-use exports, possibly in response to US pressure.",
+          "why_it_matters_zh": "配合国际化学武器公约，收紧两用物项出口管制，可能回应美方压力。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "State Council Taiwan Affairs Office press conference transcript released",
+          "why_it_matters": "Likely reiterates opposition to Taiwan independence and reaffirms peaceful reunification line; monitors US-Taiwan interactions.",
+          "why_it_matters_zh": "重申反‘台独’及和平统一方针，关注美台互动动态。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm"
+        },
+        {
+          "primary_title": "China Preps $295 Billion Plan to Fund Nationwide AI Buildout",
+          "english_title": "China prepares $295 billion plan to fund nationwide AI buildout",
+          "why_it_matters": "If confirmed, this massive state-led investment would reshape global AI landscape and intensify tech rivalry with the US.",
+          "why_it_matters_zh": "若属实，这一大规模国家主导投资将重塑全球AI格局，加剧中美技术竞争。",
+          "pull_quote": "$295 billion plan to fund nationwide AI buildout, Bloomberg reports citing sources.",
+          "pull_quote_zh": "彭博社援引消息称，中国准备2950亿美元计划资助全国AI建设。",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVHhTTEZDeDJGbGRkUC1wYUxpYTNxSHQ0WXBJMlg2aE5iRm9HaHZQLXh1ZUYzbnhzdkRNUjdCNUhMaDZnWlZVb0UwdW9RRkJhOWlQYUhURGJYT05Yc0loS3ctb0VMalVBQmk3bnJrVVJrWGVkWjlYLXI0WjFSbU81aFdYdnp5cGlkRXR2c1pLLWVBS0xtX3hnNExpM2xsel9nU2d4NkdOZUltVlZMSHdmaXk2cw?oc=5"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on new guidelines for private investment funds",
+          "why_it_matters": "Strengthens regulatory oversight of the private fund industry, aiming to reduce systemic risk and channel capital toward state priorities.",
+          "why_it_matters_zh": "加强对私募基金行业的监管，旨在降低系统性风险并引导资本流向国家优先领域。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "36氪首发：国内唯一POD材料产业化团队二次创业，布局3C与AI芯片散热，技术积累全球领先",
+          "english_title": "36Kr: Only domestic POD material industrialization team starts second venture, targets 3C and AI chip cooling",
+          "why_it_matters": "Highlights China's push for semiconductor thermal management innovation, a critical enabler for high-performance AI chips.",
+          "why_it_matters_zh": "凸显中国在半导体散热材料领域的自主创新，对高性能AI芯片至关重要。",
+          "pull_quote": "技术积累全球领先，布局3C与AI芯片散热。",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NUU5DZEtGdlV0Y2pYWmVkRFR0dkJFcXR1NDgzSWhiUVEzRDYxMlR4S3FpbWNFQm9mYjBMemswbUQ3NnFSQi02a1FISlpmTGdDNlhR?oc=5"
+        },
+        {
+          "primary_title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
+          "english_title": "BioGeometry completes hundreds of millions yuan strategic financing for life science 'micro-world model'",
+          "why_it_matters": "AI-driven protein design and drug discovery is a strategic sector; reflects growing VC interest in biotech AI.",
+          "why_it_matters_zh": "AI驱动的蛋白质设计与药物发现是战略领域，显示风投对生物技术AI的兴趣增长。",
+          "pull_quote": "打造生命科学'微观世界模型'",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBVXNPbFlrWEczUFM2OThwSmUwWnpvWWl5V2dGRXZ5NGZTTXhXU2hmLV9oUXJzVUUxZ3dCZVlzdnd0M2hzVW5iN2ZOTHFydw?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-09T23:19:29+08:00",
       "date": "2026-06-09",

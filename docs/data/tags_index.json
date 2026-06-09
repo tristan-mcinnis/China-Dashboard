@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T23:19:29+08:00",
+  "updated_at": "2026-06-10T06:33:47+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -5718,8 +5718,71 @@
     },
     "xi-kim summit": {
       "label": "Xi-Kim summit",
-      "count": 22,
+      "count": 28,
       "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "习近平和彭丽媛观看朝鲜专场文艺演出",
+          "english_title": "Xi and Peng attend North Korean cultural performance",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UjhINE9qRUZtUXBoaXV0dU9hTWxSVk9vM2VUdGxORXdBa3MzZUYxbzdOWjNEZUJ0Mmd0RjdzT1B3VFYxRklXVmFGOEk0RktaamFmM3dwY2h6UmpvbUg1czYzcmwxTWIwMmpj?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "2026年6月9日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260609_11940686.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "美股",
+          "english_title": "Caixin reports on US stock market stumble and AI market outlook",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E8%82%A1&v_p=42",
+          "platforms": [
+            "elite_press",
+            "weibo_hot"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "习近平出席金正恩举行的欢送仪式",
+          "english_title": "Xi attends farewell ceremony and luncheon hosted by Kim Jong Un",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YbU8wNmdQSEUyMUdlb2ZqU1lKSDY0ME1tcTlkRXNLMXVoeHlibWdNeml2VW1kelhFdnExczk2ZXNnYzhxaWRHZTMxU25oam9WSnh0VDc4WlZJcjNNLTJqVUg4WjVlTlk1RkMw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "花篮见证这一刻",
+          "english_title": "Xi and Peng Liyuan pay respects at China-North Korea Friendship Tower",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E7%AF%AE%E8%A7%81%E8%AF%81%E8%BF%99%E4%B8%80%E5%88%BB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "习近平结束对朝鲜国事访问回到北京",
+          "english_title": "Xi Jinping returns to Beijing after state visit to North Korea",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E5%AF%B9%E6%9C%9D%E9%B2%9C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-09",
           "title": "习近平和彭丽媛观看朝鲜专场文艺演出",
@@ -6114,8 +6177,28 @@
     },
     "taiwan": {
       "label": "Taiwan",
-      "count": 2,
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "State Council Taiwan Affairs Office press conference transcript released",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "2026年6月9日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260609_11940686.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-07",
           "title": "国务院台办新闻发布会辑录（2026-06-03）",
@@ -7202,6 +7285,175 @@
       "stories": [
         {
           "date": "2026-06-09",
+          "title": "习近平结束对朝鲜国事访问回到北京",
+          "english_title": "Xi Jinping returns to Beijing after state visit to North Korea",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E5%AF%B9%E6%9C%9D%E9%B2%9C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "ai infrastructure investment": {
+      "label": "AI infrastructure investment",
+      "count": 11,
+      "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
+          "english_title": "BioGeometry completes hundreds of millions yuan strategic financing for life science 'micro-world model'",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBVXNPbFlrWEczUFM2OThwSmUwWnpvWWl5V2dGRXZ5NGZTTXhXU2hmLV9oUXJzVUUxZ3dCZVlzdnd0M2hzVW5iN2ZOTHFydw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "36氪首发：国内唯一POD材料产业化团队二次创业，布局3C与AI芯片散热，技术积累全球领先",
+          "english_title": "36Kr: Only domestic POD material industrialization team starts second venture, targets 3C and AI chip cooling",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NUU5DZEtGdlV0Y2pYWmVkRFR0dkJFcXR1NDgzSWhiUVEzRDYxMlR4S3FpbWNFQm9mYjBMemswbUQ3NnFSQi02a1FISlpmTGdDNlhR?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on new guidelines for private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "China Preps $295 Billion Plan to Fund Nationwide AI Buildout",
+          "english_title": "China prepares $295 billion plan to fund nationwide AI buildout",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVHhTTEZDeDJGbGRkUC1wYUxpYTNxSHQ0WXBJMlg2aE5iRm9HaHZQLXh1ZUYzbnhzdkRNUjdCNUhMaDZnWlZVb0UwdW9RRkJhOWlQYUhURGJYT05Yc0loS3ctb0VMalVBQmk3bnJrVVJrWGVkWjlYLXI0WjFSbU81aFdYdnp5cGlkRXR2c1pLLWVBS0xtX3hnNExpM2xsel9nU2d4NkdOZUltVlZMSHdmaXk2cw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "国务院台办新闻发布会辑录（2026-06-03）",
+          "english_title": "State Council Taiwan Affairs Office press conference transcript released",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Ministry of Commerce announces anti-dumping tax decision on polyoxymethylene from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "2026年6月9日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260609_11940686.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "美股",
+          "english_title": "Caixin reports on US stock market stumble and AI market outlook",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E8%82%A1&v_p=42",
+          "platforms": [
+            "elite_press",
+            "weibo_hot"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "习近平出席金正恩举行的欢送仪式",
+          "english_title": "Xi attends farewell ceremony and luncheon hosted by Kim Jong Un",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YbU8wNmdQSEUyMUdlb2ZqU1lKSDY0ME1tcTlkRXNLMXVoeHlibWdNeml2VW1kelhFdnExczk2ZXNnYzhxaWRHZTMxU25oam9WSnh0VDc4WlZJcjNNLTJqVUg4WjVlTlk1RkMw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "花篮见证这一刻",
+          "english_title": "Xi and Peng Liyuan pay respects at China-North Korea Friendship Tower",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E7%AF%AE%E8%A7%81%E8%AF%81%E8%BF%99%E4%B8%80%E5%88%BB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "习近平结束对朝鲜国事访问回到北京",
+          "english_title": "Xi Jinping returns to Beijing after state visit to North Korea",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E5%AF%B9%E6%9C%9D%E9%B2%9C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "trade protectionism": {
+      "label": "trade protectionism",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Ministry of Commerce announces anti-dumping tax decision on polyoxymethylene from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "education": {
+      "label": "education",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "张桂梅作废了之前的话",
+          "english_title": "Zhang Guimei overturns ban on alumnae returning to her girls' school",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E4%BD%9C%E5%BA%9F%E4%BA%86%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AF%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "consumer disputes": {
+      "label": "consumer disputes",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-10",
           "title": "习近平结束对朝鲜国事访问回到北京",
           "english_title": "Xi Jinping returns to Beijing after state visit to North Korea",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E5%AF%B9%E6%9C%9D%E9%B2%9C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC",
