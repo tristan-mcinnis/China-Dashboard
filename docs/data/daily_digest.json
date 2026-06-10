@@ -1,63 +1,59 @@
 {
   "digest_type": "evening",
-  "as_of": "2026-06-10T19:48:32+08:00",
+  "as_of": "2026-06-10T23:18:28+08:00",
   "date": "2026-06-10",
   "time_label": "Evening Brief",
-  "beijing_time": "19:47",
+  "beijing_time": "23:17",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Xi in Pyongyang deepens ties; Shanghai deputy mayor investigated; Taiwan mapping signals strategic intent",
-  "headline_zh": "习近平访朝深化关系；上海副市长被查；台海东部扫测信号",
-  "narrative": "President Xi Jinping's visit to North Korea underscores strategic alignment against US pressure, with joint appearances at a party school and cultural performance reinforcing ideological solidarity. Domestically, the investigation of Shanghai Deputy Mayor Chen Yujian for serious discipline violations continues the anti-corruption campaign's focus on key economic hubs. Meanwhile, the first-ever seabed mapping east of Taiwan by China's maritime authorities enhances surveillance capabilities and signals growing assertiveness in the Taiwan Strait. The market showed broad declines, led by tech-heavy ChiNext, as trade tensions and domestic regulatory tightening weigh on sentiment.",
-  "narrative_zh": "习近平主席访朝强化了中朝战略协作，共同出席党校活动和文艺演出，凸显意识形态团结。国内，上海市副市长陈宇剑因严重违纪违法被查，延续了反腐在关键经济区的力度。同时，中国海事首次在台湾岛东部海域完成扫测，提升了对台海及周边水域的监控能力。市场方面，科技股领跌，创业板跌幅超2.7%，反映了贸易紧张与国内监管收紧的双重压力。",
-  "market_snapshot": "SSE Composite 3993.2258 ▼0.42% · Shenzhen Component 14954.101 ▼2.06% · ChiNext 3854.7935 ▼2.70% · USD/CNY 6.7795 ▲0.12% · USD/CNH 6.7833 ▲0.09%",
+  "headline": "Xi's North Korea visit deepens ties, domestic focus on safety and fertility subsidies",
+  "headline_zh": "习近平访朝深化中朝关系，国内聚焦安全监管与育儿补贴",
+  "narrative": "Xi Jinping's two-day state visit to North Korea, culminating in joint cultural events and high-level talks, underscores Beijing's commitment to stabilizing the Korean Peninsula amidst global tensions. Domestically, the dispatch of 24 central safety inspection teams and the rollout of 110 billion yuan in childbirth subsidies signal a dual focus on regulatory enforcement and demographic crisis management. The market saw mixed signals with the SSE Composite up 1.28% but ChiNext down 2.70%.",
+  "narrative_zh": "习近平总书记对朝鲜进行的两天国事访问，以高层会谈和联合文艺演出收官，凸显北京在紧张国际局势下稳定朝鲜半岛的决心。国内方面，24个中央安全巡查组进驻及1100亿元育儿补贴发放，显示监管强化与人口危机应对并重的政策方向。市场表现分化，上证综指涨1.28%，创业板指跌2.70%。",
+  "market_snapshot": "SSE Composite 4010.03 ▲1.28% · Shenzhen Component 15268.7 ▲3.02% · ChiNext 3854.7935 ▼2.70% · USD/CNY 6.7752 ▲0.05% · USD/CNH 6.7783 ▲0.02%",
   "themes": [
-    "Xi Jinping",
-    "North Korea",
-    "Anti-corruption",
-    "Taiwan Strait",
-    "Trade friction",
-    "Tech regulation"
+    "Xi-Kim summit",
+    "China-North Korea relations",
+    "regulatory enforcement",
+    "demographic policy",
+    "economic stimulus",
+    "tech investment"
   ],
   "theme_trends": {
-    "Xi Jinping": {
+    "Xi-Kim summit": {
       "status": "recurring",
       "days_seen": 7
     },
-    "North Korea": {
-      "status": "recurring",
-      "days_seen": 5
-    },
-    "Anti-corruption": {
-      "status": "recurring",
-      "days_seen": 7
-    },
-    "Taiwan Strait": {
-      "status": "recurring",
-      "days_seen": 5
-    },
-    "Trade friction": {
+    "China-North Korea relations": {
       "status": "recurring",
       "days_seen": 6
     },
-    "Tech regulation": {
+    "regulatory enforcement": {
+      "status": "recurring",
+      "days_seen": 7
+    },
+    "demographic policy": {
+      "status": "rising",
+      "days_seen": 2
+    },
+    "economic stimulus": {
+      "status": "recurring",
+      "days_seen": 5
+    },
+    "tech investment": {
       "status": "recurring",
       "days_seen": 7
     }
   },
   "entities": [
     "Xi Jinping",
-    "Kim Jong Un",
-    "Chen Yujian",
-    "Shanghai",
-    "Taiwan Affairs Office",
-    "CSRC"
+    "Kim Jong-un",
+    "Lin Jian",
+    "State Council Taiwan Affairs Office",
+    "CSRC",
+    "Batai Medical",
+    "Tsinghua University"
   ],
   "pillars": [
-    {
-      "key": "politics",
-      "label": "High Politics & Ideology",
-      "label_zh": "高层政治与意识形态"
-    },
     {
       "key": "economy",
       "label": "Economy & Markets",
@@ -77,101 +73,34 @@
       "key": "regulatory",
       "label": "Regulatory Watch",
       "label_zh": "监管动态"
+    },
+    {
+      "key": "society",
+      "label": "What's Trending",
+      "label_zh": "热点风向"
     }
   ],
   "top_stories": [
     {
       "rank": 1,
-      "weight": 59.4,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot",
-        "weibo_hot"
-      ],
-      "platform_count": 3,
-      "primary_title": "上海市副市长陈宇剑被查",
-      "english_title": "Shanghai Deputy Mayor Chen Yujian Under Investigation for Discipline Violations",
-      "why_it_matters": "Signals continued anti-corruption vigilance in major economic hubs, possibly linked to land or infrastructure projects.",
-      "why_it_matters_zh": "显示反腐在主要经济中心的持续力度，可能涉及土地或基建项目。",
-      "pull_quote": "上海市副市长陈宇剑涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
-      "pull_quote_zh": "上海市副市长陈宇剑涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E9%99%88%E5%AE%87%E5%89%91%E8%A2%AB%E6%9F%A5",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 2
-        },
-        {
-          "platform": "weibo_hot",
-          "rank": 2
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 2
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "weight": 46.2,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot",
-        "weibo_hot"
-      ],
-      "platform_count": 3,
-      "primary_title": "中国已补齐台湾岛东部海底地图",
-      "english_title": "China Completes Seabed Mapping East of Taiwan for the First Time",
-      "why_it_matters": "Enhances maritime surveillance and potential future operations in the Taiwan Strait and beyond.",
-      "why_it_matters_zh": "增强了对台海及周边水域的监控能力，为未来可能的行动奠定基础。",
-      "pull_quote": "首次在海上交通执法中完成台湾岛东部海域扫测。",
-      "pull_quote_zh": "首次在海上交通执法中完成台湾岛东部海域扫测。",
-      "pillar": "geopolitics",
-      "pillar_label": "U.S.–China & Geopolitics",
-      "pillar_label_zh": "中美关系与地缘政治",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E8%A1%A5%E9%BD%90%E5%8F%B0%E6%B9%BE%E5%B2%9B%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%BA%95%E5%9C%B0%E5%9B%BE",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 3
-        },
-        {
-          "platform": "weibo_hot",
-          "rank": 6
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 3
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "weight": 32.0,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "枞树常绿 中朝友谊生生不息",
-      "english_title": "Xi Jinping and Kim Jong Un Visit Party School, Highlight Ideological Ties",
-      "why_it_matters": "Reinforces strategic coordination between two nuclear-armed neighbors against US-led pressure.",
-      "why_it_matters_zh": "强化两个拥核邻国在美国压力下的战略协调。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
+      "primary_title": "共同擘画中朝关系发展蓝图",
+      "english_title": "Xi Jinping and Kim Jong-un chart future of bilateral ties during state visit",
+      "why_it_matters": "The visit reinforces China's strategic partnership with North Korea at a time of heightened US alliance activity in the region.",
+      "why_it_matters_zh": "此访巩固了中朝战略伙伴关系，正值美国在亚太加强联盟活动之际。",
+      "pull_quote": "President Xi and Chairman Kim agreed to deepen strategic communication and practical cooperation in all fields.",
+      "pull_quote_zh": "习近平总书记与金正恩委员长同意深化各领域战略沟通与务实合作。",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E6%9E%9E%E6%A0%91%E5%B8%B8%E7%BB%BF+%E4%B8%AD%E6%9C%9D%E5%8F%8B%E8%B0%8A%E7%94%9F%E7%94%9F%E4%B8%8D%E6%81%AF",
+      "url": "https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E6%93%98%E7%94%BB%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -184,16 +113,109 @@
       ]
     },
     {
+      "rank": 2,
+      "weight": 28.8,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "3.2亿老年人被“疯抢”",
+      "english_title": "Local governments compete for 320 million elderly consumers with silver tourism incentives",
+      "why_it_matters": "Provinces vie for a growing elderly demographic as the silver economy becomes a key consumption driver.",
+      "why_it_matters_zh": "各省竞相争夺3.2亿老年消费群体，银发经济成为消费增长新引擎。",
+      "pull_quote": "China's 320 million elderly present a massive market opportunity for health and tourism industries.",
+      "pull_quote_zh": "中国3.2亿老年人为健康与旅居产业带来巨大市场机遇。",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=3.2%E4%BA%BF%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A2%AB%E2%80%9C%E7%96%AF%E6%8A%A2%E2%80%9D",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 2
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "weight": 25.6,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "24个中央巡查组 即将进驻",
+      "english_title": "24 central safety inspection teams to be deployed across all provinces",
+      "why_it_matters": "A nationwide safety crackdown signals heightened regulatory oversight ahead of key Party meetings.",
+      "why_it_matters_zh": "全国性安全巡查部署，预示重大会议前监管力度加强。",
+      "pull_quote": "The inspections will cover 31 provinces, autonomous regions, and Xinjiang Production and Construction Corps.",
+      "pull_quote_zh": "巡查覆盖31个省区市及新疆生产建设兵团。",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "pillar_label_zh": "监管动态",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=24%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E6%9F%A5%E7%BB%84+%E5%8D%B3%E5%B0%86%E8%BF%9B%E9%A9%BB",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 3
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 3
+        }
+      ]
+    },
+    {
       "rank": 4,
+      "weight": 22.4,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "怀孕到生娃能领7笔钱 谁能领？",
+      "english_title": "Central government disburses 99.9 billion yuan in 2026 childbearing subsidies",
+      "why_it_matters": "The subsidy, plus local matching, totals 110 billion yuan to alleviate family financial burdens and boost birth rates.",
+      "why_it_matters_zh": "中央加地方配套共1100亿元，旨在减轻家庭生育负担、提升出生率。",
+      "pull_quote": "Eligible families can receive up to seven types of payments from pregnancy to child-rearing.",
+      "pull_quote_zh": "符合条件的家庭从怀孕到育儿可领七笔补贴。",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E6%80%80%E5%AD%95%E5%88%B0%E7%94%9F%E5%A8%83%E8%83%BD%E9%A2%867%E7%AC%94%E9%92%B1+%E8%B0%81%E8%83%BD%E9%A2%86%EF%BC%9F",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 4
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "weight": 11.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "2026年6月10日外交部发言人林剑主持例行记者会",
-      "english_title": "Foreign Ministry Spokesperson Lin Jian Holds Regular Press Conference",
-      "why_it_matters": "Covers routine diplomatic statements; likely topics include Taiwan, US, and regional issues.",
-      "why_it_matters_zh": "涵盖例行外交表态，可能涉及台湾、美国及地区问题。",
+      "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press briefing",
+      "why_it_matters": "Routine briefings provide insight into China's stance on international issues, though no major new policy emerged today.",
+      "why_it_matters_zh": "例行记者会展现中国对国际事务立场，但今日无重大新政策宣布。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -226,21 +248,21 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "weight": 10.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "习近平和彭丽媛观看朝鲜专场文艺演出",
-      "english_title": "Xi and Peng Liyuan Attend North Korean Cultural Performance",
-      "why_it_matters": "Soft power diplomacy reinforcing personal ties between leaders.",
-      "why_it_matters_zh": "软实力外交，强化领导人之间的个人纽带。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
+      "english_title": "Xi Jinping and Peng Liyuan attend North Korean cultural gala",
+      "why_it_matters": "A symbolic gesture emphasizing cultural ties and personal rapport between the two leaderships.",
+      "why_it_matters_zh": "象征性活动强调两国领导人个人情谊与文化联系。",
+      "pull_quote": "The performance featured traditional music and dance from both countries.",
+      "pull_quote_zh": "演出包含两国传统音乐与舞蹈。",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
       "source": "People's Daily",
       "category": "press",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UjhINE9qRUZtUXBoaXV0dU9hTWxSVk9vM2VUdGxORXdBa3MzZUYxbzdOWjNEZUJ0Mmd0RjdzT1B3VFYxRklXVmFGOEk0RktaamFmM3dwY2h6UmpvbUg1czYzcmwxTWIwMmpj?oc=5",
@@ -252,18 +274,18 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "weight": 10.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-      "english_title": "China Imposes Anti-Dumping Duties on Polyoxymethylene from Korea, Thailand, Malaysia",
-      "why_it_matters": "Protects domestic chemical industry; firms can inherit tax rates from predecessors.",
-      "why_it_matters_zh": "保护国内化工业；企业可继承前身税率。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Ministry of Commerce adjusts anti-dumping duties on POM imports from South Korea, Thailand, Malaysia",
+      "why_it_matters": "The decision affects downstream industries using polyoxymethylene, signaling continued trade remedy enforcement.",
+      "why_it_matters_zh": "该裁决影响聚甲醛下游产业，显示贸易救济执法持续。",
+      "pull_quote": "The announcement specifies duty rates for successor companies after corporate changes.",
+      "pull_quote_zh": "公告明确了企业变更后继承公司的税率。",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
@@ -278,21 +300,47 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "weight": 9.0,
+      "platforms": [
+        "xinhua_news"
+      ],
+      "platform_count": 1,
+      "primary_title": "中方呼吁中部非洲国家推动包容性政治进程",
+      "english_title": "China calls for inclusive political process in Central Africa",
+      "why_it_matters": "Beijing positions itself as a proponent of stability in resource-rich regions, countering Western influence.",
+      "why_it_matters_zh": "中国在资源丰富区域倡导稳定，对冲西方影响。",
+      "pull_quote": "China urges all parties in Central Africa to resolve differences through dialogue and consultation.",
+      "pull_quote_zh": "中方敦促中部非洲各方通过对话协商解决分歧。",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
+      "source": "",
+      "category": "news",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ubXItUG84QVhzUUZUekZTQkNCdXJpZEQ5YklWMkNxVnUyU1RXNXVpZWxZTmthNDZJcFRTNnlXM0stcmtEY3ZjM3RDT3pYUEljRDZTSHBsbF9KUUlCb0tXemJ4c2cxQ3pxOXhVTjRyTE4tNzFIOElySmxUNnVqclE?oc=5",
+      "appearances": [
+        {
+          "platform": "xinhua_news",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "weight": 9.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-      "english_title": "China Adjusts Export Control List for Precursor Chemicals to Specified Countries",
-      "why_it_matters": "Tightens control over dual-use chemicals, aligning with international obligations.",
-      "why_it_matters_zh": "加强对两用化学品的管控，与国际义务对齐。",
-      "pull_quote": "商务部等5部门关于调整...管理目录的公告",
-      "pull_quote_zh": "商务部等5部门关于调整...管理目录的公告",
-      "pillar": "economy",
-      "pillar_label": "Economy & Markets",
-      "pillar_label_zh": "经济与市场",
+      "english_title": "Five ministries adjust export control list for precursor chemicals",
+      "why_it_matters": "Tightened controls on dual-use chemicals align with international non-proliferation commitments and domestic security.",
+      "why_it_matters_zh": "对两用化学品加强管制，与国际防扩散承诺及国内安全要求一致。",
+      "pull_quote": "The revised catalog includes additional substances subject to export licensing.",
+      "pull_quote_zh": "修订后的目录增加了需出口许可的物质。",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "pillar_label_zh": "监管动态",
       "source": "商务部",
       "category": "regulatory",
       "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
@@ -304,18 +352,18 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "weight": 8.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
-      "english_title": "China Optimizes Departure Tax Refund Policy to Boost Inbound Consumption",
-      "why_it_matters": "Part of efforts to revive tourism and stimulate consumption post-pandemic.",
-      "why_it_matters_zh": "疫后重振旅游和刺激消费的努力之一。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Six ministries optimize tax refund for overseas visitors to boost inbound tourism",
+      "why_it_matters": "A targeted effort to revive inbound consumption and support the travel industry post-pandemic.",
+      "why_it_matters_zh": "精准举措提振入境消费，后疫情时期支持旅游业复苏。",
+      "pull_quote": "The new measures simplify refund procedures and increase refund rates for certain goods.",
+      "pull_quote_zh": "新措施简化退税流程并提高部分商品退税率。",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
@@ -330,18 +378,18 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 11,
       "weight": 5.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
-      "english_title": "Taiwan Affairs Office Press Conference: Stresses One-China Principle",
-      "why_it_matters": "Reiterates opposition to external interference and emphasizes peaceful reunification.",
-      "why_it_matters_zh": "重申反对外部干涉，强调和平统一。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Taiwan Affairs Office press conference reiterates opposition to separatism",
+      "why_it_matters": "Regular reaffirmation of the One-China principle and warnings against Taiwan independence moves.",
+      "why_it_matters_zh": "例行重申一个中国原则，警告台独行径。",
+      "pull_quote": "The office urged the DPP authorities to cease actions that undermine cross-strait peace.",
+      "pull_quote_zh": "国台办敦促民进党当局停止破坏台海和平的行为。",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
@@ -372,18 +420,18 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 12,
       "weight": 3.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "Corrosion Inhibitors From China; Scheduling of Expedited Five-Year Reviews",
-      "english_title": "US Initiates Expedited Five-Year Review of Duties on Chinese Corrosion Inhibitors",
-      "why_it_matters": "Continued trade friction; outcome could affect Chinese exports.",
-      "why_it_matters_zh": "持续贸易摩擦；结果可能影响中国出口。",
-      "pull_quote": "美国联邦公报公告",
-      "pull_quote_zh": "美国联邦公报公告",
+      "english_title": "US initiates expedited five-year review of anti-dumping duties on Chinese corrosion inhibitors",
+      "why_it_matters": "Continued trade friction as US reviews duties on Chinese chemical products, potentially affecting bilateral trade.",
+      "why_it_matters_zh": "美方审查对中国化学品的反倾销税，或影响双边贸易。",
+      "pull_quote": "The review will determine whether revoking duties would lead to recurrence of injury.",
+      "pull_quote_zh": "审查将决定取消关税是否会导致损害复发。",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
@@ -393,31 +441,31 @@
       "appearances": [
         {
           "platform": "gov_registry",
-          "rank": 65
+          "rank": 71
         },
         {
           "platform": "gov_registry",
-          "rank": 70
+          "rank": 76
         },
         {
           "platform": "gov_registry",
-          "rank": 72
+          "rank": 78
         }
       ]
     },
     {
-      "rank": 11,
+      "rank": 13,
       "weight": 2.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "\"Batai Medical\" completes nearly 200 million yuan in Series D financing",
-      "english_title": "Batai Medical Raises Nearly 200 Million Yuan in Series D",
-      "why_it_matters": "Indicates investor confidence in medical device innovation amid healthcare reforms.",
-      "why_it_matters_zh": "表明在医改背景下投资者对医疗器械创新的信心。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Batai Medical raises nearly 200 million yuan in Series D financing",
+      "why_it_matters": "Investor confidence in med-tech continues as the startup scales up its medical device business.",
+      "why_it_matters_zh": "投资者对医疗科技信心持续，该初创企业扩大医疗器械业务。",
+      "pull_quote": "Batai Medical focuses on minimally invasive surgical robots and imaging systems.",
+      "pull_quote_zh": "巴太医疗专注于微创手术机器人与影像系统。",
       "pillar": "tech",
       "pillar_label": "Industry, Tech & Industrial Policy",
       "pillar_label_zh": "产业、科技与工业政策",
@@ -427,27 +475,27 @@
       "appearances": [
         {
           "platform": "elite_press",
-          "rank": 26
+          "rank": 27
         },
         {
           "platform": "elite_press",
-          "rank": 27
+          "rank": 28
         }
       ]
     },
     {
-      "rank": 12,
+      "rank": 14,
       "weight": 2.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-      "english_title": "CSRC Issues Guidelines to Strengthen Regulation of Private Investment Funds",
-      "why_it_matters": "Aims to prevent systemic risk and protect investors; part of broader financial tightening.",
-      "why_it_matters_zh": "旨在防范系统性风险、保护投资者，是金融收紧的一部分。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "CSRC answers questions on new guidelines for private equity funds",
+      "why_it_matters": "The guidelines aim to strengthen risk prevention and promote high-quality development of the private fund industry.",
+      "why_it_matters_zh": "新规旨在强化风险防范，推动私募基金行业高质量发展。",
+      "pull_quote": "CSRC stressed the need to enhance investor protection and standardize fundraising practices.",
+      "pull_quote_zh": "证监会强调加强投资者保护、规范募集行为。",
       "pillar": "regulatory",
       "pillar_label": "Regulatory Watch",
       "pillar_label_zh": "监管动态",
@@ -466,18 +514,18 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 15,
       "weight": 1.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
-      "english_title": "Tsinghua-Affiliated Startup Raises Hundreds of Millions for Distributed World Model",
-      "why_it_matters": "Advances in AI predictive models for real-world applications; significant funding signals tech autonomy push.",
-      "why_it_matters_zh": "AI预测模型的现实应用进展；大额融资显示技术自主化努力。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Tsinghua-affiliated team secures hundreds of millions yuan in Series A funding for distributed world model",
+      "why_it_matters": "The investment highlights China's push in AI world models with practical deployment across tens of thousands of devices.",
+      "why_it_matters_zh": "投资凸显中国在AI世界模型领域的进展，已在十万级终端设备落地。",
+      "pull_quote": "The distributed prediction world model enables real-time decision-making across edge devices.",
+      "pull_quote_zh": "分布式预测世界模型实现边缘设备实时决策。",
       "pillar": "tech",
       "pillar_label": "Industry, Tech & Industrial Policy",
       "pillar_label_zh": "产业、科技与工业政策",
@@ -499,7 +547,7 @@
     "xinhua_news": 20,
     "thepaper_news": 20,
     "ladymax_news": 21,
-    "gov_registry": 74,
+    "gov_registry": 80,
     "elite_press": 52,
     "indices": 4,
     "fx": 4

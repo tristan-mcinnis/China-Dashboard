@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T19:48:32+08:00",
+  "updated_at": "2026-06-10T23:18:28+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -722,9 +722,20 @@
       ]
     },
     "demographic policy": {
-      "label": "Demographic policy",
-      "count": 1,
+      "label": "demographic policy",
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "3.2亿老年人被“疯抢”",
+          "english_title": "Local governments compete for 320 million elderly consumers with silver tourism incentives",
+          "url": "https://www.baidu.com/s?wd=3.2%E4%BA%BF%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A2%AB%E2%80%9C%E7%96%AF%E6%8A%A2%E2%80%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-02",
           "title": "美丽的中国梦属于你们",
@@ -3636,8 +3647,28 @@
     },
     "tech investment": {
       "label": "tech investment",
-      "count": 5,
+      "count": 7,
       "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+          "english_title": "Tsinghua-affiliated team secures hundreds of millions yuan in Series A funding for distributed world model",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QWnpITklpRTl4OWNZVEpWc0NrUVVWSGxuX3EySDNwaEhjX203M3ZUdE1ibVQ3SnBnSURPLXlaZ1FsZ0tOOVdINWZSVnl5QQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "\"Batai Medical\" completes nearly 200 million yuan in Series D financing",
+          "english_title": "Batai Medical raises nearly 200 million yuan in Series D financing",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10OUlyRnVEWjdBUDlQQkM2cE5CM1BFUm02NHlqTW9NMXVZaXdfTmE0aXVJMTNTQVBmU2xmVjNXaW5GX2ZRR3RaMy1NbnNoaWxtRUU0R1d4eFY4S1dPZllTRg?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-05",
           "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
@@ -4993,8 +5024,19 @@
     },
     "economic stimulus": {
       "label": "economic stimulus",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "共同擘画中朝关系发展蓝图",
+          "english_title": "Xi Jinping and Kim Jong-un chart future of bilateral ties during state visit",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E6%93%98%E7%94%BB%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-06",
           "title": "国务院台办新闻发布会辑录（2026-06-03）",
@@ -5863,8 +5905,19 @@
     },
     "xi-kim summit": {
       "label": "Xi-Kim summit",
-      "count": 28,
+      "count": 29,
       "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "共同擘画中朝关系发展蓝图",
+          "english_title": "Xi Jinping and Kim Jong-un chart future of bilateral ties during state visit",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E6%93%98%E7%94%BB%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-10",
           "title": "习近平和彭丽媛观看朝鲜专场文艺演出",
@@ -7941,6 +7994,70 @@
             "gov_registry"
           ],
           "category": "regulatory"
+        }
+      ]
+    },
+    "china-north korea relations": {
+      "label": "China-North Korea relations",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Ministry of Commerce adjusts anti-dumping duties on POM imports from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "习近平和彭丽媛观看朝鲜专场文艺演出",
+          "english_title": "Xi Jinping and Peng Liyuan attend North Korean cultural gala",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UjhINE9qRUZtUXBoaXV0dU9hTWxSVk9vM2VUdGxORXdBa3MzZUYxbzdOWjNEZUJ0Mmd0RjdzT1B3VFYxRklXVmFGOEk0RktaamFmM3dwY2h6UmpvbUg1czYzcmwxTWIwMmpj?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "共同擘画中朝关系发展蓝图",
+          "english_title": "Xi Jinping and Kim Jong-un chart future of bilateral ties during state visit",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E6%93%98%E7%94%BB%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "regulatory enforcement": {
+      "label": "regulatory enforcement",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-10",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Ministry of Commerce adjusts anti-dumping duties on POM imports from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-10",
+          "title": "24个中央巡查组 即将进驻",
+          "english_title": "24 central safety inspection teams to be deployed across all provinces",
+          "url": "https://www.baidu.com/s?wd=24%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E6%9F%A5%E7%BB%84+%E5%8D%B3%E5%B0%86%E8%BF%9B%E9%A9%BB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
         }
       ]
     }

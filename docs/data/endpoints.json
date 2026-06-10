@@ -1,7 +1,7 @@
 {
   "name": "China Snapshot Dashboard — public data API",
   "description": "Serverless China-signals feeds, refreshed 5x/day (Beijing time). All endpoints are static JSON with CORS enabled, free to consume.",
-  "generated_at": "2026-06-10T19:48:33+08:00",
+  "generated_at": "2026-06-10T23:18:28+08:00",
   "license": "Data is provided as-is for informational purposes (see dashboard disclaimer).",
   "schema": {
     "feeds": "Standard feeds use {as_of, source, items[]}, each item {title, value, url, extra{}}. Bilingual feeds add extra.translation (English).",
@@ -19,7 +19,7 @@
       "description": "Shanghai & Shenzhen stock market indices",
       "url": "https://china-dashboard.vercel.app/data/indices.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/indices.json",
-      "as_of": "2026-06-10T19:45:12+08:00"
+      "as_of": "2026-06-10T23:14:18+08:00"
     },
     {
       "name": "fx",
@@ -27,7 +27,7 @@
       "description": "CNY currency exchange rates",
       "url": "https://china-dashboard.vercel.app/data/fx.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/fx.json",
-      "as_of": "2026-06-10T19:45:13+08:00"
+      "as_of": "2026-06-10T23:14:18+08:00"
     },
     {
       "name": "commodities",
@@ -35,7 +35,7 @@
       "description": "China-demand commodity prices (iron ore, copper, crude, gold)",
       "url": "https://china-dashboard.vercel.app/data/commodities.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/commodities.json",
-      "as_of": "2026-06-10T19:45:14+08:00"
+      "as_of": "2026-06-10T23:14:19+08:00"
     },
     {
       "name": "pboc_rates",
@@ -43,7 +43,7 @@
       "description": "PBOC policy rates (LPR, MLF, RRR)",
       "url": "https://china-dashboard.vercel.app/data/pboc_rates.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/pboc_rates.json",
-      "as_of": "2026-06-10T19:46:24+08:00"
+      "as_of": "2026-06-10T23:15:17+08:00"
     },
     {
       "name": "nbs_monthly",
@@ -51,7 +51,7 @@
       "description": "NBS monthly indicators (CPI, PPI, PMI)",
       "url": "https://china-dashboard.vercel.app/data/nbs_monthly.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/nbs_monthly.json",
-      "as_of": "2026-06-10T19:46:26+08:00"
+      "as_of": "2026-06-10T23:15:19+08:00"
     },
     {
       "name": "trade_data",
@@ -59,7 +59,7 @@
       "description": "China trade data (exports, imports, balance)",
       "url": "https://china-dashboard.vercel.app/data/trade_data.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/trade_data.json",
-      "as_of": "2026-06-10T19:46:27+08:00"
+      "as_of": "2026-06-10T23:15:20+08:00"
     },
     {
       "name": "property",
@@ -67,7 +67,7 @@
       "description": "70-city home price index",
       "url": "https://china-dashboard.vercel.app/data/property.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/property.json",
-      "as_of": "2026-06-10T19:46:29+08:00"
+      "as_of": "2026-06-10T23:15:21+08:00"
     },
     {
       "name": "weather",
@@ -75,7 +75,7 @@
       "description": "Beijing weather",
       "url": "https://china-dashboard.vercel.app/data/weather.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/weather.json",
-      "as_of": "2026-06-10T19:45:16+08:00"
+      "as_of": "2026-06-10T23:14:21+08:00"
     },
     {
       "name": "baidu_top",
@@ -83,7 +83,7 @@
       "description": "Baidu trending search topics (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/baidu_top.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/baidu_top.json",
-      "as_of": "2026-06-10T19:44:58+08:00"
+      "as_of": "2026-06-10T23:14:00+08:00"
     },
     {
       "name": "weibo_hot",
@@ -91,7 +91,7 @@
       "description": "Weibo hot search topics (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/weibo_hot.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/weibo_hot.json",
-      "as_of": "2026-06-10T19:45:05+08:00"
+      "as_of": "2026-06-10T23:14:09+08:00"
     },
     {
       "name": "tencent_wechat_hot",
@@ -99,7 +99,7 @@
       "description": "Tencent/WeChat hot topics (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/tencent_wechat_hot.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/tencent_wechat_hot.json",
-      "as_of": "2026-06-10T19:45:10+08:00"
+      "as_of": "2026-06-10T23:14:17+08:00"
     },
     {
       "name": "xinhua_news",
@@ -107,7 +107,7 @@
       "description": "Xinhua News Agency headlines (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/xinhua_news.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/xinhua_news.json",
-      "as_of": "2026-06-10T19:45:28+08:00"
+      "as_of": "2026-06-10T23:14:35+08:00"
     },
     {
       "name": "thepaper_news",
@@ -115,7 +115,7 @@
       "description": "The Paper (澎湃新闻) headlines (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/thepaper_news.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/thepaper_news.json",
-      "as_of": "2026-06-10T19:45:40+08:00"
+      "as_of": "2026-06-10T23:14:49+08:00"
     },
     {
       "name": "ladymax_news",
@@ -123,7 +123,7 @@
       "description": "LadyMax fashion-business headlines (bilingual)",
       "url": "https://china-dashboard.vercel.app/data/ladymax_news.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/ladymax_news.json",
-      "as_of": "2026-06-10T19:46:23+08:00"
+      "as_of": "2026-06-10T23:15:16+08:00"
     },
     {
       "name": "gov_registry",
@@ -131,7 +131,7 @@
       "description": "Primary-source registry: 14 ministry/regulator/diplomacy channels (MOFCOM, MFA, Taiwan Affairs, PBOC, MOF, CSRC, CAC, NDRC, NEA, MCA, CIPS, SAFE, State Council EN) + US Federal Register (bilingual, pillar-tagged)",
       "url": "https://china-dashboard.vercel.app/data/gov_registry.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/gov_registry.json",
-      "as_of": "2026-06-10T19:47:49+08:00"
+      "as_of": "2026-06-10T23:17:41+08:00"
     }
   ]
 }
