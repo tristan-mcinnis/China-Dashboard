@@ -1,31 +1,31 @@
 {
   "digest_type": "midday",
-  "as_of": "2026-06-10T11:50:07+08:00",
+  "as_of": "2026-06-10T15:23:53+08:00",
   "date": "2026-06-10",
   "time_label": "Midday Brief",
-  "beijing_time": "11:49",
+  "beijing_time": "15:23",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Xi visits Pyongyang, reaffirms alliance; China unveils $295B AI plan",
-  "headline_zh": "习近平访朝巩固关系；2950亿AI计划出台",
-  "narrative": "Xi Jinping's state visit to North Korea (June 8-9) underscores Beijing's strategic priority on stabilizing its northeastern flank amid intensifying US-China competition. The trip, Xi's first overseas of 2026, showcases personal diplomacy with Kim Jong-un and public displays of unity, including a farewell ceremony and cultural performance. Meanwhile, a Bloomberg report reveals a $295 billion state-led plan to fund a nationwide AI infrastructure buildout, signaling China's determination to lead in next-generation technology despite export controls. Domestically, the People's Bank of China released draft rules overhauling deposit and lending rate regulations for the first time in over two decades, a move aimed at liberalizing interest rates and improving monetary transmission. The market reacted negatively with the ChiNext index falling 2.29%, reflecting tech sector jitters.",
-  "narrative_zh": "习近平对朝鲜的国事访问（6月8日至9日）凸显了北京在地缘政治竞争加剧背景下稳定东北侧翼的战略优先。这是习今年首次出访，通过个人外交与金正恩展示团结，包括欢送仪式和文艺演出。同时，彭博社报道中国计划投入2950亿美元建设全国性人工智能基础设施，表明尽管面临出口管制，中国仍决心引领下一代技术。国内方面，中国人民银行发布存贷款利率管理规定征求意见稿，这是二十多年来首次大修，旨在推进利率市场化。市场反应负面，创业板指下跌2.29%，反映科技板块担忧。",
-  "market_snapshot": "SSE Composite 3986.6611 ▼0.58% · Shenzhen Component 14972.752 ▼1.94% · ChiNext 3870.8337 ▼2.29% · USD/CNY 6.7738 ▲0.03% · USD/CNH 6.7761 ▼0.02%",
+  "headline": "Xi concludes North Korea visit, signals enduring alliance",
+  "headline_zh": "习近平结束访朝，传递中朝同盟信号",
+  "narrative": "Xi Jinping's two-day state visit to Pyongyang, his first foreign trip of 2026, underscores the strategic priority Beijing places on the DPRK as a geopolitical buffer and diplomatic counterweight. The carefully choreographed schedule, including a farewell ceremony and a cultural performance, projects unity and continuity, even as North Korea deepens its isolation from the West. Domestically, the Taiwan Affairs Office's reiteration of ‘prosperous island’ after reunification aims to reassure markets and counter ‘Taiwan independence’ narratives amidst heightened tension. Meanwhile, the financial sector’s quiet retreat from long-term deposit products signals a structural shift in monetary transmission, with implications for household savings and shadow banking.",
+  "narrative_zh": "习近平对朝鲜的两天国事访问是其2026年首次出访，凸显平壤作为地缘缓冲和外交反制力量在北京战略中的优先地位。精心安排的行程，包括欢送仪式和文艺演出，传递出团结与延续的信号，即便朝鲜正加深与西方的隔绝。在国内，国台办重申‘和平统一后台湾将成繁荣之岛’，旨在安抚市场并反击‘台独’叙事，在当前紧张局势下。同时，金融部门悄然退出长期存款产品，标志着货币政策传导的结构性转变，对居民储蓄和影子银行产生影响。",
+  "market_snapshot": "SSE Composite 3993.2258 ▼0.42% · Shenzhen Component 14954.101 ▼2.06% · ChiNext 3854.7935 ▼2.70% · USD/CNY 6.774 ▲0.03% · USD/CNH 6.7761 ▼0.02%",
   "themes": [
-    "Sino-DPRK relations",
-    "AI infrastructure",
+    "China-DPRK relations",
+    "Cross-strait policy",
     "Interest rate reform",
     "Space technology",
-    "Anti-dumping trade measures",
-    "Cross-strait relations"
+    "Anti-dumping measures",
+    "Private equity regulation"
   ],
   "theme_trends": {
-    "Sino-DPRK relations": {
+    "China-DPRK relations": {
       "status": "recurring",
       "days_seen": 5
     },
-    "AI infrastructure": {
+    "Cross-strait policy": {
       "status": "recurring",
-      "days_seen": 7
+      "days_seen": 6
     },
     "Interest rate reform": {
       "status": "recurring",
@@ -35,23 +35,22 @@
       "status": "recurring",
       "days_seen": 5
     },
-    "Anti-dumping trade measures": {
+    "Anti-dumping measures": {
       "status": "recurring",
       "days_seen": 7
     },
-    "Cross-strait relations": {
+    "Private equity regulation": {
       "status": "recurring",
       "days_seen": 6
     }
   },
   "entities": [
-    "Xi Jinping",
-    "Kim Jong-un",
-    "People's Bank of China",
-    "Ministry of Commerce",
-    "Taiwan Affairs Office",
-    "Batai Medical",
-    "CSRC"
+    "习近平",
+    "金正恩",
+    "国务院台办",
+    "商务部",
+    "中国证监会",
+    "朱雀二号"
   ],
   "pillars": [
     {
@@ -90,11 +89,11 @@
       ],
       "platform_count": 2,
       "primary_title": "续写中朝传统友谊崭新篇章",
-      "english_title": "Xi Jinping pays state visit to North Korea, meets Kim Jong-un",
-      "why_it_matters": "The visit reinforces the Sino-DPRK alliance at a time when US-China competition is sharpening, and signals China's continued support for Pyongyang despite international sanctions.",
-      "why_it_matters_zh": "此访在中美竞争加剧之际强化了中朝同盟，表明尽管国际制裁，中国仍将继续支持平壤。",
-      "pull_quote": "Xi and Kim attended a farewell ceremony and a cultural performance, highlighting personal ties.",
-      "pull_quote_zh": "习近平和金正恩出席欢送仪式和文艺演出，突显个人关系。",
+      "english_title": "Xi Jinping makes state visit to North Korea, meets Kim Jong-un",
+      "why_it_matters": "The visit reinforces the bilateral alliance at a time when DPRK is increasingly isolated, signaling China's commitment to the relationship despite international sanctions.",
+      "why_it_matters_zh": "此次访问在朝鲜日益孤立之际强化双边同盟，表明中国在国际制裁下仍坚持维护中朝关系。",
+      "pull_quote": "习近平感谢金正恩的盛情款待，并重申中朝传统友谊。",
+      "pull_quote_zh": "习近平感谢金正恩的盛情款待，并重申中朝传统友谊。",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
@@ -114,24 +113,55 @@
     },
     {
       "rank": 2,
+      "weight": 28.8,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "国台办：和平统一后台湾将成繁荣之岛",
+      "english_title": "Taiwan Affairs Office: reunified Taiwan will be prosperous island",
+      "why_it_matters": "The statement aims to shape post-reunification expectations and counter Taiwan independence narratives, reaffirming Beijing's peaceful reunification stance.",
+      "why_it_matters_zh": "该声明旨在塑造统一后的预期并反击‘台独’叙事，重申北京和平统一的立场。",
+      "pull_quote": "发言人张晗表示，和平统一后，有强大祖国做后盾，台湾人民将更安全。",
+      "pull_quote_zh": "发言人张晗表示，和平统一后，有强大祖国做后盾，台湾人民将更安全。",
+      "pillar": "geopolitics",
+      "pillar_label": "U.S.–China & Geopolitics",
+      "pillar_label_zh": "中美关系与地缘政治",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E5%90%8E%E5%8F%B0%E6%B9%BE%E5%B0%86%E6%88%90%E7%B9%81%E8%8D%A3%E4%B9%8B%E5%B2%9B",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 2
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "weight": 25.6,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "存贷款利率时隔二十多年迎来大修",
-      "english_title": "PBOC seeks public feedback on new loan and deposit rate regulations",
-      "why_it_matters": "The first major overhaul in over 20 years signals a push toward interest rate liberalization, which could improve monetary policy transmission but also increase competition among banks.",
-      "why_it_matters_zh": "二十多年来首次重大修订，表明推动利率市场化，可能改善货币政策传导，但也加剧银行竞争。",
-      "pull_quote": "The draft rules cover penalty pricing and high-interest deposit solicitation.",
-      "pull_quote_zh": "征求意见稿涵盖罚息定价和高息揽储等内容。",
+      "primary_title": "为啥定期存款不香了",
+      "english_title": "Banks quietly remove long-term deposit products as net interest margins narrow",
+      "why_it_matters": "The move reflects structural pressure on bank profitability and signals a shift in monetary policy transmission, potentially reducing household savings appeal.",
+      "why_it_matters_zh": "此举反映银行盈利的结构性压力，并预示货币政策传导的转变，可能降低居民储蓄吸引力。",
+      "pull_quote": "多家民营银行下架三年期、五年期定期存款产品，部分银行彻底清退长期存款。",
+      "pull_quote_zh": "多家民营银行下架三年期、五年期定期存款产品，部分银行彻底清退长期存款。",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%98%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E6%97%B6%E9%9A%94%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E8%BF%8E%E6%9D%A5%E5%A4%A7%E4%BF%AE",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E4%B8%8D%E9%A6%99%E4%BA%86",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -144,7 +174,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "weight": 22.4,
       "platforms": [
         "baidu_top",
@@ -152,11 +182,11 @@
       ],
       "platform_count": 2,
       "primary_title": "这次的“一箭双星”有点不一样",
-      "english_title": "Zhuque-2 Y6 rocket launches two satellites in commercial space milestone",
-      "why_it_matters": "The successful launch of the Zhuque-2 (improved version) with two satellites demonstrates China's growing commercial space capabilities and the expanding role of private players like LandSpace.",
-      "why_it_matters_zh": "朱雀二号改进型遥六火箭成功发射两颗卫星，展示了中国商业航天能力的增长以及蓝箭航天等民营企业的扩展作用。",
-      "pull_quote": "\"A pair of satellites with one arrow\", the mission carried Qianfan DTC-01 and China Mobile 02 satellites.",
-      "pull_quote_zh": "\"一箭双星\"任务搭载千帆DTC 01星和中国移动02星。",
+      "english_title": "Zhuque-2 improved variant launches dual satellites in commercial space milestone",
+      "why_it_matters": "The successful launch demonstrates China’s growing commercial rocket capabilities and its push for satellite internet infrastructure.",
+      "why_it_matters_zh": "成功发射展示中国商业火箭能力的提升以及卫星互联网基础设施的推进。",
+      "pull_quote": "朱雀二号改进型遥六火箭将千帆DTC 01星和中国移动02星送入轨道。",
+      "pull_quote_zh": "朱雀二号改进型遥六火箭将千帆DTC 01星和中国移动02星送入轨道。",
       "pillar": "tech",
       "pillar_label": "Industry, Tech & Industrial Policy",
       "pillar_label_zh": "产业、科技与工业政策",
@@ -175,7 +205,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "weight": 15.0,
       "platforms": [
         "elite_press"
@@ -183,10 +213,10 @@
       "platform_count": 1,
       "primary_title": "习近平出席金正恩举行的欢送仪式",
       "english_title": "Xi Jinping attends farewell ceremony hosted by Kim Jong-un",
-      "why_it_matters": "The ceremonial farewell underscores the strength of the bilateral relationship and China's enduring influence on the Korean Peninsula.",
-      "why_it_matters_zh": "欢送仪式凸显双边关系牢固及中国在朝鲜半岛的持久影响力。",
-      "pull_quote": "Xi and Peng Liyuan also attended a small luncheon hosted by Kim and his wife.",
-      "pull_quote_zh": "习近平和彭丽媛还出席了金正恩夫妇举行的小范围午宴。",
+      "why_it_matters": "The ceremony, including a small lunch, underscores the personal rapport between the leaders and the carefully managed optics of the visit.",
+      "why_it_matters_zh": "欢送仪式包括小范围午宴，彰显领导人之间的私人关系及访问精心安排的视觉效果。",
+      "pull_quote": "习近平夫妇出席金正恩夫妇举行的小范围午宴。",
+      "pull_quote_zh": "习近平夫妇出席金正恩夫妇举行的小范围午宴。",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
@@ -205,18 +235,18 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "weight": 11.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "2026年6月9日外交部发言人林剑主持例行记者会",
-      "english_title": "Foreign Ministry spokesperson Lin Jian holds regular press conference",
-      "why_it_matters": "The press conference covers routine diplomatic statements; any unusual omissions or emphases can signal shifts in China's foreign policy priorities.",
-      "why_it_matters_zh": "记者会涵盖例行外交表态；任何不寻常的省略或强调都可能预示中国外交政策重点的转变。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Foreign Ministry regular press conference addresses Iran, Taiwan, and more",
+      "why_it_matters": "The briefing provides official stances on multiple hot-button issues, including warnings on Taiwan and comments on Iran tensions.",
+      "why_it_matters_zh": "记者会就多个热点问题提供官方立场，包括对台湾的警告及对伊朗局势的评论。",
+      "pull_quote": "林剑表示，中方反对任何形式的恐怖主义，呼吁有关各方保持冷静克制。",
+      "pull_quote_zh": "林剑表示，中方反对任何形式的恐怖主义，呼吁有关各方保持冷静克制。",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
@@ -247,16 +277,16 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "weight": 10.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "习近平和彭丽媛观看朝鲜专场文艺演出",
-      "english_title": "Xi Jinping and Peng Liyuan watch North Korean cultural performance",
-      "why_it_matters": "Cultural diplomacy serves as a soft power tool to cement people-to-people ties and project a positive image of the bilateral relationship.",
-      "why_it_matters_zh": "文化外交作为软实力工具，巩固民间联系并展示双边关系积极形象。",
+      "english_title": "Xi Jinping and Peng Liyuan attend North Korean cultural performance",
+      "why_it_matters": "The cultural event highlights the soft power element of the state visit and the ideological affinity between the two parties.",
+      "why_it_matters_zh": "文化活动凸显国事访问的软实力元素及两党间的意识形态亲缘。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "politics",
@@ -273,16 +303,16 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "weight": 10.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-      "english_title": "MOFCOM announces anti-dumping duty rate inheritance decision on polyoxymethylene from South Korea, Thailand, Malaysia",
-      "why_it_matters": "The decision adjusts duties for specific companies, reflecting ongoing trade remedy enforcement to protect domestic chemical industries.",
-      "why_it_matters_zh": "该决定调整了特定企业的税率，反映中国持续实施贸易救济以保护国内化工行业。",
+      "english_title": "Ministry of Commerce imposes anti-dumping duties on acetal copolymers from South Korea, Thailand, Malaysia",
+      "why_it_matters": "The decision protects domestic producers but risks trade friction with ASEAN and South Korea; it also reflects ongoing import substitution efforts.",
+      "why_it_matters_zh": "该决定保护国内生产商，但可能引发与东盟和韩国的贸易摩擦；也反映持续的进口替代努力。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -299,16 +329,16 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "weight": 9.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-      "english_title": "MOFCOM and four other departments adjust export control list for precursor chemicals",
-      "why_it_matters": "The update to the controlled substances list aligns with international obligations and domestic security concerns, impacting chemical exporters.",
-      "why_it_matters_zh": "更新管制物项清单以符合国际义务和国内安全关切，影响化学品出口商。",
+      "english_title": "China tightens export controls on precursor chemicals for specific countries",
+      "why_it_matters": "The measure aligns with international non-proliferation commitments but may also be used as a diplomatic lever.",
+      "why_it_matters_zh": "该措施符合国际防扩散承诺，但也可能被用作外交杠杆。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -325,16 +355,16 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "weight": 8.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
-      "english_title": "MOFCOM leads six departments to optimize departure tax refund, boost inbound consumption",
-      "why_it_matters": "The policy aims to attract foreign tourists and stimulate spending, part of broader efforts to revive consumption post-pandemic.",
-      "why_it_matters_zh": "该政策旨在吸引外国游客并刺激消费，是疫后提振消费的更广泛努力的一部分。",
+      "english_title": "China expands departure tax refund policies to boost inbound tourism",
+      "why_it_matters": "The move is part of a broader strategy to revive tourism and consumption as the economy faces headwinds from weak domestic demand.",
+      "why_it_matters_zh": "此举是在内需疲软的经济逆风下振兴旅游和消费的更大战略的一部分。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -351,18 +381,18 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 11,
       "weight": 5.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "国务院台办新闻发布会辑录（2026-06-03）",
-      "english_title": "Taiwan Affairs Office holds press conference on cross-strait relations",
-      "why_it_matters": "The office reiterates opposition to Taiwan independence and emphasizes peaceful reunification, signalling continuity in policy ahead of potential political transitions.",
-      "why_it_matters_zh": "该办公室重申反对台独、强调和平统一，在潜在政治过渡前表明政策连续性。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "Full transcript: Taiwan Affairs Office press conference (June 3) reiterates opposition to Taiwan independence",
+      "why_it_matters": "The delayed release of the transcript (June 10) may signal careful vetting; content reinforces red lines on cross-strait exchanges.",
+      "why_it_matters_zh": "转录稿延迟至6月10日发布，可能反映谨慎审核；内容重申两岸交流的红线。",
+      "pull_quote": "国台办发言人强调，任何形式的‘台独’分裂行径都不可能得逞。",
+      "pull_quote_zh": "国台办发言人强调，任何形式的‘台独’分裂行径都不可能得逞。",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
@@ -393,62 +423,36 @@
       ]
     },
     {
-      "rank": 11,
-      "weight": 2.0,
-      "platforms": [
-        "elite_press"
-      ],
-      "platform_count": 1,
-      "primary_title": "\"Batai Medical\" completes nearly 200 million yuan in Series D financing",
-      "english_title": "Batai Medical completes nearly 200 million yuan Series D financing",
-      "why_it_matters": "The funding round highlights investor confidence in China's medical device sector, particularly in diagnostics and minimally invasive technologies.",
-      "why_it_matters_zh": "本轮融资显示投资者对中国医疗器械行业的信心，特别是诊断和微创技术领域。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "tech",
-      "pillar_label": "Industry, Tech & Industrial Policy",
-      "pillar_label_zh": "产业、科技与工业政策",
-      "source": "36Kr",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10OUlyRnVEWjdBUDlQQkM2cE5CM1BFUm02NHlqTW9NMXVZaXdfTmE0aXVJMTNTQVBmU2xmVjNXaW5GX2ZRR3RaMy1NbnNoaWxtRUU0R1d4eFY4S1dPZllTRg?oc=5",
-      "appearances": [
-        {
-          "platform": "elite_press",
-          "rank": 27
-        },
-        {
-          "platform": "elite_press",
-          "rank": 28
-        }
-      ]
-    },
-    {
       "rank": 12,
-      "weight": 2.0,
+      "weight": 3.0,
       "platforms": [
-        "elite_press"
+        "gov_registry"
       ],
       "platform_count": 1,
-      "primary_title": "China Preps $295 Billion Plan to Fund Nationwide AI Buildout",
-      "english_title": "China prepares $295 billion plan to fund nationwide AI buildout",
-      "why_it_matters": "The massive state-led investment underscores Beijing's strategic commitment to AI dominance, potentially reshaping global tech competition and semiconductor demand.",
-      "why_it_matters_zh": "大规模国家主导投资凸显北京对AI主导地位的战略承诺，可能重塑全球科技竞争和半导体需求。",
-      "pull_quote": "The plan reportedly includes funding for data centers, chip manufacturing, and AI research.",
-      "pull_quote_zh": "据报道，该计划包括资助数据中心、芯片制造和AI研究。",
-      "pillar": "tech",
-      "pillar_label": "Industry, Tech & Industrial Policy",
-      "pillar_label_zh": "产业、科技与工业政策",
-      "source": "Bloomberg",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVHhTTEZDeDJGbGRkUC1wYUxpYTNxSHQ0WXBJMlg2aE5iRm9HaHZQLXh1ZUYzbnhzdkRNUjdCNUhMaDZnWlZVb0UwdW9RRkJhOWlQYUhURGJYT05Yc0loS3ctb0VMalVBQmk3bnJrVVJrWGVkWjlYLXI0WjFSbU81aFdYdnp5cGlkRXR2c1pLLWVBS0xtX3hnNExpM2xsel9nU2d4NkdOZUltVlZMSHdmaXk2cw?oc=5",
+      "primary_title": "Corrosion Inhibitors From China; Scheduling of Expedited Five-Year Reviews",
+      "english_title": "U.S. launches expedited sunset review of anti-dumping duties on Chinese corrosion inhibitors",
+      "why_it_matters": "The review could lead to extended tariffs, affecting chemical exporters and signaling continued trade friction under the Biden administration.",
+      "why_it_matters_zh": "审查可能导致关税延长，影响化工出口商，并表明拜登政府下贸易摩擦持续。",
+      "pull_quote": "美国联邦公报公告：对来自中国的腐蚀抑制剂启动快速日落复审。",
+      "pull_quote_zh": "美国联邦公报公告：对来自中国的腐蚀抑制剂启动快速日落复审。",
+      "pillar": "economy",
+      "pillar_label": "Economy & Markets",
+      "pillar_label_zh": "经济与市场",
+      "source": "美国联邦公报",
+      "category": "regulatory",
+      "url": "https://www.federalregister.gov/documents/2026/06/10/2026-11622/corrosion-inhibitors-from-china-scheduling-of-expedited-five-year-reviews",
       "appearances": [
         {
-          "platform": "elite_press",
-          "rank": 42
+          "platform": "gov_registry",
+          "rank": 71
         },
         {
-          "platform": "elite_press",
-          "rank": 45
+          "platform": "gov_registry",
+          "rank": 76
+        },
+        {
+          "platform": "gov_registry",
+          "rank": 78
         }
       ]
     },
@@ -460,11 +464,11 @@
       ],
       "platform_count": 1,
       "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-      "english_title": "CSRC spokesperson explains State Council guidelines on private equity fund regulation",
-      "why_it_matters": "The guidelines aim to strengthen oversight and reduce risks in the private equity industry, which has faced scandals and defaults, while promoting high-quality development.",
-      "why_it_matters_zh": "该指导意见旨在加强私募基金行业监管、降低风险（该行业曾出现丑闻和违约），同时促进高质量发展。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "english_title": "CSRC outlines new rules for private equity funds, focusing on risk prevention",
+      "why_it_matters": "The guidelines aim to clean up the private equity sector after years of rapid growth and occasional scandals, aligning with broader financial stability efforts.",
+      "why_it_matters_zh": "指导方针旨在私募股权行业多年快速增长及偶发丑闻后加以清理，与金融稳定总体努力一致。",
+      "pull_quote": "证监会发言人表示，将加强监管防范风险，促进私募投资基金高质量发展。",
+      "pull_quote_zh": "证监会发言人表示，将加强监管防范风险，促进私募投资基金高质量发展。",
       "pillar": "regulatory",
       "pillar_label": "Regulatory Watch",
       "pillar_label_zh": "监管动态",
@@ -490,11 +494,11 @@
       ],
       "platform_count": 1,
       "primary_title": "36氪首发：国内唯一POD材料产业化团队二次创业，布局3C与AI芯片散热，技术积累全球领先",
-      "english_title": "POD material industrialization team launches second startup, targets 3C and AI chip cooling",
-      "why_it_matters": "The venture leverages China's only POD (polyolefin-derived) material production capability to address thermal management in electronics and AI chips, a critical niche.",
-      "why_it_matters_zh": "该创业项目利用中国唯一的POD材料生产能力，解决电子产品和AI芯片的热管理问题，是一个关键利基市场。",
-      "pull_quote": "The team claims globally leading technology accumulation in POD materials.",
-      "pull_quote_zh": "该团队声称在POD材料领域拥有全球领先的技术积累。",
+      "english_title": "China’s only POD material industrialization team raises new funding for AI chip cooling",
+      "why_it_matters": "The technology is critical for advanced semiconductor thermal management, supporting domestic chip development amid export controls.",
+      "why_it_matters_zh": "该技术对先进半导体热管理至关重要，在出口管制背景下支持国内芯片发展。",
+      "pull_quote": "团队已独家实现POD材料产业化，布局3C与AI芯片散热领域。",
+      "pull_quote_zh": "团队已独家实现POD材料产业化，布局3C与AI芯片散热领域。",
       "pillar": "tech",
       "pillar_label": "Industry, Tech & Industrial Policy",
       "pillar_label_zh": "产业、科技与工业政策",
@@ -507,6 +511,32 @@
           "rank": 25
         }
       ]
+    },
+    {
+      "rank": 15,
+      "weight": 1.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+      "english_title": "Tsinghua spinout raises hundreds of millions for distributed world model AI, deployed in tens of thousands of devices",
+      "why_it_matters": "The funding reflects strong investor interest in embodied AI and edge computing, with potential applications in robotics and autonomous systems.",
+      "why_it_matters_zh": "融资反映投资者对具身AI和边缘计算的浓厚兴趣，潜在应用于机器人和自主系统。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "pillar_label_zh": "产业、科技与工业政策",
+      "source": "36Kr",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QWnpITklpRTl4OWNZVEpWc0NrUVVWSGxuX3EySDNwaEhjX203M3ZUdE1ibVQ3SnBnSURPLXlaZ1FsZ0tOOVdINWZSVnl5QQ?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 26
+        }
+      ]
     }
   ],
   "sources_summary": {
@@ -516,7 +546,7 @@
     "xinhua_news": 20,
     "thepaper_news": 20,
     "ladymax_news": 21,
-    "gov_registry": 74,
+    "gov_registry": 80,
     "elite_press": 52,
     "indices": 4,
     "fx": 4
