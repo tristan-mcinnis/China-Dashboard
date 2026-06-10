@@ -1,7 +1,133 @@
 {
   "source": "Weibo Hot Search",
-  "generated_at": "2026-06-10T06:31:14+08:00",
+  "generated_at": "2026-06-10T11:46:28+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-10T11:46:28+08:00",
+      "source": "Weibo Hot Search",
+      "items": [
+        {
+          "title": "1. 芒果小妹是谁",
+          "value": "综艺 1159608 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%8A%92%E6%9E%9C%E5%B0%8F%E5%A6%B9%E6%98%AF%E8%B0%81&v_p=42",
+          "extra": {
+            "rank": 1,
+            "raw_score": "综艺 1159608",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Who is Mango Girl?"
+          }
+        },
+        {
+          "title": "2. 爱宝生三胎了 [新]",
+          "value": "847586 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E5%AE%9D%E7%94%9F%E4%B8%89%E8%83%8E%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 2,
+            "raw_score": " 847586",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Ai Bao has given birth to triplets."
+          }
+        },
+        {
+          "title": "3. 2026高考收官日",
+          "value": "816695 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98%E6%97%A5&v_p=42",
+          "extra": {
+            "rank": 3,
+            "raw_score": " 816695",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Final day of the 2026 Gaokao"
+          }
+        },
+        {
+          "title": "4. papi酱私藏好物大公开 [新]",
+          "value": "",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dpapi%E9%85%B1%E7%A7%81%E8%97%8F%E5%A5%BD%E7%89%A9%E5%A4%A7%E5%85%AC%E5%BC%80&v_p=42",
+          "extra": {
+            "rank": 4,
+            "raw_score": " ",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Papi Jiang reveals her private favorite items."
+          }
+        },
+        {
+          "title": "5. 世界上最完美的榴莲出现了",
+          "value": "801911 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%A6%B4%E8%8E%B2%E5%87%BA%E7%8E%B0%E4%BA%86&v_p=42",
+          "extra": {
+            "rank": 5,
+            "raw_score": " 801911",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "The world's most perfect durian has appeared."
+          }
+        },
+        {
+          "title": "6. 谢娜演唱会为何有人不舒服 [好物]",
+          "value": "演出 717007 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BA%E4%BD%95%E6%9C%89%E4%BA%BA%E4%B8%8D%E8%88%92%E6%9C%8D&v_p=42",
+          "extra": {
+            "rank": 6,
+            "raw_score": "演出 717007",
+            "tag": "好物",
+            "api_source": "tianapi",
+            "translation": "Why some people felt uncomfortable at Xie Na's concert."
+          }
+        },
+        {
+          "title": "7. 爱情有烟火定档",
+          "value": "剧集 656518 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%88%B1%E6%83%85%E6%9C%89%E7%83%9F%E7%81%AB%E5%AE%9A%E6%A1%A3&v_p=42",
+          "extra": {
+            "rank": 7,
+            "raw_score": "剧集 656518",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Love and Fireworks release date set."
+          }
+        },
+        {
+          "title": "8. 库克挥泪告别 [新]",
+          "value": "643338 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BA%93%E5%85%8B%E6%8C%A5%E6%B3%AA%E5%91%8A%E5%88%AB&v_p=42",
+          "extra": {
+            "rank": 8,
+            "raw_score": " 643338",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Tim Cook bids farewell in tears."
+          }
+        },
+        {
+          "title": "9. 鹅腿阿姨称卖鸭腿截图属实",
+          "value": "594255 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E7%A7%B0%E5%8D%96%E9%B8%AD%E8%85%BF%E6%88%AA%E5%9B%BE%E5%B1%9E%E5%AE%9E&v_p=42",
+          "extra": {
+            "rank": 9,
+            "raw_score": " 594255",
+            "tag": "",
+            "api_source": "tianapi",
+            "translation": "Goose Leg Auntie confirms screenshot of selling duck legs is real."
+          }
+        },
+        {
+          "title": "10. 山东历史 [新]",
+          "value": "434701 热度",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B1%B1%E4%B8%9C%E5%8E%86%E5%8F%B2&v_p=42",
+          "extra": {
+            "rank": 10,
+            "raw_score": " 434701",
+            "tag": "新",
+            "api_source": "tianapi",
+            "translation": "Shandong History"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-10T06:31:14+08:00",
       "source": "Weibo Hot Search",
@@ -12469,132 +12595,6 @@
           "extra": {
             "rank": 10,
             "raw_score": "电影 592397",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-21T19:37:21+08:00",
-      "source": "Weibo Hot Search",
-      "items": [
-        {
-          "title": "1. 税务局职工被曝上班脚翘桌上玩手游",
-          "value": "1940738 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%81%8C%E5%B7%A5%E8%A2%AB%E6%9B%9D%E4%B8%8A%E7%8F%AD%E8%84%9A%E7%BF%98%E6%A1%8C%E4%B8%8A%E7%8E%A9%E6%89%8B%E6%B8%B8&v_p=42",
-          "extra": {
-            "rank": 1,
-            "raw_score": " 1940738",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 坚决反对美国向台湾出售武器",
-          "value": "937925 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%90%91%E5%8F%B0%E6%B9%BE%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8&v_p=42",
-          "extra": {
-            "rank": 2,
-            "raw_score": " 937925",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 南方还有2轮强降雨",
-          "value": "756801 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%97%E6%96%B9%E8%BF%98%E6%9C%892%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8&v_p=42",
-          "extra": {
-            "rank": 3,
-            "raw_score": " 756801",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 京东请了科技圈半壁江山",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%AC%E4%B8%9C%E8%AF%B7%E4%BA%86%E7%A7%91%E6%8A%80%E5%9C%88%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&v_p=42",
-          "extra": {
-            "rank": 4,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 不小心把DeepSeek叫成豆包",
-          "value": "750327 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&v_p=42",
-          "extra": {
-            "rank": 5,
-            "raw_score": " 750327",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 洛克王国世界 [大促]",
-          "value": "723756 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C&v_p=42",
-          "extra": {
-            "rank": 6,
-            "raw_score": " 723756",
-            "tag": "大促",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 歌手",
-          "value": "综艺 712980 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%AD%8C%E6%89%8B&v_p=42",
-          "extra": {
-            "rank": 7,
-            "raw_score": "综艺 712980",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 绿联携手易烊千玺联接无限可能",
-          "value": "",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%BF%E8%81%94%E6%90%BA%E6%89%8B%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%81%94%E6%8E%A5%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD&v_p=42",
-          "extra": {
-            "rank": 8,
-            "raw_score": " ",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 瑞幸特调",
-          "value": "413735 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%91%9E%E5%B9%B8%E7%89%B9%E8%B0%83&v_p=42",
-          "extra": {
-            "rank": 9,
-            "raw_score": " 413735",
-            "tag": "",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 给阿嬷的情书从1000多人中选出南枝",
-          "value": "电影 413400 热度",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E4%BB%8E1000%E5%A4%9A%E4%BA%BA%E4%B8%AD%E9%80%89%E5%87%BA%E5%8D%97%E6%9E%9D&v_p=42",
-          "extra": {
-            "rank": 10,
-            "raw_score": "电影 413400",
             "tag": "",
             "api_source": "tianapi",
             "translation": ""
