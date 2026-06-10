@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T23:18:28+08:00",
+  "updated_at": "2026-06-11T06:40:17+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -722,9 +722,20 @@
       ]
     },
     "demographic policy": {
-      "label": "demographic policy",
-      "count": 2,
+      "label": "Demographic policy",
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "3.2亿老年人被“疯抢”",
+          "english_title": "China's Silver Economy: Provinces Vie for 320 Million Elderly Tourists",
+          "url": "https://www.baidu.com/s?wd=3.2%E4%BA%BF%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A2%AB%E2%80%9C%E7%96%AF%E6%8A%A2%E2%80%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-10",
           "title": "3.2亿老年人被“疯抢”",
@@ -1782,8 +1793,18 @@
     },
     "regulatory tightening": {
       "label": "Regulatory tightening",
-      "count": 6,
+      "count": 7,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China Adjusts List of Controlled Chemicals for Export to Certain Countries",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-08",
           "title": "习近平同金正恩举行会谈",
@@ -8058,6 +8079,143 @@
             "tencent_wechat_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "sino-north korea relations": {
+      "label": "Sino-North Korea relations",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Anti-dumping Duties on Copolymers from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "共同擘画中朝关系发展蓝图",
+          "english_title": "Xi Jinping's State Visit to North Korea: Strengthening Bilateral Ties",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E6%93%98%E7%94%BB%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "silver economy": {
+      "label": "Silver economy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "3.2亿老年人被“疯抢”",
+          "english_title": "China's Silver Economy: Provinces Vie for 320 Million Elderly Tourists",
+          "url": "https://www.baidu.com/s?wd=3.2%E4%BA%BF%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A2%AB%E2%80%9C%E7%96%AF%E6%8A%A2%E2%80%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "safety inspections": {
+      "label": "Safety inspections",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "24个中央巡查组 即将进驻",
+          "english_title": "24 Central Safety Inspection Teams to Deploy Nationwide",
+          "url": "https://www.baidu.com/s?wd=24%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E6%9F%A5%E7%BB%84+%E5%8D%B3%E5%B0%86%E8%BF%9B%E9%A9%BB",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "ai investment": {
+      "label": "AI investment",
+      "count": 7,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+          "english_title": "Tsinghua AI Startup Raises Hundreds of Millions in Series A for Distributed World Models",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QWnpITklpRTl4OWNZVEpWc0NrUVVWSGxuX3EySDNwaEhjX203M3ZUdE1ibVQ3SnBnSURPLXlaZ1FsZ0tOOVdINWZSVnl5QQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC Spokesperson on New Guidelines for Private Investment Funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office Press Conference on June 10",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "商务部等6部门关于加力优化离境退税措施扩大入境消费的通知",
+          "english_title": "China Optimizes Departure Tax Refund Measures to Boost Inbound Consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_35c1ba34d3034b3ea575ed85efd29070.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China Adjusts List of Controlled Chemicals for Export to Certain Countries",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Anti-dumping Duties on Copolymers from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "我国夏粮小麦收获超七成",
+          "english_title": "Summer Wheat Harvest Exceeds 70% of Planned Area",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YeFF3MTAyZEZZcGNQU3hzVnQwS2dxY3NibVVUSEJ1a0lxbHBMTHhtZC05V2JDblBPcklZUGctOExZc2ltTFNjUGpIcDNOUjdsLWN5aG55M25BamtlbEZocXQyeG9OLWlMMzhXaldDenBCQWJVRXBBWTZDaEVWR0E?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
         }
       ]
     }
