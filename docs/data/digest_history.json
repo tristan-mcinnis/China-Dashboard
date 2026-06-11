@@ -1,8 +1,329 @@
 {
-  "as_of": "2026-06-11T23:20:38+08:00",
+  "as_of": "2026-06-12T06:39:33+08:00",
   "source": "daily_digest archive",
-  "count": 39,
+  "count": 40,
   "entries": [
+    {
+      "as_of": "2026-06-12T06:39:33+08:00",
+      "date": "2026-06-12",
+      "time_label": "Morning Brief",
+      "beijing_time": "06:38",
+      "digest_type": "morning",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "China cancels EU talks as Shenzhen stocks plunge, signaling deepening rift",
+      "headline_zh": "中国取消与欧盟高级别会议，深成指暴跌，关系裂痕加深",
+      "narrative": "The Shenzhen Component's 2.6-sigma drop below its 30-day mean is the day's standout signal, accelerating the selloff in small-cap tech stocks. The trigger appears to be Beijing's sudden cancellation of high-level meetings with the EU as reported by the FT, aligning with a broader pattern of friction over trade and technology. This suggests the leadership is doubling down on self-reliance even at the cost of market confidence. Meanwhile, domestic policy tightens: two ministries summoned auto firms for irrational competition, and new rules for private equity funds were published. These actions, combined with the geopolitical chill, paint a picture of a leadership prioritizing control over growth.",
+      "narrative_zh": "深证成指较30日均线下跌2.6个标准差，这是当日最突出信号，加速了小盘科技股的抛售。触发因素似乎是北京突然取消与欧盟的高级别会议（据英国《金融时报》报道），这与贸易和技术领域的摩擦加剧一致，表明领导层即使牺牲市场信心也在加倍押注自主创新。与此同时，国内政策持续收紧：两部门约谈汽车企业非理性竞争，私募基金新规出台。这些行动加上地缘政治寒意，描绘了一幅领导层优先控制而非增长的图景。",
+      "market_snapshot": "SSE Composite 3987.015 ▼0.57% · Shenzhen Component 14851.976 ▼2.73% · ChiNext 3811.246 ▼1.13% · USD/CNY 6.7751 ▲0.02% · USD/CNH 6.7634 ▼0.22%",
+      "themes": [
+        "地缘政治紧张",
+        "市场调整",
+        "监管收紧",
+        "科技自主",
+        "宣传动员"
+      ],
+      "theme_trends": {
+        "地缘政治紧张": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "市场调整": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "监管收紧": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "科技自主": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "宣传动员": {
+          "status": "new",
+          "days_seen": 0
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "世界杯揭幕战：墨西哥2比0胜南非",
+          "english_title": "World Cup opener: Mexico beats South Africa 2-0",
+          "why_it_matters": "The match kicks off a global sporting event that diverts domestic attention from economic and political worries, offering a temporary release valve.",
+          "why_it_matters_zh": "该比赛开启了全球体育盛事，暂时转移了国内对经济和政治担忧的注意力，起到了减压阀作用。",
+          "pull_quote": "Mexico's Quinones scored the tournament's first goal in the 9th minute.",
+          "pull_quote_zh": "墨西哥队基尼奥内斯在第9分钟打入本届世界杯首球。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%EF%BC%9A%E5%A2%A8%E8%A5%BF%E5%93%A52%E6%AF%940%E8%83%9C%E5%8D%97%E9%9D%9E"
+        },
+        {
+          "primary_title": "友谊牢不可破",
+          "english_title": "Unbreakable friendship: Xi Jinping's visit to North Korea in 100 seconds",
+          "why_it_matters": "This viral video is a propaganda tool to reinforce the Xi-Kim personal bond and signal continuity of the China-DPRK alliance amid geopolitical uncertainty.",
+          "why_it_matters_zh": "这段病毒式传播的视频是宣传工具，旨在强化习金个人纽带，在地缘不确定性中传递中朝同盟的连续性。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8B%E8%B0%8A%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4"
+        },
+        {
+          "primary_title": "美加墨世界杯首球",
+          "english_title": "First goal of the World Cup: Mexico vs South Africa",
+          "why_it_matters": "A feel-good sports moment that briefly unifies public discourse, but carries no structural signal beyond its novelty.",
+          "why_it_matters_zh": "一个令人愉悦的体育时刻，短暂统一了公共话语，但除了新奇性外没有结构性信号。",
+          "pull_quote": "The goal was scored by Quinones in the 9th minute.",
+          "pull_quote_zh": "该球由基尼奥内斯在第9分钟打入。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
+        },
+        {
+          "primary_title": "高考报志愿 考生最关心的都在这里",
+          "english_title": "College entrance exam: top concerns for applicants",
+          "why_it_matters": "Annual ritual of mass anxiety reflects the intense pressure on Chinese youth and the education system's role in social stratification.",
+          "why_it_matters_zh": "一年一度的大规模焦虑反映中国青年的巨大压力以及教育体系在社会分层中的作用。",
+          "pull_quote": "Key terms explained: batch admission cutoffs, parallel volunteering, school-major combinations.",
+          "pull_quote_zh": "关键词解释：批次录取控制线、平行志愿、专业加学校志愿。",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%8A%A5%E5%BF%97%E6%84%BF+%E8%80%83%E7%94%9F%E6%9C%80%E5%85%B3%E5%BF%83%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C"
+        },
+        {
+          "primary_title": "校园文化建设专访② | 校园文化的内涵包括什么？",
+          "english_title": "Campus culture construction interview: what does it include?",
+          "why_it_matters": "The Party-state is doubling down on ideological penetration in schools, using campus culture as a tool to shape youth values and counter Western influence.",
+          "why_it_matters_zh": "党国正在加大校园意识形态渗透，利用校园文化塑造青年价值观，对抗西方影响。",
+          "pull_quote": "Second in a Qiushi series on campus culture, following a first piece on why to promote it.",
+          "pull_quote_zh": "求是校园文化系列专访第二篇，继首篇讨论为何推进之后。",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Qiushi",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zbFFrUlRueFJIM0hFVW5UM0ZXTng5VHRGdXExcjZ4TzA1QVB5WnBBSnREZG91eEFYOXBSS3NDWldUdWhNMVNNMFJSdGN1bTJUYklsSFM4MVlfaVBQNmRraGIteEh5YkNqUUF4U3Fvc1lfR2pTYU9ncE5QX20?oc=5"
+        },
+        {
+          "primary_title": "2026年6月11日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry press briefing (June 11, 2026)",
+          "why_it_matters": "Routine Q&A but could yield signals on pending issues such as the canceled EU meetings or Taiwan; careful reading for shifts in tone is warranted.",
+          "why_it_matters_zh": "例行问答但可能透露关于取消欧盟会议或台湾等问题的信号，需仔细解读语气变化。",
+          "pull_quote": "Spokesperson Lin Jian answered questions on a range of foreign policy topics.",
+          "pull_quote_zh": "发言人林剑就一系列外交政策问题作答。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260611_11942454.shtml"
+        },
+        {
+          "primary_title": "两部门约谈提醒涉嫌非理性竞争汽车生产企业",
+          "english_title": "Two ministries summoned auto firms for suspected irrational competition",
+          "why_it_matters": "Signals growing government unease with price wars and overcapacity in the EV sector, potentially foreshadowing tougher industry consolidation or subsidy cuts.",
+          "why_it_matters_zh": "表明政府对电动汽车行业价格战和产能过剩日益不安，可能预示更严厉的行业整合或补贴削减。",
+          "pull_quote": "The warning targets 'irrational competition' including below-cost pricing.",
+          "pull_quote_zh": "警告针对包括低于成本定价在内的'非理性竞争'。",
+          "pillar": "regulatory",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1odnByVGVhSlBROUZIRnk0eWhsNEhaTTdiTzZreHNZZVNMd1hXWnZqdmR1ZHo4dEltRlFQMEU1TXNDQkVaYkxLOW5WNnhLYU5EMUE3eEpYcTBQeVVCNDhTU2J5MWJ0UzdVYWpJeDdwLTc3dVBENEhzV0ZRWC0xbjg?oc=5"
+        },
+        {
+          "primary_title": "人民日报图文数据库（1946-2026）",
+          "english_title": "People's Daily launches full-text database (1946-2026)",
+          "why_it_matters": "A major archival project that gives the Party mouthpiece a powerful research tool and solidifies its role as the authoritative record of PRC history.",
+          "why_it_matters_zh": "一项重大档案项目，为党报提供强大研究工具，巩固其作为新中国历史权威记录的角色。",
+          "pull_quote": "Covers 80 years of Party newspaper content, now searchable.",
+          "pull_quote_zh": "涵盖80年党报内容，现可检索。",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1pVWJKRXlxSjNSVC0yRGJsRHdUbDRBNzdNc2hDV3VJcFdKQmhsT0oxbnh6Q3E2cEVWcERrYm0xWWs?oc=5"
+        },
+        {
+          "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to boost railway-tourism integration and service consumption",
+          "why_it_matters": "Part of a broader push to stimulate domestic tourism and service spending as consumption remains a drag on growth, leveraging railway infrastructure.",
+          "why_it_matters_zh": "在消费仍拖累增长之际，利用铁路基础设施刺激国内旅游和服务消费的更广泛努力的一部分。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Anti-dumping duties on polyoxymethylene from South Korea, Thailand, Malaysia: successor rates",
+          "why_it_matters": "Targeted trade remedy action that protects domestic chemical producers but risks retaliation; follows standard bureaucratic process.",
+          "why_it_matters_zh": "针对性的贸易救济行动，保护国内化工生产商但可能招致报复，遵循标准行政程序。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Adjusted export control list for precursor chemicals to certain countries",
+          "why_it_matters": "Refines controls on dual-use chemicals, balancing international obligations with domestic security and commercial interests.",
+          "why_it_matters_zh": "完善对两用化学品的管制，平衡国际义务与国内安全及商业利益。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office press briefing (June 10, 2026)",
+          "why_it_matters": "Barometer of cross-strait tensions; any new rhetoric on reunification or sanctions could signal policy shifts.",
+          "why_it_matters_zh": "两岸紧张局势的晴雨表；任何关于统一或制裁的新措辞都可能预示政策变化。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm"
+        },
+        {
+          "primary_title": "China cancels high-level meetings with EU",
+          "english_title": "China cancels high-level meetings with EU: FT reports",
+          "why_it_matters": "A major escalation in Sino-EU friction, likely linked to trade disputes (EV tariffs) or human rights issues; underlines Beijing's growing willingness to weaponize diplomatic access.",
+          "why_it_matters_zh": "中欧摩擦的重大升级，可能涉及贸易争端（电动汽车关税）或人权问题，凸显北京日益将外交接触武器化的倾向。",
+          "pull_quote": "According to the Financial Times, Beijing abruptly canceled planned meetings.",
+          "pull_quote_zh": "据英国《金融时报》，北京突然取消了原定会议。",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmE3NG5IQ1RtRHVaNXlkTkoxSTBGUVYzc2pRVGp4VXFZV2pQSHhBekJ0bm1kemJ1VXQ0eEdGWWtsNWNzRWduV0YzMmFuZzhBS0huZUtIb2xyc1RLeTIzQU5RV3RSV2tDM3llVmJQY3V0QnM2RFFiUXRrdFlEQTFkbnpEMEo?oc=5"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC explains new State Council guidelines on private equity funds",
+          "why_it_matters": "Part of a broader crackdown on financial risks, imposing stricter oversight on a sector that had grown rapidly but also generated scandals and leverage concerns.",
+          "why_it_matters_zh": "更广泛的金融风险整治的一部分，对快速增长但也引发丑闻和杠杆担忧的行业加强监管。",
+          "pull_quote": "The guidelines aim to strengthen risk prevention and promote high-quality development of private investment funds.",
+          "pull_quote_zh": "指导意见旨在加强风险防范，促进私募投资基金高质量发展。",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "AniShort斩获近亿元融资，刷新AI短剧工具赛道融资纪录",
+          "english_title": "AniShort secures nearly 100M yuan, record AI short drama financing",
+          "why_it_matters": "Reflects investor enthusiasm for generative AI in content creation, though the short drama market is fragmented and monetization uncertain.",
+          "why_it_matters_zh": "反映投资者对生成式AI在内容创作领域的热情，但短剧市场分散，变现不确定。",
+          "pull_quote": "Financing round sets a new record for the AI short drama tool track.",
+          "pull_quote_zh": "本轮融资刷新了AI短剧工具赛道的融资纪录。",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44T19pSk5IdVRLS0FSaVRXeWtDMTh0UnRjV21yMWFuX2h1QThtQzZBelgzVllLT0Iwcmx5LTVHNXlkcG1ncWRVZDVHRGdOdw?oc=5"
+        },
+        {
+          "primary_title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+          "english_title": "Tsinghua-linked team gets hundreds of millions in Series A for distributed predictive world model",
+          "why_it_matters": "Highlights China's push into advanced AI architectures and edge computing, with potential applications in autonomous systems and industrial control.",
+          "why_it_matters_zh": "凸显中国在先进AI架构和边缘计算领域的推进，在自主系统和工业控制方面有潜在应用。",
+          "pull_quote": "The model has been deployed on tens of thousands of end devices.",
+          "pull_quote_zh": "该模型已在十万量级终端设备上落地。",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QWnpITklpRTl4OWNZVEpWc0NrUVVWSGxuX3EySDNwaEhjX203M3ZUdE1ibVQ3SnBnSURPLXlaZ1FsZ0tOOVdINWZSVnl5QQ?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-11T23:20:38+08:00",
       "date": "2026-06-11",

@@ -1,7 +1,123 @@
 {
   "source": "Tencent WeChat Hot Topics",
-  "generated_at": "2026-06-11T23:17:28+08:00",
+  "generated_at": "2026-06-12T06:35:26+08:00",
   "entries": [
+    {
+      "as_of": "2026-06-12T06:35:26+08:00",
+      "source": "Tencent WeChat Hot Topics",
+      "items": [
+        {
+          "title": "1. 友谊牢不可破",
+          "value": "指数 7904490",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8F%8B%E8%B0%8A%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4",
+          "extra": {
+            "rank": 1,
+            "raw_score": "7904490",
+            "api_source": "tianapi",
+            "translation": "Friendship is unbreakable"
+          }
+        },
+        {
+          "title": "2. 世界杯揭幕战：墨西哥2比0胜南非",
+          "value": "指数 7808804",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%EF%BC%9A%E5%A2%A8%E8%A5%BF%E5%93%A52%E6%AF%940%E8%83%9C%E5%8D%97%E9%9D%9E",
+          "extra": {
+            "rank": 2,
+            "raw_score": "7808804",
+            "api_source": "tianapi",
+            "translation": "World Cup opening match: Mexico 2-0 South Africa"
+          }
+        },
+        {
+          "title": "3. 美加墨世界杯首球",
+          "value": "指数 7714332",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
+          "extra": {
+            "rank": 3,
+            "raw_score": "7714332",
+            "api_source": "tianapi",
+            "translation": "First goal of the US-Canada-Mexico World Cup"
+          }
+        },
+        {
+          "title": "4. 高考报志愿 考生最关心的都在这里",
+          "value": "指数 7618067",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%AB%98%E8%80%83%E6%8A%A5%E5%BF%97%E6%84%BF+%E8%80%83%E7%94%9F%E6%9C%80%E5%85%B3%E5%BF%83%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C",
+          "extra": {
+            "rank": 4,
+            "raw_score": "7618067",
+            "api_source": "tianapi",
+            "translation": "College entrance exam applications: all that candidates care about is here"
+          }
+        },
+        {
+          "title": "5. labubu都去世界杯了",
+          "value": "指数 7522474",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=labubu%E9%83%BD%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+          "extra": {
+            "rank": 5,
+            "raw_score": "7522474",
+            "api_source": "tianapi",
+            "translation": "Labubu goes to the World Cup"
+          }
+        },
+        {
+          "title": "6. 夏奇拉开幕式献唱燃爆全场",
+          "value": "指数 7425047",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A4%8F%E5%A5%87%E6%8B%89%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8C%AE%E5%94%B1%E7%87%83%E7%88%86%E5%85%A8%E5%9C%BA",
+          "extra": {
+            "rank": 6,
+            "raw_score": "7425047",
+            "api_source": "tianapi",
+            "translation": "Shakira's performance at the opening ceremony ignites the stadium"
+          }
+        },
+        {
+          "title": "7. 美国五角大楼被封锁",
+          "value": "指数 7331547",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81",
+          "extra": {
+            "rank": 7,
+            "raw_score": "7331547",
+            "api_source": "tianapi",
+            "translation": "The Pentagon is locked down"
+          }
+        },
+        {
+          "title": "8. 墨西哥破世界杯96年魔咒",
+          "value": "指数 7238351",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%A0%B4%E4%B8%96%E7%95%8C%E6%9D%AF96%E5%B9%B4%E9%AD%94%E5%92%92",
+          "extra": {
+            "rank": 8,
+            "raw_score": "7238351",
+            "api_source": "tianapi",
+            "translation": "Mexico breaks 96-year World Cup curse"
+          }
+        },
+        {
+          "title": "9. 小区保安长期匿名骚扰业主母女",
+          "value": "指数 7136093",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E9%95%BF%E6%9C%9F%E5%8C%BF%E5%90%8D%E9%AA%9A%E6%89%B0%E4%B8%9A%E4%B8%BB%E6%AF%8D%E5%A5%B3",
+          "extra": {
+            "rank": 9,
+            "raw_score": "7136093",
+            "api_source": "tianapi",
+            "translation": "Community security guard harasses mother and daughter anonymously for a long..."
+          }
+        },
+        {
+          "title": "10. 轮奸犯踢世界杯 日本足协沉默",
+          "value": "指数 7042884",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
+          "extra": {
+            "rank": 10,
+            "raw_score": "7042884",
+            "api_source": "tianapi",
+            "translation": "Rapist plays in World Cup; Japan Football Association silent"
+          }
+        }
+      ]
+    },
     {
       "as_of": "2026-06-11T23:17:28+08:00",
       "source": "Tencent WeChat Hot Topics",
@@ -11480,122 +11596,6 @@
           "extra": {
             "rank": 10,
             "raw_score": "7043361",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        }
-      ]
-    },
-    {
-      "as_of": "2026-05-23T14:48:44+08:00",
-      "source": "Tencent WeChat Hot Topics",
-      "items": [
-        {
-          "title": "1. 光影长卷浓缩牢不可破的中俄友谊",
-          "value": "指数 7904152",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%89%E5%BD%B1%E9%95%BF%E5%8D%B7%E6%B5%93%E7%BC%A9%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4%E7%9A%84%E4%B8%AD%E4%BF%84%E5%8F%8B%E8%B0%8A",
-          "extra": {
-            "rank": 1,
-            "raw_score": "7904152",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "2. 山西煤矿事故已致90人死亡",
-          "value": "指数 7808933",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B490%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "extra": {
-            "rank": 2,
-            "raw_score": "7808933",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "3. 山西煤矿事故企业负责人被控制",
-          "value": "指数 7712512",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6",
-          "extra": {
-            "rank": 3,
-            "raw_score": "7712512",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "4. 中国城市地下管网规模全球第一",
-          "value": "指数 7618907",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E5%9C%B0%E4%B8%8B%E7%AE%A1%E7%BD%91%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "extra": {
-            "rank": 4,
-            "raw_score": "7618907",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "5. 煤矿事故知情矿工：事发时中班下矿",
-          "value": "指数 7524460",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E7%9F%A5%E6%83%85%E7%9F%BF%E5%B7%A5%EF%BC%9A%E4%BA%8B%E5%8F%91%E6%97%B6%E4%B8%AD%E7%8F%AD%E4%B8%8B%E7%9F%BF",
-          "extra": {
-            "rank": 5,
-            "raw_score": "7524460",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "6. 武汉一高中请来6只疗愈犬陪学生解压",
-          "value": "指数 7427696",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E4%B8%AD%E8%AF%B7%E6%9D%A56%E5%8F%AA%E7%96%97%E6%84%88%E7%8A%AC%E9%99%AA%E5%AD%A6%E7%94%9F%E8%A7%A3%E5%8E%8B",
-          "extra": {
-            "rank": 6,
-            "raw_score": "7427696",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "7. 净网|这些涉柳州地震的信息是谣言",
-          "value": "指数 7330625",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%87%80%E7%BD%91%7C%E8%BF%99%E4%BA%9B%E6%B6%89%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9A%84%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
-          "extra": {
-            "rank": 7,
-            "raw_score": "7330625",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "8. 燃油车集体“骨折清仓”",
-          "value": "指数 7236375",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%87%83%E6%B2%B9%E8%BD%A6%E9%9B%86%E4%BD%93%E2%80%9C%E9%AA%A8%E6%8A%98%E6%B8%85%E4%BB%93%E2%80%9D",
-          "extra": {
-            "rank": 8,
-            "raw_score": "7236375",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "9. 4名在泰失联中国公民已被找到",
-          "value": "指数 7139313",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=4%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0",
-          "extra": {
-            "rank": 9,
-            "raw_score": "7139313",
-            "api_source": "tianapi",
-            "translation": ""
-          }
-        },
-        {
-          "title": "10. 直击山西沁源煤矿瓦斯爆炸井口现场",
-          "value": "指数 7047899",
-          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%9B%B4%E5%87%BB%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E7%85%A4%E7%9F%BF%E7%93%A6%E6%96%AF%E7%88%86%E7%82%B8%E4%BA%95%E5%8F%A3%E7%8E%B0%E5%9C%BA",
-          "extra": {
-            "rank": 10,
-            "raw_score": "7047899",
             "api_source": "tianapi",
             "translation": ""
           }
