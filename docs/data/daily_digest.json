@@ -1,64 +1,70 @@
 {
   "schema_version": 1,
   "digest_type": "evening",
-  "as_of": "2026-06-11T20:01:10+08:00",
+  "as_of": "2026-06-11T23:20:38+08:00",
   "date": "2026-06-11",
   "time_label": "Evening Brief",
-  "beijing_time": "20:00",
+  "beijing_time": "23:20",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Shenzhen stocks plunge 2.4σ below 30-day mean; Beijing jabs Japan on remilitarization, unveils rail-tourism stimulus",
-  "headline_zh": "深成指异常下挫；中方斥日本再军事化，八大部门推铁路旅游刺激",
-  "narrative": "The Shenzhen Component Index closed at 14,851.98, 2.4 standard deviations below its 30-day mean of 15,508.02, signalling severe market stress despite the SSE Composite's modest gain. The anomaly is likely driven by persistent liquidity tightness and regulatory uncertainty in the SME sector, though no direct policy trigger appeared today. Amid this, the regime maintained its assertive diplomatic posture: Foreign Ministry spokesperson Lin Jian accused Japan of 'tearing off its mask' on remilitarization, while also rolling out a joint ministerial plan to boost railway-tourism integration as a domestic demand lever. The disconnect between bourses and policy signals underscores the fragile confidence beneath the official narrative of recovery.",
-  "narrative_zh": "深证成指收报14851.98点，较30日均值15508.02低2.4个标准差，反映中小企业板块持续面临流动性紧缩与监管不确定性。同日，外交部发言人林剑指日本‘摘下面具’加速再军事化，同时八部门联合出台铁路旅游融合计划以刺激内需。股市与政策信号的背离凸显官方复苏叙事下的信心脆弱。",
-  "market_snapshot": "SSE Composite 3987.015 ▲0.70% · Shenzhen Component 14851.976 ▲0.21% · ChiNext 3811.246 ▼1.13% · USD/CNY 6.7765 ▲0.04% · USD/CNH 6.7786 ▲0.01%",
+  "headline": "Shenzhen Plunge and Regulatory Blitz Signal Shifting Priorities",
+  "headline_zh": "深证暴跌与监管密集行动，信号意义何在",
+  "narrative": "The Shenzhen Component's 2-sigma deviation below its 30-day mean is the day's most objective signal, not the viral World Cup chatter. The index's 2.06% drop, driven by ChiNext's 1.13% loss, suggests a rotation away from growth stocks. This aligns with the CSRC's new guidelines on private equity funds and the Ministry of Commerce's anti-dumping measures, both of which tighten capital and trade flows. Meanwhile, the Foreign Ministry's routine presser and the Taiwan Affairs Office's transcript underscore a diplomatic posture that remains unchanged by market noise. The real story is a Party-led recalibration: clamp down on financial speculation, push industrial policy, and maintain geopolitical lines, all while allowing soft-power narratives like World Cup referees and Xi's Korea trip to play in the background.",
+  "narrative_zh": "今日最客观的信号是深证成指较30日均线低出2个标准差，而非世界杯话题的病毒式传播。深证成指2.06%的跌幅中，创业板指下跌1.13%，暗示资金正从成长股撤离。这与证监会私募基金新规、商务部反倾销措施同步，均在收紧资本和贸易流动。与此同时，外交部例行记者会和国台办新闻发布会实录表明，外交姿态未受市场波动影响。真正的主线是党主导的再校准：遏制金融投机、推行产业政策、坚守地缘政治底线，同时允许世界杯裁判、访朝等软实力叙事在后台播放。",
+  "market_snapshot": "SSE Composite 3993.23 ▼0.42% · Shenzhen Component 14954.1 ▼2.06% · ChiNext 3811.246 ▼1.13% · USD/CNY 6.7755 ▲0.02% · USD/CNH 6.7789 ▲0.01%",
   "deviations": [
     {
       "title": "Shenzhen Component",
-      "note": "Shenzhen Component at 14,851.98 is 2.4σ below its 30-day mean (15,508.02)",
+      "note": "Shenzhen Component at 14,954.1 is 2.0σ below its 30-day mean (15,508.02)",
       "kind": "continuous",
       "flags": [
         "z_spike"
       ],
-      "z30": -2.43,
-      "severity": 2.43
+      "z30": -2.05,
+      "severity": 2.05
     }
   ],
   "themes": [
-    "Market stress",
-    "Diplomatic pushback",
-    "Domestic stimulus",
-    "Labor-capital tension",
-    "SME liquidity crunch"
+    "Market Correction",
+    "Regulatory Tightening",
+    "Trade Policy",
+    "Soft Power",
+    "Diplomatic Stance",
+    "Economic Rebalancing"
   ],
   "theme_trends": {
-    "Market stress": {
+    "Market Correction": {
       "status": "recurring",
       "days_seen": 6
     },
-    "Diplomatic pushback": {
+    "Regulatory Tightening": {
       "status": "recurring",
       "days_seen": 7
     },
-    "Domestic stimulus": {
+    "Trade Policy": {
+      "status": "recurring",
+      "days_seen": 6
+    },
+    "Soft Power": {
+      "status": "recurring",
+      "days_seen": 3
+    },
+    "Diplomatic Stance": {
       "status": "recurring",
       "days_seen": 7
     },
-    "Labor-capital tension": {
+    "Economic Rebalancing": {
       "status": "recurring",
-      "days_seen": 5
-    },
-    "SME liquidity crunch": {
-      "status": "new",
-      "days_seen": 0
+      "days_seen": 4
     }
   },
   "entities": [
-    "Shenzhen Component Index",
-    "Lin Jian",
-    "Yu Donglai",
+    "CSRC",
     "Ministry of Commerce",
-    "China Securities Regulatory Commission",
-    "State Council Taiwan Affairs Office"
+    "Shenzhen Component",
+    "ChiNext",
+    "Xi Jinping",
+    "Taiwan Affairs Office",
+    "World Cup"
   ],
   "pillars": [
     {
@@ -95,60 +101,24 @@
   "top_stories": [
     {
       "rank": 1,
-      "weight": 35.2,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot",
-        "weibo_hot"
-      ],
-      "platform_count": 3,
-      "primary_title": "于东来：胖东来员工不值这么多钱",
-      "english_title": "Yu Donglai says Pangdonglai staff don't deserve high pay",
-      "why_it_matters": "Signals a growing corporate pushback against wage expectations amid economic slowdown, risks fueling labor discontent.",
-      "why_it_matters_zh": "在经济放缓背景下，企业开始公开质疑高薪合理性，可能激化劳资矛盾。",
-      "pull_quote": "According to Baidu, Yu stated internally: 'Everyone actually doesn't deserve this much...'",
-      "pull_quote_zh": "据百度，于东来内部称：‘大家其实不值这么多钱...’",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%EF%BC%9A%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E5%80%BC%E8%BF%99%E4%B9%88%E5%A4%9A%E9%92%B1",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 6
-        },
-        {
-          "platform": "weibo_hot",
-          "rank": 5
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 6
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "weight": 32.0,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "让中华文明瑰宝永续留存、泽惠后人",
-      "english_title": "Xi Jinping emphasizes preservation of Chinese cultural heritage",
-      "why_it_matters": "Reinforces the Party's use of historical narrative for legitimacy, but adds no new policy signal.",
-      "why_it_matters_zh": "重申利用历史叙事增强政权合法性，无新政策信号。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
+      "primary_title": "友谊牢不可破",
+      "english_title": "Xi's Korea visit highlighted in viral propaganda video",
+      "why_it_matters": "Reinforces personal diplomacy with North Korea as a strategic constant, despite global focus on other regions.",
+      "why_it_matters_zh": "突出对朝个人外交的战略连续性，尽管全球目光聚焦其他地区。",
+      "pull_quote": "\"100-second video shows Xi's 'unbreakable friendship' with North Korea\"",
+      "pull_quote_zh": "\"100秒视频展示习近平与朝鲜'牢不可破的友谊'\"",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E7%91%B0%E5%AE%9D%E6%B0%B8%E7%BB%AD%E7%95%99%E5%AD%98%E3%80%81%E6%B3%BD%E6%83%A0%E5%90%8E%E4%BA%BA",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%8B%E8%B0%8A%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -161,25 +131,25 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "weight": 28.8,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "中方：日本已经摘下面具",
-      "english_title": "China says Japan has taken off its mask on remilitarization",
-      "why_it_matters": "Sharpens rhetoric ahead of possible defense policy coordination at upcoming multilateral forums, strains bilateral ties further.",
-      "why_it_matters_zh": "在多边论坛前夕升级对日批评，双边关系进一步紧张。",
-      "pull_quote": "\"Japan, while shouting 'peace' and 'defense', is on a rampage toward remilitarization, substantially expanding military spending and relaxing export of lethal weapons.\"",
-      "pull_quote_zh": "日本嘴上喊着‘和平’‘防卫’，行动上却朝着‘再军事化’狂飙突进，持续大幅扩充军费，放宽杀伤性武器出口。",
-      "pillar": "geopolitics",
-      "pillar_label": "U.S.–China & Geopolitics",
-      "pillar_label_zh": "中美关系与地缘政治",
+      "primary_title": "2026年美加墨世界杯",
+      "english_title": "2026 World Cup trending on Baidu and WeChat",
+      "why_it_matters": "Indicates public appetite for global sporting events, but no analytical signal beyond cultural consumption.",
+      "why_it_matters_zh": "显示公众对全球体育赛事的兴趣，但除文化消费外无分析信号。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E6%91%98%E4%B8%8B%E9%9D%A2%E5%85%B7",
+      "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -192,16 +162,78 @@
       ]
     },
     {
+      "rank": 3,
+      "weight": 25.6,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "世界杯迎来了最不吃压力的中国裁判",
+      "english_title": "Chinese referees and 'Made in Yiwu' elements at World Cup",
+      "why_it_matters": "Soft-power push: China compensates for men's team absence by embedding officials, products and technology into the event.",
+      "why_it_matters_zh": "软实力推动：中国队缺席，便以官员、产品和技术嵌入赛事作为补偿。",
+      "pull_quote": "\"Chinese referees, Yiwu-made merchandise, flag bearers, and tech, all present at World Cup\"",
+      "pull_quote_zh": "\"中国裁判、义乌制造、护旗手、技术，世界杯上全有\"",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 3
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 3
+        }
+      ]
+    },
+    {
       "rank": 4,
+      "weight": 22.4,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot"
+      ],
+      "platform_count": 2,
+      "primary_title": "高考报志愿 考生最关心的都在这里",
+      "english_title": "College entrance exam application guide goes viral",
+      "why_it_matters": "Annual seasonal item with no strategic import; reflects public concern with higher education choices.",
+      "why_it_matters_zh": "每年季节性话题，无战略意义；反映公众对高等教育选择的关注。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%8A%A5%E5%BF%97%E6%84%BF+%E8%80%83%E7%94%9F%E6%9C%80%E5%85%B3%E5%BF%83%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 4
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "weight": 11.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
-      "primary_title": "2026年6月10日外交部发言人林剑主持例行记者会",
-      "english_title": "Foreign Ministry spokesperson Lin Jian holds regular press conference on June 10",
-      "why_it_matters": "Routine briefing but includes sharp Japan criticism (see item 3) and likely touches on Taiwan, South China Sea.",
-      "why_it_matters_zh": "例行记者会，包含对日激烈批评，并可能涉及台湾、南海议题。",
+      "primary_title": "2026年6月11日外交部发言人林剑主持例行记者会",
+      "english_title": "Foreign Ministry spokesperson Lin Jian holds regular press conference",
+      "why_it_matters": "Standard diplomatic output; watch for any off-script remarks on trade or Taiwan, but none today.",
+      "why_it_matters_zh": "标准外交口径；注意任何关于贸易或台湾的即兴评论，但今日无。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -209,7 +241,7 @@
       "pillar_label_zh": "中美关系与地缘政治",
       "source": "外交部发言人",
       "category": "regulatory",
-      "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260610_11941616.shtml",
+      "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260611_11942454.shtml",
       "appearances": [
         {
           "platform": "gov_registry",
@@ -234,24 +266,24 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "weight": 10.0,
       "platforms": [
         "xinhua_news"
       ],
       "platform_count": 1,
-      "primary_title": "旅游列车升级版来了 8部门促铁路与旅游融合发展",
-      "english_title": "Eight ministries promote railway-tourism integration with upgraded tourist trains",
-      "why_it_matters": "Part of a push to boost domestic service consumption and infrastructure utilization amid weak consumer spending.",
-      "why_it_matters_zh": "在消费疲软背景下，通过提升铁路旅游服务刺激内需并盘活基建。",
-      "pull_quote": "Joint document from 8 units including Ministry of Commerce, Ministry of Culture and Tourism, and China State Railway Group.",
-      "pull_quote_zh": "商务部、文旅部、国铁集团等8单位联合发文。",
+      "primary_title": "墨西哥5名警察世界杯前夕遭枪杀",
+      "english_title": "5 Mexican police officers killed on eve of World Cup",
+      "why_it_matters": "",
+      "why_it_matters_zh": "",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
       "source": "",
       "category": "news",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjVEenFfUmw5NW5lUVB6d0xjdlp1NUxyRVJYblltZHdZbjJKc1k1Wm0zdmNXUGhpUE16UmZQRlQzWG9sUFVIb0wyeUQ3Uy03dFRVTjN2eElwWFh4a0hrZ0Vkb1BMY1lVcU8zRmtWU0JBdEVLd2x4RC1LVVM1WjVDNFpvOFZUaUVKTkluUlhB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qZXZyV3A2RDlHdjlRYU05dEVEWHFUZUZ3VVIzeDk5NmQ2VEc0bUJfaU8xWDMzM3dxdDcyM3ZSX1o1cDl0eEw5alFsSDhXMWZfQnZINGthQkFWY1VoYkZGbWJ0U0t5NXZhMzZLS1QwVGthclF3RjZfSVB6a3JEOEE?oc=5",
       "appearances": [
         {
           "platform": "xinhua_news",
@@ -260,16 +292,42 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "weight": 10.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "人民日报图文数据库（1946-2026）",
+      "english_title": "People's Daily launches full-text database 1946-2026",
+      "why_it_matters": "Institutional move to cement historical narrative control; provides searchable archive for propaganda research.",
+      "why_it_matters_zh": "机构性举措以巩固历史叙事控制；为宣传研究提供可检索档案。",
+      "pull_quote": "\"Database spans 80 years of official coverage\"",
+      "pull_quote_zh": "\"数据库涵盖80年官方报道\"",
+      "pillar": "politics",
+      "pillar_label": "High Politics & Ideology",
+      "pillar_label_zh": "高层政治与意识形态",
+      "source": "People's Daily",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1pVWJKRXlxSjNSVC0yRGJsRHdUbDRBNzdNc2hDV3VJcFdKQmhsT0oxbnh6Q3E2cEVWcERrYm0xWWs?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "weight": 10.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
-      "english_title": "Eight departments issue measures to promote railway-tourism integration and expand service consumption",
-      "why_it_matters": "Detailed policy document underlying item 6; specific measures could include subsidies or regulatory easing for rail tourism.",
-      "why_it_matters_zh": "第6条的政策细节，可能包含补贴或监管松绑的具体措施。",
+      "english_title": "Eight ministries promote railway-tourism integration",
+      "why_it_matters": "Targets domestic consumption and infrastructure utilization, part of broader service sector stimulus.",
+      "why_it_matters_zh": "瞄准国内消费和基础设施利用，是更广泛服务业刺激的一部分。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "economy",
@@ -286,18 +344,44 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "weight": 9.0,
+      "platforms": [
+        "xinhua_news"
+      ],
+      "platform_count": 1,
+      "primary_title": "7家涉火车票销售第三方平台被约谈",
+      "english_title": "Seven third-party train ticket platforms summoned for talks",
+      "why_it_matters": "Signals tighter oversight of digital platforms that intermediate state services, a recurring regulatory theme.",
+      "why_it_matters_zh": "信号：对中介国家服务的数字平台加强监管，这是反复出现的监管主题。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "regulatory",
+      "pillar_label": "Regulatory Watch",
+      "pillar_label_zh": "监管动态",
+      "source": "",
+      "category": "news",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CeEFLUEJHbjdFX0R5WHZMSm9MRHA2SUNDaElvV3ZUNmx1LTlGRnFNOFJJajhvSlp5ejlCMUlpRXdrbGhyZVBtS09BZkJEVTUtWXZnRXdEbnVTVFBJVVg2T3RtV0VCbE9peDRKRS1ZYXRpQURIVlZlNUt1ZHBwZw?oc=5",
+      "appearances": [
+        {
+          "platform": "xinhua_news",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "weight": 9.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-      "english_title": "Anti-dumping duty rate inheritance decision on POM imports from Korea, Thailand, Malaysia",
-      "why_it_matters": "Targeted trade remedy action likely to impact chemical supply chains and signal continued trade friction with ASEAN.",
-      "why_it_matters_zh": "针对性贸易救济措施，影响化工供应链，显示与东盟贸易摩擦延续。",
-      "pull_quote": "Announcement No. 22 of 2026 by Ministry of Commerce.",
-      "pull_quote_zh": "商务部2026年第22号公告。",
+      "english_title": "Anti-dumping duties on polyoxymethylene imports from Korea, Thailand, Malaysia",
+      "why_it_matters": "Protects domestic chemical industry; consistent with trend of targeted trade remedies against non-Western producers.",
+      "why_it_matters_zh": "保护国内化工行业；与对非西方生产商采取定向贸易救济的趋势一致。",
+      "pull_quote": "\"Duty rates adjusted for specific companies\"",
+      "pull_quote_zh": "\"对特定公司调整税率\"",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
@@ -312,21 +396,21 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 11,
       "weight": 8.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-      "english_title": "Five ministries adjust export control catalogue for precursor chemicals to specific countries",
-      "why_it_matters": "Indicates tightening of export controls on dual-use chemicals, possibly linked to international pressure or domestic security priorities.",
-      "why_it_matters_zh": "收紧易制毒化学品出口管制，可能与国际压力或国内安全优先有关。",
+      "english_title": "Revised export control list for precursor chemicals to certain countries",
+      "why_it_matters": "Aligns with international narcotics control obligations and may signal growing role in chemical trade governance.",
+      "why_it_matters_zh": "与国际禁毒义务一致，可能显示在化学品贸易治理中的作用增强。",
       "pull_quote": "",
       "pull_quote_zh": "",
-      "pillar": "regulatory",
-      "pillar_label": "Regulatory Watch",
-      "pillar_label_zh": "监管动态",
+      "pillar": "economy",
+      "pillar_label": "Economy & Markets",
+      "pillar_label_zh": "经济与市场",
       "source": "商务部",
       "category": "regulatory",
       "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
@@ -338,16 +422,16 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 12,
       "weight": 5.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
-      "english_title": "State Council Taiwan Affairs Office holds press conference on June 10",
-      "why_it_matters": "Likely reiterates opposition to Taiwan independence and any foreign interference; key for cross-strait tension monitoring.",
-      "why_it_matters_zh": "重申反对台独和外部干涉；是监测台海紧张的关键。",
+      "english_title": "Taiwan Affairs Office press conference transcript released",
+      "why_it_matters": "Reiterates red lines on cross-strait relations; no new policy shifts detected.",
+      "why_it_matters_zh": "重申两岸关系红线；未发现政策转变。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -380,18 +464,48 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 13,
+      "weight": 2.0,
+      "platforms": [
+        "elite_press"
+      ],
+      "platform_count": 1,
+      "primary_title": "AI English learning product \"Pocket Pilot Foreign Teacher\" completes Series A financing of tens of millions of yuan-36氪",
+      "english_title": "AI English learning app 'Pocket Pilot Foreign Teacher' raises tens of millions in Series A",
+      "why_it_matters": "Edtech remains a viable venture segment, especially AI-driven tools, despite regulatory overhang.",
+      "why_it_matters_zh": "尽管监管阴影犹存，教育科技仍是可行风险投资领域，尤其是AI驱动工具。",
+      "pull_quote": "\"Series A funding round of tens of millions of yuan\"",
+      "pull_quote_zh": "\"数千万元A轮融资\"",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "pillar_label_zh": "产业、科技与工业政策",
+      "source": "36Kr",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KR1dkRmhfc21OazhiTVpwVjA0eUN1Y3RxTkF4RzQ5U3JkOUhMNW9LMXJMd2ZnZXM1TEtIYzRzdFAzMnEzU1Byd1hsX3RYV0EzeEx2bWpfQlYtNmNod2E5aw?oc=5",
+      "appearances": [
+        {
+          "platform": "elite_press",
+          "rank": 26
+        },
+        {
+          "platform": "elite_press",
+          "rank": 27
+        }
+      ]
+    },
+    {
+      "rank": 14,
       "weight": 2.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
-      "english_title": "Vice Foreign Minister Miao Deyu meets South Africa's Director-General of Foreign Affairs",
-      "why_it_matters": "Strengthens diplomatic ties with BRICS partner; discusses bilateral cooperation, possibly trade and multilateral coordination.",
-      "why_it_matters_zh": "巩固金砖伙伴关系；讨论双边合作，可能涉及贸易和多边协调。",
-      "pull_quote": "Meeting held on June 7, 2026.",
-      "pull_quote_zh": "会议于2026年6月7日举行。",
+      "english_title": "Vice Foreign Minister Miao Deyu meets South African Director-General",
+      "why_it_matters": "Routine diplomatic engagement, but part of broader push to strengthen ties with Global South.",
+      "why_it_matters_zh": "例行外交接触，但属于加强与全球南方关系的更广泛努力。",
+      "pull_quote": "\"Meeting held on June 7, 2026\"",
+      "pull_quote_zh": "\"会议于2026年6月7日举行\"",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
@@ -410,18 +524,18 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 15,
       "weight": 2.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-      "english_title": "CSRC spokesperson comments on State Council guidance for private equity fund high-quality development",
-      "why_it_matters": "Signals tighter oversight and push for professionalization in private equity, reflecting broader regulatory tightening in financial sector.",
-      "why_it_matters_zh": "显示对私募基金加强监管和专业化要求，反映金融领域监管收紧趋势。",
-      "pull_quote": "Guidelines emphasize risk prevention and high-quality development.",
-      "pull_quote_zh": "指导意见强调防范风险与高质量发展。",
+      "english_title": "CSRC elaborates on new guidelines for private equity funds",
+      "why_it_matters": "Part of ongoing effort to rein in shadow banking and leverage risks in the asset management industry.",
+      "why_it_matters_zh": "持续遏制影子银行和资产管理行业杠杆风险的努力的一部分。",
+      "pull_quote": "\"State Council guidelines aim to prevent risks and promote high-quality development of private equity\"",
+      "pull_quote_zh": "\"国务院指导意见旨在防范风险、促进私募基金高质量发展\"",
       "pillar": "regulatory",
       "pillar_label": "Regulatory Watch",
       "pillar_label_zh": "监管动态",
@@ -440,16 +554,16 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 16,
       "weight": 1.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
-      "primary_title": "AI English learning product \"Pocket Pilot Foreign Teacher\" completes Series A financing of tens of millions of yuan-36氪",
-      "english_title": "AI English learning product Pocket Pilot Foreign Teacher closes tens of millions Series A",
-      "why_it_matters": "Indicates continued VC interest in AI education but small scale; reflects broader trend of AI application in EdTech amid regulatory caution.",
-      "why_it_matters_zh": "显示AI教育赛道仍受资本关注但规模不大；反映监管谨慎背景下AI教育应用趋势。",
+      "primary_title": "请完成下列验证后继续 - 36 36kr",
+      "english_title": "Please Complete the Following Verification to Continue - 36Kr",
+      "why_it_matters": "",
+      "why_it_matters_zh": "",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "tech",
@@ -457,11 +571,11 @@
       "pillar_label_zh": "产业、科技与工业政策",
       "source": "36Kr",
       "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KR1dkRmhfc21OazhiTVpwVjA0eUN1Y3RxTkF4RzQ5U3JkOUhMNW9LMXJMd2ZnZXM1TEtIYzRzdFAzMnEzU1Byd1hsX3RYV0EzeEx2bWpfQlYtNmNod2E5aw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PcHhEV3VBZUc0bnVCYmxqaTNSMmc2NEYxRWR4Tm1uOGRKalp6djlZVEhsT3JkMW1MV1dmTW9kNE5qZUVsdmdHaWxDSQ?oc=5",
       "appearances": [
         {
           "platform": "elite_press",
-          "rank": 26
+          "rank": 25
         }
       ]
     }

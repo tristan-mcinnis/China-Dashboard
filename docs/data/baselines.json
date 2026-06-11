@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-06-11T20:00:35+08:00",
+  "as_of": "2026-06-11T23:20:03+08:00",
   "source": "Neon archive baselines (30/90-day)",
   "items": [
     {
@@ -201,7 +201,7 @@
     },
     {
       "title": "Copper",
-      "value": 6.25,
+      "value": 6.27,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -210,15 +210,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 6,
-          "mean": 6.2717,
-          "std": 0.0584,
+          "mean": 6.275,
+          "std": 0.0565,
           "min": 6.18,
           "max": 6.35
         },
         "baseline_90d": {
           "days": 6,
-          "mean": 6.2717,
-          "std": 0.0584,
+          "mean": 6.275,
+          "std": 0.0565,
           "min": 6.18,
           "max": 6.35
         },
@@ -231,7 +231,7 @@
     },
     {
       "title": "Crude (Brent)",
-      "value": 91.8,
+      "value": 92.82,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -240,16 +240,16 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 6,
-          "mean": 93.9767,
-          "std": 1.2629,
-          "min": 92.11,
+          "mean": 93.7217,
+          "std": 1.5,
+          "min": 91.8,
           "max": 95.74
         },
         "baseline_90d": {
           "days": 6,
-          "mean": 93.9767,
-          "std": 1.2629,
-          "min": 92.11,
+          "mean": 93.7217,
+          "std": 1.5,
+          "min": 91.8,
           "max": 95.74
         },
         "z30": null,
@@ -261,7 +261,7 @@
     },
     {
       "title": "Crude (WTI)",
-      "value": 88.88,
+      "value": 90.34,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -270,15 +270,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 6,
-          "mean": 91.1067,
-          "std": 1.4244,
+          "mean": 90.8583,
+          "std": 1.6442,
           "min": 88.79,
           "max": 93.16
         },
         "baseline_90d": {
           "days": 6,
-          "mean": 91.1067,
-          "std": 1.4244,
+          "mean": 90.8583,
+          "std": 1.6442,
           "min": 88.79,
           "max": 93.16
         },
@@ -291,7 +291,7 @@
     },
     {
       "title": "EUR/CNY",
-      "value": 7.8184,
+      "value": 7.8028,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -300,19 +300,19 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 7.8746,
-          "std": 0.0409,
+          "mean": 7.8743,
+          "std": 0.0412,
           "min": 7.7858,
           "max": 7.956
         },
         "baseline_90d": {
           "days": 91,
-          "mean": 7.945,
-          "std": 0.0613,
+          "mean": 7.9449,
+          "std": 0.0616,
           "min": 7.7858,
           "max": 8.0436
         },
-        "z30": -1.37,
+        "z30": -1.74,
         "flags": [],
         "note": ""
       }
@@ -347,7 +347,7 @@
     },
     {
       "title": "Gold",
-      "value": 4104.4,
+      "value": 4097.0,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -356,15 +356,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 6,
-          "mean": 4254.7,
-          "std": 117.1483,
+          "mean": 4251.0,
+          "std": 121.4089,
           "min": 4064.4,
           "max": 4365.3
         },
         "baseline_90d": {
           "days": 6,
-          "mean": 4254.7,
-          "std": 117.1483,
+          "mean": 4251.0,
+          "std": 121.4089,
           "min": 4064.4,
           "max": 4365.3
         },
@@ -687,7 +687,7 @@
     },
     {
       "title": "SSE Composite",
-      "value": 3987.015,
+      "value": 3993.23,
       "url": "",
       "extra": {
         "feed": "indices",
@@ -708,7 +708,7 @@
           "min": 3813.283,
           "max": 4242.572
         },
-        "z30": -1.8,
+        "z30": -1.69,
         "flags": [],
         "note": ""
       }
@@ -771,7 +771,7 @@
     },
     {
       "title": "Shenzhen Component",
-      "value": 14851.976,
+      "value": 14954.1,
       "url": "",
       "extra": {
         "feed": "indices",
@@ -792,11 +792,11 @@
           "min": 13345.514,
           "max": 16089.749
         },
-        "z30": -2.43,
+        "z30": -2.05,
         "flags": [
           "z_spike"
         ],
-        "note": "Shenzhen Component at 14,851.98 is 2.4σ below its 30-day mean (15,508.02)"
+        "note": "Shenzhen Component at 14,954.1 is 2.0σ below its 30-day mean (15,508.02)"
       }
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "title": "USD/CNH",
-      "value": 6.7786,
+      "value": 6.7789,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -866,26 +866,26 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 6.7856,
-          "std": 0.0149,
+          "mean": 6.7857,
+          "std": 0.0148,
           "min": 6.762,
           "max": 6.8156
         },
         "baseline_90d": {
           "days": 91,
           "mean": 6.8303,
-          "std": 0.0456,
+          "std": 0.0455,
           "min": 6.762,
           "max": 6.9181
         },
-        "z30": -0.47,
+        "z30": -0.46,
         "flags": [],
         "note": ""
       }
     },
     {
       "title": "USD/CNY",
-      "value": 6.7765,
+      "value": 6.7755,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -894,7 +894,7 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 6.7829,
+          "mean": 6.783,
           "std": 0.0155,
           "min": 6.7617,
           "max": 6.8139
@@ -906,7 +906,7 @@
           "min": 6.7617,
           "max": 6.9114
         },
-        "z30": -0.41,
+        "z30": -0.48,
         "flags": [],
         "note": ""
       }
@@ -922,9 +922,9 @@
       "flags": [
         "z_spike"
       ],
-      "z30": -2.43,
-      "severity": 2.43,
-      "note": "Shenzhen Component at 14,851.98 is 2.4σ below its 30-day mean (15,508.02)"
+      "z30": -2.05,
+      "severity": 2.05,
+      "note": "Shenzhen Component at 14,954.1 is 2.0σ below its 30-day mean (15,508.02)"
     }
   ],
   "notes": "Per-indicator baselines computed from this project's own Neon archive. deviations[] ranks what is statistically abnormal right now: z_spike = |z| >= 2.0 vs winsorized 30-day mean; range_high/low = outside the 90-day range; new_print = a step series (policy rate, monthly print) just changed. Series flagged baseline_building have too little history for reliable z-scores."

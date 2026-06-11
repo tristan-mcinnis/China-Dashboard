@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T20:01:10+08:00",
+  "updated_at": "2026-06-11T23:20:38+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1792,9 +1792,29 @@
       ]
     },
     "regulatory tightening": {
-      "label": "Regulatory tightening",
-      "count": 8,
+      "label": "Regulatory Tightening",
+      "count": 10,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "AI English learning product \"Pocket Pilot Foreign Teacher\" completes Series A financing of tens of millions of yuan-36氪",
+          "english_title": "AI English learning app 'Pocket Pilot Foreign Teacher' raises tens of millions in Series A",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KR1dkRmhfc21OazhiTVpwVjA0eUN1Y3RxTkF4RzQ5U3JkOUhMNW9LMXJMd2ZnZXM1TEtIYzRzdFAzMnEzU1Byd1hsX3RYV0EzeEx2bWpfQlYtNmNod2E5aw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "7家涉火车票销售第三方平台被约谈",
+          "english_title": "Seven third-party train ticket platforms summoned for talks",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CeEFLUEJHbjdFX0R5WHZMSm9MRHA2SUNDaElvV3ZUNmx1LTlGRnFNOFJJajhvSlp5ejlCMUlpRXdrbGhyZVBtS09BZkJEVTUtWXZnRXdEbnVTVFBJVVg2T3RtV0VCbE9peDRKRS1ZYXRpQURIVlZlNUt1ZHBwZw?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
         {
           "date": "2026-06-11",
           "title": "全国小麦收获进度已过七成",
@@ -6266,9 +6286,39 @@
       ]
     },
     "trade policy": {
-      "label": "trade policy",
-      "count": 6,
+      "label": "Trade Policy",
+      "count": 9,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Revised export control list for precursor chemicals to certain countries",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Anti-dumping duties on polyoxymethylene imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "2026年6月11日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260611_11942454.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-09",
           "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
@@ -8465,9 +8515,20 @@
       ]
     },
     "market correction": {
-      "label": "Market correction",
-      "count": 1,
+      "label": "Market Correction",
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "友谊牢不可破",
+          "english_title": "Xi's Korea visit highlighted in viral propaganda video",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8B%E8%B0%8A%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-11",
           "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
@@ -8612,6 +8673,66 @@
             "baidu_top",
             "tencent_wechat_hot",
             "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "soft power": {
+      "label": "Soft Power",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "世界杯迎来了最不吃压力的中国裁判",
+          "english_title": "Chinese referees and 'Made in Yiwu' elements at World Cup",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "diplomatic stance": {
+      "label": "Diplomatic Stance",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
+          "english_title": "Vice Foreign Minister Miao Deyu meets South African Director-General",
+          "url": "https://www.mfa.gov.cn/web/wjbxw_new/202606/t20260607_11939033.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "2026年6月11日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260611_11942454.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "economic rebalancing": {
+      "label": "Economic Rebalancing",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "友谊牢不可破",
+          "english_title": "Xi's Korea visit highlighted in viral propaganda video",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8B%E8%B0%8A%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
           ],
           "category": "social"
         }
