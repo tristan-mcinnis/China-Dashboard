@@ -14,7 +14,7 @@ Everything below is served from https://china-dashboard.vercel.app (mirror: raw.
 ## Key feeds
 
 - [Government & regulatory registry](https://china-dashboard.vercel.app/data/gov_registry.json): same-day items from 14 official channels (MOFCOM, MFA, Taiwan Affairs Office, PBOC, MOF, CSRC, CAC, NDRC, NEA, MCA, CIPS, SAFE, State Council EN) plus the US Federal Register, bilingual and pillar-tagged
-- [Elite press](https://china-dashboard.vercel.app/data/elite_press.json): party organs, Chinese financial/tech media, and Western elite press on China, bilingual and pillar-tagged
+- [Elite press](https://china-dashboard.vercel.app/data/elite_press.json): party organs, Chinese financial/tech media, English-facing Chinese state media (China Daily, CGTN, Global Times), Sixth Tone, and Western elite press on China, bilingual and pillar-tagged
 - [Markets & macro](https://china-dashboard.vercel.app/data/endpoints.json): indices, CNY FX, commodities, PBOC rates, NBS monthly (CPI/PPI/PMI), trade, 70-city property — see the manifest for each feed URL
 - [Baselines & deviation watch](https://china-dashboard.vercel.app/data/baselines.json): every numeric indicator scored against its own 30/90-day archive baseline — `deviations[]` ranks what is statistically abnormal right now (z-spikes, range breaks, fresh policy/monthly prints); the same signal feeds the digest's deviation watch
 - [Trending topics](https://china-dashboard.vercel.app/data/endpoints.json): Baidu, Weibo, and WeChat hot lists with English translations — see the manifest

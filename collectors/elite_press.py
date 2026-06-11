@@ -6,6 +6,8 @@ Pulls headlines from the source families that a serious China brief is built on:
   * Domestic financial media        -> ``economy``    (Caixin, Yicai, 21CBH)
   * Tech / industry media           -> ``tech``       (36Kr, Jiemian)
   * Western elite press on China    -> ``geopolitics``(FT, WSJ, Bloomberg, Reuters, SCMP)
+  * Chinese state media (English)   -> ``geopolitics``(China Daily, CGTN, Global Times)
+  * English society/culture desk    -> ``society``    (Sixth Tone)
 
 Each feed is tagged with a provisional ``pillar`` so the daily digest can group
 items into thematic blocks. The official mainland feeds reject non-mainland IPs
@@ -94,6 +96,16 @@ FEEDS = [
     ("Bloomberg", "", "geopolitics", "en", '"China" site:bloomberg.com when:2d'),
     ("Reuters", "", "geopolitics", "en", "China site:reuters.com when:2d"),
     ("South China Morning Post", "", "geopolitics", "en", "China site:scmp.com when:2d"),
+    # --- Chinese state media, English-facing -> geopolitics -------------------
+    # The official English framing aimed at the world (diff it against the
+    # Western desks above). Their own native RSS is dead/frozen — China Daily
+    # stuck in 2017, CGTN ~2 months stale, Global Times 404 — so, like every
+    # source here, they ride the Google News proxy, which stays fresh.
+    ("China Daily", "中国日报", "geopolitics", "en", "site:chinadaily.com.cn when:2d"),
+    ("CGTN", "中国国际电视台", "geopolitics", "en", "site:cgtn.com when:2d"),
+    ("Global Times", "环球时报", "geopolitics", "en", "site:globaltimes.cn when:2d"),
+    # --- English society / culture desk -> society ----------------------------
+    ("Sixth Tone", "第六声", "society", "en", "site:sixthtone.com when:2d"),
 ]
 
 
