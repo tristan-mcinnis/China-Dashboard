@@ -216,6 +216,11 @@ function renderBrief() {
     li.appendChild(el("span", "mname", esc(m.name))); li.appendChild(el("span", "mval", esc(m.value)));
     if (m.arrow) li.appendChild(el("span", `mdelta ${m.arrow === "▲" ? "up" : "down"}`, `${m.arrow}${esc(m.delta)}`)); mlist.appendChild(li); }); }
   else mblk.hidden = true;
+  // sidebar: deviation watch (abnormal vs our own archive baselines)
+  const dblk = $("#brief-deviations-blk"), dlist = $("#brief-deviations-list"); dlist.innerHTML = "";
+  const devs = d.deviations || [];
+  if (devs.length) { dblk.hidden = false; devs.forEach(v => dlist.appendChild(el("li", "", esc(v.note || "")))); }
+  else dblk.hidden = true;
   // sidebar: entities
   const eblk = $("#brief-entities-blk"), ebox = $("#brief-entities"); ebox.innerHTML = ""; const ents = d.entities || [];
   if (ents.length) { eblk.hidden = false; ents.forEach(name => { const b = el("button", "entity", esc(name)); b.addEventListener("click", () => openTagView(name)); ebox.appendChild(b); }); }

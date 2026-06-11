@@ -1,0 +1,944 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-06-11T09:59:57+08:00",
+  "source": "Neon archive baselines (30/90-day)",
+  "items": [
+    {
+      "title": "1Y LPR",
+      "value": 3.1,
+      "url": "",
+      "extra": {
+        "feed": "pboc_rates",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 3.1,
+          "std": 0.0,
+          "min": 3.1,
+          "max": 3.1
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 3.1,
+          "std": 0.0,
+          "min": 3.1,
+          "max": 3.1
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "5Y LPR",
+      "value": 3.6,
+      "url": "",
+      "extra": {
+        "feed": "pboc_rates",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 3.6,
+          "std": 0.0,
+          "min": 3.6,
+          "max": 3.6
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 3.6,
+          "std": 0.0,
+          "min": 3.6,
+          "max": 3.6
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "7D Reverse Repo",
+      "value": 1.5,
+      "url": "",
+      "extra": {
+        "feed": "pboc_rates",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 1.5,
+          "std": 0.0,
+          "min": 1.5,
+          "max": 1.5
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 1.5,
+          "std": 0.0,
+          "min": 1.5,
+          "max": 1.5
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Beijing New Home YoY",
+      "value": -2.3,
+      "url": "",
+      "extra": {
+        "feed": "property",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 10,
+          "mean": -2.18,
+          "std": 0.199,
+          "min": -2.3,
+          "max": -1.8
+        },
+        "baseline_90d": {
+          "days": 10,
+          "mean": -2.18,
+          "std": 0.199,
+          "min": -2.3,
+          "max": -1.8
+        },
+        "z30": -0.6,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "CN 10Y Yield",
+      "value": 1.65,
+      "url": "",
+      "extra": {
+        "feed": "pboc_rates",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 1.65,
+          "std": 0.0,
+          "min": 1.65,
+          "max": 1.65
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 1.65,
+          "std": 0.0,
+          "min": 1.65,
+          "max": 1.65
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "CPI YoY",
+      "value": 1.2,
+      "url": "",
+      "extra": {
+        "feed": "nbs_monthly",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 1.2,
+          "std": 0.0,
+          "min": 1.2,
+          "max": 1.2
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 1.1622,
+          "std": 0.1243,
+          "min": 1.0,
+          "max": 1.3
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "ChiNext",
+      "value": 3854.7935,
+      "url": "",
+      "extra": {
+        "feed": "indices",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 3972.9195,
+          "std": 75.8267,
+          "min": 3811.785,
+          "max": 4125.0747
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 3643.1491,
+          "std": 291.7225,
+          "min": 3149.596,
+          "max": 4125.0747
+        },
+        "z30": -1.56,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Copper",
+      "value": 6.18,
+      "url": "",
+      "extra": {
+        "feed": "commodities",
+        "unit": "USD/lb",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 5,
+          "mean": 6.28,
+          "std": 0.0607,
+          "min": 6.18,
+          "max": 6.35
+        },
+        "baseline_90d": {
+          "days": 5,
+          "mean": 6.28,
+          "std": 0.0607,
+          "min": 6.18,
+          "max": 6.35
+        },
+        "z30": null,
+        "flags": [
+          "baseline_building"
+        ],
+        "note": ""
+      }
+    },
+    {
+      "title": "Crude (Brent)",
+      "value": 95.26,
+      "url": "",
+      "extra": {
+        "feed": "commodities",
+        "unit": "USD/bbl",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 5,
+          "mean": 94.106,
+          "std": 1.3467,
+          "min": 92.11,
+          "max": 95.74
+        },
+        "baseline_90d": {
+          "days": 5,
+          "mean": 94.106,
+          "std": 1.3467,
+          "min": 92.11,
+          "max": 95.74
+        },
+        "z30": null,
+        "flags": [
+          "baseline_building"
+        ],
+        "note": ""
+      }
+    },
+    {
+      "title": "Crude (WTI)",
+      "value": 92.39,
+      "url": "",
+      "extra": {
+        "feed": "commodities",
+        "unit": "USD/bbl",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 5,
+          "mean": 91.254,
+          "std": 1.5181,
+          "min": 88.79,
+          "max": 93.16
+        },
+        "baseline_90d": {
+          "days": 5,
+          "mean": 91.254,
+          "std": 1.5181,
+          "min": 88.79,
+          "max": 93.16
+        },
+        "z30": null,
+        "flags": [
+          "baseline_building"
+        ],
+        "note": ""
+      }
+    },
+    {
+      "title": "EUR/CNY",
+      "value": 7.8141,
+      "url": "",
+      "extra": {
+        "feed": "fx",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 7.8799,
+          "std": 0.0438,
+          "min": 7.7858,
+          "max": 7.9708
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 7.9464,
+          "std": 0.0603,
+          "min": 7.7858,
+          "max": 8.0436
+        },
+        "z30": -1.5,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Exports YoY",
+      "value": 19.4,
+      "url": "",
+      "extra": {
+        "feed": "trade_data",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 9.7867,
+          "std": 3.9918,
+          "min": 7.1,
+          "max": 19.4
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 7.8778,
+          "std": 2.1999,
+          "min": 7.1,
+          "max": 19.4
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Gold",
+      "value": 4064.4,
+      "url": "",
+      "extra": {
+        "feed": "commodities",
+        "unit": "USD/oz",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 5,
+          "mean": 4280.32,
+          "std": 111.9382,
+          "min": 4064.4,
+          "max": 4365.3
+        },
+        "baseline_90d": {
+          "days": 5,
+          "mean": 4280.32,
+          "std": 111.9382,
+          "min": 4064.4,
+          "max": 4365.3
+        },
+        "z30": null,
+        "flags": [
+          "baseline_building"
+        ],
+        "note": ""
+      }
+    },
+    {
+      "title": "Guangzhou New Home YoY",
+      "value": -4.4,
+      "url": "",
+      "extra": {
+        "feed": "property",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 10,
+          "mean": -5.28,
+          "std": 1.525,
+          "min": -8.3,
+          "max": -4.4
+        },
+        "baseline_90d": {
+          "days": 10,
+          "mean": -5.28,
+          "std": 1.525,
+          "min": -8.3,
+          "max": -4.4
+        },
+        "z30": 0.58,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Imports YoY",
+      "value": 27.4,
+      "url": "",
+      "extra": {
+        "feed": "trade_data",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 9.24,
+          "std": 11.6632,
+          "min": 1.0,
+          "max": 27.4
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 3.7,
+          "std": 7.6368,
+          "min": 1.0,
+          "max": 27.4
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Iron Ore",
+      "value": 161.91,
+      "url": "",
+      "extra": {
+        "feed": "commodities",
+        "unit": "USD/t",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 5,
+          "mean": 161.91,
+          "std": 0.0,
+          "min": 161.91,
+          "max": 161.91
+        },
+        "baseline_90d": {
+          "days": 5,
+          "mean": 161.91,
+          "std": 0.0,
+          "min": 161.91,
+          "max": 161.91
+        },
+        "z30": null,
+        "flags": [
+          "baseline_building"
+        ],
+        "note": ""
+      }
+    },
+    {
+      "title": "JPY/CNY",
+      "value": 0.0421,
+      "url": "",
+      "extra": {
+        "feed": "fx",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 0.0425,
+          "std": 0.0003,
+          "min": 0.0421,
+          "max": 0.043
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 0.0429,
+          "std": 0.0004,
+          "min": 0.0421,
+          "max": 0.0437
+        },
+        "z30": -1.33,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "MLF",
+      "value": 2.5,
+      "url": "",
+      "extra": {
+        "feed": "pboc_rates",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 2.5,
+          "std": 0.0,
+          "min": 2.5,
+          "max": 2.5
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 2.5,
+          "std": 0.0,
+          "min": 2.5,
+          "max": 2.5
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "New Home Prices MoM",
+      "value": -0.2,
+      "url": "",
+      "extra": {
+        "feed": "property",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 10,
+          "mean": -0.31,
+          "std": 0.1972,
+          "min": -0.7,
+          "max": -0.2
+        },
+        "baseline_90d": {
+          "days": 10,
+          "mean": -0.31,
+          "std": 0.1972,
+          "min": -0.7,
+          "max": -0.2
+        },
+        "z30": 0.56,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "New Home Prices YoY",
+      "value": -3.7,
+      "url": "",
+      "extra": {
+        "feed": "property",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": -4.2667,
+          "std": 0.3609,
+          "min": -4.5,
+          "max": -3.5
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": -4.4244,
+          "std": 0.2282,
+          "min": -4.5,
+          "max": -3.5
+        },
+        "z30": null,
+        "flags": [
+          "new_print"
+        ],
+        "note": "New Home Prices YoY moved -4.3 → -3.7"
+      }
+    },
+    {
+      "title": "PMI Manufacturing",
+      "value": 50.0,
+      "url": "",
+      "extra": {
+        "feed": "nbs_monthly",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 50.19,
+          "std": 0.1446,
+          "min": 50.0,
+          "max": 50.3
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 50.0367,
+          "std": 0.532,
+          "min": 49.0,
+          "max": 50.4
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "PMI Non-Manufacturing",
+      "value": 50.1,
+      "url": "",
+      "extra": {
+        "feed": "nbs_monthly",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 49.6567,
+          "std": 0.3373,
+          "min": 49.4,
+          "max": 50.1
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 49.7389,
+          "std": 0.3322,
+          "min": 49.4,
+          "max": 50.1
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "RRR",
+      "value": 9.5,
+      "url": "",
+      "extra": {
+        "feed": "pboc_rates",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 9.5,
+          "std": 0.0,
+          "min": 9.5,
+          "max": 9.5
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 9.5,
+          "std": 0.0,
+          "min": 9.5,
+          "max": 9.5
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Resale Prices YoY",
+      "value": -6.2,
+      "url": "",
+      "extra": {
+        "feed": "property",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 10,
+          "mean": -6.48,
+          "std": 0.5115,
+          "min": -7.5,
+          "max": -6.2
+        },
+        "baseline_90d": {
+          "days": 10,
+          "mean": -6.48,
+          "std": 0.5115,
+          "min": -7.5,
+          "max": -6.2
+        },
+        "z30": 0.55,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "SSE Composite",
+      "value": 3993.226,
+      "url": "",
+      "extra": {
+        "feed": "indices",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 4098.0862,
+          "std": 59.2959,
+          "min": 3959.338,
+          "max": 4242.572
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 4048.9136,
+          "std": 89.4094,
+          "min": 3813.283,
+          "max": 4242.572
+        },
+        "z30": -1.77,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "STAR 50",
+      "value": 1652.2241,
+      "url": "",
+      "extra": {
+        "feed": "indices",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 1740.0512,
+          "std": 63.4596,
+          "min": 1596.5656,
+          "max": 1896.037
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 1518.5446,
+          "std": 185.2251,
+          "min": 1256.21,
+          "max": 1896.037
+        },
+        "z30": -1.38,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Shanghai New Home YoY",
+      "value": 3.7,
+      "url": "",
+      "extra": {
+        "feed": "property",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 10,
+          "mean": 3.91,
+          "std": 0.33,
+          "min": 3.7,
+          "max": 4.5
+        },
+        "baseline_90d": {
+          "days": 10,
+          "mean": 3.91,
+          "std": 0.33,
+          "min": 3.7,
+          "max": 4.5
+        },
+        "z30": -0.64,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Shenzhen Component",
+      "value": 14954.101,
+      "url": "",
+      "extra": {
+        "feed": "indices",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 15543.8511,
+          "std": 237.4057,
+          "min": 14821.187,
+          "max": 16089.749
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 14800.0233,
+          "std": 791.5272,
+          "min": 13345.514,
+          "max": 16089.749
+        },
+        "z30": -2.48,
+        "flags": [
+          "z_spike"
+        ],
+        "note": "Shenzhen Component at 14,954.1 is 2.5σ below its 30-day mean (15,543.85)"
+      }
+    },
+    {
+      "title": "Shenzhen New Home YoY",
+      "value": -5.3,
+      "url": "",
+      "extra": {
+        "feed": "property",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 10,
+          "mean": -5.76,
+          "std": 0.8237,
+          "min": -7.4,
+          "max": -5.3
+        },
+        "baseline_90d": {
+          "days": 10,
+          "mean": -5.76,
+          "std": 0.8237,
+          "min": -7.4,
+          "max": -5.3
+        },
+        "z30": 0.56,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "Trade Balance",
+      "value": 105.4,
+      "url": "",
+      "extra": {
+        "feed": "trade_data",
+        "unit": "",
+        "kind": "step",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 99.5067,
+          "std": 8.8697,
+          "min": 84.8,
+          "max": 105.4
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 103.0222,
+          "std": 5.6917,
+          "min": 84.8,
+          "max": 105.4
+        },
+        "z30": null,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "USD/CNH",
+      "value": 6.7811,
+      "url": "",
+      "extra": {
+        "feed": "fx",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 6.786,
+          "std": 0.0148,
+          "min": 6.762,
+          "max": 6.8156
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 6.8309,
+          "std": 0.0455,
+          "min": 6.762,
+          "max": 6.9181
+        },
+        "z30": -0.33,
+        "flags": [],
+        "note": ""
+      }
+    },
+    {
+      "title": "USD/CNY",
+      "value": 6.774,
+      "url": "",
+      "extra": {
+        "feed": "fx",
+        "unit": "",
+        "kind": "continuous",
+        "latest_source": "live",
+        "baseline_30d": {
+          "days": 30,
+          "mean": 6.7835,
+          "std": 0.0155,
+          "min": 6.7617,
+          "max": 6.8139
+        },
+        "baseline_90d": {
+          "days": 90,
+          "mean": 6.829,
+          "std": 0.0445,
+          "min": 6.7617,
+          "max": 6.9114
+        },
+        "z30": -0.61,
+        "flags": [],
+        "note": ""
+      }
+    }
+  ],
+  "window_days": 90,
+  "short_window_days": 30,
+  "deviations": [
+    {
+      "title": "New Home Prices YoY",
+      "feed": "property",
+      "kind": "step",
+      "flags": [
+        "new_print"
+      ],
+      "z30": null,
+      "severity": 3.0,
+      "note": "New Home Prices YoY moved -4.3 → -3.7"
+    },
+    {
+      "title": "Shenzhen Component",
+      "feed": "indices",
+      "kind": "continuous",
+      "flags": [
+        "z_spike"
+      ],
+      "z30": -2.48,
+      "severity": 2.48,
+      "note": "Shenzhen Component at 14,954.1 is 2.5σ below its 30-day mean (15,543.85)"
+    }
+  ],
+  "notes": "Per-indicator baselines computed from this project's own Neon archive. deviations[] ranks what is statistically abnormal right now: z_spike = |z| >= 2.0 vs winsorized 30-day mean; range_high/low = outside the 90-day range; new_print = a step series (policy rate, monthly print) just changed. Series flagged baseline_building have too little history for reliable z-scores."
+}

@@ -112,6 +112,15 @@ jobs:
             echo "All $total_count collectors ran successfully"
           fi
 
+      - name: Compute baselines from Neon archive
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          # Read path back from Neon: 30/90-day baselines + deviation flags for
+          # every numeric series. Runs BEFORE the digest so the deviation watch
+          # feeds the day's narrative. No-ops harmlessly without DATABASE_URL.
+          python collectors/baselines.py || echo "::warning::Baselines computation failed"
+
       - name: Generate daily digest
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}

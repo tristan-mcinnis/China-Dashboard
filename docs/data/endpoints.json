@@ -1,7 +1,7 @@
 {
   "name": "China Snapshot Dashboard — public data API",
   "description": "Serverless China-signals feeds, refreshed 5x/day (Beijing time). All endpoints are static JSON with CORS enabled, free to consume.",
-  "generated_at": "2026-06-11T08:55:13+08:00",
+  "generated_at": "2026-06-11T10:05:41+08:00",
   "license": "Data is provided as-is for informational purposes (see dashboard disclaimer).",
   "llms_txt": "https://china-dashboard.vercel.app/llms.txt",
   "schema": {
@@ -173,6 +173,14 @@
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/gov_registry.json",
       "as_of": "2026-06-11T06:39:21+08:00",
       "history_url": "https://china-dashboard.vercel.app/data/history/gov_registry.json"
+    },
+    {
+      "name": "baselines",
+      "category": "analysis",
+      "description": "Per-indicator 30/90-day baselines + ranked deviation flags (z-spikes, range breaks, new policy/monthly prints), computed from this project's own Neon archive",
+      "url": "https://china-dashboard.vercel.app/data/baselines.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/baselines.json",
+      "as_of": "2026-06-11T09:59:57+08:00"
     }
   ]
 }

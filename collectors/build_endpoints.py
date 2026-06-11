@@ -46,6 +46,7 @@ CATALOG = {
     "ladymax_news": ("news", "LadyMax fashion-business headlines (bilingual)"),
     "elite_press": ("news", "Institutional press: party organs, Chinese financial/tech media, Western elite press on China (bilingual, pillar-tagged)"),
     "gov_registry": ("regulatory", "Primary-source registry: 14 ministry/regulator/diplomacy channels (MOFCOM, MFA, Taiwan Affairs, PBOC, MOF, CSRC, CAC, NDRC, NEA, MCA, CIPS, SAFE, State Council EN) + US Federal Register (bilingual, pillar-tagged)"),
+    "baselines": ("analysis", "Per-indicator 30/90-day baselines + ranked deviation flags (z-spikes, range breaks, new policy/monthly prints), computed from this project's own Neon archive"),
 }
 
 
