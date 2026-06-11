@@ -107,6 +107,30 @@ These are intended for OTHER repos to consume via the GitHub Pages raw URL. The 
 is rendered as the "Today's Brief" hero at the top of the dashboard. It is skipped in
 the Neon DB writer loop (no `items` array).
 
+## Machine-Readable Surface (agent-facing)
+
+The strategic audience is people *outside China* and, increasingly, their AI agents.
+The dashboard is deliberately agent-native — structured, citable, self-describing:
+
+- `docs/llms.txt`: agent front door at the site root (llmstxt.org convention). Points
+  to the manifest, digest, key feeds, and archive. Update it when feeds change.
+- `collectors/build_endpoints.py`: runs after the digest in the workflow. Generates
+  `docs/data/endpoints.json` (self-describing catalog: every feed + `history_url`,
+  schema notes, mirrors, archive section) and `docs/data/digest_archive/index.json`
+  (newest-first index of all archived briefs with stable permalinks).
+- **Schema versioning**: `common.schema()` stamps `schema_version` (currently 1,
+  `SCHEMA_VERSION` in `collectors/common.py`) on every standard feed;
+  `daily_digest.json` carries its own `schema_version`. Bump ONLY on breaking
+  changes to the shape — downstream agents key off this.
+- **Stable permalinks**: `digest_archive/<date>/<slot>.json` snapshots are never
+  rewritten after their slot passes; agents may cite them. Don't mutate them.
+- CORS: `vercel.json` sets `Access-Control-Allow-Origin: *` on `/data/*.json`,
+  `/data/*.md`, and `/llms.txt`.
+
+Planned next rungs (see Future Development): durable archive + Neon read path, then
+an MCP server (`get_digest`, `search_stories`, `get_entity_timeline`) with the free/
+premium line drawn around archive depth and deviation signals.
+
 ## Neon Postgres (Long-term Storage)
 
 - **Project**: china-dashboard (quiet-king-62917095)

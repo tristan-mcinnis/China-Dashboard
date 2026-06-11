@@ -775,6 +775,7 @@ def build_digest() -> dict:
     ]
 
     digest = {
+        "schema_version": 1,
         "digest_type": slot,
         "as_of": now_iso_tz8(),
         "date": now.strftime("%Y-%m-%d"),
