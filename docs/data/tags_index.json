@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T11:50:59+08:00",
+  "updated_at": "2026-06-11T15:34:13+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1793,8 +1793,21 @@
     },
     "regulatory tightening": {
       "label": "Regulatory tightening",
-      "count": 7,
+      "count": 8,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "全国小麦收获进度已过七成",
+          "english_title": "China's summer wheat harvest exceeds 70%",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%8F%E9%BA%A6%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BF%87%E4%B8%83%E6%88%90",
+          "platforms": [
+            "baidu_top",
+            "elite_press",
+            "tencent_wechat_hot",
+            "xinhua_news"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-11",
           "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
@@ -8016,8 +8029,38 @@
     },
     "trade friction": {
       "label": "Trade friction",
-      "count": 1,
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "Corrosion Inhibitors From China; Scheduling of Expedited Five-Year Reviews",
+          "english_title": "US initiates expedited five-year review of anti-dumping duties on corrosion inhibitors from China",
+          "url": "https://www.federalregister.gov/documents/2026/06/10/2026-11622/corrosion-inhibitors-from-china-scheduling-of-expedited-five-year-reviews",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on copolymer imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "2026年6月10日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260610_11941616.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-10",
           "title": "Corrosion Inhibitors From China; Scheduling of Expedited Five-Year Reviews",
@@ -8381,6 +8424,78 @@
             "xinhua_news"
           ],
           "category": "news"
+        }
+      ]
+    },
+    "north korea diplomacy": {
+      "label": "North Korea diplomacy",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on copolymer imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "习近平出席金正恩举行的欢送仪式",
+          "english_title": "Xi Jinping attends farewell ceremony hosted by Kim Jong Un",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YbU8wNmdQSEUyMUdlb2ZqU1lKSDY0ME1tcTlkRXNLMXVoeHlibWdNeml2VW1kelhFdnExczk2ZXNnYzhxaWRHZTMxU25oam9WSnh0VDc4WlZJcjNNLTJqVUg4WjVlTlk1RkMw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "从三个维度读懂中朝传统友谊新篇章",
+          "english_title": "Xi Jinping's state visit to North Korea: a new chapter in bilateral ties",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E6%96%B0%E7%AF%87%E7%AB%A0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "market correction": {
+      "label": "Market correction",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC explains State Council guidelines on strengthening regulation of private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "geopolitical hedging": {
+      "label": "Geopolitical hedging",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "全国小麦收获进度已过七成",
+          "english_title": "China's summer wheat harvest exceeds 70%",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%8F%E9%BA%A6%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BF%87%E4%B8%83%E6%88%90",
+          "platforms": [
+            "baidu_top",
+            "elite_press",
+            "tencent_wechat_hot",
+            "xinhua_news"
+          ],
+          "category": "press"
         }
       ]
     }

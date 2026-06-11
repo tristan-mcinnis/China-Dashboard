@@ -1,100 +1,66 @@
 {
   "schema_version": 1,
   "digest_type": "midday",
-  "as_of": "2026-06-11T11:50:59+08:00",
+  "as_of": "2026-06-11T15:34:13+08:00",
   "date": "2026-06-11",
   "time_label": "Midday Brief",
-  "beijing_time": "11:50",
+  "beijing_time": "15:33",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Xi-NK summit, wheat harvest, Japan shift dominate; markets slide",
-  "headline_zh": "习近平访朝、夏粮丰收、日本安保修订主导；股市下跌",
-  "narrative": "The day closed with mixed signals. On the positive side, the summer wheat harvest exceeded 70% nationwide, reinforcing regime credentials on food security. Xi Jinping concluded a state visit to North Korea, underscoring alliance continuity. But market data revealed deepening unease: the Shenzhen Component is more than 3 standard deviations below its 30-day mean, and the ChiNext is down nearly 2.5 sigma, reflecting tech sector jitters. Meanwhile, Japan's LDP pushed through a draft to revise security documents, a move Beijing views as destabilizing. A viral 'fake moldy fruit' refund case drew attention to e-commerce platform governance. Together, these stories illustrate a regime that projects stability abroad while confronting domestic investor sentiment and external security pressures.",
-  "narrative_zh": "本日收盘信号混杂。积极方面，全国夏粮小麦收获进度超七成，强化了粮食安全治理的政绩。习近平结束对朝鲜国事访问，凸显同盟延续性。但市场数据显示深层不安：深证成指低于30日均线逾3个标准差，创业板指下探近2.5个标准差，反映科技板块焦虑。与此同时，日本自民党通过安保文件修订草案，北京视为破坏稳定之举。一则‘变霉水果造假仅退款’案例引发对电商平台治理的关注。这些故事共同揭示：一个在外部投射稳定、内部却面临投资者信心和外部安全压力的政权。",
-  "market_snapshot": "SSE Composite 3964.241 ▲0.12% · Shenzhen Component 14756.975 ▼0.43% · ChiNext 3785.626 ▼1.79% · USD/CNY 6.7738 ▼0.00% · USD/CNH 6.7763 ▼0.03%",
+  "headline": "Xi visits North Korea as Shenzhen Composite hits 2.4σ low, market weighs regulation and trade",
+  "headline_zh": "习近平访朝，深成指跌至2.4σ低位，市场权衡监管与贸易",
+  "narrative": "The Shenzhen Component closed at 14,851.98, a 2.4 standard deviation below its 30-day mean, signaling risk-off sentiment amid regulatory tightening on private funds and renewed trade friction with the U.S. The index's divergence from the stable SSE Composite (up 0.7%) suggests narrower market participation and capital rotation. Meanwhile, Xi Jinping's June 8-9 visit to North Korea concludes, reinforcing the 'friendship' narrative ahead of potential diplomatic coordination on nuclear issues and regional security. The visit, paired with Japan's push to link the East China Sea, Taiwan, and South China Sea, underscores Beijing's focus on a multi-front geopolitical posture.",
+  "narrative_zh": "深成指收于14851.98点，比30日均值低2.4个标准差，反映出在私募基金监管收紧及美国贸易摩擦重现背景下的避险情绪。该指数与上证综指（上涨0.7%）的背离表明市场参与面收窄和资金轮动。与此同时，习近平6月8日至9日对朝鲜的访问结束，强化了‘友谊’叙事，为核问题及地区安全上的外交协调铺垫。此访加上日本推动东海、台海、南海三海联动，凸显北京多线地缘布局。",
+  "market_snapshot": "SSE Composite 3987.015 ▲0.70% · Shenzhen Component 14851.976 ▲0.21% · ChiNext 3811.246 ▼1.13% · USD/CNY 6.7749 ▲0.01% · USD/CNH 6.7766 ▼0.02%",
   "deviations": [
     {
       "title": "Shenzhen Component",
-      "note": "Shenzhen Component at 14,756.98 is 3.3σ below its 30-day mean (15,543.85)",
+      "note": "Shenzhen Component at 14,851.98 is 2.4σ below its 30-day mean (15,505.96)",
       "kind": "continuous",
       "flags": [
         "z_spike"
       ],
-      "z30": -3.31,
-      "severity": 3.31
-    },
-    {
-      "title": "New Home Prices YoY",
-      "note": "New Home Prices YoY moved -4.3 → -3.7",
-      "kind": "step",
-      "flags": [
-        "new_print"
-      ],
-      "z30": null,
-      "severity": 3.0
-    },
-    {
-      "title": "ChiNext",
-      "note": "ChiNext at 3,785.63 is 2.5σ below its 30-day mean (3,972.92)",
-      "kind": "continuous",
-      "flags": [
-        "z_spike"
-      ],
-      "z30": -2.47,
-      "severity": 2.47
-    },
-    {
-      "title": "SSE Composite",
-      "note": "SSE Composite at 3,964.24 is 2.3σ below its 30-day mean (4,098.09)",
-      "kind": "continuous",
-      "flags": [
-        "z_spike"
-      ],
-      "z30": -2.26,
-      "severity": 2.26
+      "z30": -2.38,
+      "severity": 2.38
     }
   ],
   "themes": [
-    "Sino-North Korea relations",
-    "Market downturn",
-    "Food security",
-    "Japan military revision",
-    "Platform regulation",
-    "Tech sector volatility"
+    "North Korea diplomacy",
+    "Market correction",
+    "Trade friction",
+    "Regulatory tightening",
+    "Geopolitical hedging"
   ],
   "theme_trends": {
-    "Sino-North Korea relations": {
-      "status": "recurring",
-      "days_seen": 7
-    },
-    "Market downturn": {
+    "North Korea diplomacy": {
       "status": "recurring",
       "days_seen": 6
     },
-    "Food security": {
+    "Market correction": {
+      "status": "recurring",
+      "days_seen": 6
+    },
+    "Trade friction": {
+      "status": "recurring",
+      "days_seen": 6
+    },
+    "Regulatory tightening": {
       "status": "recurring",
       "days_seen": 7
     },
-    "Japan military revision": {
+    "Geopolitical hedging": {
       "status": "rising",
       "days_seen": 1
-    },
-    "Platform regulation": {
-      "status": "recurring",
-      "days_seen": 6
-    },
-    "Tech sector volatility": {
-      "status": "recurring",
-      "days_seen": 7
     }
   },
   "entities": [
     "Xi Jinping",
     "Kim Jong Un",
-    "Japan LDP",
-    "Ministry of Commerce",
     "CSRC",
-    "Tsinghua University",
-    "Shenzhen Stock Exchange"
+    "Ministry of Commerce",
+    "Taiwan Affairs Office",
+    "US DOC",
+    "Japan's LDP",
+    "Shenzhen Component"
   ],
   "pillars": [
     {
@@ -131,24 +97,25 @@
   "top_stories": [
     {
       "rank": 1,
-      "weight": 52.8,
+      "weight": 70.0,
       "platforms": [
         "baidu_top",
+        "elite_press",
         "tencent_wechat_hot",
         "xinhua_news"
       ],
-      "platform_count": 3,
+      "platform_count": 4,
       "primary_title": "全国小麦收获进度已过七成",
-      "english_title": "National wheat harvest progress exceeds 70%",
-      "why_it_matters": "Summer grain procurement provides a buffer against global food price volatility and reinforces food security narrative.",
-      "why_it_matters_zh": "夏粮收购为应对全球粮价波动提供缓冲，强化粮食安全叙事。",
-      "pull_quote": "Ministry of Agriculture and Rural Affairs: wheat harvest progress exceeds 70% as of June 10.",
-      "pull_quote_zh": "农业农村部：截至6月10日小麦收获进度超七成。",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
-      "source": "",
-      "category": "news",
+      "english_title": "China's summer wheat harvest exceeds 70%",
+      "why_it_matters": "Fast harvest pace signals stable grain output, reducing inflation risk and supporting food security narrative ahead of July Politburo session.",
+      "why_it_matters_zh": "收割进度快表明粮食产量稳定，降低通胀风险，为7月政治局会议前的粮食安全叙事提供支撑。",
+      "pull_quote": "农业农村部数据显示全国小麦机收进度已过七成，夏播进入高峰。",
+      "pull_quote_zh": "农业农村部数据显示全国小麦机收进度已过七成，夏播进入高峰。",
+      "pillar": "economy",
+      "pillar_label": "Economy & Markets",
+      "pillar_label_zh": "经济与市场",
+      "source": "21st Century Business Herald",
+      "category": "press",
       "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%8F%E9%BA%A6%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BF%87%E4%B8%83%E6%88%90",
       "appearances": [
         {
@@ -162,6 +129,10 @@
         {
           "platform": "xinhua_news",
           "rank": 1
+        },
+        {
+          "platform": "elite_press",
+          "rank": 20
         }
       ]
     },
@@ -174,11 +145,11 @@
       ],
       "platform_count": 2,
       "primary_title": "从三个维度读懂中朝传统友谊新篇章",
-      "english_title": "Xi Jinping visits North Korea, writes new chapter in bilateral ties",
-      "why_it_matters": "The visit reaffirms Sino-NK solidarity amid escalating US-Japan alliance coordination and Taiwan tensions.",
-      "why_it_matters_zh": "此访重申中朝团结，应对美日同盟协调升级及台海紧张局势。",
-      "pull_quote": "Xi Jinping and Kim Jong Un held small-scale banquet ahead of farewell.",
-      "pull_quote_zh": "习近平与金正恩在欢送仪式前举行小范围午宴。",
+      "english_title": "Xi Jinping's state visit to North Korea: a new chapter in bilateral ties",
+      "why_it_matters": "The visit locks in strategic alignment with Pyongyang while Xi cements his foreign policy legacy; watch for follow-on economic or security agreements.",
+      "why_it_matters_zh": "此访锁定中朝战略协调，同时巩固习近平外交遗产；关注后续经济或安全协议。",
+      "pull_quote": "习近平主席访问朝鲜，为新时代中朝关系举旗定向、擘画蓝图。",
+      "pull_quote_zh": "习近平主席访问朝鲜，为新时代中朝关系举旗定向、擘画蓝图。",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
@@ -198,110 +169,84 @@
     },
     {
       "rank": 3,
+      "weight": 30.8,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot",
+        "weibo_hot"
+      ],
+      "platform_count": 3,
+      "primary_title": "色情漫画网站浏览量超1亿次",
+      "english_title": "Overseas-operated pornographic website targets Chinese youth, over 100 million views",
+      "why_it_matters": "Exposure of foreign-run illicit platform pressures China to tighten cross-border content controls and may accelerate VPN bans or international cooperation on cybercrime.",
+      "why_it_matters_zh": "曝光境外运营的非法平台，促使中国加强跨境内容管控，可能加速VPN禁令或网络犯罪国际合作。",
+      "pull_quote": "央视曝光境外团伙搭色情网站围猎中国青少年，网站浏览量超1亿次。",
+      "pull_quote_zh": "央视曝光境外团伙搭色情网站围猎中国青少年，网站浏览量超1亿次。",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E8%89%B2%E6%83%85%E6%BC%AB%E7%94%BB%E7%BD%91%E7%AB%99%E6%B5%8F%E8%A7%88%E9%87%8F%E8%B6%851%E4%BA%BF%E6%AC%A1",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 6
+        },
+        {
+          "platform": "weibo_hot",
+          "rank": 7
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "weight": 28.8,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "遭仅退款榴莲商家终于等来了道歉",
-      "english_title": "E-commerce buyer apologizes for fraudulent 'refund-only' claim using forged moldy fruit photos",
-      "why_it_matters": "Reflects growing regulatory scrutiny of platform consumer protection loopholes and merchant rights.",
-      "why_it_matters_zh": "反映对平台消费者保护漏洞与商家权益的监管加强。",
-      "pull_quote": "Buyer's father apologized in court mediation, admitting forged photos.",
-      "pull_quote_zh": "买家父亲在法院调解中道歉，承认照片伪造。",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE%E6%A6%B4%E8%8E%B2%E5%95%86%E5%AE%B6%E7%BB%88%E4%BA%8E%E7%AD%89%E6%9D%A5%E4%BA%86%E9%81%93%E6%AD%89",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 2
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 2
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "weight": 25.6,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
-      ],
-      "platform_count": 2,
-      "primary_title": "该警惕日本的 不只是中国",
-      "english_title": "Japan's LDP passes draft to revise security documents, loosening 'exclusive defense' posture",
-      "why_it_matters": "Signals Japan's accelerated military normalization, with direct implications for China's maritime environment in East China Sea, South China Sea, and Taiwan Strait.",
-      "why_it_matters_zh": "表明日本加速军事正常化，对中国东海、南海和台海海上环境产生直接影响。",
-      "pull_quote": "Draft revisions aim to remove 'exclusive defense' constraint, expanding military capabilities.",
-      "pull_quote_zh": "修订草案旨在解除‘专守防卫’约束，扩大军事能力。",
+      "primary_title": "日本想搞三海联动针对中国",
+      "english_title": "Japan's LDP pushes to link East China Sea, Taiwan, and South China Sea in security documents",
+      "why_it_matters": "Tokyo's 'three-sea linkage' strategy directly challenges Beijing's maritime claims and increases risk of incidents; China will likely respond with military posturing and diplomatic pressure.",
+      "why_it_matters_zh": "东京的‘三海联动’战略直接挑战北京的海上主张，增加冲突风险；中国可能以军事姿态和外交施压回应。",
+      "pull_quote": "日本自民党通过修改‘安保三文件’草案，试图挣脱‘专守防卫’束缚。",
+      "pull_quote_zh": "日本自民党通过修改‘安保三文件’草案，试图挣脱‘专守防卫’束缚。",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%A5%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E7%9A%84+%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%AD%E5%9B%BD",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%83%B3%E6%90%9E%E4%B8%89%E6%B5%B7%E8%81%94%E5%8A%A8%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD",
       "appearances": [
         {
           "platform": "baidu_top",
-          "rank": 3
+          "rank": 2
         },
         {
           "platform": "tencent_wechat_hot",
-          "rank": 3
+          "rank": 2
         }
       ]
     },
     {
       "rank": 5,
-      "weight": 19.2,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
-      ],
-      "platform_count": 2,
-      "primary_title": "董事长电梯亲密事件监控如何流出",
-      "english_title": "CEO elevator incident: surveillance footage leak triggers corporate governance questions",
-      "why_it_matters": "Raises issues of privacy and internal control in publicly listed firms, potential reputational risk for Shenzhen-listed company.",
-      "why_it_matters_zh": "引发对上市公司隐私与内部控制问题的关注，可能影响深交所上市公司声誉。",
-      "pull_quote": "Surveillance footage leak prompts questions about security protocols.",
-      "pull_quote_zh": "监控画面泄露引发对安全协议的质疑。",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E7%94%B5%E6%A2%AF%E4%BA%B2%E5%AF%86%E4%BA%8B%E4%BB%B6%E7%9B%91%E6%8E%A7%E5%A6%82%E4%BD%95%E6%B5%81%E5%87%BA",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 5
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 5
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "weight": 19.0,
+      "weight": 17.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "习近平出席金正恩举行的欢送仪式",
       "english_title": "Xi Jinping attends farewell ceremony hosted by Kim Jong Un",
-      "why_it_matters": "The ceremonial send-off underscores the high-level personal diplomacy anchoring the Sino-NK relationship.",
-      "why_it_matters_zh": "隆重送别突显中朝关系中的高层个人外交基础。",
-      "pull_quote": "Farewell ceremony included a small-scale luncheon.",
-      "pull_quote_zh": "欢送仪式包括小范围午宴。",
+      "why_it_matters": "The high-profile farewell signals mutual commitment to the relationship, with photo ops designed to project unity and counter U.S.-Japan-South Korea trilateralism.",
+      "why_it_matters_zh": "高调欢送显示双方对关系的承诺，精心安排的合影旨在展示团结，抗衡美日韩三边主义。",
+      "pull_quote": "习近平夫妇出席金正恩夫妇举行的小范围午宴。",
+      "pull_quote_zh": "习近平夫妇出席金正恩夫妇举行的小范围午宴。",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
@@ -311,25 +256,25 @@
       "appearances": [
         {
           "platform": "elite_press",
-          "rank": 1
+          "rank": 2
         },
         {
           "platform": "elite_press",
-          "rank": 2
+          "rank": 3
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "weight": 11.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "2026年6月10日外交部发言人林剑主持例行记者会",
-      "english_title": "Foreign Ministry Spokesperson regular press conference (June 10)",
-      "why_it_matters": "Likely comments on Japan security revisions and Taiwan Affairs Office press conference themes.",
-      "why_it_matters_zh": "可能就日本安保修订和国台办记者会主题发表评论。",
+      "english_title": "Foreign Ministry spokesperson Lin Jian holds regular press conference",
+      "why_it_matters": "Expect reiteration of standard positions on Taiwan, South China Sea, and trade; any deviation from script will be closely watched.",
+      "why_it_matters_zh": "预计重申在台湾、南海和贸易问题上的标准立场；任何偏离脚本的表述都将受到密切关注。",
       "pull_quote": "",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
@@ -362,18 +307,18 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "weight": 10.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
-      "english_title": "Eight departments issue measures to promote railway-tourism integration and service consumption",
-      "why_it_matters": "Part of ongoing efforts to boost domestic service consumption and regional economic circulation.",
-      "why_it_matters_zh": "是提振国内服务消费和区域经济循环的持续举措的一部分。",
-      "pull_quote": "Eight departments including Ministry of Commerce and Culture and Tourism jointly issued the notice.",
-      "pull_quote_zh": "商务部、文化和旅游部等八部门联合印发通知。",
+      "english_title": "Eight ministries jointly promote railway-tourism integration to boost service consumption",
+      "why_it_matters": "Coordinated policy push to stimulate domestic travel and service sector recovery, part of broader consumption-driven growth strategy amid external headwinds.",
+      "why_it_matters_zh": "多部门协调推动国内旅游和服务业复苏，是外部逆风下消费驱动增长战略的一部分。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
@@ -388,44 +333,49 @@
       ]
     },
     {
-      "rank": 9,
-      "weight": 9.0,
+      "rank": 8,
+      "weight": 9.6,
       "platforms": [
-        "xinhua_news"
+        "elite_press",
+        "thepaper_news"
       ],
-      "platform_count": 1,
-      "primary_title": "伊朗武装部队回应美军停止新一轮打击",
-      "english_title": "Iran's armed forces respond to US halt of new strikes",
-      "why_it_matters": "",
-      "why_it_matters_zh": "",
+      "platform_count": 2,
+      "primary_title": "科学家发现距今530万年前的鲸类化石群",
+      "english_title": "Scientists discover 5.3-million-year-old whale fossil group",
+      "why_it_matters": "Palaeontological find highlights China's investment in basic science; prestige project but limited near-term policy impact.",
+      "why_it_matters_zh": "古生物学发现凸显中国对基础科学的投入；是面子工程，但近期政策影响有限。",
       "pull_quote": "",
       "pull_quote_zh": "",
-      "pillar": "politics",
-      "pillar_label": "High Politics & Ideology",
-      "pillar_label_zh": "高层政治与意识形态",
-      "source": "",
-      "category": "news",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51VHp6ZF9BNU9OQUZWX25pR1FQSWZud0FBNHRqZG1fRkpMMmlRRVhMT241aHo4dEVla2wwSERkZDF4Z25jbWZDcFl3bEZTZWQ0cXBWbG1wUUc5TlFaM1RrNmt5SnBiSEtMRnJSdmhvYnU4SkVELUt1UEN4aENfdw?oc=5",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "pillar_label_zh": "产业、科技与工业政策",
+      "source": "Jiemian",
+      "category": "press",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbURRd240enlVS1pyRGpvQ1lhUVNaLUkyQ25zZlhoU0pXZkxPaFpnZWVUV2JxRzgweWFDNHRYQUVIUDVLM3BhaExyb1lUdnQzLUJqdWkxUGNnWE8yNGc?oc=5",
       "appearances": [
         {
-          "platform": "xinhua_news",
-          "rank": 2
+          "platform": "thepaper_news",
+          "rank": 6
+        },
+        {
+          "platform": "elite_press",
+          "rank": 31
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "weight": 9.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-      "english_title": "MOFCOM announces decision on anti-dumping tax rate succession for POM imports from Korea, Thailand, Malaysia",
-      "why_it_matters": "Indicates continued protectionism in chemical sector; may reflect upstream supply chain concerns.",
-      "why_it_matters_zh": "表明化工领域持续的保护主义，可能反映上游供应链担忧。",
-      "pull_quote": "Decision confirms tax rates for specific producers.",
-      "pull_quote_zh": "决定确认特定生产商的税率。",
+      "english_title": "China imposes anti-dumping duties on copolymer imports from Korea, Thailand, Malaysia",
+      "why_it_matters": "Targeted trade remedy protects domestic chemical producers; signal that China will use trade tools even as it complains about U.S. tariffs.",
+      "why_it_matters_zh": "针对性的贸易救济保护国内化工生产商；表明中国在抱怨美国关税的同时也会使用贸易工具。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
       "pillar_label_zh": "经济与市场",
@@ -440,21 +390,21 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 10,
       "weight": 8.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-      "english_title": "Five departments adjust export control catalog for precursor chemicals to certain countries",
-      "why_it_matters": "Aligns with non-proliferation commitments and dual-use export control frameworks; may impact chemical trade flows.",
-      "why_it_matters_zh": "符合防扩散承诺和两用品出口管制框架，可能影响化学品贸易流向。",
-      "pull_quote": "Catalog adjustment affects exports to specific countries.",
-      "pull_quote_zh": "目录调整影响对特定国家的出口。",
-      "pillar": "regulatory",
-      "pillar_label": "Regulatory Watch",
-      "pillar_label_zh": "监管动态",
+      "english_title": "China adjusts export control list for precursor chemicals to specific countries",
+      "why_it_matters": "Export controls tightened on dual-use chemicals, likely aimed at curbing diversion for illicit drug production in neighboring regions; aligns with international pressure on fentanyl.",
+      "why_it_matters_zh": "加强对两用化学品的出口管制，旨在遏制向邻国非法毒品生产的转移；与芬太尼方面的国际压力一致。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
+      "pillar": "economy",
+      "pillar_label": "Economy & Markets",
+      "pillar_label_zh": "经济与市场",
       "source": "商务部",
       "category": "regulatory",
       "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
@@ -466,18 +416,18 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 11,
       "weight": 5.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
-      "english_title": "Taiwan Affairs Office press conference (June 10)",
-      "why_it_matters": "Probably reiterates opposition to external interference and reaffirms 'One China' principle amid Japan-Taiwan moves.",
-      "why_it_matters_zh": "可能重申反对外部干涉和‘一个中国’原则，应对日台动作。",
-      "pull_quote": "Press conference transcript released June 10.",
-      "pull_quote_zh": "记者会辑录于6月10日发布。",
+      "english_title": "Taiwan Affairs Office press conference transcript released",
+      "why_it_matters": "Routine reiteration of One-China principle and opposition to Taiwan independence; any new language will be parsed for shifts in cross-strait policy.",
+      "why_it_matters_zh": "例行重申一个中国原则和反对台独；任何新表述将被解读为两岸政策变化信号。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
@@ -508,18 +458,18 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 12,
       "weight": 3.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "Corrosion Inhibitors From China; Scheduling of Expedited Five-Year Reviews",
-      "english_title": "US initiates expedited five-year reviews on corrosion inhibitors from China",
-      "why_it_matters": "Suggests ongoing trade friction in specialty chemicals; potential tariff implications for Chinese exporters.",
-      "why_it_matters_zh": "表明特种化学品领域贸易摩擦持续，可能对中国出口商产生关税影响。",
-      "pull_quote": "US International Trade Commission schedules expedited reviews.",
-      "pull_quote_zh": "美国国际贸易委员会安排快速复审。",
+      "english_title": "US initiates expedited five-year review of anti-dumping duties on corrosion inhibitors from China",
+      "why_it_matters": "Continuation of US trade remedy scrutiny; maintains tariff pressure on Chinese chemical exports and underscores ongoing trade friction.",
+      "why_it_matters_zh": "延续美国贸易救济审查；保持对中国化工产品的关税压力，凸显持续的贸易摩擦。",
+      "pull_quote": "美国联邦公报公告，对华腐蚀抑制剂启动快速日落复审。",
+      "pull_quote_zh": "美国联邦公报公告，对华腐蚀抑制剂启动快速日落复审。",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
       "pillar_label_zh": "中美关系与地缘政治",
@@ -542,18 +492,18 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 13,
       "weight": 2.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-      "english_title": "CSRC spokesperson comments on State Council guidelines for private investment funds",
-      "why_it_matters": "Signals tightened oversight of private fund industry to curb systemic risks and promote quality development.",
-      "why_it_matters_zh": "表明加强对私募基金行业的监管以遏制系统性风险，促进高质量发展。",
-      "pull_quote": "Guidelines aim to prevent systemic risks in private fund sector.",
-      "pull_quote_zh": "指导意见旨在防范私募基金领域系统性风险。",
+      "english_title": "CSRC explains State Council guidelines on strengthening regulation of private investment funds",
+      "why_it_matters": "Tighter rules for private funds aim to reduce systemic risk, but may squeeze smaller players and amplify market volatility, part of broader de-risking campaign.",
+      "why_it_matters_zh": "收紧私募基金规则旨在降低系统性风险，但可能挤压中小机构并加剧市场波动，是更广泛去风险行动的一部分。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "regulatory",
       "pillar_label": "Regulatory Watch",
       "pillar_label_zh": "监管动态",
@@ -572,18 +522,18 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 14,
       "weight": 1.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
-      "english_title": "Tsinghua team secures hundreds of millions in Series A funding for distributed predictive world model, deployed on hundreds of thousands of devices",
-      "why_it_matters": "Indicates strong investment in embodied AI and edge computing; Tsinghua's spin-off ecosystem remains active.",
-      "why_it_matters_zh": "表明对具身AI和边缘计算的投资强劲，清华孵化生态系统依然活跃。",
-      "pull_quote": "Tsinghua team's model deployed on hundreds of thousands of edge devices.",
-      "pull_quote_zh": "清华团队模型在数十万台终端设备上部署。",
+      "english_title": "Tsinghua-founded team raises hundreds of millions in Series A for distributed predictive world model",
+      "why_it_matters": "AI startup with academic pedigree attracts significant funding; deployment on terminal devices at scale signals commercial viability and China's ambition in embodied AI.",
+      "why_it_matters_zh": "有学术背景的人工智能初创公司获得大额融资；在终端设备上大规模部署表明商业可行性，以及中国在具身人工智能领域的雄心。",
+      "pull_quote": "",
+      "pull_quote_zh": "",
       "pillar": "tech",
       "pillar_label": "Industry, Tech & Industrial Policy",
       "pillar_label_zh": "产业、科技与工业政策",
@@ -596,32 +546,6 @@
           "rank": 25
         }
       ]
-    },
-    {
-      "rank": 16,
-      "weight": 1.0,
-      "platforms": [
-        "elite_press"
-      ],
-      "platform_count": 1,
-      "primary_title": "请完成下列验证后继续 - 36 36kr",
-      "english_title": "Please complete the following verification to continue - 36Kr",
-      "why_it_matters": "",
-      "why_it_matters_zh": "",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "tech",
-      "pillar_label": "Industry, Tech & Industrial Policy",
-      "pillar_label_zh": "产业、科技与工业政策",
-      "source": "36Kr",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PTE42ZnZYbndEcXRFa1l6UkFFZUtZaC1BWnBSS01ZUTk3ZjczcG1icVZRUmxFZ21mMHgzRzZzQlRDNjByampiS1lkdw?oc=5",
-      "appearances": [
-        {
-          "platform": "elite_press",
-          "rank": 26
-        }
-      ]
     }
   ],
   "sources_summary": {
@@ -632,7 +556,7 @@
     "thepaper_news": 20,
     "ladymax_news": 21,
     "gov_registry": 80,
-    "elite_press": 52,
+    "elite_press": 68,
     "indices": 4,
     "fx": 4
   },
