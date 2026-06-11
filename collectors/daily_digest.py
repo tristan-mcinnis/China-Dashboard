@@ -389,6 +389,38 @@ def _fmt_pct(pct) -> str:
     return f"{arrow}{abs(pct):.2f}%"
 
 
+# How many archive-baseline deviations to surface in the brief.
+MAX_DEVIATIONS = 6
+# A deviation feed older than this is a leftover from a failed baselines run.
+DEVIATIONS_MAX_AGE_HOURS = 12
+
+
+def _load_deviations() -> list[dict]:
+    """Top abnormal indicator moves from baselines.json (the Neon archive
+    read path): z-spikes, 90-day range breaks, fresh policy/monthly prints.
+    This is the significance signal the salience scoring can't provide."""
+    payload = _load("baselines")
+    as_of = payload.get("as_of") or ""
+    try:
+        age = datetime.now(timezone(timedelta(hours=8))) - datetime.fromisoformat(as_of)
+        if age > timedelta(hours=DEVIATIONS_MAX_AGE_HOURS):
+            return []
+    except ValueError:
+        return []
+    return [
+        {
+            "title": d.get("title", ""),
+            "note": d.get("note", ""),
+            "kind": d.get("kind", ""),
+            "flags": d.get("flags", []),
+            "z30": d.get("z30"),
+            "severity": d.get("severity", 0),
+        }
+        for d in payload.get("deviations", [])[:MAX_DEVIATIONS]
+        if d.get("note")
+    ]
+
+
 def _market_snapshot(data: dict) -> str:
     parts = []
     for item in data.get("indices", {}).get("items", [])[:3]:
@@ -404,7 +436,9 @@ def _market_snapshot(data: dict) -> str:
 # --------------------------------------------------------------------------- #
 # DeepSeek synthesis (with deterministic fallback)
 # --------------------------------------------------------------------------- #
-def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
+def _deepseek_synthesis(
+    stories: list[dict], market: str, beijing_date: str, deviations: list[dict]
+):
     """Return (meta, story_overrides) from DeepSeek, or None on any failure."""
     api_key = os.getenv("DEEPSEEK_API_KEY")
     if not api_key:
@@ -447,7 +481,18 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
         f"Below are the day's most salient items, each tagged with a provisional thematic "
         f"pillar and its source, plus a market snapshot.\n\n"
         f"MARKET SNAPSHOT: {market or 'n/a'}\n\n"
-        f"RANKED ITEMS:\n" + "\n".join(story_lines) + "\n\n"
+        + (
+            "DEVIATION WATCH (statistically abnormal vs our own 30/90-day "
+            "archive baselines — significance, independent of what is trending):\n"
+            + "\n".join(f"- {d['note']}" for d in deviations)
+            + "\n\nUse the deviation watch to judge what MATTERS, not just what "
+            "is hot: if a deviation connects to a ranked item, draw that link "
+            "explicitly in the narrative or its why_it_matters; a sharp anomaly "
+            "can anchor the Lead-in even if no headline mentions it.\n\n"
+            if deviations
+            else ""
+        )
+        + f"RANKED ITEMS:\n" + "\n".join(story_lines) + "\n\n"
         f"Allowed pillar values: {pillar_keys}.\n\n"
         "PILLAR RULES:\n"
         "- Xi Jinping, the Politburo, Party ideology, personnel moves and "
@@ -532,7 +577,7 @@ def _deepseek_synthesis(stories: list[dict], market: str, beijing_date: str):
         return None
 
 
-def _heuristic_meta(stories: list[dict], market: str) -> dict:
+def _heuristic_meta(stories: list[dict], market: str, deviations: list[dict] | None = None) -> dict:
     lead = stories[0]["primary_title"] if stories else "China daily snapshot"
     cross = [s for s in stories if s["platform_count"] >= 2]
     headline = (cross[0]["primary_title"] if cross else lead)[:90]
@@ -544,7 +589,13 @@ def _heuristic_meta(stories: list[dict], market: str) -> dict:
         f"Top of mind: {lead}. "
         f"{len(cross)} stories are trending across multiple major platforms, "
         f"signalling broad public attention. "
-        + (f"Markets: {market}." if market else "")
+        + (f"Markets: {market}. " if market else "")
+        + (
+            "Abnormal vs our archive baseline: "
+            + "; ".join(d["note"] for d in deviations[:3]) + "."
+            if deviations
+            else ""
+        )
     ).strip()
     return {
         "headline": headline,
@@ -573,6 +624,13 @@ def _render_markdown(digest: dict) -> str:
     ]
     if digest.get("market_snapshot"):
         lines += [f"**Markets:** {digest['market_snapshot']}", ""]
+    if digest.get("deviations"):
+        lines += [
+            "**Deviation watch** _(vs our own 30/90-day archive baselines)_:",
+            "",
+        ]
+        lines += [f"- {d['note']}" for d in digest["deviations"]]
+        lines.append("")
     if digest.get("themes"):
         lines += ["**Themes:** " + ", ".join(digest["themes"]), ""]
 
@@ -706,14 +764,15 @@ def build_digest() -> dict:
     now = datetime.now(timezone(timedelta(hours=8)))
     slot, label = _slot(now.hour)
     market = _market_snapshot(data)
+    deviations = _load_deviations()
 
     candidates = _collect_candidates(data)
     stories = _select_balanced(candidates)
 
-    synthesis = _deepseek_synthesis(stories, market, now.strftime("%Y-%m-%d"))
+    synthesis = _deepseek_synthesis(stories, market, now.strftime("%Y-%m-%d"), deviations)
     generated_by = "deepseek-v4-flash"
     if synthesis is None:
-        meta, overrides = _heuristic_meta(stories, market), {}
+        meta, overrides = _heuristic_meta(stories, market, deviations), {}
         generated_by = "heuristic"
         print(
             "[digest] generated_by=heuristic (DeepSeek synthesis unavailable). "
@@ -787,6 +846,7 @@ def build_digest() -> dict:
         "narrative": meta["narrative"],
         "narrative_zh": meta["narrative_zh"],
         "market_snapshot": market,
+        "deviations": deviations,
         "themes": meta["themes"],
         "theme_trends": _theme_trends(meta["themes"], now.strftime("%Y-%m-%d")),
         "entities": meta["entities"],

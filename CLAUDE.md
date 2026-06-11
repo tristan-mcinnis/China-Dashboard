@@ -40,6 +40,9 @@ python collectors/weather_cn.py
 python collectors/pboc_rates.py
 python collectors/nbs_monthly.py
 
+# Compute archive baselines + deviation watch (needs DATABASE_URL; run before digest)
+python collectors/baselines.py
+
 # Generate the daily digest (run AFTER collectors; reads fresh docs/data/*.json)
 python collectors/daily_digest.py
 ```
@@ -93,13 +96,14 @@ Current collectors:
 - `gov_registry.py`: The single primary-source collector (it replaced the hand-coded CSRC/CAC/SAMR-only `gov_regulatory.py`, retired 2026-06-06). Reads `gov_registry_sources.json` (14 live-validated channels: MOFCOM, MFA spokesperson + news, Taiwan Affairs Office, NDRC, NEA, PBOC, MOF, CSRC, CAC, MCA, CIPS, SAFE + State Council EN + US Federal Register JSON API), scrapes each listing page generically (or hits the API), DeepSeek-translates Chinese titles, and tags every item with a **canonical dashboard `pillar`** (politics | economy | tech | geopolitics | regulatory | society) plus a secondary book `chapter`. The `pillar` is what the daily digest groups on, so an MFA briefing lands in geopolitics, a MOFCOM ruling in economy, a CSRC notice in regulatory, etc. JS-rendered / captcha / blocked / boilerplate-only channels (incl. MIIT, MOD, Customs, SAMR) are listed under `_needs_browser` in the seed and deliberately excluded (they need a headless browser, not `requests`). Supports a per-source `enc` override for legacy GB2312 sites (e.g. 国台办).
 - `elite_press.py`: Sinocism-style institutional sources via Google News RSS proxy, each tagged with a thematic `pillar` — party organs/official media (People's Daily, Qiushi → `politics`), domestic financial media (Caixin, Yicai, 21CBH → `economy`), tech/industry media (36Kr, Jiemian → `tech`), and Western elite press on China (FT, WSJ, Bloomberg, Reuters, SCMP → `geopolitics`). Chinese headlines translated with DeepSeek; English passed through.
 - `db_writer.py`: Utility to write collector data to Neon Postgres (requires DATABASE_URL)
+- `baselines.py`: The Neon **read path** (first consumer of the archive). Pulls 90 days of the `indicators` table, overlays fresh latest values from the local JSON feeds, computes winsorized 30/90-day baselines per series, and writes `docs/data/baselines.json` with a ranked `deviations[]` list (z-spikes ≥2σ, 90-day range breaks, `new_print` when a step series like LPR/CPI just changed). Series with <10 observed days are flagged `baseline_building` and never z-scored. Runs in the workflow after collectors, BEFORE the digest. No-ops without DATABASE_URL (leaves the existing file untouched).
 - `daily_digest.py`: Cross-source synthesis run after all collectors. Ranks stories by cross-platform salience, uses DeepSeek (`deepseek-v4-flash`) to write the narrative brief + per-story "why it matters", and falls back to a deterministic digest if DeepSeek is unavailable.
 
 ## Daily Digest Outputs
 
 `daily_digest.py` is the aggregation/utility layer on top of the collectors. It does
 NOT follow the standard `items` schema. Outputs (all under `docs/data/`):
-- `daily_digest.json`: rich feed — `headline`, `narrative`/`narrative_zh` (a sharper Sinocism-style "Lead-in"), `market_snapshot`, `themes`, `entities`, `pillars[]` (ordered thematic blocks present this run), and ranked `top_stories[]` (each with `weight`, `platforms`, `platform_count`, `primary_title`, `english_title`, `why_it_matters`, `pull_quote`, `pillar`/`pillar_label`, `source`, `category`, `url`). Stories are grouped into the `pillars` blocks (High Politics, Economy & Markets, Industry/Tech, U.S.–China/Geopolitics, Regulatory, What's Trending) in both the dashboard hero and `digest.md`.
+- `daily_digest.json`: rich feed — `headline`, `narrative`/`narrative_zh` (a sharper Sinocism-style "Lead-in"), `market_snapshot`, `deviations[]` (the archive-baseline deviation watch, also fed into the DeepSeek prompt so the narrative weighs significance, not just salience), `themes`, `entities`, `pillars[]` (ordered thematic blocks present this run), and ranked `top_stories[]` (each with `weight`, `platforms`, `platform_count`, `primary_title`, `english_title`, `why_it_matters`, `pull_quote`, `pillar`/`pillar_label`, `source`, `category`, `url`). Stories are grouped into the `pillars` blocks (High Politics, Economy & Markets, Industry/Tech, U.S.–China/Geopolitics, Regulatory, What's Trending) in both the dashboard hero and `digest.md`.
 - `digest.md`: human/LLM-friendly Markdown brief for downstream daily-digest pipelines.
 - `digest_archive/<date>/<slot>.json`: point-in-time snapshot (`slot` = morning/midday/evening).
 
@@ -138,6 +142,9 @@ premium line drawn around archive depth and deviation signals.
 - **Connection**: Set DATABASE_URL secret in GitHub Actions
 - **Usage**: Dual-write — JSON files for GitHub Pages, Neon for historical queries
 - Data writes happen after JSON collection in the workflow
+- **Depth (verified 2026-06-11)**: `snapshots` back to 2025-10-03, `indicators` and `news_items` back to 2026-02-15 (~580 obs per core indicator series). Neon is the durable archive; the `docs/data/history/*.json` files are deliberately bounded rolling windows (~100 entries) for the static site — losing their tail is fine by design.
+- **Read path**: `collectors/baselines.py` (30/90-day baselines + deviation watch). Read-path indexes exist on `indicators(name, captured_at)`, `news_items(source, captured_at)`, `snapshots(source, captured_at)`.
+- Local access for ad-hoc queries: `npx -y neonctl connection-string --project-id quiet-king-62917095 --org-id org-soft-morning-51385819`
 
 ## Vercel Deployment
 
@@ -177,21 +184,22 @@ between an MFA line, a CNH move, and a Weibo spike is a claim only our own archi
 **The moat is time** — the asset compounds the longer it accumulates, while a voice-based
 moat stays replicable.
 
-**The blocker we found (do this FIRST).** A data-native strategy currently rests on a
-leaking memory. As of 2026-06-08: `history/*.json` are rolling windows (e.g.
-`history/indices.json` capped at ~100 points — it *truncates* older history), several
-series are only 2 days deep, and **Neon is write-only — `db_writer.py` has three INSERTs
-and zero reads; nothing analytical consumes the archive.** Step zero is unglamorous:
-durable, append-only, queryable history + a read path back from Neon. No clever analysis
-stands up until the memory stops leaking.
+**Step zero — DONE (2026-06-11).** The 2026-06-08 diagnosis ("leaking memory") turned
+out half-wrong in a good way: Neon had been silently accumulating all along —
+`snapshots` back to 2025-10-03, `indicators`/`news_items` back to 2026-02-15 (~580
+observations per core series). What WAS true: nothing read it. That's fixed:
+`collectors/baselines.py` is the read path (see Collector Architecture), read-path
+indexes are in place, and the deviation watch ships in every digest. The bounded
+`history/*.json` windows are now by-design views, not the system of record.
 
 **Capability ladder (each rung needs the one below):**
-1. **Deviation** — every indicator/theme carries a baseline from our own archive; surface
-   what is *abnormal* vs. a 30/90-day norm (index breaks range, commodity Z-spike, theme
-   returns after absence, a gov channel posting at unusual frequency). This is the Neon
-   read-back that's missing, and it fixes today's **salience-vs-significance** problem
-   (`daily_digest._score()` ranks by what's *hot*, not what *matters* — deviation IS a
-   significance signal).
+1. **Deviation — SHIPPED 2026-06-11 (numeric indicators).** Every numeric series
+   carries a 30/90-day baseline from our own archive; `baselines.json` ranks what is
+   *abnormal* (z-spike, range break, new policy/monthly print) and the digest's
+   DeepSeek prompt + `deviations[]` field + dashboard sidebar surface it. This fixes
+   the **salience-vs-significance** problem for indicators. NOT yet covered: theme/
+   discourse deviation (a theme returning after absence, a gov channel posting at
+   unusual frequency) — that needs the `news_items` read path, same pattern.
 2. **Cross-signal correlation** — co-movement across the normally-siloed pillars
    ("export-control language + CNH weakness + rare-earth move clustered this week").
 3. **Discourse drift** — for primary sources (`gov_registry`, `elite_press`), track *how
