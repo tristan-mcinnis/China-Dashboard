@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-06-11T09:59:57+08:00",
+  "as_of": "2026-06-11T11:50:00+08:00",
   "source": "Neon archive baselines (30/90-day)",
   "items": [
     {
@@ -173,7 +173,7 @@
     },
     {
       "title": "ChiNext",
-      "value": 3854.7935,
+      "value": 3785.626,
       "url": "",
       "extra": {
         "feed": "indices",
@@ -194,14 +194,16 @@
           "min": 3149.596,
           "max": 4125.0747
         },
-        "z30": -1.56,
-        "flags": [],
-        "note": ""
+        "z30": -2.47,
+        "flags": [
+          "z_spike"
+        ],
+        "note": "ChiNext at 3,785.63 is 2.5σ below its 30-day mean (3,972.92)"
       }
     },
     {
       "title": "Copper",
-      "value": 6.18,
+      "value": 6.21,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -231,7 +233,7 @@
     },
     {
       "title": "Crude (Brent)",
-      "value": 95.26,
+      "value": 94.82,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -261,7 +263,7 @@
     },
     {
       "title": "Crude (WTI)",
-      "value": 92.39,
+      "value": 91.92,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -291,7 +293,7 @@
     },
     {
       "title": "EUR/CNY",
-      "value": 7.8141,
+      "value": 7.8211,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -312,7 +314,7 @@
           "min": 7.7858,
           "max": 8.0436
         },
-        "z30": -1.5,
+        "z30": -1.34,
         "flags": [],
         "note": ""
       }
@@ -347,7 +349,7 @@
     },
     {
       "title": "Gold",
-      "value": 4064.4,
+      "value": 4087.0,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -689,7 +691,7 @@
     },
     {
       "title": "SSE Composite",
-      "value": 3993.226,
+      "value": 3964.241,
       "url": "",
       "extra": {
         "feed": "indices",
@@ -710,14 +712,16 @@
           "min": 3813.283,
           "max": 4242.572
         },
-        "z30": -1.77,
-        "flags": [],
-        "note": ""
+        "z30": -2.26,
+        "flags": [
+          "z_spike"
+        ],
+        "note": "SSE Composite at 3,964.24 is 2.3σ below its 30-day mean (4,098.09)"
       }
     },
     {
       "title": "STAR 50",
-      "value": 1652.2241,
+      "value": 1634.9258,
       "url": "",
       "extra": {
         "feed": "indices",
@@ -738,7 +742,7 @@
           "min": 1256.21,
           "max": 1896.037
         },
-        "z30": -1.38,
+        "z30": -1.66,
         "flags": [],
         "note": ""
       }
@@ -773,7 +777,7 @@
     },
     {
       "title": "Shenzhen Component",
-      "value": 14954.101,
+      "value": 14756.975,
       "url": "",
       "extra": {
         "feed": "indices",
@@ -794,11 +798,11 @@
           "min": 13345.514,
           "max": 16089.749
         },
-        "z30": -2.48,
+        "z30": -3.31,
         "flags": [
           "z_spike"
         ],
-        "note": "Shenzhen Component at 14,954.1 is 2.5σ below its 30-day mean (15,543.85)"
+        "note": "Shenzhen Component at 14,756.98 is 3.3σ below its 30-day mean (15,543.85)"
       }
     },
     {
@@ -859,7 +863,7 @@
     },
     {
       "title": "USD/CNH",
-      "value": 6.7811,
+      "value": 6.7763,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -880,14 +884,14 @@
           "min": 6.762,
           "max": 6.9181
         },
-        "z30": -0.33,
+        "z30": -0.66,
         "flags": [],
         "note": ""
       }
     },
     {
       "title": "USD/CNY",
-      "value": 6.774,
+      "value": 6.7738,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -908,7 +912,7 @@
           "min": 6.7617,
           "max": 6.9114
         },
-        "z30": -0.61,
+        "z30": -0.63,
         "flags": [],
         "note": ""
       }
@@ -917,6 +921,17 @@
   "window_days": 90,
   "short_window_days": 30,
   "deviations": [
+    {
+      "title": "Shenzhen Component",
+      "feed": "indices",
+      "kind": "continuous",
+      "flags": [
+        "z_spike"
+      ],
+      "z30": -3.31,
+      "severity": 3.31,
+      "note": "Shenzhen Component at 14,756.98 is 3.3σ below its 30-day mean (15,543.85)"
+    },
     {
       "title": "New Home Prices YoY",
       "feed": "property",
@@ -929,15 +944,26 @@
       "note": "New Home Prices YoY moved -4.3 → -3.7"
     },
     {
-      "title": "Shenzhen Component",
+      "title": "ChiNext",
       "feed": "indices",
       "kind": "continuous",
       "flags": [
         "z_spike"
       ],
-      "z30": -2.48,
-      "severity": 2.48,
-      "note": "Shenzhen Component at 14,954.1 is 2.5σ below its 30-day mean (15,543.85)"
+      "z30": -2.47,
+      "severity": 2.47,
+      "note": "ChiNext at 3,785.63 is 2.5σ below its 30-day mean (3,972.92)"
+    },
+    {
+      "title": "SSE Composite",
+      "feed": "indices",
+      "kind": "continuous",
+      "flags": [
+        "z_spike"
+      ],
+      "z30": -2.26,
+      "severity": 2.26,
+      "note": "SSE Composite at 3,964.24 is 2.3σ below its 30-day mean (4,098.09)"
     }
   ],
   "notes": "Per-indicator baselines computed from this project's own Neon archive. deviations[] ranks what is statistically abnormal right now: z_spike = |z| >= 2.0 vs winsorized 30-day mean; range_high/low = outside the 90-day range; new_print = a step series (policy rate, monthly print) just changed. Series flagged baseline_building have too little history for reliable z-scores."

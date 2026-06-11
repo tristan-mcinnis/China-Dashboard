@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T06:40:17+08:00",
+  "updated_at": "2026-06-11T11:50:59+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -5125,9 +5125,21 @@
       ]
     },
     "market downturn": {
-      "label": "market downturn",
-      "count": 1,
+      "label": "Market downturn",
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "全国小麦收获进度已过七成",
+          "english_title": "National wheat harvest progress exceeds 70%",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%8F%E9%BA%A6%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BF%87%E4%B8%83%E6%88%90",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
         {
           "date": "2026-06-06",
           "title": "中老友谊历久弥坚启新程",
@@ -8084,8 +8096,29 @@
     },
     "sino-north korea relations": {
       "label": "Sino-North Korea relations",
-      "count": 2,
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "习近平出席金正恩举行的欢送仪式",
+          "english_title": "Xi Jinping attends farewell ceremony hosted by Kim Jong Un",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YbU8wNmdQSEUyMUdlb2ZqU1lKSDY0ME1tcTlkRXNLMXVoeHlibWdNeml2VW1kelhFdnExczk2ZXNnYzhxaWRHZTMxU25oam9WSnh0VDc4WlZJcjNNLTJqVUg4WjVlTlk1RkMw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "从三个维度读懂中朝传统友谊新篇章",
+          "english_title": "Xi Jinping visits North Korea, writes new chapter in bilateral ties",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E6%96%B0%E7%AF%87%E7%AB%A0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-11",
           "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
@@ -8213,6 +8246,138 @@
           "english_title": "Summer Wheat Harvest Exceeds 70% of Planned Area",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YeFF3MTAyZEZZcGNQU3hzVnQwS2dxY3NibVVUSEJ1a0lxbHBMTHhtZC05V2JDblBPcklZUGctOExZc2ltTFNjUGpIcDNOUjdsLWN5aG55M25BamtlbEZocXQyeG9OLWlMMzhXaldDenBCQWJVRXBBWTZDaEVWR0E?oc=5",
           "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "food security": {
+      "label": "Food security",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "2026年6月10日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson regular press conference (June 10)",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260610_11941616.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "该警惕日本的 不只是中国",
+          "english_title": "Japan's LDP passes draft to revise security documents, loosening 'exclusive defense' posture",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%A5%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E7%9A%84+%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%AD%E5%9B%BD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "全国小麦收获进度已过七成",
+          "english_title": "National wheat harvest progress exceeds 70%",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%8F%E9%BA%A6%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BF%87%E4%B8%83%E6%88%90",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "japan military revision": {
+      "label": "Japan military revision",
+      "count": 4,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office press conference (June 10)",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "2026年6月10日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson regular press conference (June 10)",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260610_11941616.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "该警惕日本的 不只是中国",
+          "english_title": "Japan's LDP passes draft to revise security documents, loosening 'exclusive defense' posture",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%A5%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E7%9A%84+%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%AD%E5%9B%BD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "从三个维度读懂中朝传统友谊新篇章",
+          "english_title": "Xi Jinping visits North Korea, writes new chapter in bilateral ties",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E6%96%B0%E7%AF%87%E7%AB%A0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "platform regulation": {
+      "label": "Platform regulation",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "遭仅退款榴莲商家终于等来了道歉",
+          "english_title": "E-commerce buyer apologizes for fraudulent 'refund-only' claim using forged moldy fruit photos",
+          "url": "https://www.baidu.com/s?wd=%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE%E6%A6%B4%E8%8E%B2%E5%95%86%E5%AE%B6%E7%BB%88%E4%BA%8E%E7%AD%89%E6%9D%A5%E4%BA%86%E9%81%93%E6%AD%89",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "tech sector volatility": {
+      "label": "Tech sector volatility",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces decision on anti-dumping tax rate succession for POM imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "全国小麦收获进度已过七成",
+          "english_title": "National wheat harvest progress exceeds 70%",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%8F%E9%BA%A6%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BF%87%E4%B8%83%E6%88%90",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
             "xinhua_news"
           ],
           "category": "news"
