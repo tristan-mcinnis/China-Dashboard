@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T15:34:13+08:00",
+  "updated_at": "2026-06-11T20:01:10+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -8496,6 +8496,124 @@
             "xinhua_news"
           ],
           "category": "press"
+        }
+      ]
+    },
+    "market stress": {
+      "label": "Market stress",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "于东来：胖东来员工不值这么多钱",
+          "english_title": "Yu Donglai says Pangdonglai staff don't deserve high pay",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%EF%BC%9A%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E5%80%BC%E8%BF%99%E4%B9%88%E5%A4%9A%E9%92%B1",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "diplomatic pushback": {
+      "label": "Diplomatic pushback",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "外交部副部长苗得雨会见南非外交部总司长丹格（2026-06-07）",
+          "english_title": "Vice Foreign Minister Miao Deyu meets South Africa's Director-General of Foreign Affairs",
+          "url": "https://www.mfa.gov.cn/web/wjbxw_new/202606/t20260607_11939033.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "于东来：胖东来员工不值这么多钱",
+          "english_title": "Yu Donglai says Pangdonglai staff don't deserve high pay",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%EF%BC%9A%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E5%80%BC%E8%BF%99%E4%B9%88%E5%A4%9A%E9%92%B1",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "domestic stimulus": {
+      "label": "Domestic stimulus",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Five ministries adjust export control catalogue for precursor chemicals to specific countries",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "旅游列车升级版来了 8部门促铁路与旅游融合发展",
+          "english_title": "Eight ministries promote railway-tourism integration with upgraded tourist trains",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjVEenFfUmw5NW5lUVB6d0xjdlp1NUxyRVJYblltZHdZbjJKc1k1Wm0zdmNXUGhpUE16UmZQRlQzWG9sUFVIb0wyeUQ3Uy03dFRVTjN2eElwWFh4a0hrZ0Vkb1BMY1lVcU8zRmtWU0JBdEVLd2x4RC1LVVM1WjVDNFpvOFZUaUVKTkluUlhB?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "labor-capital tension": {
+      "label": "Labor-capital tension",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "State Council Taiwan Affairs Office holds press conference on June 10",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "于东来：胖东来员工不值这么多钱",
+          "english_title": "Yu Donglai says Pangdonglai staff don't deserve high pay",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%EF%BC%9A%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E5%80%BC%E8%BF%99%E4%B9%88%E5%A4%9A%E9%92%B1",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "sme liquidity crunch": {
+      "label": "SME liquidity crunch",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-11",
+          "title": "于东来：胖东来员工不值这么多钱",
+          "english_title": "Yu Donglai says Pangdonglai staff don't deserve high pay",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%EF%BC%9A%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E5%80%BC%E8%BF%99%E4%B9%88%E5%A4%9A%E9%92%B1",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
         }
       ]
     }
