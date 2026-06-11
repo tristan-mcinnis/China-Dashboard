@@ -1,0 +1,237 @@
+{
+  "description": "Point-in-time snapshots of the daily digest. Each URL is a stable permalink — snapshots are never rewritten after their slot passes.",
+  "generated_at": "2026-06-11T08:55:13+08:00",
+  "url_template": "https://china-dashboard.vercel.app/data/digest_archive/<YYYY-MM-DD>/<slot>.json",
+  "slots": [
+    "morning",
+    "midday",
+    "evening"
+  ],
+  "earliest_date": "2026-05-30",
+  "latest_date": "2026-06-11",
+  "count": 37,
+  "snapshots": [
+    {
+      "date": "2026-06-11",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-11/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-11/morning.json"
+    },
+    {
+      "date": "2026-06-10",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-10/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-10/morning.json"
+    },
+    {
+      "date": "2026-06-10",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-10/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-10/midday.json"
+    },
+    {
+      "date": "2026-06-10",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-10/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-10/evening.json"
+    },
+    {
+      "date": "2026-06-09",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-09/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-09/morning.json"
+    },
+    {
+      "date": "2026-06-09",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-09/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-09/midday.json"
+    },
+    {
+      "date": "2026-06-09",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-09/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-09/evening.json"
+    },
+    {
+      "date": "2026-06-08",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-08/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-08/morning.json"
+    },
+    {
+      "date": "2026-06-08",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-08/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-08/midday.json"
+    },
+    {
+      "date": "2026-06-08",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-08/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-08/evening.json"
+    },
+    {
+      "date": "2026-06-07",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-07/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-07/morning.json"
+    },
+    {
+      "date": "2026-06-07",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-07/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-07/midday.json"
+    },
+    {
+      "date": "2026-06-07",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-07/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-07/evening.json"
+    },
+    {
+      "date": "2026-06-06",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-06/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-06/morning.json"
+    },
+    {
+      "date": "2026-06-06",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-06/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-06/midday.json"
+    },
+    {
+      "date": "2026-06-06",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-06/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-06/evening.json"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-05/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-05/morning.json"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-05/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-05/midday.json"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-05/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-05/evening.json"
+    },
+    {
+      "date": "2026-06-04",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-04/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-04/morning.json"
+    },
+    {
+      "date": "2026-06-04",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-04/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-04/midday.json"
+    },
+    {
+      "date": "2026-06-04",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-04/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-04/evening.json"
+    },
+    {
+      "date": "2026-06-03",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-03/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-03/morning.json"
+    },
+    {
+      "date": "2026-06-03",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-03/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-03/midday.json"
+    },
+    {
+      "date": "2026-06-03",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-03/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-03/evening.json"
+    },
+    {
+      "date": "2026-06-02",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-02/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-02/morning.json"
+    },
+    {
+      "date": "2026-06-02",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-02/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-02/midday.json"
+    },
+    {
+      "date": "2026-06-02",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-02/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-02/evening.json"
+    },
+    {
+      "date": "2026-06-01",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-01/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-01/morning.json"
+    },
+    {
+      "date": "2026-06-01",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-01/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-01/midday.json"
+    },
+    {
+      "date": "2026-06-01",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-01/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-01/evening.json"
+    },
+    {
+      "date": "2026-05-31",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-05-31/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-05-31/morning.json"
+    },
+    {
+      "date": "2026-05-31",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-05-31/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-05-31/midday.json"
+    },
+    {
+      "date": "2026-05-31",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-05-31/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-05-31/evening.json"
+    },
+    {
+      "date": "2026-05-30",
+      "slot": "morning",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-05-30/morning.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-05-30/morning.json"
+    },
+    {
+      "date": "2026-05-30",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-05-30/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-05-30/midday.json"
+    },
+    {
+      "date": "2026-05-30",
+      "slot": "evening",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-05-30/evening.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-05-30/evening.json"
+    }
+  ]
+}

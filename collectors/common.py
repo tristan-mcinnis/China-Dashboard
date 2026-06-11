@@ -67,8 +67,14 @@ def base_headers() -> dict:
     }
 
 
+# Bump only on breaking changes to the feed item shape; downstream agents and
+# pipelines key off this to decide whether they can still parse us.
+SCHEMA_VERSION = 1
+
+
 def schema(source, items):
     return {
+        "schema_version": SCHEMA_VERSION,
         "as_of": now_iso_tz8(),
         "source": source,
         "items": items,

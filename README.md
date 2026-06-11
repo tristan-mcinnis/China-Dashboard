@@ -41,13 +41,20 @@ Every feed is plain static JSON with CORS enabled (`Access-Control-Allow-Origin:
 and short caching, so anyone can pull this data into their own dashboard, newsletter,
 or LLM pipeline without re-scraping. The discovery manifest lists every endpoint:
 
+- **`/llms.txt`** – agent front door ([llms.txt convention](https://llmstxt.org)):
+  `https://china-dashboard.vercel.app/llms.txt`. Points AI agents at the manifest,
+  digest, key feeds, and archive.
 - **`docs/data/endpoints.json`** – machine-readable catalogue of all feeds, their
-  categories, raw URLs, freshness (`as_of`), and schema notes. Regenerated each run
-  by `collectors/build_endpoints.py`.
+  categories, raw URLs, per-feed `history_url`, freshness (`as_of`), and schema
+  notes. Regenerated each run by `collectors/build_endpoints.py`.
+- **`docs/data/digest_archive/index.json`** – newest-first index of every archived
+  brief with stable permalinks (`/data/digest_archive/<YYYY-MM-DD>/<slot>.json`).
+  Snapshots are never rewritten, so they are safe to cite.
 
 Primary base (Vercel, browser-friendly): `https://china-dashboard.vercel.app/data/<feed>.json`.
 GitHub raw mirror: `https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/<feed>.json`.
-Bilingual feeds carry the English title in `extra.translation`.
+Bilingual feeds carry the English title in `extra.translation`. Every standard feed
+is stamped with `schema_version` (bumped only on breaking shape changes).
 
 ## Live dashboard
 

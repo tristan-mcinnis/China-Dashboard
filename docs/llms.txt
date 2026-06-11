@@ -1,0 +1,31 @@
+# China Snapshot Dashboard
+
+> Machine-readable China signals for people (and agents) outside China: bilingual trending topics, official ministry/regulator announcements, market and macro indicators, and a synthesized daily brief — refreshed 5x/day on Beijing time (06:00, 10:30, 14:00, 18:30, 22:00). All endpoints are static JSON/Markdown with CORS enabled, free to consume, no key required.
+
+Everything below is served from https://china-dashboard.vercel.app (mirror: raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs). Standard feeds follow `{schema_version, as_of, source, items[]}` with each item `{title, value, url, extra{}}`; Chinese titles carry an English translation in `extra.translation`. Salience in the digest is measured (cross-platform attention), not editorial opinion, and every item links back to its primary source.
+
+## Start here
+
+- [Endpoints manifest](https://china-dashboard.vercel.app/data/endpoints.json): self-describing catalog of every feed, schema notes, mirrors, and archive permalinks — fetch this first
+- [Daily digest (JSON)](https://china-dashboard.vercel.app/data/daily_digest.json): the synthesized brief — headline, narrative, market snapshot, themes, entities, and ranked top stories grouped by pillar (politics, economy, tech, geopolitics, regulatory, society)
+- [Daily digest (Markdown)](https://china-dashboard.vercel.app/data/digest.md): the same brief as clean Markdown, written for LLM consumption
+- [Health](https://china-dashboard.vercel.app/data/health.json): collector success counts and freshness — check this before trusting a feed
+
+## Key feeds
+
+- [Government & regulatory registry](https://china-dashboard.vercel.app/data/gov_registry.json): same-day items from 14 official channels (MOFCOM, MFA, Taiwan Affairs Office, PBOC, MOF, CSRC, CAC, NDRC, NEA, MCA, CIPS, SAFE, State Council EN) plus the US Federal Register, bilingual and pillar-tagged
+- [Elite press](https://china-dashboard.vercel.app/data/elite_press.json): party organs, Chinese financial/tech media, and Western elite press on China, bilingual and pillar-tagged
+- [Markets & macro](https://china-dashboard.vercel.app/data/endpoints.json): indices, CNY FX, commodities, PBOC rates, NBS monthly (CPI/PPI/PMI), trade, 70-city property — see the manifest for each feed URL
+- [Trending topics](https://china-dashboard.vercel.app/data/endpoints.json): Baidu, Weibo, and WeChat hot lists with English translations — see the manifest
+
+## Archive & history
+
+- [Digest archive index](https://china-dashboard.vercel.app/data/digest_archive/index.json): stable permalinks to every past brief, `/data/digest_archive/<YYYY-MM-DD>/<morning|midday|evening>.json` — snapshots are never rewritten, safe to cite
+- [Digest history](https://china-dashboard.vercel.app/data/digest_history.json): consolidated newest-first index of recent briefs in one fetch
+- [Tags index](https://china-dashboard.vercel.app/data/tags_index.json): recurring story tags with the dated stories behind them
+- Rolling intraday history per feed at `/data/history/<feed>.json` (bounded window; see `history_url` in the manifest)
+
+## Optional
+
+- [Dashboard (human UI)](https://china-dashboard.vercel.app/): the same data rendered for people
+- [Source repository](https://github.com/tristan-mcinnis/china-dashboard): collectors, schema, and pipeline are open source
