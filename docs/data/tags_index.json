@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T23:14:21+08:00",
+  "updated_at": "2026-06-13T06:33:56+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -2468,9 +2468,19 @@
       ]
     },
     "financial regulation": {
-      "label": "Financial regulation",
-      "count": 2,
+      "label": "Financial Regulation",
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC clarifies new regulations for private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-07",
           "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
@@ -6536,9 +6546,29 @@
       ]
     },
     "trade remedies": {
-      "label": "Trade remedies",
-      "count": 2,
+      "label": "Trade Remedies",
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on polyacetal from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-08",
           "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
@@ -9181,8 +9211,20 @@
     },
     "currency strength": {
       "label": "Currency Strength",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "加拿大1比1波黑",
+          "english_title": "Canada and Bosnia draw 1-1 in World Cup opener",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A71%E6%AF%941%E6%B3%A2%E9%BB%91",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-12",
           "title": "世界杯在中国的收视率爆了",
@@ -9399,6 +9441,23 @@
             "xinhua_news"
           ],
           "category": "news"
+        }
+      ]
+    },
+    "capital flows": {
+      "label": "Capital Flows",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "中国农机驶向全球",
+          "english_title": "China's agricultural machinery exports expand globally",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9C%BA%E9%A9%B6%E5%90%91%E5%85%A8%E7%90%83",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
         }
       ]
     }

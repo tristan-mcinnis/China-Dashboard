@@ -1,8 +1,311 @@
 {
-  "as_of": "2026-06-12T23:14:21+08:00",
+  "as_of": "2026-06-13T06:33:56+08:00",
   "source": "daily_digest archive",
-  "count": 42,
+  "count": 43,
   "entries": [
+    {
+      "as_of": "2026-06-13T06:33:56+08:00",
+      "date": "2026-06-13",
+      "time_label": "Morning Brief",
+      "beijing_time": "06:33",
+      "digest_type": "morning",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Yuan hits 90-day high as Beijing unleashes trade remedies and tightens private fund rules",
+      "headline_zh": "人民币创90日新高，中国密集出台贸易救济与私募新规",
+      "narrative": "The yuan strengthened to a 90-day high against the dollar on June 13, even as the Ministry of Commerce announced anti-dumping duties on polyacetal imports from three Asian countries and tightened export controls on precursor chemicals. The currency move suggests persistent capital inflows or central bank guidance, diverging from expectations of depreciation amid China's slowing recovery. Meanwhile, the CSRC clarified new regulations for private investment funds, signaling continued deleveraging and risk control in the financial sector. Taken together, these actions underscore Beijing's dual focus on managing external trade frictions and domestic financial stability.",
+      "narrative_zh": "人民币兑美元升至90日新高，商务部同日宣布对韩国、泰国和马来西亚的共聚聚甲醛征收反倾销税，并收紧易制毒化学品出口管制。汇率走势显示资本持续流入或央行引导，与市场预期的贬值走势背离。同时，证监会就私募基金监管新规答记者问，表明金融去杠杆与风险防控仍在推进。上述举措凸显北京在外部贸易摩擦与内部金融稳定之间的双向发力。",
+      "market_snapshot": "SSE Composite 4031.513 ▲0.54% · Shenzhen Component 14963.407 ▼2.00% · ChiNext 3830.353 ▲0.50% · USD/CNY 6.7621 ▼0.19% · USD/CNH 6.76 ▼0.04%",
+      "themes": [
+        "Currency Strength",
+        "Trade Remedies",
+        "Financial Regulation",
+        "Capital Flows"
+      ],
+      "theme_trends": {
+        "Currency Strength": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "Trade Remedies": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "Financial Regulation": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "Capital Flows": {
+          "status": "recurring",
+          "days_seen": 3
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "加拿大1比1波黑",
+          "english_title": "Canada and Bosnia draw 1-1 in World Cup opener",
+          "why_it_matters": "World Cup opening matches in Canada capture Chinese audience attention but overshadowed by ceremony mishap.",
+          "why_it_matters_zh": "世界杯揭幕战引中国球迷关注，但开幕式失误更成焦点。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A71%E6%AF%941%E6%B3%A2%E9%BB%91"
+        },
+        {
+          "primary_title": "加拿大开幕式又翻车了",
+          "english_title": "World Cup trophy deflates during opening ceremony in Toronto",
+          "why_it_matters": "Organizational gaffe fuels online mockery in China, reflecting global scrutiny of Canada's hosting capabilities.",
+          "why_it_matters_zh": "组织失误引发中国网民嘲讽，凸显东道主能力受质疑。",
+          "pull_quote": "大力神杯漏气，一秒从神杯变瘪杯",
+          "pull_quote_zh": "大力神杯漏气，一秒从神杯变瘪杯",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F%E5%8F%88%E7%BF%BB%E8%BD%A6%E4%BA%86"
+        },
+        {
+          "primary_title": "总书记朝鲜行的“重要里程碑意义”",
+          "english_title": "Xi's state visit to North Korea hailed as 'important milestone'",
+          "why_it_matters": "Visit reinforces China-North Korea ties amid US alliance pressures, but substantive outcomes remain unclear.",
+          "why_it_matters_zh": "访问巩固中朝关系，但实质性成果存疑。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9C%9D%E9%B2%9C%E8%A1%8C%E7%9A%84%E2%80%9C%E9%87%8D%E8%A6%81%E9%87%8C%E7%A8%8B%E7%A2%91%E6%84%8F%E4%B9%89%E2%80%9D"
+        },
+        {
+          "primary_title": "活力中国调研行",
+          "english_title": "State media promotes brain-computer interface as technological frontier",
+          "why_it_matters": "Part of propaganda effort to showcase innovation, but timeline for practical application and ethical concerns are downplayed.",
+          "why_it_matters_zh": "官方宣传展示创新成就，但淡化实用性时间表与伦理问题。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press",
+            "weibo_hot"
+          ],
+          "platform_count": 2,
+          "source": "People's Daily",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD%E8%B0%83%E7%A0%94%E8%A1%8C&v_p=42"
+        },
+        {
+          "primary_title": "中国农机驶向全球",
+          "english_title": "China's agricultural machinery exports expand globally",
+          "why_it_matters": "Highlights China's manufacturing versatility and export competitiveness in capital goods, moving up value chain.",
+          "why_it_matters_zh": "彰显中国制造业多元化和资本品出口竞争力，价值链上移。",
+          "pull_quote": "我国是全球唯一具备全品类农机制造能力的国家",
+          "pull_quote_zh": "我国是全球唯一具备全品类农机制造能力的国家",
+          "pillar": "economy",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9C%BA%E9%A9%B6%E5%90%91%E5%85%A8%E7%90%83"
+        },
+        {
+          "primary_title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry holds regular press conference",
+          "why_it_matters": "Likely covered key diplomatic responses, including on Taiwan, Korea visit fallout, and trade disputes.",
+          "why_it_matters_zh": "可能涉及台湾、访朝后续及贸易争端等议题。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml"
+        },
+        {
+          "primary_title": "公安部：10类电诈犯罪仍然多发高发",
+          "english_title": "Ministry of Public Security identifies 10 rampant telecom fraud types",
+          "why_it_matters": "Underlines persistent cybercrime challenge and government's ongoing crackdown, but efficacy questioned.",
+          "why_it_matters_zh": "凸显网络犯罪顽疾及政府打击力度，但效果存疑。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MeG5JcDJTVlhqQUpYUTJMZlN0MDlHNmNLTmwxMUNWVno1ZW5wUklQQzZ3MlpJeUlmTG1BRUd3bGs5eGxJYWdKRjQxRUFBV3M3VTZEYldwcUdGZjVlSUZjVFlHTHNQTTdfWlJzQnFLaUtXSXF3cWdtS3dpYXpaQlU?oc=5"
+        },
+        {
+          "primary_title": "我国旅居韩国大熊猫“华妮”产下一只雌性幼崽",
+          "english_title": "Panda Hua Ni gives birth in South Korea",
+          "why_it_matters": "Soft power success and symbol of China-Korea cultural exchange, but diplomatic tensions may limit impact.",
+          "why_it_matters_zh": "软实力成功与中韩文化交流象征，但外交紧张或减弱影响。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SnJCY25uUVBWZU11ZE4waEp1VmF6NHBKYXhOc1RiN3hZcVJ3SFdVbFp6SUczalE5TWo3NzlWd1VPLTFYcVBNZ192ZHY3RzEwWlpZb2Q2ZFBSeGl0T1BzNzJLTUgtOXJnMElVSkFB?oc=5"
+        },
+        {
+          "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to boost railway-tourism integration",
+          "why_it_matters": "Part of consumption stimulus efforts, aiming to revitalize domestic tourism and railway infrastructure usage.",
+          "why_it_matters_zh": "促消费举措之一，旨在提振国内旅游与铁路利用率。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on polyacetal from Korea, Thailand, Malaysia",
+          "why_it_matters": "Signal of protectionist intent in chemical sector; likely to impact downstream industries and bilateral trade relations.",
+          "why_it_matters_zh": "化工领域保护主义信号，影响下游产业及双边贸易关系。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China adjusts export controls on precursor chemicals",
+          "why_it_matters": "Balances international obligations on drug control with domestic chemical industry interests, may affect supply chains.",
+          "why_it_matters_zh": "平衡国际禁毒义务与化工产业利益，可能影响供应链。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office press conference discusses cross-strait issues",
+          "why_it_matters": "Routine reiteration of One-China principle, but any specific response to recent Taiwan moves would be watched.",
+          "why_it_matters_zh": "例行重申一中原则，但对台近期动作的具体回应值得关注。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC clarifies new regulations for private investment funds",
+          "why_it_matters": "Signals tighter oversight and potential restructuring of the private equity industry, aligning with broader financial risk control.",
+          "why_it_matters_zh": "显示对私募行业的监管收紧，与整体金融风险防控一致。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了-36氪",
+          "english_title": "AI entrepreneurs seek new directions after LLM hype fades",
+          "why_it_matters": "Indicates maturing of China's AI industry, shifting focus from foundation models to application-layer innovation.",
+          "why_it_matters_zh": "中国AI行业成熟，从基础模型转向应用层创新。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIV0d1UjhqYUV4VEM3OUFWLTJObFVFX0VWci1LQ05xUkNLRVVmTjdRZ0Z4Ni1jR2oxakYtRVpCZ3JTSGdCYnJtWkltMHdEV0Jv?oc=5"
+        },
+        {
+          "primary_title": "报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市”",
+          "english_title": "Alibaba reportedly bids $1.5 billion for fresh food e-commerce Pumushop",
+          "why_it_matters": "Alibaba's aggressive expansion into grocery delivery amid intense competition with Meituan and JD, signaling consolidation.",
+          "why_it_matters_zh": "阿里大举进军生鲜电商，与美团、京东竞争加剧，行业整合信号。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmMkhUZXl6SzJXSXZENVk1UW1pY2NmUloyQ09OVm9kQlhRRk84TWY3NUVYQlBMTUI0bUgyRDZRTkZac1l3YVg0S2tYMEFfdGRVQk9zUFF3Wm9PODQ?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-12T23:14:21+08:00",
       "date": "2026-06-12",
