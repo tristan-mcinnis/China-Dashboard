@@ -1,8 +1,334 @@
 {
-  "as_of": "2026-06-12T15:32:16+08:00",
+  "as_of": "2026-06-12T19:49:38+08:00",
   "source": "daily_digest archive",
-  "count": 41,
+  "count": 42,
   "entries": [
+    {
+      "as_of": "2026-06-12T19:49:38+08:00",
+      "date": "2026-06-12",
+      "time_label": "Evening Brief",
+      "beijing_time": "19:48",
+      "digest_type": "evening",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Yuan Strengthens to 91-Day High Amid Policy Focus on Domestic Consumption and Trade",
+      "headline_zh": "人民币升至91日高位，政策聚焦内需与贸易",
+      "narrative": "The yuan closed at 6.76 against the dollar, its strongest in three months, as Beijing rolled out a coordinated policy push to boost domestic demand. The Ministry of Commerce led eight departments in a plan to integrate railway and tourism, while also announcing anti-dumping duties on copolymers from Korea, Thailand and Malaysia and tightening export controls on precursor chemicals. These moves signal a strategic pivot toward consumption-led growth and self-reliance, even as the World Cup viewership surges, a reminder of the vast domestic market. Separately, Xi Jinping's visit to the Sino-Korean Friendship Tower in Pyongyang reinforces alliance diplomacy, while heavy rain warnings for the south pose near-term economic risks.",
+      "narrative_zh": "人民币兑美元收于6.76，创三个月新高，与此同时北京出台一系列政策提振内需。商务部牵头八部门推动铁路旅游融合，并对韩国、泰国、马来西亚共聚聚甲醛征收反倾销税，收紧易制毒化学品出口管制。这些举措指向消费驱动增长和自主可控的战略转向，而世界杯收视率飙升则印证了庞大的国内市场。此外，习近平参谒中朝友谊塔强化了同盟外交，南方强降雨预警则带来短期经济风险。",
+      "market_snapshot": "SSE Composite 4031.513 ▲0.54% · Shenzhen Component 14963.407 ▼2.00% · ChiNext 3830.353 ▲0.50% · USD/CNY 6.7611 ▼0.21% · USD/CNH 6.762 ▼0.01%",
+      "themes": [
+        "Currency Strength",
+        "Domestic Demand",
+        "Trade Policy",
+        "Soft Power Diplomacy",
+        "Weather Risk",
+        "Regulatory Push"
+      ],
+      "theme_trends": {
+        "Currency Strength": {
+          "status": "new",
+          "days_seen": 0
+        },
+        "Domestic Demand": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "Trade Policy": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "Soft Power Diplomacy": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "Weather Risk": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "Regulatory Push": {
+          "status": "recurring",
+          "days_seen": 7
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "世界杯在中国的收视率爆了",
+          "english_title": "World Cup viewership in China explodes on opening day",
+          "why_it_matters": "The record ratings for a non-China match demonstrate the enduring appeal of global sports events and the potential for consumption-driven economic recovery.",
+          "why_it_matters_zh": "非中国队比赛创纪录收视率，显示全球体育赛事的持久吸引力及消费驱动经济复苏的潜力。",
+          "pull_quote": "峰值达同期NBA总决赛的3倍以上",
+          "pull_quote_zh": "峰值达同期NBA总决赛的3倍以上",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%B6%E8%A7%86%E7%8E%87%E7%88%86%E4%BA%86"
+        },
+        {
+          "primary_title": "友谊塔见证中朝友谊薪火相传",
+          "english_title": "Xi Jinping visits Sino-Korean Friendship Tower in Pyongyang",
+          "why_it_matters": "The visit underscores the enduring symbolic importance of the bilateral relationship and Xi's personal commitment to legacy diplomacy on the Korean Peninsula.",
+          "why_it_matters_zh": "此行突显双边关系的持久象征意义及习近平对半岛遗产外交的个人投入。",
+          "pull_quote": "习主席两次访朝均专程参谒友谊塔",
+          "pull_quote_zh": "习主席两次访朝均专程参谒友谊塔",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8B%E8%B0%8A%E5%A1%94%E8%A7%81%E8%AF%81%E4%B8%AD%E6%9C%9D%E5%8F%8B%E8%B0%8A%E8%96%AA%E7%81%AB%E7%9B%B8%E4%BC%A0"
+        },
+        {
+          "primary_title": "中国球迷墨西哥遭抢劫：被用枪抵头",
+          "english_title": "Chinese fan robbed at gunpoint in Mexico during World Cup",
+          "why_it_matters": "Highlights the risks for Chinese travelers abroad and may affect outbound tourism sentiment, especially during major events.",
+          "why_it_matters_zh": "凸显中国游客在海外的风险，可能影响出境旅游信心，尤其是在大型活动期间。",
+          "pull_quote": "劫匪用枪抵头，抢走手表和包",
+          "pull_quote_zh": "劫匪用枪抵头，抢走手表和包",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%8A%A2%E5%8A%AB%EF%BC%9A%E8%A2%AB%E7%94%A8%E6%9E%AA%E6%8A%B5%E5%A4%B4"
+        },
+        {
+          "primary_title": "南方将进入强降雨集中期",
+          "english_title": "Southern China braces for intense rainfall period from June 12",
+          "why_it_matters": "The heavy rains pose immediate risks to agriculture, transportation, and disaster preparedness in key economic regions.",
+          "why_it_matters_zh": "强降雨对关键经济区域的农业、交通和防灾构成直接威胁。",
+          "pull_quote": "广西、广东等地有大到暴雨，局地大暴雨",
+          "pull_quote_zh": "广西、广东等地有大到暴雨，局地大暴雨",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E5%BC%BA%E9%99%8D%E9%9B%A8%E9%9B%86%E4%B8%AD%E6%9C%9F"
+        },
+        {
+          "primary_title": "校园文化建设专访② | 校园文化的内涵包括什么？",
+          "english_title": "Qiushi interview continues series on campus culture construction",
+          "why_it_matters": "Reflects the Party's ongoing ideological push within education, aiming to shape youth values and political loyalty.",
+          "why_it_matters_zh": "反映党在教育领域持续推动意识形态工作，旨在塑造青年价值观和政治忠诚。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Qiushi",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zbFFrUlRueFJIM0hFVW5UM0ZXTng5VHRGdXExcjZ4TzA1QVB5WnBBSnREZG91eEFYOXBSS3NDWldUdWhNMVNNMFJSdGN1bTJUYklsSFM4MVlfaVBQNmRraGIteEh5YkNqUUF4U3Fvc1lfR2pTYU9ncE5QX20?oc=5"
+        },
+        {
+          "primary_title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry spokesperson Lin Jian holds regular press conference",
+          "why_it_matters": "Routine but important for gauging official positions on current diplomatic issues; any off-script remarks would signal policy shifts.",
+          "why_it_matters_zh": "例行但重要，可研判当前外交问题的官方立场；任何即兴发言都可能暗示政策转变。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml"
+        },
+        {
+          "primary_title": "尹锡悦律师团队就“无人机事件”一审判决结果提出上诉",
+          "english_title": "Yoon Suk-yeol's legal team appeals first-instance verdict in 'drone incident'",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05bl9hSnc5SGJkY053N2gtTFBYdWtlT1ZGSk9GSU9ELWxJc25iQkhMUk1vZE5jd0wzRzNEWlRFc3RkdFFNWTlvZFF1RUZsM280aVgwUjlIV3ZnTHF4d0ppdVhraHJGRGxRUEE2eVZxb2pSWUc0ZU9XRFJHeHhZQ2s?oc=5"
+        },
+        {
+          "primary_title": "我国旅居韩国大熊猫“华妮”产下一只雌性幼崽",
+          "english_title": "Hua Hua, a giant panda residing in South Korea, gave birth to a female cub",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SnJCY25uUVBWZU11ZE4waEp1VmF6NHBKYXhOc1RiN3hZcVJ3SFdVbFp6SUczalE5TWo3NzlWd1VPLTFYcVBNZ192ZHY3RzEwWlpZb2Q2ZFBSeGl0T1BzNzJLTUgtOXJnMElVSkFB?oc=5"
+        },
+        {
+          "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries jointly promote railway-tourism integration to boost service consumption",
+          "why_it_matters": "A concrete cross-agency effort to stimulate domestic tourism and service spending, aligning with the broader goal of consumption-driven growth.",
+          "why_it_matters_zh": "跨部门协同刺激国内旅游和服务消费的具体举措，与消费驱动增长的大方向一致。",
+          "pull_quote": "商务部、文化和旅游部、国铁集团等8单位联合印发",
+          "pull_quote_zh": "商务部、文化和旅游部、国铁集团等8单位联合印发",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on POM imports from Korea, Thailand, Malaysia",
+          "why_it_matters": "Signals continued trade protection in petrochemicals, targeting key regional suppliers; may escalate trade tensions within RCEP.",
+          "why_it_matters_zh": "显示对石化产品的贸易保护主义延续，针对主要区域供应商，可能加剧RCEP内部贸易紧张。",
+          "pull_quote": "共聚聚甲醛反倾销措施企业税率继承决定",
+          "pull_quote_zh": "共聚聚甲醛反倾销措施企业税率继承决定",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Five departments tighten export controls on precursor chemicals to specific countries",
+          "why_it_matters": "Indicates heightened concerns over diversion of chemicals for illicit purposes, and aligns with international non-proliferation regimes.",
+          "why_it_matters_zh": "表明对化学品用于非法用途的担忧加剧，并与国际防扩散机制接轨。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office press conference transcript released",
+          "why_it_matters": "Provides the latest official stance on cross-strait relations, crucial for tracking any shifts in rhetoric or policy.",
+          "why_it_matters_zh": "提供两岸关系最新官方立场，对追踪措辞或政策变化至关重要。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm"
+        },
+        {
+          "primary_title": "Raw Honey From the Socialist Republic of Vietnam: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "english_title": "",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "美国联邦公报",
+          "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11866/raw-honey-from-the-socialist-republic-of-vietnam-final-results-of-antidumping-duty-administrative"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains State Council guidance on private equity funds",
+          "why_it_matters": "Part of the broader crackdown on financial risks and push for high-quality development in the private equity industry.",
+          "why_it_matters_zh": "是打击金融风险、推动私募行业高质量发展整体行动的一部分。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了-36氪",
+          "english_title": "36Kr special report: Where should AI entrepreneurs turn after the model craze?",
+          "why_it_matters": "Reflects the maturing of China's AI industry, shifting focus from model development to practical applications and monetization.",
+          "why_it_matters_zh": "反映中国AI行业步入成熟，关注点从模型开发转向实际应用和商业化。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIV0d1UjhqYUV4VEM3OUFWLTJObFVFX0VWci1LQ05xUkNLRVVmTjdRZ0Z4Ni1jR2oxakYtRVpCZ3JTSGdCYnJtWkltMHdEV0Jv?oc=5"
+        },
+        {
+          "primary_title": "报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市”",
+          "english_title": "Alibaba reportedly bids $1.5 billion for Chinese fresh food e-commerce firm Pupun",
+          "why_it_matters": "If confirmed, it shows Alibaba's aggressive push into the fresh food sector, a key battleground for e-commerce giants.",
+          "why_it_matters_zh": "若属实，显示阿里巴巴大举进军生鲜电商领域，这是电商巨头的重要战场。",
+          "pull_quote": "据称阿里出资15亿美元竞购",
+          "pull_quote_zh": "据称阿里出资15亿美元竞购",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42eW1rNW5nbmRMcFdBak5pWDZWa0pVYWcyT1VkakRPdDJDZjFEbUIxYk5FYmVOS1R2cml4b0YzdThyYzlISTQ2c0ZTbzNlOGN4Wk5aY1ZfQUs?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-12T15:32:16+08:00",
       "date": "2026-06-12",

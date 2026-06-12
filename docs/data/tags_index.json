@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T15:32:16+08:00",
+  "updated_at": "2026-06-12T19:49:38+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -6297,8 +6297,18 @@
     },
     "trade policy": {
       "label": "Trade Policy",
-      "count": 9,
+      "count": 10,
       "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on POM imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-11",
           "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
@@ -9156,6 +9166,131 @@
             "gov_registry"
           ],
           "category": "regulatory"
+        }
+      ]
+    },
+    "currency strength": {
+      "label": "Currency Strength",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "世界杯在中国的收视率爆了",
+          "english_title": "World Cup viewership in China explodes on opening day",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%B6%E8%A7%86%E7%8E%87%E7%88%86%E4%BA%86",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "domestic demand": {
+      "label": "Domestic Demand",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries jointly promote railway-tourism integration to boost service consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "soft power diplomacy": {
+      "label": "Soft Power Diplomacy",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "友谊塔见证中朝友谊薪火相传",
+          "english_title": "Xi Jinping visits Sino-Korean Friendship Tower in Pyongyang",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8B%E8%B0%8A%E5%A1%94%E8%A7%81%E8%AF%81%E4%B8%AD%E6%9C%9D%E5%8F%8B%E8%B0%8A%E8%96%AA%E7%81%AB%E7%9B%B8%E4%BC%A0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "weather risk": {
+      "label": "Weather Risk",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains State Council guidance on private equity funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-12",
+          "title": "南方将进入强降雨集中期",
+          "english_title": "Southern China braces for intense rainfall period from June 12",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E5%BC%BA%E9%99%8D%E9%9B%A8%E9%9B%86%E4%B8%AD%E6%9C%9F",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-12",
+          "title": "中国球迷墨西哥遭抢劫：被用枪抵头",
+          "english_title": "Chinese fan robbed at gunpoint in Mexico during World Cup",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%8A%A2%E5%8A%AB%EF%BC%9A%E8%A2%AB%E7%94%A8%E6%9E%AA%E6%8A%B5%E5%A4%B4",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "regulatory push": {
+      "label": "Regulatory Push",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市”",
+          "english_title": "Alibaba reportedly bids $1.5 billion for Chinese fresh food e-commerce firm Pupun",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42eW1rNW5nbmRMcFdBak5pWDZWa0pVYWcyT1VkakRPdDJDZjFEbUIxYk5FYmVOS1R2cml4b0YzdThyYzlISTQ2c0ZTbzNlOGN4Wk5aY1ZfQUs?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-12",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains State Council guidance on private equity funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-12",
+          "title": "校园文化建设专访② | 校园文化的内涵包括什么？",
+          "english_title": "Qiushi interview continues series on campus culture construction",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zbFFrUlRueFJIM0hFVW5UM0ZXTng5VHRGdXExcjZ4TzA1QVB5WnBBSnREZG91eEFYOXBSS3NDWldUdWhNMVNNMFJSdGN1bTJUYklsSFM4MVlfaVBQNmRraGIteEh5YkNqUUF4U3Fvc1lfR2pTYU9ncE5QX20?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
         }
       ]
     }
