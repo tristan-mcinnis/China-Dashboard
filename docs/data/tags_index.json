@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T19:49:38+08:00",
+  "updated_at": "2026-06-12T23:14:21+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -6850,9 +6850,19 @@
       ]
     },
     "export controls": {
-      "label": "export controls",
-      "count": 2,
+      "label": "Export controls",
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Export control list adjustment for precursor chemicals",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-09",
           "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
@@ -9291,6 +9301,104 @@
             "elite_press"
           ],
           "category": "press"
+        }
+      ]
+    },
+    "xi jinping foreign policy": {
+      "label": "Xi Jinping foreign policy",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry regular press conference (June 12, 2026)",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-12",
+          "title": "被抢中国球迷：墨西哥警察来了先要钱",
+          "english_title": "Chinese fans robbed in Mexico, allege police demanded bribe",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%A2%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%EF%BC%9A%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AD%A6%E5%AF%9F%E6%9D%A5%E4%BA%86%E5%85%88%E8%A6%81%E9%92%B1",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
+        {
+          "date": "2026-06-12",
+          "title": "总书记朝鲜行的“重要里程碑意义”",
+          "english_title": "Xi Jinping's North Korea visit hailed as 'milestone'",
+          "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9C%9D%E9%B2%9C%E8%A1%8C%E7%9A%84%E2%80%9C%E9%87%8D%E8%A6%81%E9%87%8C%E7%A8%8B%E7%A2%91%E6%84%8F%E4%B9%89%E2%80%9D",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "yuan appreciation": {
+      "label": "Yuan appreciation",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "《歌手》张碧晨被淘汰",
+          "english_title": "Singer Zhang Bichen eliminated on Singer 2026",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E8%A2%AB%E6%B7%98%E6%B1%B0",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "e-commerce consolidation": {
+      "label": "E-commerce consolidation",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市”",
+          "english_title": "Alibaba reportedly bids $1.5B for fresh e-commerce platform Pumu",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42eW1rNW5nbmRMcFdBak5pWDZWa0pVYWcyT1VkakRPdDJDZjFEbUIxYk5FYmVOS1R2cml4b0YzdThyYzlISTQ2c0ZTbzNlOGN4Wk5aY1ZfQUs?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "cultural regulation": {
+      "label": "Cultural regulation",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-12",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson on new guidance for private equity funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-12",
+          "title": "公安部：10类电诈犯罪仍然多发高发",
+          "english_title": "Ministry of Public Security says 10 types of telecom fraud remain frequent",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MeG5JcDJTVlhqQUpYUTJMZlN0MDlHNmNLTmwxMUNWVno1ZW5wUklQQzZ3MlpJeUlmTG1BRUd3bGs5eGxJYWdKRjQxRUFBV3M3VTZEYldwcUdGZjVlSUZjVFlHTHNQTTdfWlJzQnFLaUtXSXF3cWdtS3dpYXpaQlU?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
         }
       ]
     }

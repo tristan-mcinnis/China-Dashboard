@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-06-12T19:48:22+08:00",
+  "as_of": "2026-06-12T23:13:22+08:00",
   "source": "Neon archive baselines (30/90-day)",
   "items": [
     {
@@ -201,7 +201,7 @@
     },
     {
       "title": "Copper",
-      "value": 6.38,
+      "value": 6.42,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -210,15 +210,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 7,
-          "mean": 6.3086,
-          "std": 0.0685,
+          "mean": 6.31,
+          "std": 0.0699,
           "min": 6.18,
           "max": 6.39
         },
         "baseline_90d": {
           "days": 7,
-          "mean": 6.3086,
-          "std": 0.0685,
+          "mean": 6.31,
+          "std": 0.0699,
           "min": 6.18,
           "max": 6.39
         },
@@ -231,7 +231,7 @@
     },
     {
       "title": "Crude (Brent)",
-      "value": 87.35,
+      "value": 87.34,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -240,16 +240,16 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 7,
-          "mean": 92.5214,
-          "std": 2.7548,
-          "min": 88.32,
+          "mean": 92.3143,
+          "std": 3.064,
+          "min": 87.35,
           "max": 95.74
         },
         "baseline_90d": {
           "days": 7,
-          "mean": 92.5214,
-          "std": 2.7548,
-          "min": 88.32,
+          "mean": 92.3143,
+          "std": 3.064,
+          "min": 87.35,
           "max": 95.74
         },
         "z30": null,
@@ -261,7 +261,7 @@
     },
     {
       "title": "Crude (WTI)",
-      "value": 84.51,
+      "value": 84.61,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -270,16 +270,16 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 7,
-          "mean": 89.7557,
-          "std": 2.6983,
-          "min": 85.73,
+          "mean": 89.5014,
+          "std": 3.071,
+          "min": 84.51,
           "max": 93.16
         },
         "baseline_90d": {
           "days": 7,
-          "mean": 89.7557,
-          "std": 2.6983,
-          "min": 85.73,
+          "mean": 89.5014,
+          "std": 3.071,
+          "min": 84.51,
           "max": 93.16
         },
         "z30": null,
@@ -291,7 +291,7 @@
     },
     {
       "title": "EUR/CNY",
-      "value": 7.8276,
+      "value": 7.8256,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -300,19 +300,19 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 7.8714,
-          "std": 0.0399,
+          "mean": 7.8716,
+          "std": 0.0396,
           "min": 7.7858,
           "max": 7.9267
         },
         "baseline_90d": {
           "days": 91,
-          "mean": 7.9447,
-          "std": 0.0618,
+          "mean": 7.9448,
+          "std": 0.0617,
           "min": 7.7858,
           "max": 8.0436
         },
-        "z30": -1.1,
+        "z30": -1.16,
         "flags": [],
         "note": ""
       }
@@ -347,7 +347,7 @@
     },
     {
       "title": "Gold",
-      "value": 4221.7,
+      "value": 4225.7,
       "url": "",
       "extra": {
         "feed": "commodities",
@@ -356,15 +356,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 7,
-          "mean": 4261.0286,
-          "std": 99.7236,
+          "mean": 4264.4429,
+          "std": 97.8927,
           "min": 4064.4,
           "max": 4365.3
         },
         "baseline_90d": {
           "days": 7,
-          "mean": 4261.0286,
-          "std": 99.7236,
+          "mean": 4264.4429,
+          "std": 97.8927,
           "min": 4064.4,
           "max": 4365.3
         },
@@ -463,7 +463,7 @@
     },
     {
       "title": "JPY/CNY",
-      "value": 0.0422,
+      "value": 0.0421,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -473,7 +473,7 @@
         "baseline_30d": {
           "days": 30,
           "mean": 0.0425,
-          "std": 0.0003,
+          "std": 0.0002,
           "min": 0.0421,
           "max": 0.0429
         },
@@ -484,9 +484,11 @@
           "min": 0.0421,
           "max": 0.0437
         },
-        "z30": -1.0,
-        "flags": [],
-        "note": ""
+        "z30": -2.0,
+        "flags": [
+          "z_spike"
+        ],
+        "note": "JPY/CNY at 0.04 is 2.0σ below its 30-day mean (0.04)"
       }
     },
     {
@@ -855,7 +857,7 @@
     },
     {
       "title": "USD/CNH",
-      "value": 6.762,
+      "value": 6.7628,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -864,26 +866,26 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 6.7844,
-          "std": 0.0158,
+          "mean": 6.7843,
+          "std": 0.0159,
           "min": 6.762,
           "max": 6.8156
         },
         "baseline_90d": {
           "days": 91,
           "mean": 6.8286,
-          "std": 0.0455,
+          "std": 0.0456,
           "min": 6.762,
           "max": 6.9181
         },
-        "z30": -1.42,
+        "z30": -1.35,
         "flags": [],
         "note": ""
       }
     },
     {
       "title": "USD/CNY",
-      "value": 6.7611,
+      "value": 6.7621,
       "url": "",
       "extra": {
         "feed": "fx",
@@ -892,23 +894,21 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 6.782,
-          "std": 0.0159,
-          "min": 6.7617,
+          "mean": 6.7819,
+          "std": 0.016,
+          "min": 6.7611,
           "max": 6.8139
         },
         "baseline_90d": {
           "days": 91,
           "mean": 6.8269,
           "std": 0.0446,
-          "min": 6.7617,
+          "min": 6.7611,
           "max": 6.9114
         },
-        "z30": -1.31,
-        "flags": [
-          "range_low"
-        ],
-        "note": "USD/CNY at 6.76 is a 91-day low (prior min 6.76)"
+        "z30": -1.24,
+        "flags": [],
+        "note": ""
       }
     }
   ],
@@ -916,15 +916,15 @@
   "short_window_days": 30,
   "deviations": [
     {
-      "title": "USD/CNY",
+      "title": "JPY/CNY",
       "feed": "fx",
       "kind": "continuous",
       "flags": [
-        "range_low"
+        "z_spike"
       ],
-      "z30": -1.31,
+      "z30": -2.0,
       "severity": 2.0,
-      "note": "USD/CNY at 6.76 is a 91-day low (prior min 6.76)"
+      "note": "JPY/CNY at 0.04 is 2.0σ below its 30-day mean (0.04)"
     }
   ],
   "notes": "Per-indicator baselines computed from this project's own Neon archive. deviations[] ranks what is statistically abnormal right now: z_spike = |z| >= 2.0 vs winsorized 30-day mean; range_high/low = outside the 90-day range; new_print = a step series (policy rate, monthly print) just changed. Series flagged baseline_building have too little history for reliable z-scores."
