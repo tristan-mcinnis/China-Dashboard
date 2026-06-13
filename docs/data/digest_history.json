@@ -1,8 +1,299 @@
 {
-  "as_of": "2026-06-13T06:33:56+08:00",
+  "as_of": "2026-06-13T11:50:34+08:00",
   "source": "daily_digest archive",
-  "count": 43,
+  "count": 44,
   "entries": [
+    {
+      "as_of": "2026-06-13T11:50:34+08:00",
+      "date": "2026-06-13",
+      "time_label": "Midday Brief",
+      "beijing_time": "11:49",
+      "digest_type": "midday",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Eight ministries push rail-tourism integration to spur service consumption",
+      "headline_zh": "八部门联合推动铁路旅游融合促进服务消费",
+      "narrative": "The day's leading structural story is the inter-ministerial push to boost service consumption through rail-tourism integration, detailed in a directive jointly issued by eight agencies including the Ministry of Commerce and the Ministry of Culture and Tourism. This cross-agency coordination signals heightened policy urgency to stimulate domestic demand as the economy contends with headwinds. Separately, the CSRC's new guidelines on private equity fund regulation underscore the regime's dual focus on growth and risk control.",
+      "narrative_zh": "今日主要结构性故事是商务部、文化和旅游部等八部门联合印发促进铁路与旅游融合发展、扩大服务消费的措施。跨部门协调表明在经济面临逆风时刺激内需的政策紧迫性上升。此外，证监会关于私募基金监管的新指南凸显了当局增长与风险并重的双重考量。",
+      "market_snapshot": "SSE Composite 4031.513 ▲1.12% · Shenzhen Component 14963.407 ▲0.75% · ChiNext 3830.353 ▲0.50% · USD/CNY 6.7621 ▼0.19% · USD/CNH 6.76 ▼0.04%",
+      "themes": [
+        "economic stimulus",
+        "service consumption",
+        "regulatory tightening",
+        "rail tourism",
+        "private equity"
+      ],
+      "theme_trends": {
+        "economic stimulus": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "service consumption": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "regulatory tightening": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "rail tourism": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "private equity": {
+          "status": "recurring",
+          "days_seen": 7
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "加拿大开幕式又翻车了",
+          "english_title": "Canada World Cup opening ceremony flubs: trophy deflates on stage",
+          "why_it_matters": "Highlights how global sporting events become social fodder in Chinese online spaces, reflecting public appetite for light-hearted foreign news.",
+          "why_it_matters_zh": "显示全球体育赛事在中国网络空间成为社交话题，反映公众对轻松外国新闻的偏好。",
+          "pull_quote": "大力神杯漏气，一秒从神杯变瘪杯",
+          "pull_quote_zh": "大力神杯漏气，一秒从神杯变瘪杯",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F%E5%8F%88%E7%BF%BB%E8%BD%A6%E4%BA%86"
+        },
+        {
+          "primary_title": "总书记朝鲜行的“重要里程碑意义”",
+          "english_title": "Xi's visit to North Korea hailed as 'milestone'",
+          "why_it_matters": "Reinforces China's commitment to its traditional ally and bilateral diplomacy, though peak propaganda may obscure substantive outcomes.",
+          "why_it_matters_zh": "强化中国对传统盟友和双边外交的承诺，但宣传高峰可能掩盖实质性成果。",
+          "pull_quote": "在两国关系发展史上具有重要里程碑意义",
+          "pull_quote_zh": "在两国关系发展史上具有重要里程碑意义",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9C%9D%E9%B2%9C%E8%A1%8C%E7%9A%84%E2%80%9C%E9%87%8D%E8%A6%81%E9%87%8C%E7%A8%8B%E7%A2%91%E6%84%8F%E4%B9%89%E2%80%9D"
+        },
+        {
+          "primary_title": "这届世界杯有点太政治了",
+          "english_title": "World Cup 2026 seen as overly politicized in Chinese social discourse",
+          "why_it_matters": "Reflects a segment of Chinese public opinion that views major international events through a geopolitical lens, resonating with official narratives of Western politicization.",
+          "why_it_matters_zh": "反映部分中国公众以地缘政治视角看待重大国际事件，与官方对西方政治化的叙事共鸣。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%89%E7%82%B9%E5%A4%AA%E6%94%BF%E6%B2%BB%E4%BA%86"
+        },
+        {
+          "primary_title": "美加墨世界杯诞生首个乌龙",
+          "english_title": "USA vs Paraguay match produces first own goal of 2026 World Cup",
+          "why_it_matters": "A routine sports event, but trending due to broad public interest in soccer; no significant China angle beyond entertainment.",
+          "why_it_matters_zh": "常规体育赛事，因公众对足球的兴趣而热门；除娱乐外无重要中国角度。",
+          "pull_quote": "美国队核心普利西奇从中路启动连过对方...",
+          "pull_quote_zh": "美国队核心普利西奇从中路启动连过对方...",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AF%9E%E7%94%9F%E9%A6%96%E4%B8%AA%E4%B9%8C%E9%BE%99"
+        },
+        {
+          "primary_title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry regular press conference on June 12",
+          "why_it_matters": "Official channel for China's stance on key international issues; today's briefing likely covers trade, Taiwan, or other sensitive topics.",
+          "why_it_matters_zh": "中国对关键国际问题立场官方通道；今日简报可能涉及贸易、台湾或其他敏感议题。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml"
+        },
+        {
+          "primary_title": "公安部：10类电诈犯罪仍然多发高发",
+          "english_title": "Ministry of Public Security warns 10 types of telecom fraud remain prevalent",
+          "why_it_matters": "Indicates persistent challenges in cybercrime control; government continues to prioritize public security and fraud prevention campaigns.",
+          "why_it_matters_zh": "显示网络犯罪控制面临持续挑战；政府继续优先处理公共安全和防诈骗行动。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MeG5JcDJTVlhqQUpYUTJMZlN0MDlHNmNLTmwxMUNWVno1ZW5wUklQQzZ3MlpJeUlmTG1BRUd3bGs5eGxJYWdKRjQxRUFBV3M3VTZEYldwcUdGZjVlSUZjVFlHTHNQTTdfWlJzQnFLaUtXSXF3cWdtS3dpYXpaQlU?oc=5"
+        },
+        {
+          "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to promote rail-tourism integration and expand service consumption",
+          "why_it_matters": "A key policy move to stimulate domestic service consumption amid economic slowdown; cross-ministerial coordination signals high priority.",
+          "why_it_matters_zh": "经济放缓背景下刺激国内服务消费的关键政策举措；跨部委协调显示高度优先。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html"
+        },
+        {
+          "primary_title": "青藏铁路首次开行满轴满编进藏城际班列",
+          "english_title": "Qinghai-Tibet Railway launches first full-length intercity train to Tibet",
+          "why_it_matters": "Enhances connectivity to Tibet, boosting tourism and economic integration; also has strategic implications for regional stability.",
+          "why_it_matters_zh": "增强西藏连通性，促进旅游与经济融合；也对地区稳定有战略意义。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PaFktSGZ1MWpwYlU2bEE0OUhYaHVBNjlkVkZRRWNPZlczREdKSHFfakdrNEgzcXJZakVmVE45UWRQYlJBTDBELVZJOFJFQy1OLUliNVh1M095VjJQN2VIYWh4MnRuN21PVTlMLVFPUFF6bkRVV2ZSRmV6TTNiWDg?oc=5"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "China imposes anti-dumping duties on polyoxymethylene from South Korea, Thailand, Malaysia",
+          "why_it_matters": "Part of China's trade remedy measures; protects domestic chemical industry but may escalate trade tensions with these countries.",
+          "why_it_matters_zh": "中国贸易救济措施一部分；保护国内化工行业，但可能加剧与这些国家的贸易紧张。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "China adjusts export control list for precursor chemicals to specific countries",
+          "why_it_matters": "Refines chemical export controls for dual-use items; aligns with international non-proliferation norms and domestic security concerns.",
+          "why_it_matters_zh": "完善两用物项出口管制；符合国际防扩散规范及国内安全关切。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office press conference on June 10",
+          "why_it_matters": "China's official stance on cross-strait relations; likely reiterates opposition to separatist activities and calls for reunification.",
+          "why_it_matters_zh": "中国对两岸关系官方立场；可能重申反对分裂活动及呼吁统一。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains new guidelines on private equity fund regulation",
+          "why_it_matters": "Signals tighter oversight of private funds to prevent systemic risks, balancing innovation with stability in the financial sector.",
+          "why_it_matters_zh": "信号强化私募基金监管以防范系统性风险，平衡金融创新与稳定。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了-36氪",
+          "english_title": "After AI model frenzy, where do entrepreneurs find answers? (36Kr WAIC special)",
+          "why_it_matters": "Reflects VC and startup community reflection on AI monetization and sustainability; indicative of industry maturity.",
+          "why_it_matters_zh": "反映VC和创业社区对AI变现和可持续性的思考；显示行业成熟。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIV0d1UjhqYUV4VEM3OUFWLTJObFVFX0VWci1LQ05xUkNLRVVmTjdRZ0Z4Ni1jR2oxakYtRVpCZ3JTSGdCYnJtWkltMHdEV0Jv?oc=5"
+        },
+        {
+          "primary_title": "报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市”",
+          "english_title": "Alibaba reportedly bids $1.5 billion for fresh food e-commerce platform PUPU",
+          "why_it_matters": "Alibaba's move to consolidate in fresh food logistics amid competition; signals ongoing consolidation in China's e-commerce sector.",
+          "why_it_matters_zh": "阿里在竞争中整合生鲜物流；显示中国电商领域持续整合。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmMkhUZXl6SzJXSXZENVk1UW1pY2NmUloyQ09OVm9kQlhRRk84TWY3NUVYQlBMTUI0bUgyRDZRTkZac1l3YVg0S2tYMEFfdGRVQk9zUFF3Wm9PODQ?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-13T06:33:56+08:00",
       "date": "2026-06-13",

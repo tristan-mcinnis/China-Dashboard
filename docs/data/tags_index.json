@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T06:33:56+08:00",
+  "updated_at": "2026-06-13T11:50:34+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1792,9 +1792,21 @@
       ]
     },
     "regulatory tightening": {
-      "label": "Regulatory tightening",
-      "count": 11,
+      "label": "regulatory tightening",
+      "count": 12,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "加拿大开幕式又翻车了",
+          "english_title": "Canada World Cup opening ceremony flubs: trophy deflates on stage",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F%E5%8F%88%E7%BF%BB%E8%BD%A6%E4%BA%86",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-12",
           "title": "校园文化建设专访② | 校园文化的内涵包括什么？",
@@ -5098,8 +5110,28 @@
     },
     "economic stimulus": {
       "label": "economic stimulus",
-      "count": 2,
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "青藏铁路首次开行满轴满编进藏城际班列",
+          "english_title": "Qinghai-Tibet Railway launches first full-length intercity train to Tibet",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PaFktSGZ1MWpwYlU2bEE0OUhYaHVBNjlkVkZRRWNPZlczREdKSHFfakdrNEgzcXJZakVmVE45UWRQYlJBTDBELVZJOFJFQy1OLUliNVh1M095VjJQN2VIYWh4MnRuN21PVTlMLVFPUFF6bkRVV2ZSRmV6TTNiWDg?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to promote rail-tourism integration and expand service consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-10",
           "title": "共同擘画中朝关系发展蓝图",
@@ -9458,6 +9490,64 @@
             "tencent_wechat_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "service consumption": {
+      "label": "service consumption",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to promote rail-tourism integration and expand service consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "rail tourism": {
+      "label": "rail tourism",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "青藏铁路首次开行满轴满编进藏城际班列",
+          "english_title": "Qinghai-Tibet Railway launches first full-length intercity train to Tibet",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PaFktSGZ1MWpwYlU2bEE0OUhYaHVBNjlkVkZRRWNPZlczREdKSHFfakdrNEgzcXJZakVmVE45UWRQYlJBTDBELVZJOFJFQy1OLUliNVh1M095VjJQN2VIYWh4MnRuN21PVTlMLVFPUFF6bkRVV2ZSRmV6TTNiWDg?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to promote rail-tourism integration and expand service consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "private equity": {
+      "label": "private equity",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains new guidelines on private equity fund regulation",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
         }
       ]
     }

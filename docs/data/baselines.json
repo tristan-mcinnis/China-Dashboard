@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-06-13T06:33:04+08:00",
+  "as_of": "2026-06-13T11:49:29+08:00",
   "source": "Neon archive baselines (30/90-day)",
   "items": [
     {
@@ -210,17 +210,17 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 7,
-          "mean": 6.3157,
-          "std": 0.0767,
+          "mean": 6.3229,
+          "std": 0.0876,
           "min": 6.18,
-          "max": 6.42
+          "max": 6.47
         },
         "baseline_90d": {
           "days": 7,
-          "mean": 6.3157,
-          "std": 0.0767,
+          "mean": 6.3229,
+          "std": 0.0876,
           "min": 6.18,
-          "max": 6.42
+          "max": 6.47
         },
         "z30": null,
         "flags": [
@@ -240,16 +240,16 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 7,
-          "mean": 92.3129,
-          "std": 3.0663,
-          "min": 87.34,
+          "mean": 92.2229,
+          "std": 3.2165,
+          "min": 86.71,
           "max": 95.74
         },
         "baseline_90d": {
           "days": 7,
-          "mean": 92.3129,
-          "std": 3.0663,
-          "min": 87.34,
+          "mean": 92.2229,
+          "std": 3.2165,
+          "min": 86.71,
           "max": 95.74
         },
         "z30": null,
@@ -270,16 +270,16 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 7,
-          "mean": 89.5157,
-          "std": 3.0479,
-          "min": 84.61,
+          "mean": 89.47,
+          "std": 3.1226,
+          "min": 84.29,
           "max": 93.16
         },
         "baseline_90d": {
           "days": 7,
-          "mean": 89.5157,
-          "std": 3.0479,
-          "min": 84.61,
+          "mean": 89.47,
+          "std": 3.1226,
+          "min": 84.29,
           "max": 93.16
         },
         "z30": null,
@@ -300,19 +300,19 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 7.8716,
-          "std": 0.0397,
+          "mean": 7.8714,
+          "std": 0.0399,
           "min": 7.7858,
           "max": 7.9267
         },
         "baseline_90d": {
           "days": 90,
           "mean": 7.9455,
-          "std": 0.0616,
+          "std": 0.0617,
           "min": 7.7858,
           "max": 8.0436
         },
-        "z30": -1.25,
+        "z30": -1.24,
         "flags": [],
         "note": ""
       }
@@ -356,15 +356,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 7,
-          "mean": 4265.0143,
-          "std": 97.6529,
+          "mean": 4267.0429,
+          "std": 96.9602,
           "min": 4064.4,
           "max": 4365.3
         },
         "baseline_90d": {
           "days": 7,
-          "mean": 4265.0143,
-          "std": 97.6529,
+          "mean": 4267.0429,
+          "std": 96.9602,
           "min": 4064.4,
           "max": 4365.3
         },
@@ -864,23 +864,21 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 6.7844,
-          "std": 0.0158,
-          "min": 6.762,
+          "mean": 6.7843,
+          "std": 0.0159,
+          "min": 6.76,
           "max": 6.8156
         },
         "baseline_90d": {
           "days": 90,
           "mean": 6.8277,
           "std": 0.0451,
-          "min": 6.762,
+          "min": 6.76,
           "max": 6.9181
         },
-        "z30": -1.54,
-        "flags": [
-          "range_low"
-        ],
-        "note": "USD/CNH at 6.76 is a 90-day low (prior min 6.76)"
+        "z30": -1.53,
+        "flags": [],
+        "note": ""
       }
     },
     {
@@ -914,18 +912,6 @@
   ],
   "window_days": 90,
   "short_window_days": 30,
-  "deviations": [
-    {
-      "title": "USD/CNH",
-      "feed": "fx",
-      "kind": "continuous",
-      "flags": [
-        "range_low"
-      ],
-      "z30": -1.54,
-      "severity": 2.0,
-      "note": "USD/CNH at 6.76 is a 90-day low (prior min 6.76)"
-    }
-  ],
+  "deviations": [],
   "notes": "Per-indicator baselines computed from this project's own Neon archive. deviations[] ranks what is statistically abnormal right now: z_spike = |z| >= 2.0 vs winsorized 30-day mean; range_high/low = outside the 90-day range; new_print = a step series (policy rate, monthly print) just changed. Series flagged baseline_building have too little history for reliable z-scores."
 }
