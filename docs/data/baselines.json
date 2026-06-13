@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-06-13T19:17:31+08:00",
+  "as_of": "2026-06-13T22:52:19+08:00",
   "source": "Neon archive baselines (30/90-day)",
   "items": [
     {
@@ -687,7 +687,7 @@
     },
     {
       "title": "SSE Composite",
-      "value": 4031.51,
+      "value": 4031.513,
       "url": "",
       "extra": {
         "feed": "indices",
@@ -771,7 +771,7 @@
     },
     {
       "title": "Shenzhen Component",
-      "value": 14963.4,
+      "value": 14963.407,
       "url": "",
       "extra": {
         "feed": "indices",

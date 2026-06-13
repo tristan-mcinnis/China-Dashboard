@@ -1,53 +1,52 @@
 {
   "schema_version": 1,
   "digest_type": "evening",
-  "as_of": "2026-06-13T19:18:16+08:00",
+  "as_of": "2026-06-13T22:52:53+08:00",
   "date": "2026-06-13",
   "time_label": "Evening Brief",
-  "beijing_time": "19:17",
+  "beijing_time": "22:52",
   "generated_by": "deepseek-v4-flash",
-  "headline": "Three Gorges new channel opens with 12-minute ceremony as Xi's efficiency drive takes hold",
-  "headline_zh": "三峡新通道12分钟开工亮相，效率导向落实处",
-  "narrative": "The day's most important structural signal is the Party's intensified push for operational efficiency and anti-formalism, epitomized by the 12-minute groundbreaking for the 77.2 billion Yuan Three Gorges new channel. This aligns with Xi Jinping's repeated calls to cut red tape and bureaucratic waste. Meanwhile, trade data continues to surprise on the upside, with foreign trade exceeding 4 trillion Yuan for three straight months, but anti-dumping actions and new private fund regulations indicate a more cautious approach to external dependencies and financial risks. Geopolitically, the Taiwan Affairs Office presser and Iran's nuclear stance remain in focus but no major escalation.",
-  "narrative_zh": "今日最显著的结构性信号是党对务实高效、反对形式主义的持续强调，以三峡水运新通道工程12分钟的简短开工仪式为典型。这与习近平多次要求精简流程、杜绝浪费的指示一脉相承。同时，外贸数据连续三个月超4万亿元表现出韧性，但反倾销措施和私募基金监管新规显示对外依赖和金融风险正被更审慎地管控。台海和伊朗核问题暂无重大升级，需持续关注。",
-  "market_snapshot": "SSE Composite 4031.51 ▲1.12% · Shenzhen Component 14963.4 ▲0.75% · ChiNext 3830.353 ▲0.50% · USD/CNY 6.7621 ▼0.19% · USD/CNH 6.76 ▼0.04%",
+  "headline": "China tightens private fund regulation, targeting systemic risks and promoting quality growth",
+  "headline_zh": "中国加强私募基金监管，防范系统性风险",
+  "narrative": "The day's most consequential story is the State Council's new guidelines on private investment funds, unveiled by the CSRC. This signals a decisive push to close regulatory gaps after years of rapid expansion, hedge fund failures and retail investor losses. The document emphasizes risk prevention, investor protection and high-quality development, likely forcing industry consolidation. Meanwhile, MOFCOM's anti-dumping action on polyoxymethylene from three Asian countries underscores a continued activist trade policy. The market, however, shrugged off the tightening, with the SSE Composite rising 1.12%. Elsewhere, a Qiushi interview on campus culture suggests the Party is doubling down on ideological education, while a CGTN report that green power met all new electricity demand in 2025 provides a positive environmental narrative.",
+  "narrative_zh": "当日最重要的消息是国务院关于私募投资基金的新指导意见，由证监会发布。这标志着在多年快速扩张、对冲基金爆雷和散户投资者损失之后，监管层决心填补漏洞。文件强调风险防范、投资者保护和高质量发展，可能引发行业整合。与此同时，商务部对来自三个亚洲国家的共聚聚甲醛征收反倾销税，表明积极的贸易政策仍在继续。然而，市场未受监管收紧影响，上证综指上涨1.12%。此外，《求是》关于校园文化的采访显示党正在加强意识形态教育；CGTN关于2025年绿色电力满足全部新增电力需求的报道则提供了积极的环境叙事。",
+  "market_snapshot": "SSE Composite 4031.513 ▲1.12% · Shenzhen Component 14963.407 ▲0.75% · ChiNext 3830.353 ▲0.50% · USD/CNY 6.7621 ▼0.19% · USD/CNH 6.76 ▼0.04%",
   "deviations": [],
   "themes": [
-    "efficiency drive",
-    "trade resilience",
-    "regulatory tightening",
-    "infrastructure investment",
-    "geopolitical stability"
+    "private fund regulation",
+    "anti-dumping",
+    "green energy",
+    "campus ideology",
+    "trade policy"
   ],
   "theme_trends": {
-    "efficiency drive": {
+    "private fund regulation": {
+      "status": "recurring",
+      "days_seen": 7
+    },
+    "anti-dumping": {
+      "status": "recurring",
+      "days_seen": 7
+    },
+    "green energy": {
       "status": "rising",
-      "days_seen": 1
+      "days_seen": 2
     },
-    "trade resilience": {
+    "campus ideology": {
+      "status": "rising",
+      "days_seen": 2
+    },
+    "trade policy": {
       "status": "recurring",
       "days_seen": 7
-    },
-    "regulatory tightening": {
-      "status": "recurring",
-      "days_seen": 7
-    },
-    "infrastructure investment": {
-      "status": "recurring",
-      "days_seen": 7
-    },
-    "geopolitical stability": {
-      "status": "recurring",
-      "days_seen": 4
     }
   },
   "entities": [
-    "Xi Jinping",
-    "Three Gorges new channel",
-    "Ministry of Commerce",
     "CSRC",
-    "Taiwan Affairs Office",
-    "Iran"
+    "MOFCOM",
+    "CGTN",
+    "Qiushi",
+    "State Council"
   ],
   "pillars": [
     {
@@ -84,24 +83,60 @@
   "top_stories": [
     {
       "rank": 1,
+      "weight": 59.4,
+      "platforms": [
+        "baidu_top",
+        "tencent_wechat_hot",
+        "weibo_hot"
+      ],
+      "platform_count": 3,
+      "primary_title": "张雪机车拿下第六冠",
+      "english_title": "Zhang Xue motorcycle wins sixth WorldSSP championship",
+      "why_it_matters": "Highlights China's growing presence in global motorsports manufacturing, a niche but high-visibility sector.",
+      "why_it_matters_zh": "凸显中国在全球赛车制造领域的崛起，虽小众但曝光度高。",
+      "pull_quote": "\"",
+      "pull_quote_zh": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
+      "source": "",
+      "category": "social",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%8B%BF%E4%B8%8B%E7%AC%AC%E5%85%AD%E5%86%A0",
+      "appearances": [
+        {
+          "platform": "baidu_top",
+          "rank": 2
+        },
+        {
+          "platform": "weibo_hot",
+          "rank": 2
+        },
+        {
+          "platform": "tencent_wechat_hot",
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "weight": 32.0,
       "platforms": [
         "baidu_top",
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "跟着总书记“打卡”世界遗产",
-      "english_title": "Xi Jinping highlights cultural heritage sites on World Heritage Day",
-      "why_it_matters": "Reinforces cultural confidence narrative, part of ideological soft power and domestic legitimation.",
-      "why_it_matters_zh": "强化文化自信叙事，是意识形态软实力和国内合法性的组成部分。",
-      "pull_quote": "",
+      "primary_title": "跟着总书记一起感受非遗魅力",
+      "english_title": "Xi Jinping promotes intangible cultural heritage on Culture Day",
+      "why_it_matters": "Reinforces the Party's use of cultural heritage for nationalist and soft power messaging, with the General Secretary as central figure.",
+      "why_it_matters_zh": "强化党利用文化遗产进行民族主义和软实力宣传，总书记处于核心位置。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
       "pillar_label_zh": "高层政治与意识形态",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%89%93%E5%8D%A1%E2%80%9D%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7",
+      "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E6%84%9F%E5%8F%97%E9%9D%9E%E9%81%97%E9%AD%85%E5%8A%9B",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -110,37 +145,6 @@
         {
           "platform": "tencent_wechat_hot",
           "rank": 1
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "weight": 28.8,
-      "platforms": [
-        "baidu_top",
-        "tencent_wechat_hot"
-      ],
-      "platform_count": 2,
-      "primary_title": "投资772亿工程开工仪式不到15分钟",
-      "english_title": "Three Gorges new channel begins construction with 12-minute ceremony",
-      "why_it_matters": "Symbol of efficiency and anti-formalism campaign; huge project signals infrastructure remains a priority.",
-      "why_it_matters_zh": "效率与反形式主义运动的象征；重大项目表明基础设施仍是优先事项。",
-      "pull_quote": "Investment 77.2 billion Yuan, ceremony lasted just 12 minutes.",
-      "pull_quote_zh": "投资772亿元，开工仪式仅12分钟。",
-      "pillar": "economy",
-      "pillar_label": "Economy & Markets",
-      "pillar_label_zh": "经济与市场",
-      "source": "",
-      "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84772%E4%BA%BF%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5%E4%BB%AA%E5%BC%8F%E4%B8%8D%E5%88%B015%E5%88%86%E9%92%9F",
-      "appearances": [
-        {
-          "platform": "baidu_top",
-          "rank": 2
-        },
-        {
-          "platform": "tencent_wechat_hot",
-          "rank": 2
         }
       ]
     },
@@ -152,18 +156,18 @@
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "水均益：美国举办的世界杯是战争杯",
-      "english_title": "Commentator Shui Junyi calls US-hosted World Cup 'war cup'",
-      "why_it_matters": "Reflects state-aligned media's framing of US as militaristic, tapping into nationalist sentiment.",
-      "why_it_matters_zh": "体现官方媒体将美国塑造成好战形象，迎合民族主义情绪。",
-      "pull_quote": "America participates in almost all wars in the world.",
-      "pull_quote_zh": "美国参与了世界上几乎所有战争。",
-      "pillar": "geopolitics",
-      "pillar_label": "U.S.–China & Geopolitics",
-      "pillar_label_zh": "中美关系与地缘政治",
+      "primary_title": "世界杯赛事发朋友圈或构成侵权",
+      "english_title": "Unauthorized World Cup sharing on social media may infringe copyright",
+      "why_it_matters": "Signals tightening of intellectual property enforcement in digital spaces, especially for high-value events.",
+      "why_it_matters_zh": "表明在数字空间加强知识产权执法，尤其是高价值赛事。",
+      "pull_quote": "\"",
+      "pull_quote_zh": "",
+      "pillar": "society",
+      "pillar_label": "What's Trending",
+      "pillar_label_zh": "热点风向",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E4%BA%8B%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%88%96%E6%9E%84%E6%88%90%E4%BE%B5%E6%9D%83",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -183,18 +187,18 @@
         "tencent_wechat_hot"
       ],
       "platform_count": 2,
-      "primary_title": "连续3个月超4万亿 中国外贸持续向好",
-      "english_title": "China's foreign trade exceeds 4 trillion Yuan for third consecutive month",
-      "why_it_matters": "Indicates export resilience despite global headwinds, but sustainability uncertain amid trade tensions.",
-      "why_it_matters_zh": "表明出口在全球逆风下仍有韧性，但在贸易摩擦下可持续性不确定。",
-      "pull_quote": "5-month total 20.68 trillion Yuan, up 15.3% year-on-year.",
-      "pull_quote_zh": "前5个月进出口总值20.68万亿元，同比增长15.3%。",
-      "pillar": "economy",
-      "pillar_label": "Economy & Markets",
-      "pillar_label_zh": "经济与市场",
+      "primary_title": "走出实验室 机器人如何“上岗”",
+      "english_title": "Chinese robots begin real-world deployment beyond labs",
+      "why_it_matters": "Indicates progress in robotics commercialization, a key area for China's manufacturing upgrade and AI integration.",
+      "why_it_matters_zh": "表明机器人商业化取得进展，这是中国制造业升级和人工智能整合的关键领域。",
+      "pull_quote": "\"",
+      "pull_quote_zh": "",
+      "pillar": "tech",
+      "pillar_label": "Industry, Tech & Industrial Policy",
+      "pillar_label_zh": "产业、科技与工业政策",
       "source": "",
       "category": "social",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD3%E4%B8%AA%E6%9C%88%E8%B6%854%E4%B8%87%E4%BA%BF+%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%B0%E5%87%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D",
       "appearances": [
         {
           "platform": "baidu_top",
@@ -208,47 +212,16 @@
     },
     {
       "rank": 5,
-      "weight": 14.4,
-      "platforms": [
-        "elite_press",
-        "thepaper_news"
-      ],
-      "platform_count": 2,
-      "primary_title": "马斯克成史上首位万亿美元富豪！SpaceX上市首日涨19%，市值2.1万亿美元",
-      "english_title": "Musk becomes first trillionaire! SpaceX IPO surges 19% to $2.1 trillion...",
-      "why_it_matters": "",
-      "why_it_matters_zh": "",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "economy",
-      "pillar_label": "Economy & Markets",
-      "pillar_label_zh": "经济与市场",
-      "source": "Caixin",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IdS16US03YldGbkVrMTlhVW1pUEN0XzVuZDhsczRlcFlwZGFVaF9jWHhaemVMbnBTWUNQSlhRMzZhX054cVc4MEgwSWtwdVIzc1ZLNnBDdXE3NUFzQWRvSg?oc=5",
-      "appearances": [
-        {
-          "platform": "thepaper_news",
-          "rank": 3
-        },
-        {
-          "platform": "elite_press",
-          "rank": 12
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "weight": 11.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "校园文化建设专访② | 校园文化的内涵包括什么？",
-      "english_title": "Qiushi publishes second part of interview on campus culture construction",
-      "why_it_matters": "Part of ongoing ideological education in schools, signaling Party's focus on shaping youth values.",
-      "why_it_matters_zh": "学校意识形态教育的一部分，表明党塑造青年价值观的重点。",
-      "pull_quote": "",
+      "english_title": "Qiushi interview on campus culture construction",
+      "why_it_matters": "Reflects ongoing Party efforts to shape university culture and ideology, with possible implications for academic freedom.",
+      "why_it_matters_zh": "反映党持续塑造大学文化和意识形态的努力，可能影响学术自由。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "politics",
       "pillar_label": "High Politics & Ideology",
@@ -268,17 +241,17 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "weight": 11.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "2026年6月12日外交部发言人林剑主持例行记者会",
-      "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
-      "why_it_matters": "Key platform for official positions on diplomatic issues; today likely covered Taiwan, Iran, and trade.",
-      "why_it_matters_zh": "外交问题官方立场的关键平台；今日可能涉及台湾、伊朗和贸易议题。",
-      "pull_quote": "",
+      "english_title": "Foreign Ministry regular press conference on June 12",
+      "why_it_matters": "Routine but provides official positions on international issues; watch for any shifts in rhetoric on Taiwan or trade.",
+      "why_it_matters_zh": "例行发布但提供官方立场；关注台湾或贸易问题措辞的任何变化。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
@@ -310,69 +283,17 @@
       ]
     },
     {
-      "rank": 8,
-      "weight": 10.0,
-      "platforms": [
-        "xinhua_news"
-      ],
-      "platform_count": 1,
-      "primary_title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-      "english_title": "Iran says only accepts on-site dilution of enriched uranium",
-      "why_it_matters": "China is a key player in Iran nuclear talks; this stance may affect negotiations and regional stability.",
-      "why_it_matters_zh": "中国是伊朗核谈判的关键参与者；这一立场可能影响谈判和地区稳定。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "geopolitics",
-      "pillar_label": "U.S.–China & Geopolitics",
-      "pillar_label_zh": "中美关系与地缘政治",
-      "source": "",
-      "category": "news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4a1NyMWxlQUJXZllGWEtsdWxZd3BHdF9jMGFNNWVjckJvNE5UdnNlRzZ4QkNCbF9ZSmxlMVBCOEZXX1VRaDhpSjN4SHZhUUFEMkJabWRkeS1MVVpBZXJPZE93ak5md0prZmVLVlgzdkpvcmpvaF9VNGVoemlQZlk?oc=5",
-      "appearances": [
-        {
-          "platform": "xinhua_news",
-          "rank": 1
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "weight": 10.0,
-      "platforms": [
-        "elite_press"
-      ],
-      "platform_count": 1,
-      "primary_title": "我国旅居韩国大熊猫“华妮”产下一只雌性幼崽",
-      "english_title": "Panda 'Hua Ni' gives birth to female cub in South Korea",
-      "why_it_matters": "Soft diplomacy symbol; reinforces China's image as a responsible breeder and China-South Korea ties.",
-      "why_it_matters_zh": "软外交象征；强化中国作为负责任大熊猫繁育国的形象，也涉及中韩关系。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "society",
-      "pillar_label": "What's Trending",
-      "pillar_label_zh": "热点风向",
-      "source": "People's Daily",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SnJCY25uUVBWZU11ZE4waEp1VmF6NHBKYXhOc1RiN3hZcVJ3SFdVbFp6SUczalE5TWo3NzlWd1VPLTFYcVBNZ192ZHY3RzEwWlpZb2Q2ZFBSeGl0T1BzNzJLTUgtOXJnMElVSkFB?oc=5",
-      "appearances": [
-        {
-          "platform": "elite_press",
-          "rank": 1
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "weight": 10.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
-      "english_title": "Eight ministries issue measures to boost railway-tourism integration",
-      "why_it_matters": "Part of consumption stimulus, leveraging infrastructure to spur domestic tourism and services.",
-      "why_it_matters_zh": "消费刺激的一部分，利用基础设施推动国内旅游和服务业。",
-      "pull_quote": "",
+      "english_title": "Eight ministries promote railway-tourism integration to boost service consumption",
+      "why_it_matters": "Part of China's consumption stimulus push, targeting domestic tourism and rail infrastructure utilization.",
+      "why_it_matters_zh": "中国刺激消费的一部分，瞄准国内旅游和铁路基础设施利用。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
@@ -388,17 +309,17 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 8,
       "weight": 9.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-      "english_title": "MOFCOM announces anti-dumping duty rates for POM imports from Korea, Thailand, Malaysia",
-      "why_it_matters": "Trade protectionism tool; targets specific chemical imports, may affect downstream prices and supply chains.",
-      "why_it_matters_zh": "贸易保护工具；针对特定化工产品进口，可能影响下游价格和供应链。",
-      "pull_quote": "",
+      "english_title": "MOFCOM announces anti-dumping duty rate inheritance for polyoxymethylene from Korea, Thailand, Malaysia",
+      "why_it_matters": "Shows continued use of trade remedies to protect domestic chemical industries, with implications for bilateral relations.",
+      "why_it_matters_zh": "显示继续使用贸易救济保护国内化工产业，对双边关系有影响。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
@@ -414,17 +335,43 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 9,
+      "weight": 8.0,
+      "platforms": [
+        "gov_registry"
+      ],
+      "platform_count": 1,
+      "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+      "english_title": "MOFCOM adjusts export control list for precursor chemicals to certain countries",
+      "why_it_matters": "Signals tightening of dual-use chemical exports, likely aligned with international non-proliferation regimes.",
+      "why_it_matters_zh": "表明加强两用化学品出口管制，可能与国际防扩散机制一致。",
+      "pull_quote": "\"",
+      "pull_quote_zh": "",
+      "pillar": "economy",
+      "pillar_label": "Economy & Markets",
+      "pillar_label_zh": "经济与市场",
+      "source": "商务部",
+      "category": "regulatory",
+      "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+      "appearances": [
+        {
+          "platform": "gov_registry",
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "weight": 5.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
-      "english_title": "Taiwan Affairs Office press conference compilation (June 10)",
-      "why_it_matters": "Regular reiteration of One-China principle; any new rhetoric or actions on cross-strait relations important.",
-      "why_it_matters_zh": "重申一个中国原则的常规场合；任何关于两岸关系的新措辞或行动都值得关注。",
-      "pull_quote": "",
+      "english_title": "Taiwan Affairs Office press conference on June 10",
+      "why_it_matters": "Latest official line on cross-strait relations; watch for any escalation in rhetoric following Lai Ching-te's inauguration.",
+      "why_it_matters_zh": "最新的两岸关系官方口径；关注赖清德就职后措辞是否升级。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "geopolitics",
       "pillar_label": "U.S.–China & Geopolitics",
@@ -456,7 +403,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 11,
       "weight": 3.2,
       "platforms": [
         "elite_press",
@@ -464,10 +411,10 @@
       ],
       "platform_count": 2,
       "primary_title": "China's green power met all growth in electricity demand in 2025",
-      "english_title": "China's green power met all electricity demand growth in 2025",
-      "why_it_matters": "Demonstrates progress on renewables, key for climate goals and energy security narrative.",
-      "why_it_matters_zh": "展示可再生能源进展，对气候目标和能源安全叙事至关重要。",
-      "pull_quote": "",
+      "english_title": "China's green electricity met all demand growth in 2025",
+      "why_it_matters": "Demonstrates rapid renewable deployment and commitment to decarbonization, a positive signal for climate goals.",
+      "why_it_matters_zh": "展示可再生能源快速部署和脱碳承诺，对气候目标发出积极信号。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "economy",
       "pillar_label": "Economy & Markets",
@@ -487,47 +434,17 @@
       ]
     },
     {
-      "rank": 14,
-      "weight": 2.0,
-      "platforms": [
-        "elite_press"
-      ],
-      "platform_count": 1,
-      "primary_title": "\"Carbon Creates All\" has completed its Series A financing",
-      "english_title": "'Carbon Creates All' completes Series A financing",
-      "why_it_matters": "Indicates venture capital interest in carbon capture and climate tech, aligning with green transition.",
-      "why_it_matters_zh": "表明风投对碳捕获和气候技术的兴趣，与绿色转型一致。",
-      "pull_quote": "",
-      "pull_quote_zh": "",
-      "pillar": "tech",
-      "pillar_label": "Industry, Tech & Industrial Policy",
-      "pillar_label_zh": "产业、科技与工业政策",
-      "source": "36Kr",
-      "category": "press",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nX2pNdVZqU0hTSVNldHZkSGVwQ1p3M0ZaTEJXdXQ4LTVZc2k3bXNFUktTWGs3VTlHcEFfSkdZYzlPLWlaYU9PbFIyY1RWd1pBejR4VG80bzdFTk5WQ3BLaA?oc=5",
-      "appearances": [
-        {
-          "platform": "elite_press",
-          "rank": 27
-        },
-        {
-          "platform": "elite_press",
-          "rank": 28
-        }
-      ]
-    },
-    {
-      "rank": 15,
+      "rank": 12,
       "weight": 2.0,
       "platforms": [
         "gov_registry"
       ],
       "platform_count": 1,
       "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-      "english_title": "CSRC spokesperson answers questions on private fund supervision guidelines",
-      "why_it_matters": "Signals tighter regulation of private investment funds, aiming to reduce systemic risk.",
-      "why_it_matters_zh": "表明对私募投资基金加强监管，旨在降低系统性风险。",
-      "pull_quote": "",
+      "english_title": "CSRC answers questions on State Council guidelines for private fund regulation",
+      "why_it_matters": "Marks a major regulatory overhaul of the private fund industry, likely leading to consolidation and higher compliance costs.",
+      "why_it_matters_zh": "标志着私募基金行业重大监管改革，可能导致行业整合和合规成本上升。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "regulatory",
       "pillar_label": "Regulatory Watch",
@@ -547,17 +464,17 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 13,
       "weight": 1.0,
       "platforms": [
         "elite_press"
       ],
       "platform_count": 1,
       "primary_title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了-36氪",
-      "english_title": "After the AI model frenzy, where do AI entrepreneurs find answers? (WAIC special)",
-      "why_it_matters": "Reflects industry's shift from model development to application focus and commercialization.",
-      "why_it_matters_zh": "反映行业从模型开发转向应用和商业化的趋势。",
-      "pull_quote": "",
+      "english_title": "36Kr: After AI model frenzy, where should entrepreneurs look?",
+      "why_it_matters": "Reflects market maturation in AI, with focus shifting from models to applications and commercialization.",
+      "why_it_matters_zh": "反映AI市场成熟，焦点从模型转向应用和商业化。",
+      "pull_quote": "\"",
       "pull_quote_zh": "",
       "pillar": "tech",
       "pillar_label": "Industry, Tech & Industrial Policy",
