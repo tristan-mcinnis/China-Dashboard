@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T11:50:34+08:00",
+  "updated_at": "2026-06-13T15:15:34+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1793,8 +1793,18 @@
     },
     "regulatory tightening": {
       "label": "regulatory tightening",
-      "count": 12,
+      "count": 13,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC explains guidelines for high-quality development of private equity funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-13",
           "title": "加拿大开幕式又翻车了",
@@ -5488,9 +5498,21 @@
       ]
     },
     "cross-strait relations": {
-      "label": "Cross-strait relations",
-      "count": 5,
+      "label": "cross-strait relations",
+      "count": 6,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "中国不需要也不可能复制SpaceX",
+          "english_title": "China does not need to copy SpaceX, says professor",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%9C%80%E8%A6%81%E4%B9%9F%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%A4%8D%E5%88%B6SpaceX",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-10",
           "title": "国务院台办新闻发布会辑录（2026-06-03）",
@@ -8180,9 +8202,29 @@
       ]
     },
     "trade friction": {
-      "label": "Trade friction",
-      "count": 4,
+      "label": "trade friction",
+      "count": 6,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "Fiberglass Door Panels From People's Republic of China: Final Affirmative Determination of Sales at Less Than Fair Value",
+          "english_title": "US finalizes anti-dumping duty on fiberglass door panels from China",
+          "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11930/fiberglass-door-panels-from-peoples-republic-of-china-final-affirmative-determination-of-sales-at",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty rate confirmation for POM imports from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-11",
           "title": "Corrosion Inhibitors From China; Scheduling of Expedited Five-Year Reviews",
@@ -9548,6 +9590,210 @@
             "gov_registry"
           ],
           "category": "regulatory"
+        }
+      ]
+    },
+    "iran nuclear diplomacy": {
+      "label": "Iran nuclear diplomacy",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "english_title": "Iran FM: Iran only accepts dilution of enriched uranium on its soil",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4a1NyMWxlQUJXZllGWEtsdWxZd3BHdF9jMGFNNWVjckJvNE5UdnNlRzZ4QkNCbF9ZSmxlMVBCOEZXX1VRaDhpSjN4SHZhUUFEMkJabWRkeS1MVVpBZXJPZE93ak5md0prZmVLVlgzdkpvcmpvaF9VNGVoemlQZlk?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference on June 12",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
+          "english_title": "Israeli defense minister hints at future military action against Iran",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TcUVrd0JXSjRBd3dSaGY4ZG5vTUxFR0RtWWZhV2NWSE1oSmlTdks1Zi1jNlN4cEFwT3VVN1FpNEVlYlU4TnUtZVc1RnFxSlh6QlhfOHJnelRwbVhFTjFvNW5INFFRVzAyMDh6MXpfN01LQ1h5dG04VXpzSUZxdUE?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        }
+      ]
+    },
+    "china domestic stimulus": {
+      "label": "China domestic stimulus",
+      "count": 4,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Five ministries adjust export control list of precursor chemicals for certain countries/regions",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty rate confirmation for POM imports from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to boost railway-tourism integration and service consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "中国不需要也不可能复制SpaceX",
+          "english_title": "China does not need to copy SpaceX, says professor",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%9C%80%E8%A6%81%E4%B9%9F%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%A4%8D%E5%88%B6SpaceX",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "ai industry pivot": {
+      "label": "AI industry pivot",
+      "count": 11,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市”",
+          "english_title": "Alibaba reportedly bids $1.5 billion for fresh e-commerce platform Pupu Supermarket",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmMkhUZXl6SzJXSXZENVk1UW1pY2NmUloyQ09OVm9kQlhRRk84TWY3NUVYQlBMTUI0bUgyRDZRTkZac1l3YVg0S2tYMEFfdGRVQk9zUFF3Wm9PODQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了",
+          "english_title": "AI entrepreneurs seek direction after model frenzy: WAIC special",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04R0dIbnZtbER4cUJaeGhIQ3VkRERhUXZ6UjFwbkdKeEQtYnpWdXQ4Rk9LRndvRGxvRGZFX3RraDBEZmVDTE81SlNJQzYtQQ?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC explains guidelines for high-quality development of private equity funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "Fiberglass Door Panels From People's Republic of China: Final Affirmative Determination of Sales at Less Than Fair Value",
+          "english_title": "US finalizes anti-dumping duty on fiberglass door panels from China",
+          "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11930/fiberglass-door-panels-from-peoples-republic-of-china-final-affirmative-determination-of-sales-at",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office press conference highlights (2026-06-10)",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Five ministries adjust export control list of precursor chemicals for certain countries/regions",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty rate confirmation for POM imports from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to boost railway-tourism integration and service consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference on June 12",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
+          "english_title": "Israeli defense minister hints at future military action against Iran",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TcUVrd0JXSjRBd3dSaGY4ZG5vTUxFR0RtWWZhV2NWSE1oSmlTdks1Zi1jNlN4cEFwT3VVN1FpNEVlYlU4TnUtZVc1RnFxSlh6QlhfOHJnelRwbVhFTjFvNW5INFFRVzAyMDh6MXpfN01LQ1h5dG04VXpzSUZxdUE?oc=5",
+          "platforms": [
+            "thepaper_news",
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "中国不需要也不可能复制SpaceX",
+          "english_title": "China does not need to copy SpaceX, says professor",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%9C%80%E8%A6%81%E4%B9%9F%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%A4%8D%E5%88%B6SpaceX",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
         }
       ]
     }
