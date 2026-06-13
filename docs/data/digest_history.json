@@ -1,8 +1,336 @@
 {
-  "as_of": "2026-06-13T22:52:53+08:00",
+  "as_of": "2026-06-14T06:26:23+08:00",
   "source": "daily_digest archive",
-  "count": 45,
+  "count": 46,
   "entries": [
+    {
+      "as_of": "2026-06-14T06:26:23+08:00",
+      "date": "2026-06-14",
+      "time_label": "Morning Brief",
+      "beijing_time": "06:25",
+      "digest_type": "morning",
+      "generated_by": "deepseek-v4-flash",
+      "headline": "Green power met all electricity demand growth in 2025, a landmark for China's energy transition",
+      "headline_zh": "2025年绿色电力满足全部新增用电需求",
+      "narrative": "The milestone that green power met all electricity demand growth in 2025 is not just an environmental achievement but a strategic one. It underpins China's energy independence and decarbonization without sacrificing growth, positioning Beijing favorably ahead of COP30 and against Western carbon border taxes. Meanwhile, the State Council's promotion of railway-tourism integration signals a push for domestic consumption as external demand weakens.",
+      "narrative_zh": "2025年绿色电力满足全部新增用电需求的里程碑不仅是环境成就，更是战略转变。它支撑了中国的能源独立和脱碳而不牺牲增长，使北京在COP30前和应对西方碳边境税时处于有利地位。同时，国务院推动铁路旅游融合表明在外部需求疲软之际力促国内消费。",
+      "market_snapshot": "SSE Composite 4031.513 ▲1.12% · Shenzhen Component 14963.407 ▲0.75% · ChiNext 3830.353 ▲0.50% · USD/CNY 6.7621 ▼0.19% · USD/CNH 6.76 ▼0.04%",
+      "themes": [
+        "energy transition",
+        "domestic consumption",
+        "soft power",
+        "economic regulation",
+        "trade remedies",
+        "AI commercialization"
+      ],
+      "theme_trends": {
+        "energy transition": {
+          "status": "rising",
+          "days_seen": 1
+        },
+        "domestic consumption": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "soft power": {
+          "status": "recurring",
+          "days_seen": 6
+        },
+        "economic regulation": {
+          "status": "recurring",
+          "days_seen": 5
+        },
+        "trade remedies": {
+          "status": "recurring",
+          "days_seen": 7
+        },
+        "AI commercialization": {
+          "status": "recurring",
+          "days_seen": 7
+        }
+      },
+      "pillars": [
+        {
+          "key": "politics",
+          "label": "High Politics & Ideology",
+          "label_zh": "高层政治与意识形态"
+        },
+        {
+          "key": "economy",
+          "label": "Economy & Markets",
+          "label_zh": "经济与市场"
+        },
+        {
+          "key": "tech",
+          "label": "Industry, Tech & Industrial Policy",
+          "label_zh": "产业、科技与工业政策"
+        },
+        {
+          "key": "geopolitics",
+          "label": "U.S.–China & Geopolitics",
+          "label_zh": "中美关系与地缘政治"
+        },
+        {
+          "key": "regulatory",
+          "label": "Regulatory Watch",
+          "label_zh": "监管动态"
+        },
+        {
+          "key": "society",
+          "label": "What's Trending",
+          "label_zh": "热点风向"
+        }
+      ],
+      "top_stories": [
+        {
+          "primary_title": "世界杯：巴西vs摩洛哥",
+          "english_title": "",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%B7%B4%E8%A5%BFvs%E6%91%A9%E6%B4%9B%E5%93%A5"
+        },
+        {
+          "primary_title": "跟着总书记一起感受非遗魅力",
+          "english_title": "Xi Jinping promotes intangible cultural heritage on Culture and Natural Heritage Day",
+          "why_it_matters": "Xi's personal endorsement reinforces the Party's narrative of cultural confidence ahead of key anniversaries.",
+          "why_it_matters_zh": "习近平的亲自背书在关键周年纪念前强化了党的文化自信叙事。",
+          "pull_quote": "非遗，让生活更美好！",
+          "pull_quote_zh": "非遗，让生活更美好！",
+          "pillar": "politics",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E6%84%9F%E5%8F%97%E9%9D%9E%E9%81%97%E9%AD%85%E5%8A%9B"
+        },
+        {
+          "primary_title": "世界杯：卡塔尔vs瑞士",
+          "english_title": "",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "platform_count": 3,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%8D%A1%E5%A1%94%E5%B0%94vs%E7%91%9E%E5%A3%AB"
+        },
+        {
+          "primary_title": "卡塔尔绝平瑞士",
+          "english_title": "",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "society",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "platform_count": 2,
+          "source": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A1%E5%A1%94%E5%B0%94%E7%BB%9D%E5%B9%B3%E7%91%9E%E5%A3%AB"
+        },
+        {
+          "primary_title": "校园文化建设专访② | 校园文化的内涵包括什么？",
+          "english_title": "Qiushi Exclusive Interview on Campus Culture Construction",
+          "why_it_matters": "Sustained attention to campus culture reflects the Party's deepening grip on thought work in education.",
+          "why_it_matters_zh": "对校园文化的持续关注反映了党对教育领域思想工作的深化掌控。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "politics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "Qiushi",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zbFFrUlRueFJIM0hFVW5UM0ZXTng5VHRGdXExcjZ4TzA1QVB5WnBBSnREZG91eEFYOXBSS3NDWldUdWhNMVNNMFJSdGN1bTJUYklsSFM4MVlfaVBQNmRraGIteEh5YkNqUUF4U3Fvc1lfR2pTYU9ncE5QX20?oc=5"
+        },
+        {
+          "primary_title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian Regular Press Conference June 12",
+          "why_it_matters": "Routine but reveals calibrated tone on key bilateral issues; watch for any shifts in Ukraine or Taiwan wording.",
+          "why_it_matters_zh": "例行记者会但揭示了对关键双边问题的谨慎语调；关注乌克兰或台湾措辞的任何变化。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "外交部发言人",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml"
+        },
+        {
+          "primary_title": "古巴确定系列举措应对美国极限施压",
+          "english_title": "Cuba Announces Measures to Counter US Maximum Pressure",
+          "why_it_matters": "State media coverage underscores Beijing's alignment with anti-US pressure narratives, though direct involvement is limited.",
+          "why_it_matters_zh": "官方媒体报道凸显北京与反美施压叙事的协同，但直接参与有限。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "platform_count": 1,
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNQXhYX1IxN1JKb1hLamEwdnlrNDJKUmdNV0YwX0trOWJsb1h1bEJUZTFNTEFyZ2pudUdOamxjb3B2ejRiR1BkamNENUNqTlpmaVR1aXNoQjdqR0dWaDNPNTRlSlZsQThnRnBRdkZLMUM0SzFiUGVhMlZGYmFrOFU?oc=5"
+        },
+        {
+          "primary_title": "我国旅居韩国大熊猫“华妮”产下一只雌性幼崽",
+          "english_title": "China's Panda Hua Ni Gives Birth to Female Cub in South Korea",
+          "why_it_matters": "The birth is a soft-power win, reinforcing panda diplomacy brand amid strained bilateral relations.",
+          "why_it_matters_zh": "幼崽诞生是软实力胜利，在双边关系紧张之际强化了熊猫外交品牌。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "People's Daily",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SnJCY25uUVBWZU11ZE4waEp1VmF6NHBKYXhOc1RiN3hZcVJ3SFdVbFp6SUczalE5TWo3NzlWd1VPLTFYcVBNZ192ZHY3RzEwWlpZb2Q2ZFBSeGl0T1BzNzJLTUgtOXJnMElVSkFB?oc=5"
+        },
+        {
+          "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight Departments Issue Measures to Promote Railway-Tourism Integration and Expand Service Consumption",
+          "why_it_matters": "Inter-ministerial coordination aims to boost domestic service consumption as a buffer against external demand headwinds.",
+          "why_it_matters_zh": "跨部门协调旨在提振国内服务消费，以缓冲外部需求逆风。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html"
+        },
+        {
+          "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM Announces Anti-dumping Duty Successor for Polyoxymethylene from South Korea, Thailand, Malaysia",
+          "why_it_matters": "Targeted trade remedy action signals continued protection of domestic chemical industry, with implications for supply chain costs.",
+          "why_it_matters_zh": "针对性的贸易救济行动表明继续保护国内化工行业，对供应链成本有影响。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html"
+        },
+        {
+          "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Five Departments Adjust Export Control List of Precursor Chemicals",
+          "why_it_matters": "Update tightens export oversight, likely a response to dual-use concerns and international pressure.",
+          "why_it_matters_zh": "更新收紧出口监管，可能是对两用担忧和国际压力的回应。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "商务部",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html"
+        },
+        {
+          "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office Press Conference June 10",
+          "why_it_matters": "Consistent reiteration of 'one China' and opposition to external interference, but no new policy shifts; monitoring for incremental escalation.",
+          "why_it_matters_zh": "一贯重申‘一个中国’和反对外部干涉，但无新政策转变；监视逐步升级。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "geopolitics",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "国务院台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm"
+        },
+        {
+          "primary_title": "China's green power met all growth in electricity demand in 2025",
+          "english_title": "China's Green Power Met All Growth in Electricity Demand in 2025",
+          "why_it_matters": "Landmark achievement in greening the grid, but check for underlying demand growth figures to gauge real decarbonization pace.",
+          "why_it_matters_zh": "电网绿色化方面的里程碑成就，但需检查潜在需求增长数据以衡量真实脱碳速度。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "economy",
+          "platforms": [
+            "elite_press",
+            "gov_registry"
+          ],
+          "platform_count": 2,
+          "source": "CGTN",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjNSaHBZWTRjX05GcFUwZzYxX3RSNjdUSkh5TS1YNXd3VDVlaWZYY3dZdXRsdElKRG83ODFiMzRUZjhxNzRDZElzUVRpN0xrX1hCZjlTNnJzVXBIdElJYlM0Q0N0d3hfRldYYVlrTmZQdm15cDhfSV9TN3NlNl9jY1NmSEg2bnpJREYyd25adENQVFY1eTdQLXhfelRzYzNuTmpPbDA3YXZGamVWZ1hWakRmTEY2aExaVkR1QmJB?oc=5"
+        },
+        {
+          "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC Spokesperson Answers Questions on Private Investment Fund Guidelines",
+          "why_it_matters": "New guidance aims to channel private equity toward compliant, productive sectors while weeding out financial innovation risks.",
+          "why_it_matters_zh": "新指引旨在引导私募股权进入合规、生产性行业，同时剔除金融创新风险。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "regulatory",
+          "platforms": [
+            "gov_registry"
+          ],
+          "platform_count": 1,
+          "source": "证监会",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml"
+        },
+        {
+          "primary_title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了-36氪",
+          "english_title": "After the Model Frenzy, Where Should AI Entrepreneurs Find Answers? WAIC Special by 36Kr",
+          "why_it_matters": "Reflects the shift from foundational model hype to application-layer monetization; 36Kr serves as bellwether for startup sentiment.",
+          "why_it_matters_zh": "反映从基础模型炒作向应用层货币化的转变；36氪是创业情绪的晴雨表。",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KQ05JRGowOUdFVHpyUElDcHpBYlRMSDJWVHhJLXZDd3c2clBCc3I0ZFg0YWthV2NvVHZLb0ZMbWxBcU5fUWRjRzBXYw?oc=5"
+        },
+        {
+          "primary_title": "请完成下列验证后继续 - 36 36kr",
+          "english_title": "Please Complete the Following Verification to Continue - 36 36kr",
+          "why_it_matters": "",
+          "why_it_matters_zh": "",
+          "pull_quote": "",
+          "pull_quote_zh": "",
+          "pillar": "tech",
+          "platforms": [
+            "elite_press"
+          ],
+          "platform_count": 1,
+          "source": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzTkI3TW9MN0o4RFJJa2lZNW00dVhyQ2Z0YTViVnF6cF9JQmtYbUh1bXNwU0llWFJRbTFFSXgyREhBUnhMNWxrcG9iZw?oc=5"
+        }
+      ]
+    },
     {
       "as_of": "2026-06-13T22:52:53+08:00",
       "date": "2026-06-13",

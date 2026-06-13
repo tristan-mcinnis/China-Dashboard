@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T22:52:53+08:00",
+  "updated_at": "2026-06-14T06:26:23+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -6641,9 +6641,19 @@
       ]
     },
     "trade remedies": {
-      "label": "Trade Remedies",
-      "count": 4,
+      "label": "trade remedies",
+      "count": 5,
       "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM Announces Anti-dumping Duty Successor for Polyoxymethylene from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-13",
           "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
@@ -6805,9 +6815,21 @@
       ]
     },
     "economic regulation": {
-      "label": "Economic regulation",
-      "count": 3,
+      "label": "economic regulation",
+      "count": 4,
       "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "世界杯：巴西vs摩洛哥",
+          "english_title": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%B7%B4%E8%A5%BFvs%E6%91%A9%E6%B4%9B%E5%93%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-08",
           "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
@@ -8997,9 +9019,30 @@
       ]
     },
     "soft power": {
-      "label": "Soft Power",
-      "count": 1,
+      "label": "soft power",
+      "count": 3,
       "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "China's green power met all growth in electricity demand in 2025",
+          "english_title": "China's Green Power Met All Growth in Electricity Demand in 2025",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjNSaHBZWTRjX05GcFUwZzYxX3RSNjdUSkh5TS1YNXd3VDVlaWZYY3dZdXRsdElKRG83ODFiMzRUZjhxNzRDZElzUVRpN0xrX1hCZjlTNnJzVXBIdElJYlM0Q0N0d3hfRldYYVlrTmZQdm15cDhfSV9TN3NlNl9jY1NmSEg2bnpJREYyd25adENQVFY1eTdQLXhfelRzYzNuTmpPbDA3YXZGamVWZ1hWakRmTEY2aExaVkR1QmJB?oc=5",
+          "platforms": [
+            "elite_press",
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "我国旅居韩国大熊猫“华妮”产下一只雌性幼崽",
+          "english_title": "China's Panda Hua Ni Gives Birth to Female Cub in South Korea",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SnJCY25uUVBWZU11ZE4waEp1VmF6NHBKYXhOc1RiN3hZcVJ3SFdVbFp6SUczalE5TWo3NzlWd1VPLTFYcVBNZ192ZHY3RzEwWlpZb2Q2ZFBSeGl0T1BzNzJLTUgtOXJnMElVSkFB?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
         {
           "date": "2026-06-11",
           "title": "世界杯迎来了最不吃压力的中国裁判",
@@ -9986,6 +10029,136 @@
           "date": "2026-06-13",
           "title": "校园文化建设专访② | 校园文化的内涵包括什么？",
           "english_title": "Qiushi interview on campus culture construction",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zbFFrUlRueFJIM0hFVW5UM0ZXTng5VHRGdXExcjZ4TzA1QVB5WnBBSnREZG91eEFYOXBSS3NDWldUdWhNMVNNMFJSdGN1bTJUYklsSFM4MVlfaVBQNmRraGIteEh5YkNqUUF4U3Fvc1lfR2pTYU9ncE5QX20?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        }
+      ]
+    },
+    "energy transition": {
+      "label": "energy transition",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "世界杯：巴西vs摩洛哥",
+          "english_title": "",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%B7%B4%E8%A5%BFvs%E6%91%A9%E6%B4%9B%E5%93%A5",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "domestic consumption": {
+      "label": "domestic consumption",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM Announces Anti-dumping Duty Successor for Polyoxymethylene from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight Departments Issue Measures to Promote Railway-Tourism Integration and Expand Service Consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "ai commercialization": {
+      "label": "AI commercialization",
+      "count": 8,
+      "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了-36氪",
+          "english_title": "After the Model Frenzy, Where Should AI Entrepreneurs Find Answers? WAIC Special by 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KQ05JRGowOUdFVHpyUElDcHpBYlRMSDJWVHhJLXZDd3c2clBCc3I0ZFg0YWthV2NvVHZLb0ZMbWxBcU5fUWRjRzBXYw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC Spokesperson Answers Questions on Private Investment Fund Guidelines",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "Taiwan Affairs Office Press Conference June 10",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM Announces Anti-dumping Duty Successor for Polyoxymethylene from South Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight Departments Issue Measures to Promote Railway-Tourism Integration and Expand Service Consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "我国旅居韩国大熊猫“华妮”产下一只雌性幼崽",
+          "english_title": "China's Panda Hua Ni Gives Birth to Female Cub in South Korea",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SnJCY25uUVBWZU11ZE4waEp1VmF6NHBKYXhOc1RiN3hZcVJ3SFdVbFp6SUczalE5TWo3NzlWd1VPLTFYcVBNZ192ZHY3RzEwWlpZb2Q2ZFBSeGl0T1BzNzJLTUgtOXJnMElVSkFB?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian Regular Press Conference June 12",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "校园文化建设专访② | 校园文化的内涵包括什么？",
+          "english_title": "Qiushi Exclusive Interview on Campus Culture Construction",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zbFFrUlRueFJIM0hFVW5UM0ZXTng5VHRGdXExcjZ4TzA1QVB5WnBBSnREZG91eEFYOXBSS3NDWldUdWhNMVNNMFJSdGN1bTJUYklsSFM4MVlfaVBQNmRraGIteEh5YkNqUUF4U3Fvc1lfR2pTYU9ncE5QX20?oc=5",
           "platforms": [
             "elite_press"
