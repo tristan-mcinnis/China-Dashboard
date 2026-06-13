@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T15:15:34+08:00",
+  "updated_at": "2026-06-13T19:18:16+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -1793,8 +1793,19 @@
     },
     "regulatory tightening": {
       "label": "regulatory tightening",
-      "count": 13,
+      "count": 14,
       "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "跟着总书记“打卡”世界遗产",
+          "english_title": "Xi Jinping highlights cultural heritage sites on World Heritage Day",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%89%93%E5%8D%A1%E2%80%9D%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        },
         {
           "date": "2026-06-13",
           "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
@@ -9794,6 +9805,113 @@
             "weibo_hot"
           ],
           "category": "social"
+        }
+      ]
+    },
+    "efficiency drive": {
+      "label": "efficiency drive",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "投资772亿工程开工仪式不到15分钟",
+          "english_title": "Three Gorges new channel begins construction with 12-minute ceremony",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84772%E4%BA%BF%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5%E4%BB%AA%E5%BC%8F%E4%B8%8D%E5%88%B015%E5%88%86%E9%92%9F",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "trade resilience": {
+      "label": "trade resilience",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "MOFCOM announces anti-dumping duty rates for POM imports from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "连续3个月超4万亿 中国外贸持续向好",
+          "english_title": "China's foreign trade exceeds 4 trillion Yuan for third consecutive month",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD3%E4%B8%AA%E6%9C%88%E8%B6%854%E4%B8%87%E4%BA%BF+%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "infrastructure investment": {
+      "label": "infrastructure investment",
+      "count": 3,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson answers questions on private fund supervision guidelines",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to boost railway-tourism integration",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-13",
+          "title": "投资772亿工程开工仪式不到15分钟",
+          "english_title": "Three Gorges new channel begins construction with 12-minute ceremony",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84772%E4%BA%BF%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5%E4%BB%AA%E5%BC%8F%E4%B8%8D%E5%88%B015%E5%88%86%E9%92%9F",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "geopolitical stability": {
+      "label": "geopolitical stability",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-13",
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "english_title": "Iran says only accepts on-site dilution of enriched uranium",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4a1NyMWxlQUJXZllGWEtsdWxZd3BHdF9jMGFNNWVjckJvNE5UdnNlRzZ4QkNCbF9ZSmxlMVBCOEZXX1VRaDhpSjN4SHZhUUFEMkJabWRkeS1MVVpBZXJPZE93ak5md0prZmVLVlgzdkpvcmpvaF9VNGVoemlQZlk?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
         }
       ]
     }

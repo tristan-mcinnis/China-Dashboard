@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-06-13T15:14:38+08:00",
+  "as_of": "2026-06-13T19:17:31+08:00",
   "source": "Neon archive baselines (30/90-day)",
   "items": [
     {
@@ -210,15 +210,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 8,
-          "mean": 6.3412,
-          "std": 0.0953,
+          "mean": 6.3388,
+          "std": 0.0921,
           "min": 6.18,
           "max": 6.47
         },
         "baseline_90d": {
           "days": 8,
-          "mean": 6.3412,
-          "std": 0.0953,
+          "mean": 6.3388,
+          "std": 0.0921,
           "min": 6.18,
           "max": 6.47
         },
@@ -240,15 +240,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 8,
-          "mean": 91.5337,
-          "std": 3.5181,
+          "mean": 91.6112,
+          "std": 3.4163,
           "min": 86.71,
           "max": 95.74
         },
         "baseline_90d": {
           "days": 8,
-          "mean": 91.5337,
-          "std": 3.5181,
+          "mean": 91.6112,
+          "std": 3.4163,
           "min": 86.71,
           "max": 95.74
         },
@@ -270,15 +270,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 8,
-          "mean": 88.8225,
-          "std": 3.3863,
+          "mean": 88.8963,
+          "std": 3.2919,
           "min": 84.29,
           "max": 93.16
         },
         "baseline_90d": {
           "days": 8,
-          "mean": 88.8225,
-          "std": 3.3863,
+          "mean": 88.8963,
+          "std": 3.2919,
           "min": 84.29,
           "max": 93.16
         },
@@ -356,15 +356,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 8,
-          "mean": 4263.65,
-          "std": 91.1411,
+          "mean": 4263.5125,
+          "std": 91.1776,
           "min": 4064.4,
           "max": 4365.3
         },
         "baseline_90d": {
           "days": 8,
-          "mean": 4263.65,
-          "std": 91.1411,
+          "mean": 4263.5125,
+          "std": 91.1776,
           "min": 4064.4,
           "max": 4365.3
         },
@@ -696,7 +696,7 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 4079.0723,
+          "mean": 4079.0722,
           "std": 52.5063,
           "min": 3959.338,
           "max": 4169.538
@@ -780,15 +780,15 @@
         "latest_source": "live",
         "baseline_30d": {
           "days": 30,
-          "mean": 15451.0369,
-          "std": 287.3062,
+          "mean": 15451.0367,
+          "std": 287.3066,
           "min": 14821.187,
           "max": 15876.163
         },
         "baseline_90d": {
           "days": 91,
-          "mean": 14815.597,
-          "std": 783.6318,
+          "mean": 14815.5969,
+          "std": 783.6317,
           "min": 13345.514,
           "max": 16089.749
         },
