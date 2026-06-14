@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T11:49:34+08:00",
+  "updated_at": "2026-06-14T15:31:50+08:00",
   "tags": {
     "political education": {
       "label": "political education",
@@ -2502,8 +2502,18 @@
     },
     "financial regulation": {
       "label": "financial regulation",
-      "count": 4,
+      "count": 5,
       "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains new rules for private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-14",
           "title": "“巴西醒醒 这是世界杯！”",
@@ -10062,8 +10072,19 @@
     },
     "energy transition": {
       "label": "energy transition",
-      "count": 1,
+      "count": 2,
       "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "China's green power met all growth in electricity demand in 2025",
+          "english_title": "Green power met all electricity demand growth in 2025",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjNSaHBZWTRjX05GcFUwZzYxX3RSNjdUSkh5TS1YNXd3VDVlaWZYY3dZdXRsdElKRG83ODFiMzRUZjhxNzRDZElzUVRpN0xrX1hCZjlTNnJzVXBIdElJYlM0Q0N0d3hfRldYYVlrTmZQdm15cDhfSV9TN3NlNl9jY1NmSEg2bnpJREYyd25adENQVFY1eTdQLXhfelRzYzNuTmpPbDA3YXZGamVWZ1hWakRmTEY2aExaVkR1QmJB?oc=5",
+          "platforms": [
+            "elite_press",
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
         {
           "date": "2026-06-14",
           "title": "世界杯：巴西vs摩洛哥",
@@ -10269,6 +10290,148 @@
             "gov_registry"
           ],
           "category": "regulatory"
+        }
+      ]
+    },
+    "education reform": {
+      "label": "education reform",
+      "count": 2,
+      "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "校园文化建设专访② | 校园文化的内涵包括什么？",
+          "english_title": "Qiushi exclusive: Campus culture building interview part 2",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zbFFrUlRueFJIM0hFVW5UM0ZXTng5VHRGdXExcjZ4TzA1QVB5WnBBSnREZG91eEFYOXBSS3NDWldUdWhNMVNNMFJSdGN1bTJUYklsSFM4MVlfaVBQNmRraGIteEh5YkNqUUF4U3Fvc1lfR2pTYU9ncE5QX20?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "小县城取消中考选拔全员直升高中",
+          "english_title": "Small county cancels high school entrance exam, switches to universal enrollment with vocational track",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E9%80%89%E6%8B%94%E5%85%A8%E5%91%98%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
+        }
+      ]
+    },
+    "trade controls": {
+      "label": "trade controls",
+      "count": 1,
+      "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Commerce Ministry announces anti-dumping duty rate adjustments for polyoxymethylene from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        }
+      ]
+    },
+    "ai ecosystem": {
+      "label": "AI ecosystem",
+      "count": 9,
+      "stories": [
+        {
+          "date": "2026-06-14",
+          "title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了-36氪",
+          "english_title": "36Kr: After the AI model frenzy, entrepreneurs seek answers at WAIC",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KQ05JRGowOUdFVHpyUElDcHpBYlRMSDJWVHhJLXZDd3c2clBCc3I0ZFg0YWthV2NvVHZLb0ZMbWxBcU5fUWRjRzBXYw?oc=5",
+          "platforms": [
+            "elite_press"
+          ],
+          "category": "press"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
+          "english_title": "CSRC spokesperson explains new rules for private investment funds",
+          "url": "http://www.csrc.gov.cn/csrc/c100028/c7637251/content.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "国务院台办新闻发布会辑录（2026-06-10）",
+          "english_title": "State Council Taiwan Affairs Office press conference, June 10",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260610_12770189.htm",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
+          "english_title": "Five departments adjust export control catalog for precursor chemicals to certain countries",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_f00fe2a7e4454358bbf77aae912496a8.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
+          "english_title": "Commerce Ministry announces anti-dumping duty rate adjustments for polyoxymethylene from Korea, Thailand, Malaysia",
+          "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_6b021fd164904bbea8040411f1cf6be5.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
+          "english_title": "Eight ministries issue measures to boost railway-tourism integration and service consumption",
+          "url": "http://www.mofcom.gov.cn/zcfb/fwmy/art/2026/art_ca8792dffd654b4698ce2f3729bf03a4.html",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "当前我国夏粮收获进度过八成",
+          "english_title": "Summer grain harvest progress exceeds 80%",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYVRGcjdfWm8zc2xoSnEtb0l4ZDBuQzB4ZlA2R1B3OHVnVWpsci1CWlF3eFBfZC1ibVUyNkN0NzFESDVIbEFOV0ZZSmlPdVpmMFJBOU5OOU1WLVFvVWo1eE1rbW4yQVhWem9BU2UzdnlIT0JTQnItUFZSSnZVNFk?oc=5",
+          "platforms": [
+            "xinhua_news"
+          ],
+          "category": "news"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "2026年6月12日外交部发言人林剑主持例行记者会",
+          "english_title": "Foreign Ministry spokesperson Lin Jian regular press conference, June 12",
+          "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml",
+          "platforms": [
+            "gov_registry"
+          ],
+          "category": "regulatory"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "小县城取消中考选拔全员直升高中",
+          "english_title": "Small county cancels high school entrance exam, switches to universal enrollment with vocational track",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E9%80%89%E6%8B%94%E5%85%A8%E5%91%98%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
+          "platforms": [
+            "baidu_top",
+            "tencent_wechat_hot",
+            "weibo_hot"
+          ],
+          "category": "social"
         }
       ]
     }

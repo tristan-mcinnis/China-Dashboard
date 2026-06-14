@@ -1,30 +1,33 @@
 {
-  "as_of": "2026-06-14T11:49:34+08:00",
+  "as_of": "2026-06-14T15:31:50+08:00",
   "source": "daily_digest archive",
   "count": 47,
   "entries": [
     {
-      "as_of": "2026-06-14T11:49:34+08:00",
+      "as_of": "2026-06-14T15:31:50+08:00",
       "date": "2026-06-14",
       "time_label": "Midday Brief",
-      "beijing_time": "11:49",
+      "beijing_time": "15:31",
       "digest_type": "midday",
       "generated_by": "deepseek-v4-flash",
-      "headline": "Policy blitz targets consumption and risk: railway-tourism synergy, PE fund clampdown",
-      "headline_zh": "政策组合拳促消费防风险：铁路旅游融合、私募基金监管",
-      "narrative": "Today’s policy agenda signals a dual focus: boosting domestic demand through cross-sector integration (railway + tourism) while tightening oversight on private equity, as outlined by the CSRC. Meanwhile, the '15th Five-Year' propaganda campaign kicks off, framing the period as foundational for modernization. On the external front, Cuba’s countermeasures against US pressure and the Taiwan Affairs Office presser underscore Beijing’s consistent messaging on sovereignty.",
-      "narrative_zh": "今日政策议程显示双重焦点：通过跨部门融合（铁路+旅游）刺激内需，同时证监会收紧私募股权监管。与此同时，“十五五”宣传启动，将该时期定位为现代化的奠基阶段。外部方面，古巴应对美国压力的举措及国台办发布会凸显北京在主权问题上的一贯立场。",
+      "headline": "China experiments with universal high school enrollment as it tightens trade controls and financial regulation",
+      "headline_zh": "中国试点全面高中入学，同时收紧贸易管制与金融监管",
+      "narrative": "A small county's decision to cancel the high school entrance exam and enroll all students directly, while allowing a vocational track during senior high, signals Beijing's willingness to experiment with structural education reform. This social pilot coincides with a cluster of regulatory actions: new export controls on precursor chemicals, anti-dumping duties on polyoxymethylene from three Asian countries, and tightened oversight of private equity funds. The two moves, one social, one economic, illustrate the Party's dual strategy: liberalizing where it strengthens social control (education) and tightening where it seeks economic security (trade, finance). Separately, CGTN claims that green power met all of China's electricity demand growth in 2025, a data point worth monitoring for credibility.",
+      "narrative_zh": "某小县城取消中考、全员直接升入高中并允许在高中阶段选修职高课程，这标志着北京愿意在结构性教育改革上开展实验。这一社会试点恰逢一系列监管动作：对易制毒化学品实施新的出口管制、对原产于韩泰马三国的共聚聚甲醛征收反倾销税、以及收紧私募基金监管。两项举措，一项社会性、一项经济性，显示了党的双重策略：在需要加强社会控制的地方放开（教育），在需要经济安全的地方收紧（贸易、金融）。此外，CGTN声称2025年中国电力需求增长全部由绿色电力满足，这一数据点值得关注其可信度。",
       "market_snapshot": "SSE Composite 4031.513 ▲1.12% · Shenzhen Component 14963.407 ▲0.75% · ChiNext 3830.353 ▲0.50% · USD/CNY 6.7621 ▼0.19% · USD/CNH 6.76 ▼0.04%",
       "themes": [
-        "domestic consumption",
+        "education reform",
+        "trade controls",
         "financial regulation",
-        "15th Five-Year",
-        "green energy",
-        "sports culture",
-        "external affairs"
+        "energy transition",
+        "AI ecosystem"
       ],
       "theme_trends": {
-        "domestic consumption": {
+        "education reform": {
+          "status": "recurring",
+          "days_seen": 6
+        },
+        "trade controls": {
           "status": "recurring",
           "days_seen": 7
         },
@@ -32,19 +35,11 @@
           "status": "recurring",
           "days_seen": 7
         },
-        "15th Five-Year": {
-          "status": "recurring",
-          "days_seen": 7
-        },
-        "green energy": {
+        "energy transition": {
           "status": "rising",
-          "days_seen": 2
+          "days_seen": 1
         },
-        "sports culture": {
-          "status": "recurring",
-          "days_seen": 3
-        },
-        "external affairs": {
+        "AI ecosystem": {
           "status": "recurring",
           "days_seen": 7
         }
@@ -83,12 +78,12 @@
       ],
       "top_stories": [
         {
-          "primary_title": "“巴西醒醒 这是世界杯！”",
-          "english_title": "World Cup: Brazil held 1-1 by Morocco in Group C opener",
-          "why_it_matters": "The draw underscores the rising competitiveness of African football, a topic widely discussed on Chinese social media.",
-          "why_it_matters_zh": "平局凸显非洲足球竞争力上升，这一话题在中国社交媒体上引发热议。",
-          "pull_quote": "Morocco's Sebari opened the scoring in the 21st minute.",
-          "pull_quote_zh": "摩洛哥球员塞巴里第21分钟率先破门。",
+          "primary_title": "小县城取消中考选拔全员直升高中",
+          "english_title": "Small county cancels high school entrance exam, switches to universal enrollment with vocational track",
+          "why_it_matters": "A rare policy experiment that could preview a broader shift away from exam-centric education, balancing college prep with vocational training.",
+          "why_it_matters_zh": "罕见政策试验，可能预示教育体系去考试化、普职融合的更大转向。",
+          "pull_quote": "\"Give children more choices.\" Local education bureau response.",
+          "pull_quote_zh": "\"给孩子多个选择。\" 当地教育局回应。",
           "pillar": "society",
           "platforms": [
             "baidu_top",
@@ -97,62 +92,13 @@
           ],
           "platform_count": 3,
           "source": "",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B7%B4%E8%A5%BF%E9%86%92%E9%86%92+%E8%BF%99%E6%98%AF%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%81%E2%80%9D"
-        },
-        {
-          "primary_title": "NBA总决赛G5 马刺vs尼克斯",
-          "english_title": "NBA Finals Game 5: Spurs lead Knicks 42-37 at halftime",
-          "why_it_matters": "Basketball remains a niche sport in China compared to football, but NBA finals draw consistent online interest.",
-          "why_it_matters_zh": "与足球相比，篮球在中国仍属小众，但NBA总决赛持续吸引线上关注。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
-          "pillar": "society",
-          "platforms": [
-            "baidu_top",
-            "tencent_wechat_hot",
-            "weibo_hot"
-          ],
-          "platform_count": 3,
-          "source": "",
-          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG5+%E9%A9%AC%E5%88%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF"
-        },
-        {
-          "primary_title": "书写无愧于人民的时代答卷",
-          "english_title": "Writing a people-worthy answer sheet for the times",
-          "why_it_matters": "This Qiushi article marks the official launch of the 15th Five-Year Plan propaganda, emphasizing the period's role in socialist modernization.",
-          "why_it_matters_zh": "这篇《求是》文章标志着“十五五”规划官方宣传启动，强调该时期在社会主义现代化中的作用。",
-          "pull_quote": "",
-          "pull_quote_zh": "",
-          "pillar": "politics",
-          "platforms": [
-            "baidu_top",
-            "tencent_wechat_hot"
-          ],
-          "platform_count": 2,
-          "source": "",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A6%E5%86%99%E6%97%A0%E6%84%A7%E4%BA%8E%E4%BA%BA%E6%B0%91%E7%9A%84%E6%97%B6%E4%BB%A3%E7%AD%94%E5%8D%B7"
-        },
-        {
-          "primary_title": "酒楼用14米屏幕放世界杯 食客爆满",
-          "english_title": "Guangdong restaurant uses 14-meter screen for World Cup, packed with diners",
-          "why_it_matters": "Illustrates the integration of sports consumption and catering, a sign of post-pandemic recovery in service sector.",
-          "why_it_matters_zh": "体现体育消费与餐饮融合，是服务业疫后复苏的信号。",
-          "pull_quote": "Many called to inquire about match schedules.",
-          "pull_quote_zh": "不少人致电咨询球赛时间。",
-          "pillar": "society",
-          "platforms": [
-            "baidu_top",
-            "tencent_wechat_hot"
-          ],
-          "platform_count": 2,
-          "source": "",
-          "url": "https://www.baidu.com/s?wd=%E9%85%92%E6%A5%BC%E7%94%A814%E7%B1%B3%E5%B1%8F%E5%B9%95%E6%94%BE%E4%B8%96%E7%95%8C%E6%9D%AF+%E9%A3%9F%E5%AE%A2%E7%88%86%E6%BB%A1"
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E9%80%89%E6%8B%94%E5%85%A8%E5%91%98%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD"
         },
         {
           "primary_title": "校园文化建设专访② | 校园文化的内涵包括什么？",
-          "english_title": "Interview on campus culture construction (II): What does campus culture include?",
-          "why_it_matters": "Part of ongoing ideological push to shape education content, reinforcing the Party's role in youth socialization.",
-          "why_it_matters_zh": "意识形态教育系列的一部分，强化党在青年社会化中的作用。",
+          "english_title": "Qiushi exclusive: Campus culture building interview part 2",
+          "why_it_matters": "Signals continued ideological work through education, with a focus on 'campus culture' as a tool for shaping values.",
+          "why_it_matters_zh": "表明通过教育持续开展意识形态工作，'校园文化'成为塑造价值观的工具。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "politics",
@@ -165,9 +111,9 @@
         },
         {
           "primary_title": "2026年6月12日外交部发言人林剑主持例行记者会",
-          "english_title": "Foreign Ministry Spokesperson Lin Jian holds regular press conference on June 12",
-          "why_it_matters": "Routine briefing covers standard talking points on bilateral issues, but no major surprises.",
-          "why_it_matters_zh": "例行记者会涉及双边问题标准口径，无重大意外。",
+          "english_title": "Foreign Ministry spokesperson Lin Jian regular press conference, June 12",
+          "why_it_matters": "Routine briefing but key for reading Beijing's stance on ongoing issues; monitor for any shifts on Taiwan, South China Sea, or broader diplomacy.",
+          "why_it_matters_zh": "例行记者会，但解读北京在台湾、南海及整体外交上的立场要点，需关注任何细微变化。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "geopolitics",
@@ -179,25 +125,25 @@
           "url": "https://www.mfa.gov.cn/web/fyrbt_673021/jzhsl_673025/202606/t20260612_11943460.shtml"
         },
         {
-          "primary_title": "古巴确定系列举措应对美国极限施压",
-          "english_title": "Cuba announces series of measures to counter US maximum pressure",
-          "why_it_matters": "China's state media coverage signals solidarity with Cuba, reinforcing anti-US rhetoric in the Global South.",
-          "why_it_matters_zh": "中国官方媒体报道显示声援古巴，强化全球南方反美叙事。",
+          "primary_title": "当前我国夏粮收获进度过八成",
+          "english_title": "Summer grain harvest progress exceeds 80%",
+          "why_it_matters": "A positive supply-side indicator reinforcing food security narrative, but watch for weather risks in remaining harvest.",
+          "why_it_matters_zh": "供给侧利好信号，强化粮食安全叙事；但仍需关注剩余收获季的天气风险。",
           "pull_quote": "",
           "pull_quote_zh": "",
-          "pillar": "geopolitics",
+          "pillar": "economy",
           "platforms": [
             "xinhua_news"
           ],
           "platform_count": 1,
           "source": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNQXhYX1IxN1JKb1hLamEwdnlrNDJKUmdNV0YwX0trOWJsb1h1bEJUZTFNTEFyZ2pudUdOamxjb3B2ejRiR1BkamNENUNqTlpmaVR1aXNoQjdqR0dWaDNPNTRlSlZsQThnRnBRdkZLMUM0SzFiUGVhMlZGYmFrOFU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYVRGcjdfWm8zc2xoSnEtb0l4ZDBuQzB4ZlA2R1B3OHVnVWpsci1CWlF3eFBfZC1ibVUyNkN0NzFESDVIbEFOV0ZZSmlPdVpmMFJBOU5OOU1WLVFvVWo1eE1rbW4yQVhWem9BU2UzdnlIT0JTQnItUFZSSnZVNFk?oc=5"
         },
         {
           "primary_title": "商务部 文化和旅游部 国铁集团等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知",
-          "english_title": "Eight departments issue measures to promote railway-tourism integration and expand service consumption",
-          "why_it_matters": "Aimed at stimulating domestic tourism and railway revenue, part of broader consumption recovery strategy.",
-          "why_it_matters_zh": "旨在刺激国内旅游和铁路收入，是消费复苏大战略的一部分。",
+          "english_title": "Eight ministries issue measures to boost railway-tourism integration and service consumption",
+          "why_it_matters": "Targets domestic service consumption as an economic driver; part of broader effort to stimulate internal demand post-pandemic.",
+          "why_it_matters_zh": "聚焦国内服务消费以拉动经济，是疫后提振内需整体策略的一部分。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "economy",
@@ -210,9 +156,9 @@
         },
         {
           "primary_title": "商务部公告2026年第22号 公布对原产于韩国、泰国和马来西亚的进口共聚聚甲醛反倾销措施相关企业税率继承的决定",
-          "english_title": "MOFCOM announces decision on tax rate succession for anti-dumping measures on copolymers from South Korea, Thailand, Malaysia",
-          "why_it_matters": "Continued trade remedy measures reflect ongoing protection of domestic chemical industry.",
-          "why_it_matters_zh": "持续贸易救济措施反映国内化工产业保护。",
+          "english_title": "Commerce Ministry announces anti-dumping duty rate adjustments for polyoxymethylene from Korea, Thailand, Malaysia",
+          "why_it_matters": "Shows ongoing trade remedy activity; may signal protectionism or retaliation in specific chemical sectors.",
+          "why_it_matters_zh": "显示贸易救济措施持续，可能在特定化工领域保护国内产业或进行反制。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "economy",
@@ -225,9 +171,9 @@
         },
         {
           "primary_title": "商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告",
-          "english_title": "MOFCOM and four other departments adjust export control catalog of precursor chemicals for specific countries",
-          "why_it_matters": "Strengthens export controls on dual-use chemicals, aligning with international non-proliferation norms.",
-          "why_it_matters_zh": "加强对两用化学品的出口管制，与国际防扩散规范接轨。",
+          "english_title": "Five departments adjust export control catalog for precursor chemicals to certain countries",
+          "why_it_matters": "Strengthens control over dual-use chemicals; aligns with broader export control regime and nonproliferation commitments.",
+          "why_it_matters_zh": "加强两用化学品管控，与整体出口管制制度及防扩散承诺一致。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "regulatory",
@@ -240,9 +186,9 @@
         },
         {
           "primary_title": "国务院台办新闻发布会辑录（2026-06-10）",
-          "english_title": "Transcript of State Council Taiwan Affairs Office press conference (June 10)",
-          "why_it_matters": "Reiteration of One-China principle and opposition to any form of Taiwan independence, standard messaging.",
-          "why_it_matters_zh": "重申一个中国原则，反对任何形式“台独”，标准口径。",
+          "english_title": "State Council Taiwan Affairs Office press conference, June 10",
+          "why_it_matters": "Key barometer of cross-strait tensions; look for warnings or new measures regarding Taiwan independence activities.",
+          "why_it_matters_zh": "两岸关系紧张程度的关键指标；关注反对'台独'活动的新警告或措施。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "geopolitics",
@@ -255,9 +201,9 @@
         },
         {
           "primary_title": "China's green power met all growth in electricity demand in 2025",
-          "english_title": "China's green power met all growth in electricity demand in 2025",
-          "why_it_matters": "Highlights progress in energy transition, though absolute fossil fuel consumption remains high.",
-          "why_it_matters_zh": "突出能源转型进展，但化石燃料绝对消费量仍高。",
+          "english_title": "Green power met all electricity demand growth in 2025",
+          "why_it_matters": "If accurate, a landmark achievement for energy transition; but verify with non-state data as CGTN is state media.",
+          "why_it_matters_zh": "若属实，是能源转型里程碑；但需以非官方数据交叉验证，因CGTN属国家媒体。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "economy",
@@ -271,9 +217,9 @@
         },
         {
           "primary_title": "中国证监会新闻发言人就《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》答记者问",
-          "english_title": "CSRC spokesperson answers questions on guiding opinions for private investment funds",
-          "why_it_matters": "Regulatory tightening aims to curb risks in the private equity sector while encouraging quality funds.",
-          "why_it_matters_zh": "监管收紧旨在遏制私募领域风险，同时鼓励优质基金。",
+          "english_title": "CSRC spokesperson explains new rules for private investment funds",
+          "why_it_matters": "Part of continued crackdown on financial risks; aims to curb shadow banking and leverage in private funds.",
+          "why_it_matters_zh": "持续防范金融风险，旨在遏制私募基金领域的影子银行和杠杆。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "regulatory",
@@ -286,9 +232,9 @@
         },
         {
           "primary_title": "模型狂欢之后，AI创业者该去哪里找答案？36Kr·硬氪WAIC特别策划来了-36氪",
-          "english_title": "After model frenzy, where should AI entrepreneurs find answers? 36Kr WAIC special",
-          "why_it_matters": "Reflects the AI industry's pivot from model development to application, and search for sustainable business models.",
-          "why_it_matters_zh": "反映AI行业从模型开发转向应用，寻找可持续商业模式。",
+          "english_title": "36Kr: After the AI model frenzy, entrepreneurs seek answers at WAIC",
+          "why_it_matters": "Reflects a maturing AI ecosystem moving from pretraining to application; WAIC as a barometer for industry sentiment.",
+          "why_it_matters_zh": "反映AI生态从模型预训练转向应用落地；WAIC可作为行业情绪风向标。",
           "pull_quote": "",
           "pull_quote_zh": "",
           "pillar": "tech",
