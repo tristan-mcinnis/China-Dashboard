@@ -1,6 +1,6 @@
 {
   "description": "Point-in-time snapshots of the daily digest. Each URL is a stable permalink — snapshots are never rewritten after their slot passes.",
-  "generated_at": "2026-06-14T06:26:24+08:00",
+  "generated_at": "2026-06-14T11:49:35+08:00",
   "url_template": "https://china-dashboard.vercel.app/data/digest_archive/<YYYY-MM-DD>/<slot>.json",
   "slots": [
     "morning",
@@ -9,13 +9,19 @@
   ],
   "earliest_date": "2026-05-30",
   "latest_date": "2026-06-14",
-  "count": 46,
+  "count": 47,
   "snapshots": [
     {
       "date": "2026-06-14",
       "slot": "morning",
       "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-14/morning.json",
       "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-14/morning.json"
+    },
+    {
+      "date": "2026-06-14",
+      "slot": "midday",
+      "url": "https://china-dashboard.vercel.app/data/digest_archive/2026-06-14/midday.json",
+      "mirror_url": "https://raw.githubusercontent.com/tristan-mcinnis/china-dashboard/main/docs/data/digest_archive/2026-06-14/midday.json"
     },
     {
       "date": "2026-06-13",
